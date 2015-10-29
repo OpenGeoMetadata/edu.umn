@@ -1,3 +1,3 @@
 # University of Minnesota
 
-We haz metadatas
+We haz metadatas for you.
