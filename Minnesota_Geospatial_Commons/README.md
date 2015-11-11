@@ -12,7 +12,7 @@ At the collection level, there need to be four folders, one for each of the stag
 This stage covers the initial capture of collection metadata files, in whatever metadata standard/format they currently exist in. These "raw" records should be placed into the `stage1`, likely as XML files.
 
 ## Stage 2
-At this stage, UMN will transform the input files from Stage 1 using semi-automated methods (XSLTs and other scripting). The transformed outputs will be placed in the `stage2` folder.
+At this stage, UMN will transform the input files from Stage 1 using semi-automated methods (XSLTs and other scripting). The transformed outputs will be placed in the `stage2` folder, as ISO 19139 (ArcGIS?) formatted XMLs.
 
 ## Stage 3
 Your institution will take the outputs from `stage2` and manually finish the creation of the metadata records. If using the ArcGIS Online metadata editing workflow we went over at the Summit, the files placed here will be those downloaded when you clicked `Save Local Copy` in the metadata editor. These will be in the Esri metadata format, but if you prefer another workflow/toolset, that's fine as long as you end up with a "complete" XML record saved in the `stage3` folder.
