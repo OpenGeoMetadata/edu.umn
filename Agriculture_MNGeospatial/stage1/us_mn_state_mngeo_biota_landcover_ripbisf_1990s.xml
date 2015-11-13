@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>Minnesota Department of Natural Resources (DNR)</origin>
+<pubdate>1999</pubdate>
+<title>Land Use:  Camp Ripley and Beltrami Island State Forest, Minnesota</title>
+<mgmg1cid/>
+<pubinfo>
+<publish>Minnesota Geospatial Information Office (MnGeo)</publish>
+</pubinfo>
+<onlink>https://gisdata.mn.gov/dataset/biota-landcover-ripbisf-1990s</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>This data set covers two areas of Minnesota that had not been included in other recent land use inventories.  Camp Ripley is a military reservation in northern Morrison County in the central part of the state, and Beltrami Island State Forest is in southeastern Roseau County in the northwestern part of the state.  Classification was done using multi-temporal interpretation of Landsat TM imagery from 1992-3 and 1996.  The classification scheme matches that used for the Landsat_Based Land Cover Inventory produced in 1996 for the forested areas of the state.</abstract>
+<purpose>This data set was created in order to complete a statewide view of Minnesota land use in the early-mid 1990's.  It can be used for any general analysis that can be supported by the 30 meter by 30 meter cell size resolution of the original data collection.</purpose>
+<supplinf>Camp Ripley (Morrison Co.) and Beltrami Island State Forest (Roseau Co.).</supplinf>
+</descript>
+<timeperd>
+<current>The following image dates and bands of Landsat TM imagery were used for the Camp Ripley portion:8/23/96  - 6 bands4/25/93  - bands 3, 4, 510/2/93  - bands 3, 4, 5The following image dates and bands of Landsat TM imagery were used for the Beltrami Island State Forest portion:8/30/96 - 6 bands5/15/92 - bands 3, 4, 59/4/92  - bands 3, 4, 5</current>
+<timeinfo>
+<sngdate>
+<caldate>1996</caldate>
+</sngdate>
+</timeinfo>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>None Planned</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-95.57</westbc>
+<eastbc>-94.33</eastbc>
+<northbc>48.80</northbc>
+<southbc>46.07</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>biota, imageryBaseMapsEarthCover, Land Cover, Land Use, Vegetation Cover</themekey>
+</theme>
+<place>
+<placekey>Minnesota, MN, Camp Ripley, Morrison County, Beltrami Island State Forest, Roseau County,</placekey>
+</place>
+</keywords>
+<accconst>None</accconst>
+<useconst>See Disclaimer field for complete use conditions.</useconst>
+<native>ERDAS</native>
+<crossref>
+<citeinfo>
+<title>For more information about land use/land cover data for Minnesota, see http://www.mngeo.state.mn.us/chouse/land_use.html .</title>
+</citeinfo>
+</crossref>
+<ptcontac>
+<cntinfo>
+<cntperp>
+<cntorg>Minnesota Department of Natural Resources</cntorg>
+<cntper>Hal Watson</cntper>
+</cntperp>
+<cntpos>GIS Section Manager</cntpos>
+<cntaddr>
+<addrtype>Mailing</addrtype>
+<address>500 Lafayette Rd</address>
+<city>St. Paul</city>
+<state>MN</state>
+<postal>55155-4025</postal>
+</cntaddr>
+<cntvoice>651-259-5508</cntvoice>
+<cntemail>hal.watson@state.mn.us</cntemail>
+</cntinfo>
+</ptcontac>
+</idinfo>
+<dataqual>
+<attracc>
+<attraccr>Unknown.  No formal statistical tests have been performed.Note on Category 14 'Young Forest / Regeneration':  Several Minnesota Department of Natural Resources staff spot field checked the category of 'young forest/regeneration' against their forest inventory data for some areas covered by the Landsat_Based Land Use/Land Cover Geodatabase (1996), covering the forested areas of the state, (from which this land use category was taken).  Their suggested rewording for the definition of this class is under review:'This class is made up of areas that have a good likelihood of being young forest which were replanted or naturally regenerated since 1970.  It includes lands that were commercially logged or affected by catastrophic events, primarily fire and wind damage. Caution:   Two significant sources of classification confusion exist that result in older forest being classed as young.   (1) One source of confusion results because stands having very good conditions for regrowth (measured by site index) mature faster than stands with poor regrowth conditions.  The result is older stands with a low site index look very much like younger stands having a higher site index.   (2) A second source of confusion is caused by some misclassified mature hardwoods that are found in this category, possibly misclassified because the crown cover is similar to the dense cover such as that which exists in a regenerating aspen stand.'</attraccr>
+</attracc>
+<posacc>
+<horizpa>
+<horizpar>Unknown. The 30 meter source imagery sampling size automatically introduces a potential offset of this amount. Georegistration processes would likely introduce an additional 30-60 meters offset. Individual area feature boundaries may exhibit additional offsets of up to 1/2 pixel (15 meters) based on theoretical limitations in image sampling devices. Additional offsets may be present due to a lack of boundary clarity between some classes, edge pixel effects, and image post-processing (smoothing) effects.</horizpar>
+</horizpa>
+<vertacc>
+<vertaccr>Not applicable.</vertaccr>
+</vertacc>
+</posacc>
+<lineage>
+<srcinfo>
+<srcscale/>
+</srcinfo>
+<procstep>
+<procdesc>Data Sources:Twelve bands of TM imagery were used for each of the two areas of the data set:Camp Ripley portion:   8/23/96  - 6 bands   4/25/93  - bands 3, 4, 5   10/2/93  - bands 3, 4, 5Beltrami Island State Forest portion:   8/30/96 - 6 bands   5/15/92 - bands 3, 4, 5   9/4/92  - bands 3, 4, 5Processing Steps:The Minnesota Department of Natural Resources Resource Assessment and Inventory Unit (part of the Forest Resource Management Section, part of the Division of Forestry) used ERDAS image processing software to do the processing.The classification scheme for both areas was based on guided clustering, which is a mix of supervised and unsupervised techniques. It is a multi-temporal classification technique that mixes bands of differing dates during the initial statistical signature analysis.  It essentially starts with DNR Cooperative Stand Assessment (CSA) inventory cover type polygons that have been reclassified from CSA cover types to classes that were used in the Minnesota Land Use:  Forested Areas data set. Then the pixels for those CSA stands were classified with unsupervised techniques and the resulting signatures were analyzed to develop class signatures that were then used to classify the image.The files were converted to ARC/INFO GRID format and then to ARC/INFO coverage format by DNR's Management Information Services Bureau.The files were later converted to Esri shapefile and file geodatabase formats.</procdesc>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<indspref>None</indspref>
+<direct>Raster</direct>
+<mgmg3obj>Cell</mgmg3obj>
+<mgmg3til>None</mgmg3til>
+</spdoinfo>
+<spref>
+<vertdef>
+<altsys>
+<altdatum>not applicable</altdatum>
+</altsys>
+<depthsys>
+<depthdn>not applicable</depthdn>
+</depthsys>
+</vertdef>
+<horizsys>
+<planar>
+<gridsys>
+<gridsysn>Universal Transverse Mercator</gridsysn>
+<utm>
+<utmzone>15</utmzone>
+</utm>
+</gridsys>
+<planci>
+<plandu>meters</plandu>
+<coordrep>
+<absres>30</absres>
+<ordres>30</ordres>
+</coordrep>
+</planci>
+</planar>
+<geodetic>
+<horizdn>NAD83</horizdn>
+<ellips>GRS80</ellips>
+</geodetic>
+</horizsys>
+</spref>
+<eainfo>
+<overview>
+<eaover>1 - Cultivated LandIncludes those areas under intensive cropping or rotation, including fallow fields. Fields seeded to forage or cover crops are included. The fields exhibit linear or other patterns associated with current or recent tillage.2 - Deciduous ForestIncludes areas with at least two-thirds or more of the total canopy cover composed of predominantly woody deciduous species. It may contain coniferous species but is dominated by deciduous species. It includes woodlots, shelter belts, and plantations.3 - WaterIncludes permanent water bodies such as lakes, rivers, reservoirs, stock ponds, ditches, and permanent and intermittently exposed palustrine open water areas where photo evidence indicates that the area is covered by water the majority of the time.4 - GrasslandIncludes areas covered by grasslands and herbaceous plants. May contain up to one third shrubs and/or tree cover. Areas may be small to extensive and range from regular to irregular in shape. These areas are often found between agricultural land and more heavily wooded areas, along right-of-ways and drains. Some areas may be used as pastures and be mowed or grazed, and may range in appearance from very smooth to quite mottled. Included are fields which show evidence of past tillage but now appear to be abandoned and grown to native vegetation or planted to a cover crop.5 - Mixed ForestAreas of forest where the canopy is composed of approximately equal amounts of deciduous and coniferous species.6 - Wetlands: Marsh and FensGrassy, wet areas with standing or slowly moving water. Vegetation consists of grass and sedge sods, and common hydrophytic vegetation such as cattail and rushes. Areas are often interspersed with channels or pools of open water.7 - Wetlands: BogsPeat covered or peat filled depressions with a high water table. The bogs are covered with a carpet of sphagnum and ericaceous shrubs and may be treeless or tree covered with black spruce and/or tamarack.8 - Farmsteads and Rural ResidencesFarmsteads include farmhouse and adjoining farmyard area. Includes machinery storage buildings, grain storage buildings, corrals, livestock holding and feeding areas directly associated with farmyard area.9 - Coniferous ForestIncludes areas with at least two thirds or more of the total canopy composed of predominantly woody coniferous species. It may contain deciduous species but is dominated by coniferous species. It includes woodlots, shelter belts, and plantations.10 - Other Rural DevelopmentsIncludes commercial and industrial, cultural and recreational, and agricultural developments not associated with urban areas.Commercial/industrial developments include substations, communications facilities, power plants, private airstrips, landfills, storage maintenance yards, businesses, factories, lumber mills, commercial livestock/poultry/grain operations.Cultural/recreational developments include built-up facilities and service areas associated with parks, rest areas, campgrounds, and golf courses. Includes churches, cemeteries, community halls, and rural schools.Agricultural developments include agricultural facilities not directly associated with farmsteads. Includes machine and grain storage areas, barns and corrals, and isolated buildings and farmsteads that no longer have apparent road access.11 - Shrubby GrasslandThis class includes a combination of grass, shrubs, and trees in which deciduous and/or coniferous treed cover comprises from one third to two thirds of the area, and/or the shrub cover comprises more than one third of the area. This complex is often found adjacent to grassland or forested areas, but may be found alone. These areas are often irregular in shape and vary greatly in size.12 - Gravel Pits and Open MinesAreas are stripped of top soil revealing exposed substrate such as sand/gravel. Included are gravel quarry operations, mine tailings, burrow pits, and rock quarries. Natural beaches/sand dunes are included.13 - Urban/IndustrialCities, towns, villages with place names. Also includes commercial, industrial or urban developments included within or directly associated with an urban area such as manufacturing or processing plants, power plants, airports, and waste treatment plants.Rural residences and rural residential complexes include all other non-urban residences including associated structures such as garages, sheds, and associated landscaped area. This category includes residences in close proximity with no distinguishable, intervening, non-residential features.14 - Regeneration/Young ForestAreas where commercial timber has been completely or partially removed by logging; management activities whose goal is to enhance timber productivity and/or wildlife habitat and to provide age class and species diversity; and catastrophic events, primarily fire and wind damage. These activities have taken place in the last 15 years. Almost all of these areas have been replanted or naturally regenerated into young trees.NOTE:  see Attribute Accuracy element for additional discussion of this definition.15 - Bare RockIncludes areas of rock outcrops that lack appreciable soil development or vegetation cover.</eaover>
+<eadetcit>None</eadetcit>
+</overview>
+</eainfo>
+<distinfo>
+<resdesc>biota_landcover_ripbisf_1990s</resdesc>
+<distliab>The Minnesota Department of Natural Resources General Geographic Data License Agreement is online: http://www.dnr.state.mn.us/sitetools/data_software_license.html MnGeo's data disclaimer is online: http://www.mngeo.state.mn.us/chouse/disclaimer.html</distliab>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>ARC/INFO export (coverage)</formname>
+<formvern/>
+<transize>3.6 megabytes</transize>
+</digtinfo>
+</digform>
+<ordering>This dataset is distributed via the Minnesota Geospatial Commons and is accessible via the Online Linkage below. </ordering>
+</stdorder>
+<distrib>
+<cntinfo>
+<cntperp>
+<cntorg>Minnesota Geospatial Information Office (MnGeo)</cntorg>
+<cntper>Nancy Rader</cntper>
+</cntperp>
+<cntpos>GIS Data Coordinator</cntpos>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>658 Cedar Street</address>
+<city>St. Paul</city>
+<state>MN</state>
+<postal>55155</postal>
+</cntaddr>
+<cntvoice>651-201-2489</cntvoice>
+<cntemail>gisinfo.mngeo@state.mn.us</cntemail>
+</cntinfo>
+</distrib>
+</distinfo>
+<metainfo>
+<metd>20150323</metd>
+<metstdn>Minnesota Geographic Metadata Guidelines</metstdn>
+<metstdv>1.2</metstdv>
+<metextns>
+<onlink>http://www.mngeo.state.mn.us/committee/standards/mgmg/metadata.htm</onlink>
+</metextns>
+<metc>
+<cntinfo>
+<cntperp>
+<cntorg>Minnesota Geospatial Information Office (MnGeo)</cntorg>
+<cntper>Nancy Rader</cntper>
+</cntperp>
+<cntpos>GIS Data Coordinator</cntpos>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>658 Cedar Street</address>
+<city>St. Paul</city>
+<state>MN</state>
+<postal>55155</postal>
+</cntaddr>
+<cntvoice>651-201-2489</cntvoice>
+<cntemail>gisinfo.mngeo@state.mn.us</cntemail>
+</cntinfo>
+</metc>
+</metainfo>
+</metadata>

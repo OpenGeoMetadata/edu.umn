@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>Minnesota Department of Natural Resources (DNR)</origin>
+<pubdate>1994-06-01 00:00:00.0</pubdate>
+<title>Presettlement Vegetation</title>
+<mgmg1cid/>
+<pubinfo>
+<publish>Minnesota DNR - Division of Forestry</publish>
+</pubinfo>
+<onlink>http://gisdata.mn.gov/dataset/biota-marschner-presettle-veg</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>Presettlement vegetation of Minnesota based on Marschner's original analysis of Public Land Survey notes and landscape patterns.  Marschner compiled his results in map format, which was subsequently captured in digital format.</abstract>
+<purpose>To analyze presettlement vegetation patterns for the purpose of determining natural community potential, productivity indexes, and patterns of natural disturbance</purpose>
+<supplinf>Statewide</supplinf>
+</descript>
+<timeperd>
+<timeinfo>
+<sngdate>
+<caldate>1895</caldate>
+</sngdate>
+</timeinfo>
+<current>Data were captured from the recompiled version of the Marschner Map, date unknown</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>None Planned</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-96.824542</westbc>
+<eastbc>-89.390449</eastbc>
+<northbc>49.346614</northbc>
+<southbc>43.437348</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekey>Presettlement Vegetation, Original Vegetation, Land Cover, biota</themekey>
+</theme>
+<place>
+<placekey>Minnesota</placekey>
+</place>
+</keywords>
+<accconst>Data are unrestricted with regards to access</accconst>
+<useconst>Use of the data are contrained only by the DNR GIS Data License Agreement</useconst>
+<browse>
+<browsen>ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_marschner_presettle_veg/metadata/preview.jpg</browsen>
+<browsed>Presettlement Vegetation near Virginia, MN shown with County Highway Map overlay.</browsed>
+</browse>
+<native>Arc/Info 8.0.1</native>
+<ptcontac>
+<cntinfo>
+<cntperp>
+<cntorg>Minnesota Department of Natural Resources</cntorg>
+<cntper>Zeb Thomas</cntper>
+</cntperp>
+<cntpos>GIS Data Systems Coordinator</cntpos>
+<cntaddr>
+<address>500 Lafayette Rd</address>
+<city>Saint Paul</city>
+<state>MN</state>
+<postal>55155</postal>
+</cntaddr>
+<cntvoice>651-259-5637</cntvoice>
+<cntemail>zeb.thomas@state.mn.us</cntemail>
+</cntinfo>
+</ptcontac>
+</idinfo>
+<dataqual>
+<attracc>
+<attraccr>Source table PVEG_MRSCHPY1.DBF:  Existing polygons reflect Marschner's original interpretations, which were based on incomplete information.  This data cannot be considered accurate or definitive.</attraccr>
+</attracc>
+<logic>Data are topolocially correct using ARC/INFO 8.0.1.  All polygons are closed and lines intersect where intended.</logic>
+<complete>These data have significant omissions when compared to Marschner's original map.  Several thousand small polygons are thought to have been omitted, principally in the prairie and transitional forest areas of the state.</complete>
+<posacc>
+<horizpa>
+<horizpar>Source layer prvegpy1:  Qualitative positional accuracy comparisons between water bodies in this data and the same features in larger scale sources suggests a range of positional offsets in the range of 500-700 feet as common, with the direction of the offset being variable.  This is an expected deviation considering the 1:1M digitizing scale.</horizpar>
+</horizpa>
+<vertacc>
+<vertaccr>Source layer prvegpy1:  Not applicable</vertaccr>
+</vertacc>
+</posacc>
+<lineage>
+<srcinfo>
+<srcscale>Source layer prvegpy1:  100000</srcscale>
+</srcinfo>
+<procstep>
+<procdesc>Attribute Lineage for source table PVEG_MRSCHPY1.DBF:  Unknown</procdesc>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<indspref>None</indspref>
+<direct>vector</direct>
+<mgmg3obj>polygon</mgmg3obj>
+<mgmg3til>state</mgmg3til>
+</spdoinfo>
+<spref>
+<vertdef>
+<altsys>
+<altdatum>Not Applicable</altdatum>
+<altunits>Not Applicable</altunits>
+</altsys>
+<depthsys>
+<depthdn>Not Applicable</depthdn>
+<depthdu>Not Applicable</depthdu>
+</depthsys>
+</vertdef>
+<horizsys>
+<planar>
+<gridsys>
+<gridsysn>Universal Transverse Mercator</gridsysn>
+<utm>
+<utmzone>15</utmzone>
+</utm>
+</gridsys>
+<planci>
+<plandu>meters</plandu>
+</planci>
+</planar>
+<geodetic>
+<horizdn>NAD83</horizdn>
+<ellips>GRS80</ellips>
+</geodetic>
+</horizsys>
+</spref>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>marschner_presettlement_vegetation</enttypl>
+<enttypd>Feature Class Attribute Table</enttypd>
+<enttypds>Esri, Inc.</enttypds>
+</enttyp>
+<attr>
+<attrlabl>CLASS</attrlabl>
+<attrdef>Vegetation Class</attrdef>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Undefined</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Prairie</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>10</edomv>
+<edomvd>White Pine</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>11</edomv>
+<edomvd>Mixed White Pine and Red Pine</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>12</edomv>
+<edomvd>Jack Pine Barrens and Openings</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>13</edomv>
+<edomvd>Pine Flats (Hemlock, Spruce, Fir, White Pine, Aspen)</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>14</edomv>
+<edomvd>Aspen-Birch (trending to Conifers)</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>15</edomv>
+<edomvd>Conifer Bogs and Swamps</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>16</edomv>
+<edomvd>Open Muskeg</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>17</edomv>
+<edomvd>Lakes (open water)</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Wet Prairie</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Brush Prairie</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>Aspen-Oak Land</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>5</edomv>
+<edomvd>Oak openings and barrens</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>6</edomv>
+<edomvd>Big Woods - Hardwoods (oak, maple, basswood, hickory)</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>7</edomv>
+<edomvd>River Bottom Forest</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>8</edomv>
+<edomvd>Aspen-Birch (trending to hardwoods)</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>9</edomv>
+<edomvd>Mixed Hardwood and Pine (Maple, White Pine, Basswood, etc)</edomvd>
+</edom>
+</attrdomv>
+</attr>
+</detailed>
+</eainfo>
+<distinfo>
+<resdesc>biota_marschner_presettle_veg</resdesc>
+<distliab>The Minnesota Department of Natural Resources General Geographic Data License Agreement is online: http://www.dnr.state.mn.us/sitetools/data_software_license.html</distliab>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>Shapefile</formname>
+<formvern>Not Applicable</formvern>
+<transize>19</transize>
+</digtinfo>
+</digform>
+<ordering>Please visit the download page for this dataset on the Minnesota Geospatial Commons website using the web link below (Online Linkage).</ordering>
+</stdorder>
+<distrib>
+<cntinfo>
+<cntperp>
+<cntorg>Minnesota Department of Natural Resources</cntorg>
+<cntper>Zeb Thomas</cntper>
+</cntperp>
+<cntpos>GIS Data Systems Coordinator</cntpos>
+<cntaddr>
+<address>500 Lafayette Rd</address>
+<city>Saint Paul</city>
+<state>MN</state>
+<postal>55155</postal>
+</cntaddr>
+<cntvoice>651-259-5637</cntvoice>
+<cntemail>zeb.thomas@state.mn.us</cntemail>
+</cntinfo>
+</distrib>
+</distinfo>
+<metainfo>
+<metd>20141008</metd>
+<metstdn>Minnesota Geographic Metadata Guidelines</metstdn>
+<metstdv>1.2</metstdv>
+<metextns>
+<onlink>http://www.mngeo.state.mn.us/committee/standards/mgmg/metadata.htm</onlink>
+</metextns>
+<metc>
+<cntinfo>
+<cntperp>
+<cntorg>Minnesota Department of Natural Resources</cntorg>
+<cntper>Zeb Thomas</cntper>
+</cntperp>
+<cntpos>GIS Data Systems Coordinator</cntpos>
+<cntaddr>
+<address>500 Lafayette Rd</address>
+<city>Saint Paul</city>
+<state>MN</state>
+<postal>55155</postal>
+</cntaddr>
+<cntvoice>651-259-5637</cntvoice>
+<cntemail>zeb.thomas@state.mn.us</cntemail>
+</cntinfo>
+</metc>
+</metainfo>
+</metadata>
