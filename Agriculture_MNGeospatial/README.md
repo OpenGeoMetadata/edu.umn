@@ -1,12 +1,12 @@
 |    Collection Details          |                                          |
 |--------------------------------|------------------------------------------| 
-| Name                           | Agriculture: Minnesota Geospatial Commons             |
+| Name                           | Agriculture & Farming: Minnesota Geospatial Commons             |
 | Point of Contact               | Karen Majewicz                              |
 | Base URL                       | http://gisdata.mn.gov                    |
 | \# of records total (estimate) | 12                               |
 | Stage 1 metadata standard      | Minnesota Geographic Metadata Guidelines |
 
-At the collection level, there need to be four folders, one for each of the stages of our workflow.
+Downloaded from http://54.173.174.15:8080/opengeoportal/
 
 ## Stage 1
 This stage covers the initial capture of collection metadata files, in whatever metadata standard/format they currently exist in. These "raw" records should be placed into the `stage1`, likely as XML files.
