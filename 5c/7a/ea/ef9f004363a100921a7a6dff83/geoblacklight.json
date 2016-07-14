@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:44Z", 
+"solr_geom": "ENVELOPE(-93.554915, -93.08481, 44.988425, 44.690287)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/com-mvta-trans-transit-schedule-google-fd\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-5c7aeaef-9f00-4363-a100-921a7a6dff83", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"transportation"
+], 
+"dc_format_s": "", 
+"dc_description_s": "The Minnesota Valley Transit Authority (MVTA) schedule data includes bus schedules for the seven suburbs located approximately 15 miles south of Minneapolis and St. Paul: Apple Valley, Burnsville, Eagan, and Rosemount in Dakota County, Savage, Prior Lake and Shakopee in Scott County. The data is provided as comma-delimited text files that use the General Transit Feed Specification found at https://developers.google.com/transit/gtfs/reference?csw=1 This data resource on the Geospatial Commons links to an external resource. To see regular updates, please browse to http://wiki.mvta.com/", 
+"dct_issued_s": "2015-12-11T06:00:00.000Z", 
+"dc_creator_sm": [
+"Minnesota Valley Transit Authority"
+], 
+"dc_identifier_s": "urn-5c7aeaef-9f00-4363-a100-921a7a6dff83", 
+"dc_relation_sm": [
+"bus routes, bus segments, bus service, bus shelters, park and rides, bus                    stops"
+], 
+"georss_polygon_s": "44.690287 -93.554915 44.988425 -93.554915 44.988425 -93.08481 44.690287 -93.08481 44.690287 -93.554915", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Minnesota Valley Transit Authority"
+], 
+"layer_id_s": "urn:urn-5c7aeaef-9f00-4363-a100-921a7a6dff83", 
+"georss_box_s": "44.690287 -93.554915 44.988425 -93.08481", 
+"dc_title_s": "General Transit Feed Specification (GTFS), Minnesota Valley Transit Authority: Current", 
+"layer_slug_s": "Minnesota-urn-5c7aeaef-9f00-4363-a100-921a7a6dff83"
+}

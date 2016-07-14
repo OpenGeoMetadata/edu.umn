@@ -1,0 +1,31 @@
+{
+"uuid": "urn-222aed75-dbeb-472c-b4fd-b05d130060c8", 
+"layer_geom_type_s": "Mixed", 
+"dc_publisher_sm": [
+"U.S. Department of Agriculture"
+], 
+"layer_modified_dt": "2016-05-16T00:59:26Z", 
+"dc_creator_sm": [
+"U.S. Department of Agriculture (USDA), Natural Resources Conservation Service (NRCS) - National Geospatial Center of Excellence"
+], 
+"layer_id_s": "urn:urn-222aed75-dbeb-472c-b4fd-b05d130060c8", 
+"georss_polygon_s": "43 -97.5 49.5 -97.5 49.5 -89 43 -89 43 -97.5", 
+"georss_box_s": "43 -97.5 49.5 -89", 
+"dc_identifier_s": "urn-222aed75-dbeb-472c-b4fd-b05d130060c8", 
+"dct_provenance_s": "Minnesota", 
+"dc_title_s": "Soil Survey Geographic Data Base (SSURGO), Minnesota", 
+"layer_slug_s": "Minnesota-urn-222aed75-dbeb-472c-b4fd-b05d130060c8", 
+"dc_format_s": "GeoTIFF", 
+"dc_description_s": "This dataset is a digital soil survey and generally is the most detailed level of soil geographic data developed by the National Cooperative Soil Survey. The information was prepared by digitizing maps, by compiling information onto a planimetric correct base and digitizing, or by revising digitized maps using remotely sensed and other information. This dataset consists of georeferenced digital map data and computerized attribute data. The map data are in a soil survey area extent format and include a detailed, field verified inventory of soils and miscellaneous areas that normally occur in a repeatable pattern on the landscape and that can be cartographically shown at the scale mapped. A special soil features layer (point and line features) is optional. This layer displays the location of features too small to delineate at the mapping scale, but they are large enough and contrasting enough to significantly influence use and management. The soil map units are linked to attributes in the National Soil Information System relational database, which gives the proportionate extent of the component soils and their properties. Note: This metadata record was created by MnGeo to serve as a generic record for all SSURGO data sets within Minnesota. See the individual county metadata records created by NRCS for county-specific information; these records are included in the data set download files.", 
+"dct_references_s": "{\"http://schema.org/url\":\"http://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/survey/geo/?cid=nrcs142p2_053627\"}", 
+"dc_subject_sm": [
+"geoscientificInformation"
+], 
+"dc_relation_sm": [
+"For information on other soils data available for Minnesota, see: http://www.mngeo.state.mn.us/chouse/soil.html"
+], 
+"solr_year_i": 2015, 
+"solr_geom": "ENVELOPE(-97.5, -89, 49.5, 43)", 
+"dc_rights_s": "Public", 
+"dct_issued_s": "2015-02-11T06:00:00.000Z"
+}

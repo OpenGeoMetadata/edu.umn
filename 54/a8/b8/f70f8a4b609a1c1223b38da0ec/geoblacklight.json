@@ -1,0 +1,37 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:16Z", 
+"solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-mbs-lakes-and-aquatic-plants\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_mbs_lakes_and_aquatic_plants/shp_env_mbs_lakes_and_aquatic_plants.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-54a8b8f7-0f8a-4b60-9a1c-1223b38da0ec", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"environment", 
+"aquatic plant", 
+"rare species"
+], 
+"dct_temporal_sm": "2016", 
+"dc_description_s": "This data set is a GIS point feature class derived from the Minnesota Biological Survey Lakes Database. Each point in this layer is located within a lake in which a search for rare aquatic plant species was conducted by the Minnesota Biological Survey. In the course of these surveys, every aquatic and emergent plant species observed in the lake was recorded, as well as a limited number of shoreline species. Each plant species is listed by common and scientific name. Rare, exotic and collected species are noted in the attribute table including annotations of collections of these species by authorities. The area surveyed, the location of the lake and a brief description of the lake are also included in the attribute table. The point listed for the lake is near the point of access and not necessarily an indicator of the precise location of any rare aquatic species present in the lake. When a rare species is indicated, it has been observed to occur within the lake and documented with a herbarium collection which has been submitted to the University of Minnesota Herbarium.", 
+"dct_issued_s": "2014-03-28", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (DNR)"
+], 
+"dc_identifier_s": "urn-54a8b8f7-0f8a-4b60-9a1c-1223b38da0ec", 
+"dc_relation_sm": [
+""
+], 
+"georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
+"solr_year_i": 2014, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-54a8b8f7-0f8a-4b60-9a1c-1223b38da0ec", 
+"georss_box_s": "43.5 -97.23 49.37 -89.53", 
+"dc_title_s": "Biological Survey Lakes and Aquatic Plant Data: Minnesota, 2014", 
+"layer_slug_s": "Minnesota-urn-54a8b8f7-0f8a-4b60-9a1c-1223b38da0ec"
+}

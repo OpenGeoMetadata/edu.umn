@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:51Z", 
+"solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-water-levl-supply-info-community\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/water_levl_supply_info_community/shp_water_levl_supply_info_community.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-71be4ea9-9046-4dc3-81f5-78d7d315cd00", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"inlandWaters", 
+"groundwater", 
+"water supply", 
+"water conservation"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "Shows links to public water supply web page, water quality report web page, and community water conservation webpage.", 
+"dct_issued_s": "2015-02-04", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Metropolitan Council Water Supply"
+], 
+"dc_identifier_s": "urn-71be4ea9-9046-4dc3-81f5-78d7d315cd00", 
+"georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-71be4ea9-9046-4dc3-81f5-78d7d315cd00", 
+"georss_box_s": "44.471 -94.012 45.415 -92.732", 
+"dc_title_s": "Water Supply Information by Community: Twin Cities Metro, Minnesota, 2015", 
+"layer_slug_s": "Minnesota-urn-71be4ea9-9046-4dc3-81f5-78d7d315cd00"
+}

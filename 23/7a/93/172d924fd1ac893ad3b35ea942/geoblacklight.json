@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:16Z", 
+"solr_geom": "ENVELOPE(-97.5, -89, 49.5, 43)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/plan-mngeo-trs\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mngeo/plan_mngeo_trs/shp_plan_mngeo_trs.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-237a9317-2d92-4fd1-ac89-3ad3b35ea942", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"planningCadastre"
+], 
+"dct_temporal_sm": "1976-1994", 
+"dc_description_s": "The TRS digital data set represents the Township, Range, and Section boundaries of the state. Beginning in the late 1840s, the federal government began surveying Minnesota as part of the Public Land Survey System (PLSS). The resulting network of land survey lines divided the state into townships, ranges, sections, quarter sections, quarter-quarter sections and government lots, and laid the groundwork for contemporary land ownership patterns. The township, range and section boundaries were digitized at MnGeo (formerly known as the Land Management Information Center - LMIC) from stable base mylars of the U.S. Geological Survey (USGS) 30-minute latitude by 60-minute longitude map series (1:100,000-scale). All survey lines were extended across water bodies despite the fact that U.S. Geological Survey base maps depict them only on land. This addition allows all sections and townships to be represented as closed areas (polygons) ensuring that township and range location can be determined for any point in the state. It also means that the data set is not affected if lake levels change over time.", 
+"dct_issued_s": "1999-06-15", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Geospatial Information Office (MnGeo)"
+], 
+"dc_identifier_s": "urn-237a9317-2d92-4fd1-ac89-3ad3b35ea942", 
+"dc_relation_sm": [
+"1. Section level data sets:a. Minnesota Department of Transportation (MnDOT) BaseMapThis interactive web map includes Public Land Survey (PLS) boundaries along with Transportation, Water and Imagery layers. See: http://dotapp7.dot.state.mn.us/website/mndot-basemap/viewer.htmb. SECTIC-24K:  Section Corner DatabaseSECTIC-24K is a digital file of the PLS section corners of Minnesota from the U.S. Geological Survey's 1:24,000-scale quadrangle maps. Also included are software utilities that: 1. provide user-specified section corner extraction from the SECTIC-24K database by county, quadrangle or township, 2. convert among PLSS, UTM (Universal Transverse Mercator) and latitude/longitude coordinates, and between NAD27 and NAD83 datum values, and 3. create user-defined output files in dBASE format. See: https://gisdata.mn.gov/dataset/loc-sectic24k2. Quarter-quarter section level data set:a. Control Point Generated PLSThis 1:24,000-scale quarter-quarter section and government lot data set was constructed using section corner coordinates from the Control Point Inventory as well as information from the original General Land Office surveyors' notes and plat maps. Note: the PLS lines do not cross water bodies. See https://gisdata.mn.gov/dataset/plan-mndnr-public-land-survey"
+], 
+"georss_polygon_s": "43 -97.5 49.5 -97.5 49.5 -89 43 -89 43 -97.5", 
+"solr_year_i": 1976, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Geospatial Information Office (MnGeo)"
+], 
+"layer_id_s": "urn:urn-237a9317-2d92-4fd1-ac89-3ad3b35ea942", 
+"georss_box_s": "43 -97.5 49.5 -89", 
+"dc_title_s": "Township, Range, and Section (TRS) Boundaries: Minnesota, 1999", 
+"layer_slug_s": "Minnesota-urn-237a9317-2d92-4fd1-ac89-3ad3b35ea942"
+}

@@ -1,0 +1,32 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:46Z", 
+"solr_geom": "ENVELOPE(-96, -91.2, 46.7, 43.4)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-karst-feature-inventory-pts\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/geos_karst_feature_inventory_pts/shp_geos_karst_feature_inventory_pts.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-413a8a80-192c-4041-9c3b-e6ed5c695e48", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"geoscientificInformation"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "Southeastern Minnesota is part of the Upper Mississippi Valley Karst (Hedges and Alexander, 1985) that includes southwestern Wisconsin and northeastern Iowa. Karst lands in Minnesota are developed in Paleozoic carbonate and sandstone bedrock. A significant sandstone karst has developed in Pine County (Shade and others, 2001). Most surficial karst features such as sinkholes are found only in those areas with less than fifty feet of sedimentary cover over bedrock surface (Gao and others, 2002). Since the early 1980s, the Minnesota Geological Survey and Department of Geology and Geophysics at the University of Minnesota have been mapping karst features and publishing various versions of their results in the form of 1:100,000 scale County Geologic Atlases. In the mid 1990s, the Minnesota Department of Natural Resources was assigned responsibility for the hydrogeology portions of the County Atlases and is now responsible for the karst mapping. Dalgleish and Alexander (1984), Alexander and Maki (1988), Witthuhn and Alexander (1995), Green and others (1997), Shade and others (2001), and Tipping and others (2001) published sinkhole distribution maps for Winona, Olmsted, Fillmore Counties, Leroy Township, Pine and Wabasha Counties respectively. Published atlases of Washington, Dakota, and the counties of the Twin Cites Metro area contain limited information on sinkhole occurrences. A karst feature database of Southeastern Minnesota has been developed that allows sinkhole and other karst feature distributions to be displayed and analyzed across existing county boundaries in a GIS environment. The central DBMS is a relational GIS-based system interacting with three modules: spatial operation, spatial analysis, and hydrogeological modules. Data tables are stored in a Microsoft ACCESS 2000 DBMS and linked to corresponding ArcMap shapefiles. The current Karst Feature Database of Southeastern Minnesota was put on a Citrix Window 2000 server accessible to researchers and planners through networked interfaces. The karst inventory points were point features such as sinkholes, springs, and stream sinks extracted from the karst feature database of Southeastern Minnesota. This research was supported with funding from the Minnesota Department of Health.", 
+"dct_issued_s": "2015-12-17", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"University of Minnesota, Department of Geology and Geophysics; Minnesota Department of Natural Resources (DNR), Ecological and Water Resources Division"
+], 
+"dc_identifier_s": "urn-413a8a80-192c-4041-9c3b-e6ed5c695e48", 
+"georss_polygon_s": "43.4 -96 46.7 -96 46.7 -91.2 43.4 -91.2 43.4 -96", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-413a8a80-192c-4041-9c3b-e6ed5c695e48", 
+"georss_box_s": "43.4 -96 46.7 -91.2", 
+"dc_title_s": "Karst Feature Inventory Points: Minnesota, 2015", 
+"layer_slug_s": "Minnesota-urn-413a8a80-192c-4041-9c3b-e6ed5c695e48"
+}

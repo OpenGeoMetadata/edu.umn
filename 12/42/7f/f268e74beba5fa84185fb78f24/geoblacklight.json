@@ -1,0 +1,38 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T10:00:15Z", 
+"solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-water-metro-water-use-per-cap\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/water_metro_water_use_per_cap/shp_water_metro_water_use_per_cap.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-12427ff2-68e7-4beb-a5fa-84185fb78f24", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"inlandWaters", 
+"water supply", 
+"demand"
+], 
+"dct_temporal_sm": "2004-2006", 
+"dc_description_s": "This dataset contains historic residential per capita water demand for 2004, 2005, and 2006 for each municipal water supply system in the Twin Cities metropolitan area. Data was compiled by the Metropolitan Council from Minnesota Department of Natural Resources supplemental water use information submitted annually by municipal water utilities.", 
+"dct_issued_s": "2016-04-01", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Metropolitan Council"
+], 
+"dc_identifier_s": "urn-12427ff2-68e7-4beb-a5fa-84185fb78f24", 
+"dc_relation_sm": [
+"Public Water Supply System Demand Projections; Municipal Water Supply System Status"
+], 
+"georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
+"solr_year_i": 2004, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-12427ff2-68e7-4beb-a5fa-84185fb78f24", 
+"georss_box_s": "44.471 -94.012 45.415 -92.732", 
+"dc_title_s": "Historic Residential Per Capita Demand, Twin Cities Metropolitan Area, Minnesota: Twin Cities Metro, Minnesota, 2004-2006", 
+"layer_slug_s": "Minnesota-urn-12427ff2-68e7-4beb-a5fa-84185fb78f24"
+}

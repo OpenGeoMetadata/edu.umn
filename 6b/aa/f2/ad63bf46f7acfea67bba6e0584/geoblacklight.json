@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:40Z", 
+"solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/plan-mndnr-fisheries-acquisition\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/plan_mndnr_fisheries_acquisition/shp_plan_mndnr_fisheries_acquisition.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-6baaf2ad-63bf-46f7-acfe-a67bba6e0584", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"planningCadastre"
+], 
+"dct_temporal_sm": "2016", 
+"dc_description_s": "This data layer shows lands acquired by MNDNR Fisheries through purchase, donation and easement for establishment as Aquatic Management Areas (AMAs). AMAs are established to Nprotect, develop and manage lakes, rivers, streams, and adjacent wetlands and lands that are critical for fish and other aquatic life for water quality, and for their intrinsic biological value, public fishing, or other compatible outdoor recreational uses.N (MN Statutes 86A Subd. 14) Some features in this layer are hyperlinked to the scanned county deed documents that describe the original acquisitions. Use ArcMap's Hyperlink Tool (yellow lightning bolt) to access deed documents. (To set up the hyperlink, open Layer Properties: Display tab, check the Hyperlinks box and choose the field [WEB_LINK1].) For more information about AMA's, see the following: MN Statutes 86A: http://www.revisor.mn.gov/statutes/?id=86A.05 MN Rules 6270.0200: http://www.revisor.mn.gov/rules/?id=6270.0200 MN AMA Acquisition Plan 2008-2033: http://files.dnr.state.mn.us/fish_wildlife/ama/AMA_Acquisition_Report.pdf", 
+"dct_issued_s": "2013-11-19", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (MNDNR)"
+], 
+"dc_identifier_s": "urn-6baaf2ad-63bf-46f7-acfe-a67bba6e0584", 
+"dc_relation_sm": [
+"plan-state-lands-dnr-interest, bdry-dnr-managed-areas"
+], 
+"georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
+"solr_year_i": 2013, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-6baaf2ad-63bf-46f7-acfe-a67bba6e0584", 
+"georss_box_s": "43.5 -97.23 49.37 -89.53", 
+"dc_title_s": "State Aquatic Management Area (AMA) Aquisitions: Minnesota, 2013", 
+"layer_slug_s": "Minnesota-urn-6baaf2ad-63bf-46f7-acfe-a67bba6e0584"
+}

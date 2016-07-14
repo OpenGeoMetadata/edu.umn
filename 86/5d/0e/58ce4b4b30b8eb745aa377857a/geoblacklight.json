@@ -1,0 +1,33 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:59Z", 
+"solr_geom": "ENVELOPE(-93.204928, -92.781535, 44.912482, 44.509236)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-co-dakota-bdry-county-parks\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/bdry_county_parks/shp_bdry_county_parks.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-865d0e58-ce4b-4b30-b8eb-745aa377857a", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"boundaries"
+], 
+"dct_temporal_sm": "2016", 
+"dc_description_s": "This dataset contains polygons that represent the overall park boundary and polygons that represent private properties within the park boundary. Created using parcels and road centerlines.", 
+"dct_issued_s": "2016-03-22", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Dakota County GIS, Dakota County GIS, Staff"
+], 
+"dc_identifier_s": "urn-865d0e58-ce4b-4b30-b8eb-745aa377857a", 
+"georss_polygon_s": "44.509236 -93.204928 44.912482 -93.204928 44.912482 -92.781535 44.509236 -92.781535 44.509236 -93.204928", 
+"solr_year_i": 2016, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Dakota County, Minnesota"
+], 
+"dc_publisher_sm": [
+"Dakota County, Minnesota"
+], 
+"layer_id_s": "urn:urn-865d0e58-ce4b-4b30-b8eb-745aa377857a", 
+"georss_box_s": "44.509236 -93.204928 44.912482 -92.781535", 
+"dc_title_s": "County Parks: Dakota County, Minnesota, 2016", 
+"layer_slug_s": "Minnesota-urn-865d0e58-ce4b-4b30-b8eb-745aa377857a"
+}

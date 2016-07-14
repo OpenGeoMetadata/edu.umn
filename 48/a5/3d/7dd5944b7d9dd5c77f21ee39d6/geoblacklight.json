@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T10:00:16Z", 
+"solr_geom": "ENVELOPE(-93.159909, -91.551944, 47.441972, 46.334511)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/elev-lidar-duluth2012\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-48a53d7d-d594-4b7d-9dd5-c77f21ee39d6", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"elevation"
+], 
+"dc_format_s": "", 
+"dc_description_s": "The project vendor, Woolpert, Inc., acquired highly accurate Light Detection and Ranging (LiDAR) elevation data for the Duluth area during the Fall of 2012. LiDAR data are in the UTM Zone 15 coordinate system, NAD83 96, NAVD88 Geoid09 meters tiled by USGS 1/16, 1:24,000 quadrangles. The vendor delivered the data to the Minnesota Department of Natural Resources (DNR) in several formats: 1) One-meter digital elevation model 2) Edge-of-water breaklines 3) Classified LAS formatted point cloud data DNR staff created four additional products: two-foot contours, building outlines, hillshades and a difference grid between this data and LiDAR data collected in 2011. Note: This metadata record was created at the Minnesota Geospatial Information Office by combining information supplied by Woolpert and DNR.", 
+"dct_issued_s": "2012-11-08T06:00:00.000ZZ", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (DNR)"
+], 
+"dc_identifier_s": "urn-48a53d7d-d594-4b7d-9dd5-c77f21ee39d6", 
+"dc_relation_sm": [
+"LiDAR data flown over this area in 2011 ( http://www.mngeo.state.mn.us/chouse/metadata/lidar_arrowhead2011.html ) is stored in this folder: ftp://ftp.lmic.state.mn.us/pub/data/elevation/lidar/q250k/ Check the q250k_tile_index.pdf map ( ftp://ftp.lmic.state.mn.us/pub/data/elevation/lidar/q250k/q250k_tile_index.pdf ) to find the name of the subfolder(s) covering your area of interest, then look within those for the folder named 'previous'. For more information about elevation data for Minnesota, see: http://www.mngeo.state.mn.us/chouse/elevation/index.html"
+], 
+"georss_polygon_s": "46.334511 -93.159909 47.441972 -93.159909 47.441972 -91.551944 46.334511 -91.551944 46.334511 -93.159909", 
+"solr_year_i": 2012, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Duluth, Minnesota", 
+"St. Louis County, Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Geospatial Information Office (MnGeo)"
+], 
+"layer_id_s": "urn:urn-48a53d7d-d594-4b7d-9dd5-c77f21ee39d6", 
+"georss_box_s": "46.334511 -93.159909 47.441972 -91.551944", 
+"dc_title_s": "LiDAR Elevation: Duluth, Minnesota, 2012", 
+"layer_slug_s": "Minnesota-urn-48a53d7d-d594-4b7d-9dd5-c77f21ee39d6"
+}

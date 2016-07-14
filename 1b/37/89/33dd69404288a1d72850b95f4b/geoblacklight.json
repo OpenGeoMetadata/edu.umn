@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:04Z", 
+"solr_geom": "ENVELOPE(-93.53, -93.03, 44.55, 44.19)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-geologic-atlas-rice-c09a\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-1b378933-dd69-4042-88a1-d72850b95f4b", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"geoscientificInformation"
+], 
+"dct_temporal_sm": "1995", 
+"dc_description_s": "A County Geologic Atlas is a systematic study of a county's geologic and ground water resources. Geologic studies (Part A) include both near-surface deposits and bedrock. Ground water studies (Part B) include flow systems, aquifer capacity, and ground water chemistry. In some areas sand and gravel deposits, sinkholes, or other features are studied. Interpretation of sensitivity to pollution is also part of an atlas. The information is organized, analyzed, and displayed using geographic information technology.", 
+"dct_issued_s": "1995-06-15", 
+"dc_format_s": "GeoTIFF", 
+"dc_creator_sm": [
+"Minnesota Geological Survey (MGS)"
+], 
+"dc_identifier_s": "urn-1b378933-dd69-4042-88a1-d72850b95f4b", 
+"dc_relation_sm": [
+"1. Part A Paper Report:  Geologic atlas of Rice County, Minnesota.  (Part A) H.C. Hobbs, Minnesota Geological Survey, project manager. 1995. 6 pls. Scale 1:100,000. Plates: 1, Data-base map; 2, Bedrock geology; 3, Surficial geology; 4, Quaternary stratigraphy; 5, Depth to bedrock and bedrock topography; 6, Geologic resources. $14.00. Report available from MGS Map Sales Office.2. Part B Paper Report:  Geologic atlas of Rice County, Minnesota (Part B). J. Falteisek, Minnesota Dept. of Natural Resources, Division of Waters, project supervisor. 1997. Color. Scale 1:100,000. 3 pls., 1 pl supplement. . $11.00. Report available from MGS Map Sales Office. Digital data is available.  For a listing of the status of the Department of Natural Resources (DNR) Ground Water Mapping Program, go to: http://www.dnr.state.mn.us/waters/groundwater_section/mapping/index.htmlFor a listing of all geologic maps go to the Minnesota Geological Survey website at: http://www.mngs.umn.edu/mgsdocs.htmlFor a complete listing of MGS State Map Series Maps, Reports, and GIS Data, see http://conservancy.umn.edu/handle/11299/708For other County Atlas and Regional Hydrogeologic Assessment data see: http://www.mngs.umn.edu/county_atlas/countyatlas.htm"
+], 
+"georss_polygon_s": "44.19 -93.53 44.55 -93.53 44.55 -93.03 44.19 -93.03 44.19 -93.53", 
+"solr_year_i": 1995, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Rice County, Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Geological Survey"
+], 
+"layer_id_s": "urn:urn-1b378933-dd69-4042-88a1-d72850b95f4b", 
+"georss_box_s": "44.19 -93.53 44.55 -93.03", 
+"dc_title_s": "Geologic Atlas of Rice County, Minnesota (Part A), 1995", 
+"layer_slug_s": "Minnesota-urn-1b378933-dd69-4042-88a1-d72850b95f4b"
+}

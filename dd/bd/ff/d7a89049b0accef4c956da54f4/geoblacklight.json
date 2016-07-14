@@ -1,0 +1,33 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:29Z", 
+"solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-anlys-zones-offical-curent\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_anlys_zones_offical_curent/shp_trans_anlys_zones_offical_curent.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-ddbdffd7-a890-49b0-acce-f4c956da54f4", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"transportation"
+], 
+"dct_temporal_sm": "2016", 
+"dc_description_s": "This file shows the most current Metropolitan Council Transportation Analysis Zone (TAZ) 2020-2040 forecasts for cities and townships within the 7-County Metropolitan Area. The TAZ system in this shapefile is the most recent, official TAZ system (with 3,030 zones). This shapefile title has been renamed; the previous name was Transportation Analysis Zones (TAZ) 2010 with Current Forecasts Note:forecasts for the older TAZ system with 1,568 zones are available in theTransportation Analysis Zones (Legacy TAZ System w/1,568 Zones) with Current Forecasts shapefile. IMPORTANT NOTES: These TAZ forecasts will change multiple times over the next few years. The Metropolitan Council will ask cities and townships to allocate their TAZ forecasts as part of their 2018 Comprehensive Plan Update (go to http://www.metrocouncil.org/Handbook/Plan-Elements/Transportation.aspx for more information about this process). Communities may also revise their current TAZ forecasts before the 2018 Comprehensive Plan Update. In the meantime, the Council provides these Current TAZ forecasts for transportation planning. If you are using TAZ forecasts for analysis and/or transportation planning, please download the latest version of this shapefile to ensure you are using the most up-to-date data. If you represent a community that wants to revise your TAZ forecasts, please contact your community's sector representative or Dennis Farmer (see contact information at the end of this document).", 
+"dct_issued_s": "2016-03-09T06:00:00.000Z", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Metropolitan Council"
+], 
+"dc_identifier_s": "urn-ddbdffd7-a890-49b0-acce-f4c956da54f4", 
+"georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
+"solr_year_i": 2016, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-ddbdffd7-a890-49b0-acce-f4c956da54f4", 
+"georss_box_s": "44.471 -94.012 45.415 -92.732", 
+"dc_title_s": "Transportation Analysis Zones (Official TAZ System w/3,030 Zones) with Current Forecasts: Twin Cities Metro, Minnesota, 2016", 
+"layer_slug_s": "Minnesota-urn-ddbdffd7-a890-49b0-acce-f4c956da54f4"
+}

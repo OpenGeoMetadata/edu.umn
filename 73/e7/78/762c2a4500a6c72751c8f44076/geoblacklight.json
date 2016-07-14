@@ -1,0 +1,32 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:47Z", 
+"solr_geom": "ENVELOPE(-96.786727, -92.018826, 49.035564, 43.441302)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/biota-mcbs-railroad-prairies\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_mcbs_railroad_prairies/shp_biota_mcbs_railroad_prairies.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-73e77876-2c2a-4500-a6c7-2751c8f44076", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"biota"
+], 
+"dct_temporal_sm": "1997", 
+"dc_description_s": "The 1997 legislature directed the Minnesota DNR to survey active railroad rights-of-way for native prairie remnants. This data layer represents the locations of these remnants, their quality, and type. The survey attempted to examine all railroad rights-of-way in the Prairie Parkland and Eastern Broadleaf Forest ECS Provinces, less Ramsey, Hennepin, Wright, Carver, Scott, and Houston counties, and conformed to the methods of other efforts by the Minnesota County Biological Survey (MCBS).", 
+"dct_issued_s": "1998-01-01T06:00:00.000Z", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (DNR)"
+], 
+"dc_identifier_s": "urn-73e77876-2c2a-4500-a6c7-2751c8f44076", 
+"georss_polygon_s": "43.441302 -96.786727 49.035564 -96.786727 49.035564 -92.018826 43.441302 -92.018826 43.441302 -96.786727", 
+"solr_year_i": 1998, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"The Minnesota County Biological Survey, Minnesota Department of Natural Resources, Division of Ecological Resources"
+], 
+"layer_id_s": "urn:urn-73e77876-2c2a-4500-a6c7-2751c8f44076", 
+"georss_box_s": "43.441302 -96.786727 49.035564 -92.018826", 
+"dc_title_s": "Native Prairie Remnants in Railroad Rights-of-Way: Minnesota, 1998", 
+"layer_slug_s": "Minnesota-urn-73e77876-2c2a-4500-a6c7-2751c8f44076"
+}

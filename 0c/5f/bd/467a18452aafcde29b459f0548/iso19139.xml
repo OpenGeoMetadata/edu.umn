@@ -1,0 +1,551 @@
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd">
+      <gmd:fileIdentifier>
+        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">0c5fbd46-7a18-452a-afcd-e29b459f0548</gco:CharacterString>
+      </gmd:fileIdentifier>
+      <gmd:language>
+        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">eng</gco:CharacterString>
+      </gmd:language>
+      <gmd:characterSet>
+        <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="004"/>
+      </gmd:characterSet>
+      <gmd:hierarchyLevel>
+        <gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="005"/>
+      </gmd:hierarchyLevel>
+      <gmd:contact>
+        <gmd:CI_ResponsibleParty>
+          <gmd:individualName>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Paul E. Hanson</gco:CharacterString>
+          </gmd:individualName>
+          <gmd:organisationName>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Metropolitan Council</gco:CharacterString>
+          </gmd:organisationName>
+          <gmd:positionName>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GIS Specialist</gco:CharacterString>
+          </gmd:positionName>
+          <gmd:contactInfo>
+            <gmd:CI_Contact>
+              <gmd:phone>
+                <gmd:CI_Telephone>
+                  <gmd:voice>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651.602.1642</gco:CharacterString>
+                  </gmd:voice>
+                </gmd:CI_Telephone>
+              </gmd:phone>
+              <gmd:address>
+                <gmd:CI_Address>
+                  <gmd:deliveryPoint>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">390 Robert Street North</gco:CharacterString>
+                  </gmd:deliveryPoint>
+                  <gmd:city>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
+                  </gmd:city>
+                  <gmd:administrativeArea>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
+                  </gmd:administrativeArea>
+                  <gmd:postalCode>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55101-1805</gco:CharacterString>
+                  </gmd:postalCode>
+                  <gmd:electronicMailAddress>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">paul.hanson@metc.state.mn.us</gco:CharacterString>
+                  </gmd:electronicMailAddress>
+                </gmd:CI_Address>
+              </gmd:address>
+            </gmd:CI_Contact>
+          </gmd:contactInfo>
+          <gmd:role>
+            <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="007"/>
+          </gmd:role>
+        </gmd:CI_ResponsibleParty>
+      </gmd:contact>
+      <gmd:dateStamp>
+        <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-06-29T10:00:18</gco:DateTime>
+      </gmd:dateStamp>
+      <gmd:metadataStandardName>
+        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
+      </gmd:metadataStandardName>
+      <gmd:metadataStandardVersion>
+        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2:2009(E)</gco:CharacterString>
+      </gmd:metadataStandardVersion>
+      <gmd:referenceSystemInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ngdc.noaa.gov/docucomp/65f8b220-95ed-11e0-aa80-0800200c9a66" xlink:title="North American Datum 1983"/>
+      <gmd:referenceSystemInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ngdc.noaa.gov/docucomp/c3895520-95ed-11e0-aa80-0800200c9a66" xlink:title="Geodetic Reference System 1980"/>
+      <gmd:identificationInfo>
+        <gmd:MD_DataIdentification>
+          <gmd:citation>
+            <gmd:CI_Citation>
+              <gmd:title>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Metropolitan Urban Service Areas (MUSA) Composite: Twin Cities Metro, Minnesota, 2015</gco:CharacterString>
+              </gmd:title>
+              <gmd:date>
+                <gmd:CI_Date>
+                  <gmd:date>
+                    <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2015-09-23</gco:Date>
+                  </gmd:date>
+                  <gmd:dateType>
+                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                  </gmd:dateType>
+                </gmd:CI_Date>
+              </gmd:date>
+              <gmd:identifier>
+                <gmd:MD_Identifier>
+                  <gmd:code>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">metropolitan_urban_service_areas</gco:CharacterString>
+                  </gmd:code>
+                </gmd:MD_Identifier>
+              </gmd:identifier>
+              <gmd:identifier>
+                <gmd:MD_Identifier>
+                  <gmd:code>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">urn-0c5fbd46-7a18-452a-afcd-e29b459f0548</gco:CharacterString>
+                  </gmd:code>
+                </gmd:MD_Identifier>
+              </gmd:identifier>
+              <gmd:citedResponsibleParty>
+                <gmd:CI_ResponsibleParty>
+                  <gmd:organisationName>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Metropolitan Council</gco:CharacterString>
+                  </gmd:organisationName>
+                  <gmd:role>
+                    <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="006"/>
+                  </gmd:role>
+                </gmd:CI_ResponsibleParty>
+              </gmd:citedResponsibleParty>
+              <gmd:citedResponsibleParty>
+                <gmd:CI_ResponsibleParty>
+                  <gmd:organisationName>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Metropolitan Council</gco:CharacterString>
+                  </gmd:organisationName>
+                  <gmd:role>
+                    <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="010"/>
+                  </gmd:role>
+                </gmd:CI_ResponsibleParty>
+              </gmd:citedResponsibleParty>
+            </gmd:CI_Citation>
+          </gmd:citation>
+          <gmd:abstract>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">The MUSA Composite dataset depicts current and future boundaries of the Urban Service Areas (sewer service areas) based on communities' comprehensive plans for the seven-county metropolitan area of the Twin Cities of Minneapolis and Saint Paul. The dataset does not depict the precise location of current urban services (Sewer service). In other words, the Urban Service Areas designate areas that might be serviced, it does not represent the urban areas that are serviced. The depiction of Urban Service Areas provides a framework in which known urban development and anticipated future development can exist with adequate sewer capacity at efficient service levels. Eleven other datasets are derived from these data: MUSA_2010, MUSA_2010_Outline, MUSA_2020, MUSA_2020_Outline, MUSA_2030, MUSA_2030_Outline, MUSA_2040, MUSA_Undesignated (Previously known as Flexible or Floating MUSA), MUSA Undesignated_Reserve (see below). Each community (city or township) in the seven-county Twin Cities metropolitan area is required to complete a comprehensive plan for approval by the Metropolitan Council per the Metropolitan Land Planning Act of 1995 (Minn. Stat 473.864, Subd 2 and 473.175, Subd 1). The comprehensive plan must include a depiction of current and future boundaries of the Urban Service Areas (i.e., 2020, 2030, 2040, Post MUSA Urban Reserve). The Metropolitan Urban Service Areas (MUSA) shown are compiled from each community's comprehensive plan. It may or may not include amendments to the comprehensive plan. Also, this map shows areas of 'Undesignated MUSA' found in some communities. Undesignated MUSA represents an areas where an agreed upon acreage of urban sewer service can be added to the current MUSA by 2030. Area added to the current MUSA is to be reported to the Metropolitan Council on an annual basis. As of March 2011, a new designation area was created specifically to address the agreed upon development plan for southeastern Scott County between the county, the city of Elko New Market and the town of New Market : 'Undesignated MUSA Reserve.' Similar to 'Undesignated MUSA,' this is an area where an agreed upon acreage of urban sewer service can be added to the current MUSA by 2030. The distinction between 'Undesignated MUSA' and 'Undesignated MUSA Reserve' is that 'Undesignated MUSA' is an area within a municipal boundary defined by that municipality's comprehensive plan, whereas, 'Undesignated MUSA Reserve' is an area beyond the current municipal boundary (i.e., surrounding township) that is designated in a joint agreement by the city, town, and county to accommodate future municipal growth. Urban sewer services will not be provided to these areas until they have been annexed by the municipality (i.e., Elko New Market). Although the Metropolitan Council provides the majority of the urban sewer service in the seven-county metropolitan area, several smaller, free-standing rural communities in the region (primarily in Carver and Scott Counties), private systems, and independent nations (Shakopee Mdewakanton Sioux Community) provide their own urban services. Where information on their urban service areas are available, it is included in this dataset. Although the information included in this dataset is derived from the communities' 1998 and 2008 comprehensive plans, subsequent plan amendments, annual reporting of MUSA additions from Undesignated MUSA, and is intended to be current within 4 months, for exact MUSA information, please contact the community. When referring to CURRENT MUSA extent, this includes areas up to 2020 MUSA. These data were previously incorporated in the Comprehensive Plan Composite dataset</gco:CharacterString>
+          </gmd:abstract>
+          <gmd:purpose>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">To show the urban services areas in the seven-county metropolitan area for display and analysis.</gco:CharacterString>
+          </gmd:purpose>
+          <gmd:status>
+            <gmd:MD_ProgressCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ProgressCode" codeListValue="completed" codeSpace="001"/>
+          </gmd:status>
+          <gmd:pointOfContact>
+            <gmd:CI_ResponsibleParty>
+              <gmd:individualName>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Paul E. Hanson</gco:CharacterString>
+              </gmd:individualName>
+              <gmd:organisationName>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Metropolitan Council</gco:CharacterString>
+              </gmd:organisationName>
+              <gmd:positionName>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GIS Specialist</gco:CharacterString>
+              </gmd:positionName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:phone>
+                    <gmd:CI_Telephone>
+                      <gmd:voice>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651.602.1642</gco:CharacterString>
+                      </gmd:voice>
+                    </gmd:CI_Telephone>
+                  </gmd:phone>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:deliveryPoint>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">390 Robert Street North</gco:CharacterString>
+                      </gmd:deliveryPoint>
+                      <gmd:city>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
+                      </gmd:city>
+                      <gmd:administrativeArea>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
+                      </gmd:administrativeArea>
+                      <gmd:postalCode>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55101-1805</gco:CharacterString>
+                      </gmd:postalCode>
+                      <gmd:electronicMailAddress>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">paul.hanson@metc.state.mn.us</gco:CharacterString>
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+              <gmd:role>
+                <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="007"/>
+              </gmd:role>
+            </gmd:CI_ResponsibleParty>
+          </gmd:pointOfContact>
+          <gmd:resourceMaintenance>
+            <gmd:MD_MaintenanceInformation>
+              <gmd:maintenanceAndUpdateFrequency>
+                <gmd:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="quarterly" codeSpace="006"/>
+              </gmd:maintenanceAndUpdateFrequency>
+            </gmd:MD_MaintenanceInformation>
+          </gmd:resourceMaintenance>
+          <gmd:graphicOverview>
+            <gmd:MD_BrowseGraphic>
+              <gmd:fileName>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/plan_musa_composite/metadata/preview.jpg</gco:CharacterString>
+              </gmd:fileName>
+            </gmd:MD_BrowseGraphic>
+          </gmd:graphicOverview>
+          <gmd:descriptiveKeywords>
+            <gmd:MD_Keywords>
+              <gmd:keyword>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:keyword>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minneapolis-St. Paul-Bloomington</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:type>
+                <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="place"/>
+              </gmd:type>
+              <gmd:thesaurusName>
+                <gmd:CI_Citation>
+                  <gmd:title>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GeoNames</gco:CharacterString>
+                  </gmd:title>
+                  <gmd:date>
+                    <gmd:CI_Date>
+                      <gmd:date>
+                        <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2012-10-29</gco:Date>
+                      </gmd:date>
+                      <gmd:dateType>
+                        <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                      </gmd:dateType>
+                    </gmd:CI_Date>
+                  </gmd:date>
+                  <gmd:identifier>
+                    <gmd:MD_Identifier>
+                      <gmd:code>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">http://www.geonames.org/ontology/ontology_v3.1.rdf</gco:CharacterString>
+                      </gmd:code>
+                    </gmd:MD_Identifier>
+                  </gmd:identifier>
+                </gmd:CI_Citation>
+              </gmd:thesaurusName>
+            </gmd:MD_Keywords>
+          </gmd:descriptiveKeywords>
+          <gmd:resourceConstraints>
+            <gmd:MD_LegalConstraints>
+              <gmd:accessConstraints>
+                <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="008"/>
+              </gmd:accessConstraints>
+              <gmd:useConstraints>
+                <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="008"/>
+              </gmd:useConstraints>
+              <gmd:otherConstraints>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Access Constraints: None Use Constraints: None Distribution Liability: NOTICE: The Geographic Information System (GIS) Data to which this notice is attached are made available pursuant to the Minnesota Government Data Practices Act (Minnesota Statutes Chapter 13). THE GIS DATA ARE PROVIDED TO YOU AS IS AND WITHOUT ANY WARRANTY AS TO THEIR PERFORMANCE, MERCHANTABILITY, OR FITNESS FOR ANY PARTICULAR PURPOSE. The GIS Data were developed by the Metropolitan Council for its own internal business purposes. The Metropolitan Council does not represent or warrant that the GIS Data or the data documentation are error-free, complete, current, or accurate. You are responsible for any consequences resulting from your use of the GIS Data or your reliance on the GIS Data. You should consult the data documentation for this particular GIS Data to determine the limitations of the GIS Data and the precision with which the GIS Data may depict distance, direction, location, or other geographic features. If you transmit or provide the GIS Data (or any portion of it) to another user, it is recommended that the GIS Data include a copy of this disclaimer and this metadata.</gco:CharacterString>
+              </gmd:otherConstraints>
+            </gmd:MD_LegalConstraints>
+          </gmd:resourceConstraints>
+          <gmd:language>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">eng</gco:CharacterString>
+          </gmd:language>
+          <gmd:extent>
+            <gmd:EX_Extent id="boundingExtent">
+              <gmd:geographicElement>
+                <gmd:EX_GeographicBoundingBox id="boundingGeographicBoundingBox">
+                  <gmd:westBoundLongitude>
+                    <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">-94.012</gco:Decimal>
+                  </gmd:westBoundLongitude>
+                  <gmd:eastBoundLongitude>
+                    <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">-92.732</gco:Decimal>
+                  </gmd:eastBoundLongitude>
+                  <gmd:southBoundLatitude>
+                    <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">44.471</gco:Decimal>
+                  </gmd:southBoundLatitude>
+                  <gmd:northBoundLatitude>
+                    <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">45.415</gco:Decimal>
+                  </gmd:northBoundLatitude>
+                </gmd:EX_GeographicBoundingBox>
+              </gmd:geographicElement>
+              <gmd:temporalElement>
+                <gmd:EX_TemporalExtent id="boundingTemporalExtent">
+                  <gmd:extent>
+                    <gml:TimeInstant xmlns:gml="http://www.opengis.net/gml" gml:id="boundingTimeInstantExtent">
+                      <gml:description>Initial Metropolitan Urban Service Areas data was derived from communities 1998 Comprehensive Plans. Council planning staff, working with communities, defined urban service area boundaries between June, 2000 and April, 2002. The actual date of a community's locally adopted plan is not known but the regional data are current as of the date that the Comprehensive Plan was reviewed and subsequent amendments by the Metropolitan Council per the Metropolitan Land Planning Act of 1995 (Minn. Stat 473.864, Subd 2 and 473.175, Subd 1). The Metropolitan Land Planning Act of 1995 requires communities in the seven-county Twin Cities metropolitan area to submit a Comprehensive Plan and subsequent plan amendments to the Metropolitan Council for review and consideration of the impact, if any the plan or plan amendment may have on the regional systems (i.e., roads, parks, wastewater collection and treatment. The data does not depict actual sewer service. 
+
+Communities in the metropolitan area were required to update their Comprehensive Plan in 2008. Not all communities have finalized the 2008 plan. These communities can be determined through the 'BENCHMARK' field in the database (i.e., '2030'). The following communities have been added since the previous MUSA release (5/26/2015): 
+
+Dayton
+Elko New Market
+Lakeville
+Waconia
+
+The following communities are still recorded with their 1998 Comprehensive Plan and plan amendments: 
+
+Fort Snelling
+Landfall
+Lexington</gml:description>
+                      <gml:timePosition>2015-09-23</gml:timePosition>
+                    </gml:TimeInstant>
+                  </gmd:extent>
+                </gmd:EX_TemporalExtent>
+              </gmd:temporalElement>
+            </gmd:EX_Extent>
+          </gmd:extent>
+          <gmd:topicCategory>
+            <gmd:MD_TopicCategoryCode>planningCadastre</gmd:MD_TopicCategoryCode>
+          </gmd:topicCategory>
+          <gmd:supplementalInformation>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Twin Cities 7 county metropolitan area.  This includes the counties of Anoka, Carver, Dakota, Hennepin, Ramsey, Scott and Washington.</gco:CharacterString>
+          </gmd:supplementalInformation>
+        </gmd:MD_DataIdentification>
+      </gmd:identificationInfo>
+      <gmd:contentInfo>
+        <gmd:MD_FeatureCatalogueDescription>
+          <gmd:includedWithDataset>
+            <gco:Boolean xmlns:gco="http://www.isotc211.org/2005/gco">false</gco:Boolean>
+          </gmd:includedWithDataset>
+        </gmd:MD_FeatureCatalogueDescription>
+      </gmd:contentInfo>
+      <gmd:distributionInfo>
+        <gmd:MD_Distribution>
+          <gmd:distributionFormat>
+            <gmd:MD_Format>
+              <gmd:name>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ESRI Shapefile</gco:CharacterString>
+              </gmd:name>
+            </gmd:MD_Format>
+          </gmd:distributionFormat>
+          <gmd:distributor>
+            <gmd:MD_Distributor>
+              <gmd:distributorContact>
+                <gmd:CI_ResponsibleParty>
+                  <gmd:individualName>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Jon Hoekenga</gco:CharacterString>
+                  </gmd:individualName>
+                  <gmd:organisationName>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Metropolitan Council</gco:CharacterString>
+                  </gmd:organisationName>
+                  <gmd:positionName>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GIS Specialist</gco:CharacterString>
+                  </gmd:positionName>
+                  <gmd:contactInfo>
+                    <gmd:CI_Contact>
+                      <gmd:phone>
+                        <gmd:CI_Telephone>
+                          <gmd:voice>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651.602.1561</gco:CharacterString>
+                          </gmd:voice>
+                        </gmd:CI_Telephone>
+                      </gmd:phone>
+                      <gmd:address>
+                        <gmd:CI_Address>
+                          <gmd:deliveryPoint>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">390 Robert Street North</gco:CharacterString>
+                          </gmd:deliveryPoint>
+                          <gmd:city>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
+                          </gmd:city>
+                          <gmd:administrativeArea>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
+                          </gmd:administrativeArea>
+                          <gmd:postalCode>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55101-1805</gco:CharacterString>
+                          </gmd:postalCode>
+                          <gmd:electronicMailAddress>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">jonathan.hoekenga@metc.state.mn.us</gco:CharacterString>
+                          </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                      </gmd:address>
+                    </gmd:CI_Contact>
+                  </gmd:contactInfo>
+                  <gmd:role>
+                    <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="distributor" codeSpace="005"/>
+                  </gmd:role>
+                </gmd:CI_ResponsibleParty>
+              </gmd:distributorContact>
+              <gmd:distributionOrderProcess>
+                <gmd:MD_StandardOrderProcess>
+                  <gmd:orderingInstructions>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Ordering Instructions: See Online Linkage Below</gco:CharacterString>
+                  </gmd:orderingInstructions>
+                </gmd:MD_StandardOrderProcess>
+              </gmd:distributionOrderProcess>
+            </gmd:MD_Distributor>
+          </gmd:distributor>
+          <gmd:transferOptions>
+            <gmd:MD_DigitalTransferOptions>
+              <gmd:onLine>
+                <gmd:CI_OnlineResource>
+                  <gmd:linkage>
+                    <gmd:URL>https://gisdata.mn.gov/dataset/us-mn-state-metc-plan-musa-composite</gmd:URL>
+                  </gmd:linkage>
+                  <gmd:protocol>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:LINK</gco:CharacterString>
+                  </gmd:protocol>
+                </gmd:CI_OnlineResource>
+              </gmd:onLine>
+              <gmd:onLine>
+                <gmd:CI_OnlineResource>
+                  <gmd:linkage>
+                    <gmd:URL>https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Planning_Development/MapServer/21</gmd:URL>
+                  </gmd:linkage>
+                  <gmd:protocol>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ESRI:ArcGIS</gco:CharacterString>
+                  </gmd:protocol>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">DynamicMapLayer</gco:CharacterString>
+                  </gmd:description>
+                </gmd:CI_OnlineResource>
+              </gmd:onLine>
+              <gmd:onLine>
+                <gmd:CI_OnlineResource>
+                  <gmd:linkage>
+                    <gmd:URL>ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/plan_musa_composite/shp_plan_musa_composite.zip</gmd:URL>
+                  </gmd:linkage>
+                  <gmd:protocol>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:DOWNLOAD-1.0-ftp--download</gco:CharacterString>
+                  </gmd:protocol>
+                </gmd:CI_OnlineResource>
+              </gmd:onLine>
+            </gmd:MD_DigitalTransferOptions>
+          </gmd:transferOptions>
+        </gmd:MD_Distribution>
+      </gmd:distributionInfo>
+      <gmd:dataQualityInfo>
+        <gmd:DQ_DataQuality>
+          <gmd:scope xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+          <gmd:report>
+            <gmd:DQ_AbsoluteExternalPositionalAccuracy>
+              <gmd:nameOfMeasure>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Horizontal Positional Accuracy</gco:CharacterString>
+              </gmd:nameOfMeasure>
+              <gmd:evaluationMethodDescription>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Horizontal positional accuracy is unknown, but is thought to be quite variable throughout the data set.</gco:CharacterString>
+              </gmd:evaluationMethodDescription>
+              <gmd:result>
+                <gmd:DQ_QuantitativeResult>
+                  <gmd:valueUnit>
+                    <gml:BaseUnit xmlns:gml="http://www.opengis.net/gml" gml:id="meters">
+                      <gml:identifier codeSpace="meters"/>
+                      <gml:unitsSystem xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.bipm.org/en/si/"/>
+                    </gml:BaseUnit>
+                  </gmd:valueUnit>
+                </gmd:DQ_QuantitativeResult>
+              </gmd:result>
+            </gmd:DQ_AbsoluteExternalPositionalAccuracy>
+          </gmd:report>
+          <gmd:report>
+            <gmd:DQ_CompletenessCommission>
+              <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+            </gmd:DQ_CompletenessCommission>
+          </gmd:report>
+          <gmd:report>
+            <gmd:DQ_CompletenessOmission>
+              <gmd:evaluationMethodDescription>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Entire seven-county geographic area is covered.</gco:CharacterString>
+              </gmd:evaluationMethodDescription>
+              <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+            </gmd:DQ_CompletenessOmission>
+          </gmd:report>
+          <gmd:report>
+            <gmd:DQ_ConceptualConsistency>
+              <gmd:measureDescription>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">The data set is topologically 'clean'</gco:CharacterString>
+              </gmd:measureDescription>
+              <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+            </gmd:DQ_ConceptualConsistency>
+          </gmd:report>
+          <gmd:report>
+            <gmd:DQ_NonQuantitativeAttributeAccuracy>
+              <gmd:measureDescription>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">These data were derived from maps submitted with each city or township's Comprehensive Plan, plan amendment or annual service area report. Data are current based on the above information.</gco:CharacterString>
+              </gmd:measureDescription>
+              <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="inapplicable"/>
+            </gmd:DQ_NonQuantitativeAttributeAccuracy>
+          </gmd:report>
+          <gmd:lineage>
+            <gmd:LI_Lineage>
+              <gmd:processStep>
+                <gmd:LI_ProcessStep>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">The MUSA dataset depicts current and future boundaries of the Urban Service Areas (sewer service areas) based on communities' comprehensive plans for the seven-county metropolitan area of the Twin Cities of Minneapolis and Saint Paul. The dataset does not depict the precise location of current urban services (Sewer service). In other words, the Urban Service Areas designate areas that might be serviced, it does not represent the urban areas that are serviced. The depiction of Urban Service Areas provides a framework in which known urban development and anticipated future development can exist with adequate sewer capacity at efficient service levels. Seven other datasets are derived from these data: MUSA_2010, MUSA_2010_Outline, MUSA_2020, MUSA_2020_Outline, MUSA_2030, MUSA_2030_Outline, MUSA_2040, MUSA_2040_Outline, and Undesignated MUSA (Previously known as Flexible or Floating MUSA). 
+
+These data were initially collected as part of the Comprehensive Plan Composite dataset as derived from each community's 1998 Comprehensive Plan. Council planning staff interpreted the submitted maps and defined the urban service area boundaries in terms of the Regional Growth Strategy (RGS) categories used for regional planning at that time. RGS boundaries were defined based on county parcel boundaries and TLG Street Centerline data (now owned by NCompass Technologies). This information was then updated into the Growth Management Policy Areas (1996 gmpa layer). This process was done initially on a coverage, then brought in to ArcView as a shape file and updates have been made in ArcGIS. These data became known as the Comprehensive Plan Composite dataset. The Comprehensive Plan Composite dataset not only included information regarding metropolitan urban services areas but also included information pertaining to rural and agricultural communities planning area designation and information concerning lands enrolled in the Agricultural Preserve program. 
+
+In 2004, the Metropolitan Council adopted the 2030 Regional Framework. The Framework outlines the Metropolitan Council's development policies, goals, and guidelines for the region. It reinforced many previously defined policies and development goals while outlining several new ones. Uncertain how best to handle changes that affect the recording and tracking of metropolitan urban services, the Comprehensive Plan Composite dataset remained unchanged. 
+
+October 2006, two new RGS categories were added: 2025 and 2030. As a result, a new derivitive dataset was been added to the collection of derivitive products of the Comprehensive Plan Composite data. 
+
+In October 2009, with the influx of comprehensive plan updates (i.e., communites' 2008 Comprehensive Plans), it became prudent to address the growing need to modify how MUSA information was being recorded and tracked. Several changes were made to the dataset, however, most are transparent the data users. 
+- The most significant modification was the divorce of MUSA information from rural and agricultural policy information. As a result, either land is in the current MUSA, planned for some future service at some level (i.e., 2030 MUSA), or not planned for any service in the foreseeable future based on information derived from communities' comprehensive plans, plan amendments or annual service reports (see Entities and Attributes for valid MUSA codes). 
+- Another noticable change in the MUSA data is the removal of the 'Unsewered Urban' MUSA designation. This designation had been used for large developed areas that currently do not have nor are planning to have any long-term urban services and are completely surrounded by areas with metropolitan urban services. The general purpose of this designation was mainly cartographic - so MUSA boundary areas (i.e. 2020) would not display large 'donut' holes that could be interrupted as undeveloped lands. It was felt this designation was misleading and should be removed. The result of this change will affect some of the deriviative products (e.g., 2010 MUSA, 2020 MUSA, 2030 MUSA). 
+- The final noticable change in the MUSA data layer and deriviative products (i.e., 2020 MUSA, 2030 MUSA, etc.) is the removal of the RG_CENTER (Rural Growth Center) designation - a planning policy designation - and the addition of MC_PLANT designation. MC_PLANT (Metropolitan Council Treatment Plant) indicates whether the MUSA is being services by a Metropolitan Council system ('Y') or by a local municipal sewer system ('N') such as the community of Belle Plaine. 
+
+In March 2011, a series of changes were made to the MUSA categories primarily as a result of the completion of the Scott County and it's communities' comprehensive plans. 
+- 'Post-2030' MUSA: The two-character code for this category was change from 'UR' to 'PM' 
+- 'Urban Expansion' : A new category. Scott County has planning authority for towns (townships) within the county. 'Urban Expansion' are areas surrounding municipalities that are designed to accommodate future growth and the expansion of urban sewer services through municipal annexations. These areas are encourage low-density (one unit per 40 acres) residential development to facilitate logical, orderly, and efficient urban expansion in the future. The two-character code for this category is 'UE.' 
+- 'SMSC' : A new category. In 2006 the Shakopee Mwedwakaton Sioux Community began running their own private sewer system and treatment facility. Previous to this time, sewered areas on the tribal reservation were part of the Metropolitan Council's regional system. The new category is designed to recognize their atonomy. The area recoginized includes both 'Trust' (Reservation) and 'In Fee' (tribal owned, non-reservation) lands and may or may not be actually serviced. This category is not all encompassing of Sioux Community owned land, but rather those lands that seem reasonable to be served by their private service. The two-character code for this category is 'SM.' 
+- 'Private System' : A new category. With the creation of the SMSC category, the private system existing on the 3M facility in Cottage Grove was also deemed large enough to merit the addition of a 'Private System' category. This category is meant to recoginize that this area is served but not on the Metropolitan Council system. The two-character code for this category is 'PS.' 
+- 'Undesignated MUSA Reserve' : A new category created specifically to address the agreed upon development plan for southeastern Scott County between the county, the city of Elko New Market and the town of New Market. Similar to 'Undesignated MUSA,' this is an area where an agreed upon acreage of urban sewer service can be added to the current MUSA by 2030. The distinction between 'Undesignated MUSA' and 'Undesignated MUSA Reserve' is that 'Undesignated MUSA' is an area within a municipal boundary defined by that municipality's comprehensive plan, whereas, 'Undesignated MUSA Reserve' is an area beyond the current municipal boundary (i.e., surrounding township) that is designated in a joint agreement by the city, town, and county to accommodate future municipal growth. Urban sewer services will not be provided to these areas until they have been annexed by the municipality (i.e., Elko New Market). The two-character code for this category is 'UR' (Note: 'UR' was previously used for 'Post-2030' MUSA. 
+
+In September 2015, with the Council adoption of ThriveMSP 2040, the regional plan and the release of System Statements, the MUSA categories were expanded to include MUSA 2040 and Post-2030 MUSA (PM) category and been changed to Post MUSA Urban Reserve (PM) and acknowledge the changing planning horizon.
+
+For exact MUSA information, please contact the communities directly</gco:CharacterString>
+                  </gmd:description>
+                </gmd:LI_ProcessStep>
+              </gmd:processStep>
+            </gmd:LI_Lineage>
+          </gmd:lineage>
+        </gmd:DQ_DataQuality>
+      </gmd:dataQualityInfo>
+      <gmd:metadataMaintenance>
+        <gmd:MD_MaintenanceInformation>
+          <gmd:maintenanceAndUpdateFrequency xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+          <gmd:maintenanceNote>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">This metadata was automatically generated from the Minnesota Geographic Metadata Guidelinesstandard version 1.2 using the January 2013 version of the FGDC CSDGM to ISO 19115-2 transform.</gco:CharacterString>
+          </gmd:maintenanceNote>
+          <gmd:contact>
+            <gmd:CI_ResponsibleParty>
+              <gmd:individualName>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Paul E. Hanson</gco:CharacterString>
+              </gmd:individualName>
+              <gmd:organisationName>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Metropolitan Council</gco:CharacterString>
+              </gmd:organisationName>
+              <gmd:positionName>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GIS Specialist</gco:CharacterString>
+              </gmd:positionName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:phone>
+                    <gmd:CI_Telephone>
+                      <gmd:voice>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651.602.1642</gco:CharacterString>
+                      </gmd:voice>
+                    </gmd:CI_Telephone>
+                  </gmd:phone>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:deliveryPoint>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">390 Robert Street North</gco:CharacterString>
+                      </gmd:deliveryPoint>
+                      <gmd:city>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
+                      </gmd:city>
+                      <gmd:administrativeArea>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
+                      </gmd:administrativeArea>
+                      <gmd:postalCode>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55101-1805</gco:CharacterString>
+                      </gmd:postalCode>
+                      <gmd:electronicMailAddress>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">paul.hanson@metc.state.mn.us</gco:CharacterString>
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+              <gmd:role>
+                <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="custodian" codeSpace="002"/>
+              </gmd:role>
+            </gmd:CI_ResponsibleParty>
+          </gmd:contact>
+        </gmd:MD_MaintenanceInformation>
+      </gmd:metadataMaintenance>
+    </gmd:MD_Metadata>
+    

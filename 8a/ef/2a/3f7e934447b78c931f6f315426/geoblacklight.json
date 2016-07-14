@@ -1,0 +1,33 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:01Z", 
+"solr_geom": "ENVELOPE(-94.272941, -92.22492, 45.732233, 44.328073)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-conservation-corridors\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_conservation_corridors/shp_env_conservation_corridors.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-8aef2a3f-7e93-4447-b78c-931f6f315426", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"environment"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "The Metro Conservation Corridors (MeCC) grow out of the natural resource analysis work done by the DNR in the late '90s, documented in the Metro Greenprint publication (http://files.dnr.state.mn.us/assistance/nrplanning/community/greenways/greenprint.pdf). In 2003 the DNR and the Met Council conducted a follow-up natural resource assessment and created a Regional Significant Ecological Resources data layer (http://deli.dnr.state.mn.us/metadata.html?id=L390002900201). The DNR's regional plant ecologist (Hannah Texler) created the first draft of the MeCC data using the RSEA data and the MCBS data as reference layers, drawing on PRIM maps or digitizing on screen. The corridors have subsequently been refined by the MeCC partners and ecological experts in each county. The data was digitized between 1:24,000 and 1:10,000, using USGS quad maps and the DNR Public Recreation Info Maps (PRIM) for location references.", 
+"dct_issued_s": "2015-05-06T05:00:00.000Z", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (DNR)"
+], 
+"dc_identifier_s": "urn-8aef2a3f-7e93-4447-b78c-931f6f315426", 
+"georss_polygon_s": "44.328073 -94.272941 45.732233 -94.272941 45.732233 -92.22492 44.328073 -92.22492 44.328073 -94.272941", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-8aef2a3f-7e93-4447-b78c-931f6f315426", 
+"georss_box_s": "44.328073 -94.272941 45.732233 -92.22492", 
+"dc_title_s": "Metro Conservation Corridors: Twin Cities Metro, Minnesota, 2015", 
+"layer_slug_s": "Minnesota-urn-8aef2a3f-7e93-4447-b78c-931f6f315426"
+}

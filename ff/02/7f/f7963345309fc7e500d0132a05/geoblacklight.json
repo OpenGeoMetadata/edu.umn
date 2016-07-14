@@ -1,0 +1,38 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T10:00:19Z", 
+"solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-society-job-concentrations\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/society_job_concentrations/fgdb_society_job_concentrations.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-ff027ff7-9633-4530-9fc7-e500d0132a05", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"society", 
+"employment", 
+"economic activity"
+], 
+"dct_temporal_sm": "2012", 
+"dc_description_s": "PLEASE READ: Job Concentrations displays employment density of jobs ONLY located within Jobs and Activity Centers defined by the Metropolitan Council of the 7-county Twin Cities Metropolitan area of Minneapolis and St. Paul, Minnesota (see DataFinder.org). It DOES NOT include all jobs within the 7-county region. Job locations and Job and Activity Centers are based on the Minnesota Dept. of Employment and Economic Development's (DEED) Quarterly Census of Employment and Wages (QCEW).", 
+"dct_issued_s": "2016-03-17", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Metropolitan Council"
+], 
+"dc_identifier_s": "urn-ff027ff7-9633-4530-9fc7-e500d0132a05", 
+"dc_relation_sm": [
+"MN DEED Quarterly Census of Employment and Wages, 2012"
+], 
+"georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
+"solr_year_i": 2016, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-ff027ff7-9633-4530-9fc7-e500d0132a05", 
+"georss_box_s": "44.471 -94.012 45.415 -92.732", 
+"dc_title_s": "Job Concentrations (Thrive MSP 2040): Twin Cities Metro, Minnesota, 2012", 
+"layer_slug_s": "Minnesota-urn-ff027ff7-9633-4530-9fc7-e500d0132a05"
+}

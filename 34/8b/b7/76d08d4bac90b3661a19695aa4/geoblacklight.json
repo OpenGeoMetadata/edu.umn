@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Point", 
+"layer_modified_dt": "2016-07-11T09:15:44Z", 
+"solr_geom": "ENVELOPE(-93.473996, -93.178142, 45.062, 44.863658)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/7dd0a65b907e4a008a0128b3b239ec2e_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Fires_Reported_2015/FeatureServer/0\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/7dd0a65b907e4a008a0128b3b239ec2e_0\"}", 
+"dc_rights_s": "Public", 
+"uuid": "348bb776-d08d-4bac-90b3-661a19695aa4", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"utilitiesCommunications", 
+"fire", 
+"fire protection"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "For questions about this data please contact FireOpenData@minneapolismn.gov Reported fires in the City of Minneapolis for 2015.", 
+"dct_issued_s": "2015-09-03T15:28:19.000ZZ", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"MapIT Minneapolis"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "348bb776-d08d-4bac-90b3-661a19695aa4", 
+"georss_polygon_s": "44.863658 -93.473996 45.062 -93.473996 45.062 -93.178142 44.863658 -93.178142 44.863658 -93.473996", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"City of Minneapolis, Minnesota", 
+"Minneapolis"
+], 
+"dc_publisher_sm": [
+"MapIT Minneapolis"
+], 
+"layer_id_s": "urn:348bb776-d08d-4bac-90b3-661a19695aa4", 
+"georss_box_s": "44.863658 -93.473996 45.062 -93.178142", 
+"dc_title_s": "Fires Reported: Minneapolis, Minnesota, 2015", 
+"layer_slug_s": "Minnesota-348bb776-d08d-4bac-90b3-661a19695aa4"
+}

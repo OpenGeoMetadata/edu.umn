@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:55Z", 
+"solr_geom": "ENVELOPE(-98.9, -76, 50.4, 29.1)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/loc-geographic-names-usgs-gnis\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mngeo/loc_geographic_names_usgs_gnis/shp_loc_geographic_names_usgs_gnis.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-9e7c3f26-9e92-46fb-8997-260b8784e2b5", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"location"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "The source data for the Minnesota Geographic Names point file is the USGS-GNIS data base, 'National Geographic Names Database', maintained by the United States Geological Survey for the U.S. Board of Geographic Names. State extracts are available from the Board of Geographic Names as ascii text files, and converted locally to GIS format. According to USGS metadata: 'A geographic feature is any relatively permanent part of the natural or manmade landscape or seascape that has recognizable identity within a particular cultural context. The primary attributes of a geographic feature are name and location.' The Geographic Names Information System file contains all geographic names in the Minnesota state extract. Layer files have also been created to represent the 'Populated Places' feature, and the 'Dams' feature, from GNIS. A 'Populated Place' is defined by USGS as a 'Place or area with clustered or scattered buildings a nd a permanent human population (city, settlement, town, village)'. A 'Populated Place' may or not be legally incorporated. Incorporated places also appear as separate features with a feature code of 'Civil'. For more information see: http://geonames.usgs.gov/", 
+"dct_issued_s": "2015-12-01", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"United States Geological Survey"
+], 
+"dc_identifier_s": "urn-9e7c3f26-9e92-46fb-8997-260b8784e2b5", 
+"dc_relation_sm": [
+"Federal data sets within the Geographic Names Information System include:National Geographic Names Data Base (the source of this GIS coverage)USGS Topographic Names Bata BaseReference Data BaseBoard of Geographic Names Data BaseUSGS Digital GazetteerMost names are represented on the Digital Raster Geographic (DRG) versions of the topographic map series. The National Hydrography Dataset (NHD) names lakes and rivers using the GNIS ID.  This dataset provides a full geometric representation of lake boundaries and river traces."
+], 
+"georss_polygon_s": "29.1 -98.9 50.4 -98.9 50.4 -76 29.1 -76 29.1 -98.9", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Geospatial Information Office (MnGeo)"
+], 
+"layer_id_s": "urn:urn-9e7c3f26-9e92-46fb-8997-260b8784e2b5", 
+"georss_box_s": "29.1 -98.9 50.4 -76", 
+"dc_title_s": "Geographic Names: Minnesota, 2015", 
+"layer_slug_s": "Minnesota-urn-9e7c3f26-9e92-46fb-8997-260b8784e2b5"
+}

@@ -1,0 +1,32 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:09Z", 
+"solr_geom": "ENVELOPE(-96.833073, -89.397037, 49.348242, 43.435393)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/atmos-1969-1990-mn-precip-avg\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/atmos_1969_1990_mn_precip_avg/shp_atmos_1969_1990_mn_precip_avg.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-e6b88005-17e7-4d59-bff5-3487c5e36380", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"climatologyMeteorologyAtmosphere"
+], 
+"dct_temporal_sm": "1961-1990", 
+"dc_description_s": "This data set depicts 30-year averages (1961-1990) of monthly and annual sum precipitation for Minnesota. These isolines and regions were created using kriging and latticecontour operations on precipitation point data from a 5-state area. Data is stored in a regions model, with separate regions for each monthly and annual sum 30-year average (e.g., region.apr represents the average April sum precipitation across Minnesota for the period 1961-1990).", 
+"dct_issued_s": "2014-10-09T05:00:00.000Z", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (DNR)"
+], 
+"dc_identifier_s": "urn-e6b88005-17e7-4d59-bff5-3487c5e36380", 
+"georss_polygon_s": "43.435393 -96.833073 49.348242 -96.833073 49.348242 -89.397037 43.435393 -89.397037 43.435393 -96.833073", 
+"solr_year_i": 1961, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-e6b88005-17e7-4d59-bff5-3487c5e36380", 
+"georss_box_s": "43.435393 -96.833073 49.348242 -89.397037", 
+"dc_title_s": "Precipitation Average: Minnesota, 1961-1990", 
+"layer_slug_s": "Minnesota-urn-e6b88005-17e7-4d59-bff5-3487c5e36380"
+}

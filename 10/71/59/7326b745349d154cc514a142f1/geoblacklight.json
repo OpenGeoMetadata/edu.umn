@@ -1,0 +1,38 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-28T11:10:25.017329Z", 
+"solr_geom": "ENVELOPE(-93.91463871, -93.27761643, 44.81327565, 44.54197857)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"\",\",\"http://schema.org/url\":\"\"}", 
+"dc_rights_s": "Public", 
+"uuid": "10715973-26b7-4534-9d15-4cc514a142f1", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"transportation", 
+"Scott County Minnesota", 
+"Transportation", 
+"Streets", 
+"Centerlines", 
+"Roads"
+], 
+"dct_temporal_sm": "2016", 
+"dc_description_s": "This dataset contains the street centerlines within Scott County. The data schema is consistent with the standards established by MetroGIS and its partners as part of the Metro Regional Centerline Collaborative (MRCC). This centerline data should be considered preliminary until the MRCC effort is finalized.", 
+"dct_issued_s": "2016-05-12T20:06:59.000ZZ", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Scott County Minnesota"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "10715973-26b7-4534-9d15-4cc514a142f1", 
+"georss_polygon_s": "44.54197857 -93.91463871 44.81327565 -93.91463871 44.81327565 -93.27761643 44.54197857 -93.27761643 44.54197857 -93.91463871", 
+"solr_year_i": 2016, 
+"dct_spatial_sm": [
+"Scott County, Minnesota"
+], 
+"dc_publisher_sm": [
+"Scott County Minnesota"
+], 
+"layer_id_s": "urn:10715973-26b7-4534-9d15-4cc514a142f1", 
+"georss_box_s": "44.54197857 -93.91463871 44.81327565 -93.27761643", 
+"dc_title_s": "Street Centerlines - MetroGIS Format - File Geodatabase", 
+"layer_slug_s": "Minnesota-10715973-26b7-4534-9d15-4cc514a142f1"
+}

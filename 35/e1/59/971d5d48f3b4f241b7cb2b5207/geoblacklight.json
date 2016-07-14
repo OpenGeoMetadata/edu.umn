@@ -1,0 +1,32 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:10Z", 
+"solr_geom": "ENVELOPE(-97.5, -89, 49.5, 43)", 
+"dct_references_s": "{\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.mda.state.mn.us/arcgis/rest/services/MN_Agriculture_AgChem/MapServer/3\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-agchem-incidents\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mda/env_agchem_incidents/shp_env_agchem_incidents.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-35e15997-1d5d-48f3-b4f2-41b7cb2b5207", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"environment"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "The Minnesota Department of Agriculture is the lead agency for response to, and cleanup of agricultural chemical contamination in Minnesota. Because of this role the Minnesota Department of Agriculture has tracked spills of agricultural chemicals and sites contaminated with agricultural chemicals since the late 1970's. The data in this collection contains information on known and potential sources of agricultural chemical soil and ground water contamination. To view the data in context with query and search tools, see the NWhat's In My Neighborhood?N application: https://gisdata.mn.gov/dataset/env-app-wimn-agricultural. For more information on the layers included, see the following layer specific metadata: Incident Investigation Information Table: ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mda/env_agchem_incidents/metadata/agchem_invinfo.html. Incident Investigation Boundaries: ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mda/env_agchem_incidents/metadata/agchem_investigations.html Small Spills & Investigations: ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mda/env_agchem_incidents/metadata/agchem_small_spills.html. Old Emergency Incidents: ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mda/env_agchem_incidents/metadata/agchem_old_emergencies.html. Contingency Areas: ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mda/env_agchem_incidents/metadata/agchem_contingencies.html", 
+"dct_issued_s": "2015-09-24", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Agriculture - Incident Response Unit"
+], 
+"dc_identifier_s": "urn-35e15997-1d5d-48f3-b4f2-41b7cb2b5207", 
+"georss_polygon_s": "43 -97.5 49.5 -97.5 49.5 -89 43 -89 43 -97.5", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Agriculture"
+], 
+"layer_id_s": "urn:urn-35e15997-1d5d-48f3-b4f2-41b7cb2b5207", 
+"georss_box_s": "43 -97.5 49.5 -89", 
+"dc_title_s": "Agricultural Chemical Incidents: Minnesota, 2015", 
+"layer_slug_s": "Minnesota-urn-35e15997-1d5d-48f3-b4f2-41b7cb2b5207"
+}

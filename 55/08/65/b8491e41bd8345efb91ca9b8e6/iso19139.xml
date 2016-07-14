@@ -1,0 +1,704 @@
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd">
+      <gmd:fileIdentifier>
+        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">550865b8-491e-41bd-8345-efb91ca9b8e6</gco:CharacterString>
+      </gmd:fileIdentifier>
+      <gmd:language>
+        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">eng</gco:CharacterString>
+      </gmd:language>
+      <gmd:characterSet>
+        <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="004"/>
+      </gmd:characterSet>
+      <gmd:hierarchyLevel>
+        <gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="005"/>
+      </gmd:hierarchyLevel>
+      <gmd:contact>
+        <gmd:CI_ResponsibleParty>
+          <gmd:individualName>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">David J. Fawcett</gco:CharacterString>
+          </gmd:individualName>
+          <gmd:organisationName>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Pollution Control Agency</gco:CharacterString>
+          </gmd:organisationName>
+          <gmd:positionName>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GIS Database Administrator</gco:CharacterString>
+          </gmd:positionName>
+          <gmd:contactInfo>
+            <gmd:CI_Contact>
+              <gmd:phone>
+                <gmd:CI_Telephone>
+                  <gmd:voice>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651.757.2350</gco:CharacterString>
+                  </gmd:voice>
+                </gmd:CI_Telephone>
+              </gmd:phone>
+              <gmd:address>
+                <gmd:CI_Address>
+                  <gmd:deliveryPoint>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">520 Lafayette Rd N</gco:CharacterString>
+                  </gmd:deliveryPoint>
+                  <gmd:city>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
+                  </gmd:city>
+                  <gmd:administrativeArea>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
+                  </gmd:administrativeArea>
+                  <gmd:postalCode>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55155</gco:CharacterString>
+                  </gmd:postalCode>
+                  <gmd:electronicMailAddress>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">david.fawcett@pca.state.mn.us</gco:CharacterString>
+                  </gmd:electronicMailAddress>
+                </gmd:CI_Address>
+              </gmd:address>
+            </gmd:CI_Contact>
+          </gmd:contactInfo>
+          <gmd:role>
+            <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="007"/>
+          </gmd:role>
+        </gmd:CI_ResponsibleParty>
+      </gmd:contact>
+      <gmd:dateStamp>
+        <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-06-29T10:00:11</gco:DateTime>
+      </gmd:dateStamp>
+      <gmd:metadataStandardName>
+        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
+      </gmd:metadataStandardName>
+      <gmd:metadataStandardVersion>
+        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2:2009(E)</gco:CharacterString>
+      </gmd:metadataStandardVersion>
+      <gmd:spatialRepresentationInfo>
+        <gmd:MD_VectorSpatialRepresentation>
+          <gmd:geometricObjects>
+            <gmd:MD_GeometricObjects>
+              <gmd:geometricObjectType>
+                <gmd:MD_GeometricObjectTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_GeometricObjectTypeCode" codeListValue="point" codeSpace="004"/>
+              </gmd:geometricObjectType>
+              <gmd:geometricObjectCount>
+                <gco:Integer xmlns:gco="http://www.isotc211.org/2005/gco">24433</gco:Integer>
+              </gmd:geometricObjectCount>
+            </gmd:MD_GeometricObjects>
+          </gmd:geometricObjects>
+        </gmd:MD_VectorSpatialRepresentation>
+      </gmd:spatialRepresentationInfo>
+      <gmd:referenceSystemInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ngdc.noaa.gov/docucomp/65f8b220-95ed-11e0-aa80-0800200c9a66" xlink:title="North American Datum 1983"/>
+      <gmd:referenceSystemInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ngdc.noaa.gov/docucomp/c3895520-95ed-11e0-aa80-0800200c9a66" xlink:title="Geodetic Reference System 1980"/>
+      <gmd:identificationInfo>
+        <gmd:MD_DataIdentification>
+          <gmd:citation>
+            <gmd:CI_Citation>
+              <gmd:title>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MPCA Feedlots with Animal Counts and Animal Units: Minnesota, 2015</gco:CharacterString>
+              </gmd:title>
+              <gmd:date>
+                <gmd:CI_Date>
+                  <gmd:date>
+                    <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2015-04-15T05:00:00.000Z</gco:Date>
+                  </gmd:date>
+                  <gmd:dateType>
+                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                  </gmd:dateType>
+                </gmd:CI_Date>
+              </gmd:date>
+              <gmd:identifier>
+                <gmd:MD_Identifier>
+                  <gmd:code>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">mpca_feedlots_ac</gco:CharacterString>
+                  </gmd:code>
+                </gmd:MD_Identifier>
+              </gmd:identifier>
+              <gmd:identifier>
+                <gmd:MD_Identifier>
+                  <gmd:code>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">urn-550865b8-491e-41bd-8345-efb91ca9b8e6</gco:CharacterString>
+                  </gmd:code>
+                </gmd:MD_Identifier>
+              </gmd:identifier>
+              <gmd:citedResponsibleParty>
+                <gmd:CI_ResponsibleParty>
+                  <gmd:organisationName>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Pollution Control Agency</gco:CharacterString>
+                  </gmd:organisationName>
+                  <gmd:role>
+                    <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="006"/>
+                  </gmd:role>
+                </gmd:CI_ResponsibleParty>
+              </gmd:citedResponsibleParty>
+              <gmd:citedResponsibleParty>
+                <gmd:CI_ResponsibleParty>
+                  <gmd:organisationName>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Pollution Control Agency</gco:CharacterString>
+                  </gmd:organisationName>
+                  <gmd:role>
+                    <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="010"/>
+                  </gmd:role>
+                </gmd:CI_ResponsibleParty>
+              </gmd:citedResponsibleParty>
+              <gmd:presentationForm>
+                <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="005"/>
+              </gmd:presentationForm>
+            </gmd:CI_Citation>
+          </gmd:citation>
+          <gmd:abstract>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">This dataset contains point representations of the locations of animal feedlot facilities in Minnesota. The attribute table includes information about the number of animals for each location.</gco:CharacterString>
+          </gmd:abstract>
+          <gmd:purpose>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">The locations of animal feedlots provide information and context to support decisions on animal health, land use, and maintaining environmental quality.</gco:CharacterString>
+          </gmd:purpose>
+          <gmd:pointOfContact>
+            <gmd:CI_ResponsibleParty>
+              <gmd:individualName>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">David Fawcett</gco:CharacterString>
+              </gmd:individualName>
+              <gmd:organisationName>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Pollution Control Agency</gco:CharacterString>
+              </gmd:organisationName>
+              <gmd:positionName>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GIS Database Administrator</gco:CharacterString>
+              </gmd:positionName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:phone>
+                    <gmd:CI_Telephone>
+                      <gmd:voice>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651.757.2350</gco:CharacterString>
+                      </gmd:voice>
+                    </gmd:CI_Telephone>
+                  </gmd:phone>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:deliveryPoint>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">520 Lafayette Rd N</gco:CharacterString>
+                      </gmd:deliveryPoint>
+                      <gmd:city>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Saint Paul</gco:CharacterString>
+                      </gmd:city>
+                      <gmd:administrativeArea>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
+                      </gmd:administrativeArea>
+                      <gmd:postalCode>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55155</gco:CharacterString>
+                      </gmd:postalCode>
+                      <gmd:electronicMailAddress>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">david.fawcett@pca.state.mn.us</gco:CharacterString>
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+              <gmd:role>
+                <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="007"/>
+              </gmd:role>
+            </gmd:CI_ResponsibleParty>
+          </gmd:pointOfContact>
+          <gmd:resourceMaintenance>
+            <gmd:MD_MaintenanceInformation>
+              <gmd:maintenanceAndUpdateFrequency>
+                <gmd:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="weekly" codeSpace="003"/>
+              </gmd:maintenanceAndUpdateFrequency>
+            </gmd:MD_MaintenanceInformation>
+          </gmd:resourceMaintenance>
+          <gmd:graphicOverview>
+            <gmd:MD_BrowseGraphic>
+              <gmd:fileName>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">None available</gco:CharacterString>
+              </gmd:fileName>
+            </gmd:MD_BrowseGraphic>
+          </gmd:graphicOverview>
+          <gmd:descriptiveKeywords>
+            <gmd:MD_Keywords>
+              <gmd:keyword>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:type>
+                <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="place"/>
+              </gmd:type>
+              <gmd:thesaurusName>
+                <gmd:CI_Citation>
+                  <gmd:title>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GeoNames</gco:CharacterString>
+                  </gmd:title>
+                  <gmd:date>
+                    <gmd:CI_Date>
+                      <gmd:date>
+                        <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2012-10-29</gco:Date>
+                      </gmd:date>
+                      <gmd:dateType>
+                        <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                      </gmd:dateType>
+                    </gmd:CI_Date>
+                  </gmd:date>
+                  <gmd:identifier>
+                    <gmd:MD_Identifier>
+                      <gmd:code>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">http://www.geonames.org/ontology/ontology_v3.1.rdf</gco:CharacterString>
+                      </gmd:code>
+                    </gmd:MD_Identifier>
+                  </gmd:identifier>
+                </gmd:CI_Citation>
+              </gmd:thesaurusName>
+            </gmd:MD_Keywords>
+          </gmd:descriptiveKeywords>
+          <gmd:resourceConstraints>
+            <gmd:MD_LegalConstraints>
+              <gmd:accessConstraints>
+                <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="008"/>
+              </gmd:accessConstraints>
+              <gmd:useConstraints>
+                <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="008"/>
+              </gmd:useConstraints>
+              <gmd:otherConstraints>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Access Constraints: None Use Constraints: Redistribution Conditions: If you obtain data from the MPCA, it is understood that you and/or your organization have the right to use them for any internal purpose. If you modify them, you should document those changes in a metadata record that should accompany all redistributed data. If you transmit or provide these data in any form to another user, the data should be accompanied by all documentation provided with the original data set including the full metadata record. Distribution Liability: Limitations: Although extensive effort has been made to produce error-free and complete data, all geographic information has limitations due to the scale, resolution, date and interpretation of the original source materials. Users should consult available data documentation (metadata) for this particular data to determine limitations and the precision to which the data depict distance, direction, location or other geographic characteristics. Data may be subject to change without prior notification. No warranty: Data is provided "as is," without any warranty whatsoever, including but not limited to any warranty as to performance, merchantability or fitness for any particular purpose. Liability: The entire risk as to the results of the use of this data is assumed by the user. The MPCA is not responsible for any interpretation or conclusions made by those who acquire or use it. The MPCA shall not be liable for any direct, indirect, special, incidental, compensatory or consequential damages or third-party claims resulting from the use of this data, even if the MPCA has been advised of the possibility of such potential loss or damage. In states that do not allow the exclusion or limitation of incidental or consequential damages, this data may not be used. Redistribution conditions: In obtaining this data from the MPCA, it is understood that individuals or organizations have the right to use it for any internal purpose. If data is modified, changes should be documented in a metadata record that should accompany all redistributed data. If data is transmitted or provided in any form to another user, the data should be accompanied by a copy of this disclaimer and all documentation provided with the original data set, including the full metadata record. Data delivered on electronic media: If data has been requested from the MPCA on magnetic media, CD or any other physical media, the MPCA will deliver it in the computer-readable format agreed upon with the requestor. The MPCA will reissue data if it is unreadable by correctly adjusted computer input devices or when the media is delivered in a damaged condition. Requests for reissue of this digital data product must be made within 30 days of the date shipped from the MPCA.</gco:CharacterString>
+              </gmd:otherConstraints>
+            </gmd:MD_LegalConstraints>
+          </gmd:resourceConstraints>
+          <gmd:spatialRepresentationType>
+            <gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="001"/>
+          </gmd:spatialRepresentationType>
+          <gmd:language>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">eng</gco:CharacterString>
+          </gmd:language>
+          <gmd:environmentDescription>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Native Dataset Environment: Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.1850</gco:CharacterString>
+          </gmd:environmentDescription>
+          <gmd:extent>
+            <gmd:EX_Extent id="boundingExtent">
+              <gmd:geographicElement>
+                <gmd:EX_GeographicBoundingBox id="boundingGeographicBoundingBox">
+                  <gmd:westBoundLongitude>
+                    <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">-97.0697</gco:Decimal>
+                  </gmd:westBoundLongitude>
+                  <gmd:eastBoundLongitude>
+                    <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">-90.511807</gco:Decimal>
+                  </gmd:eastBoundLongitude>
+                  <gmd:southBoundLatitude>
+                    <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">43.442165</gco:Decimal>
+                  </gmd:southBoundLatitude>
+                  <gmd:northBoundLatitude>
+                    <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">48.968607</gco:Decimal>
+                  </gmd:northBoundLatitude>
+                </gmd:EX_GeographicBoundingBox>
+              </gmd:geographicElement>
+              <gmd:temporalElement>
+                <gmd:EX_TemporalExtent id="boundingTemporalExtent">
+                  <gmd:extent>
+                    <gml:TimeInstant xmlns:gml="http://www.opengis.net/gml" gml:id="boundingTimeInstantExtent">
+                      <gml:description>Generated from the MPCA Delta database on the 'created' date for the shapefile files.</gml:description>
+                      <gml:timePosition>2015-04-15</gml:timePosition>
+                    </gml:TimeInstant>
+                  </gmd:extent>
+                </gmd:EX_TemporalExtent>
+              </gmd:temporalElement>
+            </gmd:EX_Extent>
+          </gmd:extent>
+          <gmd:topicCategory>
+            <gmd:MD_TopicCategoryCode>environment</gmd:MD_TopicCategoryCode>
+          </gmd:topicCategory>
+          <gmd:supplementalInformation>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota</gco:CharacterString>
+          </gmd:supplementalInformation>
+        </gmd:MD_DataIdentification>
+      </gmd:identificationInfo>
+      <gmd:contentInfo>
+        <gmd:MD_FeatureCatalogueDescription>
+          <gmd:includedWithDataset>
+            <gco:Boolean xmlns:gco="http://www.isotc211.org/2005/gco">true</gco:Boolean>
+          </gmd:includedWithDataset>
+          <gmd:featureTypes>
+            <gco:LocalName xmlns:gco="http://www.isotc211.org/2005/gco" codeSpace="mpca_feedlots_ac"/>
+          </gmd:featureTypes>
+        </gmd:MD_FeatureCatalogueDescription>
+      </gmd:contentInfo>
+      <gmd:distributionInfo>
+        <gmd:MD_Distribution>
+          <gmd:distributionFormat>
+            <gmd:MD_Format>
+              <gmd:name>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ESRI Shapefile</gco:CharacterString>
+              </gmd:name>
+              <gmd:version xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+            </gmd:MD_Format>
+          </gmd:distributionFormat>
+          <gmd:distributor>
+            <gmd:MD_Distributor>
+              <gmd:distributorContact>
+                <gmd:CI_ResponsibleParty>
+                  <gmd:individualName>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">David Fawcett</gco:CharacterString>
+                  </gmd:individualName>
+                  <gmd:organisationName>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Pollution Control Agency</gco:CharacterString>
+                  </gmd:organisationName>
+                  <gmd:positionName>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GIS Database Administrator</gco:CharacterString>
+                  </gmd:positionName>
+                  <gmd:contactInfo>
+                    <gmd:CI_Contact>
+                      <gmd:phone>
+                        <gmd:CI_Telephone>
+                          <gmd:voice>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651.757.2350</gco:CharacterString>
+                          </gmd:voice>
+                        </gmd:CI_Telephone>
+                      </gmd:phone>
+                      <gmd:address>
+                        <gmd:CI_Address>
+                          <gmd:deliveryPoint>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">520 Lafayette Rd N</gco:CharacterString>
+                          </gmd:deliveryPoint>
+                          <gmd:city>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
+                          </gmd:city>
+                          <gmd:administrativeArea>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
+                          </gmd:administrativeArea>
+                          <gmd:postalCode>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55155</gco:CharacterString>
+                          </gmd:postalCode>
+                          <gmd:electronicMailAddress>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">david.fawcett@pca.state.mn.us</gco:CharacterString>
+                          </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                      </gmd:address>
+                    </gmd:CI_Contact>
+                  </gmd:contactInfo>
+                  <gmd:role>
+                    <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="distributor" codeSpace="005"/>
+                  </gmd:role>
+                </gmd:CI_ResponsibleParty>
+              </gmd:distributorContact>
+            </gmd:MD_Distributor>
+          </gmd:distributor>
+          <gmd:transferOptions>
+            <gmd:MD_DigitalTransferOptions>
+              <gmd:transferSize>
+                <gco:Real xmlns:gco="http://www.isotc211.org/2005/gco">1</gco:Real>
+              </gmd:transferSize>
+              <gmd:onLine>
+                <gmd:CI_OnlineResource>
+                  <gmd:linkage>
+                    <gmd:URL>https://gisdata.mn.gov/dataset/env-feedlots</gmd:URL>
+                  </gmd:linkage>
+                  <gmd:protocol>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:LINK</gco:CharacterString>
+                  </gmd:protocol>
+                </gmd:CI_OnlineResource>
+              </gmd:onLine>
+              <gmd:onLine>
+                <gmd:CI_OnlineResource>
+                  <gmd:linkage>
+                    <gmd:URL>ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_pca/env_feedlots/shp_env_feedlots.zip</gmd:URL>
+                  </gmd:linkage>
+                  <gmd:protocol>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:DOWNLOAD-1.0-ftp--download</gco:CharacterString>
+                  </gmd:protocol>
+                </gmd:CI_OnlineResource>
+              </gmd:onLine>
+            </gmd:MD_DigitalTransferOptions>
+          </gmd:transferOptions>
+        </gmd:MD_Distribution>
+      </gmd:distributionInfo>
+      <gmd:dataQualityInfo>
+        <gmd:DQ_DataQuality>
+          <gmd:scope xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+          <gmd:report>
+            <gmd:DQ_AbsoluteExternalPositionalAccuracy>
+              <gmd:nameOfMeasure>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Horizontal Positional Accuracy</gco:CharacterString>
+              </gmd:nameOfMeasure>
+              <gmd:evaluationMethodDescription>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Horizontal Accuracy is variable by feature. The accuracy of an individual feature can be determined by the value of the 'CONFIDENCE' column. The current and detailed descriptions of the confidence codes can be found at: http://www.mda.state.mn.us/efdp/ (login required)</gco:CharacterString>
+              </gmd:evaluationMethodDescription>
+              <gmd:result>
+                <gmd:DQ_QuantitativeResult>
+                  <gmd:valueUnit>
+                    <gml:BaseUnit xmlns:gml="http://www.opengis.net/gml" gml:id="meters">
+                      <gml:identifier codeSpace="meters"/>
+                      <gml:unitsSystem xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.bipm.org/en/si/"/>
+                    </gml:BaseUnit>
+                  </gmd:valueUnit>
+                </gmd:DQ_QuantitativeResult>
+              </gmd:result>
+            </gmd:DQ_AbsoluteExternalPositionalAccuracy>
+          </gmd:report>
+          <gmd:report>
+            <gmd:DQ_CompletenessCommission>
+              <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+            </gmd:DQ_CompletenessCommission>
+          </gmd:report>
+          <gmd:report>
+            <gmd:DQ_CompletenessOmission>
+              <gmd:evaluationMethodDescription>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">This dataset contains approximately 35,000 features. There are approximately 3000 additional feedlots in the Delta database for which we have not generated spatial features.</gco:CharacterString>
+              </gmd:evaluationMethodDescription>
+              <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+            </gmd:DQ_CompletenessOmission>
+          </gmd:report>
+          <gmd:report>
+            <gmd:DQ_ConceptualConsistency>
+              <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+            </gmd:DQ_ConceptualConsistency>
+          </gmd:report>
+          <gmd:lineage>
+            <gmd:LI_Lineage>
+              <gmd:processStep>
+                <gmd:LI_ProcessStep>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Metadata imported.</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:source>
+                    <gmd:LI_Source>
+                      <gmd:sourceCitation>
+                        <gmd:CI_Citation>
+                          <gmd:title>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Server=globe; Service=5152; User=DELTA; Version=SDE.DEFAULT</gco:CharacterString>
+                          </gmd:title>
+                          <gmd:date xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+                        </gmd:CI_Citation>
+                      </gmd:sourceCitation>
+                    </gmd:LI_Source>
+                  </gmd:source>
+                </gmd:LI_ProcessStep>
+              </gmd:processStep>
+              <gmd:processStep>
+                <gmd:LI_ProcessStep>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Metadata imported.</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:source>
+                    <gmd:LI_Source>
+                      <gmd:sourceCitation>
+                        <gmd:CI_Citation>
+                          <gmd:title>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">H:\sqlScriptsLive\AgData\mpca_feedlots_au_old2.shp.xml</gco:CharacterString>
+                          </gmd:title>
+                          <gmd:date xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+                        </gmd:CI_Citation>
+                      </gmd:sourceCitation>
+                    </gmd:LI_Source>
+                  </gmd:source>
+                </gmd:LI_ProcessStep>
+              </gmd:processStep>
+              <gmd:processStep>
+                <gmd:LI_ProcessStep>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Metadata imported.</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:source>
+                    <gmd:LI_Source>
+                      <gmd:sourceCitation>
+                        <gmd:CI_Citation>
+                          <gmd:title>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">H:\sqlScriptsLive\AgData\mpca_feedlots_au_old.shp.xml</gco:CharacterString>
+                          </gmd:title>
+                          <gmd:date xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+                        </gmd:CI_Citation>
+                      </gmd:sourceCitation>
+                    </gmd:LI_Source>
+                  </gmd:source>
+                </gmd:LI_ProcessStep>
+              </gmd:processStep>
+              <gmd:processStep>
+                <gmd:LI_ProcessStep>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Metadata imported.</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:source>
+                    <gmd:LI_Source>
+                      <gmd:sourceCitation>
+                        <gmd:CI_Citation>
+                          <gmd:title>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">D:\TestGisData\feedlotsForAg\LastVersion\mpca_feedlots_au.shp.xml</gco:CharacterString>
+                          </gmd:title>
+                          <gmd:date xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+                        </gmd:CI_Citation>
+                      </gmd:sourceCitation>
+                    </gmd:LI_Source>
+                  </gmd:source>
+                </gmd:LI_ProcessStep>
+              </gmd:processStep>
+              <gmd:processStep>
+                <gmd:LI_ProcessStep>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Metadata imported.</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:dateTime>
+                    <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2008-12-11T11:31:09</gco:DateTime>
+                  </gmd:dateTime>
+                  <gmd:source>
+                    <gmd:LI_Source>
+                      <gmd:sourceCitation>
+                        <gmd:CI_Citation>
+                          <gmd:title>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">C:\DOCUME~1\dfawcett\LOCALS~1\Temp\xml8A.tmp</gco:CharacterString>
+                          </gmd:title>
+                          <gmd:date xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+                        </gmd:CI_Citation>
+                      </gmd:sourceCitation>
+                    </gmd:LI_Source>
+                  </gmd:source>
+                </gmd:LI_ProcessStep>
+              </gmd:processStep>
+              <gmd:processStep>
+                <gmd:LI_ProcessStep>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Metadata imported.</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:source>
+                    <gmd:LI_Source>
+                      <gmd:sourceCitation>
+                        <gmd:CI_Citation>
+                          <gmd:title>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">V:\feedlots\mpca_feedlots_au.shp.xml</gco:CharacterString>
+                          </gmd:title>
+                          <gmd:date xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+                        </gmd:CI_Citation>
+                      </gmd:sourceCitation>
+                    </gmd:LI_Source>
+                  </gmd:source>
+                </gmd:LI_ProcessStep>
+              </gmd:processStep>
+              <gmd:processStep>
+                <gmd:LI_ProcessStep>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Metadata imported.</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:source>
+                    <gmd:LI_Source>
+                      <gmd:sourceCitation>
+                        <gmd:CI_Citation>
+                          <gmd:title>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">V:\feedlots\mpca_feedlots_ac_old.shp.xml</gco:CharacterString>
+                          </gmd:title>
+                          <gmd:date xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+                        </gmd:CI_Citation>
+                      </gmd:sourceCitation>
+                    </gmd:LI_Source>
+                  </gmd:source>
+                </gmd:LI_ProcessStep>
+              </gmd:processStep>
+              <gmd:processStep>
+                <gmd:LI_ProcessStep>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Metadata imported.</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:dateTime>
+                    <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2009-01-28T13:52:30</gco:DateTime>
+                  </gmd:dateTime>
+                  <gmd:source>
+                    <gmd:LI_Source>
+                      <gmd:sourceCitation>
+                        <gmd:CI_Citation>
+                          <gmd:title>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">V:\feedlots\mpca_feedlots_ac_old2.shp.xml</gco:CharacterString>
+                          </gmd:title>
+                          <gmd:date xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+                        </gmd:CI_Citation>
+                      </gmd:sourceCitation>
+                    </gmd:LI_Source>
+                  </gmd:source>
+                </gmd:LI_ProcessStep>
+              </gmd:processStep>
+              <gmd:processStep>
+                <gmd:LI_ProcessStep>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Metadata imported.</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:dateTime>
+                    <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2009-03-04T14:20:51</gco:DateTime>
+                  </gmd:dateTime>
+                  <gmd:source>
+                    <gmd:LI_Source>
+                      <gmd:sourceCitation>
+                        <gmd:CI_Citation>
+                          <gmd:title>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">V:\feedlots\mpca_feedlots_ac_old.shp.xml</gco:CharacterString>
+                          </gmd:title>
+                          <gmd:date xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+                        </gmd:CI_Citation>
+                      </gmd:sourceCitation>
+                    </gmd:LI_Source>
+                  </gmd:source>
+                </gmd:LI_ProcessStep>
+              </gmd:processStep>
+              <gmd:processStep>
+                <gmd:LI_ProcessStep>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Metadata imported.</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:dateTime>
+                    <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2009-04-16T13:28:18</gco:DateTime>
+                  </gmd:dateTime>
+                  <gmd:source>
+                    <gmd:LI_Source>
+                      <gmd:sourceCitation>
+                        <gmd:CI_Citation>
+                          <gmd:title>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">V:\feedlots\mpca_feedlots_ac.shp.xml</gco:CharacterString>
+                          </gmd:title>
+                          <gmd:date xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+                        </gmd:CI_Citation>
+                      </gmd:sourceCitation>
+                    </gmd:LI_Source>
+                  </gmd:source>
+                </gmd:LI_ProcessStep>
+              </gmd:processStep>
+            </gmd:LI_Lineage>
+          </gmd:lineage>
+        </gmd:DQ_DataQuality>
+      </gmd:dataQualityInfo>
+      <gmd:metadataMaintenance>
+        <gmd:MD_MaintenanceInformation>
+          <gmd:maintenanceAndUpdateFrequency xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+          <gmd:maintenanceNote>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">This metadata was automatically generated from the Minnesota Geographic Metadata Guidelinesstandard version 1.2 using the January 2013 version of the FGDC CSDGM to ISO 19115-2 transform.</gco:CharacterString>
+          </gmd:maintenanceNote>
+          <gmd:contact>
+            <gmd:CI_ResponsibleParty>
+              <gmd:individualName>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">David J. Fawcett</gco:CharacterString>
+              </gmd:individualName>
+              <gmd:organisationName>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Pollution Control Agency</gco:CharacterString>
+              </gmd:organisationName>
+              <gmd:positionName>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GIS Database Administrator</gco:CharacterString>
+              </gmd:positionName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:phone>
+                    <gmd:CI_Telephone>
+                      <gmd:voice>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651.757.2350</gco:CharacterString>
+                      </gmd:voice>
+                    </gmd:CI_Telephone>
+                  </gmd:phone>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:deliveryPoint>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">520 Lafayette Rd N</gco:CharacterString>
+                      </gmd:deliveryPoint>
+                      <gmd:city>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
+                      </gmd:city>
+                      <gmd:administrativeArea>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
+                      </gmd:administrativeArea>
+                      <gmd:postalCode>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55155</gco:CharacterString>
+                      </gmd:postalCode>
+                      <gmd:electronicMailAddress>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">david.fawcett@pca.state.mn.us</gco:CharacterString>
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+              <gmd:role>
+                <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="custodian" codeSpace="002"/>
+              </gmd:role>
+            </gmd:CI_ResponsibleParty>
+          </gmd:contact>
+        </gmd:MD_MaintenanceInformation>
+      </gmd:metadataMaintenance>
+    </gmd:MD_Metadata>
+    

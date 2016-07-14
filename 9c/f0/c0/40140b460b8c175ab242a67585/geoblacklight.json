@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:39Z", 
+"solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-cities-counties-twps-map\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-9cf0c040-140b-460b-8c17-5ab242a67585", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"boundaries"
+], 
+"dct_temporal_sm": "2008", 
+"dc_description_s": "This map of Minnesota cities, townships, and counties was published by MnGeo in November 2013. The primary data set for the map is the NCities, Townships, and Unorganized TerritoriesN (MnCTU) data maintained by the Minnesota Department of Transportation. Other reference data on the map include County Seats and Other Cities, County Boundaries, Interstate, US Trunk, and State Trunk Highways, Major Rivers, Lakes, County and State Boundaries. The download is a PDF file with embedded layers that can be printed at E-scale (36N x 48N).", 
+"dct_issued_s": "2013-06-15", 
+"dc_format_s": "", 
+"dc_creator_sm": [
+"Minnesota Geospatial Information Office (MnGeo)"
+], 
+"dc_identifier_s": "urn-9cf0c040-140b-460b-8c17-5ab242a67585", 
+"dc_relation_sm": [
+"https://gisdata.mn.gov/dataset/bdry-mn-city-township-unorg  (MnCTU data)https://gisdata.mn.gov/dataset/trans-roads-mndot-tis (MnDOT Road Centerlines)"
+], 
+"georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
+"solr_year_i": 2013, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Geospatial Information Office (MnGeo)"
+], 
+"layer_id_s": "urn:urn-9cf0c040-140b-460b-8c17-5ab242a67585", 
+"georss_box_s": "43.5 -97.23 49.37 -89.53", 
+"dc_title_s": "Cities, Townships, and Counties Reference Map: Minnesota, 2013", 
+"layer_slug_s": "Minnesota-urn-9cf0c040-140b-460b-8c17-5ab242a67585"
+}

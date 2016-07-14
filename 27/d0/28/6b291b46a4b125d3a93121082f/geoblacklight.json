@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:30Z", 
+"solr_geom": "ENVELOPE(-93.329853, -92.729236, 44.923499, 44.468748)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-co-dakota-base-aerialphotography-2015-serv\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-27d0286b-291b-46a4-b125-d3a93121082f", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"imageryBaseMapsEarthCover", 
+"aerial photograph", 
+"aerial photography"
+], 
+"dct_temporal_sm": "peri", 
+"dc_description_s": "Low level aerial photography for Dakota County flown in Spring 2015.", 
+"dct_issued_s": "2015-04-01", 
+"dc_format_s": "", 
+"dc_creator_sm": [
+"Dakota County"
+], 
+"dc_identifier_s": "urn-27d0286b-291b-46a4-b125-d3a93121082f", 
+"georss_polygon_s": "44.468748 -93.329853 44.923499 -93.329853 44.923499 -92.729236 44.468748 -92.729236 44.468748 -93.329853", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Dakota County, Minnesota"
+], 
+"dc_publisher_sm": [
+"Dakota County, Minnesota"
+], 
+"layer_id_s": "urn:urn-27d0286b-291b-46a4-b125-d3a93121082f", 
+"georss_box_s": "44.468748 -93.329853 44.923499 -92.729236", 
+"dc_title_s": "Aerial Photography: Dakota County, Minnesota, 2015", 
+"layer_slug_s": "Minnesota-urn-27d0286b-291b-46a4-b125-d3a93121082f"
+}

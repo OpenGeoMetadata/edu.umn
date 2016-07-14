@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Point", 
+"layer_modified_dt": "2016-06-29T10:00:24Z", 
+"solr_geom": "ENVELOPE(-93.328634, -92.754441, 44.922913, 44.470838)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-co-dakota-econ-foreclosures\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/econ_foreclosures/shp_econ_foreclosures.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-4cc28e15-470e-4851-b82e-5c2dad7b4f7e", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"economy", 
+"economy", 
+"foreclosure"
+], 
+"dct_temporal_sm": "2016", 
+"dc_description_s": "This dataset consists of eight related feature classes. Each feature class represents a single year from 2007 to 2015. The feature classes contain points representing Sheriff's Office Foreclosure Sales in Dakota County. The Dakota County Sheriff's Office serves only as the auctioneer for foreclosed property sales in the County. The Sheriff's Office does not provide a list of upcoming sales.", 
+"dct_issued_s": "2016-01-01", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Dakota County GIS, Dakota County GIS, Staff"
+], 
+"dc_identifier_s": "urn-4cc28e15-470e-4851-b82e-5c2dad7b4f7e", 
+"georss_polygon_s": "44.470838 -93.328634 44.922913 -93.328634 44.922913 -92.754441 44.470838 -92.754441 44.470838 -93.328634", 
+"solr_year_i": 2016, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Dakota County, Minnesota"
+], 
+"dc_publisher_sm": [
+"Dakota County, Minnesota"
+], 
+"layer_id_s": "urn:urn-4cc28e15-470e-4851-b82e-5c2dad7b4f7e", 
+"georss_box_s": "44.470838 -93.328634 44.922913 -92.754441", 
+"dc_title_s": "Foreclosure Sales: Dakota County, Minnesota, 2016", 
+"layer_slug_s": "Minnesota-urn-4cc28e15-470e-4851-b82e-5c2dad7b4f7e"
+}

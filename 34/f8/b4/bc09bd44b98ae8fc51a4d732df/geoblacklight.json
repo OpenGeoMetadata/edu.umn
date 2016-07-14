@@ -1,0 +1,37 @@
+{
+"layer_geom_type_s": "Polygon", 
+"layer_modified_dt": "2016-06-28T11:10:20.556845Z", 
+"solr_geom": "ENVELOPE(-93.9144421113124, -93.2778090351471, 44.8133199597567, 44.5421390786307)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.gis.co.scott.mn.us/datasets/35755368d51e4b739ff451c3c3349ddc_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/Commissioner_Districts/FeatureServer/0\",\"http://schema.org/url\":\"http://opendata.gis.co.scott.mn.us/datasets/35755368d51e4b739ff451c3c3349ddc_0\"}", 
+"dc_rights_s": "Public", 
+"uuid": "34f8b4bc-09bd-44b9-8ae8-fc51a4d732df", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"", 
+"Scott County Minnesota", 
+"Livable", 
+"Commissioner Districts", 
+"Elections"
+], 
+"dct_temporal_sm": "2016", 
+"dc_description_s": "2012 Scott County Commissioner Districts. Updated and approved by Scott County Board as of May 2012 and developed by the Redistricting Committee.", 
+"dct_issued_s": "2015-11-16T22:09:58.000ZZ", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Scott County Minnesota"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "34f8b4bc-09bd-44b9-8ae8-fc51a4d732df", 
+"georss_polygon_s": "44.5421390786307 -93.9144421113124 44.8133199597567 -93.9144421113124 44.8133199597567 -93.2778090351471 44.5421390786307 -93.2778090351471 44.5421390786307 -93.9144421113124", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Scott County, Minnesota"
+], 
+"dc_publisher_sm": [
+"Scott County Minnesota"
+], 
+"layer_id_s": "urn:34f8b4bc-09bd-44b9-8ae8-fc51a4d732df", 
+"georss_box_s": "44.5421390786307 -93.9144421113124 44.8133199597567 -93.2778090351471", 
+"dc_title_s": "Commissioner Districts", 
+"layer_slug_s": "Minnesota-34f8b4bc-09bd-44b9-8ae8-fc51a4d732df"
+}

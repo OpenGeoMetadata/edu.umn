@@ -1,0 +1,32 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:49Z", 
+"solr_geom": "ENVELOPE(-96.717361, -89.394166, 49.348276, 43.449311)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-lakes-surveyed-by-mndnr\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_lakes_surveyed_by_mndnr/shp_env_lakes_surveyed_by_mndnr.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-a8437946-742c-41cd-b4a6-5309b699f482", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"environment"
+], 
+"dct_temporal_sm": "2006", 
+"dc_description_s": "This layer represents lakes previously surveyed by DNR Fisheries Lake Survey staff. Lakes included in this dataset have been surveyed at least once from 1947 - 2006, and have data stored in the DNR Fisheries Lake Survey Oracle database. The date of the most recent survey for each lake is recorded in the attribute table. Lakes that have been redigitized to match recent aerial photos have the imagery source listed in the Redig_src field (i.e., 1991 DOQ or 2004 FSA). Some lakes are surveyed on a rotating year basis, and new surveys will be added each year. Most recent survey dates will be updated accordingly. This layer is a subset of the DNR 100K Lakes and Rivers layer, and follows the same history.", 
+"dct_issued_s": "2006-01-01T06:00:00.000Z", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (DNR)"
+], 
+"dc_identifier_s": "urn-a8437946-742c-41cd-b4a6-5309b699f482", 
+"georss_polygon_s": "43.449311 -96.717361 49.348276 -96.717361 49.348276 -89.394166 43.449311 -89.394166 43.449311 -96.717361", 
+"solr_year_i": 2006, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-a8437946-742c-41cd-b4a6-5309b699f482", 
+"georss_box_s": "43.449311 -96.717361 49.348276 -89.394166", 
+"dc_title_s": "DNR Hydrography, Fisheries Surveyed Lakes: Minnesota, 2006", 
+"layer_slug_s": "Minnesota-urn-a8437946-742c-41cd-b4a6-5309b699f482"
+}

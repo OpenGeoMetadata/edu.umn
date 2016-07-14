@@ -1,0 +1,38 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:33Z", 
+"solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-society-census2010population\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/society_census2010population/shp_society_census2010population.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-8273b9e8-aa48-468f-8ba0-454441fd2241", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"society", 
+"human population", 
+"census survey"
+], 
+"dct_temporal_sm": "2010", 
+"dc_description_s": "Decennial Census 2010 includes tabulations of housing units, total population and adult population by race and Hispanicity. Geographies nationwide can be obtained from Census, with disaggregate geographic detail down to Block-level. Metropolitan Council is publishing files for 2010 Blocks, Block Groups and Tracts.", 
+"dct_issued_s": "2011-03-17", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"U.S. Census Bureau"
+], 
+"dc_identifier_s": "urn-8273b9e8-aa48-468f-8ba0-454441fd2241", 
+"dc_relation_sm": [
+"Census Geography 2010 Tiger"
+], 
+"georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
+"solr_year_i": 2011, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-8273b9e8-aa48-468f-8ba0-454441fd2241", 
+"georss_box_s": "43.5 -97.23 49.37 -89.53", 
+"dc_title_s": "Decennial Census: Twin Cities Metro, Minnesota, 2010", 
+"layer_slug_s": "Minnesota-urn-8273b9e8-aa48-468f-8ba0-454441fd2241"
+}

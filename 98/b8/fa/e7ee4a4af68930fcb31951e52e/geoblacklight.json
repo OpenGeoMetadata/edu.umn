@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:53Z", 
+"solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-bdry-census2010counties-ctus\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Demographics/MapServer/23\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/bdry_census2010counties_ctus/shp_bdry_census2010counties_ctus.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-98b8fae7-ee4a-4af6-8930-fcb31951e52e", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"boundaries"
+], 
+"dct_temporal_sm": "2010", 
+"dc_description_s": "This is a polygon dataset for county boundaries as well as for city, township and unorganized territory (CTU) boundaries in the Twin Cities 7-county metropolitan area. It is being held static as of April, 2010 for use with Census data and other year 2010 data. The linework for this dataset comes from individual counties and is assembled by the Metropolitan Council for the MetroGIS community. This dataset is composed of three shape files. - County Boundaries - 2010 - City and Township Boundaries - 2010 - County, City and Township Boundaries Combined - 2010 NOTES: - The five digit CTU codes in this dataset are identical to the Federal Information Processing Standard (FIPS) ''Place'' codes. They are also used by the Census Bureau and many other organizations and are proposed as a MN state data coding standard. - Cities and townships have also been referred to as ''MCDs'' (a census term), however this term technically refers to the part of each city or township within a single county. Thus, a few cities in the metro area that are split by county boundaries are actually comprised of two different MCDs. This was part of the impetus for a proposed MN state data standard that uses the ''CTU'' terminology for clarity. - The boundary line data for this dataset comes from each county. - A variety of civil divisions of the land exist within the United States. In Minnesota, only three types exist - cities, townships and unorganized territories. All three of these exist within the Twin Cities seven county area. The only unorganized territory is Fort Snelling (a large portion of which is occupied by the MSP International Airport). - Some cities are split between two counties. Only those parts of cities within the 7-county area are included.", 
+"dct_issued_s": "2010-04-01T06:00:00.000Z", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"The Counties of Anoka, Dakota, Carver, Hennepin, Ramsey, Scott and Washington and the Metropolitan Council"
+], 
+"dc_identifier_s": "urn-98b8fae7-ee4a-4af6-8930-fcb31951e52e", 
+"dc_relation_sm": [
+"Counties, County, City and Township Lookup Table - Excel & dBase, County, City and Township Boundaries Combined - 2000"
+], 
+"georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
+"solr_year_i": 2010, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-98b8fae7-ee4a-4af6-8930-fcb31951e52e", 
+"georss_box_s": "44.471 -94.012 45.415 -92.732", 
+"dc_title_s": "Counties, Cities and Townships: Twin Cities Metro, Minnesota, 2010", 
+"layer_slug_s": "Minnesota-urn-98b8fae7-ee4a-4af6-8930-fcb31951e52e"
+}

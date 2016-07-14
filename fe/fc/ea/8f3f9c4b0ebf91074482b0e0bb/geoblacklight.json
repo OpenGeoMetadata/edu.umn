@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:33Z", 
+"solr_geom": "ENVELOPE(-96.640399, -92.773538, 47.883332, 43.512542)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-assessed-wetlands-2012\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_pca/env_assessed_wetlands_2012/shp_env_assessed_wetlands_2012.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-fefcea8f-3f9c-4b0e-bf91-074482b0e0bb", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"environment"
+], 
+"dct_temporal_sm": "2012", 
+"dc_description_s": "These are the wetlands assessed by MPCA in 2011 for the 2012 303(d)/305(b) integrated report to EPA. The wetlands are a subset and enhancement of the 1:24,000 scale National Hydrography Dataset (NHD). MPCA adds additional wetlands. Since the assessed wetlands are a small subset of the NHD wetlands, only that subset is included in the dataset.", 
+"dct_issued_s": "2013-08-23", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Pollution Control Agency"
+], 
+"dc_identifier_s": "urn-fefcea8f-3f9c-4b0e-bf91-074482b0e0bb", 
+"dc_relation_sm": [
+"Minnesota 2012 Surface Water Quality Assessments - Lakes and Streams"
+], 
+"georss_polygon_s": "43.512542 -96.640399 47.883332 -96.640399 47.883332 -92.773538 43.512542 -92.773538 43.512542 -96.640399", 
+"solr_year_i": 2013, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Pollution Control Agency"
+], 
+"layer_id_s": "urn:urn-fefcea8f-3f9c-4b0e-bf91-074482b0e0bb", 
+"georss_box_s": "43.512542 -96.640399 47.883332 -92.773538", 
+"dc_title_s": "Assessed Wetlands: Minnesota, 2012", 
+"layer_slug_s": "Minnesota-urn-fefcea8f-3f9c-4b0e-bf91-074482b0e0bb"
+}

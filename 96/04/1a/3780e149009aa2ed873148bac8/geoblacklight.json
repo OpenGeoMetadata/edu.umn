@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:50Z", 
+"solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-transit-stops\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Transportation/MapServer/17\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_transit_stops/shp_trans_transit_stops.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-96041a37-80e1-4900-9aa2-ed873148bac8", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"transportation"
+], 
+"dct_temporal_sm": "upda", 
+"dc_description_s": "The Transit Stops layer contains over 18,000 active and inactive transit stops in the Twin Cities seven county metropolitan area. Stops where boarding and/or alighing occurs are flagged in the busstop_yn field. The dataset includes attributes from the primary transit stop database maintained for Metro Transit and for customer information for other transit provider transit services. The locations are mapped referencing NCompass Technologies Inc. street centerline network along with streets generated internally at Metro Transit.", 
+"dct_issued_s": "2012-01-23", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Metropolitan Council - Metro Transit"
+], 
+"dc_identifier_s": "urn-96041a37-80e1-4900-9aa2-ed873148bac8", 
+"dc_relation_sm": [
+"Transit Routes, transit segments, Transit Shelters, Park and Ride Lots"
+], 
+"georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
+"solr_year_i": 2012, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-96041a37-80e1-4900-9aa2-ed873148bac8", 
+"georss_box_s": "44.471 -94.012 45.415 -92.732", 
+"dc_title_s": "Transit Stops: Twin Cities Metro, Minnesota, 2012", 
+"layer_slug_s": "Minnesota-urn-96041a37-80e1-4900-9aa2-ed873148bac8"
+}

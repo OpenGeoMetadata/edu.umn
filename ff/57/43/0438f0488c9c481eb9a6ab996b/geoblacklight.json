@@ -1,0 +1,32 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:09Z", 
+"solr_geom": "ENVELOPE(-96.334818, -89.798111, 48.999133, 43.533645)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-wildlife-refuge-inventory\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_wildlife_refuge_inventory/shp_bdry_wildlife_refuge_inventory.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-ff574304-38f0-488c-9c48-1eb9a6ab996b", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"boundaries"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "This polygon theme contains boundaries for 167 Refuges across the state. Refuges are acquired to improve land for public hunting, game refuges, and food and cover planting.", 
+"dct_issued_s": "2012-03-20", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (DNR)"
+], 
+"dc_identifier_s": "urn-ff574304-38f0-488c-9c48-1eb9a6ab996b", 
+"georss_polygon_s": "43.533645 -96.334818 48.999133 -96.334818 48.999133 -89.798111 43.533645 -89.798111 43.533645 -96.334818", 
+"solr_year_i": 2012, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-ff574304-38f0-488c-9c48-1eb9a6ab996b", 
+"georss_box_s": "43.533645 -96.334818 48.999133 -89.798111", 
+"dc_title_s": "Wildlife Refuge Inventory: Minnesota, 2012", 
+"layer_slug_s": "Minnesota-urn-ff574304-38f0-488c-9c48-1eb9a6ab996b"
+}

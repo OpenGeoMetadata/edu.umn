@@ -1,0 +1,1840 @@
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd">
+      <gmd:fileIdentifier>
+        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">cb11c75c-9288-4db2-90d7-056b8f261bf6</gco:CharacterString>
+      </gmd:fileIdentifier>
+      <gmd:language>
+        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">eng</gco:CharacterString>
+      </gmd:language>
+      <gmd:characterSet>
+        <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="004"/>
+      </gmd:characterSet>
+      <gmd:hierarchyLevel>
+        <gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="005"/>
+      </gmd:hierarchyLevel>
+      <gmd:contact>
+        <gmd:CI_ResponsibleParty>
+          <gmd:individualName>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Nancy Rader</gco:CharacterString>
+          </gmd:individualName>
+          <gmd:organisationName>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Geospatial Information Office (MnGeo)</gco:CharacterString>
+          </gmd:organisationName>
+          <gmd:positionName>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GIS Data Coordinator</gco:CharacterString>
+          </gmd:positionName>
+          <gmd:contactInfo>
+            <gmd:CI_Contact>
+              <gmd:phone>
+                <gmd:CI_Telephone>
+                  <gmd:voice>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-201-2489</gco:CharacterString>
+                  </gmd:voice>
+                  <gmd:facsimile>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-296-6398</gco:CharacterString>
+                  </gmd:facsimile>
+                </gmd:CI_Telephone>
+              </gmd:phone>
+              <gmd:address>
+                <gmd:CI_Address>
+                  <gmd:deliveryPoint>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">658 Cedar Street, Room 300</gco:CharacterString>
+                  </gmd:deliveryPoint>
+                  <gmd:city>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
+                  </gmd:city>
+                  <gmd:administrativeArea>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
+                  </gmd:administrativeArea>
+                  <gmd:postalCode>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55155</gco:CharacterString>
+                  </gmd:postalCode>
+                  <gmd:electronicMailAddress>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">gisinfo.mngeo@state.mn.us</gco:CharacterString>
+                  </gmd:electronicMailAddress>
+                </gmd:CI_Address>
+              </gmd:address>
+            </gmd:CI_Contact>
+          </gmd:contactInfo>
+          <gmd:role>
+            <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="007"/>
+          </gmd:role>
+        </gmd:CI_ResponsibleParty>
+      </gmd:contact>
+      <gmd:dateStamp>
+        <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-06-29T09:59:42</gco:DateTime>
+      </gmd:dateStamp>
+      <gmd:metadataStandardName>
+        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
+      </gmd:metadataStandardName>
+      <gmd:metadataStandardVersion>
+        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2:2009(E)</gco:CharacterString>
+      </gmd:metadataStandardVersion>
+      <gmd:referenceSystemInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ngdc.noaa.gov/docucomp/65f8b220-95ed-11e0-aa80-0800200c9a66" xlink:title="North American Datum 1983"/>
+      <gmd:referenceSystemInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ngdc.noaa.gov/docucomp/c3895520-95ed-11e0-aa80-0800200c9a66" xlink:title="Geodetic Reference System 1980"/>
+      <gmd:identificationInfo>
+        <gmd:MD_DataIdentification>
+          <gmd:citation>
+            <gmd:CI_Citation>
+              <gmd:title>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Digital Orthoimagery, 0.5 Meter: Central and Northwest Minnesota, Spring 2013-2014</gco:CharacterString>
+              </gmd:title>
+              <gmd:date>
+                <gmd:CI_Date>
+                  <gmd:date>
+                    <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2015-06</gco:Date>
+                  </gmd:date>
+                  <gmd:dateType>
+                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                  </gmd:dateType>
+                </gmd:CI_Date>
+              </gmd:date>
+              <gmd:identifier>
+                <gmd:MD_Identifier>
+                  <gmd:code>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">SAIP Central and Northwestern Minnesota</gco:CharacterString>
+                  </gmd:code>
+                </gmd:MD_Identifier>
+              </gmd:identifier>
+              <gmd:identifier>
+                <gmd:MD_Identifier>
+                  <gmd:code>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">urn-cb11c75c-9288-4db2-90d7-056b8f261bf6</gco:CharacterString>
+                  </gmd:code>
+                </gmd:MD_Identifier>
+              </gmd:identifier>
+              <gmd:citedResponsibleParty>
+                <gmd:CI_ResponsibleParty>
+                  <gmd:organisationName>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Department of Natural Resources and Quantum Spatial, Inc.</gco:CharacterString>
+                  </gmd:organisationName>
+                  <gmd:role>
+                    <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="006"/>
+                  </gmd:role>
+                </gmd:CI_ResponsibleParty>
+              </gmd:citedResponsibleParty>
+              <gmd:citedResponsibleParty>
+                <gmd:CI_ResponsibleParty>
+                  <gmd:organisationName>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Geospatial Information Office (MnGeo)</gco:CharacterString>
+                  </gmd:organisationName>
+                  <gmd:role>
+                    <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="010"/>
+                  </gmd:role>
+                </gmd:CI_ResponsibleParty>
+              </gmd:citedResponsibleParty>
+              <gmd:presentationForm>
+                <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_PresentationFormCode" codeListValue="imageDigital" codeSpace="003"/>
+              </gmd:presentationForm>
+            </gmd:CI_Citation>
+          </gmd:citation>
+          <gmd:abstract>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">This dataset contains leaf-off 4-band red, green, blue, infrared (RGBI) digital orthophoto imagery produced at 50-centimenter resolution from new aerial photography captured in the spring of 2013 and spring of 2014. The imagery covers most of 29 counties in central and northwestern Minnesota. Funding for this data was provided by the Minnesota Natural Heritage Fund, the Minnesota Clean Water Legacy Act, and The Environmental and Natural Resources Trust Fund. This metadata record was created by the Minnesota Geospatial Information Office (MnGeo) using information supplied by Quantum Spatial, Inc. (formerly Aero-Metric).</gco:CharacterString>
+          </gmd:abstract>
+          <gmd:purpose>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Support multi-agency efforts including transportation planning, wetland mapping, urban planning, forest management, soil mapping, and utility siting.</gco:CharacterString>
+          </gmd:purpose>
+          <gmd:status>
+            <gmd:MD_ProgressCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ProgressCode" codeListValue="completed" codeSpace="001"/>
+          </gmd:status>
+          <gmd:pointOfContact>
+            <gmd:CI_ResponsibleParty>
+              <gmd:individualName>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Steve Kloiber</gco:CharacterString>
+              </gmd:individualName>
+              <gmd:organisationName>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Department of Natural Resources</gco:CharacterString>
+              </gmd:organisationName>
+              <gmd:positionName>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Wetland Monitoring Coordinator</gco:CharacterString>
+              </gmd:positionName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:phone>
+                    <gmd:CI_Telephone>
+                      <gmd:voice>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-259-5164</gco:CharacterString>
+                      </gmd:voice>
+                    </gmd:CI_Telephone>
+                  </gmd:phone>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:deliveryPoint>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">500 Lafayette Road</gco:CharacterString>
+                      </gmd:deliveryPoint>
+                      <gmd:city>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
+                      </gmd:city>
+                      <gmd:administrativeArea>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
+                      </gmd:administrativeArea>
+                      <gmd:postalCode>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55155</gco:CharacterString>
+                      </gmd:postalCode>
+                      <gmd:electronicMailAddress>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">steve.kloiber@state.mn.us</gco:CharacterString>
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+              <gmd:role>
+                <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="007"/>
+              </gmd:role>
+            </gmd:CI_ResponsibleParty>
+          </gmd:pointOfContact>
+          <gmd:resourceMaintenance>
+            <gmd:MD_MaintenanceInformation>
+              <gmd:maintenanceAndUpdateFrequency>
+                <gmd:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="notPlanned" codeSpace="011"/>
+              </gmd:maintenanceAndUpdateFrequency>
+            </gmd:MD_MaintenanceInformation>
+          </gmd:resourceMaintenance>
+          <gmd:graphicOverview>
+            <gmd:MD_BrowseGraphic>
+              <gmd:fileName>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mngeo/base_saip_central_nw2013_14_50cm/metadata/preview.jpg</gco:CharacterString>
+              </gmd:fileName>
+            </gmd:MD_BrowseGraphic>
+          </gmd:graphicOverview>
+          <gmd:descriptiveKeywords>
+            <gmd:MD_Keywords>
+              <gmd:keyword>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota, MN, Aitkin, Becker, Benton, Carlton, Cass, Clearwater, Crow Wing, Douglas, Grant, Hubbard, Kanabec, Kittson, Lake of the Woods, Mahnomen, Marshall, Morrison, Norman, Otter Tail, Pennington, Pine, Polk, Pope, Red Lake, Roseau, Stearns, Stevens, Todd, Traverse, Wadena</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:type>
+                <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="002">place</gmd:MD_KeywordTypeCode>
+              </gmd:type>
+              <gmd:thesaurusName>
+                <gmd:CI_Citation>
+                  <gmd:title>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Digital Imagery</gco:CharacterString>
+                  </gmd:title>
+                  <gmd:date xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+                </gmd:CI_Citation>
+              </gmd:thesaurusName>
+            </gmd:MD_Keywords>
+          </gmd:descriptiveKeywords>
+          <gmd:descriptiveKeywords>
+            <gmd:MD_Keywords>
+              <gmd:keyword>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:type>
+                <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="place"/>
+              </gmd:type>
+              <gmd:thesaurusName>
+                <gmd:CI_Citation>
+                  <gmd:title>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GeoNames</gco:CharacterString>
+                  </gmd:title>
+                  <gmd:date>
+                    <gmd:CI_Date>
+                      <gmd:date>
+                        <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2012-10-29</gco:Date>
+                      </gmd:date>
+                      <gmd:dateType>
+                        <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                      </gmd:dateType>
+                    </gmd:CI_Date>
+                  </gmd:date>
+                  <gmd:identifier>
+                    <gmd:MD_Identifier>
+                      <gmd:code>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">http://www.geonames.org/ontology/ontology_v3.1.rdf</gco:CharacterString>
+                      </gmd:code>
+                    </gmd:MD_Identifier>
+                  </gmd:identifier>
+                </gmd:CI_Citation>
+              </gmd:thesaurusName>
+            </gmd:MD_Keywords>
+          </gmd:descriptiveKeywords>
+          <gmd:resourceConstraints>
+            <gmd:MD_LegalConstraints>
+              <gmd:accessConstraints>
+                <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="008"/>
+              </gmd:accessConstraints>
+              <gmd:useConstraints>
+                <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="008"/>
+              </gmd:useConstraints>
+              <gmd:otherConstraints>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Access Constraints: Unrestricted Use Constraints: MnGeo Redistribution conditions: In obtaining this data from the Minnesota Geospatial Information Office (MnGeo), it is understood that you and/or your organization have the right to use it for any purpose. If you modify it, you are encouraged to apply responsible best practices by documenting those changes in a metadata record. If you transmit or provide the data to another user, it is your responsibility to provide appropriate content, limitation, warranty and liability information as you see fit. Distribution Liability: MnGeo's full disclaimer is here: http://www.mngeo.state.mn.us/chouse/disclaimer.html</gco:CharacterString>
+              </gmd:otherConstraints>
+            </gmd:MD_LegalConstraints>
+          </gmd:resourceConstraints>
+          <gmd:aggregationInfo>
+            <gmd:MD_AggregateInformation>
+              <gmd:aggregateDataSetName>
+                <gmd:CI_Citation>
+                  <gmd:title>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">For information on other air photos available for Minnesota, see:
+                    http://www.mngeo.state.mn.us/chouse/airphoto/</gco:CharacterString>
+                  </gmd:title>
+                  <gmd:date>
+                    <gmd:CI_Date>
+                      <gmd:dateType>
+                        <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                      </gmd:dateType>
+                    </gmd:CI_Date>
+                  </gmd:date>
+                </gmd:CI_Citation>
+              </gmd:aggregateDataSetName>
+              <gmd:associationType>
+                <gmd:DS_AssociationTypeCode codeListValue="crossReference" codeSpace="001" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#DS_AssociationTypeCode"/>
+              </gmd:associationType>
+            </gmd:MD_AggregateInformation>
+          </gmd:aggregationInfo>
+          <gmd:spatialRepresentationType>
+            <gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="grid" codeSpace="002"/>
+          </gmd:spatialRepresentationType>
+          <gmd:language>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">eng</gco:CharacterString>
+          </gmd:language>
+          <gmd:topicCategory>
+            <gmd:MD_TopicCategoryCode>imageryBaseMapsEarthCover</gmd:MD_TopicCategoryCode>
+          </gmd:topicCategory>
+          <gmd:environmentDescription>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Native Dataset Environment: IRAS C ver 10.0, Photoshop ver CS5, Windows XP and Windows 7, INPHO OrthoVista 5.5, Global Mapper 13, Bentley MicroStation 7 and 8, INPHO Match-AT 5.5, INPHO OrthoMaster 5.5</gco:CharacterString>
+          </gmd:environmentDescription>
+          <gmd:extent>
+            <gmd:EX_Extent id="boundingExtent">
+              <gmd:geographicElement>
+                <gmd:EX_GeographicBoundingBox id="boundingGeographicBoundingBox">
+                  <gmd:westBoundLongitude>
+                    <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">-97.2</gco:Decimal>
+                  </gmd:westBoundLongitude>
+                  <gmd:eastBoundLongitude>
+                    <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">-92.28</gco:Decimal>
+                  </gmd:eastBoundLongitude>
+                  <gmd:southBoundLatitude>
+                    <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">45.27</gco:Decimal>
+                  </gmd:southBoundLatitude>
+                  <gmd:northBoundLatitude>
+                    <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">49.4</gco:Decimal>
+                  </gmd:northBoundLatitude>
+                </gmd:EX_GeographicBoundingBox>
+              </gmd:geographicElement>
+            </gmd:EX_Extent>
+          </gmd:extent>
+          <gmd:extent>
+            <gmd:EX_Extent>
+              <gmd:temporalElement>
+                <gmd:EX_TemporalExtent>
+                  <gmd:extent>
+                    <gml:TimePeriod xmlns:gml="http://www.opengis.net/gml">
+                      <gml:beginPosition>2013-06-15</gml:beginPosition>
+                      <gml:endPosition>2014-06-15</gml:endPosition>
+                    </gml:TimePeriod>
+                  </gmd:extent>
+                </gmd:EX_TemporalExtent>
+              </gmd:temporalElement>
+            </gmd:EX_Extent>
+          </gmd:extent>
+          <gmd:supplementalInformation>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Most of the area covered by the following Minnesota counties: Aitkin, Becker,
+                Benton, Carlton (partial), Cass, Clearwater, Crow Wing, Douglas, Grant, Hubbard,
+                Kanabec, Kittson, Lake of the Woods, Mahnomen, Marshall, Morrison, Norman, Otter
+                Tail, Pennington, Pine, Polk (partial), Pope, Red Lake, Roseau, Stearns, Stevens,
+                Todd, Traverse, Wadena. See browse graphic showing the area covered:
+                ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mngeo/base_saip_central_nw2013_14_50cm/metadata/preview.jpg
+                To get complete coverage of these counties, use this dataset in conjunction with
+                other regions covered by the Spring Aerial Imagery Program:
+                http://www.mngeo.state.mn.us/chouse/airphoto/spring2009-2015.html</gco:CharacterString>
+          </gmd:supplementalInformation>
+        </gmd:MD_DataIdentification>
+      </gmd:identificationInfo>
+      <gmd:contentInfo>
+        <gmd:MD_FeatureCatalogueDescription>
+          <gmd:includedWithDataset>
+            <gco:Boolean xmlns:gco="http://www.isotc211.org/2005/gco">false</gco:Boolean>
+          </gmd:includedWithDataset>
+        </gmd:MD_FeatureCatalogueDescription>
+      </gmd:contentInfo>
+      <gmd:distributionInfo>
+        <gmd:MD_Distribution>
+          <gmd:distributor>
+            <gmd:MD_Distributor>
+              <gmd:distributorContact>
+                <gmd:CI_ResponsibleParty>
+                  <gmd:individualName>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Nancy Rader</gco:CharacterString>
+                  </gmd:individualName>
+                  <gmd:organisationName>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Geospatial Information Office (MnGeo)</gco:CharacterString>
+                  </gmd:organisationName>
+                  <gmd:positionName>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GIS Data Coordinator</gco:CharacterString>
+                  </gmd:positionName>
+                  <gmd:contactInfo>
+                    <gmd:CI_Contact>
+                      <gmd:phone>
+                        <gmd:CI_Telephone>
+                          <gmd:voice>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-201-2489</gco:CharacterString>
+                          </gmd:voice>
+                          <gmd:facsimile>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-296-6398</gco:CharacterString>
+                          </gmd:facsimile>
+                        </gmd:CI_Telephone>
+                      </gmd:phone>
+                      <gmd:address>
+                        <gmd:CI_Address>
+                          <gmd:deliveryPoint>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">658 Cedar Street, Room 300</gco:CharacterString>
+                          </gmd:deliveryPoint>
+                          <gmd:city>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
+                          </gmd:city>
+                          <gmd:administrativeArea>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
+                          </gmd:administrativeArea>
+                          <gmd:postalCode>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55155</gco:CharacterString>
+                          </gmd:postalCode>
+                          <gmd:electronicMailAddress>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">gisinfo.mngeo@state.mn.us</gco:CharacterString>
+                          </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                      </gmd:address>
+                    </gmd:CI_Contact>
+                  </gmd:contactInfo>
+                  <gmd:role>
+                    <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="distributor" codeSpace="005"/>
+                  </gmd:role>
+                </gmd:CI_ResponsibleParty>
+              </gmd:distributorContact>
+              <gmd:distributionOrderProcess>
+                <gmd:MD_StandardOrderProcess>
+                  <gmd:orderingInstructions>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Ordering Instructions: These air photos are very large and thus are not provided online for download. Instead, they are available to view as a web map service (WMS), part of MnGeo's Geospatial Image Service. Click on the link below for more information about the Geospatial Image Service and how to use web map services.</gco:CharacterString>
+                  </gmd:orderingInstructions>
+                </gmd:MD_StandardOrderProcess>
+              </gmd:distributionOrderProcess>
+            </gmd:MD_Distributor>
+          </gmd:distributor>
+          <gmd:transferOptions>
+            <gmd:MD_DigitalTransferOptions>
+              <gmd:onLine>
+                <gmd:CI_OnlineResource>
+                  <gmd:linkage>
+                    <gmd:URL>https://gisdata.mn.gov/dataset/base-saip-central-nw2013-14-50cm</gmd:URL>
+                  </gmd:linkage>
+                  <gmd:protocol>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:LINK</gco:CharacterString>
+                  </gmd:protocol>
+                </gmd:CI_OnlineResource>
+              </gmd:onLine>
+            </gmd:MD_DigitalTransferOptions>
+          </gmd:transferOptions>
+        </gmd:MD_Distribution>
+      </gmd:distributionInfo>
+      <gmd:dataQualityInfo>
+        <gmd:DQ_DataQuality>
+          <gmd:scope xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+          <gmd:report>
+            <gmd:DQ_AbsoluteExternalPositionalAccuracy>
+              <gmd:nameOfMeasure>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Horizontal Positional Accuracy</gco:CharacterString>
+              </gmd:nameOfMeasure>
+              <gmd:measureDescription>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Value in meters, CE 90</gco:CharacterString>
+              </gmd:measureDescription>
+              <gmd:evaluationMethodDescription>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Report from Quantum Spatial, Inc.: 0.50 meters, CE 90. Horizontal accuracy was stated to meet or exceed 1.77 meters, CE90 or the 95% equivalent of 3.05 meters per NSSDA. Airborne GPS data was collected during acquisition and ground control points surveyed. Some points were pulled out of the A/T and used as checkpoints to verify the DOQQ accuracy. Report from the Minnesota Department of Transportation: This regional imagery project, 50 cm GSD, was independently tested by the Minnesota Department of Transportation, Office of Land Management. The project tested to 0.58 meters RMSE or 0.880 meters at the 95% confidence level based on NSSDA (June 1998) methods using 124 test points. The majority of the test points were provided by the various county surveyors or public works departments of the counties within this regional project.</gco:CharacterString>
+              </gmd:evaluationMethodDescription>
+              <gmd:result>
+                <gmd:DQ_QuantitativeResult>
+                  <gmd:valueUnit>
+                    <gml:BaseUnit xmlns:gml="http://www.opengis.net/gml" gml:id="meters">
+                      <gml:identifier codeSpace="meters"/>
+                      <gml:unitsSystem xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.bipm.org/en/si/"/>
+                    </gml:BaseUnit>
+                  </gmd:valueUnit>
+                  <gmd:value>
+                    <gco:Record xmlns:gco="http://www.isotc211.org/2005/gco">0.49</gco:Record>
+                  </gmd:value>
+                </gmd:DQ_QuantitativeResult>
+              </gmd:result>
+            </gmd:DQ_AbsoluteExternalPositionalAccuracy>
+          </gmd:report>
+          <gmd:report>
+            <gmd:DQ_AbsoluteExternalPositionalAccuracy>
+              <gmd:nameOfMeasure>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Vertical Positional Accuracy</gco:CharacterString>
+              </gmd:nameOfMeasure>
+              <gmd:evaluationMethodDescription>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Not applicable</gco:CharacterString>
+              </gmd:evaluationMethodDescription>
+              <gmd:result>
+                <gmd:DQ_QuantitativeResult>
+                  <gmd:valueUnit>
+                    <gml:BaseUnit xmlns:gml="http://www.opengis.net/gml" gml:id="meters">
+                      <gml:identifier codeSpace="meters"/>
+                      <gml:unitsSystem xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.bipm.org/en/si/"/>
+                    </gml:BaseUnit>
+                  </gmd:valueUnit>
+                </gmd:DQ_QuantitativeResult>
+              </gmd:result>
+            </gmd:DQ_AbsoluteExternalPositionalAccuracy>
+          </gmd:report>
+          <gmd:report>
+            <gmd:DQ_CompletenessCommission>
+              <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+            </gmd:DQ_CompletenessCommission>
+          </gmd:report>
+          <gmd:report>
+            <gmd:DQ_CompletenessOmission>
+              <gmd:evaluationMethodDescription>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Orthoimages are visually inspected for completeness to ensure that no gaps or image misplacements exist within project limits and between adjacent images. These images are derived by mosaicking multiple images to ensure complete coverage. Source imagery is cloud free. To get complete coverage of counties listed in the Place Keywords, use this dataset in conjunction with other regions covered by the Spring Aerial Imagery Program: http://www.mngeo.state.mn.us/chouse/airphoto/spring2009-2015.html</gco:CharacterString>
+              </gmd:evaluationMethodDescription>
+              <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+            </gmd:DQ_CompletenessOmission>
+          </gmd:report>
+          <gmd:report>
+            <gmd:DQ_ConceptualConsistency>
+              <gmd:measureDescription>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Not applicable</gco:CharacterString>
+              </gmd:measureDescription>
+              <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+            </gmd:DQ_ConceptualConsistency>
+          </gmd:report>
+          <gmd:report>
+            <gmd:DQ_NonQuantitativeAttributeAccuracy>
+              <gmd:measureDescription>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Radiometry is verified by visual inspection of the digital orthophoto. Slight
+                systematic radiometric differences may exist between adjacent orthoimage files;
+                these are due primarily to differences in source image capture dates and sun angles
+                along flight lines. These differences can be observed in an image's general
+                lightness or darkness when it is compared to adjacent orthoimage file coverages.
+                Tonal balancing may be performed over a group of images during the mosaicking
+                process which may serve to lighten or darken adjacent images for better color tone
+                matching.</gco:CharacterString>
+              </gmd:measureDescription>
+              <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="inapplicable"/>
+            </gmd:DQ_NonQuantitativeAttributeAccuracy>
+          </gmd:report>
+          <gmd:lineage>
+            <gmd:LI_Lineage>
+              <gmd:processStep>
+                <gmd:LI_ProcessStep>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Sources: 1. International Water Institute and Minnesota Department of
+                    Natural Resources: Source imagery for orthophoto production. 2. Minnesota 5
+                    meter DEM was used to provide ground elevations for orthorectification process.
+                    Some DEM data into Canada and Wisconsin was downloaded from USGS National
+                    Elevation Dataset DEM with minimal editing while the Dakotas' data was
+                    downloaded LiDAR from the International Water Institute. 3. Minnesota 50
+                    centimeter Area Aerotriangulation was used to provide photo exterior
+                    orientations for orthorectification process. Native environment: IRAS C ver
+                    10.0, Photoshop ver CS5, Windows XP and Windows 7, INPHO OrthoVista 5.5, Global
+                    Mapper 13, Bentley MicroStation 7 and 8, INPHO Match-AT 5.5, INPHO OrthoMaster
+                    5.5,Intergraph ISAT 6.3 Processing Steps: The imagery for this project was flown
+                    at a nominal acquisition altitude (AGL) of 25,000 feet. Digital camera(s) were
+                    calibrated by the manufacturer and the camera parameters refined through in-situ
+                    proprietary procedures. The acquisition was done using two Microsoft UltraCam
+                    Eagle digital sensors during 2013 spring and 2014 spring leaf-off conditions
+                    allowing for 5% snow and cloud cover. The flying height was 25,000 feet AMT
+                    (above mean terrain) and imagery data was captured in 12-bit for four bands
+                    (Red-Green-Blue-Near Infrared). The data was then processed and adjusted using
+                    Microsoft's UltraMap software into 12-bit, 4-band images. The airborne GPS and
+                    IMU data was processed and used in beginning the aerial triangulation (AT)
+                    processing which was done using INPHO's Match-AT software. The resulting
+                    exterior orientations for each frame were used along with the DMC images and a 5
+                    meter gridded DEM generated from the downloaded statewide LiDAR datasets to do a
+                    rectification using INPHO's OrthoMaster software. The orthorectified frames were
+                    then further adjusted using INPHO's OrthoVista - Radiometrix Editor and
+                    seamlines automatically generated. Those seamlines were completely reviewed and
+                    edited to ensure no man-made features were clipped as well as to optimize
+                    seamline locations in general. Once the seamlines were edited the images were
+                    mosaicked and big tiles were cut for review and editing purposes. The big tiles
+                    were completely reviewed and calls made for warped bridges and other artifacts
+                    which were then corrected. Then a QC was performed on 10-15% of the tiles
+                    focusing on urban areas and other important features. Once all QC edits were
+                    complete the big tiles were then used to cut out the final DOQQ tiles. Finally,
+                    the near-infrared band was adjusted per the client's direction and the images
+                    were formatted for final delivery.</gco:CharacterString>
+                  </gmd:description>
+                </gmd:LI_ProcessStep>
+              </gmd:processStep>
+              <gmd:source>
+                <gmd:LI_Source>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Source Contribution: Source imagery for orthophoto production.digital</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:scaleDenominator>
+                    <gmd:MD_RepresentativeFraction>
+                      <gmd:denominator>
+                        <gco:Integer xmlns:gco="http://www.isotc211.org/2005/gco">25392</gco:Integer>
+                      </gmd:denominator>
+                    </gmd:MD_RepresentativeFraction>
+                  </gmd:scaleDenominator>
+                  <gmd:sourceCitation>
+                    <gmd:CI_Citation>
+                      <gmd:title>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">02800038</gco:CharacterString>
+                      </gmd:title>
+                      <gmd:alternateTitle>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Image</gco:CharacterString>
+                      </gmd:alternateTitle>
+                      <gmd:date>
+                        <gmd:CI_Date>
+                          <gmd:date>
+                            <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2015</gco:Date>
+                          </gmd:date>
+                          <gmd:dateType>
+                            <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                          </gmd:dateType>
+                        </gmd:CI_Date>
+                      </gmd:date>
+                      <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                          <gmd:organisationName>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">International Water Institute and Minnesota Department of Natural
+                            Resources</gco:CharacterString>
+                          </gmd:organisationName>
+                          <gmd:role>
+                            <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="001"/>
+                          </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                      </gmd:citedResponsibleParty>
+                      <gmd:presentationForm>
+                        <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_PresentationFormCode" codeListValue="imageDigital" codeSpace="003"/>
+                      </gmd:presentationForm>
+                    </gmd:CI_Citation>
+                  </gmd:sourceCitation>
+                  <gmd:sourceExtent>
+                    <gmd:EX_Extent>
+                      <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                          <gmd:extent>
+                            <gml:TimeInstant xmlns:gml="http://www.opengis.net/gml" gml:id="sourceTemporalExtent">
+                              <gml:description>ground condition</gml:description>
+                              <gml:timePosition>2014-05-17</gml:timePosition>
+                            </gml:TimeInstant>
+                          </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                      </gmd:temporalElement>
+                    </gmd:EX_Extent>
+                  </gmd:sourceExtent>
+                </gmd:LI_Source>
+              </gmd:source>
+              <gmd:source>
+                <gmd:LI_Source>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Source Contribution: Source imagery for orthophoto production.digital</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:scaleDenominator>
+                    <gmd:MD_RepresentativeFraction>
+                      <gmd:denominator>
+                        <gco:Integer xmlns:gco="http://www.isotc211.org/2005/gco">25392</gco:Integer>
+                      </gmd:denominator>
+                    </gmd:MD_RepresentativeFraction>
+                  </gmd:scaleDenominator>
+                  <gmd:sourceCitation>
+                    <gmd:CI_Citation>
+                      <gmd:title>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">02800039</gco:CharacterString>
+                      </gmd:title>
+                      <gmd:alternateTitle>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Image</gco:CharacterString>
+                      </gmd:alternateTitle>
+                      <gmd:date>
+                        <gmd:CI_Date>
+                          <gmd:date>
+                            <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2015</gco:Date>
+                          </gmd:date>
+                          <gmd:dateType>
+                            <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                          </gmd:dateType>
+                        </gmd:CI_Date>
+                      </gmd:date>
+                      <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                          <gmd:organisationName>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">International Water Institute and Minnesota Department of Natural
+                            Resources</gco:CharacterString>
+                          </gmd:organisationName>
+                          <gmd:role>
+                            <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="001"/>
+                          </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                      </gmd:citedResponsibleParty>
+                      <gmd:presentationForm>
+                        <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_PresentationFormCode" codeListValue="imageDigital" codeSpace="003"/>
+                      </gmd:presentationForm>
+                    </gmd:CI_Citation>
+                  </gmd:sourceCitation>
+                  <gmd:sourceExtent>
+                    <gmd:EX_Extent>
+                      <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                          <gmd:extent>
+                            <gml:TimeInstant xmlns:gml="http://www.opengis.net/gml" gml:id="sourceTemporalExtent">
+                              <gml:description>ground condition</gml:description>
+                              <gml:timePosition>2014-05-17</gml:timePosition>
+                            </gml:TimeInstant>
+                          </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                      </gmd:temporalElement>
+                    </gmd:EX_Extent>
+                  </gmd:sourceExtent>
+                </gmd:LI_Source>
+              </gmd:source>
+              <gmd:source>
+                <gmd:LI_Source>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Source Contribution: Source imagery for orthophoto production.digital</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:scaleDenominator>
+                    <gmd:MD_RepresentativeFraction>
+                      <gmd:denominator>
+                        <gco:Integer xmlns:gco="http://www.isotc211.org/2005/gco">25392</gco:Integer>
+                      </gmd:denominator>
+                    </gmd:MD_RepresentativeFraction>
+                  </gmd:scaleDenominator>
+                  <gmd:sourceCitation>
+                    <gmd:CI_Citation>
+                      <gmd:title>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">02800040</gco:CharacterString>
+                      </gmd:title>
+                      <gmd:alternateTitle>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Image</gco:CharacterString>
+                      </gmd:alternateTitle>
+                      <gmd:date>
+                        <gmd:CI_Date>
+                          <gmd:date>
+                            <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2015</gco:Date>
+                          </gmd:date>
+                          <gmd:dateType>
+                            <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                          </gmd:dateType>
+                        </gmd:CI_Date>
+                      </gmd:date>
+                      <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                          <gmd:organisationName>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">International Water Institute and Minnesota Department of Natural
+                            Resources</gco:CharacterString>
+                          </gmd:organisationName>
+                          <gmd:role>
+                            <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="001"/>
+                          </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                      </gmd:citedResponsibleParty>
+                      <gmd:presentationForm>
+                        <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_PresentationFormCode" codeListValue="imageDigital" codeSpace="003"/>
+                      </gmd:presentationForm>
+                    </gmd:CI_Citation>
+                  </gmd:sourceCitation>
+                  <gmd:sourceExtent>
+                    <gmd:EX_Extent>
+                      <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                          <gmd:extent>
+                            <gml:TimeInstant xmlns:gml="http://www.opengis.net/gml" gml:id="sourceTemporalExtent">
+                              <gml:description>ground condition</gml:description>
+                              <gml:timePosition>2014-05-17</gml:timePosition>
+                            </gml:TimeInstant>
+                          </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                      </gmd:temporalElement>
+                    </gmd:EX_Extent>
+                  </gmd:sourceExtent>
+                </gmd:LI_Source>
+              </gmd:source>
+              <gmd:source>
+                <gmd:LI_Source>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Source Contribution: Source imagery for orthophoto production.digital</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:scaleDenominator>
+                    <gmd:MD_RepresentativeFraction>
+                      <gmd:denominator>
+                        <gco:Integer xmlns:gco="http://www.isotc211.org/2005/gco">25392</gco:Integer>
+                      </gmd:denominator>
+                    </gmd:MD_RepresentativeFraction>
+                  </gmd:scaleDenominator>
+                  <gmd:sourceCitation>
+                    <gmd:CI_Citation>
+                      <gmd:title>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">02800041</gco:CharacterString>
+                      </gmd:title>
+                      <gmd:alternateTitle>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Image</gco:CharacterString>
+                      </gmd:alternateTitle>
+                      <gmd:date>
+                        <gmd:CI_Date>
+                          <gmd:date>
+                            <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2015</gco:Date>
+                          </gmd:date>
+                          <gmd:dateType>
+                            <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                          </gmd:dateType>
+                        </gmd:CI_Date>
+                      </gmd:date>
+                      <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                          <gmd:organisationName>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">International Water Institute and Minnesota Department of Natural
+                            Resources</gco:CharacterString>
+                          </gmd:organisationName>
+                          <gmd:role>
+                            <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="001"/>
+                          </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                      </gmd:citedResponsibleParty>
+                      <gmd:presentationForm>
+                        <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_PresentationFormCode" codeListValue="imageDigital" codeSpace="003"/>
+                      </gmd:presentationForm>
+                    </gmd:CI_Citation>
+                  </gmd:sourceCitation>
+                  <gmd:sourceExtent>
+                    <gmd:EX_Extent>
+                      <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                          <gmd:extent>
+                            <gml:TimeInstant xmlns:gml="http://www.opengis.net/gml" gml:id="sourceTemporalExtent">
+                              <gml:description>ground condition</gml:description>
+                              <gml:timePosition>2014-05-17</gml:timePosition>
+                            </gml:TimeInstant>
+                          </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                      </gmd:temporalElement>
+                    </gmd:EX_Extent>
+                  </gmd:sourceExtent>
+                </gmd:LI_Source>
+              </gmd:source>
+              <gmd:source>
+                <gmd:LI_Source>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Source Contribution: Source imagery for orthophoto production.digital</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:scaleDenominator>
+                    <gmd:MD_RepresentativeFraction>
+                      <gmd:denominator>
+                        <gco:Integer xmlns:gco="http://www.isotc211.org/2005/gco">25392</gco:Integer>
+                      </gmd:denominator>
+                    </gmd:MD_RepresentativeFraction>
+                  </gmd:scaleDenominator>
+                  <gmd:sourceCitation>
+                    <gmd:CI_Citation>
+                      <gmd:title>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">02800042</gco:CharacterString>
+                      </gmd:title>
+                      <gmd:alternateTitle>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Image</gco:CharacterString>
+                      </gmd:alternateTitle>
+                      <gmd:date>
+                        <gmd:CI_Date>
+                          <gmd:date>
+                            <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2015</gco:Date>
+                          </gmd:date>
+                          <gmd:dateType>
+                            <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                          </gmd:dateType>
+                        </gmd:CI_Date>
+                      </gmd:date>
+                      <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                          <gmd:organisationName>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">International Water Institute and Minnesota Department of Natural
+                            Resources</gco:CharacterString>
+                          </gmd:organisationName>
+                          <gmd:role>
+                            <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="001"/>
+                          </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                      </gmd:citedResponsibleParty>
+                      <gmd:presentationForm>
+                        <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_PresentationFormCode" codeListValue="imageDigital" codeSpace="003"/>
+                      </gmd:presentationForm>
+                    </gmd:CI_Citation>
+                  </gmd:sourceCitation>
+                  <gmd:sourceExtent>
+                    <gmd:EX_Extent>
+                      <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                          <gmd:extent>
+                            <gml:TimeInstant xmlns:gml="http://www.opengis.net/gml" gml:id="sourceTemporalExtent">
+                              <gml:description>ground condition</gml:description>
+                              <gml:timePosition>2014-05-17</gml:timePosition>
+                            </gml:TimeInstant>
+                          </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                      </gmd:temporalElement>
+                    </gmd:EX_Extent>
+                  </gmd:sourceExtent>
+                </gmd:LI_Source>
+              </gmd:source>
+              <gmd:source>
+                <gmd:LI_Source>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Source Contribution: Source imagery for orthophoto production.digital</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:scaleDenominator>
+                    <gmd:MD_RepresentativeFraction>
+                      <gmd:denominator>
+                        <gco:Integer xmlns:gco="http://www.isotc211.org/2005/gco">25392</gco:Integer>
+                      </gmd:denominator>
+                    </gmd:MD_RepresentativeFraction>
+                  </gmd:scaleDenominator>
+                  <gmd:sourceCitation>
+                    <gmd:CI_Citation>
+                      <gmd:title>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">02901238</gco:CharacterString>
+                      </gmd:title>
+                      <gmd:alternateTitle>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Image</gco:CharacterString>
+                      </gmd:alternateTitle>
+                      <gmd:date>
+                        <gmd:CI_Date>
+                          <gmd:date>
+                            <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2015</gco:Date>
+                          </gmd:date>
+                          <gmd:dateType>
+                            <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                          </gmd:dateType>
+                        </gmd:CI_Date>
+                      </gmd:date>
+                      <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                          <gmd:organisationName>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">International Water Institute and Minnesota Department of Natural
+                            Resources</gco:CharacterString>
+                          </gmd:organisationName>
+                          <gmd:role>
+                            <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="001"/>
+                          </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                      </gmd:citedResponsibleParty>
+                      <gmd:presentationForm>
+                        <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_PresentationFormCode" codeListValue="imageDigital" codeSpace="003"/>
+                      </gmd:presentationForm>
+                    </gmd:CI_Citation>
+                  </gmd:sourceCitation>
+                  <gmd:sourceExtent>
+                    <gmd:EX_Extent>
+                      <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                          <gmd:extent>
+                            <gml:TimeInstant xmlns:gml="http://www.opengis.net/gml" gml:id="sourceTemporalExtent">
+                              <gml:description>ground condition</gml:description>
+                              <gml:timePosition>2014-05-23</gml:timePosition>
+                            </gml:TimeInstant>
+                          </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                      </gmd:temporalElement>
+                    </gmd:EX_Extent>
+                  </gmd:sourceExtent>
+                </gmd:LI_Source>
+              </gmd:source>
+              <gmd:source>
+                <gmd:LI_Source>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Source Contribution: Source imagery for orthophoto production.digital</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:scaleDenominator>
+                    <gmd:MD_RepresentativeFraction>
+                      <gmd:denominator>
+                        <gco:Integer xmlns:gco="http://www.isotc211.org/2005/gco">25392</gco:Integer>
+                      </gmd:denominator>
+                    </gmd:MD_RepresentativeFraction>
+                  </gmd:scaleDenominator>
+                  <gmd:sourceCitation>
+                    <gmd:CI_Citation>
+                      <gmd:title>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">02901239</gco:CharacterString>
+                      </gmd:title>
+                      <gmd:alternateTitle>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Image</gco:CharacterString>
+                      </gmd:alternateTitle>
+                      <gmd:date>
+                        <gmd:CI_Date>
+                          <gmd:date>
+                            <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2015</gco:Date>
+                          </gmd:date>
+                          <gmd:dateType>
+                            <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                          </gmd:dateType>
+                        </gmd:CI_Date>
+                      </gmd:date>
+                      <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                          <gmd:organisationName>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">International Water Institute and Minnesota Department of Natural
+                            Resources</gco:CharacterString>
+                          </gmd:organisationName>
+                          <gmd:role>
+                            <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="001"/>
+                          </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                      </gmd:citedResponsibleParty>
+                      <gmd:presentationForm>
+                        <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_PresentationFormCode" codeListValue="imageDigital" codeSpace="003"/>
+                      </gmd:presentationForm>
+                    </gmd:CI_Citation>
+                  </gmd:sourceCitation>
+                  <gmd:sourceExtent>
+                    <gmd:EX_Extent>
+                      <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                          <gmd:extent>
+                            <gml:TimeInstant xmlns:gml="http://www.opengis.net/gml" gml:id="sourceTemporalExtent">
+                              <gml:description>ground condition</gml:description>
+                              <gml:timePosition>2014-05-23</gml:timePosition>
+                            </gml:TimeInstant>
+                          </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                      </gmd:temporalElement>
+                    </gmd:EX_Extent>
+                  </gmd:sourceExtent>
+                </gmd:LI_Source>
+              </gmd:source>
+              <gmd:source>
+                <gmd:LI_Source>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Source Contribution: Source imagery for orthophoto production.digital</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:scaleDenominator>
+                    <gmd:MD_RepresentativeFraction>
+                      <gmd:denominator>
+                        <gco:Integer xmlns:gco="http://www.isotc211.org/2005/gco">25392</gco:Integer>
+                      </gmd:denominator>
+                    </gmd:MD_RepresentativeFraction>
+                  </gmd:scaleDenominator>
+                  <gmd:sourceCitation>
+                    <gmd:CI_Citation>
+                      <gmd:title>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">02901240</gco:CharacterString>
+                      </gmd:title>
+                      <gmd:alternateTitle>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Image</gco:CharacterString>
+                      </gmd:alternateTitle>
+                      <gmd:date>
+                        <gmd:CI_Date>
+                          <gmd:date>
+                            <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2015</gco:Date>
+                          </gmd:date>
+                          <gmd:dateType>
+                            <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                          </gmd:dateType>
+                        </gmd:CI_Date>
+                      </gmd:date>
+                      <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                          <gmd:organisationName>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">International Water Institute and Minnesota Department of Natural
+                            Resources</gco:CharacterString>
+                          </gmd:organisationName>
+                          <gmd:role>
+                            <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="001"/>
+                          </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                      </gmd:citedResponsibleParty>
+                      <gmd:presentationForm>
+                        <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_PresentationFormCode" codeListValue="imageDigital" codeSpace="003"/>
+                      </gmd:presentationForm>
+                    </gmd:CI_Citation>
+                  </gmd:sourceCitation>
+                  <gmd:sourceExtent>
+                    <gmd:EX_Extent>
+                      <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                          <gmd:extent>
+                            <gml:TimeInstant xmlns:gml="http://www.opengis.net/gml" gml:id="sourceTemporalExtent">
+                              <gml:description>ground condition</gml:description>
+                              <gml:timePosition>2014-05-23</gml:timePosition>
+                            </gml:TimeInstant>
+                          </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                      </gmd:temporalElement>
+                    </gmd:EX_Extent>
+                  </gmd:sourceExtent>
+                </gmd:LI_Source>
+              </gmd:source>
+              <gmd:source>
+                <gmd:LI_Source>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Source Contribution: Source imagery for orthophoto production.digital</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:scaleDenominator>
+                    <gmd:MD_RepresentativeFraction>
+                      <gmd:denominator>
+                        <gco:Integer xmlns:gco="http://www.isotc211.org/2005/gco">25392</gco:Integer>
+                      </gmd:denominator>
+                    </gmd:MD_RepresentativeFraction>
+                  </gmd:scaleDenominator>
+                  <gmd:sourceCitation>
+                    <gmd:CI_Citation>
+                      <gmd:title>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">02901241</gco:CharacterString>
+                      </gmd:title>
+                      <gmd:alternateTitle>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Image</gco:CharacterString>
+                      </gmd:alternateTitle>
+                      <gmd:date>
+                        <gmd:CI_Date>
+                          <gmd:date>
+                            <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2015</gco:Date>
+                          </gmd:date>
+                          <gmd:dateType>
+                            <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                          </gmd:dateType>
+                        </gmd:CI_Date>
+                      </gmd:date>
+                      <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                          <gmd:organisationName>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">International Water Institute and Minnesota Department of Natural
+                            Resources</gco:CharacterString>
+                          </gmd:organisationName>
+                          <gmd:role>
+                            <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="001"/>
+                          </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                      </gmd:citedResponsibleParty>
+                      <gmd:presentationForm>
+                        <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_PresentationFormCode" codeListValue="imageDigital" codeSpace="003"/>
+                      </gmd:presentationForm>
+                    </gmd:CI_Citation>
+                  </gmd:sourceCitation>
+                  <gmd:sourceExtent>
+                    <gmd:EX_Extent>
+                      <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                          <gmd:extent>
+                            <gml:TimeInstant xmlns:gml="http://www.opengis.net/gml" gml:id="sourceTemporalExtent">
+                              <gml:description>ground condition</gml:description>
+                              <gml:timePosition>2014-05-23</gml:timePosition>
+                            </gml:TimeInstant>
+                          </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                      </gmd:temporalElement>
+                    </gmd:EX_Extent>
+                  </gmd:sourceExtent>
+                </gmd:LI_Source>
+              </gmd:source>
+              <gmd:source>
+                <gmd:LI_Source>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Source Contribution: Source imagery for orthophoto production.digital</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:scaleDenominator>
+                    <gmd:MD_RepresentativeFraction>
+                      <gmd:denominator>
+                        <gco:Integer xmlns:gco="http://www.isotc211.org/2005/gco">25392</gco:Integer>
+                      </gmd:denominator>
+                    </gmd:MD_RepresentativeFraction>
+                  </gmd:scaleDenominator>
+                  <gmd:sourceCitation>
+                    <gmd:CI_Citation>
+                      <gmd:title>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">02901242</gco:CharacterString>
+                      </gmd:title>
+                      <gmd:alternateTitle>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Image</gco:CharacterString>
+                      </gmd:alternateTitle>
+                      <gmd:date>
+                        <gmd:CI_Date>
+                          <gmd:date>
+                            <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2015</gco:Date>
+                          </gmd:date>
+                          <gmd:dateType>
+                            <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                          </gmd:dateType>
+                        </gmd:CI_Date>
+                      </gmd:date>
+                      <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                          <gmd:organisationName>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">International Water Institute and Minnesota Department of Natural
+                            Resources</gco:CharacterString>
+                          </gmd:organisationName>
+                          <gmd:role>
+                            <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="001"/>
+                          </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                      </gmd:citedResponsibleParty>
+                      <gmd:presentationForm>
+                        <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_PresentationFormCode" codeListValue="imageDigital" codeSpace="003"/>
+                      </gmd:presentationForm>
+                    </gmd:CI_Citation>
+                  </gmd:sourceCitation>
+                  <gmd:sourceExtent>
+                    <gmd:EX_Extent>
+                      <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                          <gmd:extent>
+                            <gml:TimeInstant xmlns:gml="http://www.opengis.net/gml" gml:id="sourceTemporalExtent">
+                              <gml:description>ground condition</gml:description>
+                              <gml:timePosition>2014-05-23</gml:timePosition>
+                            </gml:TimeInstant>
+                          </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                      </gmd:temporalElement>
+                    </gmd:EX_Extent>
+                  </gmd:sourceExtent>
+                </gmd:LI_Source>
+              </gmd:source>
+              <gmd:source>
+                <gmd:LI_Source>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Source Contribution: Source imagery for orthophoto production.digital</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:scaleDenominator>
+                    <gmd:MD_RepresentativeFraction>
+                      <gmd:denominator>
+                        <gco:Integer xmlns:gco="http://www.isotc211.org/2005/gco">25392</gco:Integer>
+                      </gmd:denominator>
+                    </gmd:MD_RepresentativeFraction>
+                  </gmd:scaleDenominator>
+                  <gmd:sourceCitation>
+                    <gmd:CI_Citation>
+                      <gmd:title>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">02901243</gco:CharacterString>
+                      </gmd:title>
+                      <gmd:alternateTitle>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Image</gco:CharacterString>
+                      </gmd:alternateTitle>
+                      <gmd:date>
+                        <gmd:CI_Date>
+                          <gmd:date>
+                            <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2015</gco:Date>
+                          </gmd:date>
+                          <gmd:dateType>
+                            <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                          </gmd:dateType>
+                        </gmd:CI_Date>
+                      </gmd:date>
+                      <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                          <gmd:organisationName>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">International Water Institute and Minnesota Department of Natural
+                            Resources</gco:CharacterString>
+                          </gmd:organisationName>
+                          <gmd:role>
+                            <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="001"/>
+                          </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                      </gmd:citedResponsibleParty>
+                      <gmd:presentationForm>
+                        <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_PresentationFormCode" codeListValue="imageDigital" codeSpace="003"/>
+                      </gmd:presentationForm>
+                    </gmd:CI_Citation>
+                  </gmd:sourceCitation>
+                  <gmd:sourceExtent>
+                    <gmd:EX_Extent>
+                      <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                          <gmd:extent>
+                            <gml:TimeInstant xmlns:gml="http://www.opengis.net/gml" gml:id="sourceTemporalExtent">
+                              <gml:description>ground condition</gml:description>
+                              <gml:timePosition>2014-05-23</gml:timePosition>
+                            </gml:TimeInstant>
+                          </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                      </gmd:temporalElement>
+                    </gmd:EX_Extent>
+                  </gmd:sourceExtent>
+                </gmd:LI_Source>
+              </gmd:source>
+              <gmd:source>
+                <gmd:LI_Source>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Source Contribution: Source imagery for orthophoto production.digital</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:scaleDenominator>
+                    <gmd:MD_RepresentativeFraction>
+                      <gmd:denominator>
+                        <gco:Integer xmlns:gco="http://www.isotc211.org/2005/gco">25392</gco:Integer>
+                      </gmd:denominator>
+                    </gmd:MD_RepresentativeFraction>
+                  </gmd:scaleDenominator>
+                  <gmd:sourceCitation>
+                    <gmd:CI_Citation>
+                      <gmd:title>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">02901244</gco:CharacterString>
+                      </gmd:title>
+                      <gmd:alternateTitle>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Image</gco:CharacterString>
+                      </gmd:alternateTitle>
+                      <gmd:date>
+                        <gmd:CI_Date>
+                          <gmd:date>
+                            <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2015</gco:Date>
+                          </gmd:date>
+                          <gmd:dateType>
+                            <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                          </gmd:dateType>
+                        </gmd:CI_Date>
+                      </gmd:date>
+                      <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                          <gmd:organisationName>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">International Water Institute and Minnesota Department of Natural
+                            Resources</gco:CharacterString>
+                          </gmd:organisationName>
+                          <gmd:role>
+                            <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="001"/>
+                          </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                      </gmd:citedResponsibleParty>
+                      <gmd:presentationForm>
+                        <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_PresentationFormCode" codeListValue="imageDigital" codeSpace="003"/>
+                      </gmd:presentationForm>
+                    </gmd:CI_Citation>
+                  </gmd:sourceCitation>
+                  <gmd:sourceExtent>
+                    <gmd:EX_Extent>
+                      <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                          <gmd:extent>
+                            <gml:TimeInstant xmlns:gml="http://www.opengis.net/gml" gml:id="sourceTemporalExtent">
+                              <gml:description>ground condition</gml:description>
+                              <gml:timePosition>2014-05-23</gml:timePosition>
+                            </gml:TimeInstant>
+                          </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                      </gmd:temporalElement>
+                    </gmd:EX_Extent>
+                  </gmd:sourceExtent>
+                </gmd:LI_Source>
+              </gmd:source>
+              <gmd:source>
+                <gmd:LI_Source>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Source Contribution: Source imagery for orthophoto production.digital</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:scaleDenominator>
+                    <gmd:MD_RepresentativeFraction>
+                      <gmd:denominator>
+                        <gco:Integer xmlns:gco="http://www.isotc211.org/2005/gco">25392</gco:Integer>
+                      </gmd:denominator>
+                    </gmd:MD_RepresentativeFraction>
+                  </gmd:scaleDenominator>
+                  <gmd:sourceCitation>
+                    <gmd:CI_Citation>
+                      <gmd:title>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">05340190</gco:CharacterString>
+                      </gmd:title>
+                      <gmd:alternateTitle>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Image</gco:CharacterString>
+                      </gmd:alternateTitle>
+                      <gmd:date>
+                        <gmd:CI_Date>
+                          <gmd:date>
+                            <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2015</gco:Date>
+                          </gmd:date>
+                          <gmd:dateType>
+                            <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                          </gmd:dateType>
+                        </gmd:CI_Date>
+                      </gmd:date>
+                      <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                          <gmd:organisationName>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">International Water Institute and Minnesota Department of Natural
+                            Resources</gco:CharacterString>
+                          </gmd:organisationName>
+                          <gmd:role>
+                            <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="001"/>
+                          </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                      </gmd:citedResponsibleParty>
+                      <gmd:presentationForm>
+                        <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_PresentationFormCode" codeListValue="imageDigital" codeSpace="003"/>
+                      </gmd:presentationForm>
+                    </gmd:CI_Citation>
+                  </gmd:sourceCitation>
+                  <gmd:sourceExtent>
+                    <gmd:EX_Extent>
+                      <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                          <gmd:extent>
+                            <gml:TimeInstant xmlns:gml="http://www.opengis.net/gml" gml:id="sourceTemporalExtent">
+                              <gml:description>ground condition</gml:description>
+                              <gml:timePosition>2014-05-17</gml:timePosition>
+                            </gml:TimeInstant>
+                          </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                      </gmd:temporalElement>
+                    </gmd:EX_Extent>
+                  </gmd:sourceExtent>
+                </gmd:LI_Source>
+              </gmd:source>
+              <gmd:source>
+                <gmd:LI_Source>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Source Contribution: Source imagery for orthophoto production.digital</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:scaleDenominator>
+                    <gmd:MD_RepresentativeFraction>
+                      <gmd:denominator>
+                        <gco:Integer xmlns:gco="http://www.isotc211.org/2005/gco">25392</gco:Integer>
+                      </gmd:denominator>
+                    </gmd:MD_RepresentativeFraction>
+                  </gmd:scaleDenominator>
+                  <gmd:sourceCitation>
+                    <gmd:CI_Citation>
+                      <gmd:title>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">05340191</gco:CharacterString>
+                      </gmd:title>
+                      <gmd:alternateTitle>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Image</gco:CharacterString>
+                      </gmd:alternateTitle>
+                      <gmd:date>
+                        <gmd:CI_Date>
+                          <gmd:date>
+                            <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2015</gco:Date>
+                          </gmd:date>
+                          <gmd:dateType>
+                            <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                          </gmd:dateType>
+                        </gmd:CI_Date>
+                      </gmd:date>
+                      <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                          <gmd:organisationName>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">International Water Institute and Minnesota Department of Natural
+                            Resources</gco:CharacterString>
+                          </gmd:organisationName>
+                          <gmd:role>
+                            <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="001"/>
+                          </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                      </gmd:citedResponsibleParty>
+                      <gmd:presentationForm>
+                        <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_PresentationFormCode" codeListValue="imageDigital" codeSpace="003"/>
+                      </gmd:presentationForm>
+                    </gmd:CI_Citation>
+                  </gmd:sourceCitation>
+                  <gmd:sourceExtent>
+                    <gmd:EX_Extent>
+                      <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                          <gmd:extent>
+                            <gml:TimeInstant xmlns:gml="http://www.opengis.net/gml" gml:id="sourceTemporalExtent">
+                              <gml:description>ground condition</gml:description>
+                              <gml:timePosition>2014-05-17</gml:timePosition>
+                            </gml:TimeInstant>
+                          </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                      </gmd:temporalElement>
+                    </gmd:EX_Extent>
+                  </gmd:sourceExtent>
+                </gmd:LI_Source>
+              </gmd:source>
+              <gmd:source>
+                <gmd:LI_Source>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Source Contribution: Source imagery for orthophoto production.digital</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:scaleDenominator>
+                    <gmd:MD_RepresentativeFraction>
+                      <gmd:denominator>
+                        <gco:Integer xmlns:gco="http://www.isotc211.org/2005/gco">25392</gco:Integer>
+                      </gmd:denominator>
+                    </gmd:MD_RepresentativeFraction>
+                  </gmd:scaleDenominator>
+                  <gmd:sourceCitation>
+                    <gmd:CI_Citation>
+                      <gmd:title>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">05340192</gco:CharacterString>
+                      </gmd:title>
+                      <gmd:alternateTitle>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Image</gco:CharacterString>
+                      </gmd:alternateTitle>
+                      <gmd:date>
+                        <gmd:CI_Date>
+                          <gmd:date>
+                            <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2015</gco:Date>
+                          </gmd:date>
+                          <gmd:dateType>
+                            <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                          </gmd:dateType>
+                        </gmd:CI_Date>
+                      </gmd:date>
+                      <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                          <gmd:organisationName>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">International Water Institute and Minnesota Department of Natural
+                            Resources</gco:CharacterString>
+                          </gmd:organisationName>
+                          <gmd:role>
+                            <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="001"/>
+                          </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                      </gmd:citedResponsibleParty>
+                      <gmd:presentationForm>
+                        <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_PresentationFormCode" codeListValue="imageDigital" codeSpace="003"/>
+                      </gmd:presentationForm>
+                    </gmd:CI_Citation>
+                  </gmd:sourceCitation>
+                  <gmd:sourceExtent>
+                    <gmd:EX_Extent>
+                      <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                          <gmd:extent>
+                            <gml:TimeInstant xmlns:gml="http://www.opengis.net/gml" gml:id="sourceTemporalExtent">
+                              <gml:description>ground condition</gml:description>
+                              <gml:timePosition>2014-05-17</gml:timePosition>
+                            </gml:TimeInstant>
+                          </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                      </gmd:temporalElement>
+                    </gmd:EX_Extent>
+                  </gmd:sourceExtent>
+                </gmd:LI_Source>
+              </gmd:source>
+              <gmd:source>
+                <gmd:LI_Source>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Source Contribution: Source imagery for orthophoto production.digital</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:scaleDenominator>
+                    <gmd:MD_RepresentativeFraction>
+                      <gmd:denominator>
+                        <gco:Integer xmlns:gco="http://www.isotc211.org/2005/gco">25392</gco:Integer>
+                      </gmd:denominator>
+                    </gmd:MD_RepresentativeFraction>
+                  </gmd:scaleDenominator>
+                  <gmd:sourceCitation>
+                    <gmd:CI_Citation>
+                      <gmd:title>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">05340193</gco:CharacterString>
+                      </gmd:title>
+                      <gmd:alternateTitle>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Image</gco:CharacterString>
+                      </gmd:alternateTitle>
+                      <gmd:date>
+                        <gmd:CI_Date>
+                          <gmd:date>
+                            <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2015</gco:Date>
+                          </gmd:date>
+                          <gmd:dateType>
+                            <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                          </gmd:dateType>
+                        </gmd:CI_Date>
+                      </gmd:date>
+                      <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                          <gmd:organisationName>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">International Water Institute and Minnesota Department of Natural
+                            Resources</gco:CharacterString>
+                          </gmd:organisationName>
+                          <gmd:role>
+                            <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="001"/>
+                          </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                      </gmd:citedResponsibleParty>
+                      <gmd:presentationForm>
+                        <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_PresentationFormCode" codeListValue="imageDigital" codeSpace="003"/>
+                      </gmd:presentationForm>
+                    </gmd:CI_Citation>
+                  </gmd:sourceCitation>
+                  <gmd:sourceExtent>
+                    <gmd:EX_Extent>
+                      <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                          <gmd:extent>
+                            <gml:TimeInstant xmlns:gml="http://www.opengis.net/gml" gml:id="sourceTemporalExtent">
+                              <gml:description>ground condition</gml:description>
+                              <gml:timePosition>2014-05-17</gml:timePosition>
+                            </gml:TimeInstant>
+                          </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                      </gmd:temporalElement>
+                    </gmd:EX_Extent>
+                  </gmd:sourceExtent>
+                </gmd:LI_Source>
+              </gmd:source>
+              <gmd:source>
+                <gmd:LI_Source>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Source Contribution: Source imagery for orthophoto production.digital</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:scaleDenominator>
+                    <gmd:MD_RepresentativeFraction>
+                      <gmd:denominator>
+                        <gco:Integer xmlns:gco="http://www.isotc211.org/2005/gco">25392</gco:Integer>
+                      </gmd:denominator>
+                    </gmd:MD_RepresentativeFraction>
+                  </gmd:scaleDenominator>
+                  <gmd:sourceCitation>
+                    <gmd:CI_Citation>
+                      <gmd:title>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">05340194</gco:CharacterString>
+                      </gmd:title>
+                      <gmd:alternateTitle>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Image</gco:CharacterString>
+                      </gmd:alternateTitle>
+                      <gmd:date>
+                        <gmd:CI_Date>
+                          <gmd:date>
+                            <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2015</gco:Date>
+                          </gmd:date>
+                          <gmd:dateType>
+                            <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                          </gmd:dateType>
+                        </gmd:CI_Date>
+                      </gmd:date>
+                      <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                          <gmd:organisationName>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">International Water Institute and Minnesota Department of Natural
+                            Resources</gco:CharacterString>
+                          </gmd:organisationName>
+                          <gmd:role>
+                            <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="001"/>
+                          </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                      </gmd:citedResponsibleParty>
+                      <gmd:presentationForm>
+                        <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_PresentationFormCode" codeListValue="imageDigital" codeSpace="003"/>
+                      </gmd:presentationForm>
+                    </gmd:CI_Citation>
+                  </gmd:sourceCitation>
+                  <gmd:sourceExtent>
+                    <gmd:EX_Extent>
+                      <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                          <gmd:extent>
+                            <gml:TimeInstant xmlns:gml="http://www.opengis.net/gml" gml:id="sourceTemporalExtent">
+                              <gml:description>ground condition</gml:description>
+                              <gml:timePosition>2014-05-17</gml:timePosition>
+                            </gml:TimeInstant>
+                          </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                      </gmd:temporalElement>
+                    </gmd:EX_Extent>
+                  </gmd:sourceExtent>
+                </gmd:LI_Source>
+              </gmd:source>
+              <gmd:source>
+                <gmd:LI_Source>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Source Contribution: Source imagery for orthophoto production.digital</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:scaleDenominator>
+                    <gmd:MD_RepresentativeFraction>
+                      <gmd:denominator>
+                        <gco:Integer xmlns:gco="http://www.isotc211.org/2005/gco">25392</gco:Integer>
+                      </gmd:denominator>
+                    </gmd:MD_RepresentativeFraction>
+                  </gmd:scaleDenominator>
+                  <gmd:sourceCitation>
+                    <gmd:CI_Citation>
+                      <gmd:title>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">05340195</gco:CharacterString>
+                      </gmd:title>
+                      <gmd:alternateTitle>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Image</gco:CharacterString>
+                      </gmd:alternateTitle>
+                      <gmd:date>
+                        <gmd:CI_Date>
+                          <gmd:date>
+                            <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2015</gco:Date>
+                          </gmd:date>
+                          <gmd:dateType>
+                            <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                          </gmd:dateType>
+                        </gmd:CI_Date>
+                      </gmd:date>
+                      <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                          <gmd:organisationName>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">International Water Institute and Minnesota Department of Natural
+                            Resources</gco:CharacterString>
+                          </gmd:organisationName>
+                          <gmd:role>
+                            <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="001"/>
+                          </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                      </gmd:citedResponsibleParty>
+                      <gmd:presentationForm>
+                        <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_PresentationFormCode" codeListValue="imageDigital" codeSpace="003"/>
+                      </gmd:presentationForm>
+                    </gmd:CI_Citation>
+                  </gmd:sourceCitation>
+                  <gmd:sourceExtent>
+                    <gmd:EX_Extent>
+                      <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                          <gmd:extent>
+                            <gml:TimeInstant xmlns:gml="http://www.opengis.net/gml" gml:id="sourceTemporalExtent">
+                              <gml:description>ground condition</gml:description>
+                              <gml:timePosition>2014-05-17</gml:timePosition>
+                            </gml:TimeInstant>
+                          </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                      </gmd:temporalElement>
+                    </gmd:EX_Extent>
+                  </gmd:sourceExtent>
+                </gmd:LI_Source>
+              </gmd:source>
+              <gmd:source>
+                <gmd:LI_Source>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Source Contribution: Used to provide ground elevations for orthorectification
+                    process.digital</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:sourceCitation>
+                    <gmd:CI_Citation>
+                      <gmd:title>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN 5 Meter DEM</gco:CharacterString>
+                      </gmd:title>
+                      <gmd:alternateTitle>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">DEM</gco:CharacterString>
+                      </gmd:alternateTitle>
+                      <gmd:date>
+                        <gmd:CI_Date>
+                          <gmd:date>
+                            <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2015</gco:Date>
+                          </gmd:date>
+                          <gmd:dateType>
+                            <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                          </gmd:dateType>
+                        </gmd:CI_Date>
+                      </gmd:date>
+                      <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                          <gmd:organisationName>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Quantum Spatial, Inc</gco:CharacterString>
+                          </gmd:organisationName>
+                          <gmd:role>
+                            <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="001"/>
+                          </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                      </gmd:citedResponsibleParty>
+                    </gmd:CI_Citation>
+                  </gmd:sourceCitation>
+                  <gmd:sourceExtent>
+                    <gmd:EX_Extent>
+                      <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                          <gmd:extent>
+                            <gml:TimeInstant xmlns:gml="http://www.opengis.net/gml" gml:id="sourceTemporalExtent">
+                              <gml:description>ground condition</gml:description>
+                              <gml:timePosition>2014</gml:timePosition>
+                            </gml:TimeInstant>
+                          </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                      </gmd:temporalElement>
+                    </gmd:EX_Extent>
+                  </gmd:sourceExtent>
+                </gmd:LI_Source>
+              </gmd:source>
+              <gmd:source>
+                <gmd:LI_Source>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Source Contribution: Used to provide photo exterior orientations for orthorectification
+                    process.digital</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:sourceCitation>
+                    <gmd:CI_Citation>
+                      <gmd:title>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN 30cm Area Aerotriangulation</gco:CharacterString>
+                      </gmd:title>
+                      <gmd:alternateTitle>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">AT</gco:CharacterString>
+                      </gmd:alternateTitle>
+                      <gmd:date>
+                        <gmd:CI_Date>
+                          <gmd:date>
+                            <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2015</gco:Date>
+                          </gmd:date>
+                          <gmd:dateType>
+                            <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                          </gmd:dateType>
+                        </gmd:CI_Date>
+                      </gmd:date>
+                      <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                          <gmd:organisationName>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Quantum Spatial, Inc.</gco:CharacterString>
+                          </gmd:organisationName>
+                          <gmd:role>
+                            <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="001"/>
+                          </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                      </gmd:citedResponsibleParty>
+                    </gmd:CI_Citation>
+                  </gmd:sourceCitation>
+                  <gmd:sourceExtent>
+                    <gmd:EX_Extent>
+                      <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                          <gmd:extent>
+                            <gml:TimeInstant xmlns:gml="http://www.opengis.net/gml" gml:id="sourceTemporalExtent">
+                              <gml:description>ground condition</gml:description>
+                              <gml:timePosition>2014-07</gml:timePosition>
+                            </gml:TimeInstant>
+                          </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                      </gmd:temporalElement>
+                    </gmd:EX_Extent>
+                  </gmd:sourceExtent>
+                </gmd:LI_Source>
+              </gmd:source>
+            </gmd:LI_Lineage>
+          </gmd:lineage>
+        </gmd:DQ_DataQuality>
+      </gmd:dataQualityInfo>
+      <gmd:metadataMaintenance>
+        <gmd:MD_MaintenanceInformation>
+          <gmd:maintenanceAndUpdateFrequency xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+          <gmd:maintenanceNote>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">This metadata was automatically generated from the Minnesota Geographic Metadata Guidelinesstandard version 1.2 using the January 2013 version of the FGDC CSDGM to ISO 19115-2 transform.</gco:CharacterString>
+          </gmd:maintenanceNote>
+          <gmd:contact>
+            <gmd:CI_ResponsibleParty>
+              <gmd:individualName>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Nancy Rader</gco:CharacterString>
+              </gmd:individualName>
+              <gmd:organisationName>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Geospatial Information Office (MnGeo)</gco:CharacterString>
+              </gmd:organisationName>
+              <gmd:positionName>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GIS Data Coordinator</gco:CharacterString>
+              </gmd:positionName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:phone>
+                    <gmd:CI_Telephone>
+                      <gmd:voice>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-201-2489</gco:CharacterString>
+                      </gmd:voice>
+                      <gmd:facsimile>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-296-6398</gco:CharacterString>
+                      </gmd:facsimile>
+                    </gmd:CI_Telephone>
+                  </gmd:phone>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:deliveryPoint>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">658 Cedar Street, Room 300</gco:CharacterString>
+                      </gmd:deliveryPoint>
+                      <gmd:city>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
+                      </gmd:city>
+                      <gmd:administrativeArea>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
+                      </gmd:administrativeArea>
+                      <gmd:postalCode>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55155</gco:CharacterString>
+                      </gmd:postalCode>
+                      <gmd:electronicMailAddress>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">gisinfo.mngeo@state.mn.us</gco:CharacterString>
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+              <gmd:role>
+                <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="custodian" codeSpace="002"/>
+              </gmd:role>
+            </gmd:CI_ResponsibleParty>
+          </gmd:contact>
+        </gmd:MD_MaintenanceInformation>
+      </gmd:metadataMaintenance>
+    </gmd:MD_Metadata>
+    

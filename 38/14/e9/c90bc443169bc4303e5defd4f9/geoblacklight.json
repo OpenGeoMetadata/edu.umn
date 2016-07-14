@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:39Z", 
+"solr_geom": "ENVELOPE(-97.252252, -89.406737, 49.34025, 43.098198)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-trout-stream-designations\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_trout_stream_designations/shp_env_trout_stream_designations.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-3814e9c9-0bc4-4316-9bc4-303e5defd4f9", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"environment"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "Data is currently being updated. See Completeness Section below for more information. This layer shows legally designated trout streams and trout stream tributaries as identified in Minnesota Rules Chapter 6264. See http://www.revisor.leg.state.mn.us/arule/6264/0050.html for legal descriptions and restrictions associated with designated trout waters. This data set includes designated trout streams and their protected tributaries only. Users are encouraged to use the full resolution Stream Routes with Kittle Numbers and Mile Measures layer ( http://gisdata.mn.gov/dataset/water-measured-kittle-routes ) as a base layer to visualize all streams (designated and not) to fully understand hydrological connectivity and impacts to trout resources. Designated segments are maintained as tabular data and displayed as linear events on the Stream Routes with Kittle Numbers and Mile Measures layer ( http://gisdata.mn.gov/dataset/water-measured-kittle-routes ). In the attribute table, designated segments extend from the FROM_MEAS (mile) to the TO_MEAS (mile) and have a total length = [LENGTH_MI] on a route with total length = [ROUTE_MI].", 
+"dct_issued_s": "2014-11-01", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (MNDNR)"
+], 
+"dc_identifier_s": "urn-3814e9c9-0bc4-4316-9bc4-303e5defd4f9", 
+"dc_relation_sm": [
+"water_measured_kittle_routes, water_trout_streams_pls_sections, env_trout_stream_special_regs"
+], 
+"georss_polygon_s": "43.098198 -97.252252 49.34025 -97.252252 49.34025 -89.406737 43.098198 -89.406737 43.098198 -97.252252", 
+"solr_year_i": 2014, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-3814e9c9-0bc4-4316-9bc4-303e5defd4f9", 
+"georss_box_s": "43.098198 -97.252252 49.34025 -89.406737", 
+"dc_title_s": "State Designated Trout Streams: Minnesota, 2014", 
+"layer_slug_s": "Minnesota-urn-3814e9c9-0bc4-4316-9bc4-303e5defd4f9"
+}

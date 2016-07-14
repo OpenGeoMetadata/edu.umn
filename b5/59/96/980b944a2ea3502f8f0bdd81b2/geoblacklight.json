@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T10:00:06Z", 
+"solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-anlys-zones2000\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Transportation/MapServer/19\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_anlys_zones2000/shp_trans_anlys_zones2000.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-b5599698-0b94-4a2e-a350-2f8f0bdd81b2", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"transportation"
+], 
+"dct_temporal_sm": "2010", 
+"dc_description_s": "Transportation analysis zones are subdivisions of counties that are delineated for land use and travel analysis purposes. The geography for this file is based on the Twin Cities Regional Travel Demand Forecast Model. Notes: - Since 2004, this set of TAZs is the official TAZ system for travel demand modeling, socioeconomic forecasts and community comprehensive plan development, in addition to its existing use for the 2000 Census Transportation Planning Package (CTPP). - Population, households and employment forecasts by TAZ, published with this file during 2004-2013, have been replaced with newer forecasts adopted by Metropolitan Council, starting in May 2014. - This system is a modification of an earlier TAZ system developed by Minnesota Department of Transportation and Metropolitan Council in late 1989, referred to as Transportation Analysis Zones 1990 (TAZ1990). The principal difference between the 1990 and 2000 systems is that 27 TAZs were subdivided into smaller units, thus expanding the total number of TAZs from 1165 to 1201. - Generally, the 2000 TAZ system utilized TIGER line files for 2000 Census blocks and political boundaries, which do not necessarily match the positionally accurate street-line files and political boundaries typically used with other Council generated GIS datasets.", 
+"dct_issued_s": "2014-11-03", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Metropolitan Council"
+], 
+"dc_identifier_s": "urn-b5599698-0b94-4a2e-a350-2f8f0bdd81b2", 
+"dc_relation_sm": [
+"Current 2040 TAZ forecasts, Transportation Analysis Zones for External Counties, Transportation Analysis Zones: 1990 - 2000"
+], 
+"georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
+"solr_year_i": 2014, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-b5599698-0b94-4a2e-a350-2f8f0bdd81b2", 
+"georss_box_s": "44.471 -94.012 45.415 -92.732", 
+"dc_title_s": "Transportation Analysis Zones (TAZ) 2000: Twin Cities Metro, Minnesota, 2014", 
+"layer_slug_s": "Minnesota-urn-b5599698-0b94-4a2e-a350-2f8f0bdd81b2"
+}

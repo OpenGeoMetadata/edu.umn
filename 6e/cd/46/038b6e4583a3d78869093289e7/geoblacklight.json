@@ -1,0 +1,34 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:43Z", 
+"solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/trans-aadt-traffic-count-locs\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dot/trans_aadt_traffic_count_locs/shp_trans_aadt_traffic_count_locs.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-6ecd4603-8b6e-4583-a3d7-8869093289e7", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"transportation"
+], 
+"dc_format_s": "Shapefile", 
+"dc_description_s": "This dataset represents the most current and all historical Annual Average Daily Traffic (AADT) on sampled road systems in a particular given year. AADT is a theoretical estimate of the total number of vehicles using a specific segment of roadway (in both directions) on any given day of the year. This estimate represents the total number of cars per year divided by 365 and is developed using factors that adjust for season, day of the week, and vehicle type. This information is displayed using the approximate point of data collection.", 
+"dct_temporal_sm": "1992-2013", 
+"dc_creator_sm": [
+"Minnesota Department of Transportation/Office of Transportation Systems Management/Traffic Forecasting & Analysis Section"
+], 
+"dc_identifier_s": "urn-6ecd4603-8b6e-4583-a3d7-8869093289e7", 
+"dc_relation_sm": [
+"Annual Average Daily Traffic (AADT) Traffic Segments, 2013Heavy Construction Annual Average Daily Traffic (HCAADT) Count Locations, 1994-2013Heavy Construction Annual Average Daily Traffic (HCAADT) Traffic Segments, 2013"
+], 
+"georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
+"solr_year_i": 1992, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Transportation"
+], 
+"layer_id_s": "urn:urn-6ecd4603-8b6e-4583-a3d7-8869093289e7", 
+"georss_box_s": "43.5 -97.23 49.37 -89.53", 
+"dc_title_s": "Annual Average Daily Traffic Count Locations: Minnesota, 1992-2013", 
+"layer_slug_s": "Minnesota-urn-6ecd4603-8b6e-4583-a3d7-8869093289e7"
+}

@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:06Z", 
+"solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-society-job-and-activity-centers\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Planning_Development/MapServer/26\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/society_job_and_activity_centers/shp_society_job_and_activity_centers.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-68ceda19-c28f-42c3-9855-5f549dab6b40", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"society"
+], 
+"dct_temporal_sm": "2010", 
+"dc_description_s": "The Job and Activity Centers describe contiguous areas where there are at least 1,000 jobs and the employment density is at least 10 jobs per net acre. The data also includes some regionally sigificant anufacturing and distribtuion centers that have at least 1,000 jobs but densities less than 10 jobs per acre. One-Hundred and seven (107) centers are defined. Nearly two-thirds of all jobs in the 7-County Twin Cities Metorpolitan area of Minneapolis and St. Paul are located within the Jobs and Activity Centers. The Job and Activity Centers are classified into six Scale categories based on total employment or special recognition and five industry types (Major, Professional, Industrial, Activity, and Diversified) based on predominant industry. The employment data is from the Minnesota Dept. of Employment and Economic Development's (DEED) 2010 Quarterly Census of Employment and Wages (QCEW). U.S. Census's, Longitudinal Employer-Household Dynamics (LEHD) Origin-Desitination Employment Statistics (LODES) data was used for centers where employment data needed to be suppressed in accordance with the data sharing agreement with Minnesota DEED. In general, Job and Activity Center boundaries follow U.S. Census block boundaries.", 
+"dct_issued_s": "2014-11-17", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Metropolitan Council"
+], 
+"dc_identifier_s": "urn-68ceda19-c28f-42c3-9855-5f549dab6b40", 
+"dc_relation_sm": [
+"U.s. Census Blocks, 2010 and MNDEED Quarterly Census of Employment and Wages, 2010U.S. Census's, Longitudinal Employer-Household Dynamics (LEHD) Origin-Desitination Employment Statistics (LODES) 2010 data"
+], 
+"georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
+"solr_year_i": 2014, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-68ceda19-c28f-42c3-9855-5f549dab6b40", 
+"georss_box_s": "44.471 -94.012 45.415 -92.732", 
+"dc_title_s": "Job and Activity Centers: Twin Cities Metro, Minnesota, 2014", 
+"layer_slug_s": "Minnesota-urn-68ceda19-c28f-42c3-9855-5f549dab6b40"
+}

@@ -1,0 +1,32 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:33Z", 
+"solr_geom": "ENVELOPE(-96.574296, -89.483972, 49.121615, 43.47279)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-invasive-aquatic-obs\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_invasive_aquatic_obs/shp_env_invasive_aquatic_obs.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-dad67e6d-648f-48a8-97c8-6310b1ea8e71", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"environment"
+], 
+"dct_temporal_sm": "2010", 
+"dc_description_s": "A multi-divisional effort to record the locations of aquatic invasive species in waterbodies throughout the state. Points indicate presence and/or approximate physical locations of the species.", 
+"dct_issued_s": "2010-06-01T06:00:00.000Z", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (DNR) - Division of Ecological Resources"
+], 
+"dc_identifier_s": "urn-dad67e6d-648f-48a8-97c8-6310b1ea8e71", 
+"georss_polygon_s": "43.47279 -96.574296 49.121615 -96.574296 49.121615 -89.483972 43.47279 -89.483972 43.47279 -96.574296", 
+"solr_year_i": 2010, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-dad67e6d-648f-48a8-97c8-6310b1ea8e71", 
+"georss_box_s": "43.47279 -96.574296 49.121615 -89.483972", 
+"dc_title_s": "Aquatic Invasive Species Observations: Minnesota, 2010", 
+"layer_slug_s": "Minnesota-urn-dad67e6d-648f-48a8-97c8-6310b1ea8e71"
+}

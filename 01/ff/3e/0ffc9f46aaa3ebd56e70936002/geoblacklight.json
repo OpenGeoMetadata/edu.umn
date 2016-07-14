@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:00Z", 
+"solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-lakes-of-biological-signific\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_lakes_of_biological_signific/shp_env_lakes_of_biological_signific.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-01ff3e0f-fc9f-46aa-a3eb-d56e70936002", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"environment"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "This layer shows lakes meeting criteria for Lakes of Biological Significance (LBS). Lakes were identified and classified by DNR subject matter experts on objective criteria for four community types (aquatic plants, fish, amphibians, birds). Unique plant or animal presence was the primary measure of a lake's biological significance. Lakes were rated and grouped for each of the following communities: aquatic plants, fish, birds, and amphibians. Lakes were assigned one of three biological significance classes (outstanding, high, or moderate), which are defined in Section 5: Attributes (below). Many Minnesota lakes have not been sampled for plants and/or animals, so this list of lakes will be periodically revised as additional biological data become available. The goal of this list was to identify lakes that exhibit the highest quality features within any of the four assessed biological communities (as opposed to identification of lakes that exhibit diversity across communities). Therefore, a lake needed to meet criteria for only one of the community types (aquatic plants, fish, birds, amphibians) to be identified as a Lake of Biological Significance. Occurrences of high-quality features within the community types determined the biological significance rank. For a detailed description of criteria and analysis used, see: Lakes of Biological SIgnificance Criteria and Analysis 20150423 (pdf, 38k)", 
+"dct_issued_s": "2015-04-30", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (DNR)"
+], 
+"dc_identifier_s": "urn-01ff3e0f-fc9f-46aa-a3eb-d56e70936002", 
+"dc_relation_sm": [
+"<a href=Nhttps://gisdata.mn.gov/dataset/water-dnr-hydrographyN                    target=_blank>MNDNR Hydrography - All Water Features</a>"
+], 
+"georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-01ff3e0f-fc9f-46aa-a3eb-d56e70936002", 
+"georss_box_s": "43.5 -97.23 49.37 -89.53", 
+"dc_title_s": "DNR Hydrography, Lakes of Biological Significance: Minnesota, 2015", 
+"layer_slug_s": "Minnesota-urn-01ff3e0f-fc9f-46aa-a3eb-d56e70936002"
+}

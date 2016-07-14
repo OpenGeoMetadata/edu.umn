@@ -1,0 +1,38 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:53Z", 
+"solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-regional-bike-trans-netwrk\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_regional_bike_trans_netwrk/shp_trans_regional_bike_trans_netwrk.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-3b19bda4-8dac-4651-b5e1-4a9cde668939", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"transportation", 
+"transportation policy", 
+"bicycle"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "The Regional Bicycle Transportation Network (RBTN) dataset was created by the Metropolitan Council for the 2040 Transportation Policy Plan (TPP). The RBTN is represented by two map layers including alignments and corridors. Alignments represent existing or proposed bicycle paths and bike corridors represent areas where bicycle path alignments are yet to be determined. Both corridor and alignment layers can be classified into tiers. Tier 1 Alignments/Corridors have higher priorities than Tier 2 Alignments/Corridors.", 
+"dct_issued_s": "2015-08-19", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Metropolitan Transportation Services - Metropolitan Council"
+], 
+"dc_identifier_s": "urn-3b19bda4-8dac-4651-b5e1-4a9cde668939", 
+"dc_relation_sm": [
+"State Trails (DNR GDRS), Regional Trails - Existing and Planned, Functional Class Roads - Existing, Bikeways (MNDOT)"
+], 
+"georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-3b19bda4-8dac-4651-b5e1-4a9cde668939", 
+"georss_box_s": "44.471 -94.012 45.415 -92.732", 
+"dc_title_s": "Regional Bicycle Transportation Network (Alignments and Corridors): Twin Cities Metro, Minnesota, 2015", 
+"layer_slug_s": "Minnesota-urn-3b19bda4-8dac-4651-b5e1-4a9cde668939"
+}

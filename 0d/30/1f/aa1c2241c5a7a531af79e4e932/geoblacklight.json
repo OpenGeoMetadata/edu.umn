@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:56Z", 
+"solr_geom": "ENVELOPE(-94.022062, -92.74902, 45.392463, 44.467198)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-agri-agricultural-preserves2008\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/agri_agricultural_preserves2008/shp_agri_agricultural_preserves2008.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-0d301faa-1c22-41c5-a7a5-31af79e4e932", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"farming"
+], 
+"dct_temporal_sm": "2008", 
+"dc_description_s": "This dataset includes parcels that are enrolled in the Metropolitan Agricultural Preserves Act, Minnesota Statute 473H. The goal of this act is to encourage preservation of agricultural lands by providing a package of benefits to keep land in long-term agricultural use. At the request of the Metropolitan Council, a table is created by each county to reflect the status of parcels in the program at the end of each calendar year. The Council links these tables to the MetroGIS Regional Parcel Dataset to create a shape file of Agricultural Preserves.", 
+"dct_issued_s": "2009-03-03", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Metropolitan Council"
+], 
+"dc_identifier_s": "urn-0d301faa-1c22-41c5-a7a5-31af79e4e932", 
+"dc_relation_sm": [
+"Agricultural Preserves (other years), Regional Parcel Dataset (Licensed) -                    Seven County Twin Cities Metropolitan Area"
+], 
+"georss_polygon_s": "44.467198 -94.022062 45.392463 -94.022062 45.392463 -92.74902 44.467198 -92.74902 44.467198 -94.022062", 
+"solr_year_i": 2009, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-0d301faa-1c22-41c5-a7a5-31af79e4e932", 
+"georss_box_s": "44.467198 -94.022062 45.392463 -92.74902", 
+"dc_title_s": "Agricultural Preserves: Twin Cities Metro, Minnesota, 2008", 
+"layer_slug_s": "Minnesota-urn-0d301faa-1c22-41c5-a7a5-31af79e4e932"
+}

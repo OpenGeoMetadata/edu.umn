@@ -1,0 +1,33 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:46Z", 
+"solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-base-metcouncil-basemap-service\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/BaseLayer/UTMBaseMap/MapServer\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-38d417d0-86e9-4d18-8efa-2d35c9d3db67", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"imageryBaseMapsEarthCover"
+], 
+"dct_temporal_sm": "peri", 
+"dc_description_s": "Metropolitan Council cached base map web service, developed for 7 County Twin Cities Region. Includes political boundaries, roadways, parks, lakes and rivers, land marks, and transit information.", 
+"dct_issued_s": "2011-11-29T06:00:00.000Z", 
+"dc_format_s": "", 
+"dc_creator_sm": [
+"Metropolitan Council"
+], 
+"dc_identifier_s": "urn-38d417d0-86e9-4d18-8efa-2d35c9d3db67", 
+"georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
+"solr_year_i": 2011, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-38d417d0-86e9-4d18-8efa-2d35c9d3db67", 
+"georss_box_s": "44.471 -94.012 45.415 -92.732", 
+"dc_title_s": "Metropolitan Council Base Map Service: Twin Cities Metro, Minnesota, 2011", 
+"layer_slug_s": "Minnesota-urn-38d417d0-86e9-4d18-8efa-2d35c9d3db67"
+}

@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:55Z", 
+"solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-bdry-counties-mcd1990\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Demographics/MapServer/24\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/bdry_counties_mcd1990/shp_bdry_counties_mcd1990.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-375d85de-be34-4442-add3-59d03cbeb951", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"boundaries"
+], 
+"dct_temporal_sm": "1990", 
+"dc_description_s": "This is a polygon layer of county and minor civil divisions (cities and townships) in the 7-county Twin Cities metropolitan area as of 1990. NOTES: - Lines are of limited positional accuracy - COMCDLUT (or comcdlut.dbf) is an available table with additional county/mcd attributes. However, it is geared toward more recent data. - Some MCDs are split between two counties. Only those parts of MCDs within the 7-county area are included.", 
+"dct_issued_s": "2001-03-06", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Metropolitan Council"
+], 
+"dc_identifier_s": "urn-375d85de-be34-4442-add3-59d03cbeb951", 
+"dc_relation_sm": [
+"County_mcd layer combined by the Metropolitan Council from more recent county and MnDOT data.The BaseMap '97 dataset distributed by the  Minnesota Dept. of Transportation includes county and city boundaries, but not township boundaries."
+], 
+"georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
+"solr_year_i": 2001, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-375d85de-be34-4442-add3-59d03cbeb951", 
+"georss_box_s": "44.471 -94.012 45.415 -92.732", 
+"dc_title_s": "Counties and Minor Civil Divisions: Twin Cities Metro, Minnesota, 1990", 
+"layer_slug_s": "Minnesota-urn-375d85de-be34-4442-add3-59d03cbeb951"
+}

@@ -1,0 +1,32 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:56Z", 
+"solr_geom": "ENVELOPE(-96.774088, -89.847596, 49.238689, 43.43753)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/biota-wma-landcover-pub\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_wma_landcover_pub/shp_biota_wma_landcover_pub.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-ac50d7cc-8fbc-4108-bfd3-dbb4627ecc8e", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"biota"
+], 
+"dct_temporal_sm": "2016", 
+"dc_description_s": "This polygon feature class contains land cover type boundaries for publicly accessible Wildlife Management Areas(WMAs) across the state. WMAs are part of the Minnesota state recreation system created to protect wildlife habitat and provide wildlife-based recreation. Cover type polygons are based on a hierarchical classification system modified from the Minnesota Land Cover Classification System (MLCCS). (The following text is taken from the: Minnesota Land Cover Classification System User Manual, July 2003, MN DNR, Central Region.) MLCCS integrates classification of cultural features, non-native vegetation, natural and semi-natural vegetation into a comprehensive land cover classification system. MLCCS is based heavily on the US National Vegetation Classification System (NVCS) and Minnesota's Native Vegetation: A Key to Natural Communities, version 1.5. The MLCCS uses the natural community terminology developed by the MN DNR Natural Heritage and Nongame Research Program (NHNRP). To find out further about the MLCCS, refer to the Minnesota Land Cover Classification System website.(http://www.dnr.state.mn.us/mlccs/index.html).", 
+"dct_issued_s": "2016-01-15T06:00:00.000Z", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (DNR) - Division of Fish & Wildlife - Wildlife Unit"
+], 
+"dc_identifier_s": "urn-ac50d7cc-8fbc-4108-bfd3-dbb4627ecc8e", 
+"georss_polygon_s": "43.43753 -96.774088 49.238689 -96.774088 49.238689 -89.847596 43.43753 -89.847596 43.43753 -96.774088", 
+"solr_year_i": 2016, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-ac50d7cc-8fbc-4108-bfd3-dbb4627ecc8e", 
+"georss_box_s": "43.43753 -96.774088 49.238689 -89.847596", 
+"dc_title_s": "DNR Wildlife Management Area Land Cover, Publicly Accessible: Minnesota, 2016", 
+"layer_slug_s": "Minnesota-urn-ac50d7cc-8fbc-4108-bfd3-dbb4627ecc8e"
+}

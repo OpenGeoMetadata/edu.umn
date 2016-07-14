@@ -1,0 +1,38 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:08Z", 
+"solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metrogis-plan-regonal-parcels-2002\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metrogis/plan_regonal_parcels_2002/shp_plan_regonal_parcels_2002.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-55e39735-4f09-4abf-b6f7-0412c2e7d3e9", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"planningCadastre", 
+"ownership", 
+"regional planning"
+], 
+"dct_temporal_sm": "2002", 
+"dc_description_s": "This dataset is a compilation of parcel polygon layers from the seven Twin Cities metropolitan area counties of Anoka, Carver, Dakota, Hennepin, Ramsey, Scott and Washington. The seven counties were assembled into a common coordinate system. No attempt has been made to edgematch or rubbersheet between counties. A standard set of attribute fields is included for each county. Not all attributes are populated for all counties. This is an annual version of the MetroGIS Regional Parcel Dataset that can be used with other annual versions to do change analysis and time series investigations. This dataset is intended to contain all updates to each county's parcel data through the end of 2002. It was originally published as the NJanuary 1, 2003N version of the dataset. See the Currentness Reference below and the Entity and Attribute information in Section 5 for more information about the dates for specific aspects of the dataset. Some counties have also made available a parcel points dataset that includes the same attribute fields. This is done to provide information in situations where multiple tax parcels are represented by a single polygon. This is a MetroGIS Regionally Endorsed dataset. Each of the seven Metro Area counties has entered into a multiparty agreement with the Metropolitan Council to assemble and distribute the parcel data for each county as a regional (seven county) parcel dataset.", 
+"dct_issued_s": "2003-01-15", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Counties of Anoka, Carver, Dakota, Hennepin, Ramsey, Scott and Washington"
+], 
+"dc_identifier_s": "urn-55e39735-4f09-4abf-b6f7-0412c2e7d3e9", 
+"dc_relation_sm": [
+"Regional Parcel Dataset - Seven County Twin Cities Metropolitan Area2002 - current"
+], 
+"georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
+"solr_year_i": 2003, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-55e39735-4f09-4abf-b6f7-0412c2e7d3e9", 
+"georss_box_s": "44.471 -94.012 45.415 -92.732", 
+"dc_title_s": "MetroGIS Regional Parcels: Twin Cities Metro, 2002", 
+"layer_slug_s": "Minnesota-urn-55e39735-4f09-4abf-b6f7-0412c2e7d3e9"
+}

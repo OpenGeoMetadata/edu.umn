@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:40Z", 
+"solr_geom": "ENVELOPE(-96.404505, -93.196833, 45.826093, 44.143791)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-impaired-wetlands-2010\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_pca/env_impaired_wetlands_2010/shp_env_impaired_wetlands_2010.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-fa592090-c850-475e-90d7-2c02c43df10c", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"environment"
+], 
+"dct_temporal_sm": "2010", 
+"dc_description_s": "This is a set of the impaired wetlands as determined by MPCA in 2009 for the 2010 reporting cycling to US EPA. The lakes are a subset and enhancement of the 1:24,000 scale National Hydrography Dataset (NHD). MPCA adds additional lakes. Since the impaired lakes are a small subset of the NHD lakes, only that subset is included in the dataset. This dataset includes impaired lakes which have not yet had a TMDL plan approved by the US EPA, as well as those lakes that have a US EPA approved TMDL plan.", 
+"dct_issued_s": "2012-03-23", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Pollution Control Agency"
+], 
+"dc_identifier_s": "urn-fa592090-c850-475e-90d7-2c02c43df10c", 
+"dc_relation_sm": [
+"Minnesota 2010  Inventory of Impaired Streams, February, 2012Minnesota 2010 Inventory of Impaired Lakes, February, 2012"
+], 
+"georss_polygon_s": "44.143791 -96.404505 45.826093 -96.404505 45.826093 -93.196833 44.143791 -93.196833 44.143791 -96.404505", 
+"solr_year_i": 2012, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Pollution Control Agency"
+], 
+"layer_id_s": "urn:urn-fa592090-c850-475e-90d7-2c02c43df10c", 
+"georss_box_s": "44.143791 -96.404505 45.826093 -93.196833", 
+"dc_title_s": "Impaired Wetlands: Minnesota, 2010", 
+"layer_slug_s": "Minnesota-urn-fa592090-c850-475e-90d7-2c02c43df10c"
+}

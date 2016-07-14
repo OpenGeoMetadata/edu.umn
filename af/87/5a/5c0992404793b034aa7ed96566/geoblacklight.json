@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:31Z", 
+"solr_geom": "ENVELOPE(-92.55, -91.85, 44.45, 44.12)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-geologic-atlas-waba-c14a\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-af875a5c-0992-4047-93b0-34aa7ed96566", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"geoscientificInformation"
+], 
+"dct_temporal_sm": "2001", 
+"dc_description_s": "A County Geologic Atlas is a systematic study of a county's geologic and ground water resources. Geologic studies include both near-surface deposits and bedrock. Ground water studies include flow systems, aquifer capacity, and ground water chemistry. In some areas sand and gravel deposits, sinkholes, or other features are studied. Interpretation of sensitivity to pollution is also part of an atlas. The information is organized, analyzed, and displayed using geographic information technology. Most Geologic Atlas and Regional Hydrogeologic Assessment projects are done in two parts. The Minnesota Geological Survey covers basic geology and creates databases of information such as wells and soil borings in part A. The Minnesota Department of Natural Resources handles hydrogeology and ground water sensitivity layers in Part B. Completion of a project's two parts is staggered: Part A is completed about two years before Part B, compiling information used to create part B. Parts A and B are published and distributed as two separate products.", 
+"dct_issued_s": "2001-06-15", 
+"dc_format_s": "GeoTIFF", 
+"dc_creator_sm": [
+"Minnesota Geological Survey"
+], 
+"dc_identifier_s": "urn-af875a5c-0992-4047-93b0-34aa7ed96566", 
+"dc_relation_sm": [
+"C-14, Part A. Geologic atlas of Wabasha County, Minnesota. Anthony C. Runkel, Project Manager. 2001. Color.  Scale 1:100,000. Paper map and report available from MGS Map Sales Office (2609 Territorial Road, St. Paul, Minnesota, 55114, 612-626-2969.)For a listing of other geologic maps go to the Minnesota Geological Survey website at http://www.mngs.umn.edu/mgsdocs.htmlFor a complete listing of MGS State Map Series Maps, Reports, and GIS Data, see http://conservancy.umn.edu/handle/11299/708 For other County Atlas and Regional Hydrogeologic Assessment data see: http://www.mngs.umn.edu/county_atlas/countyatlas.htm For a listing of the status of the DNR Ground Water Mapping Program, go to: http://www.dnr.state.mn.us/waters/groundwater_section/mapping/index.html"
+], 
+"georss_polygon_s": "44.12 -92.55 44.45 -92.55 44.45 -91.85 44.12 -91.85 44.12 -92.55", 
+"solr_year_i": 2001, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Wabasha County, Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Geological Survey"
+], 
+"layer_id_s": "urn:urn-af875a5c-0992-4047-93b0-34aa7ed96566", 
+"georss_box_s": "44.12 -92.55 44.45 -91.85", 
+"dc_title_s": "Geologic Atlas of Wabasha County, Minnesota (Part A), 2001", 
+"layer_slug_s": "Minnesota-urn-af875a5c-0992-4047-93b0-34aa7ed96566"
+}
