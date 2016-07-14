@@ -1,0 +1,32 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:45Z", 
+"solr_geom": "ENVELOPE(-96.719299, -89.998661, 48.559229, 43.460328)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/water-lake-bathymetry\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/water_lake_bathymetry/shp_water_lake_bathymetry.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-dccf46ae-8820-43c0-bfa7-9eda562ad976", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"inlandWaters"
+], 
+"dct_temporal_sm": "2014", 
+"dc_description_s": "This file geodatabase includes the following individual layers: Lake Bathymetric Contours: Contours lines corresponding to lake bathymetry, digitized from existing lake contour maps produced by the DNR Ecological Services Lake Mapping Unit. Use in combination with other Lake Bathymetric GIS products. Classify and label contour lines with depth values. Convert to polygons and calculate lake surface area for each depth interval. Overlay onto bathymetric DEM shaded relief image. Lake Bathymetric Digital Elevation Model (DEM): A digital elevation model (DEM) representing lake bathymetry. Cell size is most often 5m, although 10m cells were used for some lakes to reduce grid file size. This grid contains one attribute DEPTH that represents lake depth in (negative) feet. Use in combination with other Lake Bathymetric GIS products. Reclassify DEM based on various depth intervals. Calculate zonal and neighborhood statistics. Derive slope surface. Model depth data with other cell-based parameters (e.g., slope, vegetation, substrate, chemistry) to predict habitat suitability, functional niches, etc. (Note: These raster analyses require Spatial Analyst or Arc Grid.) Lake Bathymetric Outline: Lake outline as digitized from 1991-92 aerial photography (1m DOQ's). Use in combination with other Lake Bathymetric GIS products. Overlay onto bathymetric contour lines and bathymetric DEM shaded relief image. Lake Bathymetric Aquatic Vegetation: Aquatic vegetation represented as polygon features, coded with vegetation type (emergent, submergent, etc.) and field survey date. Polygons were digitized from scanned, geo-referenced Lake Bathymetric Contour Map Images. Use in combination with other Lake Bathymetric GIS products. Overlay with bathymetric contour lines to see vegetation patterns by depth. Overlay onto bathymetric DEM shaded relief image for cartographic product. Convert to grid and use with bathymetric DEM for spatial modeling (requires Spatial Analyst or Arc Grid). Lake Bathymetric Metadata: Metadata for the Lake Bathymetry layers. Each lake is represented by a polygon. The polygon attributes contain information about when the bathymetry fieldwork was completed. This layer can be used to query for bathymetry created on or between certain dates, or to ascertain what date a particular lake was investigated. The dates are in a text field. Date formats vary from record to record.", 
+"dct_issued_s": "2014-11-12T06:00:00.000Z", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (DNR)"
+], 
+"dc_identifier_s": "urn-dccf46ae-8820-43c0-bfa7-9eda562ad976", 
+"georss_polygon_s": "43.460328 -96.719299 48.559229 -96.719299 48.559229 -89.998661 43.460328 -89.998661 43.460328 -96.719299", 
+"solr_year_i": 2014, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-dccf46ae-8820-43c0-bfa7-9eda562ad976", 
+"georss_box_s": "43.460328 -96.719299 48.559229 -89.998661", 
+"dc_title_s": "Lake Bathymetric Outlines, Contours, Vegetation, and DEM: Minnesota, 2014", 
+"layer_slug_s": "Minnesota-urn-dccf46ae-8820-43c0-bfa7-9eda562ad976"
+}

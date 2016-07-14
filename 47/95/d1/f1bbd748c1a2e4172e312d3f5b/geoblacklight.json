@@ -1,0 +1,33 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:01Z", 
+"solr_geom": "ENVELOPE(-93.329853, -92.729236, 44.923499, 44.468748)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-co-dakota-elev-elevation-service\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.co.dakota.mn.us/arcgis/rest/services/DCGIS_OL_Elevation/MapServer\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-4795d1f1-bbd7-48c1-a2e4-172e312d3f5b", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"elevation"
+], 
+"dct_temporal_sm": "peri", 
+"dc_description_s": "Elevation service of DCGIS that contains 1-m and 3-m Aspect, Elevation Surfaces and Hillshades and 1-foot, 2-foot and 10-foot contours.", 
+"dct_issued_s": "2015-10-12T05:00:00.000Z", 
+"dc_format_s": "", 
+"dc_creator_sm": [
+"Dakota County"
+], 
+"dc_identifier_s": "urn-4795d1f1-bbd7-48c1-a2e4-172e312d3f5b", 
+"georss_polygon_s": "44.468748 -93.329853 44.923499 -93.329853 44.923499 -92.729236 44.468748 -92.729236 44.468748 -93.329853", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Dakota County, Minnesota"
+], 
+"dc_publisher_sm": [
+"Dakota County, Minnesota"
+], 
+"layer_id_s": "urn:urn-4795d1f1-bbd7-48c1-a2e4-172e312d3f5b", 
+"georss_box_s": "44.468748 -93.329853 44.923499 -92.729236", 
+"dc_title_s": "Elevation: Dakota County, Minnesota, 2015", 
+"layer_slug_s": "Minnesota-urn-4795d1f1-bbd7-48c1-a2e4-172e312d3f5b"
+}

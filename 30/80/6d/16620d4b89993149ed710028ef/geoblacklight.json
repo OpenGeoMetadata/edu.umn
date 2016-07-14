@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:40Z", 
+"solr_geom": "ENVELOPE(-94.028865, -92.722523, 45.420775, 44.461089)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-env-frmwrk2030nat-resourc-ar\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/env_frmwrk2030nat_resourc_ar/shp_env_frmwrk2030nat_resourc_ar.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-30806d16-620d-4b89-9931-49ed710028ef", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"environment"
+], 
+"dct_temporal_sm": "2000", 
+"dc_description_s": "This is a preliminary analysis of the Regionally Significant Natural Resource Areas in the seven county metropolitan area. It was created by the Minnesota Department of Natural Resources. This dataset was used in the Metropolitan Council's Blueprint 2030 and subsequent 2030 Regional Development Framework. After the Blueprint was approved by the Council, the DNR provided a different dataset named Regionally Significant Ecological Areas. Some significant differences exist between the two datasets. DNR is only distributing the latter dataset. The Metropolitan Council is distributing this dataset because it was used for the 2030 Regional Development Framework. This metadata was taken in large part from DNR's metadata which is no longer available. Individual forest, grassland and wetland models were integrated to identify and rank the Regionally Significant Natural Resource Areas. The Regionally Significant Natural Resource Area scores are determined by examining important ecological attributes of the natural resource patches, including size, shape, cover type diversity, adjacent land use. The results represent a probability that the modeled conditions exist in any given area, due to limitations of the data layers. The dataset was created from LandSat land cover images.", 
+"dct_issued_s": "2006-01-13", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Dept. of Natural Resources, Metro Region"
+], 
+"dc_identifier_s": "urn-30806d16-620d-4b89-9931-49ed710028ef", 
+"dc_relation_sm": [
+"MN DNR Regionally Significant Ecological Areas"
+], 
+"georss_polygon_s": "44.461089 -94.028865 45.420775 -94.028865 45.420775 -92.722523 44.461089 -92.722523 44.461089 -94.028865", 
+"solr_year_i": 2006, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-30806d16-620d-4b89-9931-49ed710028ef", 
+"georss_box_s": "44.461089 -94.028865 45.420775 -92.722523", 
+"dc_title_s": "Framework Regional Natural Resource Areas: Twin Cities Metro, Minnesota, 2030", 
+"layer_slug_s": "Minnesota-urn-30806d16-620d-4b89-9931-49ed710028ef"
+}

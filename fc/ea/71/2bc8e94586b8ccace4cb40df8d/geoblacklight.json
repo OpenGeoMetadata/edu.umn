@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Polygon", 
+"layer_modified_dt": "2016-07-11T09:15:39Z", 
+"solr_geom": "ENVELOPE(-93.3291143127397, -93.2025933532949, 45.0389461595331, 44.8923411303282)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/93fb32337d274547820e4e17c3de7c56_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Neighborhood_Commercial_Nodes/FeatureServer/0\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/93fb32337d274547820e4e17c3de7c56_0\"}", 
+"dc_rights_s": "Public", 
+"uuid": "fcea712b-c8e9-4586-b8cc-ace4cb40df8d", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"economy", 
+"society", 
+"land use"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "For questions about this data please contact CPEDOpenData@minneapolismn.gov Designated land use features from the City's adopted comprehensive plan.", 
+"dct_issued_s": "2014-12-04T22:23:47.000ZZ", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"MapIT Minneapolis"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "fcea712b-c8e9-4586-b8cc-ace4cb40df8d", 
+"georss_polygon_s": "44.8923411303282 -93.3291143127397 45.0389461595331 -93.3291143127397 45.0389461595331 -93.2025933532949 44.8923411303282 -93.2025933532949 44.8923411303282 -93.3291143127397", 
+"solr_year_i": 2014, 
+"dct_spatial_sm": [
+"City of Minneapolis, Minnesota", 
+"Minneapolis"
+], 
+"dc_publisher_sm": [
+"MapIT Minneapolis"
+], 
+"layer_id_s": "urn:fcea712b-c8e9-4586-b8cc-ace4cb40df8d", 
+"georss_box_s": "44.8923411303282 -93.3291143127397 45.0389461595331 -93.2025933532949", 
+"dc_title_s": "Neighborhood Commercial Nodes: Minneapolis, Minnesota", 
+"layer_slug_s": "Minnesota-fcea712b-c8e9-4586-b8cc-ace4cb40df8d"
+}

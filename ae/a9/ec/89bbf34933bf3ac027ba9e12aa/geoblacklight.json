@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T10:00:10Z", 
+"solr_geom": "ENVELOPE(-97.5, -89, 49.5, 43)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/trans-georef-frwplat-footprints\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dot/trans_georef_frwplat_footprints/shp_trans_georef_frwplat_footprints.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-aea9ec89-bbf3-4933-bf3a-c027ba9e12aa", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"transportation"
+], 
+"dct_temporal_sm": "cont", 
+"dc_description_s": "The Right of Way Plat and Commissioner's Graphic Orders footprints layer is a statewide data set. The footprints are constructed from the scanned right of way plat images (raster data) that were georeferenced using the Department of Natural Resource's Control Point Generated Public Land Survey Coverage (vector data), MnDOT's Statewide Basemap (vector data), and other reference data sets as necessary to support the positioning of the images.", 
+"dct_issued_s": "2015-03-11T06:00:00.000Z", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Transportation, Office of Land Management"
+], 
+"dc_identifier_s": "urn-aea9ec89-bbf3-4933-bf3a-c027ba9e12aa", 
+"dc_relation_sm": [
+"Right of Way Map - Raster Image Files Right of Way Map - Raster Image File FootprintsRight of Way Map - Vector (CAD) FilesRight of Way Map - Vector (CAD) File FootprintsOriginal Highway Right of Way Plat MapsCommissioner's OrdersControl Point Generated Public Land Survey"
+], 
+"georss_polygon_s": "43 -97.5 49.5 -97.5 49.5 -89 43 -89 43 -97.5", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Transportation"
+], 
+"layer_id_s": "urn:urn-aea9ec89-bbf3-4933-bf3a-c027ba9e12aa", 
+"georss_box_s": "43 -97.5 49.5 -89", 
+"dc_title_s": "Raster Image File Footprints, Right of Way Plat and Commissioner's Graphic Order: Minnesota, 2015", 
+"layer_slug_s": "Minnesota-urn-aea9ec89-bbf3-4933-bf3a-c027ba9e12aa"
+}

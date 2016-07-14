@@ -1,0 +1,32 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:43Z", 
+"solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-2009-wsr-oblique-cir-index\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/base_2009_wsr_oblique_cir_index/shp_base_2009_wsr_oblique_cir_index.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-1b0f29e2-910c-41ae-901a-94810bc2494c", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"imageryBaseMapsEarthCover"
+], 
+"dct_temporal_sm": "spri", 
+"dc_description_s": "Index to high quality Color Infrared oblique aerial imagery of Minnesota wild and scenic river system. Leaf off, snow off conditions. Feature class contains hyperlink to photos taken in spring of 2009.", 
+"dct_issued_s": "2009-04-01T05:00:00.000Z", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (DNR)"
+], 
+"dc_identifier_s": "urn-1b0f29e2-910c-41ae-901a-94810bc2494c", 
+"georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
+"solr_year_i": 2009, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-1b0f29e2-910c-41ae-901a-94810bc2494c", 
+"georss_box_s": "43.5 -97.23 49.37 -89.53", 
+"dc_title_s": "Wild and Scenic River Aerial Oblique CIR Photo Index: Minnesota, 2009", 
+"layer_slug_s": "Minnesota-urn-1b0f29e2-910c-41ae-901a-94810bc2494c"
+}

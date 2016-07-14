@@ -1,0 +1,41 @@
+{
+"layer_geom_type_s": "Polygon", 
+"layer_modified_dt": "2016-07-11T09:15:40Z", 
+"solr_geom": "ENVELOPE(-93.329, -93.194, 45.051, 44.891)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/1e89a7bf8cd74cb686352e9459457227_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Wards2012/FeatureServer/0\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/1e89a7bf8cd74cb686352e9459457227_0\"}", 
+"dc_rights_s": "Public", 
+"uuid": "f51a1bd3-fbd3-46cb-ac94-a23112676e97", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"environment", 
+"society", 
+"inlandWaters", 
+"utilitiesCommunications", 
+"imageryBaseMapsEarthCover", 
+"age", 
+"urban population", 
+"census survey"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "Council ward boundaries with Council member contact information and enhanced population demographics from the 2010 U.S. Census.", 
+"dct_issued_s": "2012-05-08T15:14:54.000ZZ", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"MapIT Minneapolis"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "f51a1bd3-fbd3-46cb-ac94-a23112676e97", 
+"georss_polygon_s": "44.891 -93.329 45.051 -93.329 45.051 -93.194 44.891 -93.194 44.891 -93.329", 
+"solr_year_i": 2012, 
+"dct_spatial_sm": [
+"City of Minneapolis, Minnesota", 
+"Minneapolis"
+], 
+"dc_publisher_sm": [
+"MapIT Minneapolis"
+], 
+"layer_id_s": "urn:f51a1bd3-fbd3-46cb-ac94-a23112676e97", 
+"georss_box_s": "44.891 -93.329 45.051 -93.194", 
+"dc_title_s": "City Council Wards with Demographics: Minneapolis, Minnesota", 
+"layer_slug_s": "Minnesota-f51a1bd3-fbd3-46cb-ac94-a23112676e97"
+}

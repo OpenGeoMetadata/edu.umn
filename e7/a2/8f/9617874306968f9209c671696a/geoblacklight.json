@@ -1,0 +1,32 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T10:00:19Z", 
+"solr_geom": "ENVELOPE(-97.5, -89, 49.5, 43)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-urban-areas\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mda/base_urban_areas/shp_base_urban_areas.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-e7a28f96-1787-4306-968f-9209c671696a", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"imageryBaseMapsEarthCover"
+], 
+"dct_temporal_sm": "2014", 
+"dc_description_s": "Urban areas in the context of this dataset includes the Twin Cities Metro Area, as well as outstate metro areas and rural downtowns, for all municipalities with more than 100 residents.", 
+"dct_issued_s": "2014-10-29", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Agriculture"
+], 
+"dc_identifier_s": "urn-e7a28f96-1787-4306-968f-9209c671696a", 
+"georss_polygon_s": "43 -97.5 49.5 -97.5 49.5 -89 43 -89 43 -97.5", 
+"solr_year_i": 2014, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Agriculture"
+], 
+"layer_id_s": "urn:urn-e7a28f96-1787-4306-968f-9209c671696a", 
+"georss_box_s": "43 -97.5 49.5 -89", 
+"dc_title_s": "Urban Areas: Minnesota, 2014", 
+"layer_slug_s": "Minnesota-urn-e7a28f96-1787-4306-968f-9209c671696a"
+}

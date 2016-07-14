@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T10:00:27Z", 
+"solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-bdry-metprks-opsspcdst\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Administrative_Political_Boundaries/MapServer/15\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/bdry_metprks_opsspcdst/shp_bdry_metprks_opsspcdst.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-63971585-12c2-43ab-8511-f03d8b57d435", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"boundaries"
+], 
+"dct_temporal_sm": "2016", 
+"dc_description_s": "This layer defines the district boundaries for the Metropolitan Parks and Open Space Commission (MPOSC) NOTES: - The boundaries for the MPOSC district are based on current Metropolitan Council Districts, which were enacted in 2013.", 
+"dct_issued_s": "2013", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Metropolitan Council"
+], 
+"dc_identifier_s": "urn-63971585-12c2-43ab-8511-f03d8b57d435", 
+"dc_relation_sm": [
+"Metropolitan Council Districts, Counties and Cities & Townships, Twin Cities Metropolitan Area"
+], 
+"georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
+"solr_year_i": 2013, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-63971585-12c2-43ab-8511-f03d8b57d435", 
+"georss_box_s": "44.471 -94.012 45.415 -92.732", 
+"dc_title_s": "Metropolitan Parks and Open Space Commission Districts (MPOSC): Twin Cities Metro, Minnesota, 2013", 
+"layer_slug_s": "Minnesota-urn-63971585-12c2-43ab-8511-f03d8b57d435"
+}

@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Polygon", 
+"layer_modified_dt": "2016-07-12T16:17:56.588241Z", 
+"solr_geom": "ENVELOPE(-93.02936, -92.74151, 45.29843, 44.73814)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.wcmn.opendata.arcgis.com/datasets/4510342b30984e4b85a65c9abb955d79_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/3fjYPqJf7qalQMlb/arcgis/rest/services/SurficialGeology/FeatureServer/0\",\"http://schema.org/url\":\"http://data.wcmn.opendata.arcgis.com/datasets/4510342b30984e4b85a65c9abb955d79_0\"}", 
+"dc_rights_s": "Public", 
+"uuid": "724a893e-b54d-45e8-8212-c9a7a90bca00", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"geoscientificinformation", 
+"geology", 
+"surficial geology", 
+"washington county"
+], 
+"dct_temporal_sm": "2016", 
+"dc_description_s": "Surficial Geology of Washington County. map of surface of unconsolidated material covering the bedrock of Washington County", 
+"dct_issued_s": "2016-03-02T13:34:15.000ZZ", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Washington County, MN"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "724a893e-b54d-45e8-8212-c9a7a90bca00", 
+"georss_polygon_s": "44.73814 -93.02936 45.29843 -93.02936 45.29843 -92.74151 44.73814 -92.74151 44.73814 -93.02936", 
+"solr_year_i": 2016, 
+"dct_spatial_sm": [
+"Washington County, Minnesota"
+], 
+"dc_publisher_sm": [
+"Washington County, MN"
+], 
+"layer_id_s": "urn:724a893e-b54d-45e8-8212-c9a7a90bca00", 
+"georss_box_s": "44.73814 -93.02936 45.29843 -92.74151", 
+"dc_title_s": "SurficialGeology", 
+"layer_slug_s": "Minnesota-724a893e-b54d-45e8-8212-c9a7a90bca00"
+}

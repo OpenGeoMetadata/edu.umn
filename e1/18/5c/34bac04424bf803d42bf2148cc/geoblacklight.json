@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:40Z", 
+"solr_geom": "ENVELOPE(-97.252252, -89.406737, 49.34025, 43.098198)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/water-strahler-stream-order\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/water_strahler_stream_order/shp_water_strahler_stream_order.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-e1185c34-bac0-4424-bf80-3d42bf2148cc", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"inlandWaters"
+], 
+"dct_temporal_sm": "2013", 
+"dc_description_s": "Stream segments with Strahler stream order values assigned. For more information about Strahler stream order, see: http://en.wikipedia.org/wiki/Strahler_Stream_Order Stream order was assigned using an automated process. Data has not been verified and is subject to change. Be sure to check the values before using the layer. Stream order values are maintained as tabular data and displayed as linear events on the Stream Routes with Kittle Numbers and Mile Measures layer. In the attribute table, designated segments extend from the FROM_MEAS (mile) to the TO_MEAS (mile) and have a total length = [LENGTH_MI] on a route with total length = [ROUTE_MI].", 
+"dct_issued_s": "2013-11-01", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (DNR)"
+], 
+"dc_identifier_s": "urn-e1185c34-bac0-4424-bf80-3d42bf2148cc", 
+"dc_relation_sm": [
+"<a href=N../../water_measured_kittle_routes/metadata/metadata.htmlN target=_blank><b>Stream Routes with Kittle Numbers and Mile Measures</b></a>"
+], 
+"georss_polygon_s": "43.098198 -97.252252 49.34025 -97.252252 49.34025 -89.406737 43.098198 -89.406737 43.098198 -97.252252", 
+"solr_year_i": 2013, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-e1185c34-bac0-4424-bf80-3d42bf2148cc", 
+"georss_box_s": "43.098198 -97.252252 49.34025 -89.406737", 
+"dc_title_s": "Stream Routes with Strahler Stream Order: Minnesota, 2013", 
+"layer_slug_s": "Minnesota-urn-e1185c34-bac0-4424-bf80-3d42bf2148cc"
+}

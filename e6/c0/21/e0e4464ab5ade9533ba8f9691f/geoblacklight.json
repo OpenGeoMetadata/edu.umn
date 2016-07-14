@@ -1,0 +1,39 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:18Z", 
+"solr_geom": "ENVELOPE(-95.82446, -91.68951, 49.02439, 45.9073)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-ruffed-grouse-mgmt-areas\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_ruffed_grouse_mgmt_areas/shp_bdry_ruffed_grouse_mgmt_areas.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-e6c021e0-e446-4ab5-ade9-533ba8f9691f", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"boundaries", 
+"forest", 
+"hunting", 
+"habitat", 
+"wildlife"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "This is a polygon shapefile of sites managed for ruffed grouse by MN DNR (Department of Natural Resources); sometimes in cooperation with other public land management agencies. Ruffed Grouse Management Areas (RGMA) are managed to provide forest age-class diversity to provide excellent habitat for ruffed grouse, woodcock, and other early-successional wildlife species. These areas may or may not contain trails maintained to facilitate hunting. Off-highway vehicles generally are not allowed on RGMAs.", 
+"dct_issued_s": "2013-02-21", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (DNR)"
+], 
+"dc_identifier_s": "urn-e6c021e0-e446-4ab5-ade9-533ba8f9691f", 
+"dc_relation_sm": [
+""
+], 
+"georss_polygon_s": "45.9073 -95.82446 49.02439 -95.82446 49.02439 -91.68951 45.9073 -91.68951 45.9073 -95.82446", 
+"solr_year_i": 2013, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-e6c021e0-e446-4ab5-ade9-533ba8f9691f", 
+"georss_box_s": "45.9073 -95.82446 49.02439 -91.68951", 
+"dc_title_s": "Ruffed Grouse Management Areas: Minnesota, 2013", 
+"layer_slug_s": "Minnesota-urn-e6c021e0-e446-4ab5-ade9-533ba8f9691f"
+}

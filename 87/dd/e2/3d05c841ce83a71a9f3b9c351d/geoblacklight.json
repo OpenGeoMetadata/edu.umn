@@ -1,0 +1,40 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-05-16T01:01:38Z", 
+"solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-util-sewer-interceptors\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Utilities/MapServer/2\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/util_sewer_interceptors/shp_util_sewer_interceptors.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-87dde23d-05c8-41ce-83a7-1a9f3b9c351d", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"utilitiesCommunication", 
+"sewerage", 
+"waste water", 
+"utilites", 
+"sewer", 
+"sewers", 
+"sewer interceptors", 
+"sewer systems", 
+"sewage"
+], 
+"dc_format_s": "Shapefile", 
+"dc_description_s": "This layer contains data for the sewer interceptor system in the Twin Cities metropolitan area. Owned, operated and maintained by the Metropolitan Council Environmental Services division, the interceptor system provides the link from community sewer systems to the wastewater treatment facilities in the seven county metropolitan area.", 
+"dct_issued_s": "2016-01-28", 
+"dct_temporal_sm": "2016", 
+"dc_creator_sm": [
+"Metropolitan Council"
+], 
+"dc_identifier_s": "urn-87dde23d-05c8-41ce-83a7-1a9f3b9c351d", 
+"dc_relation_sm": [
+"Sewer Interceptor System, Abandoned Sewer Interceptors, Lift Stations, Sewer Interceptor Meter Stations"
+], 
+"georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
+"solr_year_i": 2016, 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-87dde23d-05c8-41ce-83a7-1a9f3b9c351d", 
+"georss_box_s": "44.471 -94.012 45.415 -92.732", 
+"dc_title_s": "Sewer Interceptor System: Twin Cities Metro, Minnesota, 2016", 
+"layer_slug_s": "Minnesota-urn-87dde23d-05c8-41ce-83a7-1a9f3b9c351d"
+}

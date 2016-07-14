@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:39Z", 
+"solr_geom": "ENVELOPE(-98, -96, 48, 46)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-rha3a-so-red-river\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-8d7788af-3082-471b-908d-44c947abb96b", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"geoscientificInformation"
+], 
+"dct_temporal_sm": "1995", 
+"dc_description_s": "A County Geologic Atlas is a systematic study of a county's geologic and ground water resources. Geologic studies include both near-surface deposits and bedrock. Ground water studies include flow systems, aquifer capacity, and ground water chemistry. In some areas sand and gravel deposits, sinkholes, or other features are studied. Interpretation of sensitivity to pollution is also part of an atlas. The information is organized, analyzed, and displayed using geographic information technology. A Regional Hydrogeologic Assessment (RHA) is similar to a County Geologic Atlas in that both geology and ground water are studied. However, a Regional Hydrogeologic Assessment covers a larger area, typically four to nine counties, in less detail. The RHA emphasizes near-surface geologic, ground water, and pollution sensitivity mapping.", 
+"dct_issued_s": "2015-04-18", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Geological Survey"
+], 
+"dc_identifier_s": "urn-8d7788af-3082-471b-908d-44c947abb96b", 
+"dc_relation_sm": [
+"Map Series and Report: Regional Hydrogeologic Assessment - southern Red River                    Valley, Minnesota, K.L. Harris, Project Manager. Report RHA-3, Part A, Minnesota                    Geological Survey, 1995. Available from the Minnesota Geological Survey's Map                    Store. (612) 626-2969. Map Plates Include: Plate 1: Surficial Geologic Map Plate                    2: Quaternary Stratigraphy For a listing of Maps and Data published by the                    Minnesota Geological Survey, see U of M Library Digital Conservancy:                    http://conservancy.umn.edu/handle/11299/708 PART B: Ground Water Sensitivity,                    from Minnesota Department of Natural Resources. For status of DNR Ground Water                    Mapping Program, see                    http://www.dnr.state.mn.us/waters/groundwater_section/mapping/index.html"
+], 
+"georss_polygon_s": "46 -98 48 -98 48 -96 46 -96 46 -98", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Geological Survey"
+], 
+"layer_id_s": "urn:urn-8d7788af-3082-471b-908d-44c947abb96b", 
+"georss_box_s": "46 -98 48 -96", 
+"dc_title_s": "Quaternary Geology (Part A): Southern Red River Valley, Minnesota, 2015", 
+"layer_slug_s": "Minnesota-urn-8d7788af-3082-471b-908d-44c947abb96b"
+}

@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:24Z", 
+"solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-econ-residential-building-permts\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/econ_residential_building_permts/shp_econ_residential_building_permts.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-a7d41629-0b90-4cc1-afc9-8db68fd5f37b", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"economy"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "This dataset consists of residential building permits issued in the 7-county Twin Cities Metropolitan Area from 2009 through 2014. The data were obtained through an annual survey sent to communities by the Metropolitan Council and from the U.S. Census Bureau. The data on returned surveys were verified by Metropolitan Council staff through various means. Data from the Residential Construction Branch of the Manufacturing and Construction Division of the U.S. Census Bureau were used if a community did not return the survey. Data may be periodically updated to reflect corrections.", 
+"dct_issued_s": "2015-09-18", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Metropolitan Council"
+], 
+"dc_identifier_s": "urn-a7d41629-0b90-4cc1-afc9-8db68fd5f37b", 
+"dc_relation_sm": [
+"Commercial, Industrial, and Public and Institutional Construction, Twin Cities Metropolitan Area"
+], 
+"georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-a7d41629-0b90-4cc1-afc9-8db68fd5f37b", 
+"georss_box_s": "44.471 -94.012 45.415 -92.732", 
+"dc_title_s": "Residential Building Permits: Twin Cities Metro, Minnesota, 2015", 
+"layer_slug_s": "Minnesota-urn-a7d41629-0b90-4cc1-afc9-8db68fd5f37b"
+}

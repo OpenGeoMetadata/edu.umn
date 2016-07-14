@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Line", 
+"layer_modified_dt": "2016-07-11T09:15:40Z", 
+"solr_geom": "ENVELOPE(-93.3291143140062, -93.2033317607805, 45.0439332438281, 44.8898032870711)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/0f8cd532bc9a48518d6e69d681a0ffb9_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Community_Corridors/FeatureServer/0\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/0f8cd532bc9a48518d6e69d681a0ffb9_0\"}", 
+"dc_rights_s": "Public", 
+"uuid": "c8b74fe6-6eb7-441a-b324-d38d58110a0e", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"planningCadastre", 
+"land use"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "For questions about this data please contact CPEDOpenData@minneapolismn.gov Designated land use features from the City's Adopted comprehensive plan.", 
+"dct_issued_s": "2014-12-10T14:41:38.000ZZ", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"MapIT Minneapolis"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "c8b74fe6-6eb7-441a-b324-d38d58110a0e", 
+"georss_polygon_s": "44.8898032870711 -93.3291143140062 45.0439332438281 -93.3291143140062 45.0439332438281 -93.2033317607805 44.8898032870711 -93.2033317607805 44.8898032870711 -93.3291143140062", 
+"solr_year_i": 2014, 
+"dct_spatial_sm": [
+"City of Minneapolis, Minnesota", 
+"Minneapolis"
+], 
+"dc_publisher_sm": [
+"MapIT Minneapolis"
+], 
+"layer_id_s": "urn:c8b74fe6-6eb7-441a-b324-d38d58110a0e", 
+"georss_box_s": "44.8898032870711 -93.3291143140062 45.0439332438281 -93.2033317607805", 
+"dc_title_s": "Community Corridors: Minneapolis, Minnesota", 
+"layer_slug_s": "Minnesota-c8b74fe6-6eb7-441a-b324-d38d58110a0e"
+}

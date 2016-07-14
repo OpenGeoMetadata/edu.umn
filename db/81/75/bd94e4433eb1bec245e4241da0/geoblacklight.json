@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:05Z", 
+"solr_geom": "ENVELOPE(-94.5, -92.7, 45.8, 44.4)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-bikeways\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Recreation_Tourism/MapServer/0\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_bikeways/shp_trans_bikeways.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-db8175bd-94e4-433e-b1be-c245e4241da0", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"transportation"
+], 
+"dct_temporal_sm": "2007", 
+"dc_description_s": "The regional bikeways dataset was created by the Minnesota Dept of Transportation (MNDOT) in 2003. It has been maintained and updated by the Land Management Information Center (LMIC) through contract with the Metropolitan Council. Dataset includes bicycle routes within nine Twin Cities metropolitan counties: Anoka, Carver, Chisago, Dakota, Hennepin, Ramsey, Scott, Washington, and Wright. The bikeways are from a number of sources including the Metro Bicycle Network map book (2001), supplemented by information from maps published by city, state, county and regional government agencies, and city and county planning maps. The map shows on-road and off-road bikeways, proposed and existing bikeways, and includes bike lanes, bike-able road shoulders, and trails. The majority of the bikeways follow road centerlines of the MNDOT BaseMap 2002-Roads. A description of the bikeways attributes and sources of data are included in Section 5 of this document - Entity and Attribute Overview.", 
+"dct_issued_s": "2007-04-06T05:00:00.000Z", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Transportation (MNDOT)"
+], 
+"dc_identifier_s": "urn-db8175bd-94e4-433e-b1be-c245e4241da0", 
+"dc_relation_sm": [
+"Regional Trails - Existing and Planned"
+], 
+"georss_polygon_s": "44.4 -94.5 45.8 -94.5 45.8 -92.7 44.4 -92.7 44.4 -94.5", 
+"solr_year_i": 2007, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-db8175bd-94e4-433e-b1be-c245e4241da0", 
+"georss_box_s": "44.4 -94.5 45.8 -92.7", 
+"dc_title_s": "Bikeways: Twin Cities Metro, Minnesota, 2007", 
+"layer_slug_s": "Minnesota-urn-db8175bd-94e4-433e-b1be-c245e4241da0"
+}

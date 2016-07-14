@@ -1,0 +1,32 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T10:00:02Z", 
+"solr_geom": "ENVELOPE(-96.721312, -89.587051, 48.989955, 43.440334)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/water-shallow-lakes-id-by-wldlif\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/water_shallow_lakes_id_by_wldlif/shp_water_shallow_lakes_id_by_wldlif.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-d4dccfdc-7735-4e11-8096-1c91efe63885", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"inlandWaters"
+], 
+"dct_temporal_sm": "2006", 
+"dc_description_s": "This is a polygon coverage of shallow lakes in Minnesota. In this coverage, a Nshallow lakeN is defined as a basin 50 acres or greater in size having a maximum depth of 15 feet or less. It was created using the MN DNR's 'DNR 100K Water (hydrography)' coverage as a base. A list of shallow lakes was generated from a query of all lakes with assigned Division of Waters ID numbers. Lakes with unknown depths were assigned a depth of '0', and were subsequently included in the list of shallow lakes. Some of these lakes with unknown depths may be deeper than 15 feet, and therefore, not shallow lakes. The depth values are updated as additional data is obtained, and the non-shallow lakes are removed from the list and the coverage.", 
+"dct_issued_s": "2006-01-01T06:00:00.000Z", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota DNR - Division of Fish & Wildlife - Wildlife Unit"
+], 
+"dc_identifier_s": "urn-d4dccfdc-7735-4e11-8096-1c91efe63885", 
+"georss_polygon_s": "43.440334 -96.721312 48.989955 -96.721312 48.989955 -89.587051 43.440334 -89.587051 43.440334 -96.721312", 
+"solr_year_i": 2006, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-d4dccfdc-7735-4e11-8096-1c91efe63885", 
+"georss_box_s": "43.440334 -96.721312 48.989955 -89.587051", 
+"dc_title_s": "Shallow Lakes Identified by DNR Wildlife: Minnesota, 2006", 
+"layer_slug_s": "Minnesota-urn-d4dccfdc-7735-4e11-8096-1c91efe63885"
+}

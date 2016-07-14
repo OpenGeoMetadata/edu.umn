@@ -1,0 +1,41 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:57Z", 
+"solr_geom": "ENVELOPE(-97.2, -92.28, 47.9, 45.55)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-saip-central-2013-1ft\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-f8b7ff40-7a40-4a4c-b55d-1da83cfc9f36", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"imageryBaseMapsEarthCover"
+], 
+"dct_temporal_sm": "2013", 
+"dc_description_s": "This dataset contains leaf-off 4-band red, green, blue, infrared (RGBI) digital orthophoto imagery produced at 30-centimeter (approximately one-foot) resolution from new aerial photography captured in Spring 2013. The imagery covers Carlton, Clay, Itasca, Mille Lacs and Wilkin counties; Fond du Lac and White Earth reservations, and Camp Ripley military reservation in central and north-central Minnesota. Funding for this data was provided by the Minnesota Natural Heritage Fund, the Minnesota Clean Water Legacy Act, and The Environmental and Natural Resources Trust Fund. Counties and other non-state public entities named under 'Originator' contributed additional funding to increase the resolution of the imagery collect. This metadata record was created by the Minnesota Geospatial Information Office (MnGeo) using information supplied by Quantum Spatial, Inc. and the Minnesota Department of Transportation.", 
+"dct_issued_s": "2013-06-15", 
+"dc_format_s": "", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources, Quantum Geospatial, Inc., Carlton County, Clay County, Itasca County, Mille Lacs County, Wilkin County, Fond du Lac Reservation, White Earth Reservation, and Camp Ripley Military Reservation"
+], 
+"dc_identifier_s": "urn-f8b7ff40-7a40-4a4c-b55d-1da83cfc9f36", 
+"dc_relation_sm": [
+"For information on other air photos available for Minnesota, see: http://www.mngeo.state.mn.us/chouse/airphoto/"
+], 
+"georss_polygon_s": "45.55 -97.2 47.9 -97.2 47.9 -92.28 45.55 -92.28 45.55 -97.2", 
+"solr_year_i": 2013, 
+"dct_spatial_sm": [
+"Minnesota, MN, Carlton, Clay, Itasca, Mille Lacs, Wilkin, Fond du Lac Reservation, White Earth Reservation, Camp Ripley Military Reservation", 
+"Minnesota", 
+"Wilkin County, Minnesota", 
+"Mille Lacs County, Minnesota", 
+"Itasca County, Minnesota", 
+"Clay County, Minnesota", 
+"Carlton County, Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Geospatial Information Office (MnGeo)"
+], 
+"layer_id_s": "urn:urn-f8b7ff40-7a40-4a4c-b55d-1da83cfc9f36", 
+"georss_box_s": "45.55 -97.2 47.9 -92.28", 
+"dc_title_s": "High Resolution Orthoimagery, 1 Foot Resolution: Selected Areas, Central Minnesota, Spring 2013", 
+"layer_slug_s": "Minnesota-urn-f8b7ff40-7a40-4a4c-b55d-1da83cfc9f36"
+}

@@ -1,0 +1,37 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:35Z", 
+"solr_geom": "ENVELOPE(-95.57, -94.33, 48.8, 46.07)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/biota-landcover-ripbisf-1990s\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mngeo/biota_landcover_ripbisf_1990s/shp_biota_landcover_ripbisf_1990s.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-56a1e0dd-b48a-4e75-a1b0-25db4b34a49e", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"biota"
+], 
+"dct_temporal_sm": "1992-1996", 
+"dc_description_s": "This data set covers two areas of Minnesota that had not been included in other recent land use inventories. Camp Ripley is a military reservation in northern Morrison County in the central part of the state, and Beltrami Island State Forest is in southeastern Roseau County in the northwestern part of the state. Classification was done using multi-temporal interpretation of Landsat TM imagery from 1992-3 and 1996. The classification scheme matches that used for the Landsat_Based Land Cover Inventory produced in 1996 for the forested areas of the state.", 
+"dct_issued_s": "1999", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (DNR)"
+], 
+"dc_identifier_s": "urn-56a1e0dd-b48a-4e75-a1b0-25db4b34a49e", 
+"dc_relation_sm": [
+"For more information about land use/land cover data for Minnesota, see http://www.mngeo.state.mn.us/chouse/land_use.html ."
+], 
+"georss_polygon_s": "46.07 -95.57 48.8 -95.57 48.8 -94.33 46.07 -94.33 46.07 -95.57", 
+"solr_year_i": 1992, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Morrison County, Minnesota", 
+"Roseau County, Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Geospatial Information Office (MnGeo)"
+], 
+"layer_id_s": "urn:urn-56a1e0dd-b48a-4e75-a1b0-25db4b34a49e", 
+"georss_box_s": "46.07 -95.57 48.8 -94.33", 
+"dc_title_s": "Land Use: Camp Ripley and Beltrami Island State Forest, Minnesota, 1992-1996", 
+"layer_slug_s": "Minnesota-urn-56a1e0dd-b48a-4e75-a1b0-25db4b34a49e"
+}

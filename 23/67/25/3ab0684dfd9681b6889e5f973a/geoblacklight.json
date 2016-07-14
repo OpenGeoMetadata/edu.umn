@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:09Z", 
+"solr_geom": "ENVELOPE(-96.594773, -89.922535, 48.995304, 43.455332)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-scientific-and-nat-areas\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_scientific_and_nat_areas/shp_bdry_scientific_and_nat_areas.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-2367253a-b068-4dfd-9681-b6889e5f973a", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"boundaries"
+], 
+"dct_temporal_sm": "2016", 
+"dc_description_s": "This dataset includes the main MNDNR Scientific and Natural Areas (SNA) feature class, along with ancillary feature classes such as annotation and parking lots. These feature classes support MNNR's SNA Work Planning application. scientific_and_natural_area_boundaries: A polygon feature class delineated on and digitized from 1:24,000 U.S.G.S. quad maps of Minnesota Scientific and Natural Areas (SNAs). Scientific and natural areas are established to protect and perpetuate in an undisturbed natural state those lands and waters embracing natural features of exceptional scientific and educational value. The SNA Program's goal is to ensure that no single rare feature is lost from any region of the state. This requires protection and management of each feature in sufficient quantity and distribution across the landscape. The Programs' Long Range Plan is to protect at least five locations of plant communities known to occur in each landscape region, and three locations per region of each rare species, plant or animal, and geologic feature. It is estimated that 500 natural areas are needed throughout the state to adequately protect significant features. Because over 40 percent of these rare features occur in prairies, 200 SNAs would be in the prairie area of the state. Of the remainder, approximately 135 are estimated to be needed in the deciduous and 165 in coniferous forest landscape communities in the next 100 years. Protection of multiple sites in each landscape region is a vital means of capturing the genetic diversity and preventing the loss of important species, communities, and features. This strategy observes the wisdom of not putting all our eggs in one basket. In addition to SNA, Itasca and Crow Wing Counties have established county natural areas. Itasca County's natural areas were established in 1966. Sites are set aside as SNAs because of their natural attributes and rare resources, which warrant protection for their inherent values and as places for scientific and educational use. Protection guards against developments such as trails, campgrounds, picnic sites, logging, mineral exploration and development, cultivation, and other uses of land, public or private, that interfere with the preservation of its natural features", 
+"dct_issued_s": "2003-09-04", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (MNDNR)"
+], 
+"dc_identifier_s": "urn-2367253a-b068-4dfd-9681-b6889e5f973a", 
+"dc_relation_sm": [
+""
+], 
+"georss_polygon_s": "43.455332 -96.594773 48.995304 -96.594773 48.995304 -89.922535 43.455332 -89.922535 43.455332 -96.594773", 
+"solr_year_i": 2003, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-2367253a-b068-4dfd-9681-b6889e5f973a", 
+"georss_box_s": "43.455332 -96.594773 48.995304 -89.922535", 
+"dc_title_s": "Scientific and Natural Area Units: Minnesota, 2003", 
+"layer_slug_s": "Minnesota-urn-2367253a-b068-4dfd-9681-b6889e5f973a"
+}

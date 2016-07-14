@@ -1,0 +1,37 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:54Z", 
+"solr_geom": "ENVELOPE(-94, -92.135, 45.414, 44.471)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-transit-link-srv-ar\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_transit_link_srv_ar/shp_trans_transit_link_srv_ar.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-306f5f31-903f-4d6e-b230-02285febfd78", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"transportation", 
+"transportation"
+], 
+"dct_temporal_sm": "2011", 
+"dc_description_s": "This table contains information about the Transit Link Dial-a-Ride Service Areas in the Twin Cities Metro Area. Transit Link is the Metropolitan Council sponsored small bus dial-a-ride service for the general public, where regular route transit service is not available. (ADA service is provided by Metro Mobility, see table ADAService.dbf.) Transit Link service was implemented in 2010, replacing a system of community based Dial-a-Ride programs. This table can be joined to the NCounties and Cities & Townships, Twin Cities Metropolitan AreaN spatial dataset using the COCTU_CODE field (concatenation of 3-digit FIPS county code and 5-digit FIPS place code). This will allow users to create maps and conduct spatial analyses with the data in this table.", 
+"dct_issued_s": "2011-04-01T06:00:00.000Z", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Metropolitan Council"
+], 
+"dc_identifier_s": "urn-306f5f31-903f-4d6e-b230-02285febfd78", 
+"dc_relation_sm": [
+"Counties and Cities & Townships, Twin Cities Metropolitan Area"
+], 
+"georss_polygon_s": "44.471 -94 45.414 -94 45.414 -92.135 44.471 -92.135 44.471 -94", 
+"solr_year_i": 2011, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-306f5f31-903f-4d6e-b230-02285febfd78", 
+"georss_box_s": "44.471 -94 45.414 -92.135", 
+"dc_title_s": "Transit Link Dial-a-Ride Service Areas: Twin Cities Metro, Minnesota, 2011", 
+"layer_slug_s": "Minnesota-urn-306f5f31-903f-4d6e-b230-02285febfd78"
+}

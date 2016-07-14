@@ -1,0 +1,32 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:57Z", 
+"solr_geom": "ENVELOPE(-95.84013, -92.537349, 46.418277, 44.284642)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-wild-and-scenic-river-admin\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_wild_and_scenic_river_admin/shp_bdry_wild_and_scenic_river_admin.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-75a43627-277b-4287-9e9c-151a754d4e1d", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"boundaries"
+], 
+"dct_temporal_sm": "octo", 
+"dc_description_s": "District boundaries for wild, scenic, and recreational rivers designated under the Minnesota State Wild and Scenic Rivers Act. Includes portions of the Minnesota River, Mississippi River, Rum River, Kettle River, North Fork of the Crow River and the Cannon River.", 
+"dct_issued_s": "2006-10-19T05:00:00.000Z", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (DNR)"
+], 
+"dc_identifier_s": "urn-75a43627-277b-4287-9e9c-151a754d4e1d", 
+"georss_polygon_s": "44.284642 -95.84013 46.418277 -95.84013 46.418277 -92.537349 44.284642 -92.537349 44.284642 -95.84013", 
+"solr_year_i": 2006, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-75a43627-277b-4287-9e9c-151a754d4e1d", 
+"georss_box_s": "44.284642 -95.84013 46.418277 -92.537349", 
+"dc_title_s": "Wild and Scenic River Districts: Minnesota, 2006", 
+"layer_slug_s": "Minnesota-urn-75a43627-277b-4287-9e9c-151a754d4e1d"
+}

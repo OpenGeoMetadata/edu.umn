@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:47Z", 
+"solr_geom": "ENVELOPE(-93.329706, -92.729113, 44.923499, 44.469877)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-co-dakota-bdry-swcdsupervisordistricts\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/bdry_swcdsupervisordistricts/shp_bdry_swcdsupervisordistricts.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-ac3965b1-8e32-43d6-b4bb-9974767bbe17", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"boundaries"
+], 
+"dct_temporal_sm": "2014", 
+"dc_description_s": "This layer represents supervisor district boundaries for the Dakota County Soil and Water Conservation District. Each district is formed according to city and township municipal boundaries in Dakota County. District 1: Burnsville, Eagan, Inver Grove Heights, Mendota, Mendota Heights, Lilydale, South St. Paul, Sunfish Lake, West St. Paul. District 2: Apple Valley, Coates, Empire Township, Farmington, Lakeville, and Rosemount. District 3: Hastings, Marshan Township, Nininger Township, Ravenna Township, Vermillion, and Vermillion Township. District 4: Castle Rock Township, Eureka Township, Greenvale Township, Sciota Township, Northfield, and Waterford Township. District 5: Douglas Township, Hampton, Hampton Township, Miesville, New Trier, Randolph, and Randolph Township.", 
+"dct_issued_s": "2014-05-14", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"David Holmen, Dakota County Soil and Water Conservation District, Resource Conservationist/I.T. Specialist"
+], 
+"dc_identifier_s": "urn-ac3965b1-8e32-43d6-b4bb-9974767bbe17", 
+"dc_relation_sm": [
+"SWCD Supervisor District Boundaries"
+], 
+"georss_polygon_s": "44.469877 -93.329706 44.923499 -93.329706 44.923499 -92.729113 44.469877 -92.729113 44.469877 -93.329706", 
+"solr_year_i": 2014, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Dakota County, Minnesota"
+], 
+"dc_publisher_sm": [
+"Dakota County, Minnesota"
+], 
+"layer_id_s": "urn:urn-ac3965b1-8e32-43d6-b4bb-9974767bbe17", 
+"georss_box_s": "44.469877 -93.329706 44.923499 -92.729113", 
+"dc_title_s": "SWCD Supervisor Districts: Dakota County, Minnesota, 2014", 
+"layer_slug_s": "Minnesota-urn-ac3965b1-8e32-43d6-b4bb-9974767bbe17"
+}

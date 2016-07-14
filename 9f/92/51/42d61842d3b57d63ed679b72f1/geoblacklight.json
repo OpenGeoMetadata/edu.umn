@@ -1,0 +1,34 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:37Z", 
+"solr_geom": "ENVELOPE(-179, -66, 73, 18)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/util-npms\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-9f925142-d618-42d3-b57d-63ed679b72f1", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"utilitiesCommunication"
+], 
+"dc_format_s": "Shapefile", 
+"dc_description_s": "The National Pipeline Mapping System (NPMS) is a geographic information system (GIS) created by the U.S. Department of Transportation, Pipeline and Hazardous Materials Safety Administration (PHMSA), Office of Pipeline Safety (OPS) in cooperation with other federal and state governmental agencies and the pipeline industry. The NPMS consists of geospatial data, attribute data, public contact information, and metadata pertaining to the interstate and intrastate hazardous liquid trunklines and hazardous liquid low-stress lines as well as gas transmission pipelines, liquefied natural gas (LNG) plants, and hazardous liquid breakout tanks jurisdictional to PHMSA.", 
+"dct_issued_s": "2014-02-04T06:00:00.000Z", 
+"dc_creator_sm": [
+"U.S. Department of Transportation"
+], 
+"dc_identifier_s": "urn-9f925142-d618-42d3-b57d-63ed679b72f1", 
+"dc_relation_sm": [
+"The data set, 'Gas and Liquid Pipelines, Minnesota Statewide Overview, 1996: Department of Public Safety, Office of Pipeline Safety', previously available from the State of Minnesota, is no longer available.  Emergency officials and pipeline operators should instead request the National Pipeline Mapping System described in this metadata record."
+], 
+"georss_polygon_s": "18 -179 73 -179 73 -66 18 -66 18 -179", 
+"solr_year_i": 2014, 
+"dct_spatial_sm": [
+"United States"
+], 
+"dc_publisher_sm": [
+"U.S. Department of Transportation"
+], 
+"layer_id_s": "urn:urn-9f925142-d618-42d3-b57d-63ed679b72f1", 
+"georss_box_s": "18 -179 73 -66", 
+"dc_title_s": "National Pipeline Mapping System: United States, 2014", 
+"layer_slug_s": "Minnesota-urn-9f925142-d618-42d3-b57d-63ed679b72f1"
+}

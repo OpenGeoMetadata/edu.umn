@@ -1,0 +1,33 @@
+{
+"solr_year_i": 2014, 
+"uuid": "urn-c2da29ea-c702-480e-999a-2107543855b3", 
+"layer_geom_type_s": "Line", 
+"dc_publisher_sm": [
+"Dakota County, Minnesota"
+], 
+"layer_modified_dt": "2016-06-29T10:00:07Z", 
+"dc_creator_sm": [
+"David Holmen, Dakota County Soil and Water Conservation District, Resource Conservationist/I.T. Specialist"
+], 
+"layer_id_s": "urn:urn-c2da29ea-c702-480e-999a-2107543855b3", 
+"georss_polygon_s": "44.509435 -93.145712 44.560918 -93.145712 44.560918 -92.900237 44.509435 -92.900237 44.509435 -93.145712", 
+"georss_box_s": "44.509435 -93.145712 44.560918 -92.900237", 
+"dc_identifier_s": "urn-c2da29ea-c702-480e-999a-2107543855b3", 
+"dct_provenance_s": "Minnesota", 
+"dc_title_s": "Ditches, Public: Dakota County, Minnesota, 2014", 
+"layer_slug_s": "Minnesota-urn-c2da29ea-c702-480e-999a-2107543855b3", 
+"dc_format_s": "Shapefile", 
+"dc_description_s": "Dakota County has two public ditches within the North Cannon River Watershed which the county has jurisdiction over. They are named Public Ditch #1 and Public Ditch #2. Public Ditch #1 lies within Douglas and Hampton Twp and is also called Pine Creek. It extends north and west from Section 31 in Douglas Twp along the southern boundaries of Sections 25 and 26 then zigs north across Highway 52 through Section 27 and ends at the west boundary of Section 34. Public Ditch #2 lies within Waterford and Sciota Township and is made up of 1 ditch extending west from the North Branch of Chub Creek in Section 3 of Sciota Twp and Sections 4 and 5 of Waterford Twp and 2 ditches extending west from the Main branch of Chub Creek in Section 10 of Sciota Twp and Sections 6, 8, 9, and 17 of Waterford Twp. Ditches were heads-up digitized in ArcMap on 2002 Dakota County aerial photography using the original legal description map as reference for the extent of ditch jurisdiction.", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-co-dakota-env-ditchespublic\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/env_ditchespublic/shp_env_ditchespublic.zip\"}", 
+"dc_subject_sm": [
+"environment", 
+"environment"
+], 
+"dct_issued_s": "2014-05-14", 
+"solr_geom": "ENVELOPE(-93.145712, -92.900237, 44.560918, 44.509435)", 
+"dc_rights_s": "Public", 
+"dct_spatial_sm": [
+"Minnesota", 
+"Dakota County, Minnesota"
+]
+}

@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:48Z", 
+"solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-society-manufactuerd-home-parks\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-ab2c6bbb-9a90-4a26-be9b-1057bf96bd77", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"society"
+], 
+"dct_temporal_sm": "2016", 
+"dc_description_s": "This dataset contains information on manufactured housing located in manufactured housing parks in the seven-county Twin Cities metropolitan area.", 
+"dct_issued_s": "2016-03-05", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Metropolitan Council"
+], 
+"dc_identifier_s": "urn-ab2c6bbb-9a90-4a26-be9b-1057bf96bd77", 
+"dc_relation_sm": [
+"Residential building permits in Cities Metropolitan Area"
+], 
+"georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
+"solr_year_i": 2016, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-ab2c6bbb-9a90-4a26-be9b-1057bf96bd77", 
+"georss_box_s": "44.471 -94.012 45.415 -92.732", 
+"dc_title_s": "Manufactured Home Parks", 
+"layer_slug_s": "Minnesota-urn-ab2c6bbb-9a90-4a26-be9b-1057bf96bd77"
+}

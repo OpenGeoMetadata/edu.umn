@@ -1,0 +1,39 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:09Z", 
+"solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-plan-tod-transitway-pub-prcls\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/plan_tod_transitway_pub_prcls/shp_plan_tod_transitway_pub_prcls.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-62a90fcd-63aa-41f2-81c0-eb8ebb8e6dad", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"planningCadastre", 
+"station", 
+"ownership", 
+"regional planning"
+], 
+"dct_temporal_sm": "2016", 
+"dc_description_s": "This dataset was derived from the MetroGIS Regional Parcel dataset (see link below) and is the result of a pilot project conducted by Metro Transit's Transit Oriented Development Office (TOD) to identify publicly owned parcels within a 1/2 mile distance of select existing and planned transit stations. Additional publicly owned parcel data will be added to this dataset as the transit network expands and data becomes available. The purpose of this pilot project is to increase awareness of publicly owned parcel locations relative to transitway station areas and facilitate transit oriented development analyses. This dataset is a compilation of publicly owned parcel polygons assembled into a common coordinate system from Twin Cities, Minnesota metropolitan area counties. No attempt has been made to edgematch or rubbersheet between counties. A standard set of attribute fields is included for each county plus one additional field for ownership level. (See section 5 of the metadata). Not all attributes are populated for all counties. Summary attribute information is in the Attributes Overview section. Detailed attribute information can be found in the METROGIS Regional Parcels MetroGIS Regional Parcel Dataset https://gisdata.mn.gov/dataset/us-mn-state-metrogis-plan-regonal-prcls-open Attributes document. ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metrogis/plan_regonal_prcls_open/metadata/MetroGIS_Regional_Parcels_Attributes.pdf", 
+"dct_issued_s": "2016-01-11", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Counties of Anoka, Dakota, Hennepin and Ramsey"
+], 
+"dc_identifier_s": "urn-62a90fcd-63aa-41f2-81c0-eb8ebb8e6dad", 
+"dc_relation_sm": [
+"Metro GIS Regional Parcel DatasetTransitway StationsTransitway Alignments"
+], 
+"georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
+"solr_year_i": 2016, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-62a90fcd-63aa-41f2-81c0-eb8ebb8e6dad", 
+"georss_box_s": "44.471 -94.012 45.415 -92.732", 
+"dc_title_s": "Metropolitan Council Transitways; Publicly Owned Parcels (Pilot Project): Twin Cities Metro, Minnesota, 2016", 
+"layer_slug_s": "Minnesota-urn-62a90fcd-63aa-41f2-81c0-eb8ebb8e6dad"
+}

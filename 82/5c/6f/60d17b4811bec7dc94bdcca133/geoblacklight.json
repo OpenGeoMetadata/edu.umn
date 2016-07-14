@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:44Z", 
+"solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/trans-snowmobile-trails-mn\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/trans_snowmobile_trails_mn/shp_trans_snowmobile_trails_mn.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-825c6f60-d17b-4811-bec7-dc94bdcca133", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"transportation", 
+"transportation"
+], 
+"dct_temporal_sm": "2016", 
+"dc_description_s": "This layer shows all of the current snowmobile trails open to the public in Minnesota, regardless of funding source.", 
+"dct_issued_s": "2016-04-21T05:00:00.000Z", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (DNR)"
+], 
+"dc_identifier_s": "urn-825c6f60-d17b-4811-bec7-dc94bdcca133", 
+"dc_relation_sm": [
+"Snowmobile Interactive Mapping DNR web siteSnowmobile GPS Product, Garmin IMG file and KML file.Snowmobile trail cahnge point file"
+], 
+"georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
+"solr_year_i": 2016, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-825c6f60-d17b-4811-bec7-dc94bdcca133", 
+"georss_box_s": "43.5 -97.23 49.37 -89.53", 
+"dc_title_s": "Snowmobile Trails: Minnesota, 2016", 
+"layer_slug_s": "Minnesota-urn-825c6f60-d17b-4811-bec7-dc94bdcca133"
+}

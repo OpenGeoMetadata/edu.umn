@@ -1,0 +1,39 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:44Z", 
+"solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-regional-trails-land\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_regional_trails_land/shp_trans_regional_trails_land.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-c4c17bd7-8e78-406d-bcac-c1a361ff1908", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"transportation", 
+"regional planning", 
+"recreation", 
+"regional planning"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "This layer contains information on the land along existing regional trail corridors that is owned by the regional park operating agencies. The principal data source is the 2015 regional parcel data set (MetroGIS, Metropolitan Council). Two datasets are included: parks_regional.shp: includes boundaries of parcels where they form subdivisions of parks parks_regional_Dissolve.shp: derived form the other dataset, this layer dissolves the data to have just one polygon per park and fewer attributes.", 
+"dct_issued_s": "2015-09-08", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Metropolitan Council"
+], 
+"dc_identifier_s": "urn-c4c17bd7-8e78-406d-bcac-c1a361ff1908", 
+"dc_relation_sm": [
+"Regional Parks; Regional Trails; Regional Park Search Areas; Regional Trail Search Corridors."
+], 
+"georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-c4c17bd7-8e78-406d-bcac-c1a361ff1908", 
+"georss_box_s": "44.471 -94.012 45.415 -92.732", 
+"dc_title_s": "Regional Trail Land: Twin Cities Metro, Minnesota, 2015", 
+"layer_slug_s": "Minnesota-urn-c4c17bd7-8e78-406d-bcac-c1a361ff1908"
+}

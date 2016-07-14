@@ -1,0 +1,37 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T10:00:00Z", 
+"solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-transit-pattern-stret-segs\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_transit_pattern_stret_segs/shp_trans_transit_pattern_stret_segs.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-ff0f7dcb-3a4a-42ac-b106-5d92bd48bf14", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"transportation", 
+"transportation"
+], 
+"dct_temporal_sm": "upda", 
+"dc_description_s": "The Transit Patterns layer contains all fixed patterns serving the Twin Cities regional metropolitan area. A single route has multiple patterns often characterized by different terminals or branches. One shape and one corresponding record exists for each individual road segment that compose the pattern. The line work for the dataset was derived from NCompasses Street Centerline and Address Range dataset. A small number of line segments have been added to those available from the NCompass dataset to completely depict all patterns traveled by fixed-route transit vehicles.", 
+"dct_issued_s": "2015-03-26", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Metropolitan Council"
+], 
+"dc_identifier_s": "urn-ff0f7dcb-3a4a-42ac-b106-5d92bd48bf14", 
+"dc_relation_sm": [
+"- NCompass Street Centerline and Address Range dataset. - TransitPatterns, TransitRoutes, TransitStops"
+], 
+"georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-ff0f7dcb-3a4a-42ac-b106-5d92bd48bf14", 
+"georss_box_s": "44.471 -94.012 45.415 -92.732", 
+"dc_title_s": "Transit Patterns by Street Segments: Twin Cities Metro, Minnesota, 2015", 
+"layer_slug_s": "Minnesota-urn-ff0f7dcb-3a4a-42ac-b106-5d92bd48bf14"
+}

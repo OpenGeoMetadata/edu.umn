@@ -1,0 +1,32 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:56Z", 
+"solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/struc-state-forest-campgrounds\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/struc_state_forest_campgrounds/shp_struc_state_forest_campgrounds.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-c2e2840c-6b4f-44ec-b2df-6203ddcd50e4", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"structure"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "This dataset includes point data for the campgrounds, horse campgrounds, and day-use areas that are located within State Forests and are administered by the Division of Parks and Trails. The data were derived from authoritative sources in the PAT Enterprise Information System.", 
+"dct_issued_s": "2015-03-26", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (MNDNR)"
+], 
+"dc_identifier_s": "urn-c2e2840c-6b4f-44ec-b2df-6203ddcd50e4", 
+"georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-c2e2840c-6b4f-44ec-b2df-6203ddcd50e4", 
+"georss_box_s": "43.5 -97.23 49.37 -89.53", 
+"dc_title_s": "State Forest Campgrounds and Day Use Areas: Minnesota, 2015", 
+"layer_slug_s": "Minnesota-urn-c2e2840c-6b4f-44ec-b2df-6203ddcd50e4"
+}

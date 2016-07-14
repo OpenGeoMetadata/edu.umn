@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:42Z", 
+"solr_geom": "ENVELOPE(-97.2, -92.28, 49.4, 45.27)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-saip-central-nw2013-14-50cm\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-cb11c75c-9288-4db2-90d7-056b8f261bf6", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"imageryBaseMapsEarthCover"
+], 
+"dct_temporal_sm": "2013-2014", 
+"dc_description_s": "This dataset contains leaf-off 4-band red, green, blue, infrared (RGBI) digital orthophoto imagery produced at 50-centimenter resolution from new aerial photography captured in the spring of 2013 and spring of 2014. The imagery covers most of 29 counties in central and northwestern Minnesota. Funding for this data was provided by the Minnesota Natural Heritage Fund, the Minnesota Clean Water Legacy Act, and The Environmental and Natural Resources Trust Fund. This metadata record was created by the Minnesota Geospatial Information Office (MnGeo) using information supplied by Quantum Spatial, Inc. (formerly Aero-Metric).", 
+"dct_issued_s": "2015-06", 
+"dc_format_s": "", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources and Quantum Spatial, Inc."
+], 
+"dc_identifier_s": "urn-cb11c75c-9288-4db2-90d7-056b8f261bf6", 
+"dc_relation_sm": [
+"For information on other air photos available for Minnesota, see:                    http://www.mngeo.state.mn.us/chouse/airphoto/"
+], 
+"georss_polygon_s": "45.27 -97.2 49.4 -97.2 49.4 -92.28 45.27 -92.28 45.27 -97.2", 
+"solr_year_i": 2013, 
+"dct_spatial_sm": [
+"Minnesota, MN, Aitkin, Becker, Benton, Carlton, Cass, Clearwater, Crow Wing, Douglas, Grant, Hubbard, Kanabec, Kittson, Lake of the Woods, Mahnomen, Marshall, Morrison, Norman, Otter Tail, Pennington, Pine, Polk, Pope, Red Lake, Roseau, Stearns, Stevens, Todd, Traverse, Wadena", 
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Geospatial Information Office (MnGeo)"
+], 
+"layer_id_s": "urn:urn-cb11c75c-9288-4db2-90d7-056b8f261bf6", 
+"georss_box_s": "45.27 -97.2 49.4 -92.28", 
+"dc_title_s": "Digital Orthoimagery, 0.5 Meter: Central and Northwest Minnesota, Spring 2013-2014", 
+"layer_slug_s": "Minnesota-urn-cb11c75c-9288-4db2-90d7-056b8f261bf6"
+}

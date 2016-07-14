@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:49Z", 
+"solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-util-sanitary-sewersheds\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/util_sanitary_sewersheds/shp_util_sanitary_sewersheds.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-e3f072ba-7779-48c2-861f-1751af6b1818", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"utilitiesCommunication", 
+"waste water", 
+"sewerage system", 
+"sewage"
+], 
+"dct_temporal_sm": "2012-", 
+"dc_description_s": "This layer contains the rough boundaries of the sewersheds for the Twin Cities metropolitan area. A sewershed is a defined area that is tributary to a single point along an MCES interceptor pipe (a community connection to an interceptor) or is tributary to a single lift station. Community boundaries are also used to define sewer-shed boundaries. The data are derived from community comprehensive sewer plans. Notes: - The sewersheds are estimated. The actual sewersheds may be different. - Not all records contain county or MCD information.", 
+"dct_issued_s": "2012-06-15", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Metropolitan Council"
+], 
+"dc_identifier_s": "urn-e3f072ba-7779-48c2-861f-1751af6b1818", 
+"georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
+"solr_year_i": 2012, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-e3f072ba-7779-48c2-861f-1751af6b1818", 
+"georss_box_s": "44.471 -94.012 45.415 -92.732", 
+"dc_title_s": "Sewersheds: Twin Cities Metro, Minnesota, 2012", 
+"layer_slug_s": "Minnesota-urn-e3f072ba-7779-48c2-861f-1751af6b1818"
+}

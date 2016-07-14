@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:38Z", 
+"solr_geom": "ENVELOPE(-97.4066, -96.4378, 45.9374, 44.4062)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/elev-lidar-sdmnriver\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-3e2cd31c-b877-4219-8f21-c75b5e83551b", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"elevation"
+], 
+"dct_temporal_sm": "2010", 
+"dc_description_s": "The Minnesota Department of Natural Resources contracted with Sanborn Map Co., Inc. to provide Light Detection and Ranging (LiDAR) mapping services for the South Dakota portion of the Minnesota River Basin. Utilizing multi-return systems, LiDAR data in the form of 3-dimensional positions of a dense set of mass points was collected for approximately 1,946 square miles. The vendor delivered the data to the DNR in several formats: 1) One-meter digital elevation model 2) Edge-of-water breaklines 3) Classified LAS formatted point cloud data DNR staff created three additional products: two-foot contours, building outlines and hillshades. The data are in UTM Zone 14 coordinates. Note: This metadata record was created at the Minnesota Geospatial Information Office by combining information supplied by Sanborn and the DNR.", 
+"dct_issued_s": "2010-06-15", 
+"dc_format_s": "", 
+"dc_creator_sm": [
+"Sanborn Map Co., Inc. and Minnesota Department of Natural Resources"
+], 
+"dc_identifier_s": "urn-3e2cd31c-b877-4219-8f21-c75b5e83551b", 
+"dc_relation_sm": [
+"A project_boundary shapefile is available at:  ftp://ftp.lmic.state.mn.us/pub/data/elevation/lidar/projects/mn_river_basin_south_dakota/For more information about elevation data for Minnesota, see: http://www.mngeo.state.mn.us/chouse/elevation/index.html"
+], 
+"georss_polygon_s": "44.4062 -97.4066 45.9374 -97.4066 45.9374 -96.4378 44.4062 -96.4378 44.4062 -97.4066", 
+"solr_year_i": 2010, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-3e2cd31c-b877-4219-8f21-c75b5e83551b", 
+"georss_box_s": "44.4062 -97.4066 45.9374 -96.4378", 
+"dc_title_s": "LiDAR Elevation: South Dakota Portion of Minnesota River Basin, 2010", 
+"layer_slug_s": "Minnesota-urn-3e2cd31c-b877-4219-8f21-c75b5e83551b"
+}

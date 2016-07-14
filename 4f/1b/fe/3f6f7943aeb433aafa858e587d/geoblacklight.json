@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:57Z", 
+"solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-transit-row-segments\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Transportation/MapServer/13\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_transit_row_segments/shp_trans_transit_row_segments.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-4f1bfe3f-6f79-43ae-b433-aafa858e587d", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"transportation"
+], 
+"dct_temporal_sm": "2016", 
+"dc_description_s": "Transit Advantages allow buses to bypass congestion and provide more reliable travel times for transit users. They help buses stay on schedule and move more people quickly and effectively within congested corridors for minimal investment. The line geometry for transit advantage segments was derived from NCompass Technologies' Street Centerline dataset. The Transit Advantages dataset identifies the location where transit vehicles are permitted to operate and mixed-traffic is prohibited or has limited access to operate. Transit Advantages have been categorized by type which includes: bus lanes, bus ways, commuter rail, HOT lanes, light rail, meter bypasses, online stations and shoulder lanes. Information within this data layer is subject to change and may not be complete. Please refer to street signage and field conditions for the most accurate information.", 
+"dct_issued_s": "2016-02-29", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Metropolitan Council"
+], 
+"dc_identifier_s": "urn-4f1bfe3f-6f79-43ae-b433-aafa858e587d", 
+"dc_relation_sm": [
+"NCompass Technologies Street Centerline, Transit Routes"
+], 
+"georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
+"solr_year_i": 2016, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-4f1bfe3f-6f79-43ae-b433-aafa858e587d", 
+"georss_box_s": "44.471 -94.012 45.415 -92.732", 
+"dc_title_s": "Transit Rights-of-Way Segments (Transit Advantages): Twin Cities Metro, Minnesota, 2016", 
+"layer_slug_s": "Minnesota-urn-4f1bfe3f-6f79-43ae-b433-aafa858e587d"
+}

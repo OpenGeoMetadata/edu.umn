@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Polygon", 
+"layer_modified_dt": "2016-07-12T13:14:08.397255Z", 
+"solr_geom": "ENVELOPE(-93.2284, -92.9826, 45.1245, 44.8869)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/dfd1dad7720b456bb0cb00eabb40056e_12.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/12\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/dfd1dad7720b456bb0cb00eabb40056e_12\"}", 
+"dc_rights_s": "Public", 
+"uuid": "d9264d81-35f4-43ce-bda1-fe0ffdac203c", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"planningCadastre", 
+"PLSS", 
+"Survey", 
+"Quarter Sections"
+], 
+"dct_temporal_sm": "2016", 
+"dc_description_s": "This data set contains polygons that represent sections. In 1985, Ramsey County began a 5 year project to modernize it's land records mapping system to create a computerized Land Information System. As part of the project, the County developed an accurate coordinate control base for this mapping system. The 27 existing State and Federal first order accuracy positions in Ramsey County were densified by a GPS (Global Positioning System) Network of 171 second order accuracy positions. These positions were established and recorded on existing public land survey corner monuments and accessory monuments through out the county.", 
+"dct_issued_s": "2014-12-01T22:57:23.000ZZ", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Map Portal"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "d9264d81-35f4-43ce-bda1-fe0ffdac203c", 
+"georss_polygon_s": "44.8869 -93.2284 45.1245 -93.2284 45.1245 -92.9826 44.8869 -92.9826 44.8869 -93.2284", 
+"solr_year_i": 2014, 
+"dct_spatial_sm": [
+"Ramsey County, Minnesota"
+], 
+"dc_publisher_sm": [
+"OpenRamsey"
+], 
+"layer_id_s": "urn:d9264d81-35f4-43ce-bda1-fe0ffdac203c", 
+"georss_box_s": "44.8869 -93.2284 45.1245 -92.9826", 
+"dc_title_s": "Quarter Sections: Ramsey County, Minnesota", 
+"layer_slug_s": "Minnesota-d9264d81-35f4-43ce-bda1-fe0ffdac203c"
+}

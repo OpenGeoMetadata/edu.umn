@@ -1,0 +1,33 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:21Z", 
+"solr_geom": "ENVELOPE(-97.072169, -91.139865, 48.805032, 43.432979)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/water-drinking-water-supply\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_health/water_drinking_water_supply/shp_water_drinking_water_supply.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-e10ef98b-2210-4c7c-9d7f-9a34b02eabf0", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"health", 
+"drinking water"
+], 
+"dct_temporal_sm": "2014", 
+"dc_description_s": "These sets of data include the drinking water supply management area boundaries and the vulnerability levels within each management area in Minnesota. More information can be found at: http://www.health.state.mn.us/divs/eh/water/swp/maps/index.htm Follow the links below to the access the individual metadata pages for each layer: Drinking Water Supply Management Areas: drinking_water_supply_management_areas.html Drinking Water Supply Management Areas Vulnerability: drinking_water_supply_management_area_vulnerability.html", 
+"dct_issued_s": "2014-09-01", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Health"
+], 
+"dc_identifier_s": "urn-e10ef98b-2210-4c7c-9d7f-9a34b02eabf0", 
+"georss_polygon_s": "43.432979 -97.072169 48.805032 -97.072169 48.805032 -91.139865 43.432979 -91.139865 43.432979 -97.072169", 
+"solr_year_i": 2014, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Health"
+], 
+"layer_id_s": "urn:urn-e10ef98b-2210-4c7c-9d7f-9a34b02eabf0", 
+"georss_box_s": "43.432979 -97.072169 48.805032 -91.139865", 
+"dc_title_s": "Drinking Water Supply Management Areas: Minnesota, 2014", 
+"layer_slug_s": "Minnesota-urn-e10ef98b-2210-4c7c-9d7f-9a34b02eabf0"
+}

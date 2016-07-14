@@ -1,0 +1,39 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:48Z", 
+"solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/water-emergency-response-areas\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_health/water_emergency_response_areas/shp_water_emergency_response_areas.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-e6508323-e3e1-43ca-bfb6-db7587a784ad", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"health", 
+"health", 
+"drinking water", 
+"environment", 
+"drinking water supply"
+], 
+"dct_temporal_sm": "2014", 
+"dc_description_s": "Emergency response area (ERA) is the Minnesota Department of Health (MDH) approved surface and subsurface area surrounding a public water supply well that completely contains the scientifically calculated 1 year time-of-travel and is managed by the entity identified in a wellhead protection plan.", 
+"dct_issued_s": "2014-09-01", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Health - Environmental Health Division - Source Water Protection Unit"
+], 
+"dc_identifier_s": "urn-e6508323-e3e1-43ca-bfb6-db7587a784ad", 
+"dc_relation_sm": [
+"Drinking Water Supply Management Areas, Drinking Water Supply Management Area Vulnerability, Wellhead Protection Areas,"
+], 
+"georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
+"solr_year_i": 2014, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Health"
+], 
+"layer_id_s": "urn:urn-e6508323-e3e1-43ca-bfb6-db7587a784ad", 
+"georss_box_s": "43.5 -97.23 49.37 -89.53", 
+"dc_title_s": "Emergency Response Areas (ERA): Minnesota, 2014", 
+"layer_slug_s": "Minnesota-urn-e6508323-e3e1-43ca-bfb6-db7587a784ad"
+}

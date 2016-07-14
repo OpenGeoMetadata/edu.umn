@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:53Z", 
+"solr_geom": "ENVELOPE(-96.810633, -89.787973, 49.015581, 43.436939)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/biota-dnr-native-prairies\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_dnr_native_prairies/shp_biota_dnr_native_prairies.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-0811b0fb-ec1e-4a50-a0fd-e6581eea45e6", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"biota"
+], 
+"dct_temporal_sm": "2016", 
+"dc_description_s": "Native prairie polygons are a subset of a larger database of DNR Native Plant Communities and are the result of that classification system and protocol. As a subset of the DNR Native Plant Communities dataset, this dataset contains selected native plant community classifications (prairies) that result from the Minnesota Biological Survey (MBS), State Park land cover data, Forestry native plant community data, and Wildlife Management Areas land cover data. It includes polygons representing the highest quality native prairie communities remaining in surveyed areas. These native prairie communities are important areas for conservation. Native plant communities (sometimes also referred to as Nnatural communitiesN) are groups of native plants that interact with each other and their surrounding environment in ways not greatly altered by modern human activity or by introduced plant or animal species. These groups of native species form recognizable units, such as an oak forest, a prairie, or a marsh, that tend to repeat across the landscape and over time. Native plant communities are generally classified and described by considering vegetation, hydrology, land forms, soils, and natural disturbance regimes. The native plant community types and subtypes in this data layer are classified primarily by vegetation and major habitat features. Areas that are not mapped as native plant community polygons primarily represent: 1) land where modern human activities such as farming, overgrazing, wetland drainage, recent logging and residential and commercial development have destroyed or greatly altered the natural vegetation; and 2) native plant community polygons that were below minimal size criteria. Note: some areas that are not mapped are important for conservation. They may include habitat for native plants and animals, corridors for animal movement, buffers surrounding high quality natural areas and open space, and target areas for restoration.", 
+"dct_issued_s": "2014-12-04", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (DNR)"
+], 
+"dc_identifier_s": "urn-0811b0fb-ec1e-4a50-a0fd-e6581eea45e6", 
+"dc_relation_sm": [
+"DNR Native Plant Communities"
+], 
+"georss_polygon_s": "43.436939 -96.810633 49.015581 -96.810633 49.015581 -89.787973 43.436939 -89.787973 43.436939 -96.810633", 
+"solr_year_i": 2014, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-0811b0fb-ec1e-4a50-a0fd-e6581eea45e6", 
+"georss_box_s": "43.436939 -96.810633 49.015581 -89.787973", 
+"dc_title_s": "MNDNR Native Prairies: Minnesota, 2014", 
+"layer_slug_s": "Minnesota-urn-0811b0fb-ec1e-4a50-a0fd-e6581eea45e6"
+}

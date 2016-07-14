@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:36Z", 
+"solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/water-dnr-hydrography\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/water_dnr_hydrography/shp_water_dnr_hydrography.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-1a4f2c1c-788f-4c86-b180-65897efd98c2", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"inlandWaters"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "Statewide hydrographic features derived from the MNDNR Hydrography Dataset. This dataset is managed by the Fisheries Unit of the Minnesota DNR. The Open Water (polygon) feature class is the base layer for many derived layers, including: MNDNR Hydrography - Lakes and Open Water MNDNR Hydrography - Mine Pit Features MNDNR Hydrography - Wetland Features See many more derived layers under Associated Datasets, below The Stream Routes (linear) feature class is the base layer for many derived layers, including: MNDNR Hydrography - Stream Confluences and Flow Direction MNDNR Hydrography - Stream Routes with Stream Types Streams with Kittle Numbers and Mile Measures See many more derived layers under Associated Datasets in the Streams with Kittle Numbers and Mile Measures metadata, above", 
+"dct_issued_s": "2014-07-10", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (MNDNR)"
+], 
+"dc_identifier_s": "urn-1a4f2c1c-788f-4c86-b180-65897efd98c2", 
+"dc_relation_sm": [
+"This is one of the major datasets within the <a href=Ndnr_hydrography_dataset.htmlN> <b>MNDNR Hydrography Dataset</b></a><a href=N../../water_measured_kittle_routes/metadata/metadata.htmlN target=_blank><i>Derived datasets include:</i><a href=N../../env_designated_infested_waters/metadata/metadata.htmlN target=_blank>Designated Infested Waters</a><a href=N../../env_fisheries_experimental_regs/metadata/metadata.htmlN target=_blank>MNDNR Hydrography - MNDNR Fisheries Experimental and Special Regulations</a><a href=N../../../../org/us_mn_state_dnr/biota_dnr_fisheries_lake_survey/metadata/metadata.htmlN target=_blank>MNDNR Hydrography - DNR Fisheries Lake Survey (survey history, species presence, CPUE)</a><a href=N../../water_fisheries_reclamations/metadata/metadata.htmlN target=_blank>MNDNR Hydrography - Fisheries Reclamation Events</a><a href=N../../water_fishing_in_neighborhood/metadata/metadata.htmlN target=_blank>MNDNR Hydrography - Fishing in the Neighborhood (FiN) Ponds</a><a href=Ndnr_hydrography_lakes_and_open_water.htmlN target=_blank>MNDNR Hydrography - Lakes and Open Water</a><a href=N../../env_lakes_surveyed_by_mndnr/metadata/metadata.htmlN target=_blank>MNDNR Hydrography - Lakes Surveyed by MNDNR Fisheries</a><a href=N../../env_ibi_lakes_fisheries/metadata/metadata.htmlN target=_blank>MNDNR Hydrography - Lakes with Fish-based IBI Scores</a><a href=N../../water_large_lakes_in_minnesota/metadata/metadata.htmlN target=_blank>MNDNR Hydrography - Large Lakes in Minnesota</a><a href=Ndnr_hydrography_mine_pits.htmlN target=_blank>MNDNR Hydrography - Mine Pit Features</a><a href=N../../biota_muskie_lakes_in_mn/metadata/metadata.htmlN target=_blank>MNDNR Hydrography - Muskie Lakes</a><a href=N../../env_sentinel_lakes_slice_program/metadata/metadata.htmlN target=_blank>MNDNR Hydrography - DNR Sentinel Lakes (SLICE program)</a><a href=N../../env_stream_trout_lakes/metadata/metadata.htmlN target=_blank>MNDNR Hydrography - Stream Trout Lakes</a><a href=N../../env_trout_lake_designation/metadata/metadata.htmlN target=_blank>MNDNR Hydrography - Trout Lake Designation</a><a href=N../../../../org/us_mn_state_dnr/env_walleye_rearing_ponds/metadata/metadata.htmlN target=_blank>MNDNR Hydrography - Walleye Rearing Ponds</a><a href=Ndnr_hydrography_wetlands.htmlN target=_blank>MNDNR Hydrography - Wetland Features</a>"
+], 
+"georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
+"solr_year_i": 2014, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-1a4f2c1c-788f-4c86-b180-65897efd98c2", 
+"georss_box_s": "43.5 -97.23 49.37 -89.53", 
+"dc_title_s": "MNDNR Hydrography: Minnesota, 2014", 
+"layer_slug_s": "Minnesota-urn-1a4f2c1c-788f-4c86-b180-65897efd98c2"
+}

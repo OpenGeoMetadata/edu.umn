@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:42Z", 
+"solr_geom": "ENVELOPE(-93.23, -92.98, 45.13, 44.88)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-geologic-atlas-rams-c07\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-e30a695c-e00c-4c11-9a8f-2001e1f9409e", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"geoscientificInformation"
+], 
+"dct_temporal_sm": "1992", 
+"dc_description_s": "A County Geologic Atlas is a systematic study of a county's geologic and ground water resources. Geologic studies include both near-surface deposits and bedrock. Ground water studies include flow systems, aquifer capacity, and ground water chemistry. In some areas sand and gravel deposits, sinkholes, or other features are studied. Interpretation of sensitivity to pollution is also part of an atlas. The information is organized, analyzed, and displayed using geographic information technology.", 
+"dct_issued_s": "1992-06-15", 
+"dc_format_s": "GeoTIFF", 
+"dc_creator_sm": [
+"Minnesota Geological Survey (MGS)"
+], 
+"dc_identifier_s": "urn-e30a695c-e00c-4c11-9a8f-2001e1f9409e", 
+"dc_relation_sm": [
+"C-7. Geologic atlas of Ramsey County, Minnesota. G.N. Meyer and L. Swanson, eds. 1992. 10 pls. Scale 1:48,000 and smaller. $12.50. Folded copies only. Some digital files available, no metadata.  Paper map and report available from the MGS Map Sales Office (2609 Territorial Road, St. Paul, Minnesota, 55114, 612-626-2969)Some of the Ramsey County bedrock geology information has been updated,  revised and combined  with data from the other six metro counties to form several seamless metro geology data sets for the Twin Cities Metropolitan Ground Water Model at the Minnesota Pollution Control Agency (1996-2000). Information about data available online and on CD is available at the Metro Model website: http://www.pca.state.mn.us/index.php/water/water-types-and-programs/groundwater/groundwater-data-and-programs/metropolitan-area-groundwater-model.htmlFor a listing of all geologic maps go to the Minnesota Geological Survey website at: http://www.mngs.umn.edu/mgsdocs.htmlFor a complete listing of MGS State Map Series Maps, Reports, and GIS Data, see http://conservancy.umn.edu/handle/11299/708For other County Atlas and Regional Hydrogeologic Assessment data see: http://www.mngs.umn.edu/county_atlas/countyatlas.htm For a listing of the status of the Department of Natural Resources (DNR) Ground Water Mapping Program, go to: http://www.dnr.state.mn.us/waters/groundwater_section/mapping/index.html"
+], 
+"georss_polygon_s": "44.88 -93.23 45.13 -93.23 45.13 -92.98 44.88 -92.98 44.88 -93.23", 
+"solr_year_i": 1992, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Ramsey County, Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Geological Survey"
+], 
+"layer_id_s": "urn:urn-e30a695c-e00c-4c11-9a8f-2001e1f9409e", 
+"georss_box_s": "44.88 -93.23 45.13 -92.98", 
+"dc_title_s": "Geologic Atlas of Ramsey County, Minnesota, 1992", 
+"layer_slug_s": "Minnesota-urn-e30a695c-e00c-4c11-9a8f-2001e1f9409e"
+}

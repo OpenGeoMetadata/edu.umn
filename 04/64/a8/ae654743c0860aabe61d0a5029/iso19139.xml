@@ -1,0 +1,847 @@
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd">
+      <gmd:fileIdentifier>
+        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">0464a8ae-6547-43c0-860a-abe61d0a5029</gco:CharacterString>
+      </gmd:fileIdentifier>
+      <gmd:language>
+        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">eng</gco:CharacterString>
+      </gmd:language>
+      <gmd:characterSet>
+        <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="004"/>
+      </gmd:characterSet>
+      <gmd:hierarchyLevel>
+        <gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="005"/>
+      </gmd:hierarchyLevel>
+      <gmd:contact>
+        <gmd:CI_ResponsibleParty>
+          <gmd:individualName>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Jay Krafthefer</gco:CharacterString>
+          </gmd:individualName>
+          <gmd:organisationName>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN Department of Transportation, Office of Land Management</gco:CharacterString>
+          </gmd:organisationName>
+          <gmd:positionName>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">LIS and R/W Mapping Supervisor</gco:CharacterString>
+          </gmd:positionName>
+          <gmd:contactInfo>
+            <gmd:CI_Contact>
+              <gmd:phone>
+                <gmd:CI_Telephone>
+                  <gmd:voice>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-366-3463</gco:CharacterString>
+                  </gmd:voice>
+                  <gmd:facsimile>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-366-3450</gco:CharacterString>
+                  </gmd:facsimile>
+                </gmd:CI_Telephone>
+              </gmd:phone>
+              <gmd:address>
+                <gmd:CI_Address>
+                  <gmd:deliveryPoint>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">395 John Ireland Blvd., M.S. 643</gco:CharacterString>
+                  </gmd:deliveryPoint>
+                  <gmd:city>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
+                  </gmd:city>
+                  <gmd:administrativeArea>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
+                  </gmd:administrativeArea>
+                  <gmd:postalCode>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55155</gco:CharacterString>
+                  </gmd:postalCode>
+                  <gmd:electronicMailAddress>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">jay.krafthefer@state.mn.us</gco:CharacterString>
+                  </gmd:electronicMailAddress>
+                </gmd:CI_Address>
+              </gmd:address>
+            </gmd:CI_Contact>
+          </gmd:contactInfo>
+          <gmd:role>
+            <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="007"/>
+          </gmd:role>
+        </gmd:CI_ResponsibleParty>
+      </gmd:contact>
+      <gmd:dateStamp>
+        <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-06-29T09:59:32</gco:DateTime>
+      </gmd:dateStamp>
+      <gmd:metadataStandardName>
+        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
+      </gmd:metadataStandardName>
+      <gmd:metadataStandardVersion>
+        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2:2009(E)</gco:CharacterString>
+      </gmd:metadataStandardVersion>
+      <gmd:referenceSystemInfo>
+        <gmd:MD_ReferenceSystem>
+          <gmd:referenceSystemIdentifier>
+            <gmd:RS_Identifier>
+              <gmd:code xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+              <gmd:codeSpace>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Coordinates from the section level and quarter-quarter
+                                                level Public Land Survey were used to georeference.
+                                                The control section numbers and parcel section
+                                                numbers were also accessed.</gco:CharacterString>
+              </gmd:codeSpace>
+            </gmd:RS_Identifier>
+          </gmd:referenceSystemIdentifier>
+        </gmd:MD_ReferenceSystem>
+      </gmd:referenceSystemInfo>
+      <gmd:referenceSystemInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ngdc.noaa.gov/docucomp/65f8b220-95ed-11e0-aa80-0800200c9a66" xlink:title="North American Datum 1983"/>
+      <gmd:referenceSystemInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ngdc.noaa.gov/docucomp/c3895520-95ed-11e0-aa80-0800200c9a66" xlink:title="Geodetic Reference System 1980"/>
+      <gmd:identificationInfo>
+        <gmd:MD_DataIdentification>
+          <gmd:citation>
+            <gmd:CI_Citation>
+              <gmd:title>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Right of Way Map Footprints: Minnesota</gco:CharacterString>
+              </gmd:title>
+              <gmd:date>
+                <gmd:CI_Date>
+                  <gmd:date>
+                    <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2015-04-06T05:00:00.000Z</gco:Date>
+                  </gmd:date>
+                  <gmd:dateType>
+                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                  </gmd:dateType>
+                </gmd:CI_Date>
+              </gmd:date>
+              <gmd:identifier>
+                <gmd:MD_Identifier>
+                  <gmd:code>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Right of Way Map - Vector (CAD) and Raster File
+                                                Footprints</gco:CharacterString>
+                  </gmd:code>
+                </gmd:MD_Identifier>
+              </gmd:identifier>
+              <gmd:identifier>
+                <gmd:MD_Identifier>
+                  <gmd:code>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">urn-0464a8ae-6547-43c0-860a-abe61d0a5029</gco:CharacterString>
+                  </gmd:code>
+                </gmd:MD_Identifier>
+              </gmd:identifier>
+              <gmd:citedResponsibleParty>
+                <gmd:CI_ResponsibleParty>
+                  <gmd:organisationName>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Department of Transportation, Office of Land Management</gco:CharacterString>
+                  </gmd:organisationName>
+                  <gmd:role>
+                    <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="006"/>
+                  </gmd:role>
+                </gmd:CI_ResponsibleParty>
+              </gmd:citedResponsibleParty>
+              <gmd:citedResponsibleParty>
+                <gmd:CI_ResponsibleParty>
+                  <gmd:organisationName>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Department of Transportation</gco:CharacterString>
+                  </gmd:organisationName>
+                  <gmd:role>
+                    <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="010"/>
+                  </gmd:role>
+                </gmd:CI_ResponsibleParty>
+              </gmd:citedResponsibleParty>
+            </gmd:CI_Citation>
+          </gmd:citation>
+          <gmd:abstract>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">The Right of Way Map Footprint is a GIS data set created to represent the outer footprint or extent of a right of way map (including footprints for both Vector (CAD) and Raster Images). The purpose is to aid the user in more rapidly identifying the desired map for a specific area of interest relative to other maps, roads, landmarks, etc. This data set is developed and maintained on a statewide basis. It does not include geo-referenced representations of right of way maps themselves.</gco:CharacterString>
+          </gmd:abstract>
+          <gmd:purpose>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">The data set was created to enhance the accessibility to right of way maps by enabling the use of spatial indexing tools. A footprint of a map is created to represent the extent of the map and provides usefulness as a general aid to find a right of way map.</gco:CharacterString>
+          </gmd:purpose>
+          <gmd:status>
+            <gmd:MD_ProgressCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ProgressCode" codeListValue="underDevelopment" codeSpace="007"/>
+          </gmd:status>
+          <gmd:pointOfContact>
+            <gmd:CI_ResponsibleParty>
+              <gmd:individualName>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Jay Krafthefer</gco:CharacterString>
+              </gmd:individualName>
+              <gmd:organisationName>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN Department of Transportation, Office of Land Management</gco:CharacterString>
+              </gmd:organisationName>
+              <gmd:positionName>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">LIS and R/W Mapping Supervisor</gco:CharacterString>
+              </gmd:positionName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:phone>
+                    <gmd:CI_Telephone>
+                      <gmd:voice>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-366-3463</gco:CharacterString>
+                      </gmd:voice>
+                      <gmd:facsimile>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-366-3450</gco:CharacterString>
+                      </gmd:facsimile>
+                    </gmd:CI_Telephone>
+                  </gmd:phone>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:deliveryPoint>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">395 John Ireland Blvd., M.S. 643</gco:CharacterString>
+                      </gmd:deliveryPoint>
+                      <gmd:city>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
+                      </gmd:city>
+                      <gmd:administrativeArea>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
+                      </gmd:administrativeArea>
+                      <gmd:postalCode>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55155</gco:CharacterString>
+                      </gmd:postalCode>
+                      <gmd:electronicMailAddress>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">jay.krafthefer@state.mn.us</gco:CharacterString>
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+              <gmd:role>
+                <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="007"/>
+              </gmd:role>
+            </gmd:CI_ResponsibleParty>
+          </gmd:pointOfContact>
+          <gmd:resourceMaintenance>
+            <gmd:MD_MaintenanceInformation>
+              <gmd:maintenanceAndUpdateFrequency>
+                <gmd:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="continual" codeSpace="001"/>
+              </gmd:maintenanceAndUpdateFrequency>
+            </gmd:MD_MaintenanceInformation>
+          </gmd:resourceMaintenance>
+          <gmd:graphicOverview>
+            <gmd:MD_BrowseGraphic>
+              <gmd:fileName>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">None available</gco:CharacterString>
+              </gmd:fileName>
+            </gmd:MD_BrowseGraphic>
+          </gmd:graphicOverview>
+          <gmd:descriptiveKeywords>
+            <gmd:MD_Keywords>
+              <gmd:keyword>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:type>
+                <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="place"/>
+              </gmd:type>
+              <gmd:thesaurusName>
+                <gmd:CI_Citation>
+                  <gmd:title>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GeoNames</gco:CharacterString>
+                  </gmd:title>
+                  <gmd:date>
+                    <gmd:CI_Date>
+                      <gmd:date>
+                        <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2012-10-29</gco:Date>
+                      </gmd:date>
+                      <gmd:dateType>
+                        <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                      </gmd:dateType>
+                    </gmd:CI_Date>
+                  </gmd:date>
+                  <gmd:identifier>
+                    <gmd:MD_Identifier>
+                      <gmd:code>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">http://www.geonames.org/ontology/ontology_v3.1.rdf</gco:CharacterString>
+                      </gmd:code>
+                    </gmd:MD_Identifier>
+                  </gmd:identifier>
+                </gmd:CI_Citation>
+              </gmd:thesaurusName>
+            </gmd:MD_Keywords>
+          </gmd:descriptiveKeywords>
+          <gmd:resourceConstraints>
+            <gmd:MD_LegalConstraints>
+              <gmd:accessConstraints>
+                <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="008"/>
+              </gmd:accessConstraints>
+              <gmd:useConstraints>
+                <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="008"/>
+              </gmd:useConstraints>
+              <gmd:otherConstraints>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Access Constraints: USE OF THIS DOCUMENT IS SUBJECT TO MNDOT'S DISCLAIMERS, LEGAL NOTICES AND POLICIES FOUND at http://www.dot.state.mn.us/information/disclaimer.html Use Constraints: USE OF THIS DOCUMENT IS SUBJECT TO MNDOT'S DISCLAIMERS, LEGAL NOTICES AND POLICIES FOUND at http://www.dot.state.mn.us/information/disclaimer.html Distribution Liability: USE OF THIS DOCUMENT IS SUBJECT TO MNDOT'S DISCLAIMERS, LEGAL NOTICES AND POLICIES FOUND at http://www.dot.state.mn.us/information/disclaimer.html</gco:CharacterString>
+              </gmd:otherConstraints>
+            </gmd:MD_LegalConstraints>
+          </gmd:resourceConstraints>
+          <gmd:aggregationInfo>
+            <gmd:MD_AggregateInformation>
+              <gmd:aggregateDataSetName>
+                <gmd:CI_Citation>
+                  <gmd:title>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Right of Way Map in their original vector
+                                                  (CAD) maps and raster image file formats Right of
+                                                  Way Plats Commissioner's Orders Control Point
+                                                  Generated Public Land Survey</gco:CharacterString>
+                  </gmd:title>
+                  <gmd:date>
+                    <gmd:CI_Date>
+                      <gmd:dateType>
+                        <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                      </gmd:dateType>
+                    </gmd:CI_Date>
+                  </gmd:date>
+                </gmd:CI_Citation>
+              </gmd:aggregateDataSetName>
+              <gmd:associationType>
+                <gmd:DS_AssociationTypeCode codeListValue="crossReference" codeSpace="001" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#DS_AssociationTypeCode"/>
+              </gmd:associationType>
+            </gmd:MD_AggregateInformation>
+          </gmd:aggregationInfo>
+          <gmd:spatialRepresentationType>
+            <gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="001"/>
+          </gmd:spatialRepresentationType>
+          <gmd:language>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">eng</gco:CharacterString>
+          </gmd:language>
+          <gmd:topicCategory>
+            <gmd:MD_TopicCategoryCode>transportation</gmd:MD_TopicCategoryCode>
+          </gmd:topicCategory>
+          <gmd:environmentDescription>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Native Dataset Environment: ARC/INFO 8, ArcMap 8.2, ArcMap 9.x, ArcView 3.2, Corel PHOTO-PAINT 8, TIF files</gco:CharacterString>
+          </gmd:environmentDescription>
+          <gmd:extent>
+            <gmd:EX_Extent id="boundingExtent">
+              <gmd:geographicElement>
+                <gmd:EX_GeographicBoundingBox id="boundingGeographicBoundingBox">
+                  <gmd:westBoundLongitude>
+                    <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">-97.5</gco:Decimal>
+                  </gmd:westBoundLongitude>
+                  <gmd:eastBoundLongitude>
+                    <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">-89</gco:Decimal>
+                  </gmd:eastBoundLongitude>
+                  <gmd:southBoundLatitude>
+                    <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">43</gco:Decimal>
+                  </gmd:southBoundLatitude>
+                  <gmd:northBoundLatitude>
+                    <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">49.5</gco:Decimal>
+                  </gmd:northBoundLatitude>
+                </gmd:EX_GeographicBoundingBox>
+              </gmd:geographicElement>
+            </gmd:EX_Extent>
+          </gmd:extent>
+          <gmd:supplementalInformation>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Statewide</gco:CharacterString>
+          </gmd:supplementalInformation>
+        </gmd:MD_DataIdentification>
+      </gmd:identificationInfo>
+      <gmd:contentInfo>
+        <gmd:MD_FeatureCatalogueDescription>
+          <gmd:includedWithDataset>
+            <gco:Boolean xmlns:gco="http://www.isotc211.org/2005/gco">true</gco:Boolean>
+          </gmd:includedWithDataset>
+          <gmd:featureTypes>
+            <gco:LocalName xmlns:gco="http://www.isotc211.org/2005/gco" codeSpace="Statewide_RW_FPCurrent"/>
+          </gmd:featureTypes>
+        </gmd:MD_FeatureCatalogueDescription>
+      </gmd:contentInfo>
+      <gmd:distributionInfo>
+        <gmd:MD_Distribution>
+          <gmd:distributionFormat>
+            <gmd:MD_Format>
+              <gmd:name>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ESRI Shapefile</gco:CharacterString>
+              </gmd:name>
+              <gmd:version>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">N/A</gco:CharacterString>
+              </gmd:version>
+            </gmd:MD_Format>
+          </gmd:distributionFormat>
+          <gmd:distributor>
+            <gmd:MD_Distributor>
+              <gmd:distributorContact>
+                <gmd:CI_ResponsibleParty>
+                  <gmd:individualName>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Jay Krafthefer</gco:CharacterString>
+                  </gmd:individualName>
+                  <gmd:organisationName>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN Department of Transportation, Office of Land Management</gco:CharacterString>
+                  </gmd:organisationName>
+                  <gmd:positionName>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">LIS and R/W Mapping Supervisor</gco:CharacterString>
+                  </gmd:positionName>
+                  <gmd:contactInfo>
+                    <gmd:CI_Contact>
+                      <gmd:phone>
+                        <gmd:CI_Telephone>
+                          <gmd:voice>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-366-3463</gco:CharacterString>
+                          </gmd:voice>
+                          <gmd:facsimile>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-366-3450</gco:CharacterString>
+                          </gmd:facsimile>
+                        </gmd:CI_Telephone>
+                      </gmd:phone>
+                      <gmd:address>
+                        <gmd:CI_Address>
+                          <gmd:deliveryPoint>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">395 John Ireland Blvd., M.S. 643</gco:CharacterString>
+                          </gmd:deliveryPoint>
+                          <gmd:city>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
+                          </gmd:city>
+                          <gmd:administrativeArea>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
+                          </gmd:administrativeArea>
+                          <gmd:postalCode>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55155</gco:CharacterString>
+                          </gmd:postalCode>
+                          <gmd:electronicMailAddress>
+                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">jay.krafthefer@state.mn.us</gco:CharacterString>
+                          </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                      </gmd:address>
+                    </gmd:CI_Contact>
+                  </gmd:contactInfo>
+                  <gmd:role>
+                    <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="distributor" codeSpace="005"/>
+                  </gmd:role>
+                </gmd:CI_ResponsibleParty>
+              </gmd:distributorContact>
+              <gmd:distributionOrderProcess>
+                <gmd:MD_StandardOrderProcess>
+                  <gmd:orderingInstructions>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Ordering Instructions: Download the footprints shapefile via the Minnesota Geospatial Commons (click "I AGREE" in the Online Linkage field below). The footprints shapefile transfer size is 14.7 MB. All maps, this includes vector (CAD) files and raster image files, can be downloaded directly from RIGHT OF WAY MAPPING AND MONITORING or ELECTRONIC DOCUMENT ACCESS. See this CHART for a comparison between these delivery sites. For other information or assistance complete the on-line request FORM by including your contact information and telephone number or send the same information to lisrwmap.dot@state.mn.us RIGHT OF WAY MAPPING and MONITORING - http://www.dot.state.mn.us/maps/gisweb/row/ ELECTRONIC DOCUMENT ACCESS - Currently available only when using Internet Explorer. http://dotapp7.dot.state.mn.us/cyberdocs_guest/Libraries/Default_Library/Groups/GUESTS/frameset.asp CHART - http://gisservices.dot.state.mn.us/mndot-rwmm/Right%20of%20Way%20Mapping.docx FORM - http://olmwebservices.dot.state.mn.us/maprequest/requestmain.aspx</gco:CharacterString>
+                  </gmd:orderingInstructions>
+                </gmd:MD_StandardOrderProcess>
+              </gmd:distributionOrderProcess>
+            </gmd:MD_Distributor>
+          </gmd:distributor>
+          <gmd:transferOptions>
+            <gmd:MD_DigitalTransferOptions>
+              <gmd:transferSize>
+                <gco:Real xmlns:gco="http://www.isotc211.org/2005/gco">15</gco:Real>
+              </gmd:transferSize>
+              <gmd:onLine>
+                <gmd:CI_OnlineResource>
+                  <gmd:linkage>
+                    <gmd:URL>https://gisdata.mn.gov/dataset/trans-row-map-footprints</gmd:URL>
+                  </gmd:linkage>
+                  <gmd:protocol>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:LINK</gco:CharacterString>
+                  </gmd:protocol>
+                </gmd:CI_OnlineResource>
+              </gmd:onLine>
+              <gmd:onLine>
+                <gmd:CI_OnlineResource>
+                  <gmd:linkage>
+                    <gmd:URL>ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dot/trans_row_map_footprints/shp_trans_row_map_footprints.zip</gmd:URL>
+                  </gmd:linkage>
+                  <gmd:protocol>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:DOWNLOAD-1.0-ftp--download</gco:CharacterString>
+                  </gmd:protocol>
+                </gmd:CI_OnlineResource>
+              </gmd:onLine>
+            </gmd:MD_DigitalTransferOptions>
+          </gmd:transferOptions>
+        </gmd:MD_Distribution>
+      </gmd:distributionInfo>
+      <gmd:dataQualityInfo>
+        <gmd:DQ_DataQuality>
+          <gmd:scope xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+          <gmd:report>
+            <gmd:DQ_AbsoluteExternalPositionalAccuracy>
+              <gmd:nameOfMeasure>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Horizontal Positional Accuracy</gco:CharacterString>
+              </gmd:nameOfMeasure>
+              <gmd:evaluationMethodDescription>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">The spatial placement of the footprint is based entirely on the geographic scale and coordinate reference system of the content of the map. In cases where the scale and coordinate system are limited or unknown, hand placement of the border representation is used based on the location of roads and landmarks in the MnDOT Base Map.</gco:CharacterString>
+              </gmd:evaluationMethodDescription>
+              <gmd:result>
+                <gmd:DQ_QuantitativeResult>
+                  <gmd:valueUnit>
+                    <gml:BaseUnit xmlns:gml="http://www.opengis.net/gml" gml:id="meters">
+                      <gml:identifier codeSpace="meters"/>
+                      <gml:unitsSystem xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.bipm.org/en/si/"/>
+                    </gml:BaseUnit>
+                  </gmd:valueUnit>
+                </gmd:DQ_QuantitativeResult>
+              </gmd:result>
+            </gmd:DQ_AbsoluteExternalPositionalAccuracy>
+          </gmd:report>
+          <gmd:report>
+            <gmd:DQ_AbsoluteExternalPositionalAccuracy>
+              <gmd:nameOfMeasure>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Vertical Positional Accuracy</gco:CharacterString>
+              </gmd:nameOfMeasure>
+              <gmd:evaluationMethodDescription>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Not applicable</gco:CharacterString>
+              </gmd:evaluationMethodDescription>
+              <gmd:result>
+                <gmd:DQ_QuantitativeResult>
+                  <gmd:valueUnit>
+                    <gml:BaseUnit xmlns:gml="http://www.opengis.net/gml" gml:id="meters">
+                      <gml:identifier codeSpace="meters"/>
+                      <gml:unitsSystem xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.bipm.org/en/si/"/>
+                    </gml:BaseUnit>
+                  </gmd:valueUnit>
+                </gmd:DQ_QuantitativeResult>
+              </gmd:result>
+            </gmd:DQ_AbsoluteExternalPositionalAccuracy>
+          </gmd:report>
+          <gmd:report>
+            <gmd:DQ_CompletenessCommission>
+              <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+            </gmd:DQ_CompletenessCommission>
+          </gmd:report>
+          <gmd:report>
+            <gmd:DQ_CompletenessOmission>
+              <gmd:evaluationMethodDescription>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">As each new map is completed the map file is stored in MnDOT's Electronic Document Management System (EDMS). If the map already exists a new version of the existing EDMS document is created. In both cases, subsequent processing steps require the creation of a new foot-print and its geo-referencing to enable publication in MnDOT's Right of Way Mapping and Monitoring website. This process includes the use of a checklist and steps to verify publication. See also CURRENTNESS REFERENCE.</gco:CharacterString>
+              </gmd:evaluationMethodDescription>
+              <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+            </gmd:DQ_CompletenessOmission>
+          </gmd:report>
+          <gmd:report>
+            <gmd:DQ_ConceptualConsistency>
+              <gmd:measureDescription>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Footprint representations are based on a closed "shape" created in Bentley MicroStation to ensure 100% polygon closure following Extract/Transform/Load (ETL) processing. Footprint labeling is directly passed from the attribute table entries. The map border which outlines a print of the map was used to define the footprint shape. Older vector (CAD) files, those created solely for use as a printed roll map and containing match lines due to road alignments which extend beyond the printed border causing match-lines, were footprinted strictly using the border of the actual print. In this case, the spatial location of the footprint may not be true for its entire extent. Current standardization practices call for reconstructing the map into its true form throughout and replacing the prior footprint with a more precise representation.</gco:CharacterString>
+              </gmd:measureDescription>
+              <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+            </gmd:DQ_ConceptualConsistency>
+          </gmd:report>
+          <gmd:report>
+            <gmd:DQ_NonQuantitativeAttributeAccuracy>
+              <gmd:measureDescription>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Attributes programmatically generated
+                                                  include: OBJECTID, FILENAME, SHAPE.AREA, SHAPE,
+                                                  and SHAPE_FILE. Those manually entered include:
+                                                  ROLL_NUMBER, SHEET_NUMBER, and MAP_NUMBER. The
+                                                  following attributes are created by cut and paste
+                                                  from the corresponding record in MnDOT's
+                                                  Electronic Document Management System (EDMS):
+                                                  COUNTYFIPS, TERMINI, COUNTY_NAME, COUNTY_NUM,
+                                                  DISTRICT, DISTRICT_NAME, CONTROL_SECT, NOTES,
+                                                  SITE, TH_CURRENT, LEG_ROUTE_NUM, SP_NUMBER, and
+                                                  DASH_900. Many of the EDMS values are selected
+                                                  from a given domain. The TH_HISTORIC attribute is
+                                                  captured from MnDOT's Electronic Document Access
+                                                  site.</gco:CharacterString>
+              </gmd:measureDescription>
+              <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="inapplicable"/>
+            </gmd:DQ_NonQuantitativeAttributeAccuracy>
+          </gmd:report>
+          <gmd:lineage>
+            <gmd:LI_Lineage>
+              <gmd:processStep>
+                <gmd:LI_ProcessStep>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">LINEAGE FOR VECTOR (CAD) FOOTPRINTS An
+                                                  extract translate and load (ETL) process is used
+                                                  when a new vector (CAD) map is created. A new
+                                                  (blank) Bentley MicroStation vector (CAD) file is
+                                                  used to start the process. The newly completed
+                                                  right of way map is brought into the blank file as
+                                                  an attached reference. If the orientation of the
+                                                  new right of way map is something other than north
+                                                  pointing to the top it is rotated appropriately. A
+                                                  MicroStation "shape" created on the default level
+                                                  is drawn around the right of way map border. The
+                                                  referenced right of way map is then detached and
+                                                  the new file containing only a border
+                                                  representation is saved. The new file is then
+                                                  processed using the ETL_Footprint_Tool.mxd in
+                                                  ArcMap. With the ETL tool opened the network
+                                                  location of the new file is located and the
+                                                  correct projection and county are designated. The
+                                                  ETL program is run. The new file containing the
+                                                  map footprint appears in the view window of
+                                                  ArcMap. The ETL tool is closed and a new ArcMap
+                                                  window opened in order to fill in the attribute
+                                                  table. With the new ArcMap window open the MnDOT
+                                                  dataset MNDOT_COMMON_LAYER is imported to verify
+                                                  if the new file containing the footprint is in the
+                                                  correct spatial location. Next the Statewide_RW_FP
+                                                  data set is brought into the ArcMap session. This
+                                                  is the data set containing all map footprints of
+                                                  both vector (CAD) and raster images. If the
+                                                  appearance is acceptable the master attribute
+                                                  table for this data set is edited with the new
+                                                  right of way map's information. A suite of
+                                                  programs maintained by MnDOT's Enterprise GIS
+                                                  Group runs nightly to process the vector (CAD)
+                                                  footprints (and raster image footprints) and
+                                                  update the databases contributing to MnDOT's Right
+                                                  of Way Mapping and Monitoring (RWMM) website. The
+                                                  overnight process is dependent upon a copy of the
+                                                  new right of way map file to be stored in a
+                                                  library organized by county on MnDOT's file
+                                                  network. In a near parallel process the
+                                                  Linen_Update_9.3 footprint tool is manually run to
+                                                  ready the new footprint for transfer to RWMM.
+                                                  Originally map footprints were created in ArcGIS
+                                                  8.2. Current processes rely on ArcGIS 10. LINEAGE
+                                                  FOR RASTER IMAGE FOOTPRINTS Raster formatted maps
+                                                  footprinted during the earliest days of this
+                                                  dataset were processed in batch. Subsequent
+                                                  updates and additions have been handled using a
+                                                  more case-by-case approach. Likewise a majority of
+                                                  the earliest map footprints were based on images
+                                                  that were the result of photographic to scanning
+                                                  process made of the original Right of Way map
+                                                  linen and mylar collection. See Right of Way Map -
+                                                  Raster Image File (Geo-Referenced) metadata for
+                                                  more detail. The initial georeferencing process
+                                                  was handled on a county-by-county basis. It was
+                                                  done using individual map rolls (less than 3 feet
+                                                  to 86 feet long) each consisting of between two
+                                                  and twenty-six sheets per roll. These rolls were
+                                                  converted from multi-page TIF files to one file
+                                                  per sheet. The images were georeferenced one at a
+                                                  time. There were two main pre-georeferencing
+                                                  processes, followed by the georeferencing itself.
+                                                  Pre-Georeferencing The pre-georeferencing starts
+                                                  by the identification of a target county and its
+                                                  surrounding counties. This was followed by the
+                                                  creation of two shapefiles, xx_cent and xx_corn,
+                                                  which were used to provide quick access to X and Y
+                                                  coordinate information for both the centers and
+                                                  corners. These files were created by two separate
+                                                  applications in ArcView 3.2 that did the spatial
+                                                  processing and stored it in the attribute table.
+                                                  This was done in a separate application due to
+                                                  query time and debugging issues. Building PLS
+                                                  section, quarter corner, and centers of section
+                                                  was the next step in the process. To build centers
+                                                  of section, the quarter-quarter coverage from the
+                                                  'Control Point Generated PLS' and the section
+                                                  polygons from the 'Section Level Public Land
+                                                  Survey' were used as acquired from the Minnesota
+                                                  DNR Data Deli website. These layers were unzipped
+                                                  using Pkzip. The Bld_cent.apr was used to
+                                                  calculate center of section nodes based on the
+                                                  quarter-quarter breakdowns by selecting the
+                                                  centroid of the polygon, and then looking for the
+                                                  breakdown that occurred closest. Once the center
+                                                  of section was established, the section, township,
+                                                  and range were calculated to that point. The
+                                                  application yielded a point shapefile that
+                                                  contained all the center of sections based on the
+                                                  Control Point Generated PLS. To build corners, the
+                                                  corner building application, Bld_corn.apr, used
+                                                  both the section polygons and section arcs
+                                                  datasets from the 'Section Level Public Land
+                                                  Survey' at the Minnesota DNR Data Deli website.
+                                                  From the section arcs, a point theme was generated
+                                                  (nodes) where two section lines intersected. This
+                                                  process created the corners. Using section
+                                                  polygons, each individual polygon was selected and
+                                                  spatially queried against the point theme so all
+                                                  the corners that intersected with that section
+                                                  were selected. The section name, (e.g. T29, R22,
+                                                  Sec 22) was then calculated to those selected
+                                                  corners in the database. The application repeated
+                                                  this process until all the sections in the county
+                                                  were processed. The end result was a point
+                                                  shapefile containing the concatenated strings of
+                                                  all the sections that intersected each corner.
+                                                  When the GeoImage Translator was run, it was able
+                                                  to select from those text strings the particular
+                                                  corner the user was querying. A one-mile buffer
+                                                  around the target county was created so all the
+                                                  corners and centers near the county border could
+                                                  be built. This, in turn, allowed for better
+                                                  georeferencing in those areas. The buffered
+                                                  features of the surrounding counties were appended
+                                                  to the target county. The final step in the
+                                                  pre-georeferencing process was to convert
+                                                  multi-page TIF files to one TIF file per sheet.
+                                                  Late in 2007 commenced the transition of maps from
+                                                  Standard Sheet Size (SSS) to Match line To Match
+                                                  line (MTM). See logical consistency for more
+                                                  detail regarding SSS to MTM. Georeferencing In
+                                                  general, the georeferencing process consisted of
+                                                  taking raster TIF files and aligning them with the
+                                                  road centerline of the MnDOT Base Map. The
+                                                  GeoImage Translator was developed to expedite this
+                                                  process. Three different methods were used to
+                                                  align the two layers as closely as possible. The
+                                                  preferred method consisted of the user identifying
+                                                  (clicking) two points on the raster, either a
+                                                  corner or center of section, and entering in the
+                                                  values. The application then queried the support
+                                                  files to locate the corner or center and then
+                                                  retrieved their X and Y values. A corner was
+                                                  defined by entering three out of four sections
+                                                  that intersect it, and a center was defined by
+                                                  entering the section, township, and range. Using
+                                                  the two X and Y coordinates defined on the raster
+                                                  (user clicks), and the two x, y pairs retrieved
+                                                  from the database, the application computed the
+                                                  factors needed to scale, move, and rotate the
+                                                  image. For example, if the distance of the raster
+                                                  x, y pairs was 10 feet and the distance of the x,
+                                                  y pairs from the database was 1,000 feet, the
+                                                  application knew to enlarge the image 100 times.
+                                                  Once the image was scaled, the application moved
+                                                  the image from the first raster x, y (the first
+                                                  user click), to its corresponding x, y point that
+                                                  was retrieved from the database. It set this point
+                                                  as an axis, computed the rotational angle based on
+                                                  the difference between the second x, y raster
+                                                  point and the second x, y point from the database
+                                                  and rotated the image. The end result was a
+                                                  georeferenced image based on a two-point
+                                                  translation that scaled both the x and y
+                                                  proportionately. Because over half of the Right of
+                                                  Way map sheets didn't contain at least two corners
+                                                  or centers, a second method was used to
+                                                  georeference. For those images that had at least
+                                                  one corner or center, calculating a
+                                                  quarter-quarter breakdown could derive the second
+                                                  coordinate pair. The user would define one center
+                                                  or corner, and identify a quarter-quarter
+                                                  breakdown north, south, east, or west from that
+                                                  point. The application would then compute the
+                                                  breakdown at 402 or 804 meter, depending if the
+                                                  user selected one or two quarters for the
+                                                  calculation. The coordinate was calculated
+                                                  straight along the x or y axis depending on the
+                                                  direction specified. If no center or corner points
+                                                  existed on the raster images, the third method was
+                                                  used. This procedure consisted of placing the
+                                                  image using the manual placement tools that were
+                                                  created for images with insufficient Public Land
+                                                  Survey information. The manual placement tools
+                                                  consisted of the following: - User Defined
+                                                  Translator - Performed translation based on two
+                                                  pairs of user-defined x, y coordinates. The
+                                                  destination x, y pairs are provided by the user
+                                                  instead of being retrieved from the database. -
+                                                  Move Raster Tool - Moved raster by user-defined
+                                                  placement (clicking and dragging). - Rotate Raster
+                                                  Tool - Rotated raster around defined axis (single
+                                                  click) and by user-defined distance (clicking and
+                                                  dragging). - Move to Layer - Moved
+                                                  un-georeferenced target image to extent of
+                                                  user-defined layer. - Scale Manually - Scaled
+                                                  raster by a pre-defined scale. There were a number
+                                                  of map sheets that needed to be split due to match
+                                                  lines on the sheet. These map sheets had two
+                                                  distinct images making them unable to be
+                                                  georeferenced using the above methods. In order to
+                                                  prepare these images for georeferencing, a process
+                                                  using Corel PHOTO-PAINT 8 was developed. The steps
+                                                  in this application included selecting 'To Fit' in
+                                                  the scale dropdown and entering one number smaller
+                                                  than the given value. Selecting the Deskew Crop
+                                                  Tool and dragging a border around the area to be
+                                                  kept was the next step. Right clicking inside the
+                                                  boxed area and double clicking to complete the
+                                                  polygon were the next steps. Right clicking inside
+                                                  the dotted line and selecting clear were next.
+                                                  Then, navigating to the File Drop Down Menu,
+                                                  clicking Export, entering a new name, and saving
+                                                  to the working directory followed. The final step
+                                                  in the application was to close the image and
+                                                  answer no when prompted to save. After reopening
+                                                  the original map sheet, the above process was
+                                                  repeated for the second image on the sheet. At
+                                                  this point, the two separate map sheets were ready
+                                                  for georeferencing. After these map sheets were
+                                                  georeferenced, sheets on either side that were
+                                                  unable to be georeferenced because of the images
+                                                  that needed to be split, could also be
+                                                  georeferenced in most cases. Because the road
+                                                  centerlines were the most accurate on the raster
+                                                  images, the primary focus was to match the road
+                                                  centerlines on the two images as closely as
+                                                  possible. The Public Land Survey section lines
+                                                  were used as a secondary reference. Creating
+                                                  Footprints Images were loaded into the Footprint
+                                                  tool one county at a time. The tool found the
+                                                  extent of the image and drew a box around it,
+                                                  creating the footprint. The FILE_NAME and
+                                                  CNTYFD_NU fields were automatically populated
+                                                  during this process. The other fields (ROLL_NUM,
+                                                  SHEET_NUM, SPLIT_SHT, CNTYFD_STR and GEOR_PATH)
+                                                  were populated using data derived from these
+                                                  fields. All county footprint shapefiles were then
+                                                  appended to each other to create a statewide
+                                                  footprint shapefile.</gco:CharacterString>
+                  </gmd:description>
+                </gmd:LI_ProcessStep>
+              </gmd:processStep>
+              <gmd:source>
+                <gmd:LI_Source>
+                  <gmd:description>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Source Contribution:</gco:CharacterString>
+                  </gmd:description>
+                  <gmd:scaleDenominator>
+                    <gmd:MD_RepresentativeFraction>
+                      <gmd:denominator>
+                        <gco:Integer xmlns:gco="http://www.isotc211.org/2005/gco">2400</gco:Integer>
+                      </gmd:denominator>
+                    </gmd:MD_RepresentativeFraction>
+                  </gmd:scaleDenominator>
+                  <gmd:sourceCitation>
+                    <gmd:CI_Citation>
+                      <gmd:date>
+                        <gmd:CI_Date>
+                          <gmd:dateType>
+                            <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                          </gmd:dateType>
+                        </gmd:CI_Date>
+                      </gmd:date>
+                    </gmd:CI_Citation>
+                  </gmd:sourceCitation>
+                </gmd:LI_Source>
+              </gmd:source>
+            </gmd:LI_Lineage>
+          </gmd:lineage>
+        </gmd:DQ_DataQuality>
+      </gmd:dataQualityInfo>
+      <gmd:metadataMaintenance>
+        <gmd:MD_MaintenanceInformation>
+          <gmd:maintenanceAndUpdateFrequency xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+          <gmd:maintenanceNote>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">This metadata was automatically generated from the Minnesota Geographic Metadata Guidelinesstandard version 1.2 using the January 2013 version of the FGDC CSDGM to ISO 19115-2 transform.</gco:CharacterString>
+          </gmd:maintenanceNote>
+          <gmd:contact>
+            <gmd:CI_ResponsibleParty>
+              <gmd:individualName>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Jay Krafthefer</gco:CharacterString>
+              </gmd:individualName>
+              <gmd:organisationName>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN Department of Transportation, Office of Land Management</gco:CharacterString>
+              </gmd:organisationName>
+              <gmd:positionName>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">LIS and R/W Mapping Supervisor</gco:CharacterString>
+              </gmd:positionName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:phone>
+                    <gmd:CI_Telephone>
+                      <gmd:voice>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-366-3463</gco:CharacterString>
+                      </gmd:voice>
+                      <gmd:facsimile>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-366-3450</gco:CharacterString>
+                      </gmd:facsimile>
+                    </gmd:CI_Telephone>
+                  </gmd:phone>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:deliveryPoint>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">395 John Ireland Blvd., M.S. 643</gco:CharacterString>
+                      </gmd:deliveryPoint>
+                      <gmd:city>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
+                      </gmd:city>
+                      <gmd:administrativeArea>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
+                      </gmd:administrativeArea>
+                      <gmd:postalCode>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55155</gco:CharacterString>
+                      </gmd:postalCode>
+                      <gmd:electronicMailAddress>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">jay.krafthefer@state.mn.us</gco:CharacterString>
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+              <gmd:role>
+                <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="custodian" codeSpace="002"/>
+              </gmd:role>
+            </gmd:CI_ResponsibleParty>
+          </gmd:contact>
+        </gmd:MD_MaintenanceInformation>
+      </gmd:metadataMaintenance>
+    </gmd:MD_Metadata>
+    

@@ -1,0 +1,33 @@
+{
+"layer_geom_type_s": "Point", 
+"layer_modified_dt": "2016-06-29T10:00:12Z", 
+"solr_geom": "ENVELOPE(-93.329703, -92.729647, 44.923335, 44.469579)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-co-dakota-struc-physicalfeatures\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/struc_physicalfeatures/shp_struc_physicalfeatures.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-cefef019-3787-481c-be8c-7200ca02870b", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"structure"
+], 
+"dct_temporal_sm": "2016", 
+"dc_description_s": "Lines and Points representing physical features; buildings, road edges, decks, patios, electric boxes, utility poles, trees, etc. identified from low and medium level aerial photography for mapping and application uses. Physical Feature LinesPhysical Feature Points", 
+"dct_issued_s": "2016-01-01", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Dakota County GIS, Dakota County GIS, Staff"
+], 
+"dc_identifier_s": "urn-cefef019-3787-481c-be8c-7200ca02870b", 
+"georss_polygon_s": "44.469579 -93.329703 44.923335 -93.329703 44.923335 -92.729647 44.469579 -92.729647 44.469579 -93.329703", 
+"solr_year_i": 2016, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Dakota County, Minnesota"
+], 
+"dc_publisher_sm": [
+"Dakota County, Minnesota"
+], 
+"layer_id_s": "urn:urn-cefef019-3787-481c-be8c-7200ca02870b", 
+"georss_box_s": "44.469579 -93.329703 44.923335 -92.729647", 
+"dc_title_s": "Physical Features, Lines and Points: Dakota County, Minnesota, 2016", 
+"layer_slug_s": "Minnesota-urn-cefef019-3787-481c-be8c-7200ca02870b"
+}

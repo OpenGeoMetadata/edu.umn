@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:10Z", 
+"solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-historical-aerial-points\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-b4f2c24c-18cb-4e31-9a70-0ab0b64ddf22", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"imageryBaseMapsEarthCover"
+], 
+"dct_temporal_sm": "1920-2000", 
+"dc_description_s": "The points in this dataset represent the approximate geographic location of the centroids for scanned, non-georeferenced air photos that were captured between 1923 and 2007 and are freely available via the John R. Borchert Map Library and the Minnesota Department of Natural Resources. The images were captured by a variety of government entities to address a wide range of applications. Images were scanned at resolutions ranging from 150 to 1200DPI. The collection includea a mixture of black & white, true color and infrared photographs. Various image collects were taken at a range of flight heights depending on the year and purpose of the collect.", 
+"dct_issued_s": "2015-09-03", 
+"dc_format_s": "", 
+"dc_creator_sm": [
+"John R. Borchert Map Library, University of Minnesota and Minnesota Department of Natural Resources (MNDNR)"
+], 
+"dc_identifier_s": "urn-b4f2c24c-18cb-4e31-9a70-0ab0b64ddf22", 
+"dc_relation_sm": [
+"MNDNR also has an online web-app that allows you to interactively click on these centroids and download the photographs. The URL for that web page is:  http://www.dnr.state.mn.us/maps/landview/index.html"
+], 
+"georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
+"solr_year_i": 1920, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"University of Minnesota"
+], 
+"layer_id_s": "urn:urn-b4f2c24c-18cb-4e31-9a70-0ab0b64ddf22", 
+"georss_box_s": "43.5 -97.23 49.37 -89.53", 
+"dc_title_s": "Minnesota Historical Aerial Photographs Online (MHAPO), 1920-2000", 
+"layer_slug_s": "Minnesota-urn-b4f2c24c-18cb-4e31-9a70-0ab0b64ddf22"
+}

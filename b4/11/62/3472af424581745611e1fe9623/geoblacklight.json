@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:50Z", 
+"solr_geom": "ENVELOPE(-95.14, -92.135, 45.734, 44.47)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metrogis-trans-ncompass-roads-landmarks\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-b4116234-72af-4245-8174-5611e1fe9623", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"transportation", 
+"transportation"
+], 
+"dc_format_s": "Shapefile", 
+"dc_description_s": "This is a street centerline and address range dataset for the Twin Cities Metropolitan Area and beyond (See Place Keywords for list of counties covered by this dataset) as well as three Wisconsin counties (Pierce, Polk, and St. Croix). As of the December 1st, 2006 release, the annotation feature class has been dropped for the roads data. Additional related datasets provided with the street centerline data include landmark information such as schools, shopping centers, hospitals, cemeteries, lakes, streams, railroads and various other areas and points of interest. Metadata for the related datasets is provided separately. The centerline dataset is in Arc/Info, double precision format and was developed for use in a variety of GIS applications. Some typical applications that utilize the dataset are automated routing and address matching applications. The delivered output format of the file can be utilized by a variety of software systems. This dataset was not developed from a TIGER base, rather, it is a composite from numerous resources. A unique identification number is maintained by NCompass Technologies to allow data files to be related which refer to a unique road segment for use with road maintenance link node modeling and other applications. Changes to this unique identifier is recorded in the NCompass Edits Table which is included within this resource. The unique identification number may be attached to end user data files and distributed without violating the license. An agreement has been entered into by the Metropolitan Council and NCompass (formerly The Lawrence Group-TLG) that provides access to the NCompass Street Centerline and Landmarks data, at no fee, to all State and Local Government agencies and Colleges and Universities in the State of Minnesota. The Metropolitan Council has funded the licensing of these data for use by these organizations to promote standardization and sharing of geographic information. Notes: - Other counties are currently under development throughout Minnesota and portions of western Wisconsin. - A landmarks dataset is also included as part of the this resource. Please review the metadata for addtional information", 
+"dct_issued_s": "2016-05-01T05:00:00.000Z", 
+"dc_creator_sm": [
+"NCompass Technologies (formerly The Lawrence Group)"
+], 
+"dc_identifier_s": "urn-b4116234-72af-4245-8174-5611e1fe9623", 
+"dc_relation_sm": [
+"1)<a href=NNCompassLandmarks.htmlN target=_blank> NCompass Landmarks</a>2)<a href=NNCompassEdits.htmlN target=_blank> NCompass Street Centerline Edits Table</a>"
+], 
+"georss_polygon_s": "44.47 -95.14 45.734 -95.14 45.734 -92.135 44.47 -92.135 44.47 -95.14", 
+"solr_year_i": 2016, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"NCompass Technologies"
+], 
+"layer_id_s": "urn:urn-b4116234-72af-4245-8174-5611e1fe9623", 
+"georss_box_s": "44.47 -95.14 45.734 -92.135", 
+"dc_title_s": "NCompass Technologies Street Centerline and Address Ranges, Licensed Dataset: Minnesota, 2016", 
+"layer_slug_s": "Minnesota-urn-b4116234-72af-4245-8174-5611e1fe9623"
+}

@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:51Z", 
+"solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metrogis-loc-address-points\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Facilities_Buildings_Structures/MapServer/0\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metrogis/loc_address_points/shp_loc_address_points.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-b62c1b16-7917-42f7-9733-922ca6a4082e", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"location"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "This dataset is a compilation of address point data from metro area address authorities, which are predominantly cities. The dataset is intended to contain a point location and the official address (as defined by the address authority) for all occupiable units and any other official addresses within the jurisdictional boundary of each address authority. A number of other attributes are available in the dataset, but may not be populated by some address authorities. Metro area counties are playing a coordinative role to work with cities to create, maintain and aggregate address points. Currently this dataset contains points for Carver, Dakota and Ramsey counties. It will grow over time as more counties contribute data.", 
+"dct_issued_s": "2015-01-15T06:00:00.000Z", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Contains data originating from cities and counties in the Twin Cities metropolitan area."
+], 
+"dc_identifier_s": "urn-b62c1b16-7917-42f7-9733-922ca6a4082e", 
+"dc_relation_sm": [
+"MetroGIS Regional Parcel Dataset"
+], 
+"georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-b62c1b16-7917-42f7-9733-922ca6a4082e", 
+"georss_box_s": "44.471 -94.012 45.415 -92.732", 
+"dc_title_s": "MetroGIS Address Points Dataset: Twin Cities Metro, Minnesota, 2015", 
+"layer_slug_s": "Minnesota-urn-b62c1b16-7917-42f7-9733-922ca6a4082e"
+}

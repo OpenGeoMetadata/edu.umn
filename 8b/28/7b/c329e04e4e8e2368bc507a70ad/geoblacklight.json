@@ -1,0 +1,32 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T10:00:01Z", 
+"solr_geom": "ENVELOPE(-92.395886, -89.913908, 48.19366, 47.091749)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-mn-moose-harvest\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_mn_moose_harvest/shp_env_mn_moose_harvest.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-8b287bc3-29e0-4e4e-8e23-68bc507a70ad", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"environment"
+], 
+"dct_temporal_sm": "2009", 
+"dc_description_s": "Number of moose taken per permit area.", 
+"dct_issued_s": "2009-01-01T06:00:00.000Z", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (DNR)"
+], 
+"dc_identifier_s": "urn-8b287bc3-29e0-4e4e-8e23-68bc507a70ad", 
+"georss_polygon_s": "47.091749 -92.395886 48.19366 -92.395886 48.19366 -89.913908 47.091749 -89.913908 47.091749 -92.395886", 
+"solr_year_i": 2009, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-8b287bc3-29e0-4e4e-8e23-68bc507a70ad", 
+"georss_box_s": "47.091749 -92.395886 48.19366 -89.913908", 
+"dc_title_s": "Moose Harvest: Minnesota, 2009", 
+"layer_slug_s": "Minnesota-urn-8b287bc3-29e0-4e4e-8e23-68bc507a70ad"
+}

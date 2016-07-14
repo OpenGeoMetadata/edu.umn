@@ -1,0 +1,32 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:57Z", 
+"solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-seed-source-control-zones\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_seed_source_control_zones/shp_bdry_seed_source_control_zones.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-1cc27faa-6cd1-41ca-bc5d-5a75b49b22eb", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"boundaries"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "Seed source control is the operational process of returning reproductive materials - seeds, seedlings, cuttings, or transplants - to an environment that closely resembles the ones they originated from. Seed source control prevents losses by avoiding the use of non-adapted materials in artificial regeneration. Seed source control establishes collection and deployment zones based on climate homogeneity. Based on climatic data, six seed zones were determined appropriate and adequate for Minnesota. An area of special concern is the north shore area of Lake Superior. This area lies roughly from Two Harbors to the Canadian border and, from the shoreline to the ridge that defines the north shore. Several studies have shown this region to consistently produce trees with slower growth. Unless there is some compelling local need, seed should not be collected from this area.", 
+"dct_issued_s": "2015-10-30", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (DNR)"
+], 
+"dc_identifier_s": "urn-1cc27faa-6cd1-41ca-bc5d-5a75b49b22eb", 
+"georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-1cc27faa-6cd1-41ca-bc5d-5a75b49b22eb", 
+"georss_box_s": "43.5 -97.23 49.37 -89.53", 
+"dc_title_s": "Seed Source Control Seed Zones: Minnesota, 2015", 
+"layer_slug_s": "Minnesota-urn-1cc27faa-6cd1-41ca-bc5d-5a75b49b22eb"
+}

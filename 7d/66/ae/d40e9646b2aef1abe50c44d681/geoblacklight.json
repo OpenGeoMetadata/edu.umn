@@ -1,0 +1,38 @@
+{
+"layer_geom_type_s": "Point", 
+"layer_modified_dt": "2016-06-28T11:10:14.701554Z", 
+"solr_geom": "ENVELOPE(-93.9103038464346, -93.2010009706949, 44.8739589366022, 44.4671140644539)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.gis.co.scott.mn.us/datasets/0427405434f8421b94742e07e07d4236_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/Family_Child_Care/FeatureServer/0\",\"http://schema.org/url\":\"http://opendata.gis.co.scott.mn.us/datasets/0427405434f8421b94742e07e07d4236_0\"}", 
+"dc_rights_s": "Public", 
+"uuid": "7d66aed4-0e96-46b2-aef1-abe50c44d681", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"transportation", 
+"health", 
+"Scott County Minnesota", 
+"Safe", 
+"Livable", 
+"People"
+], 
+"dct_temporal_sm": "2016", 
+"dc_description_s": "Licensed family child care providers within Scott County.", 
+"dct_issued_s": "2015-11-16T22:23:16.000ZZ", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Scott County Minnesota"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "7d66aed4-0e96-46b2-aef1-abe50c44d681", 
+"georss_polygon_s": "44.4671140644539 -93.9103038464346 44.8739589366022 -93.9103038464346 44.8739589366022 -93.2010009706949 44.4671140644539 -93.2010009706949 44.4671140644539 -93.9103038464346", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Scott County, Minnesota"
+], 
+"dc_publisher_sm": [
+"Scott County Minnesota"
+], 
+"layer_id_s": "urn:7d66aed4-0e96-46b2-aef1-abe50c44d681", 
+"georss_box_s": "44.4671140644539 -93.9103038464346 44.8739589366022 -93.2010009706949", 
+"dc_title_s": "Family Child Care", 
+"layer_slug_s": "Minnesota-7d66aed4-0e96-46b2-aef1-abe50c44d681"
+}

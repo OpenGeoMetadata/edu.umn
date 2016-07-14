@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Polygon", 
+"layer_modified_dt": "2016-06-28T11:07:00.776348Z", 
+"solr_geom": "ENVELOPE(-93.6319, -93.5105, 44.8925, 44.7955)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/872210523ba04a86bd2896622b7b7865_5.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.carver.mn.us/arcgis_ea/rest/services/OpenAccess/CC_OpenDataStandards/MapServer/5\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/872210523ba04a86bd2896622b7b7865_5\"}", 
+"dc_rights_s": "Public", 
+"uuid": "164eea81-a02f-42e1-95ef-37ed4a8ff87b", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"planningCadastre", 
+"Chanhassen", 
+"Zoning"
+], 
+"dct_temporal_sm": "2016", 
+"dc_description_s": "The zoning layer is maintained by the city of Chanhassen.", 
+"dct_issued_s": "2016-01-29T14:19:55.000ZZ", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Carver County, Minnesota"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "164eea81-a02f-42e1-95ef-37ed4a8ff87b", 
+"georss_polygon_s": "44.7955 -93.6319 44.8925 -93.6319 44.8925 -93.5105 44.7955 -93.5105 44.7955 -93.6319", 
+"solr_year_i": 2016, 
+"dct_spatial_sm": [
+"Carver County, Minnesota"
+], 
+"dc_publisher_sm": [
+"Carver County, Minnesota"
+], 
+"layer_id_s": "urn:164eea81-a02f-42e1-95ef-37ed4a8ff87b", 
+"georss_box_s": "44.7955 -93.6319 44.8925 -93.5105", 
+"dc_title_s": "Chanhassen | Zoning", 
+"layer_slug_s": "Minnesota-164eea81-a02f-42e1-95ef-37ed4a8ff87b"
+}

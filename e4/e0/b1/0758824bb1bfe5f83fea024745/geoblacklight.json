@@ -1,0 +1,37 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:46Z", 
+"solr_geom": "ENVELOPE(-96.718276, -89.998884, 48.556443, 43.460469)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/water-lake-basin-morphology\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/water_lake_basin_morphology/shp_water_lake_basin_morphology.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-e4e0b107-5882-4bb1-bfe5-f83fea024745", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"inlandWaters", 
+"morphology", 
+"hydrography"
+], 
+"dct_temporal_sm": "2014", 
+"dc_description_s": "Lake Basin Morphology Lake polygons with an attribute table of morphometric indices which describe the physical form and structure (morphology) of a lake. Lake Basin Fetch and Maximum Length/Width Linear features representing the Fetch, Maximum Length and Maximum Width of a lake basin. Fetch, maximum length and average width are calcuated from the lake polygon outline. Fetch is defined as the longest unbroken stretch of open water on a lake. It may also be referred to as the Nwind-effective lengthN. Maximum Length is the longest shoreline-to-shoreline distance regardless of whether or not the line is broken by a shoreline feature or island. Maximum width is the widest section of a lake perpendicular to the axis of maximum length. These parameters were derived from individual lake bathmetry outlines where each vertex of the outline was compared to every other vertex. For calculating fetch, islands were included; for maximum length and maximum width, islands were not included.", 
+"dct_issued_s": "2014-11-20T06:00:00.000Z", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (DNR)"
+], 
+"dc_identifier_s": "urn-e4e0b107-5882-4bb1-bfe5-f83fea024745", 
+"dc_relation_sm": [
+""
+], 
+"georss_polygon_s": "43.460469 -96.718276 48.556443 -96.718276 48.556443 -89.998884 43.460469 -89.998884 43.460469 -96.718276", 
+"solr_year_i": 2014, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-e4e0b107-5882-4bb1-bfe5-f83fea024745", 
+"georss_box_s": "43.460469 -96.718276 48.556443 -89.998884", 
+"dc_title_s": "Lake Basin Morphology: Minnesota, 2014", 
+"layer_slug_s": "Minnesota-urn-e4e0b107-5882-4bb1-bfe5-f83fea024745"
+}

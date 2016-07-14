@@ -1,0 +1,42 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T10:00:27Z", 
+"solr_geom": "ENVELOPE(-95.312416, -93.000201, 48.687949, 45.709332)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/elev-lidar-centrallakes2012\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-42809130-c435-4117-a98a-1977a251f1b2", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"elevation"
+], 
+"dct_temporal_sm": "2012", 
+"dc_description_s": "The project vendor, Woolpert, Inc., acquired highly accurate Light Detection and Ranging (LiDAR) elevation data for the Central Lakes area of Minnesota in Spring 2012. The data cover Aitkin, Cass, Hubbard, Itasca, Todd and Wadena counties, along with a portion of Koochiching County. LiDAR data are in the UTM Zone 15 coordinate system, NAD83 96, NAVD88 Geoid09, meters. The tiling scheme is 16th USGS 1:24,000 quadrangle tiles. The vendor delivered the data to the Minnesota Department of Natural Resources (DNR) in several formats: 1) One-meter digital elevation model 2) Edge-of-water breaklines 3) Classified LAS formatted point cloud data DNR then quality checked the data and created two additional products: two-foot contours and building outlines. This metadata record was created at the Minnesota Geospatial Information Office using information supplied by Woolpert and DNR.", 
+"dct_issued_s": "2012-06-15", 
+"dc_format_s": "", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources and Woolpert, Inc."
+], 
+"dc_identifier_s": "urn-42809130-c435-4117-a98a-1977a251f1b2", 
+"dc_relation_sm": [
+"For more information about elevation data for Minnesota, see: http://www.mngeo.state.mn.us/chouse/elevation/index.html"
+], 
+"georss_polygon_s": "45.709332 -95.312416 48.687949 -95.312416 48.687949 -93.000201 45.709332 -93.000201 45.709332 -95.312416", 
+"solr_year_i": 2012, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Koochiching County, Minnesota", 
+"Wadena County, Minnesota", 
+"Todd County, Minnesota", 
+"Itasca County, Minnesota", 
+"Hubbard County, Minnesota", 
+"Cass County, Minnesota", 
+"Aitkin County, Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-42809130-c435-4117-a98a-1977a251f1b2", 
+"georss_box_s": "45.709332 -95.312416 48.687949 -93.000201", 
+"dc_title_s": "LiDAR Elevation: Central Lakes Region, Minnesota, 2012", 
+"layer_slug_s": "Minnesota-urn-42809130-c435-4117-a98a-1977a251f1b2"
+}

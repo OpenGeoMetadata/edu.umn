@@ -1,0 +1,32 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:40Z", 
+"solr_geom": "ENVELOPE(-95.933975, -91.730085, 47.801869, 43.667463)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/struc-fish-hatcheries\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/struc_fish_hatcheries/shp_struc_fish_hatcheries.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-825c9259-4bdb-4af5-a266-1a56b5c66369", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"structure"
+], 
+"dct_temporal_sm": "2009", 
+"dc_description_s": "Point locations of DNR Fish Hatcheries.", 
+"dct_issued_s": "2015-04-08T05:00:00.000Z", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (DNR)"
+], 
+"dc_identifier_s": "urn-825c9259-4bdb-4af5-a266-1a56b5c66369", 
+"georss_polygon_s": "43.667463 -95.933975 47.801869 -95.933975 47.801869 -91.730085 43.667463 -91.730085 43.667463 -95.933975", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-825c9259-4bdb-4af5-a266-1a56b5c66369", 
+"georss_box_s": "43.667463 -95.933975 47.801869 -91.730085", 
+"dc_title_s": "DNR Fisheries Fish Hatcheries: Minnesota, 2009", 
+"layer_slug_s": "Minnesota-urn-825c9259-4bdb-4af5-a266-1a56b5c66369"
+}

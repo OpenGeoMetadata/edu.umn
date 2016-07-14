@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:46Z", 
+"solr_geom": "ENVELOPE(-96.833072, -89.397127, 49.348368, 43.435392)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-dnr-wildlife-admin\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_dnr_wildlife_admin/shp_bdry_dnr_wildlife_admin.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-b90e7087-3c16-47e6-ba4d-cbdd21948a78", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"boundaries", 
+"boundaries"
+], 
+"dct_temporal_sm": "2016", 
+"dc_description_s": "This file was created to show the boundaries of the Wildlife Administrative Areas in the State.", 
+"dct_issued_s": "2016-05-05T05:00:00.000Z", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (DNR)"
+], 
+"dc_identifier_s": "urn-b90e7087-3c16-47e6-ba4d-cbdd21948a78", 
+"dc_relation_sm": [
+""
+], 
+"georss_polygon_s": "43.435392 -96.833072 49.348368 -96.833072 49.348368 -89.397127 43.435392 -89.397127 43.435392 -96.833072", 
+"solr_year_i": 2016, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-b90e7087-3c16-47e6-ba4d-cbdd21948a78", 
+"georss_box_s": "43.435392 -96.833072 49.348368 -89.397127", 
+"dc_title_s": "DNR Division of Wildlife Administrative Areas: Minnesota, 2016", 
+"layer_slug_s": "Minnesota-urn-b90e7087-3c16-47e6-ba4d-cbdd21948a78"
+}

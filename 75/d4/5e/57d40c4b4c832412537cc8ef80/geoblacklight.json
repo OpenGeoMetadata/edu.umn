@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T10:00:13Z", 
+"solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/util-eusa\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mngeo/util_eusa/shp_util_eusa.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-75d45e57-d40c-4b4c-8324-12537cc8ef80", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"utilitiesCommunication"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "This dataset shows electric utility service area boundaries for the State of Minnesota. The original source data were lines hand-drawn on county highway maps. The maps were scanned and georeferenced to serve as a background for on-screen digitizing. The utilities were then given an opportunity to review and correct the service areas. Changes filed with the Public Utilities Commission (eDockets) were also reviewed to update the areas. This version of the dataset reflects boundary changes through 12/01/15, as well as changes resulting from the transfer of Alliant Energy's service territories to 12 southern Minnesota cooperatives in early 2016.", 
+"dct_issued_s": "2016-03", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Geospatial Information Office (MnGeo)"
+], 
+"dc_identifier_s": "urn-75d45e57-d40c-4b4c-8324-12537cc8ef80", 
+"dc_relation_sm": [
+"Electrical Utility Service Area Boundaries (lines) - tracks corrections.Electrical Utility Service Area Dockets (areas) - service area changes filed with PUC (not complete).Electrical Utility Service Area Exceptions (points and areas) - service area exceptions as provided by utilities. Exceptions are areas where a utility is serving customers in another utility's service area.For other public utility and telecommunications infrastructure geospatial data for Minnesota, see MnGeo's first-stop information page:  http://www.mngeo.state.mn.us/chouse/utilities_telecommunication.html"
+], 
+"georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
+"solr_year_i": 2016, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Geospatial Information Office (MnGeo)"
+], 
+"layer_id_s": "urn:urn-75d45e57-d40c-4b4c-8324-12537cc8ef80", 
+"georss_box_s": "43.5 -97.23 49.37 -89.53", 
+"dc_title_s": "Electric Utility Service Areas: Minnesota, December 2015", 
+"layer_slug_s": "Minnesota-urn-75d45e57-d40c-4b4c-8324-12537cc8ef80"
+}

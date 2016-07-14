@@ -1,0 +1,33 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:26Z", 
+"solr_geom": "ENVELOPE(-94.219, -92.105, 45.401, 43.996)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-env-mces-stream-river-mont-sites\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Environmental_Monitoring_Modeling/MapServer/0\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/env_mces_stream_river_mont_sites/shp_env_mces_stream_river_mont_sites.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-779e2805-0dde-43c6-8b77-b51602a6b83a", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"environment"
+], 
+"dct_temporal_sm": "curr", 
+"dc_description_s": "This layer contains point locations for each of the Metropolitan Council's stream and river monitoring sites. Many of the sites are inactive but historic data is still available on the Council's Environmental Information Management System (EIMS). River sites are monitored to measure MCES wastewater treatment facility compliance with NPDES requirements and state water quality standards, as well as to document trends and changes in water quality. Stream sites are monitored to assess non-point source pollution impacts on the Metropolitan Area and measure progress towards achieving polluant reductions and improving water quality.", 
+"dct_issued_s": "2013-05-20", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Metropolitan Council"
+], 
+"dc_identifier_s": "urn-779e2805-0dde-43c6-8b77-b51602a6b83a", 
+"georss_polygon_s": "43.996 -94.219 45.401 -94.219 45.401 -92.105 43.996 -92.105 43.996 -94.219", 
+"solr_year_i": 2013, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-779e2805-0dde-43c6-8b77-b51602a6b83a", 
+"georss_box_s": "43.996 -94.219 45.401 -92.105", 
+"dc_title_s": "MCES Stream and River Monitoring Sites: Twin Cities Metro, Minnesota, 2013", 
+"layer_slug_s": "Minnesota-urn-779e2805-0dde-43c6-8b77-b51602a6b83a"
+}

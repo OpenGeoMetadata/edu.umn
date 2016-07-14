@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:55Z", 
+"solr_geom": "ENVELOPE(-96.774088, -89.847596, 49.238689, 43.43753)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-dnr-wildlife-mgmt-areas-pub\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_dnr_wildlife_mgmt_areas_pub/shp_bdry_dnr_wildlife_mgmt_areas_pub.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-792e111c-fc96-4c2f-a4cf-8d768be26312", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"boundaries"
+], 
+"dct_temporal_sm": "2016", 
+"dc_description_s": "This polygon theme contains boundaries for approximately 1392 Wildlife Management Areas (WMAs) across the state of Minnesota covering nearly 1,288,000 acres. WMAs are part of the Minnesota state recreation system created to protect wildlife habitat and provide wildlife-based recreation.", 
+"dct_issued_s": "2013-09-15", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (MNDNR)"
+], 
+"dc_identifier_s": "urn-792e111c-fc96-4c2f-a4cf-8d768be26312", 
+"dc_relation_sm": [
+""
+], 
+"georss_polygon_s": "43.43753 -96.774088 49.238689 -96.774088 49.238689 -89.847596 43.43753 -89.847596 43.43753 -96.774088", 
+"solr_year_i": 2013, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-792e111c-fc96-4c2f-a4cf-8d768be26312", 
+"georss_box_s": "43.43753 -96.774088 49.238689 -89.847596", 
+"dc_title_s": "Publicly Accessible State Wildlife Management Areas: Minnesota, 2013", 
+"layer_slug_s": "Minnesota-urn-792e111c-fc96-4c2f-a4cf-8d768be26312"
+}

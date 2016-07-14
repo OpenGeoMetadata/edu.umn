@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:24Z", 
+"solr_geom": "ENVELOPE(-96.311, -91.532, 46.919, 43.62)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-water-mces-indus-dischrg-permits\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Environmental_Monitoring_Modeling/MapServer/2\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/water_mces_indus_dischrg_permits/shp_water_mces_indus_dischrg_permits.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-2a78f3f9-37bf-4b3b-b78c-d1f66e7a4f37", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"inlandWaters"
+], 
+"dct_temporal_sm": "2002", 
+"dc_description_s": "This layer contains data for the companies that have been issued an Industrial Discharge Permit by the Industrial Waste & Pollution Prevention Section of the Metropolitan Council Environmental Services Division. MCES is delegated as the Control Authority to regulate the use of the public sanitary sewer system within the MCES seven county service area. Companies are issued an Industrial Discharge Permit if they are determined to have a significant impact on the public sewer system. These data also include permitted facilities outside of the seven county service area that hold a permit with MCES. These permits are for wastewater hauled into the service area. More information about the industrial waste program of the Metropolitan Council's Environmental Services Division can be found at http://www.metrocouncil.org/Wastewater-Water/Services/Industrial-Waste.aspx.", 
+"dct_issued_s": "2002-03-23", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Metropolitan Council"
+], 
+"dc_identifier_s": "urn-2a78f3f9-37bf-4b3b-b78c-d1f66e7a4f37", 
+"dc_relation_sm": [
+"Temporary and Planning Meters, Liquid Waste Receiving Disposal Sites, Sewer Interceptor System (Limited Attributes)"
+], 
+"georss_polygon_s": "43.62 -96.311 46.919 -96.311 46.919 -91.532 43.62 -91.532 43.62 -96.311", 
+"solr_year_i": 2002, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-2a78f3f9-37bf-4b3b-b78c-d1f66e7a4f37", 
+"georss_box_s": "43.62 -96.311 46.919 -91.532", 
+"dc_title_s": "MCES Industrial Discharge Permits: Twin Cities Metro, Minnesota, 2002", 
+"layer_slug_s": "Minnesota-urn-2a78f3f9-37bf-4b3b-b78c-d1f66e7a4f37"
+}

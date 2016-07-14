@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:45Z", 
+"solr_geom": "ENVELOPE(-93.07, -92.28, 46.77, 46.41)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-geologic-atlas-carl-c19a\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-0c1bdb02-4c32-4a8b-86b3-b2eb9c7d6cb3", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"geoscientificInformation"
+], 
+"dct_temporal_sm": "2009", 
+"dc_description_s": "A County Geologic Atlas is a systematic study of a county's geologic and ground water resources. Geologic studies include both near-surface deposits and bedrock. Ground water studies include flow systems, aquifer capacity, and ground water chemistry. In some areas sand and gravel deposits, sinkholes, or other features are studied. Interpretation of sensitivity to pollution is also part of an atlas. The information is organized, analyzed, and displayed using geographic information technology. Most Geologic Atlas and Regional Hydrogeologic Assessment projects are done in two parts. The Minnesota Geological Survey covers basic geology and creates databases of information such as wells and soil borings in part A. The Minnesota Department of Natural Resources (DNR) handles hydrogeology and ground water sensitivity layers in Part B. Completion of a project's two parts is staggered: Part A is completed about two years before Part B, compiling information used to create part B. Parts A and B are published and distributed as two separate products.", 
+"dct_issued_s": "2009-06-15", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Geological Survey (MGS)"
+], 
+"dc_identifier_s": "urn-0c1bdb02-4c32-4a8b-86b3-b2eb9c7d6cb3", 
+"dc_relation_sm": [
+"C-19, Part A. Geologic Atlas of Carlton County, Minnesota. Terrence J. Boerboom, Project Manager. December 2009. Color. 6 plates. Scales 1:100,000 and 1:200,000. Paper map and report and DVD available from MGS Map Sales Office (2609 Territorial Road, St. Paul, Minnesota, 55114, 612-626-2969.)For a listing of all geologic maps go to the Minnesota Geological Survey website at: http://www.mngs.umn.edu/mgsdocs.htmlFor a complete listing of MGS State Map Series Maps, Reports, and GIS Data, see http://conservancy.umn.edu/handle/11299/708 For other County Atlas and Regional Hydrogeologic Assessment data see: http://www.mngs.umn.edu/county_atlas/countyatlas.htm For a listing of the status of the DNR Ground Water Mapping Program, go to: http://www.dnr.state.mn.us/waters/groundwater_section/mapping/index.html"
+], 
+"georss_polygon_s": "46.41 -93.07 46.77 -93.07 46.77 -92.28 46.41 -92.28 46.41 -93.07", 
+"solr_year_i": 2009, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Carlton County, Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Geological Survey"
+], 
+"layer_id_s": "urn:urn-0c1bdb02-4c32-4a8b-86b3-b2eb9c7d6cb3", 
+"georss_box_s": "46.41 -93.07 46.77 -92.28", 
+"dc_title_s": "Geologic Atlas of Carlton County, Minnesota (Part A), 2009", 
+"layer_slug_s": "Minnesota-urn-0c1bdb02-4c32-4a8b-86b3-b2eb9c7d6cb3"
+}

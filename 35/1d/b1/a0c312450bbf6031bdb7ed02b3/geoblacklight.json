@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:44Z", 
+"solr_geom": "ENVELOPE(-96.833072, -89.397028, 49.348365, 43.435392)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-dnr-waters-admin\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_dnr_waters_admin/shp_bdry_dnr_waters_admin.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-351db1a0-c312-450b-bf60-31bdb7ed02b3", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"boundaries", 
+"boundaries"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "This file is intended to show the Division of Waters' administrative unit boundaries.", 
+"dct_issued_s": "2015-01-07T06:00:00.000Z", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (DNR)"
+], 
+"dc_identifier_s": "urn-351db1a0-c312-450b-bf60-31bdb7ed02b3", 
+"dc_relation_sm": [
+""
+], 
+"georss_polygon_s": "43.435392 -96.833072 49.348365 -96.833072 49.348365 -89.397028 43.435392 -89.397028 43.435392 -96.833072", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-351db1a0-c312-450b-bf60-31bdb7ed02b3", 
+"georss_box_s": "43.435392 -96.833072 49.348365 -89.397028", 
+"dc_title_s": "DNR Division of Waters Administrative Areas: Minnesota, 2015", 
+"layer_slug_s": "Minnesota-urn-351db1a0-c312-450b-bf60-31bdb7ed02b3"
+}

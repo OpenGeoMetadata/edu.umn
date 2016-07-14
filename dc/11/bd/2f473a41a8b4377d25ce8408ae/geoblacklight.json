@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Point", 
+"layer_modified_dt": "2016-07-11T09:15:39Z", 
+"solr_geom": "ENVELOPE(-93.3265547038871, -93.2088493281898, 45.0499635146317, 44.8992863497824)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/454f5f098931419da9f978aaa579b8fe_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Snow_Emergency_Polk_Tows_2016/FeatureServer/0\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/454f5f098931419da9f978aaa579b8fe_0\"}", 
+"dc_rights_s": "Public", 
+"uuid": "dc11bd2f-473a-41a8-b437-7d25ce8408ae", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"transportation", 
+"public works"
+], 
+"dct_temporal_sm": "2016", 
+"dc_description_s": "This is the information about the number and location of tows during this snow emergency. Tow data will be retained for all Snow Emergencies in each snow season, until there is five full seasons of snow emergencies.  Disclaimer:  There is an expected address error rate of between 8 and 14 percent. Snow Emergency Tows \u2013 2015/2016 Season #2 Polk (02/02/16 thru 02/04/16) Field  Name Field  Type Field  Description Call  Taken Text Date  and time tag written Location Text Address X  Coord Double X  Coordinate - Geocode Y  Coord. Double Y  Coordinate - Geocode Day  identifier Text Day  of Snow Emergency", 
+"dct_issued_s": "2016-02-11T22:22:10.000ZZ", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"MapIT Minneapolis"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "dc11bd2f-473a-41a8-b437-7d25ce8408ae", 
+"georss_polygon_s": "44.8992863497824 -93.3265547038871 45.0499635146317 -93.3265547038871 45.0499635146317 -93.2088493281898 44.8992863497824 -93.2088493281898 44.8992863497824 -93.3265547038871", 
+"solr_year_i": 2016, 
+"dct_spatial_sm": [
+"City of Minneapolis, Minnesota", 
+"Minneapolis"
+], 
+"dc_publisher_sm": [
+"MapIT Minneapolis"
+], 
+"layer_id_s": "urn:dc11bd2f-473a-41a8-b437-7d25ce8408ae", 
+"georss_box_s": "44.8992863497824 -93.3265547038871 45.0499635146317 -93.2088493281898", 
+"dc_title_s": "Snow Emergency Polk Tows: Minneapolis, Minnesota, 2016", 
+"layer_slug_s": "Minnesota-dc11bd2f-473a-41a8-b437-7d25ce8408ae"
+}

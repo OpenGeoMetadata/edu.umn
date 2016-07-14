@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:54Z", 
+"solr_geom": "ENVELOPE(-95.920163, -90.636761, 49.380386, 43.646246)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/biota-muskie-lakes-in-mn\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_muskie_lakes_in_mn/shp_biota_muskie_lakes_in_mn.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-27b94b59-f669-4f5f-9635-e80b63d04853", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"biota"
+], 
+"dct_temporal_sm": "2008", 
+"dc_description_s": "This layer shows Minnesota's muskie lakes. Criteria for identification includes lakes having an active muskie management plan, lake plan, muskie long-range plan, and/or where muskie is cited as a primary or secondary species. Muskie lakes are classified as Native, Introduced, and Introduced-Hybrid waters on this layer. Note that muskie rivers (e.g., Mississippi, Big Fork, Little Fork, St. Croix, Kettle, Snake, Prairie, Rainy - International Falls to Baudette) are not included in this layer.", 
+"dct_issued_s": "2008-01-01T05:00:00.000Z", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (DNR)"
+], 
+"dc_identifier_s": "urn-27b94b59-f669-4f5f-9635-e80b63d04853", 
+"dc_relation_sm": [
+"<a href=N../../water_dnr_hydrography/metadata/dnr_hydrography_dataset.htmlN target=_blank><b> DNR Hydrography Dataset </b></a>"
+], 
+"georss_polygon_s": "43.646246 -95.920163 49.380386 -95.920163 49.380386 -90.636761 43.646246 -90.636761 43.646246 -95.920163", 
+"solr_year_i": 2008, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-27b94b59-f669-4f5f-9635-e80b63d04853", 
+"georss_box_s": "43.646246 -95.920163 49.380386 -90.636761", 
+"dc_title_s": "DNR Hydrography, Muskie Lakes: Minnesota, 2008", 
+"layer_slug_s": "Minnesota-urn-27b94b59-f669-4f5f-9635-e80b63d04853"
+}

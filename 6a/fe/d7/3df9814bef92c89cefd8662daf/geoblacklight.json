@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:39Z", 
+"solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-transit-routes\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Transportation/MapServer/15\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_transit_routes/shp_trans_transit_routes.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-6afed73d-f981-4bef-92c8-9cefd8662daf", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"transportation"
+], 
+"dct_temporal_sm": "upda", 
+"dc_description_s": "The Transit Routes layer contains all fixed routes serving the Twin Cities regional metropolitan area. One shape and one corresponding record exists for each individual transit route. The line work for the dataset was derived from The NCompass Technologies Street Centerline and Address Range dataset. A small number of line segments have been added to those available from the NCompass Technologies dataset to completely depict all routes traveled by fixed-route transit vehicles.", 
+"dct_issued_s": "2011-12-09T06:00:00.000Z", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Metropolitan Council and NCompass Technologies"
+], 
+"dc_identifier_s": "urn-6afed73d-f981-4bef-92c8-9cefd8662daf", 
+"dc_relation_sm": [
+"NCompass Technologies Street Centerline and Address Ranges, transit segments, Transit Stops"
+], 
+"georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
+"solr_year_i": 2011, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-6afed73d-f981-4bef-92c8-9cefd8662daf", 
+"georss_box_s": "44.471 -94.012 45.415 -92.732", 
+"dc_title_s": "Transit Routes: Twin Cities Metro, Minnesota, 2011", 
+"layer_slug_s": "Minnesota-urn-6afed73d-f981-4bef-92c8-9cefd8662daf"
+}

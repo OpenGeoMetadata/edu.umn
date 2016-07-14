@@ -1,0 +1,33 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:01Z", 
+"solr_geom": "ENVELOPE(-93.20456, -92.781535, 44.912481, 44.509799)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-co-dakota-bdry-parkrec-geocachingofflimits\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-co-dakota-bdry-parkrec-geocachingofflimits\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-003d06f5-3191-42a0-bb7c-c73500b06cfb", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"boundaries"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "Geocaching off limit areas are created from tax parcel information and areas defined by the Dakota County Geocaching Guidelines. https://www.co.dakota.mn.us/parks/Activities/Geocaching/Pages/geocaching-guidelines.aspx", 
+"dct_issued_s": "2014-09-05", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Dakota County GIS, Dakota County GIS, Staff"
+], 
+"dc_identifier_s": "urn-003d06f5-3191-42a0-bb7c-c73500b06cfb", 
+"georss_polygon_s": "44.509799 -93.20456 44.912481 -93.20456 44.912481 -92.781535 44.509799 -92.781535 44.509799 -93.20456", 
+"solr_year_i": 2014, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Dakota County, Minnesota"
+], 
+"dc_publisher_sm": [
+"Dakota County, Minnesota"
+], 
+"layer_id_s": "urn:urn-003d06f5-3191-42a0-bb7c-c73500b06cfb", 
+"georss_box_s": "44.509799 -93.20456 44.912481 -92.781535", 
+"dc_title_s": "Parks Geocaching Off-Limits Areas: Dakota County, Minnesota, 2014", 
+"layer_slug_s": "Minnesota-urn-003d06f5-3191-42a0-bb7c-c73500b06cfb"
+}

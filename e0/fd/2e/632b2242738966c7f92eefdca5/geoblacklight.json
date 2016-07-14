@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:38Z", 
+"solr_geom": "ENVELOPE(-97.5, -89, 49.5, 43)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-bedrock-geology-mn\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-e0fd2e63-2b22-4273-8966-c7f92eefdca5", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"geoscientificInformation"
+], 
+"dct_temporal_sm": "1982", 
+"dc_description_s": "This layer describes the general distribution of surficial sediments in Minnesota, as delineated and classified by the Minnesota Geological Survey. It is a digital version of the Minnesota Geological Survey State Map Series Map S-1 (Geologic Map of Minnesota: Quaternary Geology), 1982, by H.C. Hobbs and J.E. Goebel. (1:500,000). The digital file was created by scanning the 1:500,000-scale paper map and then converting the scanned image into an Arc/INFO polygon coverage. In 2008 MGS converted the original linework to a shapefile format and added more descriptive fields based on the Quaternary Geology Code. File geodatabase format was created for the Minnesota Geospatial Commons.", 
+"dct_issued_s": "1982-06-15", 
+"dc_format_s": "GeoTIFF", 
+"dc_creator_sm": [
+"Minnesota Geological Survey (MGS) and Minnesota Geospatial Information Office (MnGeo)"
+], 
+"dc_identifier_s": "urn-e0fd2e63-2b22-4273-8966-c7f92eefdca5", 
+"dc_relation_sm": [
+"Map:  'Geologic Map of Minnesota: Quaternary Geology', Minnesota Geological Survey Map S-1, 1982, J.C. Hobbs and J.E. Goebel, is the basis for this data layer. For a complete listing of MGS State Map Series Maps, Reports, and GIS Data, see http://conservancy.umn.edu/handle/11299/59725U of M Digital Conservancy information on this map is at http://conservancy.umn.edu/handle/11299/60085"
+], 
+"georss_polygon_s": "43 -97.5 49.5 -97.5 49.5 -89 43 -89 43 -97.5", 
+"solr_year_i": 1982, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Geological Survey"
+], 
+"layer_id_s": "urn:urn-e0fd2e63-2b22-4273-8966-c7f92eefdca5", 
+"georss_box_s": "43 -97.5 49.5 -89", 
+"dc_title_s": "Geologic Map of Minnesota - Quaternary Geology, (MGS Map S-1), 1982", 
+"layer_slug_s": "Minnesota-urn-e0fd2e63-2b22-4273-8966-c7f92eefdca5"
+}

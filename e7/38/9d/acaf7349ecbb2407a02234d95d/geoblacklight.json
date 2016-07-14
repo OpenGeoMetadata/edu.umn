@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:59Z", 
+"solr_geom": "ENVELOPE(-94.663, -92.117, 46.247, 44.184)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-anlys-zones2000-external\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Transportation/MapServer/20\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_anlys_zones2000_external/shp_trans_anlys_zones2000_external.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-e7389dac-af73-49ec-bb24-07a02234d95d", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"transportation"
+], 
+"dct_temporal_sm": "2000", 
+"dc_description_s": "Transportation analysis zones are subdivisions of geographical areas that are delineated for land use and travel analysis purposes. This dataset covers 13 counties outside of the seven Twin Cities metro counties. They are the Minnesota counties of Chisago, Goodhue, Isanti, Le Sueur, Mc Leod, Mille Lacs, Rice, Sherburne, Sibley and Wright; and the Wisconsin counties of Pierce, Polk and St. Croix.", 
+"dct_issued_s": "2003-12-18", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"U.S. Census Bureau and Metropolitan Council"
+], 
+"dc_identifier_s": "urn-e7389dac-af73-49ec-bb24-07a02234d95d", 
+"dc_relation_sm": [
+"Transportation Analysis Zones 2000"
+], 
+"georss_polygon_s": "44.184 -94.663 46.247 -94.663 46.247 -92.117 44.184 -92.117 44.184 -94.663", 
+"solr_year_i": 2003, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-e7389dac-af73-49ec-bb24-07a02234d95d", 
+"georss_box_s": "44.184 -94.663 46.247 -92.117", 
+"dc_title_s": "Transportation Analysis Zones (TAZ) 2000 for External Counties: Twin Cities Metro, Minnesota, 2003", 
+"layer_slug_s": "Minnesota-urn-e7389dac-af73-49ec-bb24-07a02234d95d"
+}

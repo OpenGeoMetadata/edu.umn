@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:44Z", 
+"solr_geom": "ENVELOPE(-97.252252, -89.406737, 49.34025, 43.098198)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/water-wild-and-scenic-rec-rivers\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/water_wild_and_scenic_rec_rivers/shp_water_wild_and_scenic_rec_rivers.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-658ae1e6-4a31-4f78-88a3-2a7fc900fb40", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"inlandWaters"
+], 
+"dct_temporal_sm": "1997", 
+"dc_description_s": "This layer contains designated Wild, Scenic & Recreational Rivers in Minnesota as specified in 1997 MN Rules 6105. Segments of rivers are coded as state-designated (Y), federally-designated (F), or not designated (N). See the DNR Ecological and Water Resources website at: http://www.dnr.state.mn.us/waters/watermgmt_section/wild_scenic/wsrivers/rivers.html for more information on classification and management of these designated rivers. Designated segments are maintained as tabular data and displayed as linear events on the Stream Routes with Kittle Numbers and Mile Measures layer. In the attribute table, designated segments extend from the FROM_MEAS (mile) to the TO_MEAS (mile) and have a total length = [LENGTH_MI] on a route with total length = [ROUTE_MI].", 
+"dct_issued_s": "2013-11-01", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (DNR)"
+], 
+"dc_identifier_s": "urn-658ae1e6-4a31-4f78-88a3-2a7fc900fb40", 
+"dc_relation_sm": [
+"<a href=N../../water_measured_kittle_routes/metadata/metadata.htmlN target=_blank><b>Stream Routes with Kittle Numbers and Mile Measures</b></a>"
+], 
+"georss_polygon_s": "43.098198 -97.252252 49.34025 -97.252252 49.34025 -89.406737 43.098198 -89.406737 43.098198 -97.252252", 
+"solr_year_i": 2013, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-658ae1e6-4a31-4f78-88a3-2a7fc900fb40", 
+"georss_box_s": "43.098198 -97.252252 49.34025 -89.406737", 
+"dc_title_s": "Designated Water Features, Wild, Scenic and Recreational Rivers: Minnesota, 2013", 
+"layer_slug_s": "Minnesota-urn-658ae1e6-4a31-4f78-88a3-2a7fc900fb40"
+}

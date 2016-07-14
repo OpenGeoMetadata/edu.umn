@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Point", 
+"layer_modified_dt": "2016-06-29T09:59:27Z", 
+"solr_geom": "ENVELOPE(-97.25068, -89.597207, 49.37257, 43.444465)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/struc-school-program-locs\",,\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mde/struc_school_program_locs/shp_struc_school_program_locs.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-4aa727fe-36ec-4a7a-b730-fc57ae35e9fa", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"structure"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "The point locations of school programs are a result of an ongoing project to identify current school program locations where Food and Nutrition Services Office (FNS) programs are utilized. The FNS Office is in the Minnesota Department of Education (MDE). GIS at MDE modified the data set using school building locations provided by the school districts and program locations from an MDE database. School District buildings are annually updated but there may remain errors due to the number of program locations and the frequency with which they move from building to building in a District. The records in this dataset cover all school program locations that MDE currently has in a spatial format. Beginning in SY2009-10, separate files for different school programs (public, nonpublic, charter, and public school district center) were combined into one file and attributes are used to distinguish the school types. Note that multiple programs may occur at the same location and are represented as separate points. For example, a junior and a senior high school may be in the same building, but each has a separate record and point in the data layer.", 
+"dct_issued_s": "2015-10-29", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Education"
+], 
+"dc_identifier_s": "urn-4aa727fe-36ec-4a7a-b730-fc57ae35e9fa", 
+"dc_relation_sm": [
+"See related school datasets at:http://www.mngeo.state.mn.us/chouse/metalong.html#admin"
+], 
+"georss_polygon_s": "43.444465 -97.25068 49.37257 -97.25068 49.37257 -89.597207 43.444465 -89.597207 43.444465 -97.25068", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Education"
+], 
+"layer_id_s": "urn:urn-4aa727fe-36ec-4a7a-b730-fc57ae35e9fa", 
+"georss_box_s": "43.444465 -97.25068 49.37257 -89.597207", 
+"dc_title_s": "School Program Locations: Minnesota, SY2015-2016", 
+"layer_slug_s": "Minnesota-urn-4aa727fe-36ec-4a7a-b730-fc57ae35e9fa"
+}

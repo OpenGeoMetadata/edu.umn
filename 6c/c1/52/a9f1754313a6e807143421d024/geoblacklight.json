@@ -1,0 +1,38 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:57Z", 
+"solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-society-manufacturing-dist-cntrs\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/society_manufacturing_dist_cntrs/fgdb_society_manufacturing_dist_cntrs.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-6cc152a9-f175-4313-a6e8-07143421d024", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"society", 
+"employment", 
+"economic activity"
+], 
+"dct_temporal_sm": "2012", 
+"dc_description_s": "Manufacturing and Distribution Centers displays employment density of manufacturing, warehousing and distribution jobs located within the MFGCENTER as identified in the Jobs and Activity Centers defined by the Metropolitan Council of the 7-county Twin Cities Metropolitan area of Minneapolis and St. Paul, Minnesota (see DataFinder.org). Job locations are based on the Minnesota Dept. of Employment and Economic Development's (DEED) Quarterly Census of Employment and Wages (QCEW).", 
+"dct_issued_s": "2014-09-15", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Metropolitan Council"
+], 
+"dc_identifier_s": "urn-6cc152a9-f175-4313-a6e8-07143421d024", 
+"dc_relation_sm": [
+"MN DEED Quarterly Census of Employment and Wages, 2012"
+], 
+"georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
+"solr_year_i": 2014, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-6cc152a9-f175-4313-a6e8-07143421d024", 
+"georss_box_s": "44.471 -94.012 45.415 -92.732", 
+"dc_title_s": "Manufacturing and Distribution Centers: Twin Cities Metro, Minnesota, 2014", 
+"layer_slug_s": "Minnesota-urn-6cc152a9-f175-4313-a6e8-07143421d024"
+}

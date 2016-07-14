@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:57Z", 
+"solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-hydrogeology-atlas-hg01\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/geos_hydrogeology_atlas_hg01/shp_geos_hydrogeology_atlas_hg01.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-0fc79629-bb6a-4869-8afd-b13e0374c9b2", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"geoscientificInformation"
+], 
+"dct_temporal_sm": "1988-2016", 
+"dc_description_s": "Pollution Sensitivity of the Bedrock Surface characterizes the relative rate of vertical travel time of a contaminant that moves conservatively with or within water from the land surface to the buried bedrock surface. Legacy maps from the County Geologic Atlas program were used and modified to reflect the bedrock surface since some legacy maps were created for specific units or aquifers. These data will be updated with every new atlas.", 
+"dct_issued_s": "2016-02-12", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (DNR), Ecological and Water Resources Division, County Geologic Atlas Program"
+], 
+"dc_identifier_s": "urn-0fc79629-bb6a-4869-8afd-b13e0374c9b2", 
+"dc_relation_sm": [
+"County Geologic Atlas, available at http://www.dnr.state.mn.us/waters/groundwater_section/mapping/status.html"
+], 
+"georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
+"solr_year_i": 1988, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-0fc79629-bb6a-4869-8afd-b13e0374c9b2", 
+"georss_box_s": "43.5 -97.23 49.37 -89.53", 
+"dc_title_s": "Pollution Sensitivity of the Bedrock Surface, Minnesota Hydrogeology Atlas series HG-01, 2016", 
+"layer_slug_s": "Minnesota-urn-0fc79629-bb6a-4869-8afd-b13e0374c9b2"
+}

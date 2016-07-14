@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T10:00:23Z", 
+"solr_geom": "ENVELOPE(-170.764583, 145.793611, 71.318472, -14.333194)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/util-fcc\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-d9cef8a3-a192-4aad-a0ba-a8f1d1b2d4a7", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"utilitiesCommunication"
+], 
+"dct_temporal_sm": "2012", 
+"dc_description_s": "Various telecommunication datasets such as cellphone towers and service areas, land mobile station locations, AM, FM, and TV communication can be downloaded on an FCC page. Additionally, data files can be individually downloaded from the FCC Universal Licensing System data site. Individual metadata pages can be seen here: Antenna Structure Registration: antenna_structure_registration_mn.html", 
+"dct_issued_s": "2012-06-14", 
+"dc_format_s": "", 
+"dc_creator_sm": [
+"Federal Communications Commission (FCC) Media Bureau and Wireless Telecommunications Bureau"
+], 
+"dc_identifier_s": "urn-d9cef8a3-a192-4aad-a0ba-a8f1d1b2d4a7", 
+"dc_relation_sm": [
+"FCC Universal Licensing System homepage:http://wireless.fcc.gov/uls/about/"
+], 
+"georss_polygon_s": "-14.333194 -170.764583 71.318472 -170.764583 71.318472 145.793611 -14.333194 145.793611 -14.333194 -170.764583", 
+"solr_year_i": 2012, 
+"dct_spatial_sm": [
+"United States"
+], 
+"dc_publisher_sm": [
+"Federal Communications Commission (FCC)"
+], 
+"layer_id_s": "urn:urn-d9cef8a3-a192-4aad-a0ba-a8f1d1b2d4a7", 
+"georss_box_s": "-14.333194 -170.764583 71.318472 145.793611", 
+"dc_title_s": "Federal Communications Commission (FCC) Geospatial Data: United States, 2012", 
+"layer_slug_s": "Minnesota-urn-d9cef8a3-a192-4aad-a0ba-a8f1d1b2d4a7"
+}

@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:58:41Z", 
+"solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-plan-pland-land-use\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Planning_Development/MapServer/25\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/plan_pland_land_use/shp_plan_pland_land_use.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-0914dfc2-423b-4cc6-9e9d-9c509ec15981", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"planningCadastre"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "The Metropolitan Council routinely compiles individual land use plans and plan amendments from communities within the seven-county Twin Cities metropolitan area into a single regional data layer. A principal goal of the Regional Planned Land Use dataset is to allow users to view, analyze and display planned land use data for anywhere in the seven county metropolitan area with a consistent land use classification scheme. The Metropolitan Council uses the Regional Planned Land Use (PLU) data to help monitor growth and plan for regional services such as regional parks, transit service, and wastewater collection and treatment. Although the planned land use data is based on the locally adopted land use plans and designations for each community, it represent only data that has been submitted to the Metropolitan Council for review per the Metropolitan Land Planning Act of 1995 (Minn. Stat 473.864, Subd 2 and 473.175, Subd 1). See Data Quality Information (Section 2 of this metadata) for specifics about the Metropolitan Land Planning Act of 1995 under Completeness information. Since there is no official State or Regional land use coding scheme that communities must conform with, the variability of content and codes between communities' land use plans is nearly as vast as the number of communities themselves (187). Differences among communities can range from the implementation of different land use categories to conflicting definitions of similar categories. The PLU dataset attempts to effectively level out the variability among communities by translating communities land use categories and descriptions into a common classification scheme developed and endorsed by MetroGIS (a regional GIS data sharing consortium) participants while retaining each communities' original categories. Although the comparability of land use plans between communities has greatly improved as a result of this translation or NregionalizationN of communities' land use codes, it is possible that not all community land use definitions have been precisely translated into the most appropriate regional land use category. In conjunction with other regional information (i.e., land use trend data, households and jobs forecasts), the PLU data can help communities more easily understand regional and sub-regional planning goals and Council staff, working with individual local units of government, can better plan for the future needs and financing of regional services. - Contact individual communities for more information on their locally adopted planned land use categories. - See Data Quality Information (Section 2 of this metadata) for specifics about the development of the regional dataset and its accuracy. - See Entities and Attributes Information (Section 5 of this metadata) for specifics about the regional land use codes and categories.", 
+"dct_issued_s": "2015-09-23", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Metropolitan Council"
+], 
+"dc_identifier_s": "urn-0914dfc2-423b-4cc6-9e9d-9c509ec15981", 
+"dc_relation_sm": [
+"Planned land use maps or datasets may be available individually from each community. Parcel data is available for each county. See https://gisdata.mn.gov/dataset/us-mn-state-metrogis-plan-regonal-prcls-open Existing land use datasets for various years are also available: Year 2005: https://gisdata.mn.gov/dataset/us-mn-state-metc-plan-generl-lnduse2005 Year 2000: https://gisdata.mn.gov/dataset/us-mn-state-metc-plan-generl-lnduse2000 Previous years: https://gisdata.mn.gov/dataset/us-mn-state-metc-plan-generl-lnduse-historical"
+], 
+"georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Minneapolis-St. Paul-Bloomington"
+], 
+"dc_publisher_sm": [
+"Metropolitan Council"
+], 
+"layer_id_s": "urn:urn-0914dfc2-423b-4cc6-9e9d-9c509ec15981", 
+"georss_box_s": "44.471 -94.012 45.415 -92.732", 
+"dc_title_s": "Planned Land Use: Twin Cities Metro, Minnesota, 2015", 
+"layer_slug_s": "Minnesota-urn-0914dfc2-423b-4cc6-9e9d-9c509ec15981"
+}

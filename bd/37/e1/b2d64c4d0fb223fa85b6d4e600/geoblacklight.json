@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:35Z", 
+"solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/atmos-1971-2000-mn-precip-avg\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/atmos_1971_2000_mn_precip_avg/shp_atmos_1971_2000_mn_precip_avg.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-bd37e1b2-d64c-4d0f-b223-fa85b6d4e600", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"climatologyMeteorologyAtmosphere"
+], 
+"dct_temporal_sm": "1971-2000", 
+"dc_description_s": "MNDNR processing of precipitation data gathered by a variety of entities over 30 year period, from . Data sources include National Weather Service, DNR Forestry, Soil and Water Conservation Districts, and others.", 
+"dct_issued_s": "2003-07-01", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Minnesota Department of Natural Resources (MNDNR)"
+], 
+"dc_identifier_s": "urn-bd37e1b2-d64c-4d0f-b223-fa85b6d4e600", 
+"dc_relation_sm": [
+"atmos_1969_1990_mn_precip_avg, atmos_1961_1990_mn_temp_average"
+], 
+"georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
+"solr_year_i": 1971, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "urn:urn-bd37e1b2-d64c-4d0f-b223-fa85b6d4e600", 
+"georss_box_s": "43.5 -97.23 49.37 -89.53", 
+"dc_title_s": "Normal Annual Precipitation Average: Minnesota, 1971-2000", 
+"layer_slug_s": "Minnesota-urn-bd37e1b2-d64c-4d0f-b223-fa85b6d4e600"
+}

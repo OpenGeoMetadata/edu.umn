@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-06-29T09:59:59Z", 
+"solr_geom": "ENVELOPE(-97.5, -89, 49.5, 43)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/plan-glo-plat-maps\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-dc548c0a-aa7b-4aa3-83bc-01b4c5ba4004", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"planningCadastre"
+], 
+"dct_temporal_sm": "1848-1907", 
+"dc_description_s": "This dataset includes high quality (800 Dots Per Inch - DPI), 24 bit color images of Minnesota's original Public Land Survey (PLS) plats created during the first government land survey of the state from 1848 to 1907. Currently housed at the Office of the Secretary of State, these plats were created by the U.S. Surveyor General's Office. This collection of more than 3,600 maps also includes later General Land Office (GLO) and the Bureau of Land Management (BLM) maps - up to the year 2001. Minnesota's survey plat maps serve as the fundamental legal records for real estate in the state; all property titles and descriptions stem from them. They also serve as an essential resource for surveyors and as an analytical tool for the state's physical geography prior to European settlement. Finally, they serve as a testimony to years and years of hard work by the surveying community, often under challenging conditions. In recent years the deteriorating physical condition of the older maps and the needs of technologically more sophisticated researchers, who require access to the maps, have made handling the original paper records increasingly less practical. To meet this challenge, the Office of the Secretary of State, the State Archives of the Minnesota Historical Society, the Minnesota Department of Transportation, MnGeo (formerly the Land Management Information Center - LMIC) and the Minnesota Association of County Surveyors collaborated in a digitization project which produced images of the maps in standard TIFF, JPEG and PDF formats - nearly 1.5 terabytes worth of data. Funding was provided by the Minnesota Department of Transportation.", 
+"dct_issued_s": "2011-06-15", 
+"dc_format_s": "", 
+"dc_creator_sm": [
+"Minnesota Geospatial Information Office (MnGeo)"
+], 
+"dc_identifier_s": "urn-dc548c0a-aa7b-4aa3-83bc-01b4c5ba4004", 
+"dc_relation_sm": [
+"1. The original survey maps (paper, linen, etc.,) of Minnesota are currently housed at the Minnesota Office of the Secretary of State.2. The original surveyors field notes are housed at the Minnesota Historical Society3. GIS files derived from original survey information are available from the Minnesota Department of Natural Resources:a.)  Bearing trees used as references of landmarks during the original Minnesota Public Land Survey http://deli.dnr.state.mn.us/metadata/pveg_btreept3.html b.) Public Land Survey Corners with Presettlement Vegetation information - http://deli.dnr.state.mn.us/metadata/pveg_btvegpt3.html c.) Marschner's Original Presettlement Vegetation Map of Minnesota - http://deli.dnr.state.mn.us/metadata/pveg_mrschpy1.html"
+], 
+"georss_polygon_s": "43 -97.5 49.5 -97.5 49.5 -89 43 -89 43 -97.5", 
+"solr_year_i": 1848, 
+"dct_spatial_sm": [
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Minnesota Geospatial Information Office (MnGeo)"
+], 
+"layer_id_s": "urn:urn-dc548c0a-aa7b-4aa3-83bc-01b4c5ba4004", 
+"georss_box_s": "43 -97.5 49.5 -89", 
+"dc_title_s": "Public Land Survey Plat Maps, Digitized: Minnesota, 1848-1907", 
+"layer_slug_s": "Minnesota-urn-dc548c0a-aa7b-4aa3-83bc-01b4c5ba4004"
+}
