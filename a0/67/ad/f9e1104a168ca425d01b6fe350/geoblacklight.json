@@ -1,36 +1,36 @@
 {
 "layer_geom_type_s": "Polygon", 
-"layer_modified_dt": "2016-06-28T11:07:03.034872Z", 
+"layer_modified_dt": "2016-08-17T16:41:32Z", 
 "solr_geom": "ENVELOPE(-94.0129, -93.5194, 44.9788, 44.6347)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/04f7e2ea1b1f47a8991439272ed3b7b6_2.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.carver.mn.us/arcgis_ea/rest/services/OpenAccess/CC_PLSS/MapServer/2\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/04f7e2ea1b1f47a8991439272ed3b7b6_2\"}", 
 "dc_rights_s": "Public", 
-"uuid": "a067adf9-e110-4a16-8ca4-25d01b6fe350", 
+"uuid": "urn-a067adf9-e110-4a16-8ca4-25d01b6fe350", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"", 
-"Carver County", 
-"PLSS", 
-"Section"
+"planningCadastre", 
+"public land survey system", 
+"sections"
 ], 
-"dct_temporal_sm": "2016", 
+"dct_temporal_sm": "2014-", 
 "dc_description_s": "Summary Carver County Section file. Description This is a polygon dataset for the Sections within Carver County derived from the County Surveryor's base map.", 
-"dct_issued_s": "2014-06-05T18:05:39.000ZZ", 
+"dct_issued_s": "2014-06-04T18:05:39Z", 
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Carver County, Minnesota"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "a067adf9-e110-4a16-8ca4-25d01b6fe350", 
+"dc_identifier_s": "urn-a067adf9-e110-4a16-8ca4-25d01b6fe350", 
 "georss_polygon_s": "44.6347 -94.0129 44.9788 -94.0129 44.9788 -93.5194 44.6347 -93.5194 44.6347 -94.0129", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Carver County, Minnesota"
+"Carver County, Minnesota", 
+"Minnesota"
 ], 
 "dc_publisher_sm": [
 "Carver County, Minnesota"
 ], 
-"layer_id_s": "urn:a067adf9-e110-4a16-8ca4-25d01b6fe350", 
+"layer_id_s": "urn:urn-a067adf9-e110-4a16-8ca4-25d01b6fe350", 
 "georss_box_s": "44.6347 -94.0129 44.9788 -93.5194", 
-"dc_title_s": "PLSS | Sections", 
-"layer_slug_s": "Minnesota-a067adf9-e110-4a16-8ca4-25d01b6fe350"
+"dc_title_s": "PLSS Sections: Carver County, Minnesota", 
+"layer_slug_s": "Minnesota-urn-a067adf9-e110-4a16-8ca4-25d01b6fe350"
 }

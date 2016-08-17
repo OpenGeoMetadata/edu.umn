@@ -1,465 +1,465 @@
-<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd">
-      <gmd:fileIdentifier>
-        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">f6e1d2e6-70d3-478b-a41f-a2201d1ab783</gco:CharacterString>
-      </gmd:fileIdentifier>
-      <gmd:language>
-        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">eng</gco:CharacterString>
-      </gmd:language>
-      <gmd:characterSet>
-        <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="004"/>
-      </gmd:characterSet>
-      <gmd:hierarchyLevel>
-        <gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="005"/>
-      </gmd:hierarchyLevel>
-      <gmd:contact>
-        <gmd:CI_ResponsibleParty>
-          <gmd:individualName>
-            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Nancy Rader</gco:CharacterString>
-          </gmd:individualName>
-          <gmd:organisationName>
-            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Geospatial Information Office (MnGeo)</gco:CharacterString>
-          </gmd:organisationName>
-          <gmd:positionName>
-            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GIS Data Coordinator</gco:CharacterString>
-          </gmd:positionName>
-          <gmd:contactInfo>
-            <gmd:CI_Contact>
-              <gmd:phone>
-                <gmd:CI_Telephone>
-                  <gmd:voice>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-201-2489</gco:CharacterString>
-                  </gmd:voice>
-                  <gmd:facsimile>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-296-6398</gco:CharacterString>
-                  </gmd:facsimile>
-                </gmd:CI_Telephone>
-              </gmd:phone>
-              <gmd:address>
-                <gmd:CI_Address>
-                  <gmd:deliveryPoint>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">658 Cedar Street, Room 300</gco:CharacterString>
-                  </gmd:deliveryPoint>
-                  <gmd:city>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
-                  </gmd:city>
-                  <gmd:administrativeArea>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
-                  </gmd:administrativeArea>
-                  <gmd:postalCode>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55155</gco:CharacterString>
-                  </gmd:postalCode>
-                  <gmd:electronicMailAddress>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">gisinfo.mngeo@state.mn.us</gco:CharacterString>
-                  </gmd:electronicMailAddress>
-                </gmd:CI_Address>
-              </gmd:address>
-            </gmd:CI_Contact>
-          </gmd:contactInfo>
-          <gmd:role>
-            <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="007"/>
-          </gmd:role>
-        </gmd:CI_ResponsibleParty>
-      </gmd:contact>
-      <gmd:dateStamp>
-        <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-06-29T10:00:12</gco:DateTime>
-      </gmd:dateStamp>
-      <gmd:metadataStandardName>
-        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
-      </gmd:metadataStandardName>
-      <gmd:metadataStandardVersion>
-        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2:2009(E)</gco:CharacterString>
-      </gmd:metadataStandardVersion>
-      <gmd:referenceSystemInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ngdc.noaa.gov/docucomp/65f8b220-95ed-11e0-aa80-0800200c9a66" xlink:title="North American Datum 1983"/>
-      <gmd:referenceSystemInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ngdc.noaa.gov/docucomp/c3895520-95ed-11e0-aa80-0800200c9a66" xlink:title="Geodetic Reference System 1980"/>
-      <gmd:identificationInfo>
-        <gmd:MD_DataIdentification>
-          <gmd:citation>
-            <gmd:CI_Citation>
-              <gmd:title>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">LiDAR Elevation: McLeod County, Minnesota, 2007</gco:CharacterString>
-              </gmd:title>
-              <gmd:date>
-                <gmd:CI_Date>
-                  <gmd:date>
-                    <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2007-01-01T06:00:00.000Z</gco:Date>
-                  </gmd:date>
-                  <gmd:dateType>
-                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
-                  </gmd:dateType>
-                </gmd:CI_Date>
-              </gmd:date>
-              <gmd:identifier>
-                <gmd:MD_Identifier>
-                  <gmd:code>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">McLeod County LiDAR (elev_lidar_mcleod2007)</gco:CharacterString>
-                  </gmd:code>
-                </gmd:MD_Identifier>
-              </gmd:identifier>
-              <gmd:identifier>
-                <gmd:MD_Identifier>
-                  <gmd:code>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">urn-f6e1d2e6-70d3-478b-a41f-a2201d1ab783</gco:CharacterString>
-                  </gmd:code>
-                </gmd:MD_Identifier>
-              </gmd:identifier>
-              <gmd:citedResponsibleParty>
-                <gmd:CI_ResponsibleParty>
-                  <gmd:organisationName>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">McLeod County Highway Department</gco:CharacterString>
-                  </gmd:organisationName>
-                  <gmd:role>
-                    <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="006"/>
-                  </gmd:role>
-                </gmd:CI_ResponsibleParty>
-              </gmd:citedResponsibleParty>
-              <gmd:citedResponsibleParty>
-                <gmd:CI_ResponsibleParty>
-                  <gmd:organisationName>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Department of Natural Resources</gco:CharacterString>
-                  </gmd:organisationName>
-                  <gmd:role>
-                    <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="010"/>
-                  </gmd:role>
-                </gmd:CI_ResponsibleParty>
-              </gmd:citedResponsibleParty>
-            </gmd:CI_Citation>
-          </gmd:citation>
-          <gmd:abstract>
-            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">The LiDAR data for McLeod County was collected under contract by the county. Thus, the data format is not entirely consistent with some of the other LiDAR data collected by the State of Minnesota. Specifically, the McLeod County collect required classification of only Bare Earth in the LiDAR LAS files, so there is no information on buildings, vegetation, or model key points. The LAS data used for this process were acquired from the U.S. Geological Survey. No breaklines were available for processing this data. Note: This metadata record was created at the Minnesota Geospatial Information Office using information supplied by McLeod County and the Minnesota Department of Natural Resources.</gco:CharacterString>
-          </gmd:abstract>
-          <gmd:purpose>
-            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">The bare-earth data and breakline data was utilized to produce terrain surface models for the generation of the one-foot contours and the raster DEM.</gco:CharacterString>
-          </gmd:purpose>
-          <gmd:status>
-            <gmd:MD_ProgressCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ProgressCode" codeListValue="completed" codeSpace="001"/>
-          </gmd:status>
-          <gmd:pointOfContact>
-            <gmd:CI_ResponsibleParty>
-              <gmd:individualName>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Christy Christensen</gco:CharacterString>
-              </gmd:individualName>
-              <gmd:organisationName>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">McLeod County</gco:CharacterString>
-              </gmd:organisationName>
-              <gmd:positionName>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GIS Director</gco:CharacterString>
-              </gmd:positionName>
-              <gmd:contactInfo>
-                <gmd:CI_Contact>
-                  <gmd:phone>
-                    <gmd:CI_Telephone>
-                      <gmd:voice>
-                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">320-234-0230</gco:CharacterString>
-                      </gmd:voice>
-                    </gmd:CI_Telephone>
-                  </gmd:phone>
-                  <gmd:address>
-                    <gmd:CI_Address>
-                      <gmd:deliveryPoint>
-                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">1400 Adams Street SE</gco:CharacterString>
-                      </gmd:deliveryPoint>
-                      <gmd:city>
-                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Hutchinson</gco:CharacterString>
-                      </gmd:city>
-                      <gmd:administrativeArea>
-                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
-                      </gmd:administrativeArea>
-                      <gmd:postalCode>
-                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55350</gco:CharacterString>
-                      </gmd:postalCode>
-                      <gmd:electronicMailAddress>
-                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">christy.christensen@co.mcleod.mn.us</gco:CharacterString>
-                      </gmd:electronicMailAddress>
-                    </gmd:CI_Address>
-                  </gmd:address>
-                </gmd:CI_Contact>
-              </gmd:contactInfo>
-              <gmd:role>
-                <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="007"/>
-              </gmd:role>
-            </gmd:CI_ResponsibleParty>
-          </gmd:pointOfContact>
-          <gmd:resourceMaintenance>
-            <gmd:MD_MaintenanceInformation>
-              <gmd:maintenanceAndUpdateFrequency>
-                <gmd:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="unknown" codeSpace="012"/>
-              </gmd:maintenanceAndUpdateFrequency>
-            </gmd:MD_MaintenanceInformation>
-          </gmd:resourceMaintenance>
-          <gmd:descriptiveKeywords>
-            <gmd:MD_Keywords>
-              <gmd:keyword>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota</gco:CharacterString>
-              </gmd:keyword>
-              <gmd:keyword>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">McLeod County, Minnesota</gco:CharacterString>
-              </gmd:keyword>
-              <gmd:type>
-                <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="place"/>
-              </gmd:type>
-              <gmd:thesaurusName>
-                <gmd:CI_Citation>
-                  <gmd:title>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GeoNames</gco:CharacterString>
-                  </gmd:title>
-                  <gmd:date>
-                    <gmd:CI_Date>
-                      <gmd:date>
-                        <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2012-10-29</gco:Date>
-                      </gmd:date>
-                      <gmd:dateType>
-                        <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
-                      </gmd:dateType>
-                    </gmd:CI_Date>
-                  </gmd:date>
-                  <gmd:identifier>
-                    <gmd:MD_Identifier>
-                      <gmd:code>
-                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">http://www.geonames.org/ontology/ontology_v3.1.rdf</gco:CharacterString>
-                      </gmd:code>
-                    </gmd:MD_Identifier>
-                  </gmd:identifier>
-                </gmd:CI_Citation>
-              </gmd:thesaurusName>
-            </gmd:MD_Keywords>
-          </gmd:descriptiveKeywords>
-          <gmd:resourceConstraints>
-            <gmd:MD_LegalConstraints>
-              <gmd:accessConstraints>
-                <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="008"/>
-              </gmd:accessConstraints>
-              <gmd:useConstraints>
-                <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="008"/>
-              </gmd:useConstraints>
-              <gmd:otherConstraints>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Access Constraints: None. Use Constraints: The topographic data represents the results of data collection/processing for McLeod County and indicates the existing general conditions. As such, they are only valid for their intended use, content, time and accuracy specifications. The user is responsible for the results of any application of data other than its intended purposes. See Disclaimer field for complete use conditions. Distribution Liability: 1. McLeod County disclaimer: The digital vector data represents the results of data collection/processing for McLeod County, MN and indicates the general conditions existing at the time of flight. As such, it is only valid for its intended use, content, time and accuracy specifications. The user is responsible for the results of any application of the data other than for its intended purpose. 2. Minnesota Department of Natural Resources General Geographic Data License Agreement is online: http://www.dnr.state.mn.us/sitetools/data_software_license.html 3. MnGeo's data disclaimer is online: http://www.mngeo.state.mn.us/chouse/disclaimer.html</gco:CharacterString>
-              </gmd:otherConstraints>
-            </gmd:MD_LegalConstraints>
-          </gmd:resourceConstraints>
-          <gmd:aggregationInfo>
-            <gmd:MD_AggregateInformation>
-              <gmd:aggregateDataSetName>
-                <gmd:CI_Citation>
-                  <gmd:title>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">For more information about elevation data for Minnesota, see: http://www.mngeo.state.mn.us/chouse/elevation/index.html</gco:CharacterString>
-                  </gmd:title>
-                  <gmd:date>
-                    <gmd:CI_Date>
-                      <gmd:dateType>
-                        <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
-                      </gmd:dateType>
-                    </gmd:CI_Date>
-                  </gmd:date>
-                </gmd:CI_Citation>
-              </gmd:aggregateDataSetName>
-              <gmd:associationType>
-                <gmd:DS_AssociationTypeCode codeListValue="crossReference" codeSpace="001" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#DS_AssociationTypeCode"/>
-              </gmd:associationType>
-            </gmd:MD_AggregateInformation>
-          </gmd:aggregationInfo>
-          <gmd:language>
-            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">eng</gco:CharacterString>
-          </gmd:language>
-          <gmd:topicCategory>
-            <gmd:MD_TopicCategoryCode>elevation</gmd:MD_TopicCategoryCode>
-          </gmd:topicCategory>
-          <gmd:extent>
-            <gmd:EX_Extent id="boundingExtent">
-              <gmd:geographicElement>
-                <gmd:EX_GeographicBoundingBox id="boundingGeographicBoundingBox">
-                  <gmd:westBoundLongitude>
-                    <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">-94.506402</gco:Decimal>
-                  </gmd:westBoundLongitude>
-                  <gmd:eastBoundLongitude>
-                    <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">-93.977849</gco:Decimal>
-                  </gmd:eastBoundLongitude>
-                  <gmd:southBoundLatitude>
-                    <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">44.625869</gco:Decimal>
-                  </gmd:southBoundLatitude>
-                  <gmd:northBoundLatitude>
-                    <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">44.982573</gco:Decimal>
-                  </gmd:northBoundLatitude>
-                </gmd:EX_GeographicBoundingBox>
-              </gmd:geographicElement>
-              <gmd:temporalElement>
-                <gmd:EX_TemporalExtent id="boundingTemporalExtent">
-                  <gmd:extent>
-                    <gml:TimeInstant xmlns:gml="http://www.opengis.net/gml" gml:id="boundingTimeInstantExtent">
-                      <gml:timePosition>2007</gml:timePosition>
-                    </gml:TimeInstant>
-                  </gmd:extent>
-                </gmd:EX_TemporalExtent>
-              </gmd:temporalElement>
-            </gmd:EX_Extent>
-          </gmd:extent>
-          <gmd:supplementalInformation>
-            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">McLeod County, Minnesota</gco:CharacterString>
-          </gmd:supplementalInformation>
-        </gmd:MD_DataIdentification>
-      </gmd:identificationInfo>
-      <gmd:contentInfo>
-        <gmd:MD_FeatureCatalogueDescription>
-          <gmd:includedWithDataset>
-            <gco:Boolean xmlns:gco="http://www.isotc211.org/2005/gco">false</gco:Boolean>
-          </gmd:includedWithDataset>
-        </gmd:MD_FeatureCatalogueDescription>
-      </gmd:contentInfo>
-      <gmd:distributionInfo>
-        <gmd:MD_Distribution>
-          <gmd:distributor>
-            <gmd:MD_Distributor>
-              <gmd:distributorContact>
-                <gmd:CI_ResponsibleParty>
-                  <gmd:individualName>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Nancy Rader</gco:CharacterString>
-                  </gmd:individualName>
-                  <gmd:organisationName>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Geospatial Information Office (MnGeo)</gco:CharacterString>
-                  </gmd:organisationName>
-                  <gmd:positionName>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GIS Data Coordinator</gco:CharacterString>
-                  </gmd:positionName>
-                  <gmd:contactInfo>
-                    <gmd:CI_Contact>
-                      <gmd:phone>
-                        <gmd:CI_Telephone>
-                          <gmd:voice>
-                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-201-2489</gco:CharacterString>
-                          </gmd:voice>
-                          <gmd:facsimile>
-                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-296-6398</gco:CharacterString>
-                          </gmd:facsimile>
-                        </gmd:CI_Telephone>
-                      </gmd:phone>
-                      <gmd:address>
-                        <gmd:CI_Address>
-                          <gmd:deliveryPoint>
-                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">658 Cedar Street, Room 300</gco:CharacterString>
-                          </gmd:deliveryPoint>
-                          <gmd:city>
-                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
-                          </gmd:city>
-                          <gmd:administrativeArea>
-                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
-                          </gmd:administrativeArea>
-                          <gmd:postalCode>
-                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55155</gco:CharacterString>
-                          </gmd:postalCode>
-                          <gmd:electronicMailAddress>
-                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">gisinfo.mngeo@state.mn.us</gco:CharacterString>
-                          </gmd:electronicMailAddress>
-                        </gmd:CI_Address>
-                      </gmd:address>
-                    </gmd:CI_Contact>
-                  </gmd:contactInfo>
-                  <gmd:role>
-                    <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="distributor" codeSpace="005"/>
-                  </gmd:role>
-                </gmd:CI_ResponsibleParty>
-              </gmd:distributorContact>
-              <gmd:distributionOrderProcess>
-                <gmd:MD_StandardOrderProcess>
-                  <gmd:orderingInstructions>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Ordering Instructions: The LiDAR data provided by DNR may be viewed online or downloaded in several ways: 1. MnTOPO website: http://www.dnr.state.mn.us/maps/mntopo/index.html - view data online - download data in Esri and open formats (tiles for most data formats will be mosaicked together during download) - see the help file for details: http://files.dnr.state.mn.us/aboutdnr/gis/mntopo/mntopo_help_document.pdf - the online linkage below links to this site 2. MnGeo's FTP site Use the tile_index.pdf maps to locate the tiles you need. Except for the county file, tiles will not be mosaicked. a. From the county folder: ftp://ftp.lmic.state.mn.us/pub/data/elevation/lidar/county/mcleod/ The county mosaic is named elevation_data.gdb.zip For details of its contents and size, see this table: http://geoint.lmic.state.mn.us/lidar.php b. In the 250k tiles folder: ftp://ftp.lmic.state.mn.us/pub/data/elevation/lidar/q250k/ For more help with Minnesota's LiDAR data, see http://www.mngeo.state.mn.us/chouse/elevation/lidar.html</gco:CharacterString>
-                  </gmd:orderingInstructions>
-                </gmd:MD_StandardOrderProcess>
-              </gmd:distributionOrderProcess>
-            </gmd:MD_Distributor>
-          </gmd:distributor>
-          <gmd:transferOptions>
-            <gmd:MD_DigitalTransferOptions>
-              <gmd:onLine>
-                <gmd:CI_OnlineResource>
-                  <gmd:linkage>
-                    <gmd:URL>https://gisdata.mn.gov/dataset/elev-lidar-mcleod2007</gmd:URL>
-                  </gmd:linkage>
-                  <gmd:protocol>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:LINK</gco:CharacterString>
-                  </gmd:protocol>
-                </gmd:CI_OnlineResource>
-              </gmd:onLine>
-            </gmd:MD_DigitalTransferOptions>
-          </gmd:transferOptions>
-        </gmd:MD_Distribution>
-      </gmd:distributionInfo>
-      <gmd:dataQualityInfo>
-        <gmd:DQ_DataQuality>
-          <gmd:scope xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
-          <gmd:report>
-            <gmd:DQ_AbsoluteExternalPositionalAccuracy>
-              <gmd:nameOfMeasure>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Horizontal Positional Accuracy</gco:CharacterString>
-              </gmd:nameOfMeasure>
-              <gmd:evaluationMethodDescription>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Not available</gco:CharacterString>
-              </gmd:evaluationMethodDescription>
-              <gmd:result>
-                <gmd:DQ_QuantitativeResult>
-                  <gmd:valueUnit>
-                    <gml:BaseUnit xmlns:gml="http://www.opengis.net/gml" gml:id="meters">
-                      <gml:identifier codeSpace="meters"/>
-                      <gml:unitsSystem xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.bipm.org/en/si/"/>
-                    </gml:BaseUnit>
-                  </gmd:valueUnit>
-                </gmd:DQ_QuantitativeResult>
-              </gmd:result>
-            </gmd:DQ_AbsoluteExternalPositionalAccuracy>
-          </gmd:report>
-          <gmd:report>
-            <gmd:DQ_AbsoluteExternalPositionalAccuracy>
-              <gmd:nameOfMeasure>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Vertical Positional Accuracy</gco:CharacterString>
-              </gmd:nameOfMeasure>
-              <gmd:evaluationMethodDescription>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Not available</gco:CharacterString>
-              </gmd:evaluationMethodDescription>
-              <gmd:result>
-                <gmd:DQ_QuantitativeResult>
-                  <gmd:valueUnit>
-                    <gml:BaseUnit xmlns:gml="http://www.opengis.net/gml" gml:id="meters">
-                      <gml:identifier codeSpace="meters"/>
-                      <gml:unitsSystem xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.bipm.org/en/si/"/>
-                    </gml:BaseUnit>
-                  </gmd:valueUnit>
-                </gmd:DQ_QuantitativeResult>
-              </gmd:result>
-            </gmd:DQ_AbsoluteExternalPositionalAccuracy>
-          </gmd:report>
-          <gmd:report>
-            <gmd:DQ_CompletenessCommission>
-              <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
-            </gmd:DQ_CompletenessCommission>
-          </gmd:report>
-          <gmd:report>
-            <gmd:DQ_CompletenessOmission>
-              <gmd:evaluationMethodDescription>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Data collection of the survey area resulted in a total of 124 flightlines including re-flights and supplemental flights as well as four control lines covering the project area. The range files, flight logs, raw air and ground GPS files were then processed using REALM, a LIDAR processing software package from Optech. Processing began by downloading these files into a REALM database. For redundancy and accuracy purposes, the airborne GPS data were processed from two base stations using POSGPS from Applanix, Inc. The agreement between a minimum of two solutions checked or combined between a minimum of two stations was better than 10 cm in each of X, Y, and Z. These trajectories were used in the processing of the inertial data. The inertial data were processed using POSProc from Applanix, Inc. This software produces an SBET ('smooth best estimate of trajectory') using the GPS trajectory from POSGPS and the roll, pitch and heading information recorded by the POS (Position Orientation System). REALM uses the SBET to generate a set of data points for each laser return in the LAS file format. Each data point is assigned an echo value so it can be segregated based on the first and last pulse information. This project's data were processed in strip form, meaning each flight line was processed independently. Processing the lines individually provides the data analyst with the ability to QC the overlap between lines.</gco:CharacterString>
-              </gmd:evaluationMethodDescription>
-              <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
-            </gmd:DQ_CompletenessOmission>
-          </gmd:report>
-          <gmd:report>
-            <gmd:DQ_ConceptualConsistency>
-              <gmd:measureDescription>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">LiDAR was classified and stereo-pairs were generated from LiDAR intensity data which were used to collect breaklines. A surface was generated from the bare earth LiDAR DTM and the collected breakline data to produce one-foot contours and raster DEM at a 5-foot resolution.</gco:CharacterString>
-              </gmd:measureDescription>
-              <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
-            </gmd:DQ_ConceptualConsistency>
-          </gmd:report>
-          <gmd:report>
-            <gmd:DQ_NonQuantitativeAttributeAccuracy>
-              <gmd:measureDescription>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">LiDAR DEM Quality Control Report</gco:CharacterString>
-              </gmd:measureDescription>
-              <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="inapplicable"/>
-            </gmd:DQ_NonQuantitativeAttributeAccuracy>
-          </gmd:report>
-          <gmd:lineage>
-            <gmd:LI_Lineage>
-              <gmd:processStep>
-                <gmd:LI_ProcessStep>
-                  <gmd:description>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Vendor Processing Steps:
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd">
+    <gmd:fileIdentifier>
+      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">f6e1d2e6-70d3-478b-a41f-a2201d1ab783</gco:CharacterString>
+    </gmd:fileIdentifier>
+    <gmd:language>
+      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">eng</gco:CharacterString>
+    </gmd:language>
+    <gmd:characterSet>
+      <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="004"/>
+    </gmd:characterSet>
+    <gmd:hierarchyLevel>
+      <gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="005"/>
+    </gmd:hierarchyLevel>
+    <gmd:contact>
+      <gmd:CI_ResponsibleParty>
+        <gmd:individualName>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Nancy Rader</gco:CharacterString>
+        </gmd:individualName>
+        <gmd:organisationName>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Geospatial Information Office (MnGeo)</gco:CharacterString>
+        </gmd:organisationName>
+        <gmd:positionName>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GIS Data Coordinator</gco:CharacterString>
+        </gmd:positionName>
+        <gmd:contactInfo>
+          <gmd:CI_Contact>
+            <gmd:phone>
+              <gmd:CI_Telephone>
+                <gmd:voice>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-201-2489</gco:CharacterString>
+                </gmd:voice>
+                <gmd:facsimile>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-296-6398</gco:CharacterString>
+                </gmd:facsimile>
+              </gmd:CI_Telephone>
+            </gmd:phone>
+            <gmd:address>
+              <gmd:CI_Address>
+                <gmd:deliveryPoint>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">658 Cedar Street, Room 300</gco:CharacterString>
+                </gmd:deliveryPoint>
+                <gmd:city>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
+                </gmd:city>
+                <gmd:administrativeArea>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
+                </gmd:administrativeArea>
+                <gmd:postalCode>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55155</gco:CharacterString>
+                </gmd:postalCode>
+                <gmd:electronicMailAddress>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">gisinfo.mngeo@state.mn.us</gco:CharacterString>
+                </gmd:electronicMailAddress>
+              </gmd:CI_Address>
+            </gmd:address>
+          </gmd:CI_Contact>
+        </gmd:contactInfo>
+        <gmd:role>
+          <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="007"/>
+        </gmd:role>
+      </gmd:CI_ResponsibleParty>
+    </gmd:contact>
+    <gmd:dateStamp>
+      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-06-29T10:00:12</gco:DateTime>
+    </gmd:dateStamp>
+    <gmd:metadataStandardName>
+      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
+    </gmd:metadataStandardName>
+    <gmd:metadataStandardVersion>
+      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2:2009(E)</gco:CharacterString>
+    </gmd:metadataStandardVersion>
+    <gmd:referenceSystemInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ngdc.noaa.gov/docucomp/65f8b220-95ed-11e0-aa80-0800200c9a66" xlink:title="North American Datum 1983"/>
+    <gmd:referenceSystemInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ngdc.noaa.gov/docucomp/c3895520-95ed-11e0-aa80-0800200c9a66" xlink:title="Geodetic Reference System 1980"/>
+    <gmd:identificationInfo>
+      <gmd:MD_DataIdentification>
+        <gmd:citation>
+          <gmd:CI_Citation>
+            <gmd:title>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">LiDAR Elevation: McLeod County, Minnesota, 2007</gco:CharacterString>
+            </gmd:title>
+            <gmd:date>
+              <gmd:CI_Date>
+                <gmd:date>
+                  <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2007-01-01T06:00:00.000Z</gco:Date>
+                </gmd:date>
+                <gmd:dateType>
+                  <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                </gmd:dateType>
+              </gmd:CI_Date>
+            </gmd:date>
+            <gmd:identifier>
+              <gmd:MD_Identifier>
+                <gmd:code>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">McLeod County LiDAR (elev_lidar_mcleod2007)</gco:CharacterString>
+                </gmd:code>
+              </gmd:MD_Identifier>
+            </gmd:identifier>
+            <gmd:identifier>
+              <gmd:MD_Identifier>
+                <gmd:code>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">urn-f6e1d2e6-70d3-478b-a41f-a2201d1ab783</gco:CharacterString>
+                </gmd:code>
+              </gmd:MD_Identifier>
+            </gmd:identifier>
+            <gmd:citedResponsibleParty>
+              <gmd:CI_ResponsibleParty>
+                <gmd:organisationName>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">McLeod County Highway Department</gco:CharacterString>
+                </gmd:organisationName>
+                <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="006"/>
+                </gmd:role>
+              </gmd:CI_ResponsibleParty>
+            </gmd:citedResponsibleParty>
+            <gmd:citedResponsibleParty>
+              <gmd:CI_ResponsibleParty>
+                <gmd:organisationName>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Department of Natural Resources</gco:CharacterString>
+                </gmd:organisationName>
+                <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="010"/>
+                </gmd:role>
+              </gmd:CI_ResponsibleParty>
+            </gmd:citedResponsibleParty>
+          </gmd:CI_Citation>
+        </gmd:citation>
+        <gmd:abstract>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">The LiDAR data for McLeod County was collected under contract by the county. Thus, the data format is not entirely consistent with some of the other LiDAR data collected by the State of Minnesota. Specifically, the McLeod County collect required classification of only Bare Earth in the LiDAR LAS files, so there is no information on buildings, vegetation, or model key points. The LAS data used for this process were acquired from the U.S. Geological Survey. No breaklines were available for processing this data. Note: This metadata record was created at the Minnesota Geospatial Information Office using information supplied by McLeod County and the Minnesota Department of Natural Resources.</gco:CharacterString>
+        </gmd:abstract>
+        <gmd:purpose>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">The bare-earth data and breakline data was utilized to produce terrain surface models for the generation of the one-foot contours and the raster DEM.</gco:CharacterString>
+        </gmd:purpose>
+        <gmd:status>
+          <gmd:MD_ProgressCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ProgressCode" codeListValue="completed" codeSpace="001"/>
+        </gmd:status>
+        <gmd:pointOfContact>
+          <gmd:CI_ResponsibleParty>
+            <gmd:individualName>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Christy Christensen</gco:CharacterString>
+            </gmd:individualName>
+            <gmd:organisationName>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">McLeod County</gco:CharacterString>
+            </gmd:organisationName>
+            <gmd:positionName>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GIS Director</gco:CharacterString>
+            </gmd:positionName>
+            <gmd:contactInfo>
+              <gmd:CI_Contact>
+                <gmd:phone>
+                  <gmd:CI_Telephone>
+                    <gmd:voice>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">320-234-0230</gco:CharacterString>
+                    </gmd:voice>
+                  </gmd:CI_Telephone>
+                </gmd:phone>
+                <gmd:address>
+                  <gmd:CI_Address>
+                    <gmd:deliveryPoint>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">1400 Adams Street SE</gco:CharacterString>
+                    </gmd:deliveryPoint>
+                    <gmd:city>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Hutchinson</gco:CharacterString>
+                    </gmd:city>
+                    <gmd:administrativeArea>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
+                    </gmd:administrativeArea>
+                    <gmd:postalCode>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55350</gco:CharacterString>
+                    </gmd:postalCode>
+                    <gmd:electronicMailAddress>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">christy.christensen@co.mcleod.mn.us</gco:CharacterString>
+                    </gmd:electronicMailAddress>
+                  </gmd:CI_Address>
+                </gmd:address>
+              </gmd:CI_Contact>
+            </gmd:contactInfo>
+            <gmd:role>
+              <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="007"/>
+            </gmd:role>
+          </gmd:CI_ResponsibleParty>
+        </gmd:pointOfContact>
+        <gmd:resourceMaintenance>
+          <gmd:MD_MaintenanceInformation>
+            <gmd:maintenanceAndUpdateFrequency>
+              <gmd:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="unknown" codeSpace="012"/>
+            </gmd:maintenanceAndUpdateFrequency>
+          </gmd:MD_MaintenanceInformation>
+        </gmd:resourceMaintenance>
+        <gmd:descriptiveKeywords>
+          <gmd:MD_Keywords>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">McLeod County, Minnesota</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:type>
+              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="place"/>
+            </gmd:type>
+            <gmd:thesaurusName>
+              <gmd:CI_Citation>
+                <gmd:title>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GeoNames</gco:CharacterString>
+                </gmd:title>
+                <gmd:date>
+                  <gmd:CI_Date>
+                    <gmd:date>
+                      <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2012-10-29</gco:Date>
+                    </gmd:date>
+                    <gmd:dateType>
+                      <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                    </gmd:dateType>
+                  </gmd:CI_Date>
+                </gmd:date>
+                <gmd:identifier>
+                  <gmd:MD_Identifier>
+                    <gmd:code>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">http://www.geonames.org/ontology/ontology_v3.1.rdf</gco:CharacterString>
+                    </gmd:code>
+                  </gmd:MD_Identifier>
+                </gmd:identifier>
+              </gmd:CI_Citation>
+            </gmd:thesaurusName>
+          </gmd:MD_Keywords>
+        </gmd:descriptiveKeywords>
+        <gmd:resourceConstraints>
+          <gmd:MD_LegalConstraints>
+            <gmd:accessConstraints>
+              <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="008"/>
+            </gmd:accessConstraints>
+            <gmd:useConstraints>
+              <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="008"/>
+            </gmd:useConstraints>
+            <gmd:otherConstraints>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Access Constraints: None. Use Constraints: The topographic data represents the results of data collection/processing for McLeod County and indicates the existing general conditions. As such, they are only valid for their intended use, content, time and accuracy specifications. The user is responsible for the results of any application of data other than its intended purposes. See Disclaimer field for complete use conditions. Distribution Liability: 1. McLeod County disclaimer: The digital vector data represents the results of data collection/processing for McLeod County, MN and indicates the general conditions existing at the time of flight. As such, it is only valid for its intended use, content, time and accuracy specifications. The user is responsible for the results of any application of the data other than for its intended purpose. 2. Minnesota Department of Natural Resources General Geographic Data License Agreement is online: http://www.dnr.state.mn.us/sitetools/data_software_license.html 3. MnGeo's data disclaimer is online: http://www.mngeo.state.mn.us/chouse/disclaimer.html</gco:CharacterString>
+            </gmd:otherConstraints>
+          </gmd:MD_LegalConstraints>
+        </gmd:resourceConstraints>
+        <gmd:aggregationInfo>
+          <gmd:MD_AggregateInformation>
+            <gmd:aggregateDataSetName>
+              <gmd:CI_Citation>
+                <gmd:title>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">For more information about elevation data for Minnesota, see: http://www.mngeo.state.mn.us/chouse/elevation/index.html</gco:CharacterString>
+                </gmd:title>
+                <gmd:date>
+                  <gmd:CI_Date>
+                    <gmd:dateType>
+                      <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                    </gmd:dateType>
+                  </gmd:CI_Date>
+                </gmd:date>
+              </gmd:CI_Citation>
+            </gmd:aggregateDataSetName>
+            <gmd:associationType>
+              <gmd:DS_AssociationTypeCode codeListValue="crossReference" codeSpace="001" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#DS_AssociationTypeCode"/>
+            </gmd:associationType>
+          </gmd:MD_AggregateInformation>
+        </gmd:aggregationInfo>
+        <gmd:language>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">eng</gco:CharacterString>
+        </gmd:language>
+        <gmd:topicCategory>
+          <gmd:MD_TopicCategoryCode>elevation</gmd:MD_TopicCategoryCode>
+        </gmd:topicCategory>
+        <gmd:extent>
+          <gmd:EX_Extent id="boundingExtent">
+            <gmd:geographicElement>
+              <gmd:EX_GeographicBoundingBox id="boundingGeographicBoundingBox">
+                <gmd:westBoundLongitude>
+                  <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">-94.506402</gco:Decimal>
+                </gmd:westBoundLongitude>
+                <gmd:eastBoundLongitude>
+                  <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">-93.977849</gco:Decimal>
+                </gmd:eastBoundLongitude>
+                <gmd:southBoundLatitude>
+                  <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">44.625869</gco:Decimal>
+                </gmd:southBoundLatitude>
+                <gmd:northBoundLatitude>
+                  <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">44.982573</gco:Decimal>
+                </gmd:northBoundLatitude>
+              </gmd:EX_GeographicBoundingBox>
+            </gmd:geographicElement>
+            <gmd:temporalElement>
+              <gmd:EX_TemporalExtent id="boundingTemporalExtent">
+                <gmd:extent>
+                  <gml:TimeInstant xmlns:gml="http://www.opengis.net/gml" gml:id="boundingTimeInstantExtent">
+                    <gml:timePosition>2007</gml:timePosition>
+                  </gml:TimeInstant>
+                </gmd:extent>
+              </gmd:EX_TemporalExtent>
+            </gmd:temporalElement>
+          </gmd:EX_Extent>
+        </gmd:extent>
+        <gmd:supplementalInformation>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">McLeod County, Minnesota</gco:CharacterString>
+        </gmd:supplementalInformation>
+      </gmd:MD_DataIdentification>
+    </gmd:identificationInfo>
+    <gmd:contentInfo>
+      <gmd:MD_FeatureCatalogueDescription>
+        <gmd:includedWithDataset>
+          <gco:Boolean xmlns:gco="http://www.isotc211.org/2005/gco">false</gco:Boolean>
+        </gmd:includedWithDataset>
+      </gmd:MD_FeatureCatalogueDescription>
+    </gmd:contentInfo>
+    <gmd:distributionInfo>
+      <gmd:MD_Distribution>
+        <gmd:distributor>
+          <gmd:MD_Distributor>
+            <gmd:distributorContact>
+              <gmd:CI_ResponsibleParty>
+                <gmd:individualName>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Nancy Rader</gco:CharacterString>
+                </gmd:individualName>
+                <gmd:organisationName>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Geospatial Information Office (MnGeo)</gco:CharacterString>
+                </gmd:organisationName>
+                <gmd:positionName>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GIS Data Coordinator</gco:CharacterString>
+                </gmd:positionName>
+                <gmd:contactInfo>
+                  <gmd:CI_Contact>
+                    <gmd:phone>
+                      <gmd:CI_Telephone>
+                        <gmd:voice>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-201-2489</gco:CharacterString>
+                        </gmd:voice>
+                        <gmd:facsimile>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-296-6398</gco:CharacterString>
+                        </gmd:facsimile>
+                      </gmd:CI_Telephone>
+                    </gmd:phone>
+                    <gmd:address>
+                      <gmd:CI_Address>
+                        <gmd:deliveryPoint>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">658 Cedar Street, Room 300</gco:CharacterString>
+                        </gmd:deliveryPoint>
+                        <gmd:city>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
+                        </gmd:city>
+                        <gmd:administrativeArea>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
+                        </gmd:administrativeArea>
+                        <gmd:postalCode>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55155</gco:CharacterString>
+                        </gmd:postalCode>
+                        <gmd:electronicMailAddress>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">gisinfo.mngeo@state.mn.us</gco:CharacterString>
+                        </gmd:electronicMailAddress>
+                      </gmd:CI_Address>
+                    </gmd:address>
+                  </gmd:CI_Contact>
+                </gmd:contactInfo>
+                <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="distributor" codeSpace="005"/>
+                </gmd:role>
+              </gmd:CI_ResponsibleParty>
+            </gmd:distributorContact>
+            <gmd:distributionOrderProcess>
+              <gmd:MD_StandardOrderProcess>
+                <gmd:orderingInstructions>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Ordering Instructions: The LiDAR data provided by DNR may be viewed online or downloaded in several ways: 1. MnTOPO website: http://www.dnr.state.mn.us/maps/mntopo/index.html - view data online - download data in Esri and open formats (tiles for most data formats will be mosaicked together during download) - see the help file for details: http://files.dnr.state.mn.us/aboutdnr/gis/mntopo/mntopo_help_document.pdf - the online linkage below links to this site 2. MnGeo's FTP site Use the tile_index.pdf maps to locate the tiles you need. Except for the county file, tiles will not be mosaicked. a. From the county folder: ftp://ftp.lmic.state.mn.us/pub/data/elevation/lidar/county/mcleod/ The county mosaic is named elevation_data.gdb.zip For details of its contents and size, see this table: http://geoint.lmic.state.mn.us/lidar.php b. In the 250k tiles folder: ftp://ftp.lmic.state.mn.us/pub/data/elevation/lidar/q250k/ For more help with Minnesota's LiDAR data, see http://www.mngeo.state.mn.us/chouse/elevation/lidar.html</gco:CharacterString>
+                </gmd:orderingInstructions>
+              </gmd:MD_StandardOrderProcess>
+            </gmd:distributionOrderProcess>
+          </gmd:MD_Distributor>
+        </gmd:distributor>
+        <gmd:transferOptions>
+          <gmd:MD_DigitalTransferOptions>
+            <gmd:onLine>
+              <gmd:CI_OnlineResource>
+                <gmd:linkage>
+                  <gmd:URL>https://gisdata.mn.gov/dataset/elev-lidar-mcleod2007</gmd:URL>
+                </gmd:linkage>
+                <gmd:protocol>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:LINK</gco:CharacterString>
+                </gmd:protocol>
+              </gmd:CI_OnlineResource>
+            </gmd:onLine>
+          </gmd:MD_DigitalTransferOptions>
+        </gmd:transferOptions>
+      </gmd:MD_Distribution>
+    </gmd:distributionInfo>
+    <gmd:dataQualityInfo>
+      <gmd:DQ_DataQuality>
+        <gmd:scope xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+        <gmd:report>
+          <gmd:DQ_AbsoluteExternalPositionalAccuracy>
+            <gmd:nameOfMeasure>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Horizontal Positional Accuracy</gco:CharacterString>
+            </gmd:nameOfMeasure>
+            <gmd:evaluationMethodDescription>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Not available</gco:CharacterString>
+            </gmd:evaluationMethodDescription>
+            <gmd:result>
+              <gmd:DQ_QuantitativeResult>
+                <gmd:valueUnit>
+                  <gml:BaseUnit xmlns:gml="http://www.opengis.net/gml" gml:id="meters">
+                    <gml:identifier codeSpace="meters"/>
+                    <gml:unitsSystem xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.bipm.org/en/si/"/>
+                  </gml:BaseUnit>
+                </gmd:valueUnit>
+              </gmd:DQ_QuantitativeResult>
+            </gmd:result>
+          </gmd:DQ_AbsoluteExternalPositionalAccuracy>
+        </gmd:report>
+        <gmd:report>
+          <gmd:DQ_AbsoluteExternalPositionalAccuracy>
+            <gmd:nameOfMeasure>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Vertical Positional Accuracy</gco:CharacterString>
+            </gmd:nameOfMeasure>
+            <gmd:evaluationMethodDescription>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Not available</gco:CharacterString>
+            </gmd:evaluationMethodDescription>
+            <gmd:result>
+              <gmd:DQ_QuantitativeResult>
+                <gmd:valueUnit>
+                  <gml:BaseUnit xmlns:gml="http://www.opengis.net/gml" gml:id="meters">
+                    <gml:identifier codeSpace="meters"/>
+                    <gml:unitsSystem xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.bipm.org/en/si/"/>
+                  </gml:BaseUnit>
+                </gmd:valueUnit>
+              </gmd:DQ_QuantitativeResult>
+            </gmd:result>
+          </gmd:DQ_AbsoluteExternalPositionalAccuracy>
+        </gmd:report>
+        <gmd:report>
+          <gmd:DQ_CompletenessCommission>
+            <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+          </gmd:DQ_CompletenessCommission>
+        </gmd:report>
+        <gmd:report>
+          <gmd:DQ_CompletenessOmission>
+            <gmd:evaluationMethodDescription>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Data collection of the survey area resulted in a total of 124 flightlines including re-flights and supplemental flights as well as four control lines covering the project area. The range files, flight logs, raw air and ground GPS files were then processed using REALM, a LIDAR processing software package from Optech. Processing began by downloading these files into a REALM database. For redundancy and accuracy purposes, the airborne GPS data were processed from two base stations using POSGPS from Applanix, Inc. The agreement between a minimum of two solutions checked or combined between a minimum of two stations was better than 10 cm in each of X, Y, and Z. These trajectories were used in the processing of the inertial data. The inertial data were processed using POSProc from Applanix, Inc. This software produces an SBET ('smooth best estimate of trajectory') using the GPS trajectory from POSGPS and the roll, pitch and heading information recorded by the POS (Position Orientation System). REALM uses the SBET to generate a set of data points for each laser return in the LAS file format. Each data point is assigned an echo value so it can be segregated based on the first and last pulse information. This project's data were processed in strip form, meaning each flight line was processed independently. Processing the lines individually provides the data analyst with the ability to QC the overlap between lines.</gco:CharacterString>
+            </gmd:evaluationMethodDescription>
+            <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+          </gmd:DQ_CompletenessOmission>
+        </gmd:report>
+        <gmd:report>
+          <gmd:DQ_ConceptualConsistency>
+            <gmd:measureDescription>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">LiDAR was classified and stereo-pairs were generated from LiDAR intensity data which were used to collect breaklines. A surface was generated from the bare earth LiDAR DTM and the collected breakline data to produce one-foot contours and raster DEM at a 5-foot resolution.</gco:CharacterString>
+            </gmd:measureDescription>
+            <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+          </gmd:DQ_ConceptualConsistency>
+        </gmd:report>
+        <gmd:report>
+          <gmd:DQ_NonQuantitativeAttributeAccuracy>
+            <gmd:measureDescription>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">LiDAR DEM Quality Control Report</gco:CharacterString>
+            </gmd:measureDescription>
+            <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="inapplicable"/>
+          </gmd:DQ_NonQuantitativeAttributeAccuracy>
+        </gmd:report>
+        <gmd:lineage>
+          <gmd:LI_Lineage>
+            <gmd:processStep>
+              <gmd:LI_ProcessStep>
+                <gmd:description>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Vendor Processing Steps:
 
 Strips were imported into a project using TerraScan (Terrasolid, Ltd.) and the project management tool GeoCue (GeoCue Corp.). By creating a project the various flightlines are combined while breaking the dataset as a whole into manageable pieces. This process also converted the dataset from geographic coordinates to the Minnesota County Coordinate System (NAD83), McLeod Co utilizing NADCON. The ellipsoid height values were converted to NAVD88 orthometric values using Geoid03, provided by NGS. Individual lines were then checked against adjacent lines to ensure a cohesive dataset. The data from each line were then combined and a classification routine was then run to determine the initial surface model. This initial surface model was then reduced using Optimal Geomatics' proprietary methods to create the final bare-earth dataset. A Triangular Irregular Network (TIN) was generated using the final surface data. Contours were then created from the TIN. The bare-earth data were then checked against the validation points across the project area. The results of these checks showed the DEM fitting the validation points well (see LIDAR DEM Quality Control Report for results). Stereo pairs were generated from the LIDAR intensity data using Geocue and LIDAR1CuePac (Geocue Corp.). LIDARgrammetry was then utilized to collect breaklines where necessary along hydro features to support the contour generation. These breaklines were collected as a 3D element in the MicroStation (Bentley Systems, Inc.) environment utilizing ISSD (Z/I Imaging). The deliverables constituted: LIDAR bare-earth in .LAS format, LIDAR first-return in .LAS format, raster bare-earth DEM in ESRI ArcGRID format at 5-foot resolution, and an ArcGIS File Geodatabase containing one-foot topographic contour data, breaklines, and control points as 3D feature classes. 
 
@@ -486,69 +486,69 @@ Minnesota Department of Natural Resources Processing Steps:
 
 
 All processing was done using ArcGIS V10 and LP360 Extensions</gco:CharacterString>
-                  </gmd:description>
-                </gmd:LI_ProcessStep>
-              </gmd:processStep>
-            </gmd:LI_Lineage>
-          </gmd:lineage>
-        </gmd:DQ_DataQuality>
-      </gmd:dataQualityInfo>
-      <gmd:metadataMaintenance>
-        <gmd:MD_MaintenanceInformation>
-          <gmd:maintenanceAndUpdateFrequency xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
-          <gmd:maintenanceNote>
-            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">This metadata was automatically generated from the Minnesota Geographic Metadata Guidelinesstandard version 1.2 using the January 2013 version of the FGDC CSDGM to ISO 19115-2 transform.</gco:CharacterString>
-          </gmd:maintenanceNote>
-          <gmd:contact>
-            <gmd:CI_ResponsibleParty>
-              <gmd:individualName>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Nancy Rader</gco:CharacterString>
-              </gmd:individualName>
-              <gmd:organisationName>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Geospatial Information Office (MnGeo)</gco:CharacterString>
-              </gmd:organisationName>
-              <gmd:positionName>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GIS Data Coordinator</gco:CharacterString>
-              </gmd:positionName>
-              <gmd:contactInfo>
-                <gmd:CI_Contact>
-                  <gmd:phone>
-                    <gmd:CI_Telephone>
-                      <gmd:voice>
-                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-201-2489</gco:CharacterString>
-                      </gmd:voice>
-                      <gmd:facsimile>
-                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-296-6398</gco:CharacterString>
-                      </gmd:facsimile>
-                    </gmd:CI_Telephone>
-                  </gmd:phone>
-                  <gmd:address>
-                    <gmd:CI_Address>
-                      <gmd:deliveryPoint>
-                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">658 Cedar Street, Room 300</gco:CharacterString>
-                      </gmd:deliveryPoint>
-                      <gmd:city>
-                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
-                      </gmd:city>
-                      <gmd:administrativeArea>
-                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
-                      </gmd:administrativeArea>
-                      <gmd:postalCode>
-                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55155</gco:CharacterString>
-                      </gmd:postalCode>
-                      <gmd:electronicMailAddress>
-                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">gisinfo.mngeo@state.mn.us</gco:CharacterString>
-                      </gmd:electronicMailAddress>
-                    </gmd:CI_Address>
-                  </gmd:address>
-                </gmd:CI_Contact>
-              </gmd:contactInfo>
-              <gmd:role>
-                <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="custodian" codeSpace="002"/>
-              </gmd:role>
-            </gmd:CI_ResponsibleParty>
-          </gmd:contact>
-        </gmd:MD_MaintenanceInformation>
-      </gmd:metadataMaintenance>
-    </gmd:MD_Metadata>
-    
+                </gmd:description>
+              </gmd:LI_ProcessStep>
+            </gmd:processStep>
+          </gmd:LI_Lineage>
+        </gmd:lineage>
+      </gmd:DQ_DataQuality>
+    </gmd:dataQualityInfo>
+    <gmd:metadataMaintenance>
+      <gmd:MD_MaintenanceInformation>
+        <gmd:maintenanceAndUpdateFrequency xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+        <gmd:maintenanceNote>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">This metadata was automatically generated from the Minnesota Geographic Metadata Guidelinesstandard version 1.2 using the January 2013 version of the FGDC CSDGM to ISO 19115-2 transform.</gco:CharacterString>
+        </gmd:maintenanceNote>
+        <gmd:contact>
+          <gmd:CI_ResponsibleParty>
+            <gmd:individualName>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Nancy Rader</gco:CharacterString>
+            </gmd:individualName>
+            <gmd:organisationName>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Geospatial Information Office (MnGeo)</gco:CharacterString>
+            </gmd:organisationName>
+            <gmd:positionName>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GIS Data Coordinator</gco:CharacterString>
+            </gmd:positionName>
+            <gmd:contactInfo>
+              <gmd:CI_Contact>
+                <gmd:phone>
+                  <gmd:CI_Telephone>
+                    <gmd:voice>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-201-2489</gco:CharacterString>
+                    </gmd:voice>
+                    <gmd:facsimile>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-296-6398</gco:CharacterString>
+                    </gmd:facsimile>
+                  </gmd:CI_Telephone>
+                </gmd:phone>
+                <gmd:address>
+                  <gmd:CI_Address>
+                    <gmd:deliveryPoint>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">658 Cedar Street, Room 300</gco:CharacterString>
+                    </gmd:deliveryPoint>
+                    <gmd:city>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
+                    </gmd:city>
+                    <gmd:administrativeArea>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
+                    </gmd:administrativeArea>
+                    <gmd:postalCode>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55155</gco:CharacterString>
+                    </gmd:postalCode>
+                    <gmd:electronicMailAddress>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">gisinfo.mngeo@state.mn.us</gco:CharacterString>
+                    </gmd:electronicMailAddress>
+                  </gmd:CI_Address>
+                </gmd:address>
+              </gmd:CI_Contact>
+            </gmd:contactInfo>
+            <gmd:role>
+              <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="custodian" codeSpace="002"/>
+            </gmd:role>
+          </gmd:CI_ResponsibleParty>
+        </gmd:contact>
+      </gmd:MD_MaintenanceInformation>
+    </gmd:metadataMaintenance>
+  </gmd:MD_Metadata>
+  

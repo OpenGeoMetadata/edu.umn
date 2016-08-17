@@ -1,44 +1,38 @@
 {
 "layer_geom_type_s": "Line", 
-"layer_modified_dt": "2016-07-12T16:17:48.453763Z", 
+"layer_modified_dt": "2016-08-17T15:51:25Z", 
 "solr_geom": "ENVELOPE(-93.02936, -92.74151, 45.29843, 44.73814)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.wcmn.opendata.arcgis.com/datasets/dc49c7a085094bf1bea5084bf75ea34a_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/3fjYPqJf7qalQMlb/arcgis/rest/services/Bikeways_and_Trails/FeatureServer/0\",\"http://schema.org/url\":\"http://data.wcmn.opendata.arcgis.com/datasets/dc49c7a085094bf1bea5084bf75ea34a_0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "dc178935-8e20-4635-9764-39eb60d63ccd", 
+"uuid": "urn-dc178935-8e20-4635-9764-39eb60d63ccd", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"intelligenceMilitary", 
+"transportation", 
 "society", 
-"transportation", 
-"trail", 
-"bikeway", 
-"washington county", 
-"transportation", 
 "recreation", 
-"parks", 
-"ArcGIS", 
-"Service Definition", 
-"sd"
+"bicycles", 
+"trails"
 ], 
-"dct_temporal_sm": "2016", 
-"dc_description_s": "There is no description available.", 
-"dct_issued_s": "2016-06-14T14:59:43.000ZZ", 
+"dct_temporal_sm": "2016-", 
+"dc_description_s": "Location of bikeways and trails in Washington County", 
+"dct_issued_s": "2016-06-12T14:59:43Z", 
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Washington County, MN"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "dc178935-8e20-4635-9764-39eb60d63ccd", 
+"dc_identifier_s": "urn-dc178935-8e20-4635-9764-39eb60d63ccd", 
 "georss_polygon_s": "44.73814 -93.02936 45.29843 -93.02936 45.29843 -92.74151 44.73814 -92.74151 44.73814 -93.02936", 
 "solr_year_i": 2016, 
 "dct_spatial_sm": [
-"Washington County, Minnesota"
+"Washington County, Minnesota", 
+"Minnesota"
 ], 
 "dc_publisher_sm": [
 "Washington County, MN"
 ], 
-"layer_id_s": "urn:dc178935-8e20-4635-9764-39eb60d63ccd", 
+"layer_id_s": "urn:urn-dc178935-8e20-4635-9764-39eb60d63ccd", 
 "georss_box_s": "44.73814 -93.02936 45.29843 -92.74151", 
-"dc_title_s": "Bikeways and Trails", 
-"layer_slug_s": "Minnesota-dc178935-8e20-4635-9764-39eb60d63ccd"
+"dc_title_s": "Bikeways and Trails: Washington County, Minnesota, 2016", 
+"layer_slug_s": "Minnesota-urn-dc178935-8e20-4635-9764-39eb60d63ccd"
 }

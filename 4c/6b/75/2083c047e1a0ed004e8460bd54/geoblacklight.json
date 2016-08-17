@@ -1,41 +1,38 @@
 {
 "layer_geom_type_s": "Line", 
-"layer_modified_dt": "2016-06-28T11:07:13.208867Z", 
+"layer_modified_dt": "2016-08-17T13:00:08Z", 
 "solr_geom": "ENVELOPE(-94.0251, -93.5088, 44.9872, 44.6312)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/a3ff6c0a00e44a2ca0b110332925cff5_6.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.carver.mn.us/arcgis_ea/rest/services/OpenAccess/CC_Hydrography/MapServer/6\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/a3ff6c0a00e44a2ca0b110332925cff5_6\"}", 
 "dc_rights_s": "Public", 
-"uuid": "4c6b7520-83c0-47e1-a0ed-004e8460bd54", 
+"uuid": "urn-4c6b7520-83c0-47e1-a0ed-004e8460bd54", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"geoscientificinformation", 
-"utilitiesCommunications", 
+"geoscientificInformation", 
+"utilitiesCommunication", 
 "inlandWaters", 
-"Carver County", 
-"Public", 
-"Tile", 
-"Stream", 
-"Hydro", 
-"Hydrography"
+"streams", 
+"hydrography"
 ], 
 "dct_temporal_sm": "2014", 
 "dc_description_s": "Nonpublic tiles within Carver County.", 
-"dct_issued_s": "2014-06-05T19:49:56.000ZZ", 
+"dct_issued_s": "2014-05-27T19:49:56Z", 
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Carver County, Minnesota"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "4c6b7520-83c0-47e1-a0ed-004e8460bd54", 
+"dc_identifier_s": "urn-4c6b7520-83c0-47e1-a0ed-004e8460bd54", 
 "georss_polygon_s": "44.6312 -94.0251 44.9872 -94.0251 44.9872 -93.5088 44.6312 -93.5088 44.6312 -94.0251", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Carver County, Minnesota"
+"Carver County, Minnesota", 
+"Minnesota"
 ], 
 "dc_publisher_sm": [
 "Carver County, Minnesota"
 ], 
-"layer_id_s": "urn:4c6b7520-83c0-47e1-a0ed-004e8460bd54", 
+"layer_id_s": "urn:urn-4c6b7520-83c0-47e1-a0ed-004e8460bd54", 
 "georss_box_s": "44.6312 -94.0251 44.9872 -93.5088", 
-"dc_title_s": "Hydrography | NonPublic Tiles", 
-"layer_slug_s": "Minnesota-4c6b7520-83c0-47e1-a0ed-004e8460bd54"
+"dc_title_s": "NonPublic Tiles: Carver County, Minnesota, 2014", 
+"layer_slug_s": "Minnesota-urn-4c6b7520-83c0-47e1-a0ed-004e8460bd54"
 }

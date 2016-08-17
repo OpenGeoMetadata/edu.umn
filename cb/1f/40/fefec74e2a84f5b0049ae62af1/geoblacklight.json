@@ -1,6 +1,6 @@
 {
 "layer_geom_type_s": "Polygon", 
-"layer_modified_dt": "2016-07-11T16:24:43.383621Z", 
+"layer_modified_dt": "2016-08-16T18:17:12Z", 
 "solr_geom": "ENVELOPE(-93.7728, -93.1766, 45.2471, 44.783)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/31f8f02d067f4a7daedf2bb4b7fd7ac4_6.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/BOUNDARIES/MapServer/6\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/31f8f02d067f4a7daedf2bb4b7fd7ac4_6\"}", 
 "dc_rights_s": "Public", 
@@ -8,14 +8,12 @@
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "boundaries", 
-"open data", 
 "boundaries", 
 "schools"
 ], 
-"dct_temporal_sm": "2015", 
-"dc_description_s": "Taxable School Districts derived from polygons defined from School boundary lines and Hennepin County Auditor descriptions of this taxable area. Sub-district polygons are defined for those districts that have established sub-districts for election purposes. The field NAME_TXT contains the Name for each School District Link to Attribute Table Information: http://gis.hennepin.us/OpenData/Metadata/School%20Districts.pdf Data updated: monthly Use Limitations: This data (i) is furnished 'AS IS' with no representation as to completeness or accuracy; (ii) is furnished with no warranty of any kind; and (iii) is not suitable for legal, engineering or surveying purposes. Hennepin County shall not be liable for any damage, injury or loss resulting from this data. General questions about this dataset, including errors, omissions, corrections and/or updates should be directed to the Survey Division, Resident and Real Estate Services Department, Hennepin County at 612-348-3131.", 
-"dct_issued_s": "2015-09-14T20:34:50.000ZZ", 
 "dc_format_s": "Shapefile", 
+"dc_description_s": "Taxable School Districts derived from polygons defined from School boundary lines and Hennepin County Auditor descriptions of this taxable area. Sub-district polygons are defined for those districts that have established sub-districts for election purposes. The field NAME_TXT contains the Name for each School District Link to Attribute Table Information: http://gis.hennepin.us/OpenData/Metadata/School%20Districts.pdf Data updated: monthly Use Limitations: This data (i) is furnished 'AS IS' with no representation as to completeness or accuracy; (ii) is furnished with no warranty of any kind; and (iii) is not suitable for legal, engineering or surveying purposes. Hennepin County shall not be liable for any damage, injury or loss resulting from this data. General questions about this dataset, including errors, omissions, corrections and/or updates should be directed to the Survey Division, Resident and Real Estate Services Department, Hennepin County at 612-348-3131.", 
+"dct_issued_s": "2015-09-13T20:34:50Z", 
 "dc_creator_sm": [
 "Hennepin County"
 ], 

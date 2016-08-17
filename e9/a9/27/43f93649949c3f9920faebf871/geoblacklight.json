@@ -1,22 +1,18 @@
 {
 "layer_geom_type_s": "Polygon", 
-"layer_modified_dt": "2016-06-28T11:10:21.691925Z", 
+"layer_modified_dt": "2016-08-16T19:30:10Z", 
 "solr_geom": "ENVELOPE(-93.9143630214382, -93.2778144669882, 44.8052175749077, 44.5421167064354)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.gis.co.scott.mn.us/datasets/2b5d4140830b4afcb359782d72acb9a5_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/Sections/FeatureServer/0\",\"http://schema.org/url\":\"http://opendata.gis.co.scott.mn.us/datasets/2b5d4140830b4afcb359782d72acb9a5_0\"}", 
 "dc_rights_s": "Public", 
 "uuid": "e9a92743-f936-4994-9c3f-9920faebf871", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"", 
-"Scott County Minnesota", 
-"Sections", 
-"Livable", 
-"Administrative"
+"boundaries", 
+"Sections"
 ], 
-"dct_temporal_sm": "2016", 
-"dc_description_s": "This dataset contains Public Land Survey System sections within Scott County. Attributes include Township, Range, and Section. This data is maintained by the Scott County Survey Department.", 
-"dct_issued_s": "2015-08-29T22:40:04.000ZZ", 
 "dc_format_s": "Shapefile", 
+"dc_description_s": "This dataset contains Public Land Survey System sections within Scott County. Attributes include Township, Range, and Section. This data is maintained by the Scott County Survey Department.", 
+"dct_issued_s": "2015-08-27T22:40:04Z", 
 "dc_creator_sm": [
 "Scott County Minnesota"
 ], 
@@ -32,6 +28,6 @@
 ], 
 "layer_id_s": "urn:e9a92743-f936-4994-9c3f-9920faebf871", 
 "georss_box_s": "44.5421167064354 -93.9143630214382 44.8052175749077 -93.2778144669882", 
-"dc_title_s": "Sections", 
+"dc_title_s": "Sections: Scott County Minnesota, 2015", 
 "layer_slug_s": "Minnesota-e9a92743-f936-4994-9c3f-9920faebf871"
 }

@@ -1,6 +1,6 @@
 {
 "layer_geom_type_s": "Polygon", 
-"layer_modified_dt": "2016-07-11T16:24:22.674214Z", 
+"layer_modified_dt": "2016-08-16T18:17:21Z", 
 "solr_geom": "ENVELOPE(-93.7728, -93.1766, 45.2471, 44.783)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/ec9dc2a51cb5478c91a85b90128adcf5_10.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/BOUNDARIES/MapServer/10\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/ec9dc2a51cb5478c91a85b90128adcf5_10\"}", 
 "dc_rights_s": "Public", 
@@ -8,14 +8,12 @@
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "boundaries", 
-"open data", 
 "boundaries", 
 "politics"
 ], 
-"dct_temporal_sm": "2016", 
-"dc_description_s": "Boundaries represent the 2012 redistricting precincts defined through legal descriptions from the cities redistricting processes. The fields MUNIC_NAME, WARD, and PRECINCT contain the name of each precinct. Link to Attribute Table Information: http://gis.hennepin.us/OpenData/Metadata/Voting%20Precincts.pdf Data updated: monthly Use Limitations: This data (i) is furnished 'AS IS' with no representation as to completeness or accuracy; (ii) is furnished with no warranty of any kind; and (iii) is not suitable for legal, engineering or surveying purposes. Hennepin County shall not be liable for any damage, injury or loss resulting from this data. General questions about this dataset, including errors, omissions, corrections and/or updates should be directed to the Survey Division, Resident and Real Estate Services Department, Hennepin County at 612-348-3131.", 
-"dct_issued_s": "2015-09-14T18:14:27.000ZZ", 
 "dc_format_s": "Shapefile", 
+"dc_description_s": "Boundaries represent the 2012 redistricting precincts defined through legal descriptions from the cities redistricting processes. The fields MUNIC_NAME, WARD, and PRECINCT contain the name of each precinct. Link to Attribute Table Information: http://gis.hennepin.us/OpenData/Metadata/Voting%20Precincts.pdf Data updated: monthly Use Limitations: This data (i) is furnished 'AS IS' with no representation as to completeness or accuracy; (ii) is furnished with no warranty of any kind; and (iii) is not suitable for legal, engineering or surveying purposes. Hennepin County shall not be liable for any damage, injury or loss resulting from this data. General questions about this dataset, including errors, omissions, corrections and/or updates should be directed to the Survey Division, Resident and Real Estate Services Department, Hennepin County at 612-348-3131.", 
+"dct_issued_s": "2015-09-13T18:14:27Z", 
 "dc_creator_sm": [
 "Hennepin County"
 ], 

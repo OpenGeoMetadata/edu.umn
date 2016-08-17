@@ -1,615 +1,615 @@
-<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd">
-      <gmd:fileIdentifier>
-        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">281d01ed-294c-49b9-a309-db629e1486ff</gco:CharacterString>
-      </gmd:fileIdentifier>
-      <gmd:language>
-        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">eng</gco:CharacterString>
-      </gmd:language>
-      <gmd:characterSet>
-        <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="004"/>
-      </gmd:characterSet>
-      <gmd:hierarchyLevel>
-        <gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="005"/>
-      </gmd:hierarchyLevel>
-      <gmd:contact>
-        <gmd:CI_ResponsibleParty>
-          <gmd:individualName>
-            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Nancy Rader</gco:CharacterString>
-          </gmd:individualName>
-          <gmd:organisationName>
-            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesta Geospatial Information Office (MnGeo)</gco:CharacterString>
-          </gmd:organisationName>
-          <gmd:positionName>
-            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GIS Specialist</gco:CharacterString>
-          </gmd:positionName>
-          <gmd:contactInfo>
-            <gmd:CI_Contact>
-              <gmd:phone>
-                <gmd:CI_Telephone>
-                  <gmd:voice>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-201-2489</gco:CharacterString>
-                  </gmd:voice>
-                </gmd:CI_Telephone>
-              </gmd:phone>
-              <gmd:address>
-                <gmd:CI_Address>
-                  <gmd:deliveryPoint>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">658 Cedar Street</gco:CharacterString>
-                  </gmd:deliveryPoint>
-                  <gmd:city>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
-                  </gmd:city>
-                  <gmd:administrativeArea>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
-                  </gmd:administrativeArea>
-                  <gmd:postalCode>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55155</gco:CharacterString>
-                  </gmd:postalCode>
-                  <gmd:electronicMailAddress>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">nancy.rader@state.mn.us</gco:CharacterString>
-                  </gmd:electronicMailAddress>
-                </gmd:CI_Address>
-              </gmd:address>
-            </gmd:CI_Contact>
-          </gmd:contactInfo>
-          <gmd:role>
-            <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="007"/>
-          </gmd:role>
-        </gmd:CI_ResponsibleParty>
-      </gmd:contact>
-      <gmd:dateStamp>
-        <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-07-01T14:38:43</gco:DateTime>
-      </gmd:dateStamp>
-      <gmd:metadataStandardName>
-        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
-      </gmd:metadataStandardName>
-      <gmd:metadataStandardVersion>
-        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2:2009(E)</gco:CharacterString>
-      </gmd:metadataStandardVersion>
-      <gmd:spatialRepresentationInfo>
-        <gmd:MD_GridSpatialRepresentation>
-          <gmd:numberOfDimensions>
-            <gco:Integer xmlns:gco="http://www.isotc211.org/2005/gco">2</gco:Integer>
-          </gmd:numberOfDimensions>
-          <gmd:axisDimensionProperties>
-            <gmd:MD_Dimension>
-              <gmd:dimensionName>
-                <gmd:MD_DimensionNameTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_DimensionNameTypeCode" codeListValue="column"/>
-              </gmd:dimensionName>
-              <gmd:dimensionSize xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
-              <gmd:resolution>
-                <gco:Scale xmlns:gco="http://www.isotc211.org/2005/gco" uom="decimalDegrees">0.000001</gco:Scale>
-              </gmd:resolution>
-            </gmd:MD_Dimension>
-          </gmd:axisDimensionProperties>
-          <gmd:axisDimensionProperties>
-            <gmd:MD_Dimension>
-              <gmd:dimensionName>
-                <gmd:MD_DimensionNameTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_DimensionNameTypeCode" codeListValue="row"/>
-              </gmd:dimensionName>
-              <gmd:dimensionSize xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
-              <gmd:resolution>
-                <gco:Scale xmlns:gco="http://www.isotc211.org/2005/gco" uom="decimalDegrees">0.000001</gco:Scale>
-              </gmd:resolution>
-            </gmd:MD_Dimension>
-          </gmd:axisDimensionProperties>
-          <gmd:cellGeometry>
-            <gmd:MD_CellGeometryCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_CellGeometryCode"/>
-          </gmd:cellGeometry>
-          <gmd:transformationParameterAvailability>
-            <gco:Boolean xmlns:gco="http://www.isotc211.org/2005/gco">false</gco:Boolean>
-          </gmd:transformationParameterAvailability>
-        </gmd:MD_GridSpatialRepresentation>
-      </gmd:spatialRepresentationInfo>
-      <gmd:referenceSystemInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ngdc.noaa.gov/docucomp/65f8b220-95ed-11e0-aa80-0800200c9a66" xlink:title="North American Datum 1983"/>
-      <gmd:referenceSystemInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ngdc.noaa.gov/docucomp/c3895520-95ed-11e0-aa80-0800200c9a66" xlink:title="Geodetic Reference System 1980"/>
-      <gmd:identificationInfo>
-        <gmd:MD_DataIdentification>
-          <gmd:citation>
-            <gmd:CI_Citation>
-              <gmd:title>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">National Hydrography Dataset (NHD), High-Resolution: Minnesota, 2015</gco:CharacterString>
-              </gmd:title>
-              <gmd:date>
-                <gmd:CI_Date>
-                  <gmd:date>
-                    <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2015-04-13</gco:Date>
-                  </gmd:date>
-                  <gmd:dateType>
-                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
-                  </gmd:dateType>
-                </gmd:CI_Date>
-              </gmd:date>
-              <gmd:identifier>
-                <gmd:MD_Identifier>
-                  <gmd:code>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">NHD High Resolution - MN (water_national_hydrography_data)</gco:CharacterString>
-                  </gmd:code>
-                </gmd:MD_Identifier>
-              </gmd:identifier>
-              <gmd:identifier>
-                <gmd:MD_Identifier>
-                  <gmd:code>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">urn-281d01ed-294c-49b9-a309-db629e1486ff</gco:CharacterString>
-                  </gmd:code>
-                </gmd:MD_Identifier>
-              </gmd:identifier>
-              <gmd:citedResponsibleParty>
-                <gmd:CI_ResponsibleParty>
-                  <gmd:organisationName>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">U.S. Geological Survey (USGS) in cooperation with U. S. Environmental Protection Agency and other state and local partners.</gco:CharacterString>
-                  </gmd:organisationName>
-                  <gmd:role>
-                    <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="006"/>
-                  </gmd:role>
-                </gmd:CI_ResponsibleParty>
-              </gmd:citedResponsibleParty>
-              <gmd:citedResponsibleParty>
-                <gmd:CI_ResponsibleParty>
-                  <gmd:organisationName>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">U.S. Geological Survey (USGS)</gco:CharacterString>
-                  </gmd:organisationName>
-                  <gmd:contactInfo>
-                    <gmd:CI_Contact>
-                      <gmd:address>
-                        <gmd:CI_Address>
-                          <gmd:city>
-                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Denver</gco:CharacterString>
-                          </gmd:city>
-                          <gmd:administrativeArea>
-                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">CO</gco:CharacterString>
-                          </gmd:administrativeArea>
-                        </gmd:CI_Address>
-                      </gmd:address>
-                    </gmd:CI_Contact>
-                  </gmd:contactInfo>
-                  <gmd:role>
-                    <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="010"/>
-                  </gmd:role>
-                </gmd:CI_ResponsibleParty>
-              </gmd:citedResponsibleParty>
-            </gmd:CI_Citation>
-          </gmd:citation>
-          <gmd:abstract>
-            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">The National Hydrography Dataset (NHD) is the surface-water component of The National Map. The NHD is a comprehensive set of digital spatial data that represents the surface water of the United States using common features such as lakes, ponds, streams, rivers, canals, stream gages, and dams. Polygons are used to represent area features such as lakes, ponds, and rivers; lines are used to represent linear features such as streams and smaller rivers; and points are used to represent point features such as stream gages and dams. Lines also are used to show the water flow through area features such as the flow of water through a lake. The combination of lines is used to create a network of water and transported material flow to allow users of the data to trace movement in downstream and upstream directions. The Watershed Boundary Dataset (WBD) is a companion dataset to the NHD. It defines the perimeter of drainage areas formed by the terrain and other landscape characteristics. The drainage areas are nested within each other so that a large drainage area, such as the Upper Mississippi River, will be composed of multiple smaller drainage areas, such as the Minnesota River. Each of these smaller areas can further be subdivided into smaller and smaller drainage areas. The WBD uses six different levels in this hierarchy, with the smallest averaging about 30,000 acres. The WBD is made up of polygons nested into six levels of data respectively defined by Regions, Subregions, Basins, Subbasins, Watersheds, and Subwatersheds.</gco:CharacterString>
-          </gmd:abstract>
-          <gmd:purpose>
-            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">These data are designed to be used in general mapping and in the analysis of surface-water systems using geographic information system (GIS) technology. In mapping, the NHD is used with other data themes such as elevation, boundaries, and transportation to produce general reference maps. These maps often serve as base maps for special purpose mapping. A geologic map, for example, may show base map information such as hydrography as a reference. In the analysis of surface water, scientists use the NHD and WBD by applying GIS technology. This application takes advantage of a rich set of embedded attributes that can be processed by a computer system to generate specialized information. This information then can be portrayed in customized maps to better understand the results. These analyses of hydrography are possible largely because the NHD contains the flow-direction network, and uses an addressing system to link specific information about the water from other related databases such as water discharge, water quality, and fish population. Using the basic water features, flow network, linked information, and other characteristics, it is possible to study cause and effect relationships, such as how a source of poor water quality upstream might affect a fish population downstream. The WBD plays an important role in this analysis by outlining the area on the landscape that drains into the flow network defined by the NHD. These data also are linked to the Geographic Names Information System to provide accurate hydrography names. The NHD and WBD often are used as a data source to specific applications such as StreamStats, ICWater, or ArcHydro.</gco:CharacterString>
-          </gmd:purpose>
-          <gmd:credit>
-            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">USGS</gco:CharacterString>
-          </gmd:credit>
-          <gmd:status>
-            <gmd:MD_ProgressCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ProgressCode" codeListValue="completed" codeSpace="001"/>
-          </gmd:status>
-          <gmd:pointOfContact>
-            <gmd:CI_ResponsibleParty>
-              <gmd:individualName>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Jeffrey D. Simley</gco:CharacterString>
-              </gmd:individualName>
-              <gmd:organisationName>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">U.S. Geological Survey</gco:CharacterString>
-              </gmd:organisationName>
-              <gmd:contactInfo>
-                <gmd:CI_Contact>
-                  <gmd:phone>
-                    <gmd:CI_Telephone>
-                      <gmd:voice>
-                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">(303) 202-4131</gco:CharacterString>
-                      </gmd:voice>
-                      <gmd:facsimile>
-                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">(303) 202-4504</gco:CharacterString>
-                      </gmd:facsimile>
-                    </gmd:CI_Telephone>
-                  </gmd:phone>
-                  <gmd:address>
-                    <gmd:CI_Address>
-                      <gmd:deliveryPoint>
-                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Box 25046, MS 510 Denver Federal Center</gco:CharacterString>
-                      </gmd:deliveryPoint>
-                      <gmd:city>
-                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Denver</gco:CharacterString>
-                      </gmd:city>
-                      <gmd:administrativeArea>
-                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">CO</gco:CharacterString>
-                      </gmd:administrativeArea>
-                      <gmd:postalCode>
-                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">80225-0046</gco:CharacterString>
-                      </gmd:postalCode>
-                      <gmd:electronicMailAddress>
-                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">jdsimley@usgs.gov</gco:CharacterString>
-                      </gmd:electronicMailAddress>
-                    </gmd:CI_Address>
-                  </gmd:address>
-                </gmd:CI_Contact>
-              </gmd:contactInfo>
-              <gmd:role>
-                <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="007"/>
-              </gmd:role>
-            </gmd:CI_ResponsibleParty>
-          </gmd:pointOfContact>
-          <gmd:resourceMaintenance>
-            <gmd:MD_MaintenanceInformation>
-              <gmd:maintenanceAndUpdateFrequency>
-                <gmd:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded" codeSpace="009"/>
-              </gmd:maintenanceAndUpdateFrequency>
-            </gmd:MD_MaintenanceInformation>
-          </gmd:resourceMaintenance>
-          <gmd:descriptiveKeywords>
-            <gmd:MD_Keywords>
-              <gmd:type>
-                <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="005">theme</gmd:MD_KeywordTypeCode>
-              </gmd:type>
-              <gmd:thesaurusName>
-                <gmd:CI_Citation>
-                  <gmd:title>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">U.S. Department of the Interior, U.S. Geological Survey, 1999, Standards for National Hydrography Dataset</gco:CharacterString>
-                  </gmd:title>
-                  <gmd:date xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
-                </gmd:CI_Citation>
-              </gmd:thesaurusName>
-            </gmd:MD_Keywords>
-          </gmd:descriptiveKeywords>
-          <gmd:descriptiveKeywords>
-            <gmd:MD_Keywords>
-              <gmd:keyword>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Conterminous United States</gco:CharacterString>
-              </gmd:keyword>
-              <gmd:keyword>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">U.S.</gco:CharacterString>
-              </gmd:keyword>
-              <gmd:keyword>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">US</gco:CharacterString>
-              </gmd:keyword>
-              <gmd:type>
-                <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="002">place</gmd:MD_KeywordTypeCode>
-              </gmd:type>
-              <gmd:thesaurusName>
-                <gmd:CI_Citation>
-                  <gmd:title>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">U.S. Department of Commerce, 1995, Countries, dependencies, areas of sovereignty, and their principal administrative divisions (Federal Information Processing Standard 10-4): Washington, D.C., National Institute of Standards and Technology</gco:CharacterString>
-                  </gmd:title>
-                  <gmd:date xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
-                </gmd:CI_Citation>
-              </gmd:thesaurusName>
-            </gmd:MD_Keywords>
-          </gmd:descriptiveKeywords>
-          <gmd:descriptiveKeywords>
-            <gmd:MD_Keywords>
-              <gmd:keyword>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota</gco:CharacterString>
-              </gmd:keyword>
-              <gmd:type>
-                <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="place"/>
-              </gmd:type>
-              <gmd:thesaurusName>
-                <gmd:CI_Citation>
-                  <gmd:title>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GeoNames</gco:CharacterString>
-                  </gmd:title>
-                  <gmd:date>
-                    <gmd:CI_Date>
-                      <gmd:date>
-                        <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2012-10-29</gco:Date>
-                      </gmd:date>
-                      <gmd:dateType>
-                        <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
-                      </gmd:dateType>
-                    </gmd:CI_Date>
-                  </gmd:date>
-                  <gmd:identifier>
-                    <gmd:MD_Identifier>
-                      <gmd:code>
-                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">http://www.geonames.org/ontology/ontology_v3.1.rdf</gco:CharacterString>
-                      </gmd:code>
-                    </gmd:MD_Identifier>
-                  </gmd:identifier>
-                </gmd:CI_Citation>
-              </gmd:thesaurusName>
-            </gmd:MD_Keywords>
-          </gmd:descriptiveKeywords>
-          <gmd:resourceConstraints>
-            <gmd:MD_LegalConstraints>
-              <gmd:accessConstraints>
-                <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="008"/>
-              </gmd:accessConstraints>
-              <gmd:useConstraints>
-                <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="008"/>
-              </gmd:useConstraints>
-              <gmd:otherConstraints>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Access Constraints: None Use Constraints: None. Acknowledgment of the originating agencies would be appreciated in products derived from these data. Distribution Liability: From USGS: "We make every effort to provide and maintain accurate, complete, usable, and timely information on our Web sites. However, some USGS data and information accessed through these pages may, of necessity, be preliminary in nature and presented prior to final review and approval by the Director of the USGS. These data and information are provided with the understanding that they are not guaranteed to be correct or complete. Users are cautioned to consider carefully the provisional nature of these data and information before using them for decisions that concern personal or public safety or the conduct of business that involves substantial monetary or operational consequences. Conclusions drawn from, or actions undertaken on the basis of, such data and information are the sole responsibility of the user."</gco:CharacterString>
-              </gmd:otherConstraints>
-            </gmd:MD_LegalConstraints>
-          </gmd:resourceConstraints>
-          <gmd:aggregationInfo>
-            <gmd:MD_AggregateInformation>
-              <gmd:aggregateDataSetName>
-                <gmd:CI_Citation>
-                  <gmd:title>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">National Hydrography Dataset (NHD) main site (includes WBD):
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd">
+    <gmd:fileIdentifier>
+      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">281d01ed-294c-49b9-a309-db629e1486ff</gco:CharacterString>
+    </gmd:fileIdentifier>
+    <gmd:language>
+      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">eng</gco:CharacterString>
+    </gmd:language>
+    <gmd:characterSet>
+      <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="004"/>
+    </gmd:characterSet>
+    <gmd:hierarchyLevel>
+      <gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="005"/>
+    </gmd:hierarchyLevel>
+    <gmd:contact>
+      <gmd:CI_ResponsibleParty>
+        <gmd:individualName>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Nancy Rader</gco:CharacterString>
+        </gmd:individualName>
+        <gmd:organisationName>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesta Geospatial Information Office (MnGeo)</gco:CharacterString>
+        </gmd:organisationName>
+        <gmd:positionName>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GIS Specialist</gco:CharacterString>
+        </gmd:positionName>
+        <gmd:contactInfo>
+          <gmd:CI_Contact>
+            <gmd:phone>
+              <gmd:CI_Telephone>
+                <gmd:voice>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-201-2489</gco:CharacterString>
+                </gmd:voice>
+              </gmd:CI_Telephone>
+            </gmd:phone>
+            <gmd:address>
+              <gmd:CI_Address>
+                <gmd:deliveryPoint>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">658 Cedar Street</gco:CharacterString>
+                </gmd:deliveryPoint>
+                <gmd:city>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
+                </gmd:city>
+                <gmd:administrativeArea>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
+                </gmd:administrativeArea>
+                <gmd:postalCode>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55155</gco:CharacterString>
+                </gmd:postalCode>
+                <gmd:electronicMailAddress>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">nancy.rader@state.mn.us</gco:CharacterString>
+                </gmd:electronicMailAddress>
+              </gmd:CI_Address>
+            </gmd:address>
+          </gmd:CI_Contact>
+        </gmd:contactInfo>
+        <gmd:role>
+          <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="007"/>
+        </gmd:role>
+      </gmd:CI_ResponsibleParty>
+    </gmd:contact>
+    <gmd:dateStamp>
+      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-07-01T14:38:43</gco:DateTime>
+    </gmd:dateStamp>
+    <gmd:metadataStandardName>
+      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
+    </gmd:metadataStandardName>
+    <gmd:metadataStandardVersion>
+      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2:2009(E)</gco:CharacterString>
+    </gmd:metadataStandardVersion>
+    <gmd:spatialRepresentationInfo>
+      <gmd:MD_GridSpatialRepresentation>
+        <gmd:numberOfDimensions>
+          <gco:Integer xmlns:gco="http://www.isotc211.org/2005/gco">2</gco:Integer>
+        </gmd:numberOfDimensions>
+        <gmd:axisDimensionProperties>
+          <gmd:MD_Dimension>
+            <gmd:dimensionName>
+              <gmd:MD_DimensionNameTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_DimensionNameTypeCode" codeListValue="column"/>
+            </gmd:dimensionName>
+            <gmd:dimensionSize xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+            <gmd:resolution>
+              <gco:Scale xmlns:gco="http://www.isotc211.org/2005/gco" uom="decimalDegrees">0.000001</gco:Scale>
+            </gmd:resolution>
+          </gmd:MD_Dimension>
+        </gmd:axisDimensionProperties>
+        <gmd:axisDimensionProperties>
+          <gmd:MD_Dimension>
+            <gmd:dimensionName>
+              <gmd:MD_DimensionNameTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_DimensionNameTypeCode" codeListValue="row"/>
+            </gmd:dimensionName>
+            <gmd:dimensionSize xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+            <gmd:resolution>
+              <gco:Scale xmlns:gco="http://www.isotc211.org/2005/gco" uom="decimalDegrees">0.000001</gco:Scale>
+            </gmd:resolution>
+          </gmd:MD_Dimension>
+        </gmd:axisDimensionProperties>
+        <gmd:cellGeometry>
+          <gmd:MD_CellGeometryCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_CellGeometryCode"/>
+        </gmd:cellGeometry>
+        <gmd:transformationParameterAvailability>
+          <gco:Boolean xmlns:gco="http://www.isotc211.org/2005/gco">false</gco:Boolean>
+        </gmd:transformationParameterAvailability>
+      </gmd:MD_GridSpatialRepresentation>
+    </gmd:spatialRepresentationInfo>
+    <gmd:referenceSystemInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ngdc.noaa.gov/docucomp/65f8b220-95ed-11e0-aa80-0800200c9a66" xlink:title="North American Datum 1983"/>
+    <gmd:referenceSystemInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ngdc.noaa.gov/docucomp/c3895520-95ed-11e0-aa80-0800200c9a66" xlink:title="Geodetic Reference System 1980"/>
+    <gmd:identificationInfo>
+      <gmd:MD_DataIdentification>
+        <gmd:citation>
+          <gmd:CI_Citation>
+            <gmd:title>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">National Hydrography Dataset (NHD), High-Resolution: Minnesota, 2015</gco:CharacterString>
+            </gmd:title>
+            <gmd:date>
+              <gmd:CI_Date>
+                <gmd:date>
+                  <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2015-04-13</gco:Date>
+                </gmd:date>
+                <gmd:dateType>
+                  <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                </gmd:dateType>
+              </gmd:CI_Date>
+            </gmd:date>
+            <gmd:identifier>
+              <gmd:MD_Identifier>
+                <gmd:code>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">NHD High Resolution - MN (water_national_hydrography_data)</gco:CharacterString>
+                </gmd:code>
+              </gmd:MD_Identifier>
+            </gmd:identifier>
+            <gmd:identifier>
+              <gmd:MD_Identifier>
+                <gmd:code>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">urn-281d01ed-294c-49b9-a309-db629e1486ff</gco:CharacterString>
+                </gmd:code>
+              </gmd:MD_Identifier>
+            </gmd:identifier>
+            <gmd:citedResponsibleParty>
+              <gmd:CI_ResponsibleParty>
+                <gmd:organisationName>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">U.S. Geological Survey (USGS) in cooperation with U. S. Environmental Protection Agency and other state and local partners.</gco:CharacterString>
+                </gmd:organisationName>
+                <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="006"/>
+                </gmd:role>
+              </gmd:CI_ResponsibleParty>
+            </gmd:citedResponsibleParty>
+            <gmd:citedResponsibleParty>
+              <gmd:CI_ResponsibleParty>
+                <gmd:organisationName>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">U.S. Geological Survey (USGS)</gco:CharacterString>
+                </gmd:organisationName>
+                <gmd:contactInfo>
+                  <gmd:CI_Contact>
+                    <gmd:address>
+                      <gmd:CI_Address>
+                        <gmd:city>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Denver</gco:CharacterString>
+                        </gmd:city>
+                        <gmd:administrativeArea>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">CO</gco:CharacterString>
+                        </gmd:administrativeArea>
+                      </gmd:CI_Address>
+                    </gmd:address>
+                  </gmd:CI_Contact>
+                </gmd:contactInfo>
+                <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="010"/>
+                </gmd:role>
+              </gmd:CI_ResponsibleParty>
+            </gmd:citedResponsibleParty>
+          </gmd:CI_Citation>
+        </gmd:citation>
+        <gmd:abstract>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">The National Hydrography Dataset (NHD) is the surface-water component of The National Map. The NHD is a comprehensive set of digital spatial data that represents the surface water of the United States using common features such as lakes, ponds, streams, rivers, canals, stream gages, and dams. Polygons are used to represent area features such as lakes, ponds, and rivers; lines are used to represent linear features such as streams and smaller rivers; and points are used to represent point features such as stream gages and dams. Lines also are used to show the water flow through area features such as the flow of water through a lake. The combination of lines is used to create a network of water and transported material flow to allow users of the data to trace movement in downstream and upstream directions. The Watershed Boundary Dataset (WBD) is a companion dataset to the NHD. It defines the perimeter of drainage areas formed by the terrain and other landscape characteristics. The drainage areas are nested within each other so that a large drainage area, such as the Upper Mississippi River, will be composed of multiple smaller drainage areas, such as the Minnesota River. Each of these smaller areas can further be subdivided into smaller and smaller drainage areas. The WBD uses six different levels in this hierarchy, with the smallest averaging about 30,000 acres. The WBD is made up of polygons nested into six levels of data respectively defined by Regions, Subregions, Basins, Subbasins, Watersheds, and Subwatersheds.</gco:CharacterString>
+        </gmd:abstract>
+        <gmd:purpose>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">These data are designed to be used in general mapping and in the analysis of surface-water systems using geographic information system (GIS) technology. In mapping, the NHD is used with other data themes such as elevation, boundaries, and transportation to produce general reference maps. These maps often serve as base maps for special purpose mapping. A geologic map, for example, may show base map information such as hydrography as a reference. In the analysis of surface water, scientists use the NHD and WBD by applying GIS technology. This application takes advantage of a rich set of embedded attributes that can be processed by a computer system to generate specialized information. This information then can be portrayed in customized maps to better understand the results. These analyses of hydrography are possible largely because the NHD contains the flow-direction network, and uses an addressing system to link specific information about the water from other related databases such as water discharge, water quality, and fish population. Using the basic water features, flow network, linked information, and other characteristics, it is possible to study cause and effect relationships, such as how a source of poor water quality upstream might affect a fish population downstream. The WBD plays an important role in this analysis by outlining the area on the landscape that drains into the flow network defined by the NHD. These data also are linked to the Geographic Names Information System to provide accurate hydrography names. The NHD and WBD often are used as a data source to specific applications such as StreamStats, ICWater, or ArcHydro.</gco:CharacterString>
+        </gmd:purpose>
+        <gmd:credit>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">USGS</gco:CharacterString>
+        </gmd:credit>
+        <gmd:status>
+          <gmd:MD_ProgressCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ProgressCode" codeListValue="completed" codeSpace="001"/>
+        </gmd:status>
+        <gmd:pointOfContact>
+          <gmd:CI_ResponsibleParty>
+            <gmd:individualName>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Jeffrey D. Simley</gco:CharacterString>
+            </gmd:individualName>
+            <gmd:organisationName>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">U.S. Geological Survey</gco:CharacterString>
+            </gmd:organisationName>
+            <gmd:contactInfo>
+              <gmd:CI_Contact>
+                <gmd:phone>
+                  <gmd:CI_Telephone>
+                    <gmd:voice>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">(303) 202-4131</gco:CharacterString>
+                    </gmd:voice>
+                    <gmd:facsimile>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">(303) 202-4504</gco:CharacterString>
+                    </gmd:facsimile>
+                  </gmd:CI_Telephone>
+                </gmd:phone>
+                <gmd:address>
+                  <gmd:CI_Address>
+                    <gmd:deliveryPoint>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Box 25046, MS 510 Denver Federal Center</gco:CharacterString>
+                    </gmd:deliveryPoint>
+                    <gmd:city>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Denver</gco:CharacterString>
+                    </gmd:city>
+                    <gmd:administrativeArea>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">CO</gco:CharacterString>
+                    </gmd:administrativeArea>
+                    <gmd:postalCode>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">80225-0046</gco:CharacterString>
+                    </gmd:postalCode>
+                    <gmd:electronicMailAddress>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">jdsimley@usgs.gov</gco:CharacterString>
+                    </gmd:electronicMailAddress>
+                  </gmd:CI_Address>
+                </gmd:address>
+              </gmd:CI_Contact>
+            </gmd:contactInfo>
+            <gmd:role>
+              <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="007"/>
+            </gmd:role>
+          </gmd:CI_ResponsibleParty>
+        </gmd:pointOfContact>
+        <gmd:resourceMaintenance>
+          <gmd:MD_MaintenanceInformation>
+            <gmd:maintenanceAndUpdateFrequency>
+              <gmd:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded" codeSpace="009"/>
+            </gmd:maintenanceAndUpdateFrequency>
+          </gmd:MD_MaintenanceInformation>
+        </gmd:resourceMaintenance>
+        <gmd:descriptiveKeywords>
+          <gmd:MD_Keywords>
+            <gmd:type>
+              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="005">theme</gmd:MD_KeywordTypeCode>
+            </gmd:type>
+            <gmd:thesaurusName>
+              <gmd:CI_Citation>
+                <gmd:title>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">U.S. Department of the Interior, U.S. Geological Survey, 1999, Standards for National Hydrography Dataset</gco:CharacterString>
+                </gmd:title>
+                <gmd:date xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+              </gmd:CI_Citation>
+            </gmd:thesaurusName>
+          </gmd:MD_Keywords>
+        </gmd:descriptiveKeywords>
+        <gmd:descriptiveKeywords>
+          <gmd:MD_Keywords>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Conterminous United States</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">U.S.</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">US</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:type>
+              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="002">place</gmd:MD_KeywordTypeCode>
+            </gmd:type>
+            <gmd:thesaurusName>
+              <gmd:CI_Citation>
+                <gmd:title>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">U.S. Department of Commerce, 1995, Countries, dependencies, areas of sovereignty, and their principal administrative divisions (Federal Information Processing Standard 10-4): Washington, D.C., National Institute of Standards and Technology</gco:CharacterString>
+                </gmd:title>
+                <gmd:date xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+              </gmd:CI_Citation>
+            </gmd:thesaurusName>
+          </gmd:MD_Keywords>
+        </gmd:descriptiveKeywords>
+        <gmd:descriptiveKeywords>
+          <gmd:MD_Keywords>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:type>
+              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="place"/>
+            </gmd:type>
+            <gmd:thesaurusName>
+              <gmd:CI_Citation>
+                <gmd:title>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GeoNames</gco:CharacterString>
+                </gmd:title>
+                <gmd:date>
+                  <gmd:CI_Date>
+                    <gmd:date>
+                      <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2012-10-29</gco:Date>
+                    </gmd:date>
+                    <gmd:dateType>
+                      <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                    </gmd:dateType>
+                  </gmd:CI_Date>
+                </gmd:date>
+                <gmd:identifier>
+                  <gmd:MD_Identifier>
+                    <gmd:code>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">http://www.geonames.org/ontology/ontology_v3.1.rdf</gco:CharacterString>
+                    </gmd:code>
+                  </gmd:MD_Identifier>
+                </gmd:identifier>
+              </gmd:CI_Citation>
+            </gmd:thesaurusName>
+          </gmd:MD_Keywords>
+        </gmd:descriptiveKeywords>
+        <gmd:resourceConstraints>
+          <gmd:MD_LegalConstraints>
+            <gmd:accessConstraints>
+              <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="008"/>
+            </gmd:accessConstraints>
+            <gmd:useConstraints>
+              <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="008"/>
+            </gmd:useConstraints>
+            <gmd:otherConstraints>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Access Constraints: None Use Constraints: None. Acknowledgment of the originating agencies would be appreciated in products derived from these data. Distribution Liability: From USGS: "We make every effort to provide and maintain accurate, complete, usable, and timely information on our Web sites. However, some USGS data and information accessed through these pages may, of necessity, be preliminary in nature and presented prior to final review and approval by the Director of the USGS. These data and information are provided with the understanding that they are not guaranteed to be correct or complete. Users are cautioned to consider carefully the provisional nature of these data and information before using them for decisions that concern personal or public safety or the conduct of business that involves substantial monetary or operational consequences. Conclusions drawn from, or actions undertaken on the basis of, such data and information are the sole responsibility of the user."</gco:CharacterString>
+            </gmd:otherConstraints>
+          </gmd:MD_LegalConstraints>
+        </gmd:resourceConstraints>
+        <gmd:aggregationInfo>
+          <gmd:MD_AggregateInformation>
+            <gmd:aggregateDataSetName>
+              <gmd:CI_Citation>
+                <gmd:title>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">National Hydrography Dataset (NHD) main site (includes WBD):
 
 http://nhd.usgs.gov 
 
 A state subset of NHD is also available through the state's Geographic Data  Resource Site (GDRS).</gco:CharacterString>
-                  </gmd:title>
-                  <gmd:date>
-                    <gmd:CI_Date>
-                      <gmd:date>
-                        <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2010-04-15</gco:Date>
-                      </gmd:date>
-                      <gmd:dateType>
-                        <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
-                      </gmd:dateType>
-                    </gmd:CI_Date>
-                  </gmd:date>
-                  <gmd:citedResponsibleParty>
-                    <gmd:CI_ResponsibleParty>
-                      <gmd:organisationName>
-                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">U.S. Geological Survey</gco:CharacterString>
-                      </gmd:organisationName>
-                      <gmd:role>
-                        <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="006"/>
-                      </gmd:role>
-                    </gmd:CI_ResponsibleParty>
-                  </gmd:citedResponsibleParty>
-                  <gmd:citedResponsibleParty>
-                    <gmd:CI_ResponsibleParty>
-                      <gmd:organisationName>
-                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">USGS</gco:CharacterString>
-                      </gmd:organisationName>
-                      <gmd:contactInfo>
-                        <gmd:CI_Contact>
-                          <gmd:address>
-                            <gmd:CI_Address>
-                              <gmd:city>
-                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Denver</gco:CharacterString>
-                              </gmd:city>
-                              <gmd:administrativeArea>
-                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">CO</gco:CharacterString>
-                              </gmd:administrativeArea>
-                            </gmd:CI_Address>
-                          </gmd:address>
-                          <gmd:onlineResource>
-                            <gmd:CI_OnlineResource>
-                              <gmd:linkage>
-                                <gmd:URL>http://services.nationalmap.gov/ArcGIS/services/nhd/MapServer/WMSServer?</gmd:URL>
-                              </gmd:linkage>
-                            </gmd:CI_OnlineResource>
-                          </gmd:onlineResource>
-                          <gmd:onlineResource>
-                            <gmd:CI_OnlineResource>
-                              <gmd:linkage>
-                                <gmd:URL>http://nhd.usgs.gov/</gmd:URL>
-                              </gmd:linkage>
-                            </gmd:CI_OnlineResource>
-                          </gmd:onlineResource>
-                          <gmd:onlineResource>
-                            <gmd:CI_OnlineResource>
-                              <gmd:linkage>
-                                <gmd:URL>http://www.ncgc.nrcs.usda.gov/products/datasets/watershed/</gmd:URL>
-                              </gmd:linkage>
-                            </gmd:CI_OnlineResource>
-                          </gmd:onlineResource>
-                        </gmd:CI_Contact>
-                      </gmd:contactInfo>
-                      <gmd:role>
-                        <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="010"/>
-                      </gmd:role>
-                    </gmd:CI_ResponsibleParty>
-                  </gmd:citedResponsibleParty>
-                </gmd:CI_Citation>
-              </gmd:aggregateDataSetName>
-              <gmd:associationType>
-                <gmd:DS_AssociationTypeCode codeListValue="crossReference" codeSpace="001" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#DS_AssociationTypeCode"/>
-              </gmd:associationType>
-            </gmd:MD_AggregateInformation>
-          </gmd:aggregationInfo>
-          <gmd:spatialRepresentationType>
-            <gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="001"/>
-          </gmd:spatialRepresentationType>
-          <gmd:language>
-            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">eng</gco:CharacterString>
-          </gmd:language>
-          <gmd:topicCategory>
-            <gmd:MD_TopicCategoryCode>inlandWaters</gmd:MD_TopicCategoryCode>
-          </gmd:topicCategory>
-          <gmd:environmentDescription>
-            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Native Dataset Environment: Microsoft Windows XP Professional Version 2002 Service Pack 2; ESRI ArcCatalog 9.3.1 (Build 3000)</gco:CharacterString>
-          </gmd:environmentDescription>
-          <gmd:extent>
-            <gmd:EX_Extent id="boundingExtent">
-              <gmd:geographicElement>
-                <gmd:EX_GeographicBoundingBox id="boundingGeographicBoundingBox">
-                  <gmd:westBoundLongitude>
-                    <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">-98.4</gco:Decimal>
-                  </gmd:westBoundLongitude>
-                  <gmd:eastBoundLongitude>
-                    <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">-89</gco:Decimal>
-                  </gmd:eastBoundLongitude>
-                  <gmd:southBoundLatitude>
-                    <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">41.7</gco:Decimal>
-                  </gmd:southBoundLatitude>
-                  <gmd:northBoundLatitude>
-                    <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">49.9</gco:Decimal>
-                  </gmd:northBoundLatitude>
-                </gmd:EX_GeographicBoundingBox>
-              </gmd:geographicElement>
-              <gmd:temporalElement>
-                <gmd:EX_TemporalExtent>
-                  <gmd:extent>
-                    <gml:TimePeriod xmlns:gml="http://www.opengis.net/gml" gml:id="d239418e494a1052958">
-                      <gml:beginPosition/>
-                    </gml:TimePeriod>
-                  </gmd:extent>
-                </gmd:EX_TemporalExtent>
-              </gmd:temporalElement>
-            </gmd:EX_Extent>
-          </gmd:extent>
-          <gmd:supplementalInformation>
-            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota, statewide.  80 subbasins (WBD HU_8 units covering the state of Minnesota). Note that NHD is a nationwide dataset - this distribution is for Minnesota's area of interest only.  Since the NHD state extract covers full HUC-8 areas (subasins), there is some overlap of data into adjacent states and provinces.</gco:CharacterString>
-          </gmd:supplementalInformation>
-        </gmd:MD_DataIdentification>
-      </gmd:identificationInfo>
-      <gmd:contentInfo>
-        <gmd:MD_FeatureCatalogueDescription>
-          <gmd:includedWithDataset>
-            <gco:Boolean xmlns:gco="http://www.isotc211.org/2005/gco">false</gco:Boolean>
-          </gmd:includedWithDataset>
-        </gmd:MD_FeatureCatalogueDescription>
-      </gmd:contentInfo>
-      <gmd:distributionInfo>
-        <gmd:MD_Distribution>
-          <gmd:distributor>
-            <gmd:MD_Distributor>
-              <gmd:distributorContact>
-                <gmd:CI_ResponsibleParty>
-                  <gmd:individualName>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Jeffrey D. Simley</gco:CharacterString>
-                  </gmd:individualName>
-                  <gmd:organisationName>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">U.S. Geological Survey</gco:CharacterString>
-                  </gmd:organisationName>
-                  <gmd:contactInfo>
-                    <gmd:CI_Contact>
-                      <gmd:phone>
-                        <gmd:CI_Telephone>
-                          <gmd:voice>
-                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">(303) 202-4131</gco:CharacterString>
-                          </gmd:voice>
-                          <gmd:facsimile>
-                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">(303) 202-4504</gco:CharacterString>
-                          </gmd:facsimile>
-                        </gmd:CI_Telephone>
-                      </gmd:phone>
-                      <gmd:address>
-                        <gmd:CI_Address>
-                          <gmd:deliveryPoint>
-                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Box 25046, MS 510 Denver Federal Center</gco:CharacterString>
-                          </gmd:deliveryPoint>
-                          <gmd:city>
-                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Denver</gco:CharacterString>
-                          </gmd:city>
-                          <gmd:administrativeArea>
-                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">CO</gco:CharacterString>
-                          </gmd:administrativeArea>
-                          <gmd:postalCode>
-                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">80225-0046</gco:CharacterString>
-                          </gmd:postalCode>
-                          <gmd:electronicMailAddress>
-                            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">jdsimley@usgs.gov</gco:CharacterString>
-                          </gmd:electronicMailAddress>
-                        </gmd:CI_Address>
-                      </gmd:address>
-                    </gmd:CI_Contact>
-                  </gmd:contactInfo>
-                  <gmd:role>
-                    <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="distributor" codeSpace="005"/>
-                  </gmd:role>
-                </gmd:CI_ResponsibleParty>
-              </gmd:distributorContact>
-              <gmd:distributionOrderProcess>
-                <gmd:MD_StandardOrderProcess>
-                  <gmd:orderingInstructions>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Ordering Instructions: Download of individual subbasins (HUC-8's) or groups of subbasins is available through the USGS National Map application/NHD Viewer http://viewer.nationalmap.gov/viewer/. Prestaged subregions (HUC-4's - e.g., St. Croix River Basin, Minnesota River Basin) can be downloaded from ftp://nhdftp.usgs.gov/DataSets/Staged/SubRegions/. A full state extract in file geodatabase format can be downloaded from ftp://nhdftp.usgs.gov/DataSets/Staged/States/ NWIS Stream gages and NID dams as NHD events can be downloaded from: ftp://nhdftp.usgs.gov/DataSets/National// The Minnesota Geospatial Commons distributes the latest version of the USGS state extract in file geodatabase and shapefile formats.Because the state extract includes full HUC-8 delineations this file overlaps into adjacent states and provinces. The Online Linkage below points to this version of the dataset.</gco:CharacterString>
-                  </gmd:orderingInstructions>
-                </gmd:MD_StandardOrderProcess>
-              </gmd:distributionOrderProcess>
-            </gmd:MD_Distributor>
-          </gmd:distributor>
-          <gmd:transferOptions>
-            <gmd:MD_DigitalTransferOptions>
-              <gmd:onLine>
-                <gmd:CI_OnlineResource>
-                  <gmd:linkage>
-                    <gmd:URL>https://gisdata.mn.gov/dataset/water-national-hydrography-data</gmd:URL>
-                  </gmd:linkage>
-                  <gmd:protocol>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:LINK</gco:CharacterString>
-                  </gmd:protocol>
-                </gmd:CI_OnlineResource>
-              </gmd:onLine>
-            </gmd:MD_DigitalTransferOptions>
-          </gmd:transferOptions>
-        </gmd:MD_Distribution>
-      </gmd:distributionInfo>
-      <gmd:dataQualityInfo>
-        <gmd:DQ_DataQuality>
-          <gmd:scope xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
-          <gmd:report>
-            <gmd:DQ_AbsoluteExternalPositionalAccuracy>
-              <gmd:nameOfMeasure>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Horizontal Positional Accuracy</gco:CharacterString>
-              </gmd:nameOfMeasure>
-              <gmd:evaluationMethodDescription>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">(At map scale)&gt; Features with like dimensionality (for example, features that all are delineated with lines), or with or without like characteristics, that are within the tolerance are aligned by moving the features equally to a common point. Features outside the tolerance are not moved. Instead, a feature of type=connector is added to join the features. For any given area, feature-level metadata exists describing the original data capture sources and techniques and sources and any subsequent edits.</gco:CharacterString>
-              </gmd:evaluationMethodDescription>
-              <gmd:result>
-                <gmd:DQ_QuantitativeResult>
-                  <gmd:valueUnit>
-                    <gml:BaseUnit xmlns:gml="http://www.opengis.net/gml" gml:id="meters">
-                      <gml:identifier codeSpace="meters"/>
-                      <gml:unitsSystem xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.bipm.org/en/si/"/>
-                    </gml:BaseUnit>
-                  </gmd:valueUnit>
-                </gmd:DQ_QuantitativeResult>
-              </gmd:result>
-            </gmd:DQ_AbsoluteExternalPositionalAccuracy>
-          </gmd:report>
-          <gmd:report>
-            <gmd:DQ_AbsoluteExternalPositionalAccuracy>
-              <gmd:nameOfMeasure>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Vertical Positional Accuracy</gco:CharacterString>
-              </gmd:nameOfMeasure>
-              <gmd:evaluationMethodDescription>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Statements of vertical positional accuracy for elevation of water surfaces are based on accuracy satements made for U.S. Geological Survey topographic Quadrangle maps. These maps were compiled to meet National Map Accuracy Standards. For vertical accuracy this stndard is met if at least 90 percent of well-defined points tested are within on-half contour interval of the correct value. Elevations of water surface printon on the published maps meet this standard. The contour intervals of themaps vary. These elevations were trasncribed into the digital data. The accuracy of this transcription was checked by visual comparison between the data and the map.</gco:CharacterString>
-              </gmd:evaluationMethodDescription>
-              <gmd:result>
-                <gmd:DQ_QuantitativeResult>
-                  <gmd:valueUnit>
-                    <gml:BaseUnit xmlns:gml="http://www.opengis.net/gml" gml:id="meters">
-                      <gml:identifier codeSpace="meters"/>
-                      <gml:unitsSystem xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.bipm.org/en/si/"/>
-                    </gml:BaseUnit>
-                  </gmd:valueUnit>
-                </gmd:DQ_QuantitativeResult>
-              </gmd:result>
-            </gmd:DQ_AbsoluteExternalPositionalAccuracy>
-          </gmd:report>
-          <gmd:report>
-            <gmd:DQ_CompletenessCommission>
-              <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
-            </gmd:DQ_CompletenessCommission>
-          </gmd:report>
-          <gmd:report>
-            <gmd:DQ_CompletenessOmission>
-              <gmd:evaluationMethodDescription>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Entire state is available. Border watersheds include linework from adjacent states and Canada. Detailed capture conditions are provided for every feature type in the Standards for National Hydrography Dataset - High Resolution available online at http://nationalmap.gov/standards/pdf/NHDH0799.PDF. In some areas USGS or state partners have revised linework based on newer aerial imagery. Feature-based metadata in the dataset tracks edit cycles.</gco:CharacterString>
-              </gmd:evaluationMethodDescription>
-              <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
-            </gmd:DQ_CompletenessOmission>
-          </gmd:report>
-          <gmd:report>
-            <gmd:DQ_ConceptualConsistency>
-              <gmd:measureDescription>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Points, nodes, lines, and areas conform to topological rules. Lines intersect only at nodes, and all nodes anchor the ends of lines. Lines do not overshoot or undershoot other lines where they are supposed to meet. There are no duplicate lines. Lines bound areas and lines identify the areas to the left and right of those lines. Gaps and overlaps among areas do not exist. All areas close.</gco:CharacterString>
-              </gmd:measureDescription>
-              <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
-            </gmd:DQ_ConceptualConsistency>
-          </gmd:report>
-          <gmd:report>
-            <gmd:DQ_NonQuantitativeAttributeAccuracy>
-              <gmd:measureDescription>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">The entry and identifier for the names match those in the Geographic Names Information System.  The association of each name to reaches has been interactively checked.  However, operator error could in some cases apply a name to the wrong reach.</gco:CharacterString>
-              </gmd:measureDescription>
-              <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="inapplicable"/>
-            </gmd:DQ_NonQuantitativeAttributeAccuracy>
-          </gmd:report>
-          <gmd:lineage>
-            <gmd:LI_Lineage>
-              <gmd:processStep>
-                <gmd:LI_ProcessStep>
-                  <gmd:description>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">High-res NHD Creation processing and update processing is generally done a subbasin (HUC-8) unit at a time. An exception to this is the creation or updating of stream gage and dam events, which is generally done at a subregion (HUC-4) level.  Feature-level metadata is stored in the database. Creation and edit cycles are documented with a new record- describing the responsible organization, edit date, processing steps, and source data used - in the NHDMetadata table.  All features that are affected by that particular edit cycle are linked to the appropriate record in the NHDMetadata table via the NHDFeatureToMetadata table. 
+                </gmd:title>
+                <gmd:date>
+                  <gmd:CI_Date>
+                    <gmd:date>
+                      <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2010-04-15</gco:Date>
+                    </gmd:date>
+                    <gmd:dateType>
+                      <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                    </gmd:dateType>
+                  </gmd:CI_Date>
+                </gmd:date>
+                <gmd:citedResponsibleParty>
+                  <gmd:CI_ResponsibleParty>
+                    <gmd:organisationName>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">U.S. Geological Survey</gco:CharacterString>
+                    </gmd:organisationName>
+                    <gmd:role>
+                      <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="006"/>
+                    </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+                </gmd:citedResponsibleParty>
+                <gmd:citedResponsibleParty>
+                  <gmd:CI_ResponsibleParty>
+                    <gmd:organisationName>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">USGS</gco:CharacterString>
+                    </gmd:organisationName>
+                    <gmd:contactInfo>
+                      <gmd:CI_Contact>
+                        <gmd:address>
+                          <gmd:CI_Address>
+                            <gmd:city>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Denver</gco:CharacterString>
+                            </gmd:city>
+                            <gmd:administrativeArea>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">CO</gco:CharacterString>
+                            </gmd:administrativeArea>
+                          </gmd:CI_Address>
+                        </gmd:address>
+                        <gmd:onlineResource>
+                          <gmd:CI_OnlineResource>
+                            <gmd:linkage>
+                              <gmd:URL>http://services.nationalmap.gov/ArcGIS/services/nhd/MapServer/WMSServer?</gmd:URL>
+                            </gmd:linkage>
+                          </gmd:CI_OnlineResource>
+                        </gmd:onlineResource>
+                        <gmd:onlineResource>
+                          <gmd:CI_OnlineResource>
+                            <gmd:linkage>
+                              <gmd:URL>http://nhd.usgs.gov/</gmd:URL>
+                            </gmd:linkage>
+                          </gmd:CI_OnlineResource>
+                        </gmd:onlineResource>
+                        <gmd:onlineResource>
+                          <gmd:CI_OnlineResource>
+                            <gmd:linkage>
+                              <gmd:URL>http://www.ncgc.nrcs.usda.gov/products/datasets/watershed/</gmd:URL>
+                            </gmd:linkage>
+                          </gmd:CI_OnlineResource>
+                        </gmd:onlineResource>
+                      </gmd:CI_Contact>
+                    </gmd:contactInfo>
+                    <gmd:role>
+                      <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="010"/>
+                    </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+                </gmd:citedResponsibleParty>
+              </gmd:CI_Citation>
+            </gmd:aggregateDataSetName>
+            <gmd:associationType>
+              <gmd:DS_AssociationTypeCode codeListValue="crossReference" codeSpace="001" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#DS_AssociationTypeCode"/>
+            </gmd:associationType>
+          </gmd:MD_AggregateInformation>
+        </gmd:aggregationInfo>
+        <gmd:spatialRepresentationType>
+          <gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="001"/>
+        </gmd:spatialRepresentationType>
+        <gmd:language>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">eng</gco:CharacterString>
+        </gmd:language>
+        <gmd:topicCategory>
+          <gmd:MD_TopicCategoryCode>inlandWaters</gmd:MD_TopicCategoryCode>
+        </gmd:topicCategory>
+        <gmd:environmentDescription>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Native Dataset Environment: Microsoft Windows XP Professional Version 2002 Service Pack 2; ESRI ArcCatalog 9.3.1 (Build 3000)</gco:CharacterString>
+        </gmd:environmentDescription>
+        <gmd:extent>
+          <gmd:EX_Extent id="boundingExtent">
+            <gmd:geographicElement>
+              <gmd:EX_GeographicBoundingBox id="boundingGeographicBoundingBox">
+                <gmd:westBoundLongitude>
+                  <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">-98.4</gco:Decimal>
+                </gmd:westBoundLongitude>
+                <gmd:eastBoundLongitude>
+                  <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">-89</gco:Decimal>
+                </gmd:eastBoundLongitude>
+                <gmd:southBoundLatitude>
+                  <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">41.7</gco:Decimal>
+                </gmd:southBoundLatitude>
+                <gmd:northBoundLatitude>
+                  <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">49.9</gco:Decimal>
+                </gmd:northBoundLatitude>
+              </gmd:EX_GeographicBoundingBox>
+            </gmd:geographicElement>
+            <gmd:temporalElement>
+              <gmd:EX_TemporalExtent>
+                <gmd:extent>
+                  <gml:TimePeriod xmlns:gml="http://www.opengis.net/gml" gml:id="d239418e494a1052958">
+                    <gml:beginPosition/>
+                  </gml:TimePeriod>
+                </gmd:extent>
+              </gmd:EX_TemporalExtent>
+            </gmd:temporalElement>
+          </gmd:EX_Extent>
+        </gmd:extent>
+        <gmd:supplementalInformation>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota, statewide.  80 subbasins (WBD HU_8 units covering the state of Minnesota). Note that NHD is a nationwide dataset - this distribution is for Minnesota's area of interest only.  Since the NHD state extract covers full HUC-8 areas (subasins), there is some overlap of data into adjacent states and provinces.</gco:CharacterString>
+        </gmd:supplementalInformation>
+      </gmd:MD_DataIdentification>
+    </gmd:identificationInfo>
+    <gmd:contentInfo>
+      <gmd:MD_FeatureCatalogueDescription>
+        <gmd:includedWithDataset>
+          <gco:Boolean xmlns:gco="http://www.isotc211.org/2005/gco">false</gco:Boolean>
+        </gmd:includedWithDataset>
+      </gmd:MD_FeatureCatalogueDescription>
+    </gmd:contentInfo>
+    <gmd:distributionInfo>
+      <gmd:MD_Distribution>
+        <gmd:distributor>
+          <gmd:MD_Distributor>
+            <gmd:distributorContact>
+              <gmd:CI_ResponsibleParty>
+                <gmd:individualName>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Jeffrey D. Simley</gco:CharacterString>
+                </gmd:individualName>
+                <gmd:organisationName>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">U.S. Geological Survey</gco:CharacterString>
+                </gmd:organisationName>
+                <gmd:contactInfo>
+                  <gmd:CI_Contact>
+                    <gmd:phone>
+                      <gmd:CI_Telephone>
+                        <gmd:voice>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">(303) 202-4131</gco:CharacterString>
+                        </gmd:voice>
+                        <gmd:facsimile>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">(303) 202-4504</gco:CharacterString>
+                        </gmd:facsimile>
+                      </gmd:CI_Telephone>
+                    </gmd:phone>
+                    <gmd:address>
+                      <gmd:CI_Address>
+                        <gmd:deliveryPoint>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Box 25046, MS 510 Denver Federal Center</gco:CharacterString>
+                        </gmd:deliveryPoint>
+                        <gmd:city>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Denver</gco:CharacterString>
+                        </gmd:city>
+                        <gmd:administrativeArea>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">CO</gco:CharacterString>
+                        </gmd:administrativeArea>
+                        <gmd:postalCode>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">80225-0046</gco:CharacterString>
+                        </gmd:postalCode>
+                        <gmd:electronicMailAddress>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">jdsimley@usgs.gov</gco:CharacterString>
+                        </gmd:electronicMailAddress>
+                      </gmd:CI_Address>
+                    </gmd:address>
+                  </gmd:CI_Contact>
+                </gmd:contactInfo>
+                <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="distributor" codeSpace="005"/>
+                </gmd:role>
+              </gmd:CI_ResponsibleParty>
+            </gmd:distributorContact>
+            <gmd:distributionOrderProcess>
+              <gmd:MD_StandardOrderProcess>
+                <gmd:orderingInstructions>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Ordering Instructions: Download of individual subbasins (HUC-8's) or groups of subbasins is available through the USGS National Map application/NHD Viewer http://viewer.nationalmap.gov/viewer/. Prestaged subregions (HUC-4's - e.g., St. Croix River Basin, Minnesota River Basin) can be downloaded from ftp://nhdftp.usgs.gov/DataSets/Staged/SubRegions/. A full state extract in file geodatabase format can be downloaded from ftp://nhdftp.usgs.gov/DataSets/Staged/States/ NWIS Stream gages and NID dams as NHD events can be downloaded from: ftp://nhdftp.usgs.gov/DataSets/National// The Minnesota Geospatial Commons distributes the latest version of the USGS state extract in file geodatabase and shapefile formats.Because the state extract includes full HUC-8 delineations this file overlaps into adjacent states and provinces. The Online Linkage below points to this version of the dataset.</gco:CharacterString>
+                </gmd:orderingInstructions>
+              </gmd:MD_StandardOrderProcess>
+            </gmd:distributionOrderProcess>
+          </gmd:MD_Distributor>
+        </gmd:distributor>
+        <gmd:transferOptions>
+          <gmd:MD_DigitalTransferOptions>
+            <gmd:onLine>
+              <gmd:CI_OnlineResource>
+                <gmd:linkage>
+                  <gmd:URL>https://gisdata.mn.gov/dataset/water-national-hydrography-data</gmd:URL>
+                </gmd:linkage>
+                <gmd:protocol>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:LINK</gco:CharacterString>
+                </gmd:protocol>
+              </gmd:CI_OnlineResource>
+            </gmd:onLine>
+          </gmd:MD_DigitalTransferOptions>
+        </gmd:transferOptions>
+      </gmd:MD_Distribution>
+    </gmd:distributionInfo>
+    <gmd:dataQualityInfo>
+      <gmd:DQ_DataQuality>
+        <gmd:scope xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+        <gmd:report>
+          <gmd:DQ_AbsoluteExternalPositionalAccuracy>
+            <gmd:nameOfMeasure>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Horizontal Positional Accuracy</gco:CharacterString>
+            </gmd:nameOfMeasure>
+            <gmd:evaluationMethodDescription>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">(At map scale)&gt; Features with like dimensionality (for example, features that all are delineated with lines), or with or without like characteristics, that are within the tolerance are aligned by moving the features equally to a common point. Features outside the tolerance are not moved. Instead, a feature of type=connector is added to join the features. For any given area, feature-level metadata exists describing the original data capture sources and techniques and sources and any subsequent edits.</gco:CharacterString>
+            </gmd:evaluationMethodDescription>
+            <gmd:result>
+              <gmd:DQ_QuantitativeResult>
+                <gmd:valueUnit>
+                  <gml:BaseUnit xmlns:gml="http://www.opengis.net/gml" gml:id="meters">
+                    <gml:identifier codeSpace="meters"/>
+                    <gml:unitsSystem xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.bipm.org/en/si/"/>
+                  </gml:BaseUnit>
+                </gmd:valueUnit>
+              </gmd:DQ_QuantitativeResult>
+            </gmd:result>
+          </gmd:DQ_AbsoluteExternalPositionalAccuracy>
+        </gmd:report>
+        <gmd:report>
+          <gmd:DQ_AbsoluteExternalPositionalAccuracy>
+            <gmd:nameOfMeasure>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Vertical Positional Accuracy</gco:CharacterString>
+            </gmd:nameOfMeasure>
+            <gmd:evaluationMethodDescription>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Statements of vertical positional accuracy for elevation of water surfaces are based on accuracy satements made for U.S. Geological Survey topographic Quadrangle maps. These maps were compiled to meet National Map Accuracy Standards. For vertical accuracy this stndard is met if at least 90 percent of well-defined points tested are within on-half contour interval of the correct value. Elevations of water surface printon on the published maps meet this standard. The contour intervals of themaps vary. These elevations were trasncribed into the digital data. The accuracy of this transcription was checked by visual comparison between the data and the map.</gco:CharacterString>
+            </gmd:evaluationMethodDescription>
+            <gmd:result>
+              <gmd:DQ_QuantitativeResult>
+                <gmd:valueUnit>
+                  <gml:BaseUnit xmlns:gml="http://www.opengis.net/gml" gml:id="meters">
+                    <gml:identifier codeSpace="meters"/>
+                    <gml:unitsSystem xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.bipm.org/en/si/"/>
+                  </gml:BaseUnit>
+                </gmd:valueUnit>
+              </gmd:DQ_QuantitativeResult>
+            </gmd:result>
+          </gmd:DQ_AbsoluteExternalPositionalAccuracy>
+        </gmd:report>
+        <gmd:report>
+          <gmd:DQ_CompletenessCommission>
+            <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+          </gmd:DQ_CompletenessCommission>
+        </gmd:report>
+        <gmd:report>
+          <gmd:DQ_CompletenessOmission>
+            <gmd:evaluationMethodDescription>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Entire state is available. Border watersheds include linework from adjacent states and Canada. Detailed capture conditions are provided for every feature type in the Standards for National Hydrography Dataset - High Resolution available online at http://nationalmap.gov/standards/pdf/NHDH0799.PDF. In some areas USGS or state partners have revised linework based on newer aerial imagery. Feature-based metadata in the dataset tracks edit cycles.</gco:CharacterString>
+            </gmd:evaluationMethodDescription>
+            <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+          </gmd:DQ_CompletenessOmission>
+        </gmd:report>
+        <gmd:report>
+          <gmd:DQ_ConceptualConsistency>
+            <gmd:measureDescription>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Points, nodes, lines, and areas conform to topological rules. Lines intersect only at nodes, and all nodes anchor the ends of lines. Lines do not overshoot or undershoot other lines where they are supposed to meet. There are no duplicate lines. Lines bound areas and lines identify the areas to the left and right of those lines. Gaps and overlaps among areas do not exist. All areas close.</gco:CharacterString>
+            </gmd:measureDescription>
+            <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+          </gmd:DQ_ConceptualConsistency>
+        </gmd:report>
+        <gmd:report>
+          <gmd:DQ_NonQuantitativeAttributeAccuracy>
+            <gmd:measureDescription>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">The entry and identifier for the names match those in the Geographic Names Information System.  The association of each name to reaches has been interactively checked.  However, operator error could in some cases apply a name to the wrong reach.</gco:CharacterString>
+            </gmd:measureDescription>
+            <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="inapplicable"/>
+          </gmd:DQ_NonQuantitativeAttributeAccuracy>
+        </gmd:report>
+        <gmd:lineage>
+          <gmd:LI_Lineage>
+            <gmd:processStep>
+              <gmd:LI_ProcessStep>
+                <gmd:description>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">High-res NHD Creation processing and update processing is generally done a subbasin (HUC-8) unit at a time. An exception to this is the creation or updating of stream gage and dam events, which is generally done at a subregion (HUC-4) level.  Feature-level metadata is stored in the database. Creation and edit cycles are documented with a new record- describing the responsible organization, edit date, processing steps, and source data used - in the NHDMetadata table.  All features that are affected by that particular edit cycle are linked to the appropriate record in the NHDMetadata table via the NHDFeatureToMetadata table. 
 
 Creation of high-resolution NHD:  High-res NHD was created by conflating the Medium-res (100k) NHD with a source set of 1:24,000-scale linework.  NHD medium-resolution attributes (Reach Code, Feature Type, GNIS Name, GNIS ID) were attached to the 24K linework using an automated process, and a semi-automated process with manual review was used to verify that information was transferred correctly.  Manual editing was used to add features, delete features, rename features, change geometry,  or add attribution, as necessary. Only names and IDs existing within the Geographic Names Information System (GNIS) are eligible to be applied to the NHD.  To support this process, USGS provided a set of ArcGIS-based conflation and review tools (NHDCreate), Tool User documentation and NHD Model Specifications, and training through its NHD Stewardship program.  Topology rules within the NHD  model were enforced by the tools. 
 
@@ -646,91 +646,91 @@ Data Downloads:
 National:  Any data downloaded from the USGS NHD site is in Geographic Coordinates, NAD83. A number of map extents and data formats are available, as outlined under "Ordering Instructions". 
 
 State: NHD in Minnesota's Geographic Data Resource Site (GDRS):  The version of the NHD which is posted to the state's GDRS Site is a statewide extract downloaded from the  USGS  ftp site, in file geodatabase format. New state extracts are posted by USGS approximately quarterly, and MnGeo copies those extracts to the state's Geographic Data Resource Site.  MnGeo upgradess the file geodatabase from ArcGIS 9.3.1 to ArcGIS 10.2.2 format, compresses the geodatabase (lossless option), and renames for consistency with GDRS naming conventions. ArcGIS .lyr files are are created.</gco:CharacterString>
-                  </gmd:description>
-                </gmd:LI_ProcessStep>
-              </gmd:processStep>
-              <gmd:source>
-                <gmd:LI_Source>
-                  <gmd:description>
-                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Source Contribution:</gco:CharacterString>
-                  </gmd:description>
-                  <gmd:scaleDenominator>
-                    <gmd:MD_RepresentativeFraction>
-                      <gmd:denominator>
-                        <gco:Integer xmlns:gco="http://www.isotc211.org/2005/gco">24000</gco:Integer>
-                      </gmd:denominator>
-                    </gmd:MD_RepresentativeFraction>
-                  </gmd:scaleDenominator>
-                  <gmd:sourceCitation>
-                    <gmd:CI_Citation>
-                      <gmd:date>
-                        <gmd:CI_Date>
-                          <gmd:dateType>
-                            <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
-                          </gmd:dateType>
-                        </gmd:CI_Date>
-                      </gmd:date>
-                    </gmd:CI_Citation>
-                  </gmd:sourceCitation>
-                </gmd:LI_Source>
-              </gmd:source>
-            </gmd:LI_Lineage>
-          </gmd:lineage>
-        </gmd:DQ_DataQuality>
-      </gmd:dataQualityInfo>
-      <gmd:metadataMaintenance>
-        <gmd:MD_MaintenanceInformation>
-          <gmd:maintenanceAndUpdateFrequency xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
-          <gmd:maintenanceNote>
-            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">This metadata was automatically generated from the Minnesota Geographic Metadata Guidelinesstandard version 1.2 using the January 2013 version of the FGDC CSDGM to ISO 19115-2 transform.</gco:CharacterString>
-          </gmd:maintenanceNote>
-          <gmd:contact>
-            <gmd:CI_ResponsibleParty>
-              <gmd:individualName>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Nancy Rader</gco:CharacterString>
-              </gmd:individualName>
-              <gmd:organisationName>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesta Geospatial Information Office (MnGeo)</gco:CharacterString>
-              </gmd:organisationName>
-              <gmd:positionName>
-                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GIS Specialist</gco:CharacterString>
-              </gmd:positionName>
-              <gmd:contactInfo>
-                <gmd:CI_Contact>
-                  <gmd:phone>
-                    <gmd:CI_Telephone>
-                      <gmd:voice>
-                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-201-2489</gco:CharacterString>
-                      </gmd:voice>
-                    </gmd:CI_Telephone>
-                  </gmd:phone>
-                  <gmd:address>
-                    <gmd:CI_Address>
-                      <gmd:deliveryPoint>
-                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">658 Cedar Street</gco:CharacterString>
-                      </gmd:deliveryPoint>
-                      <gmd:city>
-                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
-                      </gmd:city>
-                      <gmd:administrativeArea>
-                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
-                      </gmd:administrativeArea>
-                      <gmd:postalCode>
-                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55155</gco:CharacterString>
-                      </gmd:postalCode>
-                      <gmd:electronicMailAddress>
-                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">nancy.rader@state.mn.us</gco:CharacterString>
-                      </gmd:electronicMailAddress>
-                    </gmd:CI_Address>
-                  </gmd:address>
-                </gmd:CI_Contact>
-              </gmd:contactInfo>
-              <gmd:role>
-                <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="custodian" codeSpace="002"/>
-              </gmd:role>
-            </gmd:CI_ResponsibleParty>
-          </gmd:contact>
-        </gmd:MD_MaintenanceInformation>
-      </gmd:metadataMaintenance>
-    </gmd:MD_Metadata>
-    
+                </gmd:description>
+              </gmd:LI_ProcessStep>
+            </gmd:processStep>
+            <gmd:source>
+              <gmd:LI_Source>
+                <gmd:description>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Source Contribution:</gco:CharacterString>
+                </gmd:description>
+                <gmd:scaleDenominator>
+                  <gmd:MD_RepresentativeFraction>
+                    <gmd:denominator>
+                      <gco:Integer xmlns:gco="http://www.isotc211.org/2005/gco">24000</gco:Integer>
+                    </gmd:denominator>
+                  </gmd:MD_RepresentativeFraction>
+                </gmd:scaleDenominator>
+                <gmd:sourceCitation>
+                  <gmd:CI_Citation>
+                    <gmd:date>
+                      <gmd:CI_Date>
+                        <gmd:dateType>
+                          <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                        </gmd:dateType>
+                      </gmd:CI_Date>
+                    </gmd:date>
+                  </gmd:CI_Citation>
+                </gmd:sourceCitation>
+              </gmd:LI_Source>
+            </gmd:source>
+          </gmd:LI_Lineage>
+        </gmd:lineage>
+      </gmd:DQ_DataQuality>
+    </gmd:dataQualityInfo>
+    <gmd:metadataMaintenance>
+      <gmd:MD_MaintenanceInformation>
+        <gmd:maintenanceAndUpdateFrequency xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+        <gmd:maintenanceNote>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">This metadata was automatically generated from the Minnesota Geographic Metadata Guidelinesstandard version 1.2 using the January 2013 version of the FGDC CSDGM to ISO 19115-2 transform.</gco:CharacterString>
+        </gmd:maintenanceNote>
+        <gmd:contact>
+          <gmd:CI_ResponsibleParty>
+            <gmd:individualName>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Nancy Rader</gco:CharacterString>
+            </gmd:individualName>
+            <gmd:organisationName>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesta Geospatial Information Office (MnGeo)</gco:CharacterString>
+            </gmd:organisationName>
+            <gmd:positionName>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GIS Specialist</gco:CharacterString>
+            </gmd:positionName>
+            <gmd:contactInfo>
+              <gmd:CI_Contact>
+                <gmd:phone>
+                  <gmd:CI_Telephone>
+                    <gmd:voice>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-201-2489</gco:CharacterString>
+                    </gmd:voice>
+                  </gmd:CI_Telephone>
+                </gmd:phone>
+                <gmd:address>
+                  <gmd:CI_Address>
+                    <gmd:deliveryPoint>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">658 Cedar Street</gco:CharacterString>
+                    </gmd:deliveryPoint>
+                    <gmd:city>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
+                    </gmd:city>
+                    <gmd:administrativeArea>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
+                    </gmd:administrativeArea>
+                    <gmd:postalCode>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55155</gco:CharacterString>
+                    </gmd:postalCode>
+                    <gmd:electronicMailAddress>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">nancy.rader@state.mn.us</gco:CharacterString>
+                    </gmd:electronicMailAddress>
+                  </gmd:CI_Address>
+                </gmd:address>
+              </gmd:CI_Contact>
+            </gmd:contactInfo>
+            <gmd:role>
+              <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="custodian" codeSpace="002"/>
+            </gmd:role>
+          </gmd:CI_ResponsibleParty>
+        </gmd:contact>
+      </gmd:MD_MaintenanceInformation>
+    </gmd:metadataMaintenance>
+  </gmd:MD_Metadata>
+  

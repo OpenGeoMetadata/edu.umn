@@ -1,38 +1,37 @@
 {
 "layer_geom_type_s": "Line", 
-"layer_modified_dt": "2016-06-28T11:06:49.399058Z", 
+"layer_modified_dt": "2016-08-17T16:26:30Z", 
 "solr_geom": "ENVELOPE(-94.0126, -93.2997, 44.9765, 44.5268)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/23bd866c86fe4db5a0018b6a150debd4_3.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.carver.mn.us/arcgis_ea/rest/services/OpenAccess/CC_OpenDataStandards/MapServer/3\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/23bd866c86fe4db5a0018b6a150debd4_3\"}", 
 "dc_rights_s": "Public", 
-"uuid": "e86622af-9272-44c6-bc57-e51b46e0956c", 
+"uuid": "urn-e86622af-9272-44c6-bc57-e51b46e0956c", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "society", 
-"Trail", 
-"Carver County", 
-"Sidewalk", 
-"Standard", 
-"Recreation"
+"recreation", 
+"sidewalks", 
+"trails"
 ], 
-"dct_temporal_sm": "2016", 
+"dct_temporal_sm": "2015-", 
 "dc_description_s": "Trails and sidewalk data. Data was collected from cities and compiled together to make a county-wide dataset. Source and accuracy of data vary by city. Updated as the GIS office becomes aware of new trails.", 
-"dct_issued_s": "2015-01-08T20:15:35.000ZZ", 
+"dct_issued_s": "2015-01-06T20:15:35Z", 
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Carver County, Minnesota"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "e86622af-9272-44c6-bc57-e51b46e0956c", 
+"dc_identifier_s": "urn-e86622af-9272-44c6-bc57-e51b46e0956c", 
 "georss_polygon_s": "44.5268 -94.0126 44.9765 -94.0126 44.9765 -93.2997 44.5268 -93.2997 44.5268 -94.0126", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Carver County, Minnesota"
+"Carver County, Minnesota", 
+"Minnesota"
 ], 
 "dc_publisher_sm": [
 "Carver County, Minnesota"
 ], 
-"layer_id_s": "urn:e86622af-9272-44c6-bc57-e51b46e0956c", 
+"layer_id_s": "urn:urn-e86622af-9272-44c6-bc57-e51b46e0956c", 
 "georss_box_s": "44.5268 -94.0126 44.9765 -93.2997", 
-"dc_title_s": "OpenDataStandards | Trails and Sidewalks", 
-"layer_slug_s": "Minnesota-e86622af-9272-44c6-bc57-e51b46e0956c"
+"dc_title_s": "Trails and Sidewalks: Carver County, Minnesota, 2016", 
+"layer_slug_s": "Minnesota-urn-e86622af-9272-44c6-bc57-e51b46e0956c"
 }
