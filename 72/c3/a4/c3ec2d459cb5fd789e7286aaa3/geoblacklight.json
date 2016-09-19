@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
 "layer_geom_type_s": "Polygon", 
+=======
+"layer_geom_type_s": "Mixed", 
+>>>>>>> master
 "layer_modified_dt": "2016-07-12T13:13:51.327841Z", 
 "solr_geom": "ENVELOPE(-93.233, -92.9858, 45.1195, 44.9178)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/f2534b33ad1d4d3d93bd937eb00a663c_19.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/19\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/f2534b33ad1d4d3d93bd937eb00a663c_19\"}", 
@@ -7,14 +11,22 @@
 "uuid": "72c3a4c3-ec2d-459c-b5fd-789e7286aaa3", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "utilitiesCommunications", 
+=======
+"Utilities and Communication", 
+>>>>>>> master
 "Infrastructure", 
 "Water Towers"
 ], 
 "dct_temporal_sm": "2016", 
 "dc_description_s": "This data set contains outlines of Water Towers. The tower outlines are derived from aerial photography observation and interpretation using stereo processing techniques. Vector line work was originally plotted from 2009 photography. All graphical lines contain a character based layer name that identifies the different mapping features. The flight height for the aerial photography utilized in this project is approximately 5000 feet. The mapping scale for aerial photography utilized in this project is 1 inch equals 833 feet.", 
 "dct_issued_s": "2014-12-02T21:08:44.000ZZ", 
+<<<<<<< HEAD
 "dc_format_s": "Shapefile", 
+=======
+"dc_format_s": "File", 
+>>>>>>> master
 "dc_creator_sm": [
 "Map Portal"
 ], 

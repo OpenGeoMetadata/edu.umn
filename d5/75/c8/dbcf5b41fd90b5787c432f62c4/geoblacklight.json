@@ -7,7 +7,11 @@
 "uuid": "urn-d575c8db-cf5b-41fd-90b5-787c432f62c4", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "biota"
+=======
+"Biota"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "2016", 
 "dc_description_s": "Pursuant to the provisions of Minnesota Statutes, section 103G.223, this database contains points that represent calcareous fens as defined in Minnesota Rules, part 8420.1020. The calcareous fens in this shapefile correspond to the fens listed in Identification Order No. 08-001, which was published in the State Register on June 2, 2008 (32 SR 2148-2154). The current list of fens is posted on the DNR web site at http://files.dnr.state.mn.us/publications/waters/calcareous_fen_list_nov_2009.pdf This data set is a GIS point shapefile derived from the Natural Heritage NBioticsN Database. Data in the Biotics Database are maintained according to established Natural Heritage Methodology developed by NatureServe and The Nature Conservancy. The core of the Biotics Database is made up of Element Occurrence (EO) records of rare plant and animal species, animal aggregations, native plant communities, and geologic features. An Element is a unit of biological diversity, such as a species, subspecies, or a native plant community. An EO is an area of land and/or water in which an Element is, or was, present, and which has practical conservation value for the Element (e.g. species or community) as evidenced by potential continued (or historical) presence and/or regular recurrence at a given location. Source Features are the mapped representation of observations of rare features. Source Features are then evaluated using biological standards, and grouped into EOs as appropriate. This data set contains a point for each Calcareous Fen (DNR List of Known Calcareous Fens) Source Feature in the Biotics database, and selected attributes from the Source Feature record and its linked Element Occurrence (EO) record.", 

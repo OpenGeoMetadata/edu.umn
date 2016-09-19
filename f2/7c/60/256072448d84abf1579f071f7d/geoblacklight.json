@@ -7,7 +7,11 @@
 "uuid": "urn-f27c6025-6072-448d-84ab-f1579f071f7d", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "transportation"
+=======
+"Transportation"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "2016", 
 "dc_description_s": "The Park-and-Ride layer contains the 196 existing and future park-and-ride lots in the Twin Cities Metropolitan area. The dataset was geocoded using TLG centerline streets. When specific site details were available, the geography was moved off the street lines to the actual lot locations using 2005 Markhurd orthophotography as a base layer. All attempts were made to correctly reflect the real lot locations; however, the positional accuracy of this data cannot be guaranteed. Attribute information is considered current to the metadata date and will be updated as needed.", 

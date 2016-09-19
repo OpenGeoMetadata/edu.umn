@@ -7,7 +7,11 @@
 "uuid": "urn-d4df16ae-f368-410d-8f8e-e556bbbf032b", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "biota"
+=======
+"Biota"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "2014", 
 "dc_description_s": "This is a polygon coverage of Wild Rice Lakes and Rivers in Minnesota. Lakes and rivers were selected out from the DNR 100k Lakes and Rivers shapefile based upon intersection with nri_wricept2 .", 

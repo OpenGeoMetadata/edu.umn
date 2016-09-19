@@ -7,7 +7,11 @@
 "uuid": "urn-084e11ab-d4d7-488f-b550-58510cac90db", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "planningCadastre"
+=======
+"Planning and Cadastral"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "2014", 
 "dc_description_s": "This layer represents land ownership in the following categories: county fee, tax forfeit, state, federal, municipal, private and tribal. The addition of the following county and state administrative subcategories is in-progress: county highway department, MN Dept. of Natural Resources, MN Dept. of Transportation, public school lands, school trust lands, and University of Minnesota Board of Regents. Three cities (Beaver Bay, Silver Bay and Two Harbors) maintain their own tax parcels; this city data is represented as provided by the cities to the county.", 

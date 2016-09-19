@@ -7,7 +7,11 @@
 "uuid": "urn-79d23003-3687-48ad-bd4b-c3741b0b8093", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "transportation"
+=======
+"Transportation"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "1994-2012", 
 "dc_description_s": "HCAADT is the theoretical estimate of the total number of heavy commercial vehicles using a specific segment of roadway (in both directions) on any given day of the year. This estimate represents the total number of heavy commercial vehicles per year divided by 365 and is developed using factors to adjust for season on sampled road systems in a particular given year. This information is displayed using the road centerlines within the state. This centerline layer is a subset of the State of Minnesota BaseMap which consists of a number of individual data layers originally digitized from USGS 7.5-minute quadrangles, but later updated via aerial imagery and local input.", 

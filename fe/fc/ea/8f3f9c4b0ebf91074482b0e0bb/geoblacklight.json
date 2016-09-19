@@ -7,7 +7,11 @@
 "uuid": "urn-fefcea8f-3f9c-4b0e-bf91-074482b0e0bb", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "environment"
+=======
+"Environment"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "2012", 
 "dc_description_s": "These are the wetlands assessed by MPCA in 2011 for the 2012 303(d)/305(b) integrated report to EPA. The wetlands are a subset and enhancement of the 1:24,000 scale National Hydrography Dataset (NHD). MPCA adds additional wetlands. Since the assessed wetlands are a small subset of the NHD wetlands, only that subset is included in the dataset.", 

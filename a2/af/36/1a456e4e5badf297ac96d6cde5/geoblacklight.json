@@ -1,5 +1,6 @@
 {
 "layer_geom_type_s": "Polygon", 
+<<<<<<< HEAD
 "layer_modified_dt": "2016-06-28T11:07:01.930478Z", 
 "solr_geom": "ENVELOPE(-93.9741, -93.3086, 44.9805, 44.5411)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/083b5a356c184f5d898f632e96fbc21b_4.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.carver.mn.us/arcgis_ea/rest/services/OpenAccess/CC_OpenDataStandards/MapServer/4\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/083b5a356c184f5d898f632e96fbc21b_4\"}", 
@@ -15,22 +16,54 @@
 "dct_temporal_sm": "2016", 
 "dc_description_s": "Park and recreation areas within Carver County. This is a collection of city and county data. Updated as the GIS Office becomes aware of new recreation areas.", 
 "dct_issued_s": "2015-04-10T14:38:08.000ZZ", 
+=======
+"layer_modified_dt": "2016-08-17T16:23:13Z", 
+"solr_geom": "ENVELOPE(-93.9741, -93.3086, 44.9805, 44.5411)", 
+"dct_references_s": "{\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/083b5a356c184f5d898f632e96fbc21b_4\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-a2af361a-456e-4e5b-adf2-97ac96d6cde5", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Society", 
+"recreation", 
+"parks"
+], 
+"dct_temporal_sm": "2015-", 
+"dc_description_s": "Park and recreation areas within Carver County. This is a collection of city and county data. Updated as the GIS Office becomes aware of new recreation areas.", 
+"dct_issued_s": "2015-04-08T14:38:08Z", 
+>>>>>>> master
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Carver County, Minnesota"
 ], 
 "dc_type_s": "Dataset", 
+<<<<<<< HEAD
 "dc_identifier_s": "a2af361a-456e-4e5b-adf2-97ac96d6cde5", 
 "georss_polygon_s": "44.5411 -93.9741 44.9805 -93.9741 44.9805 -93.3086 44.5411 -93.3086 44.5411 -93.9741", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
 "Carver County, Minnesota"
+=======
+"dc_identifier_s": "urn-a2af361a-456e-4e5b-adf2-97ac96d6cde5", 
+"georss_polygon_s": "44.5411 -93.9741 44.9805 -93.9741 44.9805 -93.3086 44.5411 -93.3086 44.5411 -93.9741", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Carver County, Minnesota", 
+"Minnesota"
+>>>>>>> master
 ], 
 "dc_publisher_sm": [
 "Carver County, Minnesota"
 ], 
+<<<<<<< HEAD
 "layer_id_s": "urn:a2af361a-456e-4e5b-adf2-97ac96d6cde5", 
 "georss_box_s": "44.5411 -93.9741 44.9805 -93.3086", 
 "dc_title_s": "Park &amp; Recreation Areas", 
 "layer_slug_s": "Minnesota-a2af361a-456e-4e5b-adf2-97ac96d6cde5"
+=======
+"layer_id_s": "urn:urn-a2af361a-456e-4e5b-adf2-97ac96d6cde5", 
+"georss_box_s": "44.5411 -93.9741 44.9805 -93.3086", 
+"dc_title_s": "Park and Recreation Areas: Carver County, Minnesota, 2016", 
+"layer_slug_s": "Minnesota-urn-a2af361a-456e-4e5b-adf2-97ac96d6cde5"
+>>>>>>> master
 }

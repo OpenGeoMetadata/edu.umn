@@ -1,5 +1,6 @@
 {
 "layer_geom_type_s": "Line", 
+<<<<<<< HEAD
 "layer_modified_dt": "2016-06-28T11:06:51.706320Z", 
 "solr_geom": "ENVELOPE(-94.0126, -93.5109, 44.9787, 44.6424)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/6bf6cb73bb5f4802a93ed70ac1a3340e_1.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.carver.mn.us/arcgis_ea/rest/services/OpenAccess/CC_OpenDataStandards/MapServer/1\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/6bf6cb73bb5f4802a93ed70ac1a3340e_1\"}", 
@@ -18,22 +19,53 @@
 "dct_temporal_sm": "2016", 
 "dc_description_s": "Summary Centerline data was developed for cartographic and geocoding purposes. The attributes of the centerline data are in the MetroGIS Standard format. Description The geometry of the centerline data is created and maintained by the Carver County's Survey Department. The attribution of the centerline data is a collaborative effort between the Survey Office and GIS Office.", 
 "dct_issued_s": "2014-11-26T17:53:50.000ZZ", 
+=======
+"layer_modified_dt": "2016-08-17T16:12:39Z", 
+"solr_geom": "ENVELOPE(-94.0126, -93.5109, 44.9787, 44.6424)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/6bf6cb73bb5f4802a93ed70ac1a3340e_1.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.carver.mn.us/arcgis_ea/rest/services/OpenAccess/CC_OpenDataStandards/MapServer/1\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/6bf6cb73bb5f4802a93ed70ac1a3340e_1\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-c4ab5b75-6ead-437e-8e6e-8609b8c5f0da", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Transportation", 
+"roads"
+], 
+"dct_temporal_sm": "2014-", 
+"dc_description_s": "Summary Centerline data was developed for cartographic and geocoding purposes. The attributes of the centerline data are in the MetroGIS Standard format. Description The geometry of the centerline data is created and maintained by the Carver County's Survey Department. The attribution of the centerline data is a collaborative effort between the Survey Office and GIS Office.", 
+"dct_issued_s": "2014-11-19T17:53:50Z", 
+>>>>>>> master
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Carver County, Minnesota"
 ], 
 "dc_type_s": "Dataset", 
+<<<<<<< HEAD
 "dc_identifier_s": "c4ab5b75-6ead-437e-8e6e-8609b8c5f0da", 
 "georss_polygon_s": "44.6424 -94.0126 44.9787 -94.0126 44.9787 -93.5109 44.6424 -93.5109 44.6424 -94.0126", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
 "Carver County, Minnesota"
+=======
+"dc_identifier_s": "urn-c4ab5b75-6ead-437e-8e6e-8609b8c5f0da", 
+"georss_polygon_s": "44.6424 -94.0126 44.9787 -94.0126 44.9787 -93.5109 44.6424 -93.5109 44.6424 -94.0126", 
+"solr_year_i": 2014, 
+"dct_spatial_sm": [
+"Carver County, Minnesota", 
+"Minnesota"
+>>>>>>> master
 ], 
 "dc_publisher_sm": [
 "Carver County, Minnesota"
 ], 
+<<<<<<< HEAD
 "layer_id_s": "urn:c4ab5b75-6ead-437e-8e6e-8609b8c5f0da", 
 "georss_box_s": "44.6424 -94.0126 44.9787 -93.5109", 
 "dc_title_s": "OpenDataStandards | Centerline", 
 "layer_slug_s": "Minnesota-c4ab5b75-6ead-437e-8e6e-8609b8c5f0da"
+=======
+"layer_id_s": "urn:urn-c4ab5b75-6ead-437e-8e6e-8609b8c5f0da", 
+"georss_box_s": "44.6424 -94.0126 44.9787 -93.5109", 
+"dc_title_s": "Centerlines: Carver County, Minnesota, 2014", 
+"layer_slug_s": "Minnesota-urn-c4ab5b75-6ead-437e-8e6e-8609b8c5f0da"
+>>>>>>> master
 }

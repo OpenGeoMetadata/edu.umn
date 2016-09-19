@@ -7,7 +7,11 @@
 "uuid": "urn-a8437946-742c-41cd-b4a6-5309b699f482", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "environment"
+=======
+"Environment"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "2006", 
 "dc_description_s": "This layer represents lakes previously surveyed by DNR Fisheries Lake Survey staff. Lakes included in this dataset have been surveyed at least once from 1947 - 2006, and have data stored in the DNR Fisheries Lake Survey Oracle database. The date of the most recent survey for each lake is recorded in the attribute table. Lakes that have been redigitized to match recent aerial photos have the imagery source listed in the Redig_src field (i.e., 1991 DOQ or 2004 FSA). Some lakes are surveyed on a rotating year basis, and new surveys will be added each year. Most recent survey dates will be updated accordingly. This layer is a subset of the DNR 100K Lakes and Rivers layer, and follows the same history.", 

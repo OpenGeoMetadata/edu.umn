@@ -7,7 +7,11 @@
 "uuid": "urn-117c9eb3-a7e2-411b-8ebc-3626603ca213", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "environment"
+=======
+"Environment"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "2012", 
 "dc_description_s": "This dataset represents impaired lakes as determined by MPCA in 2011 for the 2012 reporting cycle to US EPA. The lakes are a subset and enhancement of the 1:24,000 scale National Hydrography Dataset (NHD). MPCA adds additional lakes. Since the impaired lakes are a small subset of the NHD lakes, only that subset is included in the dataset. This dataset includes impaired lakes which have not yet had a TMDL plan approved by the US EPA, those that have a US EPA approved TMDL plan as well as those lakes that do not need a TMDL plan.", 

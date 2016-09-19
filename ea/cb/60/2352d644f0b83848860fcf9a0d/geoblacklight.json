@@ -7,7 +7,11 @@
 "uuid": "urn-eacb6023-52d6-44f0-b838-48860fcf9a0d", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "boundaries"
+=======
+"Boundaries"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "2010", 
 "dc_description_s": "ZIP Code Tabulation Areas (ZCTAs) are approximate area representations of U.S. Postal Service (USPS) ZIP Code service areas that the Census Bureau creates to present statistical data for each decennial census. The Census Bureau uses tabulation blocks as the basis for defining each ZCTA. Tabulation blocks are assigned to a ZCTA based on the most frequently occurring ZIP Code for the addresses contained within that block. The most frequently occurring ZIP Code also becomes the five-digit numeric code of the ZCTA. Blocks that do not contain addresses but are surrounded by a single ZCTA (enclaves) are assigned to the surrounding ZCTA. Because the Census Bureau only uses the most frequently occurring ZIP Code to assign blocks, a ZCTA may not exist for every USPS ZIP Code. Some ZIP Codes may not have a matching ZCTA because too few addresses were associated with the specific ZIP Code or the ZIP Code was not the most frequently occurring ZIP Code within any of the blocks where it exists. Users are encouraged to refer to the U.S. Census website for more information on ZCTAs: http://www.census.gov/geo/reference/zctas.html and to the U.S. Postal Service for more information on ZIP Codes: http://faq.usps.com/", 

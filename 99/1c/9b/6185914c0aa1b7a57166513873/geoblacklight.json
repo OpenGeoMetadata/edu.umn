@@ -7,7 +7,11 @@
 "uuid": "urn-991c9b61-8591-4c0a-a1b7-a57166513873", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "transportation"
+=======
+"Transportation"
+>>>>>>> master
 ], 
 "dc_format_s": "Shapefile", 
 "dc_description_s": "This dataset is a polygon shapefile of the spatial extents of rectified railroad valuation map images. The image corresponding to each of the map footprints contains information about the railroad ownership, the map roll number, sheet numbers and file name of the image.", 

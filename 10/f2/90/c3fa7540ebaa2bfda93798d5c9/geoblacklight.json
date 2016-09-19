@@ -7,7 +7,11 @@
 "uuid": "urn-10f290c3-fa75-40eb-aa2b-fda93798d5c9", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "environment"
+=======
+"Environment"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "2012", 
 "dc_description_s": "This layer represents 24 Sentinel Lakes that are being used for long-term monitoring under the Sustaining Lakes in a Changing Environment (SLICE) Program. Beginning in 2013 (Phase 2), lakes are classified into two tiers representing two levels of monitoring intensity: Tier 1 (intensive) and Tier 2 (reduced). Lake polygons are linked to Fact Sheets (all lakes) and Status Reports (some lakes). In ArcMap, select a lake using the Identify tool to display hotlinks to these PDFs.", 

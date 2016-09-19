@@ -7,7 +7,11 @@
 "uuid": "urn-e1185c34-bac0-4424-bf80-3d42bf2148cc", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "inlandWaters"
+=======
+"Inland Waters"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "2013", 
 "dc_description_s": "Stream segments with Strahler stream order values assigned. For more information about Strahler stream order, see: http://en.wikipedia.org/wiki/Strahler_Stream_Order Stream order was assigned using an automated process. Data has not been verified and is subject to change. Be sure to check the values before using the layer. Stream order values are maintained as tabular data and displayed as linear events on the Stream Routes with Kittle Numbers and Mile Measures layer. In the attribute table, designated segments extend from the FROM_MEAS (mile) to the TO_MEAS (mile) and have a total length = [LENGTH_MI] on a route with total length = [ROUTE_MI].", 

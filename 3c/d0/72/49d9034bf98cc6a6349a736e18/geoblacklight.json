@@ -7,7 +7,11 @@
 "uuid": "urn-3cd07249-d903-4bf9-8cc6-a6349a736e18", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "biota"
+=======
+"Biota"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "1972", 
 "dc_description_s": "One of the original Minnesota Land Management Information System (MLMIS) data sets created in the 1970's, this dataset describes the state's land use patterns in 1969. Nine land use/land cover classes, interpreted from high altitude air photos, are recorded for each 40-acre parcel in the state. These classes include: forested; cultivated; water; marsh; urban residential; extractive; pasture and open; urban non-residential or mixed residential; and transportation. MLMIS data sets were created by grid cell coding a value for each 40-acre parcel in the state. The file was later subdivided into 100-meter by 100-meter grid cells and spatially corrected to provide improved geographic reference. However, this processing step does not improve on the 40-acre resolution of the original data set.", 

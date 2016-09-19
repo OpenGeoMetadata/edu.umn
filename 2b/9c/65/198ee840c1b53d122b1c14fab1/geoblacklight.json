@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-09-02T14:56:09Z", 
+"solr_geom": "ENVELOPE(-93.142104, -92.646247, 45.730742, 45.295594)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gis.chisagocounty.us/Link/SpatialData/Plats.zip\",\"http://schema.org/url\":\"http://gis.chisagocounty.us/Link/jsfe/index.aspx\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-2b9c6519-8ee8-40c1-b53d-122b1c14fab1", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Planning and Cadastral", 
+"Boundaries"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "Chisago County plats", 
+"dct_issued_s": "2015-08-07", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Chisago County"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "urn-2b9c6519-8ee8-40c1-b53d-122b1c14fab1", 
+"georss_polygon_s": "45.295594 -93.142104 45.730742 -93.142104 45.730742 -92.646247 45.295594 -92.646247 45.295594 -93.142104", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Chisago County, Minnesota", 
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Chisago County"
+], 
+"layer_id_s": "urn:urn-2b9c6519-8ee8-40c1-b53d-122b1c14fab1", 
+"georss_box_s": "45.295594 -93.142104 45.730742 -92.646247", 
+"dc_title_s": "Plats: Chisago County, Minnesota, 2015", 
+"layer_slug_s": "Minnesota-urn-2b9c6519-8ee8-40c1-b53d-122b1c14fab1"
+}

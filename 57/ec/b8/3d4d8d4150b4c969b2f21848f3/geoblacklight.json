@@ -7,7 +7,11 @@
 "uuid": "urn-57ecb83d-4d8d-4150-b4c9-69b2f21848f3", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "environment"
+=======
+"Environment"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "2015", 
 "dc_description_s": "These are water bodies (lakes, streams/rivers, wetlands) listed as infested with any of these aquatic invasive species: bighead carp round goby Brazilian waterweed ruffe brittle naiad silver carp Eurasian watermilfoil spiny waterflea faucet snail starry stonewort flowering rush viral hemorrhagic septicemia (VHS) grass carp white perch New Zealand mud snail zebra mussel The DNR will add a lake, river, pond or wetland to the infested waters list if it contains an aquatic invasive species that could spread to other waters. The DNR may also list a lake, river, pond or wetland as infested if it is connected to a body of water where an aquatic invasive species is present. The list on the DNR website, not this GIS layer, is the official record of the infested waters list for MN. For more information, see the official infested waters list at: http://www.dnr.state.mn.us/invasives/ais/infested.html NOTE: As of Dec. 2015, this layer is ~ 98% complete. Several rivers, streams, and creeks are missing from this layer. Lake Superior tributaries are not displayed correctly.", 

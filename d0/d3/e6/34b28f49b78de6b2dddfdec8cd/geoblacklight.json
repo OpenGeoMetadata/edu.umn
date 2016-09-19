@@ -1,5 +1,6 @@
 {
 "layer_geom_type_s": "Polygon", 
+<<<<<<< HEAD
 "layer_modified_dt": "2016-07-11T16:24:29.591227Z", 
 "solr_geom": "ENVELOPE(-93.7728, -93.1766, 45.2471, 44.783)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/b1bd3283733744b992a0d9e27206fef6_7.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/BOUNDARIES/MapServer/7\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/b1bd3283733744b992a0d9e27206fef6_7\"}", 
@@ -16,22 +17,53 @@
 "dct_temporal_sm": "2015", 
 "dc_description_s": "This dataset contains the Soil and Water District Boundaries in Hennepin County for local elections. Current boundaries are as of the 2002 redistricting for Soil and Water election districts. The field NAME_TXT contains the district identifier for each Soil and Water District. Link to Attribute Table Information: http://gis.hennepin.us/OpenData/Metadata/Soil%20Water%20Districts.pdf Data updated: monthly Use Limitations: This data (i) is furnished 'AS IS' with no representation as to completeness or accuracy; (ii) is furnished with no warranty of any kind; and (iii) is not suitable for legal, engineering or surveying purposes. Hennepin County shall not be liable for any damage, injury or loss resulting from this data. General questions about this dataset, including errors, omissions, corrections and/or updates should be directed to the Survey Division, Resident and Real Estate Services Department, Hennepin County at 612-348-3131.", 
 "dct_issued_s": "2015-10-12T17:33:37.000ZZ", 
+=======
+"layer_modified_dt": "2016-09-19T17:00:32Z", 
+"solr_geom": "ENVELOPE(-93.7728, -93.1766, 45.2471, 44.783)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/b1bd3283733744b992a0d9e27206fef6_7.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/BOUNDARIES/MapServer/7\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/b1bd3283733744b992a0d9e27206fef6_7\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-d0d3e634-b28f-49b7-8de6-b2dddfdec8cd", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Boundaries", 
+"Environment"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "This dataset contains the Soil and Water District Boundaries in Hennepin County for local elections. Current boundaries are as of the 2002 redistricting for Soil and Water election districts. The field NAME_TXT contains the district identifier for each Soil and Water District. Link to Attribute Table Information: http://gis.hennepin.us/OpenData/Metadata/Soil%20Water%20Districts.pdf Data updated: monthly Use Limitations: This data (i) is furnished 'AS IS' with no representation as to completeness or accuracy; (ii) is furnished with no warranty of any kind; and (iii) is not suitable for legal, engineering or surveying purposes. Hennepin County shall not be liable for any damage, injury or loss resulting from this data. General questions about this dataset, including errors, omissions, corrections and/or updates should be directed to the Survey Division, Resident and Real Estate Services Department, Hennepin County at 612-348-3131.", 
+"dct_issued_s": "2015-10-10T17:33:37Z", 
+>>>>>>> master
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Hennepin County"
 ], 
 "dc_type_s": "Dataset", 
+<<<<<<< HEAD
 "dc_identifier_s": "d0d3e634-b28f-49b7-8de6-b2dddfdec8cd", 
 "georss_polygon_s": "44.783 -93.7728 45.2471 -93.7728 45.2471 -93.1766 44.783 -93.1766 44.783 -93.7728", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
 "Hennepin County, Minnesota"
+=======
+"dc_identifier_s": "urn-d0d3e634-b28f-49b7-8de6-b2dddfdec8cd", 
+"georss_polygon_s": "44.783 -93.7728 45.2471 -93.7728 45.2471 -93.1766 44.783 -93.1766 44.783 -93.7728", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Hennepin County, Minnesota", 
+"Minnesota"
+>>>>>>> master
 ], 
 "dc_publisher_sm": [
 "Hennepin County"
 ], 
+<<<<<<< HEAD
 "layer_id_s": "urn:d0d3e634-b28f-49b7-8de6-b2dddfdec8cd", 
 "georss_box_s": "44.783 -93.7728 45.2471 -93.1766", 
 "dc_title_s": "Soil and Water Districts: Hennepin County, Minnesota, 2002", 
 "layer_slug_s": "Minnesota-d0d3e634-b28f-49b7-8de6-b2dddfdec8cd"
+=======
+"layer_id_s": "urn:urn-d0d3e634-b28f-49b7-8de6-b2dddfdec8cd", 
+"georss_box_s": "44.783 -93.7728 45.2471 -93.1766", 
+"dc_title_s": "Soil and Water Districts: Hennepin County, Minnesota, 2002", 
+"layer_slug_s": "Minnesota-urn-d0d3e634-b28f-49b7-8de6-b2dddfdec8cd"
+>>>>>>> master
 }

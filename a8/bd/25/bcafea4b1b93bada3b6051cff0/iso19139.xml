@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd">
       <gmd:fileIdentifier>
         <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">a8bd25bc-afea-4b1b-93ba-da3b6051cff0</gco:CharacterString>
@@ -458,6 +459,468 @@
                 <gmd:LI_ProcessStep>
                   <gmd:description>
                     <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">The LiDAR data was captured using fixed wing aircraft equipped with LiDAR systems. The LiDAR system included a differential GPS unit and inertial measurement system to provide superior accuracy. Both AeroMetric, Inc. and Surdex Corporation acquired LiDAR data over the project area. Surdex's data was post-processed to a raw point cloud by Surdex and then delivered to AeroMetric to be merged into one raw point cloud dataset.
+=======
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd">
+    <gmd:fileIdentifier>
+      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">a8bd25bc-afea-4b1b-93ba-da3b6051cff0</gco:CharacterString>
+    </gmd:fileIdentifier>
+    <gmd:language>
+      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">eng</gco:CharacterString>
+    </gmd:language>
+    <gmd:characterSet>
+      <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="004"/>
+    </gmd:characterSet>
+    <gmd:hierarchyLevel>
+      <gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="005"/>
+    </gmd:hierarchyLevel>
+    <gmd:contact>
+      <gmd:CI_ResponsibleParty>
+        <gmd:individualName>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Nancy Rader</gco:CharacterString>
+        </gmd:individualName>
+        <gmd:organisationName>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Geospatial Information Office (MnGeo)</gco:CharacterString>
+        </gmd:organisationName>
+        <gmd:positionName>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GIS Data Coordinator</gco:CharacterString>
+        </gmd:positionName>
+        <gmd:contactInfo>
+          <gmd:CI_Contact>
+            <gmd:phone>
+              <gmd:CI_Telephone>
+                <gmd:voice>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-201-2489</gco:CharacterString>
+                </gmd:voice>
+                <gmd:facsimile>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-296-6398</gco:CharacterString>
+                </gmd:facsimile>
+              </gmd:CI_Telephone>
+            </gmd:phone>
+            <gmd:address>
+              <gmd:CI_Address>
+                <gmd:deliveryPoint>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">658 Cedar Street, Room 300</gco:CharacterString>
+                </gmd:deliveryPoint>
+                <gmd:city>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
+                </gmd:city>
+                <gmd:administrativeArea>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
+                </gmd:administrativeArea>
+                <gmd:postalCode>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55155</gco:CharacterString>
+                </gmd:postalCode>
+                <gmd:electronicMailAddress>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">gisinfo.mngeo@state.mn.us</gco:CharacterString>
+                </gmd:electronicMailAddress>
+              </gmd:CI_Address>
+            </gmd:address>
+          </gmd:CI_Contact>
+        </gmd:contactInfo>
+        <gmd:role>
+          <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="007"/>
+        </gmd:role>
+      </gmd:CI_ResponsibleParty>
+    </gmd:contact>
+    <gmd:dateStamp>
+      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-06-29T09:59:00</gco:DateTime>
+    </gmd:dateStamp>
+    <gmd:metadataStandardName>
+      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
+    </gmd:metadataStandardName>
+    <gmd:metadataStandardVersion>
+      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2:2009(E)</gco:CharacterString>
+    </gmd:metadataStandardVersion>
+    <gmd:referenceSystemInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ngdc.noaa.gov/docucomp/65f8b220-95ed-11e0-aa80-0800200c9a66" xlink:title="North American Datum 1983"/>
+    <gmd:referenceSystemInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ngdc.noaa.gov/docucomp/c3895520-95ed-11e0-aa80-0800200c9a66" xlink:title="Geodetic Reference System 1980"/>
+    <gmd:identificationInfo>
+      <gmd:MD_DataIdentification>
+        <gmd:citation>
+          <gmd:CI_Citation>
+            <gmd:title>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">LiDAR Elevation: Southeast Minnesota, 2008</gco:CharacterString>
+            </gmd:title>
+            <gmd:date>
+              <gmd:CI_Date>
+                <gmd:date>
+                  <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2008-06-15</gco:Date>
+                </gmd:date>
+                <gmd:dateType>
+                  <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                </gmd:dateType>
+              </gmd:CI_Date>
+            </gmd:date>
+            <gmd:identifier>
+              <gmd:MD_Identifier>
+                <gmd:code>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">SE MN LiDAR 2008</gco:CharacterString>
+                </gmd:code>
+              </gmd:MD_Identifier>
+            </gmd:identifier>
+            <gmd:identifier>
+              <gmd:MD_Identifier>
+                <gmd:code>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">urn-a8bd25bc-afea-4b1b-93ba-da3b6051cff0</gco:CharacterString>
+                </gmd:code>
+              </gmd:MD_Identifier>
+            </gmd:identifier>
+            <gmd:citedResponsibleParty>
+              <gmd:CI_ResponsibleParty>
+                <gmd:organisationName>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">AeroMetric, Inc.</gco:CharacterString>
+                </gmd:organisationName>
+                <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="006"/>
+                </gmd:role>
+              </gmd:CI_ResponsibleParty>
+            </gmd:citedResponsibleParty>
+            <gmd:citedResponsibleParty>
+              <gmd:CI_ResponsibleParty>
+                <gmd:organisationName>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Department of Natural Resources</gco:CharacterString>
+                </gmd:organisationName>
+                <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="010"/>
+                </gmd:role>
+              </gmd:CI_ResponsibleParty>
+            </gmd:citedResponsibleParty>
+          </gmd:CI_Citation>
+        </gmd:citation>
+        <gmd:abstract>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">This high accuracy, bare-earth processed LiDAR data includes one-meter resolution DEMs, two-foot contours, edge-of-water breaklines and LAS points for nine counties in Southeast Minnesota: Dodge, Fillmore, Freeborn, Houston, Mower, Olmsted, Steele, Wabasha, and Winona. The project was coordinated by the Minnesota Department of Natural Resources and several partners including the U.S. Geological Survey, the Minnesota Department of Transportation, and staff from the affected counties. The data was collected by AeroMetric, Inc. (now Quantum Spatial) in November 2008 and was delivered in tiles that covered an area 1/16th of a 1:24,000-scale USGS quadrangle (approximately 3.25 square miles). DNR conducted the QA/QC starting April 2009. As part of the processing, one- and three-meter county mosaic DEMs were created and used for visual quality assessment. Note: This metadata record was created at the Minnesota Geospatial Information Office by combining information supplied by AeroMetric and the DNR.</gco:CharacterString>
+        </gmd:abstract>
+        <gmd:purpose>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">The Southeast Minnesota LiDAR project's goal was to provide high accuracy, bare-earth processed LiDAR data suitable for the FEMA National Flood Insurance Program. In August 2007, the nine counties had experienced a major rainfall event with over 10 inches of rain that caused extensive flooding. The Minnesota Legislature appropriated money to aid in flood relief and to provide mitigation against future floods including the acquisition of high-resolution elevation data using LiDAR technology.</gco:CharacterString>
+        </gmd:purpose>
+        <gmd:status>
+          <gmd:MD_ProgressCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ProgressCode" codeListValue="completed" codeSpace="001"/>
+        </gmd:status>
+        <gmd:pointOfContact>
+          <gmd:CI_ResponsibleParty>
+            <gmd:individualName>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Tim Loesch</gco:CharacterString>
+            </gmd:individualName>
+            <gmd:organisationName>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN Department of Natural Resources</gco:CharacterString>
+            </gmd:organisationName>
+            <gmd:positionName>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GIS Operations Supervisor</gco:CharacterString>
+            </gmd:positionName>
+            <gmd:contactInfo>
+              <gmd:CI_Contact>
+                <gmd:phone>
+                  <gmd:CI_Telephone>
+                    <gmd:voice>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-259-5475</gco:CharacterString>
+                    </gmd:voice>
+                  </gmd:CI_Telephone>
+                </gmd:phone>
+                <gmd:address>
+                  <gmd:CI_Address>
+                    <gmd:deliveryPoint>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">500 Lafayette Road</gco:CharacterString>
+                    </gmd:deliveryPoint>
+                    <gmd:city>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
+                    </gmd:city>
+                    <gmd:administrativeArea>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
+                    </gmd:administrativeArea>
+                    <gmd:postalCode>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55155</gco:CharacterString>
+                    </gmd:postalCode>
+                    <gmd:electronicMailAddress>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">tim.loesch@state.mn.us</gco:CharacterString>
+                    </gmd:electronicMailAddress>
+                  </gmd:CI_Address>
+                </gmd:address>
+              </gmd:CI_Contact>
+            </gmd:contactInfo>
+            <gmd:role>
+              <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="007"/>
+            </gmd:role>
+          </gmd:CI_ResponsibleParty>
+        </gmd:pointOfContact>
+        <gmd:resourceMaintenance>
+          <gmd:MD_MaintenanceInformation>
+            <gmd:maintenanceAndUpdateFrequency>
+              <gmd:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="unknown" codeSpace="012"/>
+            </gmd:maintenanceAndUpdateFrequency>
+          </gmd:MD_MaintenanceInformation>
+        </gmd:resourceMaintenance>
+        <gmd:descriptiveKeywords>
+          <gmd:MD_Keywords>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:type>
+              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="place"/>
+            </gmd:type>
+            <gmd:thesaurusName>
+              <gmd:CI_Citation>
+                <gmd:title>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GeoNames</gco:CharacterString>
+                </gmd:title>
+                <gmd:date>
+                  <gmd:CI_Date>
+                    <gmd:date>
+                      <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2012-10-29</gco:Date>
+                    </gmd:date>
+                    <gmd:dateType>
+                      <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                    </gmd:dateType>
+                  </gmd:CI_Date>
+                </gmd:date>
+                <gmd:identifier>
+                  <gmd:MD_Identifier>
+                    <gmd:code>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">http://www.geonames.org/ontology/ontology_v3.1.rdf</gco:CharacterString>
+                    </gmd:code>
+                  </gmd:MD_Identifier>
+                </gmd:identifier>
+              </gmd:CI_Citation>
+            </gmd:thesaurusName>
+          </gmd:MD_Keywords>
+        </gmd:descriptiveKeywords>
+        <gmd:resourceConstraints>
+          <gmd:MD_LegalConstraints>
+            <gmd:accessConstraints>
+              <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="008"/>
+            </gmd:accessConstraints>
+            <gmd:useConstraints>
+              <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="008"/>
+            </gmd:useConstraints>
+            <gmd:otherConstraints>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Access Constraints: None Use Constraints: See Disclaimer field for complete use conditions. Distribution Liability: 1. Minnesota Department of Natural Resources General Geographic Data License Agreement is online: http://www.dnr.state.mn.us/sitetools/data_software_license.html 2. MnGeo's data disclaimer is online: http://www.mngeo.state.mn.us/chouse/disclaimer.html</gco:CharacterString>
+            </gmd:otherConstraints>
+          </gmd:MD_LegalConstraints>
+        </gmd:resourceConstraints>
+        <gmd:aggregationInfo>
+          <gmd:MD_AggregateInformation>
+            <gmd:aggregateDataSetName>
+              <gmd:CI_Citation>
+                <gmd:title>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">For more information about elevation data for Minnesota, see: http://www.mngeo.state.mn.us/chouse/elevation/index.html</gco:CharacterString>
+                </gmd:title>
+                <gmd:date>
+                  <gmd:CI_Date>
+                    <gmd:dateType>
+                      <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                    </gmd:dateType>
+                  </gmd:CI_Date>
+                </gmd:date>
+              </gmd:CI_Citation>
+            </gmd:aggregateDataSetName>
+            <gmd:associationType>
+              <gmd:DS_AssociationTypeCode codeListValue="crossReference" codeSpace="001" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#DS_AssociationTypeCode"/>
+            </gmd:associationType>
+          </gmd:MD_AggregateInformation>
+        </gmd:aggregationInfo>
+        <gmd:language>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">eng</gco:CharacterString>
+        </gmd:language>
+        <gmd:topicCategory>
+          <gmd:MD_TopicCategoryCode>elevation</gmd:MD_TopicCategoryCode>
+        </gmd:topicCategory>
+        <gmd:extent>
+          <gmd:EX_Extent id="boundingExtent">
+            <gmd:geographicElement>
+              <gmd:EX_GeographicBoundingBox id="boundingGeographicBoundingBox">
+                <gmd:westBoundLongitude>
+                  <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">-93.6564513</gco:Decimal>
+                </gmd:westBoundLongitude>
+                <gmd:eastBoundLongitude>
+                  <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">-91.15730677</gco:Decimal>
+                </gmd:eastBoundLongitude>
+                <gmd:southBoundLatitude>
+                  <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">43.46710646</gco:Decimal>
+                </gmd:southBoundLatitude>
+                <gmd:northBoundLatitude>
+                  <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">44.48777166</gco:Decimal>
+                </gmd:northBoundLatitude>
+              </gmd:EX_GeographicBoundingBox>
+            </gmd:geographicElement>
+            <gmd:temporalElement>
+              <gmd:EX_TemporalExtent id="boundingTemporalExtent">
+                <gmd:extent>
+                  <gml:TimeInstant xmlns:gml="http://www.opengis.net/gml" gml:id="boundingTimeInstantExtent">
+                    <gml:description>Data was acquired between November 18 - 24, 2008.</gml:description>
+                    <gml:timePosition>2008-06-15</gml:timePosition>
+                  </gml:TimeInstant>
+                </gmd:extent>
+              </gmd:EX_TemporalExtent>
+            </gmd:temporalElement>
+          </gmd:EX_Extent>
+        </gmd:extent>
+        <gmd:supplementalInformation>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Nine counties in southeastern Minnesota: Dodge, Fillmore, Freeborn, Houston, Mower, Olmsted, Steele, Wabasha, and Winona.</gco:CharacterString>
+        </gmd:supplementalInformation>
+      </gmd:MD_DataIdentification>
+    </gmd:identificationInfo>
+    <gmd:contentInfo>
+      <gmd:MD_FeatureCatalogueDescription>
+        <gmd:includedWithDataset>
+          <gco:Boolean xmlns:gco="http://www.isotc211.org/2005/gco">false</gco:Boolean>
+        </gmd:includedWithDataset>
+      </gmd:MD_FeatureCatalogueDescription>
+    </gmd:contentInfo>
+    <gmd:distributionInfo>
+      <gmd:MD_Distribution>
+        <gmd:distributor>
+          <gmd:MD_Distributor>
+            <gmd:distributorContact>
+              <gmd:CI_ResponsibleParty>
+                <gmd:individualName>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Nancy Rader</gco:CharacterString>
+                </gmd:individualName>
+                <gmd:organisationName>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Geospatial Information Office (MnGeo)</gco:CharacterString>
+                </gmd:organisationName>
+                <gmd:positionName>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GIS Data Coordinator</gco:CharacterString>
+                </gmd:positionName>
+                <gmd:contactInfo>
+                  <gmd:CI_Contact>
+                    <gmd:phone>
+                      <gmd:CI_Telephone>
+                        <gmd:voice>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-201-2489</gco:CharacterString>
+                        </gmd:voice>
+                        <gmd:facsimile>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-296-6398</gco:CharacterString>
+                        </gmd:facsimile>
+                      </gmd:CI_Telephone>
+                    </gmd:phone>
+                    <gmd:address>
+                      <gmd:CI_Address>
+                        <gmd:deliveryPoint>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">658 Cedar Street, Room 300</gco:CharacterString>
+                        </gmd:deliveryPoint>
+                        <gmd:city>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
+                        </gmd:city>
+                        <gmd:administrativeArea>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
+                        </gmd:administrativeArea>
+                        <gmd:postalCode>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55155</gco:CharacterString>
+                        </gmd:postalCode>
+                        <gmd:electronicMailAddress>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">gisinfo.mngeo@state.mn.us</gco:CharacterString>
+                        </gmd:electronicMailAddress>
+                      </gmd:CI_Address>
+                    </gmd:address>
+                  </gmd:CI_Contact>
+                </gmd:contactInfo>
+                <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="distributor" codeSpace="005"/>
+                </gmd:role>
+              </gmd:CI_ResponsibleParty>
+            </gmd:distributorContact>
+            <gmd:distributionOrderProcess>
+              <gmd:MD_StandardOrderProcess>
+                <gmd:orderingInstructions>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Ordering Instructions: The LiDAR data provided by DNR may be viewed online or downloaded in several ways: 1. MnTOPO website: http://www.dnr.state.mn.us/maps/mntopo/index.html (or click the link below in the Online Linkage field) - view data online - download data in Esri and open formats (tiles for most data formats will be mosaicked together during download) - see the help file for details: http://files.dnr.state.mn.us/aboutdnr/gis/mntopo/mntopo_help_document.pdf 2. MnGeo's FTP site Use the tile_index.pdf maps to locate the tiles you need. Except for the county file, tiles will not be mosaicked. a. From the county folder: ftp://ftp.lmic.state.mn.us/pub/data/elevation/lidar/county/ The county mosaics are named elevation_data.gdb.zip For details of their contents and size, see this table: http://geoint.lmic.state.mn.us/lidar.php b. In the 250k tiles folder: ftp://ftp.lmic.state.mn.us/pub/data/elevation/lidar/q250k/ For more help with Minnesota's LiDAR data, see http://www.mngeo.state.mn.us/chouse/elevation/lidar.html</gco:CharacterString>
+                </gmd:orderingInstructions>
+              </gmd:MD_StandardOrderProcess>
+            </gmd:distributionOrderProcess>
+          </gmd:MD_Distributor>
+        </gmd:distributor>
+        <gmd:transferOptions>
+          <gmd:MD_DigitalTransferOptions>
+            <gmd:onLine>
+              <gmd:CI_OnlineResource>
+                <gmd:linkage>
+                  <gmd:URL>https://gisdata.mn.gov/dataset/elev-lidar-semn2008</gmd:URL>
+                </gmd:linkage>
+                <gmd:protocol>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:LINK</gco:CharacterString>
+                </gmd:protocol>
+              </gmd:CI_OnlineResource>
+            </gmd:onLine>
+          </gmd:MD_DigitalTransferOptions>
+        </gmd:transferOptions>
+      </gmd:MD_Distribution>
+    </gmd:distributionInfo>
+    <gmd:dataQualityInfo>
+      <gmd:DQ_DataQuality>
+        <gmd:scope xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+        <gmd:report>
+          <gmd:DQ_AbsoluteExternalPositionalAccuracy>
+            <gmd:nameOfMeasure>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Horizontal Positional Accuracy</gco:CharacterString>
+            </gmd:nameOfMeasure>
+            <gmd:evaluationMethodDescription>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">All these data products were acquired at 2400 meters above mean terrain (AMT) and have a horizontal accuracy of 0.40 meters, with a nominal point spacing of 1.0 meters. Horizontal datum: NAD83 (NSRS2007)</gco:CharacterString>
+            </gmd:evaluationMethodDescription>
+            <gmd:result>
+              <gmd:DQ_QuantitativeResult>
+                <gmd:valueUnit>
+                  <gml:BaseUnit xmlns:gml="http://www.opengis.net/gml" gml:id="meters">
+                    <gml:identifier codeSpace="meters"/>
+                    <gml:unitsSystem xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.bipm.org/en/si/"/>
+                  </gml:BaseUnit>
+                </gmd:valueUnit>
+              </gmd:DQ_QuantitativeResult>
+            </gmd:result>
+          </gmd:DQ_AbsoluteExternalPositionalAccuracy>
+        </gmd:report>
+        <gmd:report>
+          <gmd:DQ_AbsoluteExternalPositionalAccuracy>
+            <gmd:nameOfMeasure>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Vertical Positional Accuracy</gco:CharacterString>
+            </gmd:nameOfMeasure>
+            <gmd:evaluationMethodDescription>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Vertical datum: NAVD88 (Geoid03) 1. AeroMetric's Tests: The Fundamental Vertical Accuracy (FVA) of the TIN achieved 0.161 meters at a 95% confidence level in the 'Open Terrain' land cover category. 26 control points were used in this evaluation. The Consolidated Vertical Accuracy (CVA) of the TIN achieved 0.36 meters at a 95% confidence level according to ASPRS Guidelines, Vertical Accuracy Reporting for LiDAR for all land cover categories. 127 points covering 5 land cover categories were tested. Land Cover categories are the following: Open Terrain, Tall Weeds and crops, Brush lands and low trees, Forested areas fully covered by trees, and Urban areas with dense man-made structures. Supplemental Vertical Accuracy (SVA) of the TIN are shown below at a 95% confidence level, derived by the ASPRS Guidelines, Vertical Accuracy Report for LiDAR Data based on the 95th percentile error in all of the individual land cover categories. Below are the land cover categories with the achieved accuracy reported at a 95th percentile error and the number of test points: Open Terrain: 0.144m, 26 Tall Weeds and crops: 0.240m, 23 Brush lands and low trees: 0.248m, 22 Forested areas fully covered by trees: 0.165m, 22 Urban areas with dense man-made structures: 0.216m, 34 2. MnDNR's Tests: Accuracy of the dataset was verified by a second set of ground control points provided and tested by MnDNR. The Consolidated Vertical Accuracy (CVA) of the TIN as tested by MnDNR achieved 0.287 meters at a 95% confidence level of all land cover categories. 1009 control points covering the 5 land classes were used in this evaluation. The vertical RMSE and sample count per county as tested by MnDNR is as follows: Dodge 0.129m, 121; Fillmore 0.155m, 128; Houston 0.110m, 134; Mower 0.161m, 115; Olmsted 0.117m, 125; Steele 0.125m, 137; Wabasha 0.106m, 97; Winona 0.161m, 176.</gco:CharacterString>
+            </gmd:evaluationMethodDescription>
+            <gmd:result>
+              <gmd:DQ_QuantitativeResult>
+                <gmd:valueUnit>
+                  <gml:BaseUnit xmlns:gml="http://www.opengis.net/gml" gml:id="meters">
+                    <gml:identifier codeSpace="meters"/>
+                    <gml:unitsSystem xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.bipm.org/en/si/"/>
+                  </gml:BaseUnit>
+                </gmd:valueUnit>
+              </gmd:DQ_QuantitativeResult>
+            </gmd:result>
+          </gmd:DQ_AbsoluteExternalPositionalAccuracy>
+        </gmd:report>
+        <gmd:report>
+          <gmd:DQ_CompletenessCommission>
+            <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+          </gmd:DQ_CompletenessCommission>
+        </gmd:report>
+        <gmd:report>
+          <gmd:DQ_CompletenessOmission>
+            <gmd:evaluationMethodDescription>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Complete</gco:CharacterString>
+            </gmd:evaluationMethodDescription>
+            <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+          </gmd:DQ_CompletenessOmission>
+        </gmd:report>
+        <gmd:report>
+          <gmd:DQ_ConceptualConsistency>
+            <gmd:measureDescription>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Contours: Topology checks were done to look for dangles, crossing and intersecting contours, as well as other anomalies. All errors were fixed and a second topology check was done to verify an error free dataset.</gco:CharacterString>
+            </gmd:measureDescription>
+            <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+          </gmd:DQ_ConceptualConsistency>
+        </gmd:report>
+        <gmd:report>
+          <gmd:DQ_NonQuantitativeAttributeAccuracy>
+            <gmd:measureDescription>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">See the Vertical Positional Accuracy field</gco:CharacterString>
+            </gmd:measureDescription>
+            <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="inapplicable"/>
+          </gmd:DQ_NonQuantitativeAttributeAccuracy>
+        </gmd:report>
+        <gmd:lineage>
+          <gmd:LI_Lineage>
+            <gmd:processStep>
+              <gmd:LI_ProcessStep>
+                <gmd:description>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">The LiDAR data was captured using fixed wing aircraft equipped with LiDAR systems. The LiDAR system included a differential GPS unit and inertial measurement system to provide superior accuracy. Both AeroMetric, Inc. and Surdex Corporation acquired LiDAR data over the project area. Surdex's data was post-processed to a raw point cloud by Surdex and then delivered to AeroMetric to be merged into one raw point cloud dataset.
+>>>>>>> master
 
 Acquisition parameters: 
 1. Scanners - Optech ALTM Gemini (AeroMetric) and Leica ALS50-2 (Surdex)
@@ -520,6 +983,7 @@ MnDNR created the 3-meter DEM using the following method:
 - Step 1: Mosaic all the tiles that make up the county into a file geodatabase.
 - Step 2: The 1-meter grid is then "filled" to fill in any NO DATA cells that have data around them. This is common when grid tiles are merged. The commmand that was used is the focalmean tool within the con tool in the Spatial Analyst | Map Algebra tool. The equation used is: con(isnull(dem01),focalmean dem01,rectangle,3,3,data),dem01). The DEM01 grid is then deleted and replaced with the output from this step.
 - Step 3: The filled raster is then reduced to 3-meter resolution using the Spatial Analyst, Aggregate Tool. A 3x3 window of 1-meter cells are combined into one 3x3 meter cell and assigned a value based on the mean of the 9 cells.</gco:CharacterString>
+<<<<<<< HEAD
                   </gmd:description>
                 </gmd:LI_ProcessStep>
               </gmd:processStep>
@@ -586,3 +1050,71 @@ MnDNR created the 3-meter DEM using the following method:
       </gmd:metadataMaintenance>
     </gmd:MD_Metadata>
     
+=======
+                </gmd:description>
+              </gmd:LI_ProcessStep>
+            </gmd:processStep>
+          </gmd:LI_Lineage>
+        </gmd:lineage>
+      </gmd:DQ_DataQuality>
+    </gmd:dataQualityInfo>
+    <gmd:metadataMaintenance>
+      <gmd:MD_MaintenanceInformation>
+        <gmd:maintenanceAndUpdateFrequency xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+        <gmd:maintenanceNote>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">This metadata was automatically generated from the Minnesota Geographic Metadata Guidelinesstandard version 1.2 using the January 2013 version of the FGDC CSDGM to ISO 19115-2 transform.</gco:CharacterString>
+        </gmd:maintenanceNote>
+        <gmd:contact>
+          <gmd:CI_ResponsibleParty>
+            <gmd:individualName>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Nancy Rader</gco:CharacterString>
+            </gmd:individualName>
+            <gmd:organisationName>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Geospatial Information Office (MnGeo)</gco:CharacterString>
+            </gmd:organisationName>
+            <gmd:positionName>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GIS Data Coordinator</gco:CharacterString>
+            </gmd:positionName>
+            <gmd:contactInfo>
+              <gmd:CI_Contact>
+                <gmd:phone>
+                  <gmd:CI_Telephone>
+                    <gmd:voice>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-201-2489</gco:CharacterString>
+                    </gmd:voice>
+                    <gmd:facsimile>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-296-6398</gco:CharacterString>
+                    </gmd:facsimile>
+                  </gmd:CI_Telephone>
+                </gmd:phone>
+                <gmd:address>
+                  <gmd:CI_Address>
+                    <gmd:deliveryPoint>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">658 Cedar Street, Room 300</gco:CharacterString>
+                    </gmd:deliveryPoint>
+                    <gmd:city>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
+                    </gmd:city>
+                    <gmd:administrativeArea>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
+                    </gmd:administrativeArea>
+                    <gmd:postalCode>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55155</gco:CharacterString>
+                    </gmd:postalCode>
+                    <gmd:electronicMailAddress>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">gisinfo.mngeo@state.mn.us</gco:CharacterString>
+                    </gmd:electronicMailAddress>
+                  </gmd:CI_Address>
+                </gmd:address>
+              </gmd:CI_Contact>
+            </gmd:contactInfo>
+            <gmd:role>
+              <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="custodian" codeSpace="002"/>
+            </gmd:role>
+          </gmd:CI_ResponsibleParty>
+        </gmd:contact>
+      </gmd:MD_MaintenanceInformation>
+    </gmd:metadataMaintenance>
+  </gmd:MD_Metadata>
+  
+>>>>>>> master

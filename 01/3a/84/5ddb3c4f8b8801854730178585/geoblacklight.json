@@ -1,12 +1,18 @@
 {
+<<<<<<< HEAD
 "layer_geom_type_s": "Polygon", 
 "layer_modified_dt": "2016-06-28T11:10:08.016695Z", 
+=======
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-08-16T19:29:57Z", 
+>>>>>>> master
 "solr_geom": "ENVELOPE(-93.8970564671023, -93.267053059318, 44.8493704009773, 44.4877519055732)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.gis.co.scott.mn.us/datasets/a7c32fada4d04f9dba2330d47bd0e922_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/Foreclosures/FeatureServer/0\",\"http://schema.org/url\":\"http://opendata.gis.co.scott.mn.us/datasets/a7c32fada4d04f9dba2330d47bd0e922_0\"}", 
 "dc_rights_s": "Public", 
 "uuid": "013a845d-db3c-4f8b-8801-854730178585", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "", 
 "Scott County Minnesota", 
 "Foreclosures", 
@@ -17,6 +23,15 @@
 "dc_description_s": "This dataset contains foreclosures that have occurred in Scott County. This dataset is current and has records that date back to 1985.", 
 "dct_issued_s": "2015-11-16T22:31:56.000ZZ", 
 "dc_format_s": "Shapefile", 
+=======
+"Location", 
+"Foreclosures", 
+"Property"
+], 
+"dc_format_s": "File", 
+"dc_description_s": "This dataset contains foreclosures that have occurred in Scott County. This dataset is current and has records that date back to 1985.", 
+"dct_issued_s": "2015-11-14T22:31:56Z", 
+>>>>>>> master
 "dc_creator_sm": [
 "Scott County Minnesota"
 ], 
@@ -32,6 +47,10 @@
 ], 
 "layer_id_s": "urn:013a845d-db3c-4f8b-8801-854730178585", 
 "georss_box_s": "44.4877519055732 -93.8970564671023 44.8493704009773 -93.267053059318", 
+<<<<<<< HEAD
 "dc_title_s": "Foreclosures", 
+=======
+"dc_title_s": "Foreclosures: Scott County Minnesota, 2015", 
+>>>>>>> master
 "layer_slug_s": "Minnesota-013a845d-db3c-4f8b-8801-854730178585"
 }

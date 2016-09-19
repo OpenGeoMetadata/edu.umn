@@ -7,7 +7,11 @@
 "uuid": "urn-6baaf2ad-63bf-46f7-acfe-a67bba6e0584", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "planningCadastre"
+=======
+"Planning and Cadastral"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "2016", 
 "dc_description_s": "This data layer shows lands acquired by MNDNR Fisheries through purchase, donation and easement for establishment as Aquatic Management Areas (AMAs). AMAs are established to Nprotect, develop and manage lakes, rivers, streams, and adjacent wetlands and lands that are critical for fish and other aquatic life for water quality, and for their intrinsic biological value, public fishing, or other compatible outdoor recreational uses.N (MN Statutes 86A Subd. 14) Some features in this layer are hyperlinked to the scanned county deed documents that describe the original acquisitions. Use ArcMap's Hyperlink Tool (yellow lightning bolt) to access deed documents. (To set up the hyperlink, open Layer Properties: Display tab, check the Hyperlinks box and choose the field [WEB_LINK1].) For more information about AMA's, see the following: MN Statutes 86A: http://www.revisor.mn.gov/statutes/?id=86A.05 MN Rules 6270.0200: http://www.revisor.mn.gov/rules/?id=6270.0200 MN AMA Acquisition Plan 2008-2033: http://files.dnr.state.mn.us/fish_wildlife/ama/AMA_Acquisition_Report.pdf", 

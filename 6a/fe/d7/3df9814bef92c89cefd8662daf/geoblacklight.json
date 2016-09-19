@@ -7,7 +7,11 @@
 "uuid": "urn-6afed73d-f981-4bef-92c8-9cefd8662daf", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "transportation"
+=======
+"Transportation"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "upda", 
 "dc_description_s": "The Transit Routes layer contains all fixed routes serving the Twin Cities regional metropolitan area. One shape and one corresponding record exists for each individual transit route. The line work for the dataset was derived from The NCompass Technologies Street Centerline and Address Range dataset. A small number of line segments have been added to those available from the NCompass Technologies dataset to completely depict all routes traveled by fixed-route transit vehicles.", 

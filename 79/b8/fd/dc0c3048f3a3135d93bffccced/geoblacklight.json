@@ -1,12 +1,18 @@
 {
+<<<<<<< HEAD
 "layer_geom_type_s": "Polygon", 
 "layer_modified_dt": "2016-06-28T11:10:26.184988Z", 
+=======
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-08-16T19:28:20Z", 
+>>>>>>> master
 "solr_geom": "ENVELOPE(-93.8940145534889, -93.2811496859301, 44.7772027707046, 44.5423071814825)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.gis.co.scott.mn.us/datasets/6c8cceb230ba49539510d1790efc99ed_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/Bluff_Overlay/FeatureServer/0\",\"http://schema.org/url\":\"http://opendata.gis.co.scott.mn.us/datasets/6c8cceb230ba49539510d1790efc99ed_0\"}", 
 "dc_rights_s": "Public", 
 "uuid": "79b8fddc-0c30-48f3-a313-5d93bffccced", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "society", 
 "biota", 
 "Scott County Minnesota", 
@@ -17,6 +23,15 @@
 "dc_description_s": "Bluffs within Scott County.", 
 "dct_issued_s": "2016-04-08T18:20:22.000ZZ", 
 "dc_format_s": "Shapefile", 
+=======
+"Society", 
+"Biota", 
+"Bluffs"
+], 
+"dc_format_s": "File", 
+"dc_description_s": "Bluffs within Scott County.", 
+"dct_issued_s": "2016-04-05T18:20:22Z", 
+>>>>>>> master
 "dc_creator_sm": [
 "Scott County Minnesota"
 ], 
@@ -32,6 +47,10 @@
 ], 
 "layer_id_s": "urn:79b8fddc-0c30-48f3-a313-5d93bffccced", 
 "georss_box_s": "44.5423071814825 -93.8940145534889 44.7772027707046 -93.2811496859301", 
+<<<<<<< HEAD
 "dc_title_s": "Bluff Overlay", 
+=======
+"dc_title_s": "Bluff Overlay: Scott County Minnesota, 2016", 
+>>>>>>> master
 "layer_slug_s": "Minnesota-79b8fddc-0c30-48f3-a313-5d93bffccced"
 }

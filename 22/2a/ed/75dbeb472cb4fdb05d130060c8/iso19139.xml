@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd">
       <gmd:fileIdentifier>
         <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">222aed75-dbeb-472c-b4fd-b05d130060c8</gco:CharacterString>
@@ -543,3 +544,559 @@ and http://www.bwsr.state.mn.us/soils/SSURGO_Status_MN2014.pdf</gco:CharacterStr
       </gmd:metadataMaintenance>
     </gmd:MD_Metadata>
     
+=======
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd">
+    <gmd:fileIdentifier>
+      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">222aed75-dbeb-472c-b4fd-b05d130060c8</gco:CharacterString>
+    </gmd:fileIdentifier>
+    <gmd:language>
+      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">eng</gco:CharacterString>
+    </gmd:language>
+    <gmd:characterSet>
+      <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="004"/>
+    </gmd:characterSet>
+    <gmd:hierarchyLevel>
+      <gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="005"/>
+    </gmd:hierarchyLevel>
+    <gmd:contact>
+      <gmd:CI_ResponsibleParty>
+        <gmd:individualName>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Nancy Rader</gco:CharacterString>
+        </gmd:individualName>
+        <gmd:organisationName>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Geospatial Information Office (MnGeo)</gco:CharacterString>
+        </gmd:organisationName>
+        <gmd:positionName>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GIS Data Coordinator</gco:CharacterString>
+        </gmd:positionName>
+        <gmd:contactInfo>
+          <gmd:CI_Contact>
+            <gmd:phone>
+              <gmd:CI_Telephone>
+                <gmd:voice>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-201-2489</gco:CharacterString>
+                </gmd:voice>
+                <gmd:facsimile>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-296-6398</gco:CharacterString>
+                </gmd:facsimile>
+              </gmd:CI_Telephone>
+            </gmd:phone>
+            <gmd:address>
+              <gmd:CI_Address>
+                <gmd:deliveryPoint>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">658 Cedar Street, Room 300</gco:CharacterString>
+                </gmd:deliveryPoint>
+                <gmd:city>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
+                </gmd:city>
+                <gmd:administrativeArea>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
+                </gmd:administrativeArea>
+                <gmd:postalCode>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55155</gco:CharacterString>
+                </gmd:postalCode>
+                <gmd:electronicMailAddress>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">gisinfo.mngeo@state.mn.us</gco:CharacterString>
+                </gmd:electronicMailAddress>
+              </gmd:CI_Address>
+            </gmd:address>
+          </gmd:CI_Contact>
+        </gmd:contactInfo>
+        <gmd:role>
+          <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="007"/>
+        </gmd:role>
+      </gmd:CI_ResponsibleParty>
+    </gmd:contact>
+    <gmd:dateStamp>
+      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-08-17T17:03:07</gco:DateTime>
+    </gmd:dateStamp>
+    <gmd:metadataStandardName>
+      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
+    </gmd:metadataStandardName>
+    <gmd:metadataStandardVersion>
+      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2:2009(E)</gco:CharacterString>
+    </gmd:metadataStandardVersion>
+    <gmd:spatialRepresentationInfo/>
+    <gmd:referenceSystemInfo>
+      <gmd:MD_ReferenceSystem>
+        <gmd:referenceSystemIdentifier>
+          <gmd:RS_Identifier>
+            <gmd:code xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+            <gmd:codeSpace>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">None</gco:CharacterString>
+            </gmd:codeSpace>
+          </gmd:RS_Identifier>
+        </gmd:referenceSystemIdentifier>
+      </gmd:MD_ReferenceSystem>
+    </gmd:referenceSystemInfo>
+    <gmd:referenceSystemInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ngdc.noaa.gov/docucomp/65f8b220-95ed-11e0-aa80-0800200c9a66" xlink:title="North American Datum 1983"/>
+    <gmd:referenceSystemInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ngdc.noaa.gov/docucomp/c3895520-95ed-11e0-aa80-0800200c9a66" xlink:title="Geodetic Reference System 1980"/>
+    <gmd:identificationInfo>
+      <gmd:MD_DataIdentification>
+        <gmd:citation>
+          <gmd:CI_Citation>
+            <gmd:title>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Soil Survey Geographic Data Base (SSURGO), Minnesota</gco:CharacterString>
+            </gmd:title>
+            <gmd:date>
+              <gmd:CI_Date>
+                <gmd:date>
+                  <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2015-02-09T06:00:00</gco:DateTime>
+                </gmd:date>
+                <gmd:dateType>
+                  <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                </gmd:dateType>
+              </gmd:CI_Date>
+            </gmd:date>
+            <gmd:identifier>
+              <gmd:MD_Identifier>
+                <gmd:code>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ssurgo</gco:CharacterString>
+                </gmd:code>
+              </gmd:MD_Identifier>
+            </gmd:identifier>
+            <gmd:identifier>
+              <gmd:MD_Identifier>
+                <gmd:code>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">urn-222aed75-dbeb-472c-b4fd-b05d130060c8</gco:CharacterString>
+                </gmd:code>
+              </gmd:MD_Identifier>
+            </gmd:identifier>
+            <gmd:citedResponsibleParty>
+              <gmd:CI_ResponsibleParty>
+                <gmd:organisationName>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">U.S. Department of Agriculture (USDA), Natural Resources Conservation Service (NRCS) - National Geospatial Center of Excellence</gco:CharacterString>
+                </gmd:organisationName>
+                <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="006"/>
+                </gmd:role>
+              </gmd:CI_ResponsibleParty>
+            </gmd:citedResponsibleParty>
+            <gmd:citedResponsibleParty>
+              <gmd:CI_ResponsibleParty>
+                <gmd:organisationName>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">U.S. Department of Agriculture</gco:CharacterString>
+                </gmd:organisationName>
+                <gmd:contactInfo>
+                  <gmd:CI_Contact>
+                    <gmd:address>
+                      <gmd:CI_Address>
+                        <gmd:city xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                          <gco:CharacterString/>
+                        </gmd:city>
+                        <gmd:administrativeArea xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                          <gco:CharacterString/>
+                        </gmd:administrativeArea>
+                      </gmd:CI_Address>
+                    </gmd:address>
+                  </gmd:CI_Contact>
+                </gmd:contactInfo>
+                <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="010"/>
+                </gmd:role>
+              </gmd:CI_ResponsibleParty>
+            </gmd:citedResponsibleParty>
+            <gmd:presentationForm/>
+          </gmd:CI_Citation>
+        </gmd:citation>
+        <gmd:abstract>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">This dataset is a digital soil survey and generally is the most detailed level of soil geographic data developed by the National Cooperative Soil Survey. The information was prepared by digitizing maps, by compiling information onto a planimetric correct base and digitizing, or by revising digitized maps using remotely sensed and other information. This dataset consists of georeferenced digital map data and computerized attribute data. The map data are in a soil survey area extent format and include a detailed, field verified inventory of soils and miscellaneous areas that normally occur in a repeatable pattern on the landscape and that can be cartographically shown at the scale mapped. A special soil features layer (point and line features) is optional. This layer displays the location of features too small to delineate at the mapping scale, but they are large enough and contrasting enough to significantly influence use and management. The soil map units are linked to attributes in the National Soil Information System relational database, which gives the proportionate extent of the component soils and their properties. Note: This metadata record was created by MnGeo to serve as a generic record for all SSURGO data sets within Minnesota. See the individual county metadata records created by NRCS for county-specific information; these records are included in the data set download files.</gco:CharacterString>
+        </gmd:abstract>
+        <gmd:purpose>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">SSURGO depicts information about the kinds and distribution of soils on the landscape. The soil map and data used in the SSURGO product were prepared by soil scientists as part of the National Cooperative Soil Survey. This soil survey contains information that can be applied in managing farms and wetlands; in selecting sites for roads, ponds, buildings, and other structures; and in judging the suitability of tracts of land for farming, industry, and recreation. For a comparison between SSURGO data and the more generalized STATSGO2 (General Soil Map) data from NRCS, see: http://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/survey/geo/?cid=nrcs142p2_053626</gco:CharacterString>
+        </gmd:purpose>
+        <gmd:status>
+          <gmd:MD_ProgressCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ProgressCode" codeListValue="underDevelopment" codeSpace="007"/>
+        </gmd:status>
+        <gmd:pointOfContact>
+          <gmd:CI_ResponsibleParty>
+            <gmd:individualName>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">John Beck</gco:CharacterString>
+            </gmd:individualName>
+            <gmd:organisationName>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">U.S. Department of Agriculture, Natural Resources Conservation Service</gco:CharacterString>
+            </gmd:organisationName>
+            <gmd:positionName>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">State Soil Scientist</gco:CharacterString>
+            </gmd:positionName>
+            <gmd:contactInfo>
+              <gmd:CI_Contact>
+                <gmd:phone>
+                  <gmd:CI_Telephone>
+                    <gmd:voice>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-602-7895</gco:CharacterString>
+                    </gmd:voice>
+                    <gmd:facsimile>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-602-7914</gco:CharacterString>
+                    </gmd:facsimile>
+                  </gmd:CI_Telephone>
+                </gmd:phone>
+                <gmd:address>
+                  <gmd:CI_Address>
+                    <gmd:deliveryPoint>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">375 Jackson Street, Suite 600</gco:CharacterString>
+                    </gmd:deliveryPoint>
+                    <gmd:city>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
+                    </gmd:city>
+                    <gmd:administrativeArea>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
+                    </gmd:administrativeArea>
+                    <gmd:postalCode>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55101</gco:CharacterString>
+                    </gmd:postalCode>
+                    <gmd:electronicMailAddress>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">john.beck@mn.usda.gov</gco:CharacterString>
+                    </gmd:electronicMailAddress>
+                  </gmd:CI_Address>
+                </gmd:address>
+              </gmd:CI_Contact>
+            </gmd:contactInfo>
+            <gmd:role>
+              <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="007"/>
+            </gmd:role>
+          </gmd:CI_ResponsibleParty>
+        </gmd:pointOfContact>
+        <gmd:resourceMaintenance>
+          <gmd:MD_MaintenanceInformation>
+            <gmd:maintenanceAndUpdateFrequency>
+              <gmd:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded" codeSpace="009"/>
+            </gmd:maintenanceAndUpdateFrequency>
+          </gmd:MD_MaintenanceInformation>
+        </gmd:resourceMaintenance>
+        <gmd:graphicOverview>
+          <gmd:MD_BrowseGraphic>
+            <gmd:fileName>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ftp://ftp.lmic.state.mn.us/pub/data/phys_biol/soils/ssurgo.gif</gco:CharacterString>
+            </gmd:fileName>
+            <gmd:fileDescription xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+              <gco:CharacterString/>
+            </gmd:fileDescription>
+            <gmd:fileType xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+              <gco:CharacterString/>
+            </gmd:fileType>
+          </gmd:MD_BrowseGraphic>
+        </gmd:graphicOverview>
+        <gmd:resourceConstraints>
+          <gmd:MD_LegalConstraints>
+            <gmd:accessConstraints>
+              <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="008"/>
+            </gmd:accessConstraints>
+            <gmd:useConstraints>
+              <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="008"/>
+            </gmd:useConstraints>
+            <gmd:otherConstraints>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Access Constraints: None Use Constraints: The U.S. Department of Agriculture, Service Center Agencies, should be acknowledged as the data source in products derived from these data. This data set is not designed for use as a primary regulatory tool in permitting or siting decisions, but may be used as a reference source. This information may be interpreted by organizations, agencies, units of government, or others based on needs; however, they are responsible for the appropriate application. Federal, State, or local regulatory bodies are not to reassign to the Service Center Agencies any authority for the decisions that they make. The Service Center Agencies will not perform any evaluations of these data for purposes related solely to State or local regulatory programs. Photographic or digital enlargement of these data to scales greater than at which they were originally mapped can cause misinterpretation of the data. Digital data files are periodically updated, and users are responsible for obtaining the latest version of the data. Distribution Liability: 1. Although data in this product have been processed successfully on a computer system at the U.S. Department of Agriculture, no warranty expressed or implied is made by the Service Center Agencies regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. The U.S. Department of Agriculture will warrant the delivery of this product in computer readable format, and will offer appropriate adjustment of credit when the product is determined unreadable by correctly adjusted computer input peripherals, or when the physical medium is delivered in damaged condition. Request for adjustment of credit must be made within 90 days from the date of this shipment from the ordering site. Neither the U.S. Department of Agriculture, nor any of its agencies are liable for misuse of the data, for damage, for transmission of viruses, or computer contamination through the distribution of these data sets. The U.S. Department of Agriculture prohibits discrimination in its programs on the basis of race, color, national origin, sex, religion, age, disability, political beliefs, sexual orientation, or marital or family status. (Not all prohibited bases apply to all programs.) 2. MnGeo's data disclaimer is online: http://www.mngeo.state.mn.us/chouse/disclaimer.html</gco:CharacterString>
+            </gmd:otherConstraints>
+          </gmd:MD_LegalConstraints>
+        </gmd:resourceConstraints>
+        <gmd:aggregationInfo>
+          <gmd:MD_AggregateInformation>
+            <gmd:aggregateDataSetName>
+              <gmd:CI_Citation>
+                <gmd:title>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">For information on other soils data available for Minnesota, see: http://www.mngeo.state.mn.us/chouse/soil.html</gco:CharacterString>
+                </gmd:title>
+                <gmd:date>
+                  <gmd:CI_Date>
+                    <gmd:date>
+                      <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco"/>
+                    </gmd:date>
+                    <gmd:dateType>
+                      <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
+                    </gmd:dateType>
+                  </gmd:CI_Date>
+                </gmd:date>
+                <gmd:otherCitationDetails/>
+              </gmd:CI_Citation>
+            </gmd:aggregateDataSetName>
+            <gmd:associationType>
+              <gmd:DS_AssociationTypeCode codeListValue="crossReference" codeSpace="001" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#DS_AssociationTypeCode"/>
+            </gmd:associationType>
+          </gmd:MD_AggregateInformation>
+        </gmd:aggregationInfo>
+        <gmd:spatialRepresentationType>
+          <gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="001"/>
+        </gmd:spatialRepresentationType>
+        <gmd:language>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">eng</gco:CharacterString>
+        </gmd:language>
+        <gmd:topicCategory>
+          <gmd:MD_TopicCategoryCode>geoscientificInformation</gmd:MD_TopicCategoryCode>
+        </gmd:topicCategory>
+        <gmd:environmentDescription>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Native Dataset Environment: Shapefile (originally DLG)</gco:CharacterString>
+        </gmd:environmentDescription>
+        <gmd:extent>
+          <gmd:EX_Extent id="boundingExtent">
+            <gmd:geographicElement>
+              <gmd:EX_GeographicBoundingBox id="boundingGeographicBoundingBox">
+                <gmd:westBoundLongitude>
+                  <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">-97.5</gco:Decimal>
+                </gmd:westBoundLongitude>
+                <gmd:eastBoundLongitude>
+                  <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">-89</gco:Decimal>
+                </gmd:eastBoundLongitude>
+                <gmd:southBoundLatitude>
+                  <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">43</gco:Decimal>
+                </gmd:southBoundLatitude>
+                <gmd:northBoundLatitude>
+                  <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">49.5</gco:Decimal>
+                </gmd:northBoundLatitude>
+              </gmd:EX_GeographicBoundingBox>
+            </gmd:geographicElement>
+            <gmd:temporalElement xmlns:gn="http://www.fao.org/geonetwork" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <gmd:EX_TemporalExtent>
+                <gmd:extent>
+                  <gml:TimePeriod gml:id="d359673e341a1052958">
+                    <gml:beginPosition/>
+                  </gml:TimePeriod>
+                </gmd:extent>
+              </gmd:EX_TemporalExtent>
+            </gmd:temporalElement>
+          </gmd:EX_Extent>
+        </gmd:extent>
+        <gmd:supplementalInformation>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Most counties within Minnesota; see status maps: http://websoilsurvey.nrcs.usda.gov/DataAvailability/SoilDataAvailabilityMap.pdf 
+and http://www.bwsr.state.mn.us/soils/SSURGO_Status_MN2014.pdf</gco:CharacterString>
+        </gmd:supplementalInformation>
+      </gmd:MD_DataIdentification>
+    </gmd:identificationInfo>
+    <gmd:contentInfo>
+      <gmd:MD_FeatureCatalogueDescription>
+        <gmd:includedWithDataset>
+          <gco:Boolean xmlns:gco="http://www.isotc211.org/2005/gco">false</gco:Boolean>
+        </gmd:includedWithDataset>
+        <gmd:featureCatalogueCitation/>
+      </gmd:MD_FeatureCatalogueDescription>
+    </gmd:contentInfo>
+    <gmd:distributionInfo>
+      <gmd:MD_Distribution>
+        <gmd:distributionFormat>
+          <gmd:MD_Format>
+            <gmd:name>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ArcView shapefile, ArcInfo coverage, ArcInfo export</gco:CharacterString>
+            </gmd:name>
+            <gmd:version xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+          </gmd:MD_Format>
+        </gmd:distributionFormat>
+        <gmd:distributor>
+          <gmd:MD_Distributor>
+            <gmd:distributorContact>
+              <gmd:CI_ResponsibleParty>
+                <gmd:organisationName>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">USDA - NRCS National Geospatial Center of Excellence</gco:CharacterString>
+                </gmd:organisationName>
+                <gmd:contactInfo>
+                  <gmd:CI_Contact>
+                    <gmd:phone>
+                      <gmd:CI_Telephone>
+                        <gmd:voice>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">800-672-5559</gco:CharacterString>
+                        </gmd:voice>
+                      </gmd:CI_Telephone>
+                    </gmd:phone>
+                    <gmd:address>
+                      <gmd:CI_Address>
+                        <gmd:deliveryPoint>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">501 W. Felix Street, Building 23</gco:CharacterString>
+                        </gmd:deliveryPoint>
+                        <gmd:city>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Fort Worth</gco:CharacterString>
+                        </gmd:city>
+                        <gmd:administrativeArea>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">TX</gco:CharacterString>
+                        </gmd:administrativeArea>
+                        <gmd:postalCode>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">76115</gco:CharacterString>
+                        </gmd:postalCode>
+                        <gmd:electronicMailAddress>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">soilshotline@lin.usda.gov</gco:CharacterString>
+                        </gmd:electronicMailAddress>
+                      </gmd:CI_Address>
+                    </gmd:address>
+                  </gmd:CI_Contact>
+                </gmd:contactInfo>
+                <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="distributor" codeSpace="005"/>
+                </gmd:role>
+              </gmd:CI_ResponsibleParty>
+            </gmd:distributorContact>
+            <gmd:distributionOrderProcess>
+              <gmd:MD_StandardOrderProcess>
+                <gmd:fees xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                  <gco:CharacterString/>
+                </gmd:fees>
+                <gmd:orderingInstructions>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Ordering Instructions: Click on 'Online Linkage' field below to get to an NRCS webpage detailing the options for free download and for CD purchase. See NRCS's readme.txt file that accompanies the download for help with importing the tabular data into a SSURGO template database.</gco:CharacterString>
+                </gmd:orderingInstructions>
+              </gmd:MD_StandardOrderProcess>
+            </gmd:distributionOrderProcess>
+          </gmd:MD_Distributor>
+        </gmd:distributor>
+        <gmd:transferOptions>
+          <gmd:MD_DigitalTransferOptions>
+            <gmd:onLine>
+              <gmd:CI_OnlineResource>
+                <gmd:linkage>
+                  <gmd:URL>http://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/survey/geo/?cid=nrcs142p2_053627</gmd:URL>
+                </gmd:linkage>
+                <gmd:protocol>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:LINK</gco:CharacterString>
+                </gmd:protocol>
+              </gmd:CI_OnlineResource>
+            </gmd:onLine>
+          </gmd:MD_DigitalTransferOptions>
+        </gmd:transferOptions>
+      </gmd:MD_Distribution>
+    </gmd:distributionInfo>
+    <gmd:dataQualityInfo>
+      <gmd:DQ_DataQuality>
+        <gmd:scope xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+        <gmd:report>
+          <gmd:DQ_AbsoluteExternalPositionalAccuracy>
+            <gmd:nameOfMeasure>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Horizontal Positional Accuracy</gco:CharacterString>
+            </gmd:nameOfMeasure>
+            <gmd:measureDescription/>
+            <gmd:evaluationMethodDescription>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">The accuracy of these digital data is based upon their compilation to base maps that meet National Map Accuracy Standards. The difference in positional accuracy between the soil boundaries and special soil features locations in the field and their digitized map locations is unknown. The locational accuracy of soil delineations on the ground varies with the transition between map units. For example, on long gently sloping landscapes the transition occurs gradually over many feet. Where landscapes change abruptly from steep to level, the transition will be very narrow. Soil delineation boundaries and special soil features generally were digitized within 0.01 inch of their locations on the digitizing source. The digital map elements are edge matched between data sets. The data along each quadrangle edge are matched against the data for the adjacent quadrangle. Edge locations generally do not deviate from centerline to centerline by more than 0.01 inch.</gco:CharacterString>
+            </gmd:evaluationMethodDescription>
+            <gmd:result>
+              <gmd:DQ_QuantitativeResult>
+                <gmd:valueUnit>
+                  <gml:BaseUnit xmlns:gml="http://www.opengis.net/gml" gml:id="meters">
+                    <gml:identifier codeSpace="meters"/>
+                    <gml:unitsSystem xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.bipm.org/en/si/"/>
+                  </gml:BaseUnit>
+                </gmd:valueUnit>
+                <gmd:value/>
+              </gmd:DQ_QuantitativeResult>
+            </gmd:result>
+          </gmd:DQ_AbsoluteExternalPositionalAccuracy>
+        </gmd:report>
+        <gmd:report>
+          <gmd:DQ_AbsoluteExternalPositionalAccuracy>
+            <gmd:nameOfMeasure>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Vertical Positional Accuracy</gco:CharacterString>
+            </gmd:nameOfMeasure>
+            <gmd:measureDescription/>
+            <gmd:evaluationMethodDescription>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Not applicable</gco:CharacterString>
+            </gmd:evaluationMethodDescription>
+            <gmd:result>
+              <gmd:DQ_QuantitativeResult>
+                <gmd:valueUnit>
+                  <gml:BaseUnit xmlns:gml="http://www.opengis.net/gml" gml:id="meters">
+                    <gml:identifier codeSpace="meters"/>
+                    <gml:unitsSystem xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.bipm.org/en/si/"/>
+                  </gml:BaseUnit>
+                </gmd:valueUnit>
+                <gmd:value/>
+              </gmd:DQ_QuantitativeResult>
+            </gmd:result>
+          </gmd:DQ_AbsoluteExternalPositionalAccuracy>
+        </gmd:report>
+        <gmd:report>
+          <gmd:DQ_CompletenessCommission>
+            <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+          </gmd:DQ_CompletenessCommission>
+        </gmd:report>
+        <gmd:report>
+          <gmd:DQ_CompletenessOmission>
+            <gmd:evaluationMethodDescription>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">A map unit is a collection of areas defined and named the same in terms of their soil or miscellaneous areas or both. Each map unit differs in some respect from all others in a survey area and each map unit has a symbol that uniquely identifies the map unit on a soil map. Each individual area, point or line so identified on the map is a delineation. Soil scientists identify small areas of soils or miscellaneous areas that have properties and behavior significantly different than the named soils in the surrounding map unit. These minor components may be indicated as special features. If they have a minimal effect on use and management, or could not be precisely located, they may not be indicated on the map. A map unit has specified kinds of soils or miscellaneous areas (map unit components), each with a designated range in proportionate extent. Map units include one or more kinds of soil or miscellaneous area. Miscellaneous areas are areas that have little or no recognizable soil. Specific National Cooperative Soil Survey standards and procedures were used in the classification of soils, design and name of map units, and location of special soil features. These standards are outlined in Agricultural Handbook 18, Soil Survey Manual, 1993, USDA, NRCS; Agricultural Handbook 436, Soil Taxonomy, 1995, USDA, NRCS; and all Amendments; Keys to Soil Taxonomy (current issue) USDA, NRCS; National Soil Survey Handbook, title 430-VI, (current issue) USDA, NRCS. The actual composition and interpretive purity of the map unit delineations were based on data collected by scientists during the course of preparing the soil maps. Adherence to National Cooperative Soil Survey standards and procedures is based on peer review, quality control, and quality assurance. Quality control is outlined in the memorandum of understanding for the soil survey area and in documents that reside with the Natural Resources Conservation Service state soil scientist. Four kinds of map units are used in soil surveys: consociations, complexes, associations, and undifferentiated groups. Consociations - Consociations are named for the dominant soil. In a consociation, delineated areas use a single name from the dominant component in the map unit. Dissimilar components are minor in extent. The soil component in a consociation may be identified at any taxonomic level. Soil series is the lowest taxonomic level. A consociation that is named as a miscellaneous area is dominantly that kind of area and minor components do not significantly affect the use of the map unit. The total amount of dissimilar inclusions of other components in a map unit generally does not exceed about 15 percent if limiting and 25 percent if nonlimiting. A single component of a dissimilar limiting inclusion generally does not exceed 10 percent if very contrasting. Complexes and associations - Complexes and associations consist of two or more dissimilar components that occur in a regularly repeating pattern. The total amount of other dissimilar components is minor extent. The following arbitrary rule determines whether complex or association is used in the name. The major components of an association can be separated at the scale of mapping. In either case, because the major components are sufficiently different in morphology or behavior, the map unit cannot be called a consociation. In each delineation of a complex or an association, each major component is normally present though their proportions may vary appreciably from one delineation to another. The total amount of inclusions in a map unit that are dissimilar to any of the major components does not exceed 15 percent if limiting and 25 percent if nonlimiting. A single kind of dissimilar limiting inclusion usually does not exceed 10 percent. Undifferentiated groups - Undifferentiated groups consist of two or more components that are not consistently associated geographically and, therefore, do not always occur together in the same map delineation. These components are included in the same named map unit because their use and management are the same or very similar for common uses. Generally they are grouped together because some common feature, such as steepness, stoniness, or flooding, determines their use and management. If two or more additional map units would serve no useful purpose, they may be included in the same unit. Each delineation has at least one of the major components, and some may have all of them. The same principles regarding the proportion of minor components that apply to consociations also apply to undifferentiated groups. The same principles regarding proportion of inclusion apply to undifferentiated groups as to consociations. Minimum documentation consists of three or more complete soil profile descriptions for each soil series added to the legend. In addition, transects were recorded as needed to support correlation decisions. The number of stops in each transect was dependent on the size of the particular map unit and the soil properties observed. A defined standard or level of confidence in the interpretive purity of the map unit delineations is attained by adjusting the kind and intensity of field investigations. Field investigations and data collection are carried out in sufficient detail to name map units and to identify accurately and consistently areas of about 4 acres.</gco:CharacterString>
+            </gmd:evaluationMethodDescription>
+            <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+          </gmd:DQ_CompletenessOmission>
+        </gmd:report>
+        <gmd:report>
+          <gmd:DQ_ConceptualConsistency>
+            <gmd:measureDescription>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Certain node/geometry and topology GT-polygon/chain relationships are collected or generated to satisfy topological requirements (the GT-polygon corresponds to the soil delineation). Some of these requirements include: chains must begin and end at nodes, chains must connect to each other at nodes, chains do not extend through nodes, left and right GT-polygons are defined for each chain element and are consistent throughout, and the chains representing the limits of the file are free of gaps. The tests of logical consistency are performed using vendor software. All internal polygons are tested for closure with vendor software and are checked on hard copy plots. All data are checked for common soil lines (i.e., adjacent polygons with the same label). Edge locations generally do not deviate from centerline to centerline by more than 0.01 inch.</gco:CharacterString>
+            </gmd:measureDescription>
+            <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+          </gmd:DQ_ConceptualConsistency>
+        </gmd:report>
+        <gmd:report>
+          <gmd:DQ_NonQuantitativeAttributeAccuracy>
+            <gmd:measureDescription>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Attribute accuracy is tested by manual comparison of the source with hard copy plots and/or symbolized display of the map data on an interactive computer graphic system. Selected attributes that cannot be visually verified on plots or on screen are interactively queried and verified on screen. In addition, the attributes are tested against a master set of valid attributes. All attribute data conform to the attribute codes in the signed classification and correlation document and amendment(s).</gco:CharacterString>
+            </gmd:measureDescription>
+            <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="inapplicable"/>
+          </gmd:DQ_NonQuantitativeAttributeAccuracy>
+        </gmd:report>
+        <gmd:lineage>
+          <gmd:LI_Lineage>
+            <gmd:processStep>
+              <gmd:LI_ProcessStep>
+                <gmd:description>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">See the sources and process steps in the metadata provided by NRCS for each county, as well as information provided on their SSURGO information webpage:  http://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/survey/geo/?cid=nrcs142p2_053627</gco:CharacterString>
+                </gmd:description>
+                <gmd:dateTime/>
+              </gmd:LI_ProcessStep>
+            </gmd:processStep>
+          </gmd:LI_Lineage>
+        </gmd:lineage>
+      </gmd:DQ_DataQuality>
+    </gmd:dataQualityInfo>
+    <gmd:metadataMaintenance>
+      <gmd:MD_MaintenanceInformation>
+        <gmd:maintenanceAndUpdateFrequency xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+        <gmd:maintenanceNote>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">This metadata was automatically generated from the Minnesota Geographic Metadata Guidelinesstandard version 1.2 using the January 2013 version of the FGDC CSDGM to ISO 19115-2 transform.</gco:CharacterString>
+        </gmd:maintenanceNote>
+        <gmd:contact>
+          <gmd:CI_ResponsibleParty>
+            <gmd:individualName>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Nancy Rader</gco:CharacterString>
+            </gmd:individualName>
+            <gmd:organisationName>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Geospatial Information Office (MnGeo)</gco:CharacterString>
+            </gmd:organisationName>
+            <gmd:positionName>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GIS Data Coordinator</gco:CharacterString>
+            </gmd:positionName>
+            <gmd:contactInfo>
+              <gmd:CI_Contact>
+                <gmd:phone>
+                  <gmd:CI_Telephone>
+                    <gmd:voice>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-201-2489</gco:CharacterString>
+                    </gmd:voice>
+                    <gmd:facsimile>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">651-296-6398</gco:CharacterString>
+                    </gmd:facsimile>
+                  </gmd:CI_Telephone>
+                </gmd:phone>
+                <gmd:address>
+                  <gmd:CI_Address>
+                    <gmd:deliveryPoint>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">658 Cedar Street, Room 300</gco:CharacterString>
+                    </gmd:deliveryPoint>
+                    <gmd:city>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">St. Paul</gco:CharacterString>
+                    </gmd:city>
+                    <gmd:administrativeArea>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">MN</gco:CharacterString>
+                    </gmd:administrativeArea>
+                    <gmd:postalCode>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">55155</gco:CharacterString>
+                    </gmd:postalCode>
+                    <gmd:electronicMailAddress>
+                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">gisinfo.mngeo@state.mn.us</gco:CharacterString>
+                    </gmd:electronicMailAddress>
+                  </gmd:CI_Address>
+                </gmd:address>
+              </gmd:CI_Contact>
+            </gmd:contactInfo>
+            <gmd:role>
+              <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="custodian" codeSpace="002"/>
+            </gmd:role>
+          </gmd:CI_ResponsibleParty>
+        </gmd:contact>
+      </gmd:MD_MaintenanceInformation>
+    </gmd:metadataMaintenance>
+  </gmd:MD_Metadata>
+  
+>>>>>>> master

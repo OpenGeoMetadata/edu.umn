@@ -7,7 +7,11 @@
 "uuid": "urn-b03dcd04-0a26-408a-91da-16cdd0652831", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "planningCadastre"
+=======
+"Planning and Cadastral"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "2005", 
 "dc_description_s": "The 2005 Generalized Land Use dataset encompasses the seven county Twin Cities (Minneapolis and St. Paul) Metropolitan Area in Minnesota. The dataset was developed by the Metropolitan Council, a regional governmental organization that deals, in part, with regional issues and long range planning for the Twin Cities area. The data were interpreted from 2005 air photos, with additional assistance from county parcel data and assessor's information, reverse directories, and Internet information. The land use classification scheme has been expanded somewhat from that used in previous versions of the generalized land use data. The following generalized land use classes are used (some of which have subclasses): Single Family Residential Multifamily Residential Office Retail and Other Commercial Mixed Use Industrial and Utility Extractive Institutional Park, Recreational, or Preserve Golf Course Major Highway Railway Airport Agriculture Undeveloped Water See Section 5 of the metadata for a detailed description of each of these land use categories and available subcategories. Note: This dataset does not attempt to delineate what lands might be considered developable. This dataset does contain an 'Undeveloped' land category. The definition of that category can be found in Section 5 of this metadata. More information about the Metropolitan Council's generalized land use data can be found in the Landuse Notes document (found at ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/plan_generl_lnduse2005/metadata/landuse_notes.pdf).", 

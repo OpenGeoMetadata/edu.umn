@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-08-19T17:55:02Z", 
+"solr_geom": "ENVELOPE(-96.199846, -95.540955, 47.160133, 46.710716)", 
+"dct_references_s": "{\"http://schema.org/url\":\"http://www.co.becker.mn.us/online_services/GIS_data.aspx\",\"http://schema.org/downloadUrl\":\"http://gis-server.co.becker.mn.us/data/gis/shapefiles/watershed_mgmt_districts.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-0fbabc2f-b42e-42e4-b2aa-f251e929b967", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Environment", 
+"Inland Waters"
+], 
+"dct_temporal_sm": "2013-", 
+"dc_description_s": "Shapefile of watershed management districts in Becker County, Minnesota", 
+"dct_issued_s": "2013-01-15", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Becker County, Minnesota"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "urn-0fbabc2f-b42e-42e4-b2aa-f251e929b967", 
+"georss_polygon_s": "46.710716 -96.199846 47.160133 -96.199846 47.160133 -95.540955 46.710716 -95.540955 46.710716 -96.199846", 
+"solr_year_i": 2013, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Becker County, Minnesota"
+], 
+"dc_publisher_sm": [
+"Becker County, Minnesota"
+], 
+"layer_id_s": "urn:urn-0fbabc2f-b42e-42e4-b2aa-f251e929b967", 
+"georss_box_s": "46.710716 -96.199846 47.160133 -95.540955", 
+"dc_title_s": "Watershed Management Districts: Becker County, Minnesota, 2013", 
+"layer_slug_s": "Minnesota-urn-0fbabc2f-b42e-42e4-b2aa-f251e929b967"
+}

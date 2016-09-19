@@ -7,7 +7,11 @@
 "uuid": "urn-8a0667b4-d291-4525-8ffe-1f8d194ad65c", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "environment"
+=======
+"Environment"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "2015-now", 
 "dc_description_s": "The Watershed Health Index approach identifies and analyzes data that characterizes the principal components of watershed health at the Major Watershed and Catchment scales. For each of the principal components (Geomorphology, Connectivity, Hydrology, Biology, and Water Quality) indices and underlying metrics have been developed that describe the relative health of the system. The generated values are scaled from 0 to 100 to provide a statewide comparable index of relative health risk.", 

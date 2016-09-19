@@ -7,12 +7,20 @@
 "uuid": "urn-003d06f5-3191-42a0-bb7c-c73500b06cfb", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "boundaries"
+=======
+"Boundaries"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "2015", 
 "dc_description_s": "Geocaching off limit areas are created from tax parcel information and areas defined by the Dakota County Geocaching Guidelines. https://www.co.dakota.mn.us/parks/Activities/Geocaching/Pages/geocaching-guidelines.aspx", 
 "dct_issued_s": "2014-09-05", 
+<<<<<<< HEAD
 "dc_format_s": "Shapefile", 
+=======
+"dc_format_s": "File", 
+>>>>>>> master
 "dc_creator_sm": [
 "Dakota County GIS, Dakota County GIS, Staff"
 ], 

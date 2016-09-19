@@ -7,9 +7,15 @@
 "uuid": "urn-48a53d7d-d594-4b7d-9dd5-c77f21ee39d6", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "elevation"
 ], 
 "dc_format_s": "", 
+=======
+"Elevation"
+], 
+"dc_format_s": "File", 
+>>>>>>> master
 "dc_description_s": "The project vendor, Woolpert, Inc., acquired highly accurate Light Detection and Ranging (LiDAR) elevation data for the Duluth area during the Fall of 2012. LiDAR data are in the UTM Zone 15 coordinate system, NAD83 96, NAVD88 Geoid09 meters tiled by USGS 1/16, 1:24,000 quadrangles. The vendor delivered the data to the Minnesota Department of Natural Resources (DNR) in several formats: 1) One-meter digital elevation model 2) Edge-of-water breaklines 3) Classified LAS formatted point cloud data DNR staff created four additional products: two-foot contours, building outlines, hillshades and a difference grid between this data and LiDAR data collected in 2011. Note: This metadata record was created at the Minnesota Geospatial Information Office by combining information supplied by Woolpert and DNR.", 
 "dct_issued_s": "2012-11-08T06:00:00.000ZZ", 
 "dc_creator_sm": [

@@ -7,12 +7,20 @@
 "uuid": "urn-127abdcf-4de4-48d4-a99f-ceea1cb82441", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "imageryBaseMapsEarthCover"
+=======
+"Imagery and Base Maps"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "2009", 
 "dc_description_s": "This dataset consists of 0.3-meter pixel resolution (approximately 1-foot), natural color orthoimages covering the Border Region of NW Minnesota, NE North Dakota, and Southern Manitoba, Canada in 2009. USGS originally delivered to MnGeo a collection of TIF files in either UTM Zone 14 (western portion) or Zone 15 (eastern portion) projections. MnGeo projected all tiles into UTM Zone 15 and loaded into the Minnesota Geospatial Image Service as a single layer. An orthoimage (DOQ) is remotely sensed image data in which displacement of features in the image caused by terrain relief and sensor orientation have been mathematically removed. Orthoimagery combines the image characteristics of a photograph with the geometric qualities of a map. For this dataset, the natural color orthoimages were produced at 0.3-meter pixel resolution (approximately 1-foot). The design accuracy is estimated not to exceed 6 meter horizontal RMSE (root mean square error) for locations within the United States. Each orthoimage provides imagery for a 1500-meter by 1500-meter block on the ground. The projected coordinate system is UTM with a NAD83 datum, spheroid GRS80. There is no image overlap between adjacent files. The naming convention is based on the U.S. National Grid (USNG), taking the coordinates of the SW corner of the orthoimage. MnGeo metadata is based on metadata provided by 3001, Inc., for the Zone 15 and Zone 14 tile datasets.", 
 "dct_issued_s": "2009-06-15", 
+<<<<<<< HEAD
 "dc_format_s": "", 
+=======
+"dc_format_s": "File", 
+>>>>>>> master
 "dc_creator_sm": [
 "3001, Inc., for the United States Geological Survey"
 ], 

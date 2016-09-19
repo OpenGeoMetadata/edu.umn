@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
 "layer_geom_type_s": "Point", 
+=======
+"layer_geom_type_s": "Mixed", 
+>>>>>>> master
 "layer_modified_dt": "2016-06-29T09:59:04Z", 
 "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
 "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/agri-cropland-data-layer-2009\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mda/agri_cropland_data_layer_2009/fgdb_agri_cropland_data_layer_2009.zip\"}", 
@@ -7,12 +11,20 @@
 "uuid": "urn-5d89131e-7220-4cb0-8c33-1b782d83a59e", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "farming"
+=======
+"Farming"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "2009", 
 "dc_description_s": "The United States Department of Agriculture (USDA), National Agricultural Statistics Service (NASS) Cropland Data Layer (CDL) is a raster, geo-referenced, crop-specific land cover data layer. This is the 2009 NASS USDA CDL dataset for Minnesota. The dataset was clipped and downloaded using the USDA NASS CropScape online web application: http://nassgeodata.gmu.edu/CropScape/ The Minnesota Department of Agriculture (MDA) did minimal processing on this dataset to make more useful for Minnesota-specific work. The lineage section describes these steps taken, but the full description of the Cropland Data Layer can be found in the NASS USDA Metadata.", 
 "dct_issued_s": "2015-10-23", 
+<<<<<<< HEAD
 "dc_format_s": "Shapefile", 
+=======
+"dc_format_s": "File", 
+>>>>>>> master
 "dc_creator_sm": [
 "National Agricultural Statistics Service (NASS), United States Department of Agriculture (USDA)"
 ], 

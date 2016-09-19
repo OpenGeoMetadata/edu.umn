@@ -7,12 +7,20 @@
 "uuid": "urn-63ae40dd-8bf5-4b27-a0ca-39100800f862", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "elevation"
+=======
+"Elevation"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "2010", 
 "dc_description_s": "AeroMetric (now Quantum Spatial) acquired highly accurate Light Detection and Ranging (LiDAR) elevation data for the Minnesota portion of the Minnesota River Basin. The project area of approximately 17,260 square miles covered the following 25 Minnesota counties: Brown, Chippewa, Cottonwood, Douglas, Faribault, Jackson, Kandiyohi, Lac qui Parle, Le Sueur, Lincoln, Lyon, Martin, Murray, Nicollet, Nobles, Pipestone, Pope, Redwood, Renville, Rock, Sibley, Swift, Waseca, Watonwan, and Yellow Medicine. LiDAR data acquisition, control and QC surveys were completed during the spring and fall leaf-off periods: April 8 - May 5 and November 2 - 19, 2010. The tiling scheme is 16th USGS 1:24,000 quadrangle tiles. Aerometric delivered the data to the Minnesota Department of Natural Resources (DNR) in several formats: LAS, geodatabase, DEM and breaklines. DNR staff created three additional products: two-foot contours, building outlines and hillshades. Note: This metadata record was created at the Minnesota Geospatial Information Office by combining information supplied by AeroMetric and DNR.", 
 "dct_issued_s": "2010-06-15", 
+<<<<<<< HEAD
 "dc_format_s": "", 
+=======
+"dc_format_s": "File", 
+>>>>>>> master
 "dc_creator_sm": [
 "AeroMetric, Inc."
 ], 

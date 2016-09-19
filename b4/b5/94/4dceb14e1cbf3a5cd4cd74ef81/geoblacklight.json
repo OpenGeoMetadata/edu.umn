@@ -16,11 +16,19 @@
 "dct_provenance_s": "Minnesota", 
 "dc_title_s": "Aerial Photography: Dakota County, Minnesota, 2013", 
 "layer_slug_s": "Minnesota-urn-b4b5944d-ceb1-4e1c-bf3a-5cd4cd74ef81", 
+<<<<<<< HEAD
 "dc_format_s": "", 
 "dc_description_s": "County wide ortho photography at 6-inch pixel resolution. The photography was exposed on 4/29/13, 5/12/2013, 5/14/2013, 5/16/13 and 5/23/13. Rectification was done in INPHO OrthoMaster using the aerotriangulation data, raw images, and existing LiDAR DEM data which was reviewed and edited by AeroMetric. These rectified images were used to automatically generate seamlines which were then fully reviewed and edited. The rectified images were mosaicked, balanced, and cut into final image tiles. The final tiles were reviewed 100% and artifacts were removed as well as other edits performed.", 
 "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-co-dakota-base-aerialphotography-2013-serv\"}", 
 "dc_subject_sm": [
 "imageryBaseMapsEarthCover", 
+=======
+"dc_format_s": "File", 
+"dc_description_s": "County wide ortho photography at 6-inch pixel resolution. The photography was exposed on 4/29/13, 5/12/2013, 5/14/2013, 5/16/13 and 5/23/13. Rectification was done in INPHO OrthoMaster using the aerotriangulation data, raw images, and existing LiDAR DEM data which was reviewed and edited by AeroMetric. These rectified images were used to automatically generate seamlines which were then fully reviewed and edited. The rectified images were mosaicked, balanced, and cut into final image tiles. The final tiles were reviewed 100% and artifacts were removed as well as other edits performed.", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-co-dakota-base-aerialphotography-2013-serv\"}", 
+"dc_subject_sm": [
+"Imagery and Base Maps", 
+>>>>>>> master
 "aerial photography", 
 "aerial photograph"
 ], 

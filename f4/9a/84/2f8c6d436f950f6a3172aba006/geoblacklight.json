@@ -7,12 +7,20 @@
 "uuid": "urn-f49a842f-8c6d-436f-950f-6a3172aba006", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "imageryBaseMapsEarthCover"
+=======
+"Imagery and Base Maps"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "2014", 
 "dc_description_s": "This dataset contains leaf-off 4-band red, green, blue, natural color and color infrared (CIR) digital orthophoto imagery produced at 6-inch resolution from new aerial photography captured in Spring 2014. The imagery covers McLeod County in central Minnesota. This metadata record was created by MnGeo using information supplied by Quantum Spatial, Inc.", 
 "dct_issued_s": "2014-06-15", 
+<<<<<<< HEAD
 "dc_format_s": "", 
+=======
+"dc_format_s": "File", 
+>>>>>>> master
 "dc_creator_sm": [
 "McLeod County; Quantum Spatial, Inc."
 ], 

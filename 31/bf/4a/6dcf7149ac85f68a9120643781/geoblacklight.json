@@ -1,12 +1,18 @@
 {
+<<<<<<< HEAD
 "layer_geom_type_s": "Point", 
 "layer_modified_dt": "2016-06-28T11:10:17.184165Z", 
+=======
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-08-16T19:28:08Z", 
+>>>>>>> master
 "solr_geom": "ENVELOPE(-93.91463871, -93.27761643, 44.81327565, 44.54197857)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/Building_Permits/FeatureServer/0\",\"http://schema.org/url\":\"http://opendata.gis.co.scott.mn.us/datasets/7e4ff334783847f1b85499aed8f3cbb4_0\"}", 
 "dc_rights_s": "Public", 
 "uuid": "31bf4a6d-cf71-49ac-85f6-8a9120643781", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "health", 
 "Scott County Minnesota", 
 "Building Permits", 
@@ -17,6 +23,14 @@
 "dc_description_s": "Scott County building permit data represents permit data that is created and maintained by the Property and Taxation Services department. This permit data represents permits that are issued on or after January 1, 2010, within a township, and that have a status of Finalled, Issued, or Expired. Scott County is the permitting authority for the townships, to obtain permit data for a city within Scott County please contact the city. Once data has been downloaded and opened in Excel, you must select the dateIssued field and change the field type to Short Date or Long Date.", 
 "dct_issued_s": "2016-01-25T20:55:33.000ZZ", 
 "dc_format_s": "Shapefile", 
+=======
+"Health", 
+"Building Permits"
+], 
+"dc_format_s": "File", 
+"dc_description_s": "Scott County building permit data represents permit data that is created and maintained by the Property and Taxation Services department. This permit data represents permits that are issued on or after January 1, 2010, within a township, and that have a status of Finalled, Issued, or Expired. Scott County is the permitting authority for the townships, to obtain permit data for a city within Scott County please contact the city. Once data has been downloaded and opened in Excel, you must select the dateIssued field and change the field type to Short Date or Long Date.", 
+"dct_issued_s": "2016-01-22T20:55:33Z", 
+>>>>>>> master
 "dc_creator_sm": [
 "Scott County Minnesota"
 ], 
@@ -32,6 +46,10 @@
 ], 
 "layer_id_s": "urn:31bf4a6d-cf71-49ac-85f6-8a9120643781", 
 "georss_box_s": "44.54197857 -93.91463871 44.81327565 -93.27761643", 
+<<<<<<< HEAD
 "dc_title_s": "Building Permits", 
+=======
+"dc_title_s": "Building Permits: Scott County Minnesota, 2016", 
+>>>>>>> master
 "layer_slug_s": "Minnesota-31bf4a6d-cf71-49ac-85f6-8a9120643781"
 }

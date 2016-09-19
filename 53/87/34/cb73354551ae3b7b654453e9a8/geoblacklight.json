@@ -7,7 +7,11 @@
 "uuid": "urn-538734cb-7335-4551-ae3b-7b654453e9a8", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "inlandWaters"
+=======
+"Inland Waters"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "2015", 
 "dc_description_s": "This geodatabase contains authoritative GIS data for MNDNR Parks and Trails-administered public water access sites. It also contains information about free public water access sites administered by other organizations. This geodatabase was derived from the master data within the Parks and Trails Enterprise Information System. This information was validated and deemed current and authoritative in January 2014 and is updated on an as-needed basis as determined by the subject matter expert.", 

@@ -7,7 +7,11 @@
 "uuid": "urn-0a6b288d-fa34-4a72-9590-7bc7ca25b1ac", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "biota"
+=======
+"Biota"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "1986", 
 "dc_description_s": "An updated raster version of land use was created for Clearwater and Beltrami Counties in 1987, based on 1986 aerial photography. The original Land Management Information Center 40-acre (MLMIS40) 1969 land use classification for these counties was updated by the Beltrami and Clearwater Soil and Water Conservation Districts, using air photo interpretation. Information was updated by the Geography Department at Bemidji State University using the edit routines in the Environmental Planning Programming Language (EPPL7) software. Data was later converted to ERDAS GIS raster and Esri vector formats.", 

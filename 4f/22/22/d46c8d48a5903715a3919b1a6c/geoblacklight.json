@@ -1,5 +1,6 @@
 {
 "layer_geom_type_s": "Line", 
+<<<<<<< HEAD
 "layer_modified_dt": "2016-07-12T16:17:51.973473Z", 
 "solr_geom": "ENVELOPE(-93.02936, -92.74151, 45.29843, 44.73814)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.wcmn.opendata.arcgis.com/datasets/4ae2ddd6c58a4cdfa90a70bf5839a983_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/3fjYPqJf7qalQMlb/arcgis/rest/services/CIP_2016_to_2020_Lines/FeatureServer/0\",\"http://schema.org/url\":\"http://data.wcmn.opendata.arcgis.com/datasets/4ae2ddd6c58a4cdfa90a70bf5839a983_0\"}", 
@@ -18,22 +19,53 @@
 "dct_temporal_sm": "2016", 
 "dc_description_s": "This data is a line feature class representing transportation projects approved in the Washinton County Capital Improvement Plan 2016-2020. Additional projects, not included in this data are included in that plan. Proposed program subject to change due to funding availability and coordination with other agencies.", 
 "dct_issued_s": "2016-03-29T12:39:34.000ZZ", 
+=======
+"layer_modified_dt": "2016-08-17T15:51:26Z", 
+"solr_geom": "ENVELOPE(-93.02936, -92.74151, 45.29843, 44.73814)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.wcmn.opendata.arcgis.com/datasets/4ae2ddd6c58a4cdfa90a70bf5839a983_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/3fjYPqJf7qalQMlb/arcgis/rest/services/CIP_2016_to_2020_Lines/FeatureServer/0\",\"http://schema.org/url\":\"http://data.wcmn.opendata.arcgis.com/datasets/4ae2ddd6c58a4cdfa90a70bf5839a983_0\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-4f2222d4-6c8d-48a5-9037-15a3919b1a6c", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Transportation", 
+"public works"
+], 
+"dct_temporal_sm": "2016-2020", 
+"dc_description_s": "This data is a line feature class representing transportation projects approved in the Washinton County Capital Improvement Plan 2016-2020. Additional projects, not included in this data are included in that plan. Proposed program subject to change due to funding availability and coordination with other agencies.", 
+"dct_issued_s": "2016-03-26T12:39:34Z", 
+>>>>>>> master
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Washington County, MN"
 ], 
 "dc_type_s": "Dataset", 
+<<<<<<< HEAD
 "dc_identifier_s": "4f2222d4-6c8d-48a5-9037-15a3919b1a6c", 
 "georss_polygon_s": "44.73814 -93.02936 45.29843 -93.02936 45.29843 -92.74151 44.73814 -92.74151 44.73814 -93.02936", 
 "solr_year_i": 2016, 
 "dct_spatial_sm": [
 "Washington County, Minnesota"
+=======
+"dc_identifier_s": "urn-4f2222d4-6c8d-48a5-9037-15a3919b1a6c", 
+"georss_polygon_s": "44.73814 -93.02936 45.29843 -93.02936 45.29843 -92.74151 44.73814 -92.74151 44.73814 -93.02936", 
+"solr_year_i": 2016, 
+"dct_spatial_sm": [
+"Washington County, Minnesota", 
+"Minnesota"
+>>>>>>> master
 ], 
 "dc_publisher_sm": [
 "Washington County, MN"
 ], 
+<<<<<<< HEAD
 "layer_id_s": "urn:4f2222d4-6c8d-48a5-9037-15a3919b1a6c", 
 "georss_box_s": "44.73814 -93.02936 45.29843 -92.74151", 
 "dc_title_s": "CIP 2016 to 2020 Road projects", 
 "layer_slug_s": "Minnesota-4f2222d4-6c8d-48a5-9037-15a3919b1a6c"
+=======
+"layer_id_s": "urn:urn-4f2222d4-6c8d-48a5-9037-15a3919b1a6c", 
+"georss_box_s": "44.73814 -93.02936 45.29843 -92.74151", 
+"dc_title_s": "Captial Improvement Plan Road Projects: Washington County, Minnesota, 2016 to 2020", 
+"layer_slug_s": "Minnesota-urn-4f2222d4-6c8d-48a5-9037-15a3919b1a6c"
+>>>>>>> master
 }

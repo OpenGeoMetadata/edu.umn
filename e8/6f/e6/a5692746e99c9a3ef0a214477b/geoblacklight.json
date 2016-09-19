@@ -7,7 +7,11 @@
 "uuid": "urn-e86fe6a5-6927-46e9-9c9a-3ef0a214477b", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "geoscientificInformation"
+=======
+"Geoscientific Information"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "2015", 
 "dc_description_s": "In Minnesota, surface karst features (including but not restricted to sinkholes, caves, stream sinks, and karst springs) are observed to primarily occur where 50 feet or less of unconsolidated material overlie Paleozoic carbonate bedrock, the St. Peter Sandstone, or the Mesoproterozoic Hinckley Sandstone. This product can be used to outline such areas in a GIS environment. The GIS coverage is a superposition of Bedrock Geology and Depth to Bedrock maps prepared by the Minnesota Geological Survey (MGS). This dataset is managed by the Ecological and Water Resources Division, County Geologic Atlas Program. Two feature classes are included: surfacekarst_carbonate_sandstone and surfacekarst_carbonateonly. See Section 5 Overview for more details.", 

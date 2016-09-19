@@ -7,7 +7,11 @@
 "uuid": "urn-b3aa0967-38de-436c-9934-abfccdbe7193", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "environment"
+=======
+"Environment"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "2005", 
 "dc_description_s": "This resource contains 2 feature classes: 1) A polygon feature class of lakes completely or partially designated as Migratory Waterfowl Feeding & Resting Areas, as listed in the Minnesota Hunting & Trapping Regulations Handbook. The lakes were derived (selected) out of the DNR 100k Lakes and Rivers. 2) A point feature class created from the polygons.", 

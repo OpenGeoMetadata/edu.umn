@@ -7,7 +7,11 @@
 "uuid": "urn-6ecd4603-8b6e-4583-a3d7-8869093289e7", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "transportation"
+=======
+"Transportation"
+>>>>>>> master
 ], 
 "dc_format_s": "Shapefile", 
 "dc_description_s": "This dataset represents the most current and all historical Annual Average Daily Traffic (AADT) on sampled road systems in a particular given year. AADT is a theoretical estimate of the total number of vehicles using a specific segment of roadway (in both directions) on any given day of the year. This estimate represents the total number of cars per year divided by 365 and is developed using factors that adjust for season, day of the week, and vehicle type. This information is displayed using the approximate point of data collection.", 

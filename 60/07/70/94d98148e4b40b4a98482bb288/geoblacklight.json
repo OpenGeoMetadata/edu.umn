@@ -7,7 +7,11 @@
 "uuid": "urn-60077094-d981-48e4-b40b-4a98482bb288", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "planningCadastre"
+=======
+"Planning and Cadastral"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "2014", 
 "dc_description_s": "This dataset represents the boundaries of real property areas in Lake County. Currently, each parcel contains an ID number. The parcels will be combined with assessing and tax information from CAMA and tax systems once permission is obtained to release this additional information. The feature class contains redundant geometry in cases where there are multiple condominium units on a given tax parcel. Three cities (Beaver Bay, Silver Bay and Two Harbors) maintain their own tax parcels; this city data is represented as provided by the cities to the county.", 

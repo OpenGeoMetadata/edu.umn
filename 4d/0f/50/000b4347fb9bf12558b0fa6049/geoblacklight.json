@@ -7,7 +7,11 @@
 "uuid": "urn-4d0f5000-0b43-47fb-9bf1-2558b0fa6049", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "boundaries"
+=======
+"Boundaries"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "1990-2015", 
 "dc_description_s": "This data set shows the boundaries of Minnesota's current regional development organizations and regional governments. The file was originally derived from 1:100,000-scale county boundaries from the U.S. Census 1990 TIGER/Line files. Attributes were modified in 2015 to be consistent with the current status of RDOs as represented by the Minnesota Association of Development Organizations - http://www.mnado.org.", 

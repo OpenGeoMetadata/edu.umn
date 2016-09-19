@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
 "layer_geom_type_s": "Polygon", 
+=======
+"layer_geom_type_s": "Mixed", 
+>>>>>>> master
 "layer_modified_dt": "2016-07-12T13:14:42.125562Z", 
 "solr_geom": "ENVELOPE(-93.2285, -92.9826, 45.1245, 44.8869)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/5559f1d635fc484c93ccc45a3caa787e_2.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/2\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/5559f1d635fc484c93ccc45a3caa787e_2\"}", 
@@ -14,7 +18,11 @@
 "dct_temporal_sm": "2016", 
 "dc_description_s": "This data set contains polygons that represent Ramsey County Commissioner Districts as of the redistricting process following the 2010 census. The boundaries were created by merging Federal Census Blocks.", 
 "dct_issued_s": "2014-11-29T20:01:53.000ZZ", 
+<<<<<<< HEAD
 "dc_format_s": "Shapefile", 
+=======
+"dc_format_s": "File", 
+>>>>>>> master
 "dc_creator_sm": [
 "Map Portal"
 ], 

@@ -7,7 +7,11 @@
 "uuid": "urn-75d45e57-d40c-4b4c-8324-12537cc8ef80", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "utilitiesCommunication"
+=======
+"Utilities and Communication"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "2015", 
 "dc_description_s": "This dataset shows electric utility service area boundaries for the State of Minnesota. The original source data were lines hand-drawn on county highway maps. The maps were scanned and georeferenced to serve as a background for on-screen digitizing. The utilities were then given an opportunity to review and correct the service areas. Changes filed with the Public Utilities Commission (eDockets) were also reviewed to update the areas. This version of the dataset reflects boundary changes through 12/01/15, as well as changes resulting from the transfer of Alliant Energy's service territories to 12 southern Minnesota cooperatives in early 2016.", 

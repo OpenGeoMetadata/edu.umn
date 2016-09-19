@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
 "layer_geom_type_s": "Polygon", 
+=======
+"layer_geom_type_s": "Mixed", 
+>>>>>>> master
 "layer_modified_dt": "2016-07-12T13:14:59.186865Z", 
 "solr_geom": "ENVELOPE(-93.2337, -92.9773, 45.1282, 44.8832)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/c587672db8504b4dafcc69beecfbbf33_15.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/15\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/c587672db8504b4dafcc69beecfbbf33_15\"}", 
@@ -7,14 +11,22 @@
 "uuid": "a149a818-a4e2-47d9-b2ba-df1b2e6fd573", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "utilitiesCommunications", 
+=======
+"Utilities and Communication", 
+>>>>>>> master
 "Infrastructure", 
 "Bridges"
 ], 
 "dct_temporal_sm": "2016", 
 "dc_description_s": "This data set contains overpasses and bridges. The outlines are derived from aerial photography interpretation utilizing stereo processing techniques. Vector line work was stereo plotted from 2009 photography. Graphical lines contain a character based a layer name that identify the different mapping features. The flight height for the aerial photography utilized in this project is approximately 5000 feet. The mapping scale for aerial photography utilized in this project is 1 inch equals 833 feet.", 
 "dct_issued_s": "2014-12-01T23:19:05.000ZZ", 
+<<<<<<< HEAD
 "dc_format_s": "Shapefile", 
+=======
+"dc_format_s": "File", 
+>>>>>>> master
 "dc_creator_sm": [
 "Map Portal"
 ], 

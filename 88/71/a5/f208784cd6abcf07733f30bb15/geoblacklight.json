@@ -1,5 +1,6 @@
 {
 "layer_geom_type_s": "Point", 
+<<<<<<< HEAD
 "layer_modified_dt": "2016-07-12T16:17:57.787508Z", 
 "solr_geom": "ENVELOPE(-93.02936, -92.74151, 45.29843, 44.73814)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.wcmn.opendata.arcgis.com/datasets/ae14fc063c1e44a995e750805b1c864b_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/3fjYPqJf7qalQMlb/arcgis/rest/services/Tree_Inventory/FeatureServer/0\",\"http://schema.org/url\":\"http://data.wcmn.opendata.arcgis.com/datasets/ae14fc063c1e44a995e750805b1c864b_0\"}", 
@@ -15,22 +16,55 @@
 "dct_temporal_sm": "2016", 
 "dc_description_s": "Tree Inventory started May-June 2010 by an intern.", 
 "dct_issued_s": "2016-02-17T21:05:26.000ZZ", 
+=======
+"layer_modified_dt": "2016-08-17T15:51:25Z", 
+"solr_geom": "ENVELOPE(-93.02936, -92.74151, 45.29843, 44.73814)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.wcmn.opendata.arcgis.com/datasets/ae14fc063c1e44a995e750805b1c864b_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/3fjYPqJf7qalQMlb/arcgis/rest/services/Tree_Inventory/FeatureServer/0\",\"http://schema.org/url\":\"http://data.wcmn.opendata.arcgis.com/datasets/ae14fc063c1e44a995e750805b1c864b_0\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-8871a5f2-0878-4cd6-abcf-07733f30bb15", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Environment", 
+"trees", 
+"ash trees", 
+"emerald ash borer"
+], 
+"dct_temporal_sm": "2010-", 
+"dc_description_s": "Tree Inventory started May-June 2010 by an intern.", 
+"dct_issued_s": "2016-02-13T21:05:26Z", 
+>>>>>>> master
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Washington County, MN"
 ], 
 "dc_type_s": "Dataset", 
+<<<<<<< HEAD
 "dc_identifier_s": "8871a5f2-0878-4cd6-abcf-07733f30bb15", 
 "georss_polygon_s": "44.73814 -93.02936 45.29843 -93.02936 45.29843 -92.74151 44.73814 -92.74151 44.73814 -93.02936", 
 "solr_year_i": 2016, 
 "dct_spatial_sm": [
 "Washington County, Minnesota"
+=======
+"dc_identifier_s": "urn-8871a5f2-0878-4cd6-abcf-07733f30bb15", 
+"georss_polygon_s": "44.73814 -93.02936 45.29843 -93.02936 45.29843 -92.74151 44.73814 -92.74151 44.73814 -93.02936", 
+"solr_year_i": 2010, 
+"dct_spatial_sm": [
+"Washington County, Minnesota", 
+"Minnesota"
+>>>>>>> master
 ], 
 "dc_publisher_sm": [
 "Washington County, MN"
 ], 
+<<<<<<< HEAD
 "layer_id_s": "urn:8871a5f2-0878-4cd6-abcf-07733f30bb15", 
 "georss_box_s": "44.73814 -93.02936 45.29843 -92.74151", 
 "dc_title_s": "Tree Inventory", 
 "layer_slug_s": "Minnesota-8871a5f2-0878-4cd6-abcf-07733f30bb15"
+=======
+"layer_id_s": "urn:urn-8871a5f2-0878-4cd6-abcf-07733f30bb15", 
+"georss_box_s": "44.73814 -93.02936 45.29843 -92.74151", 
+"dc_title_s": "Tree Inventory: Washington County, Minnesota, 2010", 
+"layer_slug_s": "Minnesota-urn-8871a5f2-0878-4cd6-abcf-07733f30bb15"
+>>>>>>> master
 }

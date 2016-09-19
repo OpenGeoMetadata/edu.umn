@@ -20,7 +20,11 @@
 "dc_description_s": "Mathematically generated grid representing USGS 7 1/2 Minute Quadrangle Map outlines. Quadrangle names and standard identifiers are included with the data set.", 
 "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/loc-index-q024k-tile-scheme\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/loc_index_q024k_tile_scheme/shp_loc_index_q024k_tile_scheme.zip\"}", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "location"
+=======
+"Location"
+>>>>>>> master
 ], 
 "dct_issued_s": "2003-09-04T06:00:00.000Z", 
 "solr_geom": "ENVELOPE(-96.908924, -89.259327, 49.461372, 43.308126)", 

@@ -7,7 +7,11 @@
 "uuid": "urn-f158766b-1bcc-495c-a79d-aeb62e35b901", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "inlandWaters"
+=======
+"Inland Waters"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "2010", 
 "dc_description_s": "This layer depicts open water features for lakes and rivers. The geography was initially created from the open water features depicted in the 2005 Generalized Land Use dataset developed by the Metropolitan Council. It is being updated over time with data from a variety of sources. It includes lakes larger than 3 acres and rivers wider than 200 feet. It may also include some smaller open water features as needed by the Metropolitan Council, including all lakes in the Council's lake monitoirng program. This layer does not depict the satutory Ordinary High Water Level of lakes. NOTES: - This dataset is derived from the Master Open Water Features dataset published by the Met Council. - The extent of water features varies seasonally and annually with rainfall. The extent of water shown in this dataset may not reflect the current status of a particular water feature. - When adding new polygons or modifying existing polygons, we will create boundaries based on recent imagery that we think depicts average water levels. We will NOT try to adjust the boundaries for seasonal variations in water levels. - Wastewater stabilization ponds, which can be quite large, are not shown in this layer.", 

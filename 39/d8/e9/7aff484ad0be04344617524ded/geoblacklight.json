@@ -7,7 +7,11 @@
 "uuid": "urn-39d8e97a-ff48-4ad0-be04-344617524ded", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "geoscientificInformation"
+=======
+"Geoscientific Information"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "2014", 
 "dc_description_s": "The MNDNR Watershed Suite is a collection of watershed delineations at various levels, flow network lines, and pour points. Follow the links below to the individual metadata pages for each layer: <b>MNDNR Watersheds</b> MNDNR Level 01 - HUC 02: <a href=Ndnr_watersheds_dnr_level_01_huc_02.htmlN>dnr_watersheds_dnr_level_01_huc_02.html</a> MNDNR Level 02 - HUC 04: <a href=Ndnr_watersheds_dnr_level_02_huc_04.htmlN>dnr_watersheds_dnr_level_02_huc_04.html</a> MNDNR Level 04 - HUC 08 - Majors: <a href=Ndnr_watersheds_dnr_level_04_huc_08_majors.htmlN>dnr_watersheds_dnr_level_04_huc_08_majors.html</a> MNDNR Level 07 - Minors: <a href=Ndnr_watersheds_dnr_level_07_minors.htmlN>dnr_watersheds_dnr_level_07_minors.html</a> MNDNR Level 08 - All Catchments: <a href=Ndnr_watersheds_dnr_level_08_all_catchments.htmlN>dnr_watersheds_dnr_level_08_all_catchments.html</a> MNDNR Level 09 - DNR AutoCatchments: <a href=Ndnr_watersheds_auto_catchments.htmlN>dnr_watersheds_auto_catchments.html</a> <b>Minnesota Hydrologic Units</b> Flow Network Lines: <a href=Ndnr_watersheds_catchment_flow_lines.htmlN>dnr_watersheds_catchment_flow_lines.html</a> Pour Points: <a href=Ndnr_watersheds_catchment_pour_points.htmlN>dnr_watersheds_catchment_pour_points.html</a>", 

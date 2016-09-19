@@ -7,7 +7,11 @@
 "uuid": "urn-bc5d65cd-e413-4cca-8f4b-0e461092afa0", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "inlandWaters"
+=======
+"Inland Waters"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "2007", 
 "dc_description_s": "This layer shows waterbodies that have been treated for fish removal (i.e., NreclaimedN) by DNR Fisheries. Some waterbodies have had multiple treatments (i.e., reclamation events). Lake and river polygons are symbolized by the number of different treatment events the waterbody has had (see attribute [RECLAM_APPS]). Additional attributes for each event are found in a related table (below). Related table: water_fisheries_reclamation_events_relate Attributes include: treatment date, species targeted, method used, chemical(s) applied and project cost To access related table records: Open the layer attribute table and select a lake polygon record From the Related Table dropdown (2nd icon on bar just above table), choose table reclamation events: to event by year The related table will open and the corresponding records for the selected lake will be highlighted. Note: You can also select records from the related table and find the lakes that correspond to those records by reversing the process above (i.e., Choose Related Tables dropdown (2nd icon), choose table reclamation events: Back to reclaimed lakes) The user can also access the related records by clicking on the lake of interest with the Identify Tool and expanding the related tabular information.", 

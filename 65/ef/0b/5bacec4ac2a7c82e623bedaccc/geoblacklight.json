@@ -1,5 +1,6 @@
 {
 "layer_geom_type_s": "Polygon", 
+<<<<<<< HEAD
 "layer_modified_dt": "2016-06-28T11:06:48.213371Z", 
 "solr_geom": "ENVELOPE(-94.0151, -93.5185, 44.9818, 44.6336)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/f3657d18bbe6423881f62c668c334a08_2.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.carver.mn.us/arcgis_ea/rest/services/OpenAccess/CC_OpenDataStandards/MapServer/2\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/f3657d18bbe6423881f62c668c334a08_2\"}", 
@@ -19,22 +20,54 @@
 "dct_temporal_sm": "2016", 
 "dc_description_s": "Summary Parcel data was developed to map and track property boundaries. The attributes of the parcel data are in the MetroGIS Standard format. Description The geometry of parcels were created by Carver County's Survey department using COGO in an AutoCad environment. The AutoCad lines have been imported into a ArcGIS Geodatabase and polygons built. These polygons are attributed with a Parcel Identification Number (PID). The GIS polygons are joined by PID to the Assessor's CAMA system and Taxpayer Services tax database to show attributes of the property.", 
 "dct_issued_s": "2014-11-26T17:51:39.000ZZ", 
+=======
+"layer_modified_dt": "2016-08-17T12:59:53Z", 
+"solr_geom": "ENVELOPE(-94.0151, -93.5185, 44.9818, 44.6336)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/f3657d18bbe6423881f62c668c334a08_2.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.carver.mn.us/arcgis_ea/rest/services/OpenAccess/CC_OpenDataStandards/MapServer/2\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/f3657d18bbe6423881f62c668c334a08_2\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-65ef0b5b-acec-4ac2-a7c8-2e623bedaccc", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Planning and Cadastral", 
+"parcels", 
+"property"
+], 
+"dct_temporal_sm": "2014-", 
+"dc_description_s": "Summary Parcel data was developed to map and track property boundaries. The attributes of the parcel data are in the MetroGIS Standard format. Description The geometry of parcels were created by Carver County's Survey department using COGO in an AutoCad environment. The AutoCad lines have been imported into a ArcGIS Geodatabase and polygons built. These polygons are attributed with a Parcel Identification Number (PID). The GIS polygons are joined by PID to the Assessor's CAMA system and Taxpayer Services tax database to show attributes of the property.", 
+"dct_issued_s": "2014-11-21T17:51:39Z", 
+>>>>>>> master
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Carver County, Minnesota"
 ], 
 "dc_type_s": "Dataset", 
+<<<<<<< HEAD
 "dc_identifier_s": "65ef0b5b-acec-4ac2-a7c8-2e623bedaccc", 
 "georss_polygon_s": "44.6336 -94.0151 44.9818 -94.0151 44.9818 -93.5185 44.6336 -93.5185 44.6336 -94.0151", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
 "Carver County, Minnesota"
+=======
+"dc_identifier_s": "urn-65ef0b5b-acec-4ac2-a7c8-2e623bedaccc", 
+"georss_polygon_s": "44.6336 -94.0151 44.9818 -94.0151 44.9818 -93.5185 44.6336 -93.5185 44.6336 -94.0151", 
+"solr_year_i": 2014, 
+"dct_spatial_sm": [
+"Carver County, Minnesota", 
+"Minnesota"
+>>>>>>> master
 ], 
 "dc_publisher_sm": [
 "Carver County, Minnesota"
 ], 
+<<<<<<< HEAD
 "layer_id_s": "urn:65ef0b5b-acec-4ac2-a7c8-2e623bedaccc", 
 "georss_box_s": "44.6336 -94.0151 44.9818 -93.5185", 
 "dc_title_s": "OpenDataStandards | Parcels", 
 "layer_slug_s": "Minnesota-65ef0b5b-acec-4ac2-a7c8-2e623bedaccc"
+=======
+"layer_id_s": "urn:urn-65ef0b5b-acec-4ac2-a7c8-2e623bedaccc", 
+"georss_box_s": "44.6336 -94.0151 44.9818 -93.5185", 
+"dc_title_s": "Parcels: Carver County, Minnesota, 2014", 
+"layer_slug_s": "Minnesota-urn-65ef0b5b-acec-4ac2-a7c8-2e623bedaccc"
+>>>>>>> master
 }

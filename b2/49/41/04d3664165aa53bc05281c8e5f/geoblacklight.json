@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-08-18T18:46:41Z", 
+"solr_geom": "ENVELOPE(-93.513402, -93.018369, 45.41481, 45.0352)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://gisdata.co.anoka.mn.us/Commissioner_Districts.zip\",\"http://schema.org/url\":\"https://www.anokacounty.us/1990/Data-Downloads\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-b2494104-d366-4165-aa53-bc05281c8e5f", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Society", 
+"Location", 
+"Boundaries"
+], 
+"dct_temporal_sm": "2015-", 
+"dc_description_s": "Comissioner districts for Anoka County", 
+"dct_issued_s": "2015-07-27", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Anoka County"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "urn-b2494104-d366-4165-aa53-bc05281c8e5f", 
+"georss_polygon_s": "45.0352 -93.513402 45.41481 -93.513402 45.41481 -93.018369 45.0352 -93.018369 45.0352 -93.513402", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Anoka County, Minnesota"
+], 
+"dc_publisher_sm": [
+"Anoka County"
+], 
+"layer_id_s": "urn:urn-b2494104-d366-4165-aa53-bc05281c8e5f", 
+"georss_box_s": "45.0352 -93.513402 45.41481 -93.018369", 
+"dc_title_s": "Commissioner Districts: Anoka County, Minnesota", 
+"layer_slug_s": "Minnesota-urn-b2494104-d366-4165-aa53-bc05281c8e5f"
+}

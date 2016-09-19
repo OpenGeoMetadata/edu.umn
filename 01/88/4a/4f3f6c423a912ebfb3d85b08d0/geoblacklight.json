@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
 "layer_geom_type_s": "Point", 
+=======
+"layer_geom_type_s": "Mixed", 
+>>>>>>> master
 "layer_modified_dt": "2016-07-12T13:14:15.194572Z", 
 "solr_geom": "ENVELOPE(-93.2293, -92.983, 45.1245, 44.8908)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/56fb0d3188bc40a9a4891d0e66911023_23.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/23\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/56fb0d3188bc40a9a4891d0e66911023_23\"}", 
@@ -7,8 +11,13 @@
 "uuid": "01884a4f-3f6c-423a-912e-bfb3d85b08d0", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "planningCadastre", 
 "location", 
+=======
+"Planning and Cadastral", 
+"Location", 
+>>>>>>> master
 "Addresses", 
 "Parcel", 
 "Cadastral"
@@ -16,7 +25,11 @@
 "dct_temporal_sm": "2016", 
 "dc_description_s": "Address points represent individual addressed locations as determined by the Local Addressing Authority. This authority rest in the municipal government in Ramsey County, and the municipalities assist in the maintenance of this information. The original source of many of these points came from the centroid of tax parcels with known situs addresses. In some locations this data has been enhanced to cases where a tax parcel may have multiple addresses (such as in some apartment units).", 
 "dct_issued_s": "2016-03-02T23:07:52.000ZZ", 
+<<<<<<< HEAD
 "dc_format_s": "Shapefile", 
+=======
+"dc_format_s": "File", 
+>>>>>>> master
 "dc_creator_sm": [
 "Map Portal"
 ], 

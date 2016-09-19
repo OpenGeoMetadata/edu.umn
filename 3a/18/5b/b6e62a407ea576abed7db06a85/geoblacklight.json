@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
 "layer_geom_type_s": "Line", 
+=======
+"layer_geom_type_s": "Mixed", 
+>>>>>>> master
 "layer_modified_dt": "2016-07-12T13:14:18.648961Z", 
 "solr_geom": "ENVELOPE(-93.2344, -92.9767, 45.1287, 44.8819)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/f5c9df6605f6401f8992fac9b7ada041_21.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/21\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/f5c9df6605f6401f8992fac9b7ada041_21\"}", 
@@ -7,14 +11,22 @@
 "uuid": "3a185bb6-e62a-407e-a576-abed7db06a85", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "utilitiesCommunications", 
+=======
+"Utilities and Communication", 
+>>>>>>> master
 "Infrastructure", 
 "Pavement Edges"
 ], 
 "dct_temporal_sm": "2016", 
 "dc_description_s": "This data set contains the physical edge of pavement for thoroughfares and cul-de-sacs. The pavement outlines are derived from aerial photography observation and interpretation using stereo processing techniques. Vector line work was originally plotted from 2009 photography. All graphical lines contain a character based layer name that identifies the different mapping features. The flight height for the aerial photography utilized in this project is approximately 5000 feet. The mapping scale for aerial photography utilized in this project is 1 inch equals 833 feet.", 
 "dct_issued_s": "2014-12-02T21:17:01.000ZZ", 
+<<<<<<< HEAD
 "dc_format_s": "Shapefile", 
+=======
+"dc_format_s": "File", 
+>>>>>>> master
 "dc_creator_sm": [
 "Map Portal"
 ], 

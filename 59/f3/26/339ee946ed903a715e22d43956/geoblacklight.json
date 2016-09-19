@@ -7,7 +7,11 @@
 "uuid": "urn-59f32633-9ee9-46ed-903a-715e22d43956", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "planningCadastre"
+=======
+"Planning and Cadastral"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "2016", 
 "dc_description_s": "This dataset represents the PLSS Townships for Itasca County. The Itasca County PLSS data is based on the best and most current survey records available. This data is used to create the parcel dataset. Data users should be aware that Itasca County is continually updating this dataset. Updates to this dataset are expected as horizontal control positions from GPS are added.", 

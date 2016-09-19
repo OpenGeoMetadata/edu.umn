@@ -7,12 +7,20 @@
 "uuid": "urn-d9cef8a3-a192-4aad-a0ba-a8f1d1b2d4a7", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "utilitiesCommunication"
+=======
+"Utilities and Communication"
+>>>>>>> master
 ], 
 "dct_temporal_sm": "2012", 
 "dc_description_s": "Various telecommunication datasets such as cellphone towers and service areas, land mobile station locations, AM, FM, and TV communication can be downloaded on an FCC page. Additionally, data files can be individually downloaded from the FCC Universal Licensing System data site. Individual metadata pages can be seen here: Antenna Structure Registration: antenna_structure_registration_mn.html", 
 "dct_issued_s": "2012-06-14", 
+<<<<<<< HEAD
 "dc_format_s": "", 
+=======
+"dc_format_s": "File", 
+>>>>>>> master
 "dc_creator_sm": [
 "Federal Communications Commission (FCC) Media Bureau and Wireless Telecommunications Bureau"
 ], 

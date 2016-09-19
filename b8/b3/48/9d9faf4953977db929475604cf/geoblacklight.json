@@ -1,12 +1,18 @@
 {
+<<<<<<< HEAD
 "layer_geom_type_s": "Polygon", 
 "layer_modified_dt": "2016-06-28T11:10:05.770089Z", 
+=======
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-08-16T19:27:49Z", 
+>>>>>>> master
 "solr_geom": "ENVELOPE(-93.9798332055029, -93.2114781113024, 44.8977144376589, 44.456927274274)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.gis.co.scott.mn.us/datasets/ff42aef4f51f497ab75442db58828c2f_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/2030_Comprehensive_Landuse/FeatureServer/0\",\"http://schema.org/url\":\"http://opendata.gis.co.scott.mn.us/datasets/ff42aef4f51f497ab75442db58828c2f_0\"}", 
 "dc_rights_s": "Public", 
 "uuid": "b8b3489d-9faf-4953-977d-b929475604cf", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "", 
 "Scott County Minnesota", 
 "Landuse", 
@@ -18,6 +24,14 @@
 "dc_description_s": "2030 Comprehensive Landuse Plan for Scott County. For more information, please visit Scott County's 2030 Comprehensive Plan Implementation webpage. Zoning data falls into 1 of 12 categories: A-1 = Agricultural Preservation District A-2 = Agricultural Woodlands District A-3 = Agricultural Preservation Density District C-1 = General Commercial District I-1 = Rural Industrial District RR-1 = Rural Residential Reserve District RR-1C = Rural Residential Reserve Cluster District RR-2 = Rural Residential Single Family District RR-3 = Residential Suburban Single Family District UBR = Urban Business Reserve District UER = Urban Expansion Reserve District UERC = Urban Expansion Reserve Cluster District UTR = Urban Transition Reserve District UTR-C = Urban Transition Reserve Cluster District", 
 "dct_issued_s": "2015-11-15T01:53:51.000ZZ", 
 "dc_format_s": "Shapefile", 
+=======
+"Planning and Cadastral", 
+"Landuse"
+], 
+"dc_format_s": "File", 
+"dc_description_s": "2030 Comprehensive Landuse Plan for Scott County. For more information, please visit Scott County's 2030 Comprehensive Plan Implementation webpage. Zoning data falls into 1 of 12 categories: A-1 = Agricultural Preservation District A-2 = Agricultural Woodlands District A-3 = Agricultural Preservation Density District C-1 = General Commercial District I-1 = Rural Industrial District RR-1 = Rural Residential Reserve District RR-1C = Rural Residential Reserve Cluster District RR-2 = Rural Residential Single Family District RR-3 = Residential Suburban Single Family District UBR = Urban Business Reserve District UER = Urban Expansion Reserve District UERC = Urban Expansion Reserve Cluster District UTR = Urban Transition Reserve District UTR-C = Urban Transition Reserve Cluster District", 
+"dct_issued_s": "2015-11-12T01:53:51Z", 
+>>>>>>> master
 "dc_creator_sm": [
 "Scott County Minnesota"
 ], 
@@ -33,6 +47,10 @@
 ], 
 "layer_id_s": "urn:b8b3489d-9faf-4953-977d-b929475604cf", 
 "georss_box_s": "44.456927274274 -93.9798332055029 44.8977144376589 -93.2114781113024", 
+<<<<<<< HEAD
 "dc_title_s": "2030 Comprehensive Landuse", 
+=======
+"dc_title_s": "2030 Comprehensive Landuse: Scott County Minnesota, 2015", 
+>>>>>>> master
 "layer_slug_s": "Minnesota-b8b3489d-9faf-4953-977d-b929475604cf"
 }
