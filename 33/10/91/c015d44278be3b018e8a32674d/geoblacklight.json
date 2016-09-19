@@ -1,5 +1,5 @@
 {
-"layer_geom_type_s": "Polygon", 
+"layer_geom_type_s": "Mixed", 
 "layer_modified_dt": "2016-07-12T13:15:05.850074Z", 
 "solr_geom": "ENVELOPE(-93.2284, -92.9826, 45.1245, 44.8869)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/c91fe9b09f984ad085755cc014d73d66_14.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/14\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/c91fe9b09f984ad085755cc014d73d66_14\"}", 
@@ -7,7 +7,7 @@
 "uuid": "331091c0-15d4-4278-be3b-018e8a32674d", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"planningCadastre", 
+"Planning and Cadastral", 
 "PLSS", 
 "Survey", 
 "Townships"
@@ -15,7 +15,7 @@
 "dct_temporal_sm": "2016", 
 "dc_description_s": "This data set contains polygons that represent townships. In 1985, Ramsey County began a 5 year project to modernize it's land records mapping system to create a computerized Land Information System. As part of the project, the County developed an accurate coordinate control base for this mapping system. The 27 existing State and Federal first order accuracy positions in Ramsey County were densified by a GPS (Global Positioning System) Network of 171 second order accuracy positions. These positions were established and recorded on existing public land survey corner monuments and accessory monuments through out the county.", 
 "dct_issued_s": "2014-12-01T23:12:43.000ZZ", 
-"dc_format_s": "Shapefile", 
+"dc_format_s": "File", 
 "dc_creator_sm": [
 "Map Portal"
 ], 

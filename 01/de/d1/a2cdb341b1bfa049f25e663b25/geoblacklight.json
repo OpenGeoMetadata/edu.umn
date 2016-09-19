@@ -1,5 +1,5 @@
 {
-"layer_geom_type_s": "Point", 
+"layer_geom_type_s": "Mixed", 
 "layer_modified_dt": "2016-08-17T10:06:01Z", 
 "solr_geom": "ENVELOPE(-93.8610998609681, -93.307539496047, 44.8342926954218, 44.5164670981304)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.gis.co.scott.mn.us/datasets/1974ff7e59894dd5a1e25bf6f62f69d4_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/Polling_Places/FeatureServer/0\",\"http://schema.org/url\":\"http://opendata.gis.co.scott.mn.us/datasets/1974ff7e59894dd5a1e25bf6f62f69d4_0\"}", 
@@ -7,11 +7,11 @@
 "uuid": "01ded1a2-cdb3-41b1-bfa0-49f25e663b25", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"location", 
+"Location", 
 "Polling Places", 
 "Elections"
 ], 
-"dc_format_s": "Shapefile", 
+"dc_format_s": "File", 
 "dc_description_s": "This dataset contains polling places throughout Scott County. Attributes include polling location, address, and precinct.", 
 "dct_issued_s": "2015-11-12T19:51:16Z", 
 "dc_creator_sm": [

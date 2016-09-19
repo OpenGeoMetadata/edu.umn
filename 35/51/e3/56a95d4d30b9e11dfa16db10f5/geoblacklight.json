@@ -1,5 +1,5 @@
 {
-"layer_geom_type_s": "Line", 
+"layer_geom_type_s": "Mixed", 
 "layer_modified_dt": "2016-08-16T19:20:36Z", 
 "solr_geom": "ENVELOPE(-93.8892468297757, -93.2298854737652, 44.8136253202934, 44.4350276482501)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.gis.co.scott.mn.us/datasets/e1db3c489ccc4e27a85f85cd18c13b00_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/Agricultural_Ditches/FeatureServer/0\",\"http://schema.org/url\":\"http://opendata.gis.co.scott.mn.us/datasets/e1db3c489ccc4e27a85f85cd18c13b00_0\"}", 
@@ -7,11 +7,11 @@
 "uuid": "3551e356-a95d-4d30-b9e1-1dfa16db10f5", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"intelligenceMilitary", 
+"Intelligence and Military", 
 "Ditches", 
 "Transportation"
 ], 
-"dc_format_s": "Shapefile", 
+"dc_format_s": "File", 
 "dc_description_s": "This dataset contains the agricultural ditches within Scott County.", 
 "dct_issued_s": "2015-11-17T16:35:28Z", 
 "dc_creator_sm": [

@@ -1,5 +1,5 @@
 {
-"layer_geom_type_s": "Polygon", 
+"layer_geom_type_s": "Mixed", 
 "layer_modified_dt": "2016-08-16T19:29:18Z", 
 "solr_geom": "ENVELOPE(-93.9144287091936, -93.2777297804339, 44.8135382173606, 44.5422298412532)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.gis.co.scott.mn.us/datasets/a2d0744ac0554fa3a998a375d8cd22cc_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/Open_Water/FeatureServer/0\",\"http://schema.org/url\":\"http://opendata.gis.co.scott.mn.us/datasets/a2d0744ac0554fa3a998a375d8cd22cc_0\"}", 
@@ -7,12 +7,12 @@
 "uuid": "30d6a630-af9b-4e4e-ab3c-d57fccafe80c", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"inlandWaters", 
+"Inland Waters", 
 "Rivers", 
 "Lakes", 
 "Streams"
 ], 
-"dc_format_s": "Shapefile", 
+"dc_format_s": "File", 
 "dc_description_s": "Open Water within Scott County. This planimetric data was collected in 2003.", 
 "dct_issued_s": "2015-09-06T20:07:55Z", 
 "dc_creator_sm": [

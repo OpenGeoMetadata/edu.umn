@@ -1,5 +1,5 @@
 {
-"layer_geom_type_s": "Point", 
+"layer_geom_type_s": "Mixed", 
 "layer_modified_dt": "2016-08-16T19:21:10Z", 
 "solr_geom": "ENVELOPE(-93.8605920152703, -93.2763924651263, 44.8382155646782, 44.502895375917)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.gis.co.scott.mn.us/datasets/82b2da61995f47d18c675588e2dccf0d_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/Points_of_Interest/FeatureServer/0\",\"http://schema.org/url\":\"http://opendata.gis.co.scott.mn.us/datasets/82b2da61995f47d18c675588e2dccf0d_0\"}", 
@@ -7,10 +7,10 @@
 "uuid": "918cd14d-22b6-4e25-9c24-3a2dffc660d7", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"location", 
+"Location", 
 "Property"
 ], 
-"dc_format_s": "Shapefile", 
+"dc_format_s": "File", 
 "dc_description_s": "Points of Interest", 
 "dct_issued_s": "2015-11-12T22:57:34Z", 
 "dc_creator_sm": [

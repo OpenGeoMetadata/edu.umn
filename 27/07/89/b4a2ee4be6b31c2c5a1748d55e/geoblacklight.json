@@ -1,5 +1,5 @@
 {
-"layer_geom_type_s": "Line", 
+"layer_geom_type_s": "Mixed", 
 "layer_modified_dt": "2016-06-29T09:59:22Z", 
 "solr_geom": "ENVELOPE(-93.512431, -93.491196, 45.270467, 45.255847)", 
 "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/elev-lidar-wright2008\"}", 
@@ -7,12 +7,12 @@
 "uuid": "urn-270789b4-a2ee-4be6-b31c-2c5a1748d55e", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"elevation"
+"Elevation"
 ], 
 "dct_temporal_sm": "2008", 
 "dc_description_s": "The LiDAR data for Wright County was collected under contract by the county. Thus, the data format is not entirely consistent with some of the other LiDAR data collected for the State of Minnesota. Specifically, the Wright County collect required classification of only Bare Earth in the LiDAR LAS files, so there is no information on buildings, vegetation, or model key points. Breaklines captured as part of this effort are also a bit different. In Wright County the breaklines are 3D Polyline features rather than 3D Polygon features. They also include road centerlines, stream courses and other features that are not part of the Statewide collect specifications. Note: This metadata record was created at the Minnesota Geospatial Information Office by combining information supplied by Merrick, Wright County, and the Minnesota Department of Natural Resources.", 
 "dct_issued_s": "2008-05-28T06:00:00.000Z", 
-"dc_format_s": "Shapefile", 
+"dc_format_s": "File", 
 "dc_creator_sm": [
 "Merrick & Company"
 ], 
