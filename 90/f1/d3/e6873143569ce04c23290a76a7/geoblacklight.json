@@ -7,12 +7,12 @@
 "uuid": "urn-90f1d3e6-8731-4356-9ce0-4c23290a76a7", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"Imagery and Base Maps"
+"imageryBaseMapsEarthCover"
 ], 
 "dct_temporal_sm": "peri", 
 "dc_description_s": "This map service is intended as a suitable general, theme-agnostic basemap that can be overlain on top of aerial photography or other opaque layers. It is best suited for desktop applications that require dynamic scaling. It includes cities, counties, and scale-dependent roads. Except at very small scales, it does not include opaque layers like water features. Inside desktop applications, the service does not allow selections and the attribute tables cannot be viewed, but layers can be turned on and off and individual features can be identified.", 
 "dct_issued_s": "2013-10-09", 
-"dc_format_s": "File", 
+"dc_format_s": "", 
 "dc_creator_sm": [
 "Minnesota Department of Agriculture"
 ], 

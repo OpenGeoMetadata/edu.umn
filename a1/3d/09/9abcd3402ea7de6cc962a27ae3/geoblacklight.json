@@ -1,5 +1,5 @@
 {
-"layer_geom_type_s": "Raster", 
+"layer_geom_type_s": "Mixed", 
 "layer_modified_dt": "2016-06-29T10:00:14Z", 
 "solr_geom": "ENVELOPE(-95.7, -89.9, 48.6, 45.9)", 
 "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/biota-timber-surveys-1900s-image\"}", 
@@ -7,12 +7,12 @@
 "uuid": "urn-a13d099a-bcd3-402e-a7de-6cc962a27ae3", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"Biota"
+"biota"
 ], 
 "dct_temporal_sm": "1895-1905", 
 "dc_description_s": "This image format data set was created from surveys of state-owned timber conducted by the Minnesota Board of Timber Commissioners between 1895-1905. The surveys were conducted for a number of public land survey (PLS) sections scattered throughout the forested northern half of Minnesota, mostly comprising school, indemnity school and swamp lands. The paper records consist of approximately 2,500 pages, with plat maps and assessments indicating the extent, value and condition of timber resources for each section. Each page has a map of one PLS section accompanied by text answers to 13 standard questions about timber species, product volumes, access and susceptibility to fire. The surveyors were instructed to trace swamps, roads and lakes on the section map; occasionally, they also made supplemental text notes directly on the maps. In addition to information about tree species and volume, the surveyors often noted the location of cultural features such as sawmills. Some sections were resurveyed several times as different tree species became commercially important or as surveyors needed to assess damage from natural or human causes. The amount of detail and completeness varies from survey to survey since they were conducted by a number of people over a period of time. In addition, the resurveys often noted only what had changed and thus did not include a map or complete answers to the 13 questions. The information on the paper records has been captured in several digital formats: 1. non-georeferenced scans; 2. geo-referenced scans; 3. vector files of the polygons, lines and points on the maps; and 4. a database of the text information accompanying the maps. This metadata record applies to both the non-georeferenced and georeferenced scanned images.", 
 "dct_issued_s": "2001-06", 
-"dc_format_s": "ArcGRID", 
+"dc_format_s": "GeoTIFF", 
 "dc_creator_sm": [
 "Minnesota Geospatial Information Office (MnGeo)"
 ], 

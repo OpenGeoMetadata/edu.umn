@@ -7,7 +7,7 @@
 "uuid": "urn-4ca70ff3-118e-4df9-a37c-b4b024962e33", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"Inland Waters"
+"inlandWaters"
 ], 
 "dct_temporal_sm": "prio", 
 "dc_description_s": "Wetland area features mapped as part of the National Wetlands Inventory (NWI). The National Wetlands Inventory is a national program sponsored by the US Fish and Wildlife Service (USFWS). The NWI database was funded jointly between the USFWS and the State. The base data was developed through interpretation of National Aerial Photography Program (NAPP) imagery (approx. 1:50,000 scale, typically color-infrared) in conjunction with limited field verification studies. Ancillary data sources, particularly USGS Quadrangle Maps and soil surveys, were also used in the interpretation process. After interpreting the aerial photographs, delineations were transferred to a 1:24,000 scale orthogonal base, digitized, and coded in conformance to the USFWS classification scheme and structured into a DLG format. The original interpretation/automation effort was performed under contract by GEONIX-MARTEL of St. Petersburg, FL. The data were delivered to LMIC, who converted it into an ARC/INFO format, and performed some additional processing to prepare it for distribution. Librarian data were then appended adn converted to ArcGIS File Geodatabase feature classes by DNR Staff (2009)", 

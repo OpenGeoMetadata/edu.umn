@@ -1,5 +1,5 @@
 {
-"layer_geom_type_s": "Mixed", 
+"layer_geom_type_s": "Point", 
 "layer_modified_dt": "2016-07-12T13:14:28.763087Z", 
 "solr_geom": "ENVELOPE(-93.2282, -92.9829, 45.1243, 44.8911)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/e1d26ac7a8944f1f8059f5659f656fe1_5.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/5\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/e1d26ac7a8944f1f8059f5659f656fe1_5\"}", 
@@ -7,14 +7,14 @@
 "uuid": "e761f9a1-7d9b-45e0-8c32-624ca016284e", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"Planning and Cadastral", 
+"planningCadastre", 
 "Cadastral", 
 "Parcels"
 ], 
 "dct_temporal_sm": "2016", 
 "dc_description_s": "Attributed Parcel Point contains data fields previously contained in Ramsey County Users Group shapefiles, ParPts and OnLineCore, and MetroGIS Parcel Datasets. These fields are populated from a compilation of records and information from various state, county and city offices, and other sources. This data is joined to Ramsey Countys Parcel Point data using a property identification number (PIN) which is assigned to both polygons and points and is the primary link to county tax and assessment data. In 1986, parcels were digitized from hand drawn 1:2400 half and 1:1200 quarter section maps. In 1995, the parcel data layer was converted to ArcINFO format and held in the ArcStorm data base. Parcel Points were created from parcel centroids. Parcel Points were converted in 2005 to an ESRI ArcGIS GeoDatabase. When Parcel Points were originally created, there was a one-to-one relationship with identical PINs on both Parcel Polygons and Parcel Points with additional Parcel Points added for Common Interest Communities, Apartment Ownerships or Condominiums, where there is a one-to-many relationship with the Parcel Polygon having the smallest PIN for all associated Parcel Points. Parcel Points were also added for Manufactured Homes and are being added for Apartment Units. The PIN for Manufactured Homes contains a number for the Manufactured Home Park followed by an M then a unique number. The PIN for Apartments Units begins with a U and is followed by the PIN for the Parcel Polygon; attribute data for Apartment Units consists primarily of site address information. The Attributed Parcel Point field, TaxParcelID, can be used to identify the associated Parcel Polygon based on its PIN, and ParcelCode can be used to identify if there is a one-to-many relationship between the point & polygon features.", 
 "dct_issued_s": "2014-12-01T18:05:36.000ZZ", 
-"dc_format_s": "File", 
+"dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Map Portal"
 ], 

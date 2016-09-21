@@ -39,7 +39,7 @@
       </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-09-19T16:35:56</gco:DateTime>
+      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-08-16T18:25:58</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
       <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
@@ -94,7 +94,7 @@
             <gmd:date>
               <gmd:CI_Date>
                 <gmd:date>
-                  <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2015-09-12T18:21:49</gco:DateTime>
+                  <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2015-09-13T18:21:49</gco:DateTime>
                 </gmd:date>
                 <gmd:dateType>
                   <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115"/>
@@ -104,20 +104,13 @@
             <gmd:date>
               <gmd:CI_Date>
                 <gmd:date>
-                  <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-03-15T18:05:40</gco:DateTime>
+                  <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-03-16T18:05:40</gco:DateTime>
                 </gmd:date>
                 <gmd:dateType>
                   <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision" codeSpace="ISOTC211/19115"/>
                 </gmd:dateType>
               </gmd:CI_Date>
             </gmd:date>
-            <gmd:identifier>
-              <gmd:MD_Identifier>
-                <gmd:code>
-                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">urn-be0ec2e7-69b7-48cc-b8fc-ac4726e73146</gco:CharacterString>
-                </gmd:code>
-              </gmd:MD_Identifier>
-            </gmd:identifier>
             <gmd:citedResponsibleParty>
               <gmd:CI_ResponsibleParty>
                 <gmd:organisationName>
@@ -166,19 +159,49 @@
           </gmd:CI_Citation>
         </gmd:citation>
         <gmd:abstract>
-          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">2010 US Census block boundaries attributed with a subset of the PL94-171 demographic data released March 2011. Please contact the Hennepin GIS Office if you require additional PL94-171 fields. Downloaded the 2010 US Census block boundary shapefile from the US Census Bureau at the following address: http://www.census.gov/cgi-bin/geo/shapefiles2010/main. Link to Attribute Table Information: http://gis.hennepin.us/OpenData/Metadata/2010%20Census%20Blocks.pdf Data updated: 04/08/2011 Use Limitations: This data (i) is furnished 'AS IS' with no representation as to completeness or accuracy; (ii) is furnished with no warranty of any kind; and (iii) is not suitable for legal, engineering or surveying purposes. Hennepin County shall not be liable for any damage, injury or loss resulting from this data.</gco:CharacterString>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">2010 US Census block boundaries attributed with a subset of the PL94-171 demographic data released March 2011. Please contact the Hennepin GIS Office if you require additional PL94-171 fields. Downloaded the 2010 US Census block boundary shapefile from the US Census Bureau at the following address: http://www.census.gov/cgi-bin/geo/shapefiles2010/main Downloaded the PL94-171 demographic data from the following address: http://www.census.gov/rdo/data/2010_census_redistricting_data_pl_94-171_summary_files.html Post processed the demographic data per instructions. Stored in Access database. Set up SQL Query to create a subset of the data based on feedback from HSPHD and the GIS Office. Database documentation on file at the GIS Office. Imported the shapefile and demographic data into a File geodatabase. Joined and saved the data sets. Performed error checking by comparing against State and Maptitude versions. The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. Census Blocks are statistical areas bounded on all sides by visible features, such as streets, roads, streams, and railroad tracks, and/or by nonvisible boundaries such as city, town, township, and county limits, and short line-of-sight extensions of streets and roads. Census blocks are relatively small in area; for example, a block in a city bounded by streets. However, census blocks in remote areas are often large and irregular and may even be many square miles in area. A common misunderstanding is that data users think census blocks are used geographically to build all other census geographic areas, rather all other census geographic areas are updated and then used as the primary constraints, along with roads and water features, to delineate the tabulation blocks. As a result, all 2010 Census blocks nest within every other 2010 Census geographic area, so that Census Bureau statistical data can be tabulated at the block level and aggregated up to the appropriate geographic areas. Census blocks cover all territory in the United States, Puerto Rico, and the Island Areas (American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the U.S. Virgin Islands). Blocks are the smallest geographic areas for which the Census Bureau publishes data from the decennial census. A block may consist of one or more faces. Link to Attribute Table Information: http://gis.hennepin.us/OpenData/Metadata/2010%20Census%20Blocks.pdf Data updated: 04/08/2011 Use Limitations: This data (i) is furnished 'AS IS' with no representation as to completeness or accuracy; (ii) is furnished with no warranty of any kind; and (iii) is not suitable for legal, engineering or surveying purposes. Hennepin County shall not be liable for any damage, injury or loss resulting from this data.</gco:CharacterString>
         </gmd:abstract>
         <gmd:descriptiveKeywords>
           <gmd:MD_Keywords>
             <gmd:keyword>
               <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Hennepin County, Minnesota</gco:CharacterString>
             </gmd:keyword>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota</gco:CharacterString>
-            </gmd:keyword>
             <gmd:type>
-              <gmd:MD_KeywordTypeCode codeList="" codeListValue="place"/>
+              <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115"/>
             </gmd:type>
+            <gmd:thesaurusName>
+              <gmd:CI_Citation>
+                <gmd:title>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Geonames</gco:CharacterString>
+                </gmd:title>
+                <gmd:date>
+                  <gmd:CI_Date>
+                    <gmd:date>
+                      <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2013-03-07</gco:Date>
+                    </gmd:date>
+                    <gmd:dateType>
+                      <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision" codeSpace="ISOTC211/19115">publication</gmd:CI_DateTypeCode>
+                    </gmd:dateType>
+                  </gmd:CI_Date>
+                </gmd:date>
+              </gmd:CI_Citation>
+            </gmd:thesaurusName>
+          </gmd:MD_Keywords>
+        </gmd:descriptiveKeywords>
+        <gmd:descriptiveKeywords>
+          <gmd:MD_Keywords>
+            <gmd:type>
+              <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115"/>
+            </gmd:type>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">census</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">demographics</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">people and society</gco:CharacterString>
+            </gmd:keyword>
           </gmd:MD_Keywords>
         </gmd:descriptiveKeywords>
         <gmd:resourceConstraints>
@@ -228,9 +251,8 @@
             <gmd:temporalElement>
               <gmd:EX_TemporalExtent>
                 <gmd:extent>
-                  <gml:TimePeriod xmlns:gml="http://www.opengis.net/gml" gml:id="d1149849e242a1052958">
-                    <gml:beginPosition>2015</gml:beginPosition>
-                    <gml:endPosition>2015</gml:endPosition>
+                  <gml:TimePeriod xmlns:gml="http://www.opengis.net/gml" gml:id="d213660e292a1052958">
+                    <gml:beginPosition/>
                   </gml:TimePeriod>
                 </gmd:extent>
               </gmd:EX_TemporalExtent>
@@ -241,16 +263,6 @@
     </gmd:identificationInfo>
     <gmd:distributionInfo>
       <gmd:MD_Distribution>
-        <gmd:distributionFormat>
-          <gmd:MD_Format>
-            <gmd:name>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ESRI Shapefile</gco:CharacterString>
-            </gmd:name>
-            <gmd:version>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">1.0</gco:CharacterString>
-            </gmd:version>
-          </gmd:MD_Format>
-        </gmd:distributionFormat>
         <gmd:distributor>
           <gmd:MD_Distributor>
             <gmd:distributorContact>

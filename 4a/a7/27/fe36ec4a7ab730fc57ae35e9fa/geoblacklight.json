@@ -7,7 +7,7 @@
 "uuid": "urn-4aa727fe-36ec-4a7a-b730-fc57ae35e9fa", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"Structure"
+"structure"
 ], 
 "dc_format_s": "Shapefile", 
 "dc_description_s": "The point locations of school programs are a result of an ongoing project to identify current school program locations where Food and Nutrition Services Office (FNS) programs are utilized. The FNS Office is in the Minnesota Department of Education (MDE). GIS at MDE modified the data set using school building locations provided by the school districts and program locations from an MDE database. School District buildings are annually updated but there may remain errors due to the number of program locations and the frequency with which they move from building to building in a District. The records in this dataset cover all school program locations that MDE currently has in a spatial format. Beginning in SY2009-10, separate files for different school programs (public, nonpublic, charter, and public school district center) were combined into one file and attributes are used to distinguish the school types. Note that multiple programs may occur at the same location and are represented as separate points. For example, a junior and a senior high school may be in the same building, but each has a separate record and point in the data layer.", 

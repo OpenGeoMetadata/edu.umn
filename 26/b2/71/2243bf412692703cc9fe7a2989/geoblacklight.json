@@ -7,7 +7,7 @@
 "uuid": "urn-26b27122-43bf-4126-9270-3cc9fe7a2989", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"Transportation"
+"transportation"
 ], 
 "dct_temporal_sm": "upda", 
 "dc_description_s": "The Transit Shelters layer includes around 1200 bus shelters in the Metro Transit service area. It includes shelters owned by Metro Transit and third party entities. Attributes include Site_id, Shelter_id, Shelter_nb, Site_loc, Shelter_ow, Rt_cd, Shel_elec, X, Y and corn_desc. All shelters identified in this database correspond to a bus stop, and can be linked to the bus_stops shapefile using the Siteid field. This dataset does not reflect situations where shelters may be designed to serve more than one bus stop number or where multiple shelters may also serve one stop.", 

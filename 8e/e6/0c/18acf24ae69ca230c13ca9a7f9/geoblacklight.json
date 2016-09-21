@@ -7,7 +7,7 @@
 "uuid": "urn-8ee60c18-acf2-4ae6-9ca2-30c13ca9a7f9", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"Location"
+"location"
 ], 
 "dct_temporal_sm": "10/2", 
 "dc_description_s": "This is a mathematically generated grid in which each polygon represents one quarter of the already quartered 225 second (or 3 3/4 minute) data resource, or a quarter-quarter of a standard USGS 7 1/2 minute quadrangle. The result is a 1 7/8 minute quadrangle layer which nests within the standard USGS quads and whose tile naming scheme includes reference to the parent quadrangles. Known as the NQuarter-Quarter QuadN tile index.", 

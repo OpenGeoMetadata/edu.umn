@@ -7,12 +7,12 @@
 "uuid": "urn-d8a38b8d-962c-4a5f-a00c-ce0859431ff7", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"Elevation"
+"elevation"
 ], 
 "dct_temporal_sm": "2008", 
 "dc_description_s": "The LiDAR data for Crow Wing County was collected under contract by the county. Thus, the data format is not entirely consistent with some of the other LiDAR data collected by the State of Minnesota. Specifically, the Crow Wing County collect required classification of only Bare Earth in the LiDAR LAS files, so there is no information on buildings, vegetation, or model key points. Breaklines captured as part of this effort are also a bit different. In Crow Wing County the breaklines are 3D Polyline features rather than 3D Polygon features. They also include road centerlines, stream courses and other features that are not part of the Statewide collect specifications. However, the breaklines do not have z-values associated with them so the DEMs have not been hydro-flattened. Note: This metadata record was created at the Minnesota Geospatial Information Office by combining information supplied by Merrick & Company, Crow Wing County, and the Minnesota Department of Natural Resources.", 
 "dct_issued_s": "2008-02-05", 
-"dc_format_s": "File", 
+"dc_format_s": "", 
 "dc_creator_sm": [
 "Crow Wing County (Merrick & Company)"
 ], 

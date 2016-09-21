@@ -1,5 +1,5 @@
 {
-"layer_geom_type_s": "Raster", 
+"layer_geom_type_s": "Mixed", 
 "layer_modified_dt": "2016-06-29T10:00:05Z", 
 "solr_geom": "ENVELOPE(-97.991522, -87.177541, 49.892443, 42.891013)", 
 "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-usgs-scanned-topo-250k-drg\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/base_usgs_scanned_topo_250k_drg/fgdb_base_usgs_scanned_topo_250k_drg.zip\"}", 
@@ -7,7 +7,7 @@
 "uuid": "urn-18636f2f-3d0a-470e-82bf-26f9ceb4ea43", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"Imagery and Base Maps", 
+"imageryBaseMapsEarthCover", 
 "imageryBaseMapsEarthCover, DRG"
 ], 
 "dct_temporal_sm": "1998", 

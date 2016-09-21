@@ -7,7 +7,7 @@
 "uuid": "urn-237a9317-2d92-4fd1-ac89-3ad3b35ea942", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"Planning and Cadastral"
+"planningCadastre"
 ], 
 "dct_temporal_sm": "1976-1994", 
 "dc_description_s": "The TRS digital data set represents the Township, Range, and Section boundaries of the state. Beginning in the late 1840s, the federal government began surveying Minnesota as part of the Public Land Survey System (PLSS). The resulting network of land survey lines divided the state into townships, ranges, sections, quarter sections, quarter-quarter sections and government lots, and laid the groundwork for contemporary land ownership patterns. The township, range and section boundaries were digitized at MnGeo (formerly known as the Land Management Information Center - LMIC) from stable base mylars of the U.S. Geological Survey (USGS) 30-minute latitude by 60-minute longitude map series (1:100,000-scale). All survey lines were extended across water bodies despite the fact that U.S. Geological Survey base maps depict them only on land. This addition allows all sections and townships to be represented as closed areas (polygons) ensuring that township and range location can be determined for any point in the state. It also means that the data set is not affected if lake levels change over time.", 

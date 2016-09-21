@@ -7,7 +7,7 @@
 "uuid": "urn-4ed9f238-e141-4bd9-947d-5a55f003ce95", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"Inland Waters"
+"inlandWaters"
 ], 
 "dct_temporal_sm": "2013", 
 "dc_description_s": "This data layer represents stream centerlines for major rivers in Minnesota. Major River Centerlines are maintained as tabular data and displayed as linear events on the Stream Routes with Kittle Numbers and Mile Measures layer. In the attribute table, designated segments extend from the FROM_MEAS (mile) to the TO_MEAS (mile) and have a total length = [LENGTH_MI] on a route with total length = [ROUTE_MI].", 

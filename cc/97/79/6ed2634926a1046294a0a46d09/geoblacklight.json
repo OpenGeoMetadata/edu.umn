@@ -20,7 +20,7 @@
 "dc_description_s": "This 30 Meter Digital Elevation Model (DEM) is a copy of the USGS 1:24,000 scale Level 2 DEMs for the State. There are three quadrangles known be be Level 1 DEM data: Town Line Lake (q1925), Grand Portage (q1261) and Grand Portage OE N (q1161).", 
 "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/elev-30m-digital-elevation-model\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/elev_30m_digital_elevation_model/fgdb_elev_30m_digital_elevation_model.zip\"}", 
 "dc_subject_sm": [
-"Elevation"
+"elevation"
 ], 
 "dct_issued_s": "2004-05-01T06:00:00.000Z", 
 "solr_geom": "ENVELOPE(-96.832879, -89.396784, 49.348291, 43.435263)", 

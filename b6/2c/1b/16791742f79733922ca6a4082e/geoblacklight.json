@@ -7,7 +7,7 @@
 "uuid": "urn-b62c1b16-7917-42f7-9733-922ca6a4082e", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"Location"
+"location"
 ], 
 "dct_temporal_sm": "2015", 
 "dc_description_s": "This dataset is a compilation of address point data from metro area address authorities, which are predominantly cities. The dataset is intended to contain a point location and the official address (as defined by the address authority) for all occupiable units and any other official addresses within the jurisdictional boundary of each address authority. A number of other attributes are available in the dataset, but may not be populated by some address authorities. Metro area counties are playing a coordinative role to work with cities to create, maintain and aggregate address points. Currently this dataset contains points for Carver, Dakota and Ramsey counties. It will grow over time as more counties contribute data.", 

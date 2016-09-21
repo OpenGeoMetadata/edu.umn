@@ -7,12 +7,12 @@
 "uuid": "urn-f6e1d2e6-70d3-478b-a41f-a2201d1ab783", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"Elevation"
+"elevation"
 ], 
 "dct_temporal_sm": "2007", 
 "dc_description_s": "The LiDAR data for McLeod County was collected under contract by the county. Thus, the data format is not entirely consistent with some of the other LiDAR data collected by the State of Minnesota. Specifically, the McLeod County collect required classification of only Bare Earth in the LiDAR LAS files, so there is no information on buildings, vegetation, or model key points. The LAS data used for this process were acquired from the U.S. Geological Survey. No breaklines were available for processing this data. Note: This metadata record was created at the Minnesota Geospatial Information Office using information supplied by McLeod County and the Minnesota Department of Natural Resources.", 
 "dct_issued_s": "2007-01-01T06:00:00.000Z", 
-"dc_format_s": "File", 
+"dc_format_s": "", 
 "dc_creator_sm": [
 "McLeod County Highway Department"
 ], 

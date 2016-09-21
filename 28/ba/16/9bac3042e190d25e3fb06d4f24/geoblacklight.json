@@ -7,7 +7,7 @@
 "uuid": "urn-28ba169b-ac30-42e1-90d2-5e3fb06d4f24", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"Climatology, Meteorology and Atmosphere"
+"climatologyMeteorologyAtmosphere"
 ], 
 "dct_temporal_sm": "1961-1990", 
 "dc_description_s": "This data set depicts 30-year averages (1961-1990) of monthly and annual temperatures for Minnesota. Isolines and regions were created using kriging and latticecontour operations on temperature point data from a 5-state area. Data is stored in a regions model, with separate regions for each monthly and annual 30-year average (e.g., region.apr represents the average April temperatures across Minnesota for the period 1961-1990).", 

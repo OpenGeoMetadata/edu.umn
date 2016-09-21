@@ -7,7 +7,7 @@
 "uuid": "urn-0bf58e4b-23d4-4f07-89c1-3022661ba7b4", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"Environment"
+"environment"
 ], 
 "dct_temporal_sm": "2008", 
 "dc_description_s": "mlccs_regionally_significant_ecological_areas_2008: This is an analysis of regionally significant Terrestrial and Wetland Ecological Areas in the seven county metropolitan area. Individual forest, grassland and wetland models were integrated to identify and rank the Terrestrial and Wetland Ecological Areas. The scores are determined by examining important ecological attributes of the ecological patches including size, shape, cover type diversity, and adjacent land use. The results represent a probability that the modeled conditions exist in any given area, due to limitations of the data layers. The ecological models were run on the most current Minnesota Land Cover Classification System (MLCCS) data available - currently spring 2008. mlccs_regional_ecological_corridors_2008: Identification of potential ecological corridors between the MLCCS derived ecological patches. This was generated using cost / distance analysis, finding the shortest connection through the best land cover types between the patches. Natural and semi-natural areas were the preferred route, followed by agriculture land, then areas with low imperviousness (little development). Connections through developed areas were made if that was the only choice. Only patches within 5 kilometers of each other were connected.", 

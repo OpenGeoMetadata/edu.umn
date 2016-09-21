@@ -7,12 +7,12 @@
 "uuid": "urn-50a36e53-37d8-4dcd-afc8-3d8e57cb80d5", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"Society"
+"society"
 ], 
 "dct_temporal_sm": "2013", 
 "dc_description_s": "The U.S. Census's 2010 LEHD Origin-Destination Employment Statistcs (LODES) Dataset was used to map low-wage job and worker density in throughout the Twin Cities Metropolitan Area, Minnesota. The LODES data is part of the U.S. Census's Longitudinal Employer-Household Dynamics program which records the number of jobs by workplace location and the number of workers by household location at the census block level. Jobs and workers are classifies in three earning categories at the U.S. Census 2010 Block level: earnings of $1,250 per month or less, earnings $1,251 per month to $3,333 per month, and earnings greater than $3,333 per month. Earnings of $3,333 per month or less ($40,000 or less, annually) are consider low-wage jobs and workers. The census block level data was converted to a smoothly tapered surface of calculated census block value. The resulting data surface provides a general representation of overall employment density of low-wage jobs in the Twin Cities Metropolitan Area, Minnesota.", 
 "dct_issued_s": "2013-09-27", 
-"dc_format_s": "File", 
+"dc_format_s": "", 
 "dc_creator_sm": [
 "Metropolitan Council"
 ], 

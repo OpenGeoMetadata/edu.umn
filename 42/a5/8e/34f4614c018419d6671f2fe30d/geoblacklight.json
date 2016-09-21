@@ -7,7 +7,7 @@
 "uuid": "urn-42a58e34-f461-4c01-8419-d6671f2fe30d", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"Transportation"
+"transportation"
 ], 
 "dct_temporal_sm": "2013", 
 "dc_description_s": "This dataset represents the most current AADT (Annual Average Daily Traffic) on sampled road systems in a particular given year. AADT is a theoretical estimate of the total number of vehicles using a specific segment of roadway (in both directions) on any given day of the year. This estimate represents the total number of cars per year divided by 365 and is developed using factors that adjust for season, day of the week, and vehicle type. This information is displayed using the road centerlines within the state. This centerline layer is a subset of the State of Minnesota BaseMap which consists of a number of individual data layers originally digitized from USGS 7.5-minute quadrangles, but later updated via aerial imagery and local input.", 

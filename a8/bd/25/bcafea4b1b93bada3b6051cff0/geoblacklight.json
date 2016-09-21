@@ -7,12 +7,12 @@
 "uuid": "urn-a8bd25bc-afea-4b1b-93ba-da3b6051cff0", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"Elevation"
+"elevation"
 ], 
 "dct_temporal_sm": "2008", 
 "dc_description_s": "This high accuracy, bare-earth processed LiDAR data includes one-meter resolution DEMs, two-foot contours, edge-of-water breaklines and LAS points for nine counties in Southeast Minnesota: Dodge, Fillmore, Freeborn, Houston, Mower, Olmsted, Steele, Wabasha, and Winona. The project was coordinated by the Minnesota Department of Natural Resources and several partners including the U.S. Geological Survey, the Minnesota Department of Transportation, and staff from the affected counties. The data was collected by AeroMetric, Inc. (now Quantum Spatial) in November 2008 and was delivered in tiles that covered an area 1/16th of a 1:24,000-scale USGS quadrangle (approximately 3.25 square miles). DNR conducted the QA/QC starting April 2009. As part of the processing, one- and three-meter county mosaic DEMs were created and used for visual quality assessment. Note: This metadata record was created at the Minnesota Geospatial Information Office by combining information supplied by AeroMetric and the DNR.", 
 "dct_issued_s": "2008-06-15", 
-"dc_format_s": "File", 
+"dc_format_s": "", 
 "dc_creator_sm": [
 "AeroMetric, Inc."
 ], 

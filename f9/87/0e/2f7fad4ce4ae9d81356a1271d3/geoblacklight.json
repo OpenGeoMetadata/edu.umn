@@ -1,5 +1,5 @@
 {
-"layer_geom_type_s": "Mixed", 
+"layer_geom_type_s": "Polygon", 
 "layer_modified_dt": "2016-08-16T19:28:29Z", 
 "solr_geom": "ENVELOPE(-93.915, -93.278, 44.813, 44.541)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.gis.co.scott.mn.us/datasets/11227f63e88f44feb3ca81525ecaa534_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/County_Boundary/FeatureServer/0\",\"http://schema.org/url\":\"http://opendata.gis.co.scott.mn.us/datasets/11227f63e88f44feb3ca81525ecaa534_0\"}", 
@@ -7,9 +7,9 @@
 "uuid": "f9870e2f-7fad-4ce4-ae9d-81356a1271d3", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"Boundaries"
+"boundaries"
 ], 
-"dc_format_s": "File", 
+"dc_format_s": "Shapefile", 
 "dc_description_s": "This dataset contains one feature that represents the outer county boundary for Scott County. The northern boundary is defined by the Minnesota river. The rest of the boundary is based off of the Public Land Survey System using Township and Range boundaries.", 
 "dct_issued_s": "2015-09-01T22:08:16Z", 
 "dc_creator_sm": [

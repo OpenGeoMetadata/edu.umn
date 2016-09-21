@@ -1,5 +1,5 @@
 {
-"layer_geom_type_s": "Mixed", 
+"layer_geom_type_s": "Polygon", 
 "layer_modified_dt": "2016-08-16T19:22:11Z", 
 "solr_geom": "ENVELOPE(-93.9132199510146, -93.2776268697417, 44.8133009337009, 44.5423316337515)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.gis.co.scott.mn.us/datasets/a8eb3e26bfe546fcb97e6be8b64e2cfb_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/Wooded_Areas/FeatureServer/0\",\"http://schema.org/url\":\"http://opendata.gis.co.scott.mn.us/datasets/a8eb3e26bfe546fcb97e6be8b64e2cfb_0\"}", 
@@ -7,12 +7,12 @@
 "uuid": "312d0b36-af85-4a82-96c4-9787e0605eb5", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"Society", 
-"Biota", 
-"Health", 
+"society", 
+"biota", 
+"health", 
 "Wooded Areas"
 ], 
-"dc_format_s": "File", 
+"dc_format_s": "Shapefile", 
 "dc_description_s": "Wooded Areas within Scott County. This planimetric data was collected in 2003.", 
 "dct_issued_s": "2015-08-26T18:48:46Z", 
 "dc_creator_sm": [
