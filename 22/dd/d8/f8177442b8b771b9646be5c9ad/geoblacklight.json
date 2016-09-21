@@ -1,5 +1,5 @@
 {
-"layer_geom_type_s": "Polygon", 
+"layer_geom_type_s": "Mixed", 
 "layer_modified_dt": "2016-08-16T18:30:23Z", 
 "solr_geom": "ENVELOPE(-93.2285, -92.9825, 45.1246, 44.887)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/0aae6c7740a2482e9ee46f584933a05a_6.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/6\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/0aae6c7740a2482e9ee46f584933a05a_6\"}", 
@@ -7,12 +7,12 @@
 "uuid": "22ddd8f8-1774-42b8-b771-b9646be5c9ad", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"environment", 
-"geoscientificInformation", 
+"Environment", 
+"Geoscientific Information", 
 "Environmental", 
 "Soils"
 ], 
-"dc_format_s": "Shapefile", 
+"dc_format_s": "File", 
 "dc_description_s": "This data set is an extract of data fields from the digital soil survey and generally is the most detailed level of soil geographic data developed by the National Cooperative Soil Survey. The information was prepared by digitizing maps, by compiling information onto a planimetric correct base and digitizing, or by revising digitized maps using remotely sensed and other information. This data set consists of georeferenced digital map data and computerized attribute data. The map data are in a 7.5-minute quadrangle format and include a detailed, field verified inventory of soils and nonsoil areas that normally occur in a repeatable pattern on the landscape and that can be cartographically shown at the scale mapped. In this data set, selected fields have been appended to the basic Map Units from tables in the SSURGO relational database including mapunit, comp, chorizon, and ctexgrp.", 
 "dct_issued_s": "2014-11-27T19:59:08Z", 
 "dc_creator_sm": [

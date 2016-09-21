@@ -20,7 +20,7 @@
 "dc_description_s": "This dataset represents road centerlines for all public roads within the state of Minnesota. The roads are broken from intersection to intersection and attributed with information based on their designated route. Key attribute fields include route system (Interstate, US Highway, Minnesota Highway, County State Aid Highway, County Road, Township Road, etc.), Route Number (35W, 10, 53), and Name. A detailed description of the Roads layer attributes is included in Section 5 of this document - Entity and Attribute Overview. Some route numbers are temporary. '900' Routes are for route segments that formerly were part of a trunk highway which was turned back to a local entity. These are temporary numbers assigned while MnDOT waits for an official local designation. These numbers are assigned in the 900-999 range and are not official route numbers but just for temporarily assigning data to unnumbered routes.", 
 "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/trans-roads-mndot-tis\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dot/trans_roads_mndot_tis/shp_trans_roads_mndot_tis.zip\"}", 
 "dc_subject_sm": [
-"transportation"
+"Transportation"
 ], 
 "dct_issued_s": "2012", 
 "solr_geom": "ENVELOPE(-97.50897, -89.02899, 49.652543, 43.192405)", 

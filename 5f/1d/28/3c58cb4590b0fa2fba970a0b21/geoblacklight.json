@@ -1,5 +1,5 @@
 {
-"layer_geom_type_s": "Polygon", 
+"layer_geom_type_s": "Mixed", 
 "layer_modified_dt": "2016-07-12T13:14:52.447686Z", 
 "solr_geom": "ENVELOPE(-93.237, -92.9772, 45.1287, 44.884)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/4c0cb9fb4ee54f6f8c7d7719889b1d6f_16.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/16\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/4c0cb9fb4ee54f6f8c7d7719889b1d6f_16\"}", 
@@ -7,14 +7,14 @@
 "uuid": "5f1d283c-58cb-4590-b0fa-2fba970a0b21", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"utilitiesCommunications", 
+"Utilities and Communication", 
 "Infrastructure", 
 "Building Footprints"
 ], 
 "dct_temporal_sm": "2016", 
 "dc_description_s": "This data set contains the outlines of buildings. Structure outlines are derived from aerial photography observation and interpretation using stereo processing techniques. Vector line work was originally plotted from 2009 photography. All graphical lines contain a character based layer name that identifies the different mapping features. The flight height for the aerial photography utilized in this project is approximately 5000 feet. The mapping scale for aerial photography utilized in this project is 1 inch equals 833 feet.", 
 "dct_issued_s": "2014-12-01T23:22:40.000ZZ", 
-"dc_format_s": "Shapefile", 
+"dc_format_s": "File", 
 "dc_creator_sm": [
 "Map Portal"
 ], 

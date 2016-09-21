@@ -1,5 +1,5 @@
 {
-"layer_geom_type_s": "Point", 
+"layer_geom_type_s": "Mixed", 
 "layer_modified_dt": "2016-08-16T19:21:46Z", 
 "solr_geom": "ENVELOPE(-93.829075250373, -93.2822509042344, 44.8659007289167, 44.5522476048971)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.gis.co.scott.mn.us/datasets/bdbff6386c974b87b315e77949bea79f_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/Smoke_Free_Public_Housing/FeatureServer/0\",\"http://schema.org/url\":\"http://opendata.gis.co.scott.mn.us/datasets/bdbff6386c974b87b315e77949bea79f_0\"}", 
@@ -7,11 +7,11 @@
 "uuid": "b5933074-7846-4d2c-89d6-d7bd8220b83d", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"transportation", 
-"health", 
+"Transportation", 
+"Health", 
 "Public Housing"
 ], 
-"dc_format_s": "Shapefile", 
+"dc_format_s": "File", 
 "dc_description_s": "Smoke free public housing within Scott County. Locations include smoke free apartments and townhomes.", 
 "dct_issued_s": "2015-11-15T20:13:15Z", 
 "dc_creator_sm": [

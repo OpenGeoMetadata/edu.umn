@@ -1,5 +1,5 @@
 {
-"layer_geom_type_s": "Polygon", 
+"layer_geom_type_s": "Mixed", 
 "layer_modified_dt": "2016-08-16T19:28:37Z", 
 "solr_geom": "ENVELOPE(-93.8465220476923, -93.3543195183274, 44.8122404236747, 44.5295707111044)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.gis.co.scott.mn.us/datasets/26ba75497aa142b28bbd32408a9b1f11_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/Annexation/FeatureServer/0\",\"http://schema.org/url\":\"http://opendata.gis.co.scott.mn.us/datasets/26ba75497aa142b28bbd32408a9b1f11_0\"}", 
@@ -7,12 +7,12 @@
 "uuid": "ba683def-1ade-4b04-b78b-af959aa160f7", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"boundaries", 
+"Boundaries", 
 "Scott County Minnesota", 
 "Annexation", 
 "Property"
 ], 
-"dc_format_s": "Shapefile", 
+"dc_format_s": "File", 
 "dc_description_s": "This dataset contains Orderly Annexation Areas within Scott County. The Orderly Annexation Area boundaries reflect areas mapped in annexation agreements between adjacent townships and cities.", 
 "dct_issued_s": "2015-10-27T20:26:31Z", 
 "dc_creator_sm": [

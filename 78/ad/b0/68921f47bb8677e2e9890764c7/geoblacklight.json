@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-09-02T14:56:00Z", 
+"solr_geom": "ENVELOPE(-93.142851, -92.643671, 45.774284, 45.295309)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gis.chisagocounty.us/Link/SpatialData/ESN.zip\",\"http://schema.org/url\":\"http://gis.chisagocounty.us/Link/jsfe/index.aspx\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-78adb068-921f-47bb-8677-e2e9890764c7", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Location", 
+"Boundaries"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "Emergency service number zones for Chisago County", 
+"dct_issued_s": "2015-08-02", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Chisago County"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "urn-78adb068-921f-47bb-8677-e2e9890764c7", 
+"georss_polygon_s": "45.295309 -93.142851 45.774284 -93.142851 45.774284 -92.643671 45.295309 -92.643671 45.295309 -93.142851", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Chisago County, Minnesota", 
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Chisago County"
+], 
+"layer_id_s": "urn:urn-78adb068-921f-47bb-8677-e2e9890764c7", 
+"georss_box_s": "45.295309 -93.142851 45.774284 -92.643671", 
+"dc_title_s": "Emergency Service Numbers:: Chisago County, Minnesota, 2015", 
+"layer_slug_s": "Minnesota-urn-78adb068-921f-47bb-8677-e2e9890764c7"
+}

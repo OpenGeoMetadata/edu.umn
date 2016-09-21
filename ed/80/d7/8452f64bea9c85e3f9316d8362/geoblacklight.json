@@ -1,5 +1,5 @@
 {
-"layer_geom_type_s": "Polygon", 
+"layer_geom_type_s": "Mixed", 
 "layer_modified_dt": "2016-08-16T19:21:20Z", 
 "solr_geom": "ENVELOPE(-93.890560373435, -93.277639977358, 44.8050998143663, 44.542336244316)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.gis.co.scott.mn.us/datasets/db2bcaf7727f44f18b4c81baf4491510_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/Swamps/FeatureServer/0\",\"http://schema.org/url\":\"http://opendata.gis.co.scott.mn.us/datasets/db2bcaf7727f44f18b4c81baf4491510_0\"}", 
@@ -7,12 +7,12 @@
 "uuid": "ed80d784-52f6-4bea-9c85-e3f9316d8362", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"society", 
-"biota", 
-"health", 
+"Society", 
+"Biota", 
+"Health", 
 "Swamps"
 ], 
-"dc_format_s": "Shapefile", 
+"dc_format_s": "File", 
 "dc_description_s": "Swamps within Scott County. This planimetric data was collected in 2003.", 
 "dct_issued_s": "2015-09-06T20:55:25Z", 
 "dc_creator_sm": [

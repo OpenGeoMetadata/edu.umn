@@ -7,7 +7,7 @@
 "uuid": "urn-05ecc003-b42a-450d-9707-32d943cb036a", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"planningCadastre"
+"Planning and Cadastral"
 ], 
 "dct_temporal_sm": "2016", 
 "dc_description_s": "Polygon layer representing tax parcels in Itasca County. Right-of-Ways are incorporated into the parcels. All of the tax information and the parcel number are duplicated in the right-of-way portion. The polycode field should be used to isolate only tax parcels for tax information analysis. Redundant geometries exist for condominiums and undivided interests. Undivided ownership occurs when two or more parties have an interest in the same parcel. This becomes important in analysis as well. The acres and tax information reflects the entire parcel, not the undivided interest portion.", 
