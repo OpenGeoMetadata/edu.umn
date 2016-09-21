@@ -7,11 +7,7 @@
 "uuid": "urn-1262b376-92b8-4632-bc0f-6692c5920ec6", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-<<<<<<< HEAD
 "society"
-=======
-"Society"
->>>>>>> master
 ], 
 "dct_temporal_sm": "2011", 
 "dc_description_s": "Local Origin-Destination Employment Statistics - Workplace Area Characteristics provides local approximation of employment levels and characteristics. This dataset is an administrative records data mining product of U.S. Census Bureau. The Bureau obtains incumbent worker characteristics and home locations from Social Security Administration. Worksite locations, employment counts, quarterly wage totals and other worksite characteristics are obtained from Unemployment Insurance payroll data maintained by State employment security agencies. U.S. Census Bureau geocodes most worksite locations. Geocoded locations are then NfuzzedN or randomly moved from true locations in order to obscure the identity of individual employers and worksites. Those worksites that cannot be geocoded are assigned probable locations through a Bayesian imputation process. Finally, the resulting employment distributions are summarized to Census blocks. Local Origin-Destination Employment Statistics serves as a reasonable approximation of local employment distributions and journey-to-work patterns.", 

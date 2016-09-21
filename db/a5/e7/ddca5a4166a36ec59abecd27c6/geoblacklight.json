@@ -1,18 +1,11 @@
 {
-<<<<<<< HEAD
 "solr_year_i": 2013, 
-=======
->>>>>>> master
 "uuid": "urn-dba5e7dd-ca5a-4166-a36e-c59abecd27c6", 
 "layer_geom_type_s": "Mixed", 
 "dc_publisher_sm": [
 "University of Minnesota"
 ], 
-<<<<<<< HEAD
 "layer_modified_dt": "2016-05-18T16:17:20Z", 
-=======
-"layer_modified_dt": "2016-08-31T13:58:31Z", 
->>>>>>> master
 "dc_creator_sm": [
 "Chen, Wei; Levinson, David M"
 ], 
@@ -27,19 +20,10 @@
 "dc_description_s": "A shapefile was generated from ArcINFO coverages, which were in turn created by digitizing a 1958 paper map of land use in the Twin Cities Metropolitan Area. The map was originally published by the Twin Cities Metropolitan Planning Commission.", 
 "dct_references_s": "{\"http://schema.org/url\":\"http://dx.doi.org/10.13020/D6059J\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.uspatial.umn.edu/arcgis/rest/services/Libraries/MNGeospatialCommons_LandUseTwinCities1958/MapServer\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/edu_umn/plan_metro_landuse_1958/shp_plan_metro_landuse_1958.zip\"}", 
 "dc_subject_sm": [
-<<<<<<< HEAD
 "planningCadastre"
 ], 
 "dct_temporal_sm": "1958", 
 "solr_geom": "ENVELOPE(-93.77081, -92.725647, 45.303848, 44.468717)", 
 "dc_rights_s": "Public", 
 "dct_issued_s": "2013-11-22"
-=======
-"Planning and Cadastral"
-], 
-"solr_year_i": 2013, 
-"solr_geom": "ENVELOPE(-93.77081, -92.725647, 45.303848, 44.468717)", 
-"dc_rights_s": "Public", 
-"dct_issued_s": "2013-11-20"
->>>>>>> master
 }

@@ -1,6 +1,5 @@
 {
 "layer_geom_type_s": "Polygon", 
-<<<<<<< HEAD
 "layer_modified_dt": "2016-07-12T16:17:47.274365Z", 
 "solr_geom": "ENVELOPE(-93.0205, -92.7408, 45.2969, 44.7473)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.wcmn.opendata.arcgis.com/datasets/6b0238419666428a92bb088131e13fd0_0.zip\",,\"http://schema.org/url\":\"http://data.wcmn.opendata.arcgis.com/datasets/6b0238419666428a92bb088131e13fd0_0\"}", 
@@ -18,53 +17,22 @@
 "dct_temporal_sm": "2016", 
 "dc_description_s": "All parcels are based on the recorded plat content or Auditor's legal description with interpretive analysis performed through the use of coordinate geometry software. In cases where the legal descriptions are ambiguous, a check may be made with the actual deed of record. Occasionally in these circumstances one or two legal descriptions back in the chain of record are researched, but limits on time and resources often prevent this. When possible survey records such as road plans, certificates of survey and other items on file in the County Surveyor's Office are used. Where lines are not defined by plan or description, information may be digitized but this is rare. Resources are not available for making field inspections or surveys to locate parcel boundaries or ownership. Where occurrences of gaps or overlaps are clear, they are identified. Generally gaps or overlaps under 3 feet are removed. In cases of receding shorelines, extended lot lines are shown for small changes. (Refer to SDLTXLIN explanation) When significant changes in water levels occur, extensions may not be possible and may result in ambiguity. In these cases, extended ownership lines are noted as Nnot definedN and are terminated at previously known limits. Online link to metadata", 
 "dct_issued_s": "2016-03-03T20:36:00.000ZZ", 
-=======
-"layer_modified_dt": "2016-08-17T16:03:55Z", 
-"solr_geom": "ENVELOPE(-93.0205, -92.7408, 45.2969, 44.7473)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.wcmn.opendata.arcgis.com/datasets/6b0238419666428a92bb088131e13fd0_0.zip\",\"http://schema.org/url\":\"http://data.wcmn.opendata.arcgis.com/datasets/6b0238419666428a92bb088131e13fd0_0\"}", 
-"dc_rights_s": "Public", 
-"uuid": "urn-3a3f7bd0-e9e4-4021-bdf2-b7c8d5c57c5b", 
-"dct_provenance_s": "Minnesota", 
-"dc_subject_sm": [
-"Planning and Cadastral", 
-"parcels"
-], 
-"dct_temporal_sm": "2016-", 
-"dc_description_s": "All parcels are based on the recorded plat content or Auditor's legal description with interpretive analysis performed through the use of coordinate geometry software. In cases where the legal descriptions are ambiguous, a check may be made with the actual deed of record. Occasionally in these circumstances one or two legal descriptions back in the chain of record are researched, but limits on time and resources often prevent this. When possible survey records such as road plans, certificates of survey and other items on file in the County Surveyor's Office are used. Where lines are not defined by plan or description, information may be digitized but this is rare. Resources are not available for making field inspections or surveys to locate parcel boundaries or ownership. Where occurrences of gaps or overlaps are clear, they are identified. Generally gaps or overlaps under 3 feet are removed. In cases of receding shorelines, extended lot lines are shown for small changes. (Refer to SDLTXLIN explanation) When significant changes in water levels occur, extensions may not be possible and may result in ambiguity. In these cases, extended ownership lines are noted as (not defined) and are terminated at previously known limits.", 
-"dct_issued_s": "2016-02-21T20:36:00Z", 
->>>>>>> master
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Washington County, MN"
 ], 
 "dc_type_s": "Dataset", 
-<<<<<<< HEAD
 "dc_identifier_s": "3a3f7bd0-e9e4-4021-bdf2-b7c8d5c57c5b", 
 "georss_polygon_s": "44.7473 -93.0205 45.2969 -93.0205 45.2969 -92.7408 44.7473 -92.7408 44.7473 -93.0205", 
 "solr_year_i": 2016, 
 "dct_spatial_sm": [
 "Washington County, Minnesota"
-=======
-"dc_identifier_s": "urn-3a3f7bd0-e9e4-4021-bdf2-b7c8d5c57c5b", 
-"georss_polygon_s": "44.7473 -93.0205 45.2969 -93.0205 45.2969 -92.7408 44.7473 -92.7408 44.7473 -93.0205", 
-"solr_year_i": 2016, 
-"dct_spatial_sm": [
-"Washington County, Minnesota", 
-"Minnesota"
->>>>>>> master
 ], 
 "dc_publisher_sm": [
 "Washington County, MN"
 ], 
-<<<<<<< HEAD
 "layer_id_s": "urn:3a3f7bd0-e9e4-4021-bdf2-b7c8d5c57c5b", 
 "georss_box_s": "44.7473 -93.0205 45.2969 -92.7408", 
 "dc_title_s": "Parcels", 
 "layer_slug_s": "Minnesota-3a3f7bd0-e9e4-4021-bdf2-b7c8d5c57c5b"
-=======
-"layer_id_s": "urn:urn-3a3f7bd0-e9e4-4021-bdf2-b7c8d5c57c5b", 
-"georss_box_s": "44.7473 -93.0205 45.2969 -92.7408", 
-"dc_title_s": "Parcels: Washington County, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-3a3f7bd0-e9e4-4021-bdf2-b7c8d5c57c5b"
->>>>>>> master
 }

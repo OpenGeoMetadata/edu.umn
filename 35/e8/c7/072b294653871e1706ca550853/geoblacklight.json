@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
 "layer_geom_type_s": "Mixed", 
-=======
-"layer_geom_type_s": "Raster", 
->>>>>>> master
 "layer_modified_dt": "2016-06-29T09:59:03Z", 
 "solr_geom": "ENVELOPE(-96.5, -95.4, 44.4, 43.5)", 
 "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-rha2a-sw-mn\"}", 
@@ -11,20 +7,12 @@
 "uuid": "urn-35e8c707-2b29-4653-871e-1706ca550853", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-<<<<<<< HEAD
 "geoscientificInformation"
-=======
-"Geoscientific Information"
->>>>>>> master
 ], 
 "dct_temporal_sm": "2199", 
 "dc_description_s": "A County Geologic Atlas is a systematic study of a county's geologic and ground water resources. Geologic studies include both near-surface deposits and bedrock. Ground water studies include flow systems, aquifer capacity, and ground water chemistry. In some areas sand and gravel deposits, sinkholes, or other features are studied. Interpretation of sensitivity to pollution is also part of an atlas. The information is organized, analyzed, and displayed using geographic information technology. A Regional Hydrogeologic Assessment (RHA) is similar to a County Geologic Atlas in that both geology and ground water are studied. However, a Regional Hydrogeologic Assessment covers a larger area, typically four to nine counties, in less detail. The RHA emphasizes near-surface geologic, ground water, and pollution sensitivity mapping.", 
 "dct_issued_s": "1995-06-15", 
-<<<<<<< HEAD
 "dc_format_s": "GeoTIFF", 
-=======
-"dc_format_s": "ArcGRID", 
->>>>>>> master
 "dc_creator_sm": [
 "Minnesota Geological Survey"
 ], 

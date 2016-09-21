@@ -7,11 +7,7 @@
 "uuid": "urn-c4377d6a-5824-449a-8b5c-d3587b5f5919", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-<<<<<<< HEAD
 "inlandWaters"
-=======
-"Inland Waters"
->>>>>>> master
 ], 
 "dct_temporal_sm": "2013", 
 "dc_description_s": "This is a feature class of measured stream routes and is a core feature class within the DNR Hydrography Dataset. A NrouteN is an ESRI linear feature type created through a process called Dynamic Segmentation. Each stream route is labeled with a unique stream ID (i.e., DNR Fisheries Kittle Number) and has mile measures extending from the stream mouth (FROM_MEAS, mile=0) to headwaters (TO_MEAS, mile=total stream length). DNR Kittle Numbers follow a drainage-branching format (e.g., X-000-000-000...) and are assigned to all Fisheries-managed streams (see attribute field [VALID] = 'Y'). Additional streams have been labeled with NdummyN kittle numbers in order to provide a unique ID (VALID = 'N'). For more information about the DNR Kittle Number stream identification system, see the Fisheries Stream Survey Manual - DNR Special Report #165, Appendix 3 - page 234 (or page 251 in Adobe PDF Reader) at: http://files.dnr.state.mn.us/publications/fisheries/special_reports/165.pdf", 

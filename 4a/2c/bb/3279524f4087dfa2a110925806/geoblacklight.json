@@ -7,20 +7,12 @@
 "uuid": "urn-4a2cbb32-7952-4f40-87df-a2a110925806", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-<<<<<<< HEAD
 "imageryBaseMapsEarthCover"
-=======
-"Imagery and Base Maps"
->>>>>>> master
 ], 
 "dct_temporal_sm": "2010", 
 "dc_description_s": "The goal of the Composite Image Service is to provide a single layer image service with the 'best' air photo or satellite image available for a certain extent. The images are provided as a WMS (web map service). The primary focus is the Twin Cities Metropolitan Area and the State of Minnesota. The secondary interest is the areas bordering Minnesota, especially Wisconsin counties close to the metro area. Imagery is evaluated based on criteria of color, currency, resolution, coverage, season, leaf cover and image quality in order to determine which imagery to include at which scale. See the Lineage field for a list of imagery layers that are visible at different scales. More information about this map service and the imagery resources displayed at various scales is available on the MnGeo Composite Image Service webpage: http://www.mngeo.state.mn.us/chouse/wms/composite_image.html", 
 "dct_issued_s": "2011-02", 
-<<<<<<< HEAD
 "dc_format_s": "", 
-=======
-"dc_format_s": "File", 
->>>>>>> master
 "dc_creator_sm": [
 "Minnesota Geospatial Information Office"
 ], 

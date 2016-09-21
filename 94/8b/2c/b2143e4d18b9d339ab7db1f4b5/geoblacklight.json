@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
 "layer_geom_type_s": "Mixed", 
-=======
-"layer_geom_type_s": "Raster", 
->>>>>>> master
 "layer_modified_dt": "2016-06-29T09:59:28Z", 
 "solr_geom": "ENVELOPE(-93.92, -93.27, 44.82, 44.54)", 
 "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-geologic-atlas-scot-c17\"}", 
@@ -11,20 +7,12 @@
 "uuid": "urn-948b2cb2-143e-4d18-b9d3-39ab7db1f4b5", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-<<<<<<< HEAD
 "geoscientificInformation"
-=======
-"Geoscientific Information"
->>>>>>> master
 ], 
 "dct_temporal_sm": "2006", 
 "dc_description_s": "A County Geologic Atlas is a systematic study of a county's geologic and ground water resources. Geologic studies include both near-surface deposits and bedrock. Ground water studies include flow systems, aquifer capacity, and ground water chemistry. In some areas sand and gravel deposits, sinkholes, or other features are studied. Interpretation of sensitivity to pollution is also part of an atlas. The information is organized, analyzed, and displayed using geographic information technology. The Scott County Geologic Atlas contains the following plates: Plate 1: Database Map Plate 2: Bedrock Geology Plate 3: Surficial Geology Plate 4: Quaternary Stratigraphy Plate 5: Bedrock Topography, Depth to Bedrock, and Bedrock Geology Models Plate 6: Subsurface Recharge and Surface Infiltration Typically Minnesota Geologic Atlas projects are done in two parts. Part A covers basic geology and creates databases of primary source information such as wells and soil borings. Part B covers hydrogeology and ground water sensitivity. Some ground water sensitivity-related information is covered in Plate 6 of this atlas. There will be no Part B for the Scott County Geologic Atlas.", 
 "dct_issued_s": "2007-01", 
-<<<<<<< HEAD
 "dc_format_s": "GeoTIFF", 
-=======
-"dc_format_s": "ArcGRID", 
->>>>>>> master
 "dc_creator_sm": [
 "Minnesota Geological Survey (MGS)"
 ], 

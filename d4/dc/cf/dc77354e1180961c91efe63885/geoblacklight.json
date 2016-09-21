@@ -7,11 +7,7 @@
 "uuid": "urn-d4dccfdc-7735-4e11-8096-1c91efe63885", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-<<<<<<< HEAD
 "inlandWaters"
-=======
-"Inland Waters"
->>>>>>> master
 ], 
 "dct_temporal_sm": "2006", 
 "dc_description_s": "This is a polygon coverage of shallow lakes in Minnesota. In this coverage, a Nshallow lakeN is defined as a basin 50 acres or greater in size having a maximum depth of 15 feet or less. It was created using the MN DNR's 'DNR 100K Water (hydrography)' coverage as a base. A list of shallow lakes was generated from a query of all lakes with assigned Division of Waters ID numbers. Lakes with unknown depths were assigned a depth of '0', and were subsequently included in the list of shallow lakes. Some of these lakes with unknown depths may be deeper than 15 feet, and therefore, not shallow lakes. The depth values are updated as additional data is obtained, and the non-shallow lakes are removed from the list and the coverage.", 

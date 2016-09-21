@@ -7,20 +7,12 @@
 "uuid": "urn-69049536-1975-4396-a104-a58f41b8e6d0", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-<<<<<<< HEAD
 "elevation"
-=======
-"Elevation"
->>>>>>> master
 ], 
 "dct_temporal_sm": "2007", 
 "dc_description_s": "The LiDAR data for Chisago County was collected under contract by Chisago County. Thus, the data format is not entirely consistent with some of the other LiDAR data collected by the State of Minnesota. Specifically, the Chisago County collect did not require classification of anything other than Bare Earth in the LiDAR LAS files, so there is not information on buildings, vegetation, or model key points. Breaklines captured as part of this effort are also a bit different. In Chisago County the breaklines are 3D Polyline features vs 3D Polygon features. They also include road centerlines, stream courses and other features that are not part of the Statewide collect specifications. LiDAR was classified and stereo-pairs were generated from LiDAR intensity data which were used to collect breaklines. A surface was generated from the bare earth LiDAR DTM (digital terrain model) and the collected breakline data to produce the contours and the DEMs. Tiling: Bare-earth and first-return LiDAR data in LAS format are divided into 5000' X 5000' sheet tiles named according to the Lower Left XY coordinate value. Five-foot posted raster bare-earth DEMs in ArcGrid format are divided into 5000' X 5000' sheet tiles. The contours are divided into township areas. Optimal Geomatics, Inc. collected and processed the LiDAR data, and authored the procedures quality control reports.", 
 "dct_issued_s": "2007-06-15", 
-<<<<<<< HEAD
 "dc_format_s": "", 
-=======
-"dc_format_s": "Geodatabase", 
->>>>>>> master
 "dc_creator_sm": [
 "Chisago County Surveyor's Office"
 ], 

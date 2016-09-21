@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
 "layer_geom_type_s": "Polygon", 
-=======
-"layer_geom_type_s": "Mixed", 
->>>>>>> master
 "layer_modified_dt": "2016-07-12T13:14:45.665385Z", 
 "solr_geom": "ENVELOPE(-93.2284, -92.9826, 45.1245, 44.8869)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/1d885379344b4bd9b98beb6ba70f1175_1.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/1\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/1d885379344b4bd9b98beb6ba70f1175_1\"}", 
@@ -19,11 +15,7 @@
 "dct_temporal_sm": "2016", 
 "dc_description_s": "This data set contains polygons that represent Municipal boundaries. The Municipal boundaries were originally digitized from MNDOT municipality maps. Over time, these boundaries have been edited to better match Ramsey County parcel data.", 
 "dct_issued_s": "2014-11-29T20:49:52.000ZZ", 
-<<<<<<< HEAD
 "dc_format_s": "Shapefile", 
-=======
-"dc_format_s": "File", 
->>>>>>> master
 "dc_creator_sm": [
 "Map Portal"
 ], 

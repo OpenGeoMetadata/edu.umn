@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
 "layer_geom_type_s": "Mixed", 
-=======
-"layer_geom_type_s": "Raster", 
->>>>>>> master
 "layer_modified_dt": "2016-06-29T09:58:42Z", 
 "solr_geom": "ENVELOPE(-94.63, -93.76, 44.73, 44.44)", 
 "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-geologic-atlas-sibl-c24a\"}", 
@@ -11,20 +7,12 @@
 "uuid": "urn-9cdd8726-fec7-4902-b96d-0e4b0adde8b0", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-<<<<<<< HEAD
 "geoscientificInformation"
-=======
-"Geoscientific Information"
->>>>>>> master
 ], 
 "dct_temporal_sm": "2011", 
 "dc_description_s": "A County Geologic Atlas is a systematic study of a county's geologic and ground water resources. Geologic studies include both near-surface deposits and bedrock. Ground water studies include flow systems, aquifer capacity, and ground water chemistry. In some areas sand and gravel deposits, sinkholes, or other features are studied. Interpretation of sensitivity to pollution is also part of an atlas. The information is organized, analyzed, and displayed using geographic information technology. Most Geologic Atlas and Regional Hydrogeologic Assessment projects are done in two parts. The Minnesota Geological Survey covers basic geology and creates databases of information such as wells and soil borings in part A. The Minnesota Department of Natural Resources (DNR) handles hydrogeology and ground water sensitivity layers in Part B. Completion of a project's two parts is staggered: Part A is completed about two years before Part B, compiling information used to create part B. Parts A and B are published and distributed as two separate products.", 
 "dct_issued_s": "2011-06-15", 
-<<<<<<< HEAD
 "dc_format_s": "GeoTIFF", 
-=======
-"dc_format_s": "ArcGRID", 
->>>>>>> master
 "dc_creator_sm": [
 "Minnesota Geological Survey (MGS)"
 ], 

@@ -7,20 +7,12 @@
 "uuid": "urn-42809130-c435-4117-a98a-1977a251f1b2", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-<<<<<<< HEAD
 "elevation"
-=======
-"Elevation"
->>>>>>> master
 ], 
 "dct_temporal_sm": "2012", 
 "dc_description_s": "The project vendor, Woolpert, Inc., acquired highly accurate Light Detection and Ranging (LiDAR) elevation data for the Central Lakes area of Minnesota in Spring 2012. The data cover Aitkin, Cass, Hubbard, Itasca, Todd and Wadena counties, along with a portion of Koochiching County. LiDAR data are in the UTM Zone 15 coordinate system, NAD83 96, NAVD88 Geoid09, meters. The tiling scheme is 16th USGS 1:24,000 quadrangle tiles. The vendor delivered the data to the Minnesota Department of Natural Resources (DNR) in several formats: 1) One-meter digital elevation model 2) Edge-of-water breaklines 3) Classified LAS formatted point cloud data DNR then quality checked the data and created two additional products: two-foot contours and building outlines. This metadata record was created at the Minnesota Geospatial Information Office using information supplied by Woolpert and DNR.", 
 "dct_issued_s": "2012-06-15", 
-<<<<<<< HEAD
 "dc_format_s": "", 
-=======
-"dc_format_s": "File", 
->>>>>>> master
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources and Woolpert, Inc."
 ], 

@@ -7,15 +7,9 @@
 "uuid": "urn-067e65d8-ab6f-4e47-95e3-0a0abeee55f0", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-<<<<<<< HEAD
 "imageryBaseMapsEarthCover"
 ], 
 "dc_format_s": "", 
-=======
-"Imagery and Base Maps"
-], 
-"dc_format_s": "File", 
->>>>>>> master
 "dc_description_s": "This dataset contains 267 black and white digital orthophoto quarter-quadrangles (DOQs), 3.75' x 3.75', covering the 7 county Twin Cities (Minneapolis and St. Paul) Metropolitan Area in Minnesota. Each CD-ROM contains up to 4 quarter-quadrangles of a USGS 7.5 minute quadrangle, where a quarter-quadrangle is included IF it's coverage includes any portion of the Twin cities 7 county area. The orthophotos are in UTM, Zone 15, NAD83 projection. Each image is approximately 115 Mb, with a .6 meter image pixel, and available in TIFF format. There are a total of 78 CD-ROMs. These orthophotos were produced using the USGS DOQ specifications except for the file format and the scan resolution (pixel size is .6m rather than 1 meter). The original imagery was collected at 20,000 ft. and centered on USGS quarter-quads. This dataset is available for direct use via the MnGeo Geospatial Image Service (Twin Cities metro layer). More information at http://www.mngeo.state.mn.us/chouse/wms/geo_image_server.html", 
 "dct_issued_s": "2016-10", 
 "dc_creator_sm": [

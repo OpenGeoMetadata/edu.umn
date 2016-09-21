@@ -7,11 +7,7 @@
 "uuid": "urn-e518cf0e-da63-461f-a4ad-a0a2b9036775", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-<<<<<<< HEAD
 "inlandWaters"
-=======
-"Inland Waters"
->>>>>>> master
 ], 
 "dct_temporal_sm": "2008", 
 "dc_description_s": "These data represent surface water features, derived from the Minnesota DNR's Public Waters Inventory and the US Fish and Wildlife Services' National Wetlands Inventory. 1. PWI basins were intersected with NWI wetlands - the area of each unique wetland type within each basin was calculated. Each basin was then assigned that wetland type which covered the greatest proportion of its extent. 2. Approximate depths were assigned to all wetland types present in the study area. The data were saved in tabular form, and joined to the basins feature class by wetland type - thus an approximate depth was derived for each basin. 3. The basin extents were clipped from the wetlands feature class - wetland fragments less than 60 square meters were then removed, as the basin and wetland edges weren't perfectly coincident, and polygon slivers remained after the clip. 4. The depth table was joined to the wetlands by wetland type, and each wetland was assigned an approximate depth. Adjacent wetlands of the same depth were then dissolved together. 5. Basins and wetlands were merged into a single feature class. An ID was assigned to each wetland, based on the county in which the greatest proportion of the wetland is found.", 

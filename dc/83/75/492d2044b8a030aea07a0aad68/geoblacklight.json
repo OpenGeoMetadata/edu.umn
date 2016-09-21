@@ -7,11 +7,7 @@
 "uuid": "urn-dc837549-2d20-44b8-a030-aea07a0aad68", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-<<<<<<< HEAD
 "environment"
-=======
-"Environment"
->>>>>>> master
 ], 
 "dct_temporal_sm": "2015", 
 "dc_description_s": "This layer shows Minnesota trout streams that have a special regulation as described in the 2015 Minnesota Fishing Regulations. Road crossings were determined using the 1991 Air Photos (1 - metre DOQs). Check the fishing regulations booklet ( http://www.dnr.state.mn.us/regulations/fishing/index.html ) for detailed information. Note legal descriptions and restrictions associated with designated trout waters under the section Special Regulations: Streams and Rivers (p. 56-62). Regulated segments are maintained as tabular data and displayed as linear events on the Stream Routes with Kittle Numbers and Mile Measures layer. In the attribute table, designated segments extend from the FROM_MEAS (mile) to the TO_MEAS (mile) and have a total length = [LENGTH_MI] on a route with total length = [ROUTE_MI].", 

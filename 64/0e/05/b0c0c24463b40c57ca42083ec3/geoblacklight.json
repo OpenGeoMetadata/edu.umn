@@ -1,6 +1,5 @@
 {
 "layer_geom_type_s": "Line", 
-<<<<<<< HEAD
 "layer_modified_dt": "2016-07-12T16:17:49.657256Z", 
 "solr_geom": "ENVELOPE(-93.02936, -92.74151, 45.29843, 44.73814)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.wcmn.opendata.arcgis.com/datasets/2dcea4496b434bfebd08c3d438158746_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/3fjYPqJf7qalQMlb/arcgis/rest/services/Streets/FeatureServer/0\",\"http://schema.org/url\":\"http://data.wcmn.opendata.arcgis.com/datasets/2dcea4496b434bfebd08c3d438158746_0\"}", 
@@ -18,54 +17,22 @@
 "dct_temporal_sm": "2016", 
 "dc_description_s": "This data provides a routable network of Federal, State, County and Municipal roads. The vector data is updated utilizing positions calculated from plats using coordinate geometry programs as well as aerial photos to approximate 'as built' locations. Platted, Public road centerlines are captured within this database. Private roads may not be shown.The centerlines usually represent the center of the physical roadway pavement. The center of physical roadway pavement may or may not represent the center of the road right of way. Road right of ways may taper or change width. This file has been further modified using several sources including survey centerlines and digitizing off aerial photos. Attributes have been included to allow geo-coding and the support of Washingon County Sherriff's Office Communication Center.", 
 "dct_issued_s": "2015-02-27T19:52:44.000ZZ", 
-=======
-"layer_modified_dt": "2016-08-17T15:51:25Z", 
-"solr_geom": "ENVELOPE(-93.02936, -92.74151, 45.29843, 44.73814)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.wcmn.opendata.arcgis.com/datasets/2dcea4496b434bfebd08c3d438158746_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/3fjYPqJf7qalQMlb/arcgis/rest/services/Streets/FeatureServer/0\",\"http://schema.org/url\":\"http://data.wcmn.opendata.arcgis.com/datasets/2dcea4496b434bfebd08c3d438158746_0\"}", 
-"dc_rights_s": "Public", 
-"uuid": "urn-640e05b0-c0c2-4463-b40c-57ca42083ec3", 
-"dct_provenance_s": "Minnesota", 
-"dc_subject_sm": [
-"Transportation", 
-"streets", 
-"roads"
-], 
-"dct_temporal_sm": "2015-", 
-"dc_description_s": "This data provides a routable network of Federal, State, County and Municipal roads. The vector data is updated utilizing positions calculated from plats using coordinate geometry programs as well as aerial photos to approximate 'as built' locations. Platted, Public road centerlines are captured within this database. Private roads may not be shown.The centerlines usually represent the center of the physical roadway pavement. The center of physical roadway pavement may or may not represent the center of the road right of way. Road right of ways may taper or change width. This file has been further modified using several sources including survey centerlines and digitizing off aerial photos. Attributes have been included to allow geo-coding and the support of Washingon County Sherriff's Office Communication Center.", 
-"dct_issued_s": "2015-02-24T19:52:44Z", 
->>>>>>> master
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Washington County, MN"
 ], 
 "dc_type_s": "Dataset", 
-<<<<<<< HEAD
 "dc_identifier_s": "640e05b0-c0c2-4463-b40c-57ca42083ec3", 
 "georss_polygon_s": "44.73814 -93.02936 45.29843 -93.02936 45.29843 -92.74151 44.73814 -92.74151 44.73814 -93.02936", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
 "Washington County, Minnesota"
-=======
-"dc_identifier_s": "urn-640e05b0-c0c2-4463-b40c-57ca42083ec3", 
-"georss_polygon_s": "44.73814 -93.02936 45.29843 -93.02936 45.29843 -92.74151 44.73814 -92.74151 44.73814 -93.02936", 
-"solr_year_i": 2015, 
-"dct_spatial_sm": [
-"Washington County, Minnesota", 
-"Minnesota"
->>>>>>> master
 ], 
 "dc_publisher_sm": [
 "Washington County, MN"
 ], 
-<<<<<<< HEAD
 "layer_id_s": "urn:640e05b0-c0c2-4463-b40c-57ca42083ec3", 
 "georss_box_s": "44.73814 -93.02936 45.29843 -92.74151", 
 "dc_title_s": "Streets", 
 "layer_slug_s": "Minnesota-640e05b0-c0c2-4463-b40c-57ca42083ec3"
-=======
-"layer_id_s": "urn:urn-640e05b0-c0c2-4463-b40c-57ca42083ec3", 
-"georss_box_s": "44.73814 -93.02936 45.29843 -92.74151", 
-"dc_title_s": "Streets: Washington County, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-640e05b0-c0c2-4463-b40c-57ca42083ec3"
->>>>>>> master
 }

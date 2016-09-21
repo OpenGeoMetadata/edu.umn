@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
 "layer_geom_type_s": "Mixed", 
-=======
-"layer_geom_type_s": "Raster", 
->>>>>>> master
 "layer_modified_dt": "2016-06-29T09:58:42Z", 
 "solr_geom": "ENVELOPE(-96.86813, -89.353303, 49.371082, 43.407737)", 
 "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/biota-landcover-gap\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_landcover_gap/fgdb_biota_landcover_gap.zip\"}", 
@@ -11,20 +7,12 @@
 "uuid": "urn-38c50453-f828-443d-baa0-0d0e1e723de8", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-<<<<<<< HEAD
 "biota"
-=======
-"Biota"
->>>>>>> master
 ], 
 "dct_temporal_sm": "1995-2000", 
 "dc_description_s": "This raster dataset is a detailed (1-acre minimum), hierarchically organized vegetation cover map produced by computer classification of combined two-season pairs of early-1990s Landsat 4/5 Thematic Mapper (TM) satellite imagery, as part of the Upper Midwest Gap Analysis Program (UMGAP)( http://www.umesc.usgs.gov/reports_publications/psrs/psr_1999_04.html ) of the U.S. Geological Survey. Units of analysis were Minnesota Ecological Classification System (ECS)( http://www.dnr.state.mn.us/ecs/index.html ) subsections subdivided by TM scenes. GAP typology and classification protocols are closely comparable across Minnesota, Wisconsin and Michigan.", 
 "dct_issued_s": "2015-06-01T05:00:00.000ZZ", 
-<<<<<<< HEAD
 "dc_format_s": "GeoTIFF", 
-=======
-"dc_format_s": "ArcGRID", 
->>>>>>> master
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR) - Division of Forestry"
 ], 

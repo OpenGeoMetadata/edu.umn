@@ -7,11 +7,7 @@
 "uuid": "urn-658ae1e6-4a31-4f78-88a3-2a7fc900fb40", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-<<<<<<< HEAD
 "inlandWaters"
-=======
-"Inland Waters"
->>>>>>> master
 ], 
 "dct_temporal_sm": "1997", 
 "dc_description_s": "This layer contains designated Wild, Scenic & Recreational Rivers in Minnesota as specified in 1997 MN Rules 6105. Segments of rivers are coded as state-designated (Y), federally-designated (F), or not designated (N). See the DNR Ecological and Water Resources website at: http://www.dnr.state.mn.us/waters/watermgmt_section/wild_scenic/wsrivers/rivers.html for more information on classification and management of these designated rivers. Designated segments are maintained as tabular data and displayed as linear events on the Stream Routes with Kittle Numbers and Mile Measures layer. In the attribute table, designated segments extend from the FROM_MEAS (mile) to the TO_MEAS (mile) and have a total length = [LENGTH_MI] on a route with total length = [ROUTE_MI].", 

@@ -7,11 +7,7 @@
 "uuid": "urn-e6b88005-17e7-4d59-bff5-3487c5e36380", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-<<<<<<< HEAD
 "climatologyMeteorologyAtmosphere"
-=======
-"Climatology, Meteorology and Atmosphere"
->>>>>>> master
 ], 
 "dct_temporal_sm": "1961-1990", 
 "dc_description_s": "This data set depicts 30-year averages (1961-1990) of monthly and annual sum precipitation for Minnesota. These isolines and regions were created using kriging and latticecontour operations on precipitation point data from a 5-state area. Data is stored in a regions model, with separate regions for each monthly and annual sum 30-year average (e.g., region.apr represents the average April sum precipitation across Minnesota for the period 1961-1990).", 

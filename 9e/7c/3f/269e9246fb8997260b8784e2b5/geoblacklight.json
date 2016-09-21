@@ -7,11 +7,7 @@
 "uuid": "urn-9e7c3f26-9e92-46fb-8997-260b8784e2b5", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-<<<<<<< HEAD
 "location"
-=======
-"Location"
->>>>>>> master
 ], 
 "dct_temporal_sm": "2015", 
 "dc_description_s": "The source data for the Minnesota Geographic Names point file is the USGS-GNIS data base, 'National Geographic Names Database', maintained by the United States Geological Survey for the U.S. Board of Geographic Names. State extracts are available from the Board of Geographic Names as ascii text files, and converted locally to GIS format. According to USGS metadata: 'A geographic feature is any relatively permanent part of the natural or manmade landscape or seascape that has recognizable identity within a particular cultural context. The primary attributes of a geographic feature are name and location.' The Geographic Names Information System file contains all geographic names in the Minnesota state extract. Layer files have also been created to represent the 'Populated Places' feature, and the 'Dams' feature, from GNIS. A 'Populated Place' is defined by USGS as a 'Place or area with clustered or scattered buildings a nd a permanent human population (city, settlement, town, village)'. A 'Populated Place' may or not be legally incorporated. Incorporated places also appear as separate features with a feature code of 'Civil'. For more information see: http://geonames.usgs.gov/", 

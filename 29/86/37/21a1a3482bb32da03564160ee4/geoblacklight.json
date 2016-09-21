@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
 "layer_geom_type_s": "Polygon", 
-=======
-"layer_geom_type_s": "Mixed", 
->>>>>>> master
 "layer_modified_dt": "2016-07-12T13:14:22.067676Z", 
 "solr_geom": "ENVELOPE(-93.2317, -92.9828, 45.1243, 44.8873)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/a9e0cd0fc2aa479c807173015ba2063e_3.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/3\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/a9e0cd0fc2aa479c807173015ba2063e_3\"}", 
@@ -18,11 +14,7 @@
 "dct_temporal_sm": "2014", 
 "dc_description_s": "This dataset contains ploygons that represent local, state, and county parks as well as open spaces, golf courses, and recreation centers. County park polygons are maintained by Ramsey County Parks and Recreation division. City parks attributes are crowd-sourced via GORamsey application from municipalities in Ramsey County.", 
 "dct_issued_s": "2014-12-01T15:53:03.000ZZ", 
-<<<<<<< HEAD
 "dc_format_s": "Shapefile", 
-=======
-"dc_format_s": "File", 
->>>>>>> master
 "dc_creator_sm": [
 "Map Portal"
 ], 

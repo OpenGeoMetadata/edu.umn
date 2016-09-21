@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
 "layer_geom_type_s": "Polygon", 
-=======
-"layer_geom_type_s": "Mixed", 
->>>>>>> master
 "layer_modified_dt": "2016-07-12T13:15:02.510282Z", 
 "solr_geom": "ENVELOPE(-93.2322, -92.9854, 45.1247, 44.8911)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/e73398141f574dc7b0758314c0a7f858_18.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/18\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/e73398141f574dc7b0758314c0a7f858_18\"}", 
@@ -11,22 +7,14 @@
 "uuid": "9bf5fd32-42e9-46cd-8432-23b2146d5261", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-<<<<<<< HEAD
 "utilitiesCommunications", 
-=======
-"Utilities and Communication", 
->>>>>>> master
 "Infrastructure", 
 "Tanks"
 ], 
 "dct_temporal_sm": "2016", 
 "dc_description_s": "This data set contains outlines of tanks that do not contain water. The tank outlines are derived from aerial photography observation and interpretation using stereo processing techniques. Vector line work was originally plotted from 2009 photography. All graphical lines contain a character based layer name that identifies the different mapping features. The flight height for the aerial photography utilized in this project is approximately 5000 feet. The mapping scale for aerial photography utilized in this project is 1 inch equals 833 feet.", 
 "dct_issued_s": "2014-12-02T21:06:06.000ZZ", 
-<<<<<<< HEAD
 "dc_format_s": "Shapefile", 
-=======
-"dc_format_s": "File", 
->>>>>>> master
 "dc_creator_sm": [
 "Map Portal"
 ], 

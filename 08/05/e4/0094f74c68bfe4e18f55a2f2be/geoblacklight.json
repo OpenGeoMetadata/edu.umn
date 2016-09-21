@@ -7,11 +7,7 @@
 "uuid": "urn-0805e400-94f7-4c68-bfe4-e18f55a2f2be", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-<<<<<<< HEAD
 "elevation"
-=======
-"Elevation"
->>>>>>> master
 ], 
 "dct_temporal_sm": "2011", 
 "dc_description_s": "Fugro Horizons Inc. acquired highly accurate Light Detection and Ranging (LiDAR) elevation data for the Twin Cities metropolitan region in east-central Minnesota in Spring and Fall 2011, with some reflights in Spring 2012. The data cover Anoka, Benton, Carver, Dakota, Goodhue, Hennepin, Isanti, Kanabec, Meeker, Mille Lacs, Morrison, Ramsey, Scott, Sherburne and Washington counties. Most of the data was collected at 1.5 points/square meter. Smaller areas were collected with 2 points/square meter and with 8 points/square meter: 1. 1.5 points/square meter covers Morrison, Mille Lacs, Benton, Isanti, Sherburne, Anoka, Meeker, Hennepin, Washington, Carver, Scott, and Goodhue counties. 2. 2 points/square meter covers the Dakota Block (southern 2/3 of Dakota County) 3. 8 points/square meter covers portions of Minneapolis/St. Paul and the City of Maple Grove See map of block boundaries: ftp://lidar.dnr.state.mn.us/documentation/status/metro_data_delivery_dates.pdf Data are in the UTM Zone 15 coordinate system, NAD83 NAVD88 Geoid09 meters. The tiling scheme is 16th USGS 1:24,000 quadrangle tiles. The vendor delivered the data to the Minnesota Department of Natural Resources (DNR) in several formats: 1. One-meter digital elevation model 2. Edge-of-water breaklines 3. Classified LAS formatted point cloud data DNR staff quality-checked the data and created two additional products: two-foot contours and building outlines. Note: This metadata record was created at the Minnesota Geospatial Information Office using information supplied by the vendor and by DNR. Dakota County staff have clipped by buffer around this community and also provided additional datasets beyond the named 1-Foot Contours; 1 and 3-meter DEMs and 1 and 3-meter Hillshades.", 

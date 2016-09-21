@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
 "layer_geom_type_s": "Point", 
-=======
-"layer_geom_type_s": "Mixed", 
->>>>>>> master
 "layer_modified_dt": "2016-07-12T13:14:55.793224Z", 
 "solr_geom": "ENVELOPE(-93.2278, -92.9841, 45.1246, 44.9914)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/0782c58466f445fb9c8bd84f0e26944a_8.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/8\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/0782c58466f445fb9c8bd84f0e26944a_8\"}", 
@@ -11,11 +7,7 @@
 "uuid": "895b4edd-be47-489f-8f5b-8f7fc68e3e72", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-<<<<<<< HEAD
 "planningCadastre", 
-=======
-"Planning and Cadastral", 
->>>>>>> master
 "PLSS", 
 "Survey", 
 "Benchmarks"
@@ -23,11 +15,7 @@
 "dct_temporal_sm": "2014", 
 "dc_description_s": "Benchmarks are relatively permanent objects having a marked point, whose elevation above or below an adopted datum, is known or assumed. Vertical control is a series of bench marks or other points of known elevation established throughout an area.", 
 "dct_issued_s": "2014-12-04T17:16:23.000ZZ", 
-<<<<<<< HEAD
 "dc_format_s": "Shapefile", 
-=======
-"dc_format_s": "File", 
->>>>>>> master
 "dc_creator_sm": [
 "Map Portal"
 ], 

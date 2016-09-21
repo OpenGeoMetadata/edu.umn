@@ -1,6 +1,5 @@
 {
 "layer_geom_type_s": "Polygon", 
-<<<<<<< HEAD
 "layer_modified_dt": "2016-06-28T11:06:57.396282Z", 
 "solr_geom": "ENVELOPE(-94.0172, -93.5165, 44.9819, 44.631)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/502e97a1de6246b7ac0bc94f3ef53a52_10.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.carver.mn.us/arcgis_ea/rest/services/OpenAccess/CC_Hydrography/MapServer/10\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/502e97a1de6246b7ac0bc94f3ef53a52_10\"}", 
@@ -20,56 +19,22 @@
 "dct_temporal_sm": "2016", 
 "dc_description_s": "Major Watersheds within Carver County.", 
 "dct_issued_s": "2014-06-05T20:01:05.000ZZ", 
-=======
-"layer_modified_dt": "2016-08-17T12:59:19Z", 
-"solr_geom": "ENVELOPE(-94.0172, -93.5165, 44.9819, 44.631)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/502e97a1de6246b7ac0bc94f3ef53a52_10.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.carver.mn.us/arcgis_ea/rest/services/OpenAccess/CC_Hydrography/MapServer/10\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/502e97a1de6246b7ac0bc94f3ef53a52_10\"}", 
-"dc_rights_s": "Public", 
-"uuid": "urn-f6a151b8-87b9-4515-9c54-4ab165336fd7", 
-"dct_provenance_s": "Minnesota", 
-"dc_subject_sm": [
-"Geoscientific Information", 
-"Utilities and Communication", 
-"Inland Waters", 
-"hydrography", 
-"watersheds"
-], 
-"dct_temporal_sm": "2014-", 
-"dc_description_s": "Major Watersheds within Carver County.", 
-"dct_issued_s": "2014-06-03T20:01:05Z", 
->>>>>>> master
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Carver County, Minnesota"
 ], 
 "dc_type_s": "Dataset", 
-<<<<<<< HEAD
 "dc_identifier_s": "f6a151b8-87b9-4515-9c54-4ab165336fd7", 
 "georss_polygon_s": "44.631 -94.0172 44.9819 -94.0172 44.9819 -93.5165 44.631 -93.5165 44.631 -94.0172", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
 "Carver County, Minnesota"
-=======
-"dc_identifier_s": "urn-f6a151b8-87b9-4515-9c54-4ab165336fd7", 
-"georss_polygon_s": "44.631 -94.0172 44.9819 -94.0172 44.9819 -93.5165 44.631 -93.5165 44.631 -94.0172", 
-"solr_year_i": 2014, 
-"dct_spatial_sm": [
-"Carver County, Minnesota", 
-"Minnesota"
->>>>>>> master
 ], 
 "dc_publisher_sm": [
 "Carver County, Minnesota"
 ], 
-<<<<<<< HEAD
 "layer_id_s": "urn:f6a151b8-87b9-4515-9c54-4ab165336fd7", 
 "georss_box_s": "44.631 -94.0172 44.9819 -93.5165", 
 "dc_title_s": "Hydrography | Major Watersheds", 
 "layer_slug_s": "Minnesota-f6a151b8-87b9-4515-9c54-4ab165336fd7"
-=======
-"layer_id_s": "urn:urn-f6a151b8-87b9-4515-9c54-4ab165336fd7", 
-"georss_box_s": "44.631 -94.0172 44.9819 -93.5165", 
-"dc_title_s": "Major Watersheds: Carver County, Minnesota, 2014", 
-"layer_slug_s": "Minnesota-urn-f6a151b8-87b9-4515-9c54-4ab165336fd7"
->>>>>>> master
 }

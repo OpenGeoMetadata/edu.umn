@@ -1,18 +1,12 @@
 {
-<<<<<<< HEAD
 "layer_geom_type_s": "Polygon", 
 "layer_modified_dt": "2016-06-28T11:10:33.300909Z", 
-=======
-"layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-08-16T19:28:29Z", 
->>>>>>> master
 "solr_geom": "ENVELOPE(-93.915, -93.278, 44.813, 44.541)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.gis.co.scott.mn.us/datasets/11227f63e88f44feb3ca81525ecaa534_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/County_Boundary/FeatureServer/0\",\"http://schema.org/url\":\"http://opendata.gis.co.scott.mn.us/datasets/11227f63e88f44feb3ca81525ecaa534_0\"}", 
 "dc_rights_s": "Public", 
 "uuid": "f9870e2f-7fad-4ce4-ae9d-81356a1271d3", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-<<<<<<< HEAD
 "", 
 "Scott County Minnesota", 
 "Boundary", 
@@ -23,13 +17,6 @@
 "dc_description_s": "This dataset contains one feature that represents the outer county boundary for Scott County. The northern boundary is defined by the Minnesota river. The rest of the boundary is based off of the Public Land Survey System using Township and Range boundaries.", 
 "dct_issued_s": "2015-09-03T22:08:16.000ZZ", 
 "dc_format_s": "Shapefile", 
-=======
-"Boundaries"
-], 
-"dc_format_s": "File", 
-"dc_description_s": "This dataset contains one feature that represents the outer county boundary for Scott County. The northern boundary is defined by the Minnesota river. The rest of the boundary is based off of the Public Land Survey System using Township and Range boundaries.", 
-"dct_issued_s": "2015-09-01T22:08:16Z", 
->>>>>>> master
 "dc_creator_sm": [
 "Scott County Minnesota"
 ], 
@@ -45,10 +32,6 @@
 ], 
 "layer_id_s": "urn:f9870e2f-7fad-4ce4-ae9d-81356a1271d3", 
 "georss_box_s": "44.541 -93.915 44.813 -93.278", 
-<<<<<<< HEAD
 "dc_title_s": "County Boundary", 
-=======
-"dc_title_s": "County Boundary: Scott County Minnesota, 2015", 
->>>>>>> master
 "layer_slug_s": "Minnesota-f9870e2f-7fad-4ce4-ae9d-81356a1271d3"
 }
