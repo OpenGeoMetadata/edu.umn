@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Point", 
+"layer_modified_dt": "2016-09-28T11:25:37Z", 
+"solr_geom": "ENVELOPE(-93.32902440053, -93.1876387897277, 45.0542617147944, 44.8836459464172)", 
+"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/cb8d4b1dbad0470380e5f46f1e75e962_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Hydrants/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/cb8d4b1dbad0470380e5f46f1e75e962_0.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-c7ee0529-5204-454a-a71e-b862bb0157a9", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Structure", 
+"Structure"
+], 
+"dct_temporal_sm": "2015-2016", 
+"dc_description_s": "For questions about this dataset please contact PublicWorksOpenData@minneapolismn.gov The hydrant data is created using engineering drawings (as-builts), field measurements, GPS (survey shots-0.5 inch accuracy) or ortho photos (6 in accuracy). The data is updated annually.", 
+"dct_issued_s": "2015", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"City of Minneapolis"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "urn-c7ee0529-5204-454a-a71e-b862bb0157a9", 
+"georss_polygon_s": "44.8836459464172 -93.32902440053 45.0542617147944 -93.32902440053 45.0542617147944 -93.1876387897277 44.8836459464172 -93.1876387897277 44.8836459464172 -93.32902440053", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Minneapolis", 
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"City of Minneapolis"
+], 
+"layer_id_s": "urn:urn-c7ee0529-5204-454a-a71e-b862bb0157a9", 
+"georss_box_s": "44.8836459464172 -93.32902440053 45.0542617147944 -93.1876387897277", 
+"dc_title_s": "Hydrants: Minneapolis, Minnesota, 2015", 
+"layer_slug_s": "Minnesota-urn-c7ee0529-5204-454a-a71e-b862bb0157a9"
+}

@@ -1,0 +1,34 @@
+{
+"layer_geom_type_s": "Point", 
+"layer_modified_dt": "2016-09-29T16:59:16Z", 
+"solr_geom": "ENVELOPE(-93.328692, -93.20371, 45.050981, 44.891002)", 
+"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/02caa9a2dead40dd95d103b822fd929a_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Sales2016_v2/FeatureServer/0/query?outFields=*&where=1%3D1\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/02caa9a2dead40dd95d103b822fd929a_0.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-41df5aa6-4a65-47ea-a615-b1694bbfbdc0", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Economy"
+], 
+"dct_temporal_sm": "2015-2016", 
+"dc_description_s": "The Minneapolis Assessor's Office tracks and records every real property transaction in the city. This is public information.", 
+"dct_issued_s": "2015", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"City of Minneapolis"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "urn-41df5aa6-4a65-47ea-a615-b1694bbfbdc0", 
+"georss_polygon_s": "44.891002 -93.328692 45.050981 -93.328692 45.050981 -93.20371 44.891002 -93.20371 44.891002 -93.328692", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Minneapolis", 
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"City of Minneapolis"
+], 
+"layer_id_s": "urn:urn-41df5aa6-4a65-47ea-a615-b1694bbfbdc0", 
+"georss_box_s": "44.891002 -93.328692 45.050981 -93.20371", 
+"dc_title_s": "Property Sales: Minneapolis, Minnesota, 2016", 
+"layer_slug_s": "Minnesota-urn-41df5aa6-4a65-47ea-a615-b1694bbfbdc0"
+}

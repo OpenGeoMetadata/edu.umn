@@ -39,7 +39,7 @@
       </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-07-12T13:14:42.125562</gco:DateTime>
+      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-09-29T18:21:44</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
       <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
@@ -94,23 +94,30 @@
             <gmd:date>
               <gmd:CI_Date>
                 <gmd:date>
-                  <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2014-11-29T20:01:53.000Z</gco:DateTime>
+                  <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2014-11-28T20:01:53</gco:DateTime>
                 </gmd:date>
                 <gmd:dateType>
-                  <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</gmd:CI_DateTypeCode>
+                  <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115"/>
                 </gmd:dateType>
               </gmd:CI_Date>
             </gmd:date>
             <gmd:date>
               <gmd:CI_Date>
                 <gmd:date>
-                  <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-04-06T01:19:39.531Z</gco:DateTime>
+                  <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-04-05T01:19:39</gco:DateTime>
                 </gmd:date>
                 <gmd:dateType>
-                  <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision" codeSpace="ISOTC211/19115">revision</gmd:CI_DateTypeCode>
+                  <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision" codeSpace="ISOTC211/19115"/>
                 </gmd:dateType>
               </gmd:CI_Date>
             </gmd:date>
+            <gmd:identifier>
+              <gmd:MD_Identifier>
+                <gmd:code>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">urn-d09bb8c1-ae8a-4d2c-9bf0-1562c8154cf4</gco:CharacterString>
+                </gmd:code>
+              </gmd:MD_Identifier>
+            </gmd:identifier>
             <gmd:citedResponsibleParty>
               <gmd:CI_ResponsibleParty>
                 <gmd:organisationName>
@@ -166,39 +173,12 @@
             <gmd:keyword>
               <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Ramsey County, Minnesota</gco:CharacterString>
             </gmd:keyword>
-            <gmd:type>
-              <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115"/>
-            </gmd:type>
-            <gmd:thesaurusName>
-              <gmd:CI_Citation>
-                <gmd:title>
-                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Geonames</gco:CharacterString>
-                </gmd:title>
-                <gmd:date>
-                  <gmd:CI_Date>
-                    <gmd:date>
-                      <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">3/7/13</gco:Date>
-                    </gmd:date>
-                    <gmd:dateType>
-                      <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision" codeSpace="ISOTC211/19115">publication</gmd:CI_DateTypeCode>
-                    </gmd:dateType>
-                  </gmd:CI_Date>
-                </gmd:date>
-              </gmd:CI_Citation>
-            </gmd:thesaurusName>
-          </gmd:MD_Keywords>
-        </gmd:descriptiveKeywords>
-        <gmd:descriptiveKeywords>
-          <gmd:MD_Keywords>
             <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Commissioner Districts</gco:CharacterString>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota</gco:CharacterString>
             </gmd:keyword>
             <gmd:type>
-              <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115"/>
+              <gmd:MD_KeywordTypeCode codeList="" codeListValue="place"/>
             </gmd:type>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Administrative</gco:CharacterString>
-            </gmd:keyword>
           </gmd:MD_Keywords>
         </gmd:descriptiveKeywords>
         <gmd:resourceConstraints>
@@ -225,7 +205,7 @@
           <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115"/>
         </gmd:characterSet>
         <gmd:topicCategory>
-          <gmd:MD_TopicCategoryCode/>
+          <gmd:MD_TopicCategoryCode>boundaries</gmd:MD_TopicCategoryCode>
         </gmd:topicCategory>
         <gmd:extent>
           <gmd:EX_Extent>
@@ -248,9 +228,10 @@
             <gmd:temporalElement>
               <gmd:EX_TemporalExtent>
                 <gmd:extent>
-                  <gml:TimeInstant xmlns:gml="http://www.opengis.net/gml">
-                    <gml:timePosition>2016-04-06T01:19:39.531Z</gml:timePosition>
-                  </gml:TimeInstant>
+                  <gml:TimePeriod xmlns:gml="http://www.opengis.net/gml" gml:id="d1328393e239a1052958">
+                    <gml:beginPosition>2014</gml:beginPosition>
+                    <gml:endPosition>2016</gml:endPosition>
+                  </gml:TimePeriod>
                 </gmd:extent>
               </gmd:EX_TemporalExtent>
             </gmd:temporalElement>
@@ -260,6 +241,16 @@
     </gmd:identificationInfo>
     <gmd:distributionInfo>
       <gmd:MD_Distribution>
+        <gmd:distributionFormat>
+          <gmd:MD_Format>
+            <gmd:name>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ESRI Shapefile</gco:CharacterString>
+            </gmd:name>
+            <gmd:version>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">1.0</gco:CharacterString>
+            </gmd:version>
+          </gmd:MD_Format>
+        </gmd:distributionFormat>
         <gmd:distributor>
           <gmd:MD_Distributor>
             <gmd:distributorContact>
@@ -288,8 +279,8 @@
                 <gmd:name>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Shapefile</gco:CharacterString>
                 </gmd:name>
-                <gmd:version>
-                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco"/>
+                <gmd:version xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                  <gco:CharacterString/>
                 </gmd:version>
               </gmd:MD_Format>
             </gmd:distributorFormat>
@@ -305,14 +296,14 @@
                 <gmd:protocol>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">download</gco:CharacterString>
                 </gmd:protocol>
-                <gmd:name>
-                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco"/>
+                <gmd:name xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                  <gco:CharacterString/>
                 </gmd:name>
                 <gmd:description>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Shapefile</gco:CharacterString>
                 </gmd:description>
                 <gmd:function>
-                  <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
+                  <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
                 </gmd:function>
               </gmd:CI_OnlineResource>
             </gmd:onLine>
@@ -328,8 +319,8 @@
                 <gmd:protocol>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ESRI:ArcGIS</gco:CharacterString>
                 </gmd:protocol>
-                <gmd:name>
-                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco"/>
+                <gmd:name xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                  <gco:CharacterString/>
                 </gmd:name>
                 <gmd:description>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Esri REST Service</gco:CharacterString>
@@ -348,14 +339,14 @@
                 <gmd:protocol>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:LINK</gco:CharacterString>
                 </gmd:protocol>
-                <gmd:name>
-                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco"/>
+                <gmd:name xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                  <gco:CharacterString/>
                 </gmd:name>
                 <gmd:description>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Information</gco:CharacterString>
                 </gmd:description>
                 <gmd:function>
-                  <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+                  <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>
                 </gmd:function>
               </gmd:CI_OnlineResource>
             </gmd:onLine>
@@ -366,7 +357,7 @@
     <gmd:metadataMaintenance>
       <gmd:MD_MaintenanceInformation>
         <gmd:maintenanceAndUpdateFrequency>
-          <gmd:MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="unknown" codeSpace="ISOTC211/19115"/>
+          <gmd:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="unknown" codeSpace="ISOTC211/19115"/>
         </gmd:maintenanceAndUpdateFrequency>
         <gmd:maintenanceNote>
           <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">This metadata was generated from the Esri Open Data item from http://openramsey.ramseygis.opendata.arcgis.com/datasets/5559f1d635fc484c93ccc45a3caa787e_2, orignally in the Project Open Data Metadata Schema, at 2016-06-28T11:36:39.456768.</gco:CharacterString>

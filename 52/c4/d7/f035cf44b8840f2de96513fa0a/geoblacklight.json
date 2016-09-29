@@ -1,0 +1,33 @@
+{
+"layer_geom_type_s": "Raster", 
+"layer_modified_dt": "2016-09-27T11:42:04Z", 
+"solr_geom": "ENVELOPE(-93.780674, -93.165735, 45.253356, 44.776988)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gis.hennepin.us/OpenData/imagery/index.html\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/Imagery/UTM_Aerial_2015/MapServer/0\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-52c4d7f0-35cf-44b8-840f-2de96513fa0a", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Imagery and Base Maps"
+], 
+"dct_temporal_sm": "2015-2017", 
+"dc_description_s": "This data service contains the Hennepin County aerial orthophotography images from 2015. This imagery was captured in the spring of 2015 and is leaf off imagery. The aerial orthophotography images are captured and maintained by the Hennepin County Resident and Real Estate Services Department on a three year recurring cycle.", 
+"dct_issued_s": "2015", 
+"dc_format_s": "GeoTIFF", 
+"dc_creator_sm": [
+"Hennepin County Resident and Real Estate Services Survey Division"
+], 
+"dc_identifier_s": "urn-52c4d7f0-35cf-44b8-840f-2de96513fa0a", 
+"georss_polygon_s": "44.776988 -93.780674 45.253356 -93.780674 45.253356 -93.165735 44.776988 -93.165735 44.776988 -93.780674", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Minneapolis", 
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Hennepin County GIS Office"
+], 
+"layer_id_s": "urn:urn-52c4d7f0-35cf-44b8-840f-2de96513fa0a", 
+"georss_box_s": "44.776988 -93.780674 45.253356 -93.165735", 
+"dc_title_s": "Aerial Imagery: Hennepin County, 2015", 
+"layer_slug_s": "Minnesota-urn-52c4d7f0-35cf-44b8-840f-2de96513fa0a"
+}
