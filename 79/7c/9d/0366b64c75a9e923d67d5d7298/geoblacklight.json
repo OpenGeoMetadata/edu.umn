@@ -1,35 +1,48 @@
 {
 "layer_geom_type_s": "Line", 
+<<<<<<< HEAD
 "layer_modified_dt": "2016-07-12T13:14:01.622084Z", 
+=======
+"layer_modified_dt": "2016-09-29T18:19:53Z", 
+>>>>>>> master
 "solr_geom": "ENVELOPE(-93.2287, -92.9827, 45.125, 44.8907)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/4ec0f4c8e2364ce3b489efae2bda6125_22.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/22\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/4ec0f4c8e2364ce3b489efae2bda6125_22\"}", 
 "dc_rights_s": "Public", 
-"uuid": "797c9d03-66b6-4c75-a9e9-23d67d5d7298", 
+"uuid": "urn-797c9d03-66b6-4c75-a9e9-23d67d5d7298", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
+<<<<<<< HEAD
 "utilitiesCommunications", 
 "Infrastructure", 
 "Streets"
+=======
+"Utilities and Communication"
+>>>>>>> master
 ], 
-"dct_temporal_sm": "2016", 
+"dct_temporal_sm": "2014-2016", 
 "dc_description_s": "Streets provide a routable network of federal, state, county and municipal and private roads. In 1986, the road centerlines were digitized from hand drawn 1:2400 half and 1:1200 quarter section maps. In 1995, the parcel data layer was converted to ArcINFO format and held in the ArcStorm database. Centerlines were converted in 2005 to an ESRI ArcGIS GeoDatabase. The original vector data was created utilizing positions calculated from plats using coordinate geometry programs. In 2013, the purpose of this data changed from showing survey centerline to representing the approximate center of the driving surface. This change was necessary to move to a multifunction data source for emergency services, increased accuracy in geocoding, and routing. All public roads should be represented in the database as well as many of the private roads that are open to the general public. A private section of pavement that serves less than three households is generally considered a private drive and is not included in this set. The centerlines usually represent the center of the road right of way. Exceptions to this are freeways and large divided highways, which are represented by double lines. The center of physical roadway pavement may or may not represent the center of the road right of way. Road right of ways may taper or change width. There has been no attempt to alter the road centerline to conform to right of way that is not parallel or alters in width. This file has been further modified using several sources including Ramsey County Public Work's survey centerlines and digitizing off aerial photos. Attributes have been included to allow geo-coding and the support of Ramsey County Computer Aided Dispatch.", 
+<<<<<<< HEAD
 "dct_issued_s": "2014-12-01T20:43:06.000ZZ", 
+=======
+"dct_issued_s": "2014-11-27T20:43:06Z", 
+>>>>>>> master
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Map Portal"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "797c9d03-66b6-4c75-a9e9-23d67d5d7298", 
+"dc_identifier_s": "urn-797c9d03-66b6-4c75-a9e9-23d67d5d7298", 
 "georss_polygon_s": "44.8907 -93.2287 45.125 -93.2287 45.125 -92.9827 44.8907 -92.9827 44.8907 -93.2287", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Ramsey County, Minnesota"
+"Ramsey County, Minnesota", 
+"Minnesota"
 ], 
 "dc_publisher_sm": [
 "OpenRamsey"
 ], 
-"layer_id_s": "urn:797c9d03-66b6-4c75-a9e9-23d67d5d7298", 
+"layer_id_s": "urn:urn-797c9d03-66b6-4c75-a9e9-23d67d5d7298", 
 "georss_box_s": "44.8907 -93.2287 45.125 -92.9827", 
 "dc_title_s": "Streets: Ramsey County, Minnesota", 
-"layer_slug_s": "Minnesota-797c9d03-66b6-4c75-a9e9-23d67d5d7298"
+"layer_slug_s": "Minnesota-urn-797c9d03-66b6-4c75-a9e9-23d67d5d7298"
 }

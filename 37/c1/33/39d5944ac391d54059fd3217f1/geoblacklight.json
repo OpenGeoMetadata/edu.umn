@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Point", 
+"layer_modified_dt": "2016-09-28T10:52:52Z", 
+"solr_geom": "ENVELOPE(-93.326761241597, -93.208779105617, 45.0475905220239, 44.8927088663169)", 
+"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/77c3283978464432b9a391b8b9cf7885_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/AirQualitySurvey2015Update/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/77c3283978464432b9a391b8b9cf7885_0.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-37c13339-d594-4ac3-91d5-4059fd3217f1", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Environment", 
+"Health"
+], 
+"dct_temporal_sm": "2015-2016", 
+"dc_description_s": "For questions about this data please contact HealthOpenData@minneapolismn.gov For more information about Air Quality in the City of Minneapolis, check the Health Department's page on the City website Attribute Information Date \u2013 The month and year during which this sample was collected. Each sample is collected over a period of 72-hours. The exact dates of collection are not specified on this dataset.", 
+"dct_issued_s": "2015", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"City of Minneapolis"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "urn-37c13339-d594-4ac3-91d5-4059fd3217f1", 
+"georss_polygon_s": "44.8927088663169 -93.326761241597 45.0475905220239 -93.326761241597 45.0475905220239 -93.208779105617 44.8927088663169 -93.208779105617 44.8927088663169 -93.326761241597", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Minneapolis", 
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"City of Minneapolis"
+], 
+"layer_id_s": "urn:urn-37c13339-d594-4ac3-91d5-4059fd3217f1", 
+"georss_box_s": "44.8927088663169 -93.326761241597 45.0475905220239 -93.208779105617", 
+"dc_title_s": "Air Quality Survey: Minneapolis, Minnesota, 2015", 
+"layer_slug_s": "Minnesota-urn-37c13339-d594-4ac3-91d5-4059fd3217f1"
+}

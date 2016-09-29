@@ -1,36 +1,42 @@
 {
 "layer_geom_type_s": "Polygon", 
+<<<<<<< HEAD
 "layer_modified_dt": "2016-07-12T13:14:45.665385Z", 
+=======
+"layer_modified_dt": "2016-09-29T18:17:42Z", 
+>>>>>>> master
 "solr_geom": "ENVELOPE(-93.2284, -92.9826, 45.1245, 44.8869)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/1d885379344b4bd9b98beb6ba70f1175_1.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/1\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/1d885379344b4bd9b98beb6ba70f1175_1\"}", 
 "dc_rights_s": "Public", 
-"uuid": "df1388c2-cc96-48e4-9808-2420092ef835", 
+"uuid": "urn-df1388c2-cc96-48e4-9808-2420092ef835", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"", 
-"Cities", 
-"Municipalities", 
-"Administrative"
+"Boundaries"
 ], 
-"dct_temporal_sm": "2016", 
+"dct_temporal_sm": "2014-2016", 
 "dc_description_s": "This data set contains polygons that represent Municipal boundaries. The Municipal boundaries were originally digitized from MNDOT municipality maps. Over time, these boundaries have been edited to better match Ramsey County parcel data.", 
+<<<<<<< HEAD
 "dct_issued_s": "2014-11-29T20:49:52.000ZZ", 
+=======
+"dct_issued_s": "2014-11-24T20:49:52Z", 
+>>>>>>> master
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Map Portal"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "df1388c2-cc96-48e4-9808-2420092ef835", 
+"dc_identifier_s": "urn-df1388c2-cc96-48e4-9808-2420092ef835", 
 "georss_polygon_s": "44.8869 -93.2284 45.1245 -93.2284 45.1245 -92.9826 44.8869 -92.9826 44.8869 -93.2284", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Ramsey County, Minnesota"
+"Ramsey County, Minnesota", 
+"Minnesota"
 ], 
 "dc_publisher_sm": [
 "OpenRamsey"
 ], 
-"layer_id_s": "urn:df1388c2-cc96-48e4-9808-2420092ef835", 
+"layer_id_s": "urn:urn-df1388c2-cc96-48e4-9808-2420092ef835", 
 "georss_box_s": "44.8869 -93.2284 45.1245 -92.9826", 
 "dc_title_s": "Cities: Ramsey County, Minnesota", 
-"layer_slug_s": "Minnesota-df1388c2-cc96-48e4-9808-2420092ef835"
+"layer_slug_s": "Minnesota-urn-df1388c2-cc96-48e4-9808-2420092ef835"
 }

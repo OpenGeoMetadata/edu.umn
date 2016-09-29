@@ -26,7 +26,11 @@
       </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
+<<<<<<< HEAD
       <gco:DateTime>2016-09-21T12:42:20</gco:DateTime>
+=======
+      <gco:DateTime>2016-09-27T11:42:04</gco:DateTime>
+>>>>>>> master
     </gmd:dateStamp>
     <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115:2003/19139</gco:CharacterString>
@@ -230,7 +234,11 @@
             <gmd:temporalElement>
               <gmd:EX_TemporalExtent>
                 <gmd:extent>
+<<<<<<< HEAD
                   <gml:TimePeriod gml:id="d1197447e259a1052958">
+=======
+                  <gml:TimePeriod gml:id="d1262360e259a1052958">
+>>>>>>> master
                     <gml:beginPosition>2015</gml:beginPosition>
                     <gml:endPosition>2017</gml:endPosition>
                   </gml:TimePeriod>
@@ -246,7 +254,11 @@
         <gmd:distributionFormat>
           <gmd:MD_Format>
             <gmd:name>
+<<<<<<< HEAD
               <gco:CharacterString>WMS</gco:CharacterString>
+=======
+              <gco:CharacterString>Raster Dataset</gco:CharacterString>
+>>>>>>> master
             </gmd:name>
             <gmd:version>
               <gco:CharacterString>1.0</gco:CharacterString>
