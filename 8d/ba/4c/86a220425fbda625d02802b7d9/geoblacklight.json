@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-09-02T14:55:35Z", 
+"solr_geom": "ENVELOPE(-93.008548, -92.732568, 45.511382, 45.296301)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gis.chisagocounty.us/Link/SpatialData/Bike_Trail.zip\",\"http://schema.org/url\":\"http://gis.chisagocounty.us/Link/jsfe/index.aspx\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-8dba4c86-a220-425f-bda6-25d02802b7d9", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Transportation", 
+"bicycles"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "Chisago County bike trails", 
+"dct_issued_s": "2015-08-06", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Chisago County"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "urn-8dba4c86-a220-425f-bda6-25d02802b7d9", 
+"georss_polygon_s": "45.296301 -93.008548 45.511382 -93.008548 45.511382 -92.732568 45.296301 -92.732568 45.296301 -93.008548", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Chisago County, Minnesota", 
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"Chisago County"
+], 
+"layer_id_s": "urn:urn-8dba4c86-a220-425f-bda6-25d02802b7d9", 
+"georss_box_s": "45.296301 -93.008548 45.511382 -92.732568", 
+"dc_title_s": "Bike Trails: Chisago County, Minnesota, 2015", 
+"layer_slug_s": "Minnesota-urn-8dba4c86-a220-425f-bda6-25d02802b7d9"
+}

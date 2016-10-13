@@ -1,7 +1,7 @@
 {
 "solr_year_i": 2015, 
 "uuid": "urn-0f7fa1b9-f3bf-4df8-be4f-ccdc75860f32", 
-"layer_geom_type_s": "Mixed", 
+"layer_geom_type_s": "Raster", 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
@@ -20,7 +20,7 @@
 "dc_description_s": "A digital raster graphic (DRG) is a scanned image of an U.S. Geological Survey (USGS) standard series topographic map, including all map collar information. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Universal Transverse Mercator projection. The horizontal positional accuracy and datum of the DRG matches the accuracy and datum of the source map. The map is scanned at a minimum resolution of 250 dots per inch. DRG's are created by scanning published paper maps on high-resolution scanners. The raster image is georeferenced and fit to the UTM projection. Colors are standardized to remove scanner limitations and artifacts. The average data set size is about 6 megabytes in Tagged Image File Format (TIFF) with PackBits compression. DRG's can be easily combined with other digital cartographic products such as digital elevation models (DEM) and digital orthophoto quadrangles (DOQ). DRG's are stored as rectified TIFF files in geoTIFF format. GeoTIFF is a relatively new TIFF image storage format that incorporates georeferencing information in the header. This allows software, such as ArcView, ARC/INFO, or EPPL7 to reference the image without an additional header or world file. Within the Minnesota Department of Natural Resources Core GIS data set the DRG's have been processed to be in compliance with departmental data standards (UTM Extended Zone 15, NAD83 datum) and the map collar information has been removed to facilitate the display of the DRG's in a seamless fashion. These DRG's were clipped and transformed to UTM Zone 15 using EPPL7 Raster GIS. DRGs are a useful backdrop for mapping a variety of features. Colors representing various items in the image (contours, urban areas, vegetation, etc.) can be turned off or highlighted depending on the mapping application. In ArcView this is done by choosing the NColormapN option when editing the DRG theme's legend. A variety of other ArcView tools exist to make working with DRGs easier. Also included: Metadata for the scanned USGS 24k Topograpic Map Series (also known as 24k Digital Raster Graphic). Each scanned map is represented by a polygon in the layer and the map date, photo revision date, and photo interpretation date are found in the corresponding attribute record. This layer facilitates searching for DRGs which were created or revised on or between particular dates. Also useful for ascertaining when a particular map sheet was created.", 
 "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-usgs-scanned-topo-024k-drg\"}", 
 "dc_subject_sm": [
-"imageryBaseMapsEarthCover"
+"Imagery and Base Maps"
 ], 
 "dct_issued_s": "2015-11-17T06:00:00.000ZZ", 
 "solr_geom": "ENVELOPE(-96.908924, -89.259327, 49.461372, 43.308126)", 

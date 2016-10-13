@@ -1,21 +1,19 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-28T11:10:23.915375Z", 
+"layer_modified_dt": "2016-08-17T11:52:42Z", 
 "solr_geom": "ENVELOPE(-93.91463871, -93.27761643, 44.81327565, 44.54197857)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"\",\",\"http://schema.org/url\":\"\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.gis.co.scott.mn.us/datasets/33af2bfa12d54d6aa6a3344195f4fae7_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/Address_Points/FeatureServer\",\"http://schema.org/url\":\"http://opendata.gis.co.scott.mn.us/datasets/33af2bfa12d54d6aa6a3344195f4fae7_0\"}", 
 "dc_rights_s": "Public", 
 "uuid": "94ea026b-f8d5-4568-ad47-a5fe324a50b9", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"", 
-"Scott County Minnesota", 
+"Location", 
 "Property", 
 "Address Points"
 ], 
-"dct_temporal_sm": "2016", 
+"dc_format_s": "File", 
 "dc_description_s": "This dataset contains the address points within Scott County, in MetroGIS format. The attributes of the data allow for accurate geocoding.", 
-"dct_issued_s": "2016-05-12T20:46:23.000ZZ", 
-"dc_format_s": "Shapefile", 
+"dct_issued_s": "2016-05-08T20:46:23Z", 
 "dc_creator_sm": [
 "Scott County Minnesota"
 ], 
@@ -31,6 +29,6 @@
 ], 
 "layer_id_s": "urn:94ea026b-f8d5-4568-ad47-a5fe324a50b9", 
 "georss_box_s": "44.54197857 -93.91463871 44.81327565 -93.27761643", 
-"dc_title_s": "Address Points - MetroGIS Format - File Geodatabase", 
+"dc_title_s": "Address Points: Scott County Minnesota, 2016", 
 "layer_slug_s": "Minnesota-94ea026b-f8d5-4568-ad47-a5fe324a50b9"
 }

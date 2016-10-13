@@ -1,32 +1,31 @@
 {
-"layer_geom_type_s": "Line", 
-"layer_modified_dt": "2016-06-29T09:59:11Z", 
-"solr_geom": "ENVELOPE(-97.50897, -89.02899, 49.652543, 43.192405)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/trans-roads-mndot-tis\",,\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dot/trans_roads_mndot_tis/shp_trans_roads_mndot_tis.zip\"}", 
-"dc_rights_s": "Public", 
-"uuid": "urn-dea2bdb7-b2bc-47ae-8c20-af3606b84604", 
-"dct_provenance_s": "Minnesota", 
-"dc_subject_sm": [
-"transportation"
-], 
-"dct_temporal_sm": "2012", 
-"dc_description_s": "This dataset represents road centerlines for all public roads within the state of Minnesota. The roads are broken from intersection to intersection and attributed with information based on their designated route. Key attribute fields include route system (Interstate, US Highway, Minnesota Highway, County State Aid Highway, County Road, Township Road, etc.), Route Number (35W, 10, 53), and Name. A detailed description of the Roads layer attributes is included in Section 5 of this document - Entity and Attribute Overview. Some route numbers are temporary. '900' Routes are for route segments that formerly were part of a trunk highway which was turned back to a local entity. These are temporary numbers assigned while MnDOT waits for an official local designation. These numbers are assigned in the 900-999 range and are not official route numbers but just for temporarily assigning data to unnumbered routes.", 
-"dct_issued_s": "2012", 
-"dc_format_s": "Shapefile", 
-"dc_creator_sm": [
-"Minnesota Department of Transportation (MnDOT)"
-], 
-"dc_identifier_s": "urn-dea2bdb7-b2bc-47ae-8c20-af3606b84604", 
-"georss_polygon_s": "43.192405 -97.50897 49.652543 -97.50897 49.652543 -89.02899 43.192405 -89.02899 43.192405 -97.50897", 
 "solr_year_i": 2012, 
-"dct_spatial_sm": [
-"Minnesota"
-], 
+"uuid": "urn-dea2bdb7-b2bc-47ae-8c20-af3606b84604", 
+"layer_geom_type_s": "Line", 
 "dc_publisher_sm": [
 "Minnesota Department of Transportation"
 ], 
+"layer_modified_dt": "2016-08-17T17:06:56Z", 
+"dc_creator_sm": [
+"Minnesota Department of Transportation (MnDOT)"
+], 
 "layer_id_s": "urn:urn-dea2bdb7-b2bc-47ae-8c20-af3606b84604", 
+"georss_polygon_s": "43.192405 -97.50897 49.652543 -97.50897 49.652543 -89.02899 43.192405 -89.02899 43.192405 -97.50897", 
 "georss_box_s": "43.192405 -97.50897 49.652543 -89.02899", 
+"dc_identifier_s": "urn-dea2bdb7-b2bc-47ae-8c20-af3606b84604", 
+"dct_provenance_s": "Minnesota", 
 "dc_title_s": "Roads: Minnesota, 2012", 
-"layer_slug_s": "Minnesota-urn-dea2bdb7-b2bc-47ae-8c20-af3606b84604"
+"layer_slug_s": "Minnesota-urn-dea2bdb7-b2bc-47ae-8c20-af3606b84604", 
+"dc_format_s": "Shapefile", 
+"dc_description_s": "This dataset represents road centerlines for all public roads within the state of Minnesota. The roads are broken from intersection to intersection and attributed with information based on their designated route. Key attribute fields include route system (Interstate, US Highway, Minnesota Highway, County State Aid Highway, County Road, Township Road, etc.), Route Number (35W, 10, 53), and Name. A detailed description of the Roads layer attributes is included in Section 5 of this document - Entity and Attribute Overview. Some route numbers are temporary. '900' Routes are for route segments that formerly were part of a trunk highway which was turned back to a local entity. These are temporary numbers assigned while MnDOT waits for an official local designation. These numbers are assigned in the 900-999 range and are not official route numbers but just for temporarily assigning data to unnumbered routes.", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/trans-roads-mndot-tis\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dot/trans_roads_mndot_tis/shp_trans_roads_mndot_tis.zip\"}", 
+"dc_subject_sm": [
+"Transportation"
+], 
+"dct_issued_s": "2012", 
+"solr_geom": "ENVELOPE(-97.50897, -89.02899, 49.652543, 43.192405)", 
+"dc_rights_s": "Public", 
+"dct_spatial_sm": [
+"Minnesota"
+]
 }

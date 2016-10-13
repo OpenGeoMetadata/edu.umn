@@ -7,12 +7,12 @@
 "uuid": "urn-c89448bd-827d-437d-99a7-06e580876e47", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"elevation"
+"Elevation"
 ], 
 "dct_temporal_sm": "2008-2010", 
 "dc_description_s": "This dataset contains LiDAR-derived elevation products for the Minnesota portion of the Red River of the North Basin. The Minnesota Department of Natural Resources (DNR) processed the data to make it consistent with other LiDAR data available in Minnesota, including converting it to UTM Zone 15 coordinates and tiling to 3.25 square mile blocks based on 1/16 of a standard USGS 1:24,000 quadrangle. Data covers the following Minnesota counties: Becker, Beltrami, Big Stone, Clay, Clearwater, Grant, Kittson, Koochiching (northern portion), Lake of the Woods, Mahnomen, Marshall, Norman, Otter Tail, Pennington, Polk, Red Lake, Roseau, Stevens, Traverse, Wilkin. Products included are: One- and three-meter DEMs, one- and three-meter hillshades, and two-foot contours, plus a tile index map for each county. Since breaklines were not available for all of the Minnesota portion of the basin, the data has not been hydro-flattened. The original data was provided by the International Water Institute (IWI) and the United States Geological Survey. IWI's Red River Basin Mapping Initiative acquired a highly accurate digital elevation model (DEM) for the Red River of the North Basin south of the U.S./Canada border in UTM Zone 14 coordinates. Note: This metadata record was created at the Minnesota Geospatial Information Office by combining information from the IWI and DNR.", 
 "dct_issued_s": "2012-09-17", 
-"dc_format_s": "", 
+"dc_format_s": "File", 
 "dc_creator_sm": [
 "International Water Institute"
 ], 

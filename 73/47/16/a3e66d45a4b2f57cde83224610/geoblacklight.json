@@ -1,22 +1,20 @@
 {
-"layer_geom_type_s": "Line", 
-"layer_modified_dt": "2016-06-28T11:10:32.196446Z", 
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-08-16T19:28:25Z", 
 "solr_geom": "ENVELOPE(-93.8932011048414, -93.2780481155288, 44.8044045444363, 44.542224972899)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.gis.co.scott.mn.us/datasets/970cd4d72c384086948f385d2980482f_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/Driveways/FeatureServer/0\",\"http://schema.org/url\":\"http://opendata.gis.co.scott.mn.us/datasets/970cd4d72c384086948f385d2980482f_0\"}", 
 "dc_rights_s": "Public", 
 "uuid": "734716a3-e66d-45a4-b2f5-7cde83224610", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"", 
+"Transportation", 
 "Scott County Minnesota", 
 "Driveways", 
-"Livable", 
 "Property"
 ], 
-"dct_temporal_sm": "2016", 
+"dc_format_s": "File", 
 "dc_description_s": "Driveways within Scott County. This planimetric data was collected in 2003.", 
-"dct_issued_s": "2015-09-03T22:18:28.000ZZ", 
-"dc_format_s": "Shapefile", 
+"dct_issued_s": "2015-09-01T22:18:28Z", 
 "dc_creator_sm": [
 "Scott County Minnesota"
 ], 
@@ -32,6 +30,6 @@
 ], 
 "layer_id_s": "urn:734716a3-e66d-45a4-b2f5-7cde83224610", 
 "georss_box_s": "44.542224972899 -93.8932011048414 44.8044045444363 -93.2780481155288", 
-"dc_title_s": "Driveways", 
+"dc_title_s": "Driveways: Scott County Minnesota, 2015", 
 "layer_slug_s": "Minnesota-734716a3-e66d-45a4-b2f5-7cde83224610"
 }

@@ -1,31 +1,17 @@
 {
 "layer_geom_type_s": "Polygon", 
-<<<<<<< HEAD
-"layer_modified_dt": "2016-07-12T13:14:25.422436Z", 
-=======
 "layer_modified_dt": "2016-09-21T16:51:02Z", 
->>>>>>> master
 "solr_geom": "ENVELOPE(-93.2284, -92.9827, 45.1245, 44.8873)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/3115ff609037465796604556843420be_4.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/4\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/3115ff609037465796604556843420be_4\"}", 
 "dc_rights_s": "Public", 
 "uuid": "urn-a9eb2237-7d36-4a9c-adad-719a807c81cd", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-<<<<<<< HEAD
-"planningCadastre", 
-"Cadastral", 
-"Parcels"
-=======
 "Planning and Cadastral"
->>>>>>> master
 ], 
 "dct_temporal_sm": "2014-2016", 
 "dc_description_s": "Attributed Parcel Polygons have boundaries that represent property descriptions (legal descriptions) and land ownership. The attribute fields are based on ones provided in Ramsey County Users Group shapefiles, ParPts and OnLineCore, and MetroGIS Parcel Datasets. These fields are populated from a compilation of records and information from various state, county and city offices, and other sources. This data is joined to Ramsey Countys Parcel data using a property identification number (PIN) which is assigned to both polygons and points and is the primary link to county tax and assessment data. In 1986, parcels were digitized from hand drawn 1:2400 half and 1:1200 quarter section maps. In 1995, the parcel data layer was converted to ArcINFO format and held in the ArcStorm data base. Parcels were converted in 2005 to an ESRI ArcGIS GeoDatabase. In 2013, Attributes, which were previously joined only to Parcel Points, were added to Parcel Polygons. Parcel Points are used to represent the one-to-many relationship that Common Interest Communities (CIC), Apartment Ownerships or Condominiums, as well as Manufactured Homes and Apartment Units have with the Parcel Polygons. Polygons associated with CICs, Apartment Ownerships and Condominiums use the smallest Parcel Point PIN as their PIN and have attribute data limited information that is not unit specific (e.g., tax payer name and address information, tax and estimated market values are omitted). There are a few cases where polygons exist but there is no associated point, these include common areas associated with a CIC, parks or water; no official PIN exists for these polygons and there is no attribute data.", 
-<<<<<<< HEAD
-"dct_issued_s": "2014-12-01T18:34:09.000ZZ", 
-=======
 "dct_issued_s": "2014-11-30T18:34:09Z", 
->>>>>>> master
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Map Portal"

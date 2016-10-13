@@ -1,36 +1,34 @@
 {
 "layer_geom_type_s": "Polygon", 
-"layer_modified_dt": "2016-07-11T16:23:16.956884Z", 
+"layer_modified_dt": "2016-09-19T16:49:50Z", 
 "solr_geom": "ENVELOPE(-93.7728, -93.1766, 45.2471, 44.783)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/d47c495bda3f4458bdbfff0e6a842d70_1.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/BOUNDARIES/MapServer/1\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/d47c495bda3f4458bdbfff0e6a842d70_1\"}", 
 "dc_rights_s": "Public", 
-"uuid": "11e97b28-e1ba-4f54-9fd2-ed38ac832d3b", 
+"uuid": "urn-11e97b28-e1ba-4f54-9fd2-ed38ac832d3b", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"boundaries", 
-"open data", 
-"boundaries", 
-"hennepin"
+"Boundaries"
 ], 
-"dct_temporal_sm": "2016", 
+"dct_temporal_sm": "2015-2016", 
 "dc_description_s": "This dataset contains the boundary area of Hennepin County. A large part of Hennepin County is bounded by rivers. The boundary in some cases is determined by the Township and Range Lines of the Public Land Survey System. The NAME_TXT attribute field contains the county text label. Link to Attribute Table Information: http://gis.hennepin.us/OpenData/Metadata/County%20Boundary.pdf Data updated: monthly Use Limitations: This data (i) is furnished 'AS IS' with no representation as to completeness or accuracy; (ii) is furnished with no warranty of any kind; and (iii) is not suitable for legal, engineering or surveying purposes. Hennepin County shall not be liable for any damage, injury or loss resulting from this data. General questions about this dataset, including errors, omissions, corrections and/or updates should be directed to the Survey Division, Resident and Real Estate Services Department, Hennepin County at 612-348-3131.", 
-"dct_issued_s": "2015-09-14T18:56:34.000ZZ", 
+"dct_issued_s": "2015-09-12T18:56:34Z", 
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Hennepin County"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "11e97b28-e1ba-4f54-9fd2-ed38ac832d3b", 
+"dc_identifier_s": "urn-11e97b28-e1ba-4f54-9fd2-ed38ac832d3b", 
 "georss_polygon_s": "44.783 -93.7728 45.2471 -93.7728 45.2471 -93.1766 44.783 -93.1766 44.783 -93.7728", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Hennepin County, Minnesota"
+"Hennepin County, Minnesota", 
+"Minnesota"
 ], 
 "dc_publisher_sm": [
 "Hennepin County"
 ], 
-"layer_id_s": "urn:11e97b28-e1ba-4f54-9fd2-ed38ac832d3b", 
+"layer_id_s": "urn:urn-11e97b28-e1ba-4f54-9fd2-ed38ac832d3b", 
 "georss_box_s": "44.783 -93.7728 45.2471 -93.1766", 
 "dc_title_s": "Boundary: Hennepin County, Minnesota", 
-"layer_slug_s": "Minnesota-11e97b28-e1ba-4f54-9fd2-ed38ac832d3b"
+"layer_slug_s": "Minnesota-urn-11e97b28-e1ba-4f54-9fd2-ed38ac832d3b"
 }

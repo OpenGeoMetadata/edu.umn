@@ -1,38 +1,35 @@
 {
 "layer_geom_type_s": "Polygon", 
-"layer_modified_dt": "2016-06-28T11:07:08.738166Z", 
+"layer_modified_dt": "2016-08-17T12:58:42Z", 
 "solr_geom": "ENVELOPE(-94.0129, -93.5193, 44.9788, 44.6347)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/95c20d88ff8f4425bdf411af04387fe8_2.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.carver.mn.us/arcgis_ea/rest/services/OpenAccess/CC_Administrative/MapServer/2\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/95c20d88ff8f4425bdf411af04387fe8_2\"}", 
 "dc_rights_s": "Public", 
-"uuid": "6f998110-8f7c-47c1-b857-05d9cf13bcbc", 
+"uuid": "urn-6f998110-8f7c-47c1-b857-05d9cf13bcbc", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"", 
-"Carver County", 
-"Precinct", 
-"Ward", 
-"Election", 
-"District"
+"Location", 
+"election districtts"
 ], 
 "dct_temporal_sm": "2014", 
 "dc_description_s": "City precinct or ward election districts within Carver County.", 
-"dct_issued_s": "2014-05-29T18:58:29.000ZZ", 
+"dct_issued_s": "2014-05-26T18:58:29Z", 
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Carver County, Minnesota"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "6f998110-8f7c-47c1-b857-05d9cf13bcbc", 
+"dc_identifier_s": "urn-6f998110-8f7c-47c1-b857-05d9cf13bcbc", 
 "georss_polygon_s": "44.6347 -94.0129 44.9788 -94.0129 44.9788 -93.5193 44.6347 -93.5193 44.6347 -94.0129", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Carver County, Minnesota"
+"Carver County, Minnesota", 
+"Minnesota"
 ], 
 "dc_publisher_sm": [
 "Carver County, Minnesota"
 ], 
-"layer_id_s": "urn:6f998110-8f7c-47c1-b857-05d9cf13bcbc", 
+"layer_id_s": "urn:urn-6f998110-8f7c-47c1-b857-05d9cf13bcbc", 
 "georss_box_s": "44.6347 -94.0129 44.9788 -93.5193", 
-"dc_title_s": "Administrative | Voting Precincts/Wards", 
-"layer_slug_s": "Minnesota-6f998110-8f7c-47c1-b857-05d9cf13bcbc"
+"dc_title_s": "Voting Precincts/Wards: Carver County, Minnesota, 2014", 
+"layer_slug_s": "Minnesota-urn-6f998110-8f7c-47c1-b857-05d9cf13bcbc"
 }

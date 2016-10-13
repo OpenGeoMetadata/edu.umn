@@ -1,37 +1,35 @@
 {
 "layer_geom_type_s": "Line", 
-"layer_modified_dt": "2016-06-28T11:06:45.932123Z", 
+"layer_modified_dt": "2016-08-17T12:58:26Z", 
 "solr_geom": "ENVELOPE(-94.0137, -93.51, 44.9793, 44.6341)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/caa22a9296984941bc1dc0a706a7d56b_1.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.carver.mn.us/arcgis_ea/rest/services/OpenAccess/CC_Elevation/MapServer/1\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/caa22a9296984941bc1dc0a706a7d56b_1\"}", 
 "dc_rights_s": "Public", 
-"uuid": "d0c7627b-8ca1-46d4-a377-6348a0f0b963", 
+"uuid": "urn-d0c7627b-8ca1-46d4-a377-6348a0f0b963", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"elevation", 
-"Carver County", 
 "Elevation", 
-"Contour", 
-"2"
+"contours"
 ], 
-"dct_temporal_sm": "2016", 
+"dct_temporal_sm": "2014-", 
 "dc_description_s": "Summary The 2 ft contours provide a high level of detail for cartographic representations of the topography within Carver County. The county utilizes the 2 ft contours for purposes of land records management, infrastructure management, engineering pre-design, map production and various land data analysis. Description Fugro Horizons Inc. acquired highly accurate Light Detection and Ranging (LiDAR) elevation data for the Twin Cities metropolitan region in east-central Minnesota in Spring and Fall 2011, with some reflights in Spring 2012. 1.5 points/square meter covers the Carver County Data. A DEM was created from a terrain using bare-earth multipoint PointZ and hydro-breaklines. The Terrain was then converted to a Raster DEM using a 1-meter cell-size. Two-foot contours were created by resampling the 1-meter DEM to 3 meters, then smoothing the 3-meter grid using a neighborhood average routine, and then creating contours from this surface using standard ArcGIS processing tools.", 
-"dct_issued_s": "2014-06-05T18:47:40.000ZZ", 
+"dct_issued_s": "2014-06-01T18:47:40Z", 
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Carver County, Minnesota"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "d0c7627b-8ca1-46d4-a377-6348a0f0b963", 
+"dc_identifier_s": "urn-d0c7627b-8ca1-46d4-a377-6348a0f0b963", 
 "georss_polygon_s": "44.6341 -94.0137 44.9793 -94.0137 44.9793 -93.51 44.6341 -93.51 44.6341 -94.0137", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Carver County, Minnesota"
+"Carver County, Minnesota", 
+"Minnesota"
 ], 
 "dc_publisher_sm": [
 "Carver County, Minnesota"
 ], 
-"layer_id_s": "urn:d0c7627b-8ca1-46d4-a377-6348a0f0b963", 
+"layer_id_s": "urn:urn-d0c7627b-8ca1-46d4-a377-6348a0f0b963", 
 "georss_box_s": "44.6341 -94.0137 44.9793 -93.51", 
-"dc_title_s": "Elevation | 2 Ft Contours", 
-"layer_slug_s": "Minnesota-d0c7627b-8ca1-46d4-a377-6348a0f0b963"
+"dc_title_s": "2 Ft Contours: Carver County, Minnesota, 2014", 
+"layer_slug_s": "Minnesota-urn-d0c7627b-8ca1-46d4-a377-6348a0f0b963"
 }

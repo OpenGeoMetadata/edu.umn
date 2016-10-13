@@ -1,23 +1,20 @@
 {
-"layer_geom_type_s": "Line", 
-"layer_modified_dt": "2016-06-28T11:10:31.064886Z", 
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-08-16T19:30:25Z", 
 "solr_geom": "ENVELOPE(-93.8937620716883, -93.3279398138857, 44.8028051727925, 44.5424745751167)", 
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.gis.co.scott.mn.us/datasets/9077b99e6fbf4bba9e2db4a6d2594512_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/Railroads/FeatureServer/0\",\"http://schema.org/url\":\"http://opendata.gis.co.scott.mn.us/datasets/9077b99e6fbf4bba9e2db4a6d2594512_0\"}", 
 "dc_rights_s": "Public", 
 "uuid": "6492e839-d7a0-4983-bfca-7d095a69602b", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"intelligenceMilitary", 
-"transportation", 
-"Scott County Minnesota", 
+"Intelligence and Military", 
+"Transportation", 
 "Railroads", 
-"Livable", 
 "Transportation"
 ], 
-"dct_temporal_sm": "2016", 
+"dc_format_s": "File", 
 "dc_description_s": "Railroads within Scott County. This planimetric data was collected in 2003.", 
-"dct_issued_s": "2015-09-08T20:45:10.000ZZ", 
-"dc_format_s": "Shapefile", 
+"dct_issued_s": "2015-09-05T20:45:10Z", 
 "dc_creator_sm": [
 "Scott County Minnesota"
 ], 
@@ -33,6 +30,6 @@
 ], 
 "layer_id_s": "urn:6492e839-d7a0-4983-bfca-7d095a69602b", 
 "georss_box_s": "44.5424745751167 -93.8937620716883 44.8028051727925 -93.3279398138857", 
-"dc_title_s": "Railroads", 
+"dc_title_s": "Railroads: Scott County Minnesota, 2015", 
 "layer_slug_s": "Minnesota-6492e839-d7a0-4983-bfca-7d095a69602b"
 }

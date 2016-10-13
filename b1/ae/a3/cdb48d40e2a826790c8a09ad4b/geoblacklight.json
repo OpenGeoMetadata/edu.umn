@@ -1,34 +1,35 @@
 {
-"layer_geom_type_s": "Line", 
-"layer_modified_dt": "2016-07-12T16:18:00.153984Z", 
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-08-17T15:51:26Z", 
 "solr_geom": "ENVELOPE(-93.024, -92.7389, 45.2968, 44.7461)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.wcmn.opendata.arcgis.com/datasets/9f5a97e4b46d4ec8bd9fec701cffc67f_0.zip\",,\"http://schema.org/url\":\"http://data.wcmn.opendata.arcgis.com/datasets/9f5a97e4b46d4ec8bd9fec701cffc67f_0\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"http://data.wcmn.opendata.arcgis.com/datasets/9f5a97e4b46d4ec8bd9fec701cffc67f_0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "b1aea3cd-b48d-40e2-a826-790c8a09ad4b", 
+"uuid": "urn-b1aea3cd-b48d-40e2-a826-790c8a09ad4b", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"", 
-"1945 aerials"
+"Imagery and Base Maps", 
+"aerial photography"
 ], 
-"dct_temporal_sm": "2015", 
+"dct_temporal_sm": "1945", 
 "dc_description_s": "georeferenced 1945 aerials", 
-"dct_issued_s": "2015-09-17T14:49:14.000ZZ", 
-"dc_format_s": "Shapefile", 
+"dct_issued_s": "2015-09-14T14:49:14Z", 
+"dc_format_s": "File", 
 "dc_creator_sm": [
 "Washington County, MN"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "b1aea3cd-b48d-40e2-a826-790c8a09ad4b", 
+"dc_identifier_s": "urn-b1aea3cd-b48d-40e2-a826-790c8a09ad4b", 
 "georss_polygon_s": "44.7461 -93.024 45.2968 -93.024 45.2968 -92.7389 44.7461 -92.7389 44.7461 -93.024", 
-"solr_year_i": 2015, 
+"solr_year_i": 1945, 
 "dct_spatial_sm": [
-"Washington County, Minnesota"
+"Washington County, Minnesota", 
+"Minnesota"
 ], 
 "dc_publisher_sm": [
 "Washington County, MN"
 ], 
-"layer_id_s": "urn:b1aea3cd-b48d-40e2-a826-790c8a09ad4b", 
+"layer_id_s": "urn:urn-b1aea3cd-b48d-40e2-a826-790c8a09ad4b", 
 "georss_box_s": "44.7461 -93.024 45.2968 -92.7389", 
-"dc_title_s": "45aerials", 
-"layer_slug_s": "Minnesota-b1aea3cd-b48d-40e2-a826-790c8a09ad4b"
+"dc_title_s": "Aerial Imagery: Washington County, 1945", 
+"layer_slug_s": "Minnesota-urn-b1aea3cd-b48d-40e2-a826-790c8a09ad4b"
 }
