@@ -1,0 +1,29 @@
+{
+"solr_year_i": 2006, 
+"uuid": "urn-f122b0ad-124c-493e-8127-262a975e3560", 
+"layer_geom_type_s": "Mixed", 
+"georss_box_s": "46.628947 -96.840203 47.152269 -96.167304", 
+"layer_modified_dt": "2016-11-29T13:46:20Z", 
+"layer_id_s": "urn:urn-f122b0ad-124c-493e-8127-262a975e3560", 
+"georss_polygon_s": "46.628947 -96.840203 47.152269 -96.840203 47.152269 -96.167304 46.628947 -96.167304 46.628947 -96.840203", 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "urn-f122b0ad-124c-493e-8127-262a975e3560", 
+"dct_provenance_s": "Minnesota", 
+"dc_title_s": "Soils: Clay County, Minnesota, 2006", 
+"layer_slug_s": "Minnesota-urn-f122b0ad-124c-493e-8127-262a975e3560", 
+"dc_format_s": "Shapefile", 
+"dc_description_s": "Clay County soil survey.", 
+"dct_references_s": "{\"http://schema.org/url\":\"http://claycountymn.gov/658/GIS-Data\",\"http://schema.org/downloadUrl\":\"ftp://gis.co.clay.mn.us/Download/Clay/ClaySoil.ZIP\"}", 
+"dc_subject_sm": [
+"Geoscientific information", 
+"pedology", 
+"soils"
+], 
+"dct_issued_s": "2006-07-10", 
+"solr_geom": "ENVELOPE(-96.840203, -96.167304, 47.152269, 46.628947)", 
+"dc_rights_s": "Public", 
+"dct_spatial_sm": [
+"Clay County", 
+"Minnesota"
+]
+}

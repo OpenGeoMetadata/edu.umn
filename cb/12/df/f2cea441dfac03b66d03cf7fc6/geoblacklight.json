@@ -1,0 +1,35 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-11-22T16:48:04Z", 
+"solr_geom": "ENVELOPE(-96.284521, -95.139461, 46.719006, 46.105965)", 
+"dct_references_s": "{\"http://schema.org/url\":\"http://www.co.otter-tail.mn.us/DocumentCenter/Home/View/460\",\"http://schema.org/downloadUrl\":\"http://www.co.otter-tail.mn.us/212/GIS-Shapefile-Downloads\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-cb12dff2-cea4-41df-ac03-b66d03cf7fc6", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Boundaries", 
+"Planning and Cadastral"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "This shapefile contains parcel polygons in Otter Tail County.", 
+"dct_issued_s": "2015-12-25", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Otter Tail County, Minnesota"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "urn-cb12dff2-cea4-41df-ac03-b66d03cf7fc6", 
+"georss_polygon_s": "46.105965 -96.284521 46.719006 -96.284521 46.719006 -95.139461 46.105965 -95.139461 46.105965 -96.284521", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Otter Tail County, Minnesota"
+], 
+"dc_publisher_sm": [
+"Otter Tail County, Minnesota"
+], 
+"layer_id_s": "urn:urn-cb12dff2-cea4-41df-ac03-b66d03cf7fc6", 
+"georss_box_s": "46.105965 -96.284521 46.719006 -95.139461", 
+"dc_title_s": "Parcels: Otter Tail County, Minnesota, 2016", 
+"layer_slug_s": "Minnesota-urn-cb12dff2-cea4-41df-ac03-b66d03cf7fc6"
+}
