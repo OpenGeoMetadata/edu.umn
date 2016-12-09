@@ -1,0 +1,34 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-11-17T16:36:40Z", 
+"solr_geom": "ENVELOPE(-93.250597, -91.755916, 48.58506, 46.647278)", 
+"dct_references_s": "{\"http://schema.org/url\":\"http://stlouiscountymndata.slcgis.opendata.arcgis.com/datasets/12b9ee5a24f34b5ca7331e3806a31522_18\",\"http://schema.org/downloadUrl\":\"http://stlouiscountymndata.slcgis.opendata.arcgis.com/datasets/12b9ee5a24f34b5ca7331e3806a31522_18.zip\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-3e0f3c70-06bd-4d27-b11a-8e445470307a", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Transportation"
+], 
+"dct_temporal_sm": "2016", 
+"dc_description_s": "Depicts roadsways and other addressed line types (i.e. water access shorelines, etc.) within St. Louis County. Address left/right attributes depict theoretical address ranges (low-high) along segments. Road names (spelling and abbreviations), address ranges, and community left/right attributes are intended to reflect accurate synchronization with the county's 9-1-1 Master Street Address Guide (MSAG).", 
+"dct_issued_s": "2016-05-03", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"St. Louis County"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "urn-3e0f3c70-06bd-4d27-b11a-8e445470307a", 
+"georss_polygon_s": "46.647278 -93.250597 48.58506 -93.250597 48.58506 -91.755916 46.647278 -91.755916 46.647278 -93.250597", 
+"solr_year_i": 2016, 
+"dct_spatial_sm": [
+"St. Louis County, Minnesota", 
+"Minnesota"
+], 
+"dc_publisher_sm": [
+"St. Louis County"
+], 
+"layer_id_s": "urn:urn-3e0f3c70-06bd-4d27-b11a-8e445470307a", 
+"georss_box_s": "46.647278 -93.250597 48.58506 -91.755916", 
+"dc_title_s": "Road Centerlines: St. Louis County, Minnesota", 
+"layer_slug_s": "Minnesota-urn-3e0f3c70-06bd-4d27-b11a-8e445470307a"
+}

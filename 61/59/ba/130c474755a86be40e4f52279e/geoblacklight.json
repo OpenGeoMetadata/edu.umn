@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2016-11-22T15:49:04Z", 
+"solr_geom": "ENVELOPE(-96.304717, -95.103865, 46.733753, 46.117528)", 
+"dct_references_s": "{\"http://schema.org/url\":\"http://www.co.otter-tail.mn.us/DocumentCenter/Home/View/459\",\"http://schema.org/downloadUrl\":\"http://www.co.otter-tail.mn.us/212/GIS-Shapefile-Downloads\"}", 
+"dc_rights_s": "Public", 
+"uuid": "urn-6159ba13-0c47-4755-a86b-e40e4f52279e", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Location", 
+"civil divisions", 
+"cities and towns"
+], 
+"dct_temporal_sm": "2015", 
+"dc_description_s": "This shapefile contains cities in Otter Tail County.", 
+"dct_issued_s": "2016-01-01", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Otter Tail County, Minnesota"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "urn-6159ba13-0c47-4755-a86b-e40e4f52279e", 
+"georss_polygon_s": "46.117528 -96.304717 46.733753 -96.304717 46.733753 -95.103865 46.117528 -95.103865 46.117528 -96.304717", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Minnesota", 
+"Otter Tail County, Minnesota"
+], 
+"dc_publisher_sm": [
+"Otter Tail County, Minnesota"
+], 
+"layer_id_s": "urn:urn-6159ba13-0c47-4755-a86b-e40e4f52279e", 
+"georss_box_s": "46.117528 -96.304717 46.733753 -95.103865", 
+"dc_title_s": "Cities: Otter Tail County, Minnesota, 2016", 
+"layer_slug_s": "Minnesota-urn-6159ba13-0c47-4755-a86b-e40e4f52279e"
+}
