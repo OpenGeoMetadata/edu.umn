@@ -1,10 +1,10 @@
 {
-"layer_geom_type_s": "Raster", 
-"layer_modified_dt": "2016-06-29T09:59:20Z", 
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2017-01-20T18:39:37Z", 
 "solr_geom": "ENVELOPE(-93.05, -92.44, 43.85, 43.49)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-geologic-atlas-mowe-c11a\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-geologic-atlas-mowe-c11a\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/68/e6/d3/fbd1cf468bbb460254520661fa/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-68e6d3fb-d1cf-468b-bb46-0254520661fa", 
+"uuid": "68e6d3fb-d1cf-468b-bb46-0254520661fa", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Geoscientific Information"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Minnesota Geological Survey (MGS)"
 ], 
-"dc_identifier_s": "urn-68e6d3fb-d1cf-468b-bb46-0254520661fa", 
-"dc_relation_sm": [
-"C-11, Part A. Geologic atlas of Mower County, Minnesota. J.H. Mossler, project manager. 1998. Color. Scale 1:100,000. 6 plates. Plates: 1, Data Base map; 2, Bedrock geology; 3, Surficial geology; 4, Quaternary stratigraphy; 5, Depth to bedrock and bedrock topography; 6, Geologic resources. $16.00.  Paper map and report available from the MGS Map Sales Office (2609 Territorial Road, St. Paul, Minnesota, 55114, 612-626-2969).For a listing of all geologic maps go to the Minnesota Geological Survey website at: http://www.mngs.umn.edu/mgsdocs.htmlFor a complete listing of MGS State Map Series Maps, Reports, and GIS Data, see http://conservancy.umn.edu/handle/11299/708For other County Atlas and Regional Hydrogeologic Assessment data see: http://www.mngs.umn.edu/county_atlas/countyatlas.htm For a listing of the status of the DNR Ground Water Mapping Program (Part B), go to: http://www.dnr.state.mn.us/waters/groundwater_section/mapping/index.html"
-], 
+"dc_identifier_s": "68e6d3fb-d1cf-468b-bb46-0254520661fa", 
 "georss_polygon_s": "43.49 -93.05 43.85 -93.05 43.85 -92.44 43.49 -92.44 43.49 -93.05", 
 "solr_year_i": 1998, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Mower County, Minnesota"
+"Minnesota, United States", 
+"Mower County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Geological Survey"
 ], 
-"layer_id_s": "urn:urn-68e6d3fb-d1cf-468b-bb46-0254520661fa", 
+"layer_id_s": "68e6d3fb-d1cf-468b-bb46-0254520661fa", 
 "georss_box_s": "43.49 -93.05 43.85 -92.44", 
 "dc_title_s": "Geologic Atlas of Mower County, Minnesota (Part A), 1998", 
-"layer_slug_s": "Minnesota-urn-68e6d3fb-d1cf-468b-bb46-0254520661fa"
+"layer_slug_s": "68e6d3fb-d1cf-468b-bb46-0254520661fa", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2017-01-18T17:38:21Z", 
+"solr_geom": "ENVELOPE(-97.269828, -89.398161, 49.404414, 43.435244)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.commissions.leg.state.mn.us/pub/gis/shape/elec2012.zip\",\"http://schema.org/url\":\"http://www.gis.leg.mn/metadata/elec12.htm\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/fc/c6/a8/ee26e146539f0dcdd6f6caedbc/iso19139.xml\"}", 
+"dc_rights_s": "Public", 
+"uuid": "fcc6a8ee-26e1-4653-9f0d-cdd6f6caedbc", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Society", 
+"Boundaries", 
+"Precincts", 
+"Elections", 
+"Vote tabulation districts", 
+"Election results"
+], 
+"dct_temporal_sm": "2012", 
+"dc_description_s": "Minnesota voting precincts used in the 2012 State General election, including for each precinct: election district attributes, voting statistics, and results for all federal offices, state legislative offices, and state consitutional amendments on the ballot", 
+"dct_issued_s": "2012-01-27", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Legislative Coordinating Commission"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "fcc6a8ee-26e1-4653-9f0d-cdd6f6caedbc", 
+"georss_polygon_s": "43.435244 -97.269828 49.404414 -97.269828 49.404414 -89.398161 43.435244 -89.398161 43.435244 -97.269828", 
+"solr_year_i": 2012, 
+"dct_spatial_sm": [
+"Minnesota, United States"
+], 
+"layer_id_s": "fcc6a8ee-26e1-4653-9f0d-cdd6f6caedbc", 
+"georss_box_s": "43.435244 -97.269828 49.404414 -89.398161", 
+"dc_title_s": "2012 Election Results: Minnesota", 
+"layer_slug_s": "fcc6a8ee-26e1-4653-9f0d-cdd6f6caedbc", 
+"dct_isPartOf_sm": "Minnesota Legislative Coordinating Commission - Geospatial Information (LCC-GIS)"
+}

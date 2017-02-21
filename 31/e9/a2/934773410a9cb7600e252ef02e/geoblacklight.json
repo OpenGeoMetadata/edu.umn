@@ -1,14 +1,14 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-08-19T17:46:04Z", 
+"layer_modified_dt": "2016-12-30T13:41:25Z", 
 "solr_geom": "ENVELOPE(-96.199846, -95.157798, 47.163819, 46.704344)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://www.co.becker.mn.us/online_services/GIS_data.aspx\",\"http://schema.org/downloadUrl\":\"http://gis-server.co.becker.mn.us/data/gis/shapefiles/quarterquarter.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis-server.co.becker.mn.us/data/gis/shapefiles/quarterquarter.zip\",\"http://schema.org/url\":\"http://www.co.becker.mn.us/online_services/GIS_data.aspx\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/31/e9/a2/934773410a9cb7600e252ef02e/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-31e9a293-4773-410a-9cb7-600e252ef02e", 
+"uuid": "31e9a293-4773-410a-9cb7-600e252ef02e", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Planning and Cadastral", 
-"public land survey system"
+"Public land survey system"
 ], 
 "dct_temporal_sm": "2016-", 
 "dc_description_s": "Shapefile of Quarter Quarter Sections in Becker County, Minnesota", 
@@ -18,18 +18,19 @@
 "Becker County, Minnesota"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-31e9a293-4773-410a-9cb7-600e252ef02e", 
+"dc_identifier_s": "31e9a293-4773-410a-9cb7-600e252ef02e", 
 "georss_polygon_s": "46.704344 -96.199846 47.163819 -96.199846 47.163819 -95.157798 46.704344 -95.157798 46.704344 -96.199846", 
 "solr_year_i": 2016, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Becker County, Minnesota"
+"Becker County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Becker County, Minnesota"
 ], 
-"layer_id_s": "urn:urn-31e9a293-4773-410a-9cb7-600e252ef02e", 
+"layer_id_s": "31e9a293-4773-410a-9cb7-600e252ef02e", 
 "georss_box_s": "46.704344 -96.199846 47.163819 -95.157798", 
 "dc_title_s": "Quarter quarter sections: Becker County, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-31e9a293-4773-410a-9cb7-600e252ef02e"
+"layer_slug_s": "31e9a293-4773-410a-9cb7-600e252ef02e", 
+"dct_isPartOf_sm": "Becker County GIS Data"
 }

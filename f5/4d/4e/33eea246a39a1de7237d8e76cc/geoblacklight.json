@@ -1,16 +1,16 @@
 {
 "layer_geom_type_s": "Line", 
-"layer_modified_dt": "2016-11-17T13:42:15Z", 
+"layer_modified_dt": "2017-01-20T18:39:51Z", 
 "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-util-abandond-sewer-interceptors\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/util_abandond_sewer_interceptors/shp_util_abandond_sewer_interceptors.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/util_abandond_sewer_interceptors/shp_util_abandond_sewer_interceptors.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-util-abandond-sewer-interceptors\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/f5/4d/4e/33eea246a39a1de7237d8e76cc/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-f54d4e33-eea2-46a3-9a1d-e7237d8e76cc", 
+"uuid": "f54d4e33-eea2-46a3-9a1d-e7237d8e76cc", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Utilities and Communication", 
-"sewerage system", 
-"sewage", 
-"waste water"
+"Sewage", 
+"Sewerage system", 
+"Wastewater"
 ], 
 "dc_format_s": "Shapefile", 
 "dc_description_s": "This layer contains data for those parts of the sewer interceptor system in the Twin Cities metropolitan area that have been removed from service (but not removed from the ground) The interceptor system provides the link from community sewer systems to the wastewater treatment facilities in the seven county metropolitan area.", 
@@ -18,21 +18,19 @@
 "dc_creator_sm": [
 "Metropolitan Council"
 ], 
-"dc_identifier_s": "urn-f54d4e33-eea2-46a3-9a1d-e7237d8e76cc", 
-"dc_relation_sm": [
-"Sewer Interceptors, Sewer Interceptor Lift Stations, Sewer Interceptor Meter Stations"
-], 
+"dc_identifier_s": "f54d4e33-eea2-46a3-9a1d-e7237d8e76cc", 
 "georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
 "solr_year_i": 2012, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-f54d4e33-eea2-46a3-9a1d-e7237d8e76cc", 
+"layer_id_s": "f54d4e33-eea2-46a3-9a1d-e7237d8e76cc", 
 "georss_box_s": "44.471 -94.012 45.415 -92.732", 
 "dc_title_s": "Abandoned Sewer Interceptors: Twin Cities Metro, Minnesota, 2012", 
-"layer_slug_s": "Minnesota-urn-f54d4e33-eea2-46a3-9a1d-e7237d8e76cc"
+"layer_slug_s": "f54d4e33-eea2-46a3-9a1d-e7237d8e76cc", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

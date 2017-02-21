@@ -1,36 +1,34 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:10Z", 
+"layer_modified_dt": "2017-01-20T18:40:42Z", 
 "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-bus-shelters\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_bus_shelters/shp_trans_bus_shelters.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_bus_shelters/shp_trans_bus_shelters.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-bus-shelters\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/26/b2/71/2243bf412692703cc9fe7a2989/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-26b27122-43bf-4126-9270-3cc9fe7a2989", 
+"uuid": "26b27122-43bf-4126-9270-3cc9fe7a2989", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Transportation"
 ], 
-"dct_temporal_sm": "upda", 
+"dct_temporal_sm": "2012", 
 "dc_description_s": "The Transit Shelters layer includes around 1200 bus shelters in the Metro Transit service area. It includes shelters owned by Metro Transit and third party entities. Attributes include Site_id, Shelter_id, Shelter_nb, Site_loc, Shelter_ow, Rt_cd, Shel_elec, X, Y and corn_desc. All shelters identified in this database correspond to a bus stop, and can be linked to the bus_stops shapefile using the Siteid field. This dataset does not reflect situations where shelters may be designed to serve more than one bus stop number or where multiple shelters may also serve one stop.", 
 "dct_issued_s": "2012-02-16", 
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Metropolitan Council - Metro Transit"
 ], 
-"dc_identifier_s": "urn-26b27122-43bf-4126-9270-3cc9fe7a2989", 
-"dc_relation_sm": [
-"Transit Stops, Transit Routes, transit segments, Park and Ride Lots"
-], 
+"dc_identifier_s": "26b27122-43bf-4126-9270-3cc9fe7a2989", 
 "georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
 "solr_year_i": 2012, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-26b27122-43bf-4126-9270-3cc9fe7a2989", 
+"layer_id_s": "26b27122-43bf-4126-9270-3cc9fe7a2989", 
 "georss_box_s": "44.471 -94.012 45.415 -92.732", 
 "dc_title_s": "Transit Shelters: Twin Cities Metro, Minnesota, 2012", 
-"layer_slug_s": "Minnesota-urn-26b27122-43bf-4126-9270-3cc9fe7a2989"
+"layer_slug_s": "26b27122-43bf-4126-9270-3cc9fe7a2989", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

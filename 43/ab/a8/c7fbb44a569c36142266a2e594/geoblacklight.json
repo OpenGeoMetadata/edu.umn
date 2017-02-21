@@ -1,0 +1,33 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2017-01-18T17:38:22Z", 
+"solr_geom": "ENVELOPE(-94.02259, -92.72875, 45.416107, 44.466658)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.commissions.leg.state.mn.us/pub/gis/Redist2000/Shape/mc03.zip\",\"http://schema.org/url\":\"http://www.gis.leg.mn/metadata/MC03.htm\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/43/ab/a8/c7fbb44a569c36142266a2e594/iso19139.xml\"}", 
+"dc_rights_s": "Public", 
+"uuid": "43aba8c7-fbb4-4a56-9c36-142266a2e594", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Society", 
+"Boundaries", 
+"Metropolitan council"
+], 
+"dct_temporal_sm": "2003", 
+"dc_description_s": "This is a polygon data set for the 2003 Metropolitan Council Districts", 
+"dct_issued_s": "2013-05-23", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Legislative Coordinating Commission"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "43aba8c7-fbb4-4a56-9c36-142266a2e594", 
+"georss_polygon_s": "44.466658 -94.02259 45.416107 -94.02259 45.416107 -92.72875 44.466658 -92.72875 44.466658 -94.02259", 
+"solr_year_i": 2003, 
+"dct_spatial_sm": [
+"Minnesota, United States"
+], 
+"layer_id_s": "43aba8c7-fbb4-4a56-9c36-142266a2e594", 
+"georss_box_s": "44.466658 -94.02259 45.416107 -92.72875", 
+"dc_title_s": "Metropolitan Council Districts: Twin Cities Metro, Minnesota, 2003", 
+"layer_slug_s": "43aba8c7-fbb4-4a56-9c36-142266a2e594", 
+"dct_isPartOf_sm": "Minnesota Legislative Coordinating Commission - Geospatial Information (LCC-GIS)"
+}

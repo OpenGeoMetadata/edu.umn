@@ -1,15 +1,15 @@
 {
 "layer_geom_type_s": "Line", 
-"layer_modified_dt": "2016-06-29T09:58:50Z", 
+"layer_modified_dt": "2017-01-20T18:38:56Z", 
 "solr_geom": "ENVELOPE(-93.329853, -92.729236, 44.923499, 44.468748)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-co-dakota-trans-trans-streets\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/trans_trans_streets/shp_trans_trans_streets.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/trans_trans_streets/shp_trans_trans_streets.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-co-dakota-trans-trans-streets\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/73/b2/05/34b49a4806af2c38d36f1d190f/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-73b20534-b49a-4806-af2c-38d36f1d190f", 
+"uuid": "73b20534-b49a-4806-af2c-38d36f1d190f", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Transportation", 
-"road", 
-"transportation"
+"Transportation", 
+"Roads"
 ], 
 "dct_temporal_sm": "2016", 
 "dc_description_s": "This layer contains lines showing all public (and many private) roads in Dakota County, Minnesota. The lines are generally collected from plats and aerial photography.", 
@@ -18,18 +18,19 @@
 "dc_creator_sm": [
 "Dakota County GIS, Dakota County GIS, Staff"
 ], 
-"dc_identifier_s": "urn-73b20534-b49a-4806-af2c-38d36f1d190f", 
+"dc_identifier_s": "73b20534-b49a-4806-af2c-38d36f1d190f", 
 "georss_polygon_s": "44.468748 -93.329853 44.923499 -93.329853 44.923499 -92.729236 44.468748 -92.729236 44.468748 -93.329853", 
 "solr_year_i": 2016, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Dakota County, Minnesota"
+"Minnesota, United States", 
+"Dakota County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Dakota County, Minnesota"
 ], 
-"layer_id_s": "urn:urn-73b20534-b49a-4806-af2c-38d36f1d190f", 
+"layer_id_s": "73b20534-b49a-4806-af2c-38d36f1d190f", 
 "georss_box_s": "44.468748 -93.329853 44.923499 -92.729236", 
 "dc_title_s": "Road Centerlines: Dakota County, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-73b20534-b49a-4806-af2c-38d36f1d190f"
+"layer_slug_s": "73b20534-b49a-4806-af2c-38d36f1d190f", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

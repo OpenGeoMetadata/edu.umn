@@ -1,32 +1,33 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:27Z", 
+"layer_modified_dt": "2017-01-20T18:39:46Z", 
 "solr_geom": "ENVELOPE(-97.5, -89, 49.5, 43)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-emerald-ash-borer\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mda/env_emerald_ash_borer/shp_env_emerald_ash_borer.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mda/env_emerald_ash_borer/shp_env_emerald_ash_borer.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-emerald-ash-borer\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/15/e5/37/a133084f149e8d8cdde3a1684d/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-15e537a1-3308-4f14-9e8d-8cdde3a1684d", 
+"uuid": "15e537a1-3308-4f14-9e8d-8cdde3a1684d", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Environment"
 ], 
-"dct_temporal_sm": "data", 
+"dct_temporal_sm": "2015", 
 "dc_description_s": "This suite of data is a collection of layers that communicate the introduction risk, detection, bioControl, and response to Emerald Ash Borer (EAB) in Minnesota, including quarantined counties. More information can be obtained at: http://www.mda.state.mn.us/eab Follow the links below to the individual metadata pages for each layer: Emerald Ash Borer Introduction Risk: eab_introduction_risk.html Quarantine Boundaries: eab_quarantine_boundaries.html Trees: eab_trees.html Bio Control: eab_bio_control.html", 
 "dct_issued_s": "2015-11-13", 
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Minnesota Department of Agriculture"
 ], 
-"dc_identifier_s": "urn-15e537a1-3308-4f14-9e8d-8cdde3a1684d", 
+"dc_identifier_s": "15e537a1-3308-4f14-9e8d-8cdde3a1684d", 
 "georss_polygon_s": "43 -97.5 49.5 -97.5 49.5 -89 43 -89 43 -97.5", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Agriculture"
 ], 
-"layer_id_s": "urn:urn-15e537a1-3308-4f14-9e8d-8cdde3a1684d", 
+"layer_id_s": "15e537a1-3308-4f14-9e8d-8cdde3a1684d", 
 "georss_box_s": "43 -97.5 49.5 -89", 
 "dc_title_s": "Emerald Ash Borer Detection: Minnesota", 
-"layer_slug_s": "Minnesota-urn-15e537a1-3308-4f14-9e8d-8cdde3a1684d"
+"layer_slug_s": "15e537a1-3308-4f14-9e8d-8cdde3a1684d", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

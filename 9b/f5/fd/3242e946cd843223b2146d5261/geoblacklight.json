@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Polygon", 
-"layer_modified_dt": "2016-09-29T15:46:20Z", 
+"layer_modified_dt": "2016-12-30T13:41:49Z", 
 "solr_geom": "ENVELOPE(-93.2322, -92.9854, 45.1247, 44.8911)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/e73398141f574dc7b0758314c0a7f858_18.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/18\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/e73398141f574dc7b0758314c0a7f858_18\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/e73398141f574dc7b0758314c0a7f858_18.zip\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/e73398141f574dc7b0758314c0a7f858_18\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/9b/f5/fd/3242e946cd843223b2146d5261/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/18\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-9bf5fd32-42e9-46cd-8432-23b2146d5261", 
+"uuid": "9bf5fd32-42e9-46cd-8432-23b2146d5261", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Utilities and Communication"
@@ -17,18 +17,19 @@
 "Map Portal"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-9bf5fd32-42e9-46cd-8432-23b2146d5261", 
+"dc_identifier_s": "9bf5fd32-42e9-46cd-8432-23b2146d5261", 
 "georss_polygon_s": "44.8911 -93.2322 45.1247 -93.2322 45.1247 -92.9854 44.8911 -92.9854 44.8911 -93.2322", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Ramsey County, Minnesota", 
-"Minnesota"
+"Ramsey County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "OpenRamsey"
 ], 
-"layer_id_s": "urn:urn-9bf5fd32-42e9-46cd-8432-23b2146d5261", 
+"layer_id_s": "9bf5fd32-42e9-46cd-8432-23b2146d5261", 
 "georss_box_s": "44.8911 -93.2322 45.1247 -92.9854", 
 "dc_title_s": "Above Ground Tanks: Ramsey County, Minnesota", 
-"layer_slug_s": "Minnesota-urn-9bf5fd32-42e9-46cd-8432-23b2146d5261"
+"layer_slug_s": "9bf5fd32-42e9-46cd-8432-23b2146d5261", 
+"dct_isPartOf_sm": "Open Ramsey County"
 }

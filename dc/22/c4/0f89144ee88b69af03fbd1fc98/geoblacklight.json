@@ -1,36 +1,35 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:08Z", 
+"layer_modified_dt": "2017-01-20T18:40:39Z", 
 "solr_geom": "ENVELOPE(-96.5, -89, 49.5, 43)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-dnr-walk-in-access-sites\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_dnr_walk_in_access_sites/shp_bdry_dnr_walk_in_access_sites.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_dnr_walk_in_access_sites/shp_bdry_dnr_walk_in_access_sites.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-dnr-walk-in-access-sites\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/dc/22/c4/0f89144ee88b69af03fbd1fc98/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-dc22c40f-8914-4ee8-8b69-af03fbd1fc98", 
+"uuid": "dc22c40f-8914-4ee8-8b69-af03fbd1fc98", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Boundaries", 
-"Walk-In Access, WIA"
+"Walk-in access", 
+"Wia"
 ], 
-"dct_temporal_sm": "2016", 
+"dct_temporal_sm": "2012", 
 "dc_description_s": "The Minnesota Walk-In Access site (WIA) GIS data represents areas of private land that have been made open to the public for the purpose of walk-in (foot travel) only hunting via the Walk-In Access program. These sites are open during legal hunting season from September 1st to May 31st. Currently the WIA program covers a 21 county area in SW Minnesota. The program is in it's second year as a pilot program and is seeking permanent funding to continue operating.", 
 "dct_issued_s": "2012-09-20", 
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-dc22c40f-8914-4ee8-8b69-af03fbd1fc98", 
-"dc_relation_sm": [
-""
-], 
+"dc_identifier_s": "dc22c40f-8914-4ee8-8b69-af03fbd1fc98", 
 "georss_polygon_s": "43 -96.5 49.5 -96.5 49.5 -89 43 -89 43 -96.5", 
 "solr_year_i": 2012, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-dc22c40f-8914-4ee8-8b69-af03fbd1fc98", 
+"layer_id_s": "dc22c40f-8914-4ee8-8b69-af03fbd1fc98", 
 "georss_box_s": "43 -96.5 49.5 -89", 
 "dc_title_s": "Walk-In Access Sites: Minnesota, 2012", 
-"layer_slug_s": "Minnesota-urn-dc22c40f-8914-4ee8-8b69-af03fbd1fc98"
+"layer_slug_s": "dc22c40f-8914-4ee8-8b69-af03fbd1fc98", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:02Z", 
+"layer_modified_dt": "2017-01-20T18:40:32Z", 
 "solr_geom": "ENVELOPE(-97.5, -89, 49.5, 43)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/econ-mdor-sales-tax\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/econ-mdor-sales-tax\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/d0/fc/24/8eb7ba456e935221b868ad12af/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-d0fc248e-b7ba-456e-9352-21b868ad12af", 
+"uuid": "d0fc248e-b7ba-456e-9352-21b868ad12af", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Economy"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Revenue"
 ], 
-"dc_identifier_s": "urn-d0fc248e-b7ba-456e-9352-21b868ad12af", 
-"dc_relation_sm": [
-"Income Tax, Minnesota: https://gisdata.mn.gov/dataset/econ-mdor-income-tax"
-], 
+"dc_identifier_s": "d0fc248e-b7ba-456e-9352-21b868ad12af", 
 "georss_polygon_s": "43 -97.5 49.5 -97.5 49.5 -89 43 -89 43 -97.5", 
 "solr_year_i": 2003, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Revenue"
 ], 
-"layer_id_s": "urn:urn-d0fc248e-b7ba-456e-9352-21b868ad12af", 
+"layer_id_s": "d0fc248e-b7ba-456e-9352-21b868ad12af", 
 "georss_box_s": "43 -97.5 49.5 -89", 
 "dc_title_s": "Sales Tax: Minnesota, 2003-2009", 
-"layer_slug_s": "Minnesota-urn-d0fc248e-b7ba-456e-9352-21b868ad12af"
+"layer_slug_s": "d0fc248e-b7ba-456e-9352-21b868ad12af", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

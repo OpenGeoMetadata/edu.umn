@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:58:48Z", 
+"layer_modified_dt": "2017-01-20T18:38:54Z", 
 "solr_geom": "ENVELOPE(-94.01, -93.52, 44.99, 44.63)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-carver-2013-airphotos\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-carver-2013-airphotos\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/3c/41/e8/e6b0fc4d4dbce1c8599dbd5e23/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-3c41e8e6-b0fc-4d4d-bce1-c8599dbd5e23", 
+"uuid": "3c41e8e6-b0fc-4d4d-bce1-c8599dbd5e23", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Imagery and Base Maps"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Carver County, Minnesota"
 ], 
-"dc_identifier_s": "urn-3c41e8e6-b0fc-4d4d-bce1-c8599dbd5e23", 
-"dc_relation_sm": [
-"For information on other air photos available for Minnesota, see http://www.mngeo.state.mn.us/chouse/airphoto/index.html"
-], 
+"dc_identifier_s": "3c41e8e6-b0fc-4d4d-bce1-c8599dbd5e23", 
 "georss_polygon_s": "44.63 -94.01 44.99 -94.01 44.99 -93.52 44.63 -93.52 44.63 -94.01", 
 "solr_year_i": 2013, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Carver County, Minnesota"
+"Minnesota, United States", 
+"Carver County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Geospatial Information Office (MnGeo)"
 ], 
-"layer_id_s": "urn:urn-3c41e8e6-b0fc-4d4d-bce1-c8599dbd5e23", 
+"layer_id_s": "3c41e8e6-b0fc-4d4d-bce1-c8599dbd5e23", 
 "georss_box_s": "44.63 -94.01 44.99 -93.52", 
 "dc_title_s": "High Resolution Orthoimagery, Carver County, MN, Spring 2013", 
-"layer_slug_s": "Minnesota-urn-3c41e8e6-b0fc-4d4d-bce1-c8599dbd5e23"
+"layer_slug_s": "3c41e8e6-b0fc-4d4d-bce1-c8599dbd5e23", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

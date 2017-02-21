@@ -1,38 +1,44 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:16Z", 
+"layer_modified_dt": "2017-01-20T18:39:31Z", 
 "solr_geom": "ENVELOPE(-95.8, -91.7, 46.8, 43.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-geologic-atlas-part-b\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-geologic-atlas-part-b\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/2d/b1/5d/8d03a34848ab6158487d153397/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-2db15d8d-03a3-4848-ab61-58487d153397", 
+"uuid": "2db15d8d-03a3-4848-ab61-58487d153397", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Geoscientific Information", 
-"water table", 
-"groundwater", 
-"sand", 
-"aquifer"
+"Groundwater", 
+"Sand", 
+"Wells", 
+"Surficial sand aquifer", 
+"Buried sand and gravel aquifer", 
+"Water chemistry", 
+"County geologic atlas", 
+"Water table", 
+"Pollution sensitivity", 
+"Residence time", 
+"Aquifers"
 ], 
-"dc_format_s": "File", 
+"dct_temporal_sm": "2015", 
 "dc_description_s": "GIS files depicting characteristics of the groundwater system of Minnesota. A County Geologic Atlas is a systematic study of a county's geologic and groundwater resources. Geologic studies include both Quaternary deposits and bedrock. Groundwater studies include flow systems, aquifer capacity, groundwater chemistry, and sensitivity to pollution. In some areas sand and gravel deposits, sinkholes, or other features are studied.", 
 "dct_issued_s": "2015-07-22", 
+"dc_format_s": "File", 
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"dc_identifier_s": "urn-2db15d8d-03a3-4848-ab61-58487d153397", 
-"dc_relation_sm": [
-"County Geologic Atlas, Part A, published by the Minnesota Geological Survey (MGS). More information and downloadable data for Part A available on the MGS site: http://www.mngs.umn.edu/county_atlas/countyatlas.htm."
-], 
+"dc_identifier_s": "2db15d8d-03a3-4848-ab61-58487d153397", 
 "georss_polygon_s": "43.5 -95.8 46.8 -95.8 46.8 -91.7 43.5 -91.7 43.5 -95.8", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-2db15d8d-03a3-4848-ab61-58487d153397", 
+"layer_id_s": "2db15d8d-03a3-4848-ab61-58487d153397", 
 "georss_box_s": "43.5 -95.8 46.8 -91.7", 
 "dc_title_s": "Index Map, County Geologic Atlases, Part B: Minnesota", 
-"layer_slug_s": "Minnesota-urn-2db15d8d-03a3-4848-ab61-58487d153397"
+"layer_slug_s": "2db15d8d-03a3-4848-ab61-58487d153397", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

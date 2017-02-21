@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:27Z", 
+"layer_modified_dt": "2017-01-20T18:41:05Z", 
 "solr_geom": "ENVELOPE(-95.312416, -93.000201, 48.687949, 45.709332)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/elev-lidar-centrallakes2012\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/elev-lidar-centrallakes2012\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/42/80/91/30c4354117a98a1977a251f1b2/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-42809130-c435-4117-a98a-1977a251f1b2", 
+"uuid": "42809130-c435-4117-a98a-1977a251f1b2", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Elevation"
@@ -16,27 +16,25 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources and Woolpert, Inc."
 ], 
-"dc_identifier_s": "urn-42809130-c435-4117-a98a-1977a251f1b2", 
-"dc_relation_sm": [
-"For more information about elevation data for Minnesota, see: http://www.mngeo.state.mn.us/chouse/elevation/index.html"
-], 
+"dc_identifier_s": "42809130-c435-4117-a98a-1977a251f1b2", 
 "georss_polygon_s": "45.709332 -95.312416 48.687949 -95.312416 48.687949 -93.000201 45.709332 -93.000201 45.709332 -95.312416", 
 "solr_year_i": 2012, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Koochiching County, Minnesota", 
-"Wadena County, Minnesota", 
-"Todd County, Minnesota", 
-"Itasca County, Minnesota", 
-"Hubbard County, Minnesota", 
-"Cass County, Minnesota", 
-"Aitkin County, Minnesota"
+"Minnesota, United States", 
+"Koochiching County, Minnesota, United States", 
+"Wadena County, Minnesota, United States", 
+"Todd County, Minnesota, United States", 
+"Itasca County, Minnesota, United States", 
+"Hubbard County, Minnesota, United States", 
+"Cass County, Minnesota, United States", 
+"Aitkin County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-42809130-c435-4117-a98a-1977a251f1b2", 
+"layer_id_s": "42809130-c435-4117-a98a-1977a251f1b2", 
 "georss_box_s": "45.709332 -95.312416 48.687949 -93.000201", 
 "dc_title_s": "LiDAR Elevation: Central Lakes Region, Minnesota, 2012", 
-"layer_slug_s": "Minnesota-urn-42809130-c435-4117-a98a-1977a251f1b2"
+"layer_slug_s": "42809130-c435-4117-a98a-1977a251f1b2", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

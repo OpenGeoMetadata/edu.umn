@@ -1,16 +1,16 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:04Z", 
+"layer_modified_dt": "2017-01-20T18:40:35Z", 
 "solr_geom": "ENVELOPE(-93.329706, -92.729113, 44.923499, 44.469877)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-co-dakota-bdry-munbndp\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/bdry_munbndp/shp_bdry_munbndp.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/bdry_munbndp/shp_bdry_munbndp.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-co-dakota-bdry-munbndp\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/84/1f/a5/ab85964fa7b76541722167d1da/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-841fa5ab-8596-4fa7-b765-41722167d1da", 
+"uuid": "841fa5ab-8596-4fa7-b765-41722167d1da", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Boundaries", 
-"city", 
-"municipality", 
-"administrative boundary"
+"City", 
+"Municipalities", 
+"Administrative boundaries"
 ], 
 "dct_temporal_sm": "2015", 
 "dc_description_s": "Boundaries of the cities and townships in Dakota County.", 
@@ -19,18 +19,19 @@
 "dc_creator_sm": [
 "Dakota County GIS, Dakota County GIS, Staff"
 ], 
-"dc_identifier_s": "urn-841fa5ab-8596-4fa7-b765-41722167d1da", 
+"dc_identifier_s": "841fa5ab-8596-4fa7-b765-41722167d1da", 
 "georss_polygon_s": "44.469877 -93.329706 44.923499 -93.329706 44.923499 -92.729113 44.469877 -92.729113 44.469877 -93.329706", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Dakota County, Minnesota"
+"Minnesota, United States", 
+"Dakota County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Dakota County, Minnesota"
 ], 
-"layer_id_s": "urn:urn-841fa5ab-8596-4fa7-b765-41722167d1da", 
+"layer_id_s": "841fa5ab-8596-4fa7-b765-41722167d1da", 
 "georss_box_s": "44.469877 -93.329706 44.923499 -92.729113", 
 "dc_title_s": "Municipal Boundaries: Dakota County, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-841fa5ab-8596-4fa7-b765-41722167d1da"
+"layer_slug_s": "841fa5ab-8596-4fa7-b765-41722167d1da", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

@@ -1,32 +1,33 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:30Z", 
+"layer_modified_dt": "2017-01-20T18:39:50Z", 
 "solr_geom": "ENVELOPE(-92.371069, -89.89463, 48.025609, 46.616461)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/struc-superior-hiking-trail\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/struc_superior_hiking_trail/shp_struc_superior_hiking_trail.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/struc_superior_hiking_trail/shp_struc_superior_hiking_trail.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/struc-superior-hiking-trail\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/77/03/37/19fdc345528b5dc6ba691dfedb/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-77033719-fdc3-4552-8b5d-c6ba691dfedb", 
+"uuid": "77033719-fdc3-4552-8b5d-c6ba691dfedb", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Structure"
 ], 
-"dct_temporal_sm": "10/2", 
+"dct_temporal_sm": "2014", 
 "dc_description_s": "Superior Hiking Trail campsites and trailheads for completed trail throughout Cook, Lake, St. Louis and Carlton counties. These data were collected with high-quality, realtime differentially corrected GPS units by Sundew Technical Services. This project was funded in part under the Coastal Zone Management Act, by NOAA's Office of Ocean and Coastal Resource Management, in Conjunction with Minnesota's Lake Superior Coastal Program.", 
 "dct_issued_s": "2014-10-07T05:00:00.000Z", 
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-77033719-fdc3-4552-8b5d-c6ba691dfedb", 
+"dc_identifier_s": "77033719-fdc3-4552-8b5d-c6ba691dfedb", 
 "georss_polygon_s": "46.616461 -92.371069 48.025609 -92.371069 48.025609 -89.89463 46.616461 -89.89463 46.616461 -92.371069", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-77033719-fdc3-4552-8b5d-c6ba691dfedb", 
+"layer_id_s": "77033719-fdc3-4552-8b5d-c6ba691dfedb", 
 "georss_box_s": "46.616461 -92.371069 48.025609 -89.89463", 
 "dc_title_s": "Superior Hiking Trail Facilities: Minnesota, 2014", 
-"layer_slug_s": "Minnesota-urn-77033719-fdc3-4552-8b5d-c6ba691dfedb"
+"layer_slug_s": "77033719-fdc3-4552-8b5d-c6ba691dfedb", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

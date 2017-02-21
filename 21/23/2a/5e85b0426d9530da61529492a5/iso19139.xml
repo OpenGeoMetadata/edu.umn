@@ -58,7 +58,7 @@
       </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-06-29T09:59:58</gco:DateTime>
+      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2017-01-20T18:40:27</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
       <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -78,7 +78,7 @@
             <gmd:date>
               <gmd:CI_Date>
                 <gmd:date>
-                  <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2012-03-05</gco:Date>
+                  <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2012-03-04</gco:Date>
                 </gmd:date>
                 <gmd:dateType>
                   <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
@@ -119,6 +119,12 @@
                 </gmd:role>
               </gmd:CI_ResponsibleParty>
             </gmd:citedResponsibleParty>
+            <gmd:otherCitationDetails>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Mixed</gco:CharacterString>
+            </gmd:otherCitationDetails>
+            <gmd:collectiveTitle>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Geospatial Commons</gco:CharacterString>
+            </gmd:collectiveTitle>
           </gmd:CI_Citation>
         </gmd:citation>
         <gmd:abstract>
@@ -183,43 +189,6 @@
             </gmd:maintenanceAndUpdateFrequency>
           </gmd:MD_MaintenanceInformation>
         </gmd:resourceMaintenance>
-        <gmd:descriptiveKeywords>
-          <gmd:MD_Keywords>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minneapolis-St. Paul-Bloomington</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:type>
-              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="place"/>
-            </gmd:type>
-            <gmd:thesaurusName>
-              <gmd:CI_Citation>
-                <gmd:title>
-                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GeoNames</gco:CharacterString>
-                </gmd:title>
-                <gmd:date>
-                  <gmd:CI_Date>
-                    <gmd:date>
-                      <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2012-10-29</gco:Date>
-                    </gmd:date>
-                    <gmd:dateType>
-                      <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
-                    </gmd:dateType>
-                  </gmd:CI_Date>
-                </gmd:date>
-                <gmd:identifier>
-                  <gmd:MD_Identifier>
-                    <gmd:code>
-                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">http://www.geonames.org/ontology/ontology_v3.1.rdf</gco:CharacterString>
-                    </gmd:code>
-                  </gmd:MD_Identifier>
-                </gmd:identifier>
-              </gmd:CI_Citation>
-            </gmd:thesaurusName>
-          </gmd:MD_Keywords>
-        </gmd:descriptiveKeywords>
         <gmd:resourceConstraints>
           <gmd:MD_LegalConstraints>
             <gmd:accessConstraints>
@@ -255,12 +224,12 @@
               </gmd:EX_GeographicBoundingBox>
             </gmd:geographicElement>
             <gmd:temporalElement>
-              <gmd:EX_TemporalExtent id="boundingTemporalExtent">
+              <gmd:EX_TemporalExtent>
                 <gmd:extent>
-                  <gml:TimeInstant xmlns:gml="http://www.opengis.net/gml" gml:id="boundingTimeInstantExtent">
-                    <gml:description>Data considered current through the date of this metadata.  Household/population data from 2010 US decennial Census.  Employment data from QCEW/LED data.</gml:description>
-                    <gml:timePosition>2010-06-15</gml:timePosition>
-                  </gml:TimeInstant>
+                  <gml:TimePeriod xmlns:gml="http://www.opengis.net/gml" gml:id="d261517e255a1052958">
+                    <gml:beginPosition>2010</gml:beginPosition>
+                    <gml:endPosition>2010</gml:endPosition>
+                  </gml:TimePeriod>
                 </gmd:extent>
               </gmd:EX_TemporalExtent>
             </gmd:temporalElement>
@@ -272,6 +241,19 @@
         <gmd:supplementalInformation>
           <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Travel Model Area (19 counties)</gco:CharacterString>
         </gmd:supplementalInformation>
+        <gmd:descriptiveKeywords>
+          <gmd:MD_Keywords>
+            <gmd:type>
+              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="place"/>
+            </gmd:type>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota, United States</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minneapolis-St. Paul-Bloomington, United States</gco:CharacterString>
+            </gmd:keyword>
+          </gmd:MD_Keywords>
+        </gmd:descriptiveKeywords>
       </gmd:MD_DataIdentification>
     </gmd:identificationInfo>
     <gmd:contentInfo>
@@ -345,7 +327,7 @@
             <gmd:onLine>
               <gmd:CI_OnlineResource>
                 <gmd:linkage>
-                  <gmd:URL>https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-anlys-zones2010</gmd:URL>
+                  <gmd:URL>ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_anlys_zones2010/shp_trans_anlys_zones2010.zip</gmd:URL>
                 </gmd:linkage>
                 <gmd:protocol>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:LINK</gco:CharacterString>
@@ -359,6 +341,16 @@
                 </gmd:linkage>
                 <gmd:protocol>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:DOWNLOAD-1.0-ftp--download</gco:CharacterString>
+                </gmd:protocol>
+              </gmd:CI_OnlineResource>
+            </gmd:onLine>
+            <gmd:onLine>
+              <gmd:CI_OnlineResource>
+                <gmd:linkage>
+                  <gmd:URL>https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Transportation/MapServer/11</gmd:URL>
+                </gmd:linkage>
+                <gmd:protocol>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ESRI:ArcGIS</gco:CharacterString>
                 </gmd:protocol>
               </gmd:CI_OnlineResource>
             </gmd:onLine>

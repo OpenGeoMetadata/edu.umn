@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-09-02T14:56:13Z", 
+"layer_modified_dt": "2016-12-30T13:42:23Z", 
 "solr_geom": "ENVELOPE(-93.142138, -92.646255, 45.730939, 45.294479)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gis.chisagocounty.us/Link/SpatialData/ZoningTwp.zip\",\"http://schema.org/url\":\"http://gis.chisagocounty.us/Link/jsfe/index.aspx\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gis.chisagocounty.us/Link/SpatialData/ZoningTwp.zip\",\"http://schema.org/url\":\"http://gis.chisagocounty.us/Link/jsfe/index.aspx\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/48/23/26/b9b6b44137a17c455e8382243a/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-482326b9-b6b4-4137-a17c-455e8382243a", 
+"uuid": "482326b9-b6b4-4137-a17c-455e8382243a", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Planning and Cadastral", 
@@ -18,18 +18,19 @@
 "Chisago County"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-482326b9-b6b4-4137-a17c-455e8382243a", 
+"dc_identifier_s": "482326b9-b6b4-4137-a17c-455e8382243a", 
 "georss_polygon_s": "45.294479 -93.142138 45.730939 -93.142138 45.730939 -92.646255 45.294479 -92.646255 45.294479 -93.142138", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Chisago County, Minnesota", 
-"Minnesota"
+"Chisago County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Chisago County"
 ], 
-"layer_id_s": "urn:urn-482326b9-b6b4-4137-a17c-455e8382243a", 
+"layer_id_s": "482326b9-b6b4-4137-a17c-455e8382243a", 
 "georss_box_s": "45.294479 -93.142138 45.730939 -92.646255", 
 "dc_title_s": "Zoning Townships: Chisago County, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-482326b9-b6b4-4137-a17c-455e8382243a"
+"layer_slug_s": "482326b9-b6b4-4137-a17c-455e8382243a", 
+"dct_isPartOf_sm": "Chisago County GIS Data"
 }

@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Point", 
-"layer_modified_dt": "2016-09-28T10:54:20Z", 
+"layer_modified_dt": "2016-12-30T13:41:23Z", 
 "solr_geom": "ENVELOPE(-93.3291043263357, -93.1985841479154, 45.0511549836418, 44.8898032927898)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/04ca9342f78d4ded96fc1e0fca1ee0cd_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/311_Incidents_2013/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/04ca9342f78d4ded96fc1e0fca1ee0cd_0.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/04ca9342f78d4ded96fc1e0fca1ee0cd_0.zip\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/04ca9342f78d4ded96fc1e0fca1ee0cd_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/76/2b/c1/99df554bf4b17cb549949e8651/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/311_Incidents_2013/FeatureServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-762bc199-df55-4bf4-b17c-b549949e8651", 
+"uuid": "762bc199-df55-4bf4-b17c-b549949e8651", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Society"
@@ -17,18 +17,19 @@
 "City of Minneapolis"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-762bc199-df55-4bf4-b17c-b549949e8651", 
+"dc_identifier_s": "762bc199-df55-4bf4-b17c-b549949e8651", 
 "georss_polygon_s": "44.8898032927898 -93.3291043263357 45.0511549836418 -93.3291043263357 45.0511549836418 -93.1985841479154 44.8898032927898 -93.1985841479154 44.8898032927898 -93.3291043263357", 
 "solr_year_i": 2013, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minneapolis, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "City of Minneapolis"
 ], 
-"layer_id_s": "urn:urn-762bc199-df55-4bf4-b17c-b549949e8651", 
+"layer_id_s": "762bc199-df55-4bf4-b17c-b549949e8651", 
 "georss_box_s": "44.8898032927898 -93.3291043263357 45.0511549836418 -93.1985841479154", 
 "dc_title_s": "311 Incidents: Minneapolis, Minnesota, 2013", 
-"layer_slug_s": "Minnesota-urn-762bc199-df55-4bf4-b17c-b549949e8651"
+"layer_slug_s": "762bc199-df55-4bf4-b17c-b549949e8651", 
+"dct_isPartOf_sm": "Minneapolis Open Data"
 }

@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Polygon", 
-"layer_modified_dt": "2016-09-19T16:36:37Z", 
+"layer_modified_dt": "2016-12-30T13:41:38Z", 
 "solr_geom": "ENVELOPE(-93.8828, -93.1241, 45.2532, 44.7467)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/5e35347d7a8042278c03d9b6974c280e_3.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/ENVIRONMENT/MapServer/3\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/5e35347d7a8042278c03d9b6974c280e_3\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/5e35347d7a8042278c03d9b6974c280e_3.zip\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/5e35347d7a8042278c03d9b6974c280e_3\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/aa/57/c2/f66dbe4467ad1cec6402e45638/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/ENVIRONMENT/MapServer/3\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-aa57c2f6-6dbe-4467-ad1c-ec6402e45638", 
+"uuid": "aa57c2f6-6dbe-4467-ad1c-ec6402e45638", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Environment", 
@@ -18,18 +18,19 @@
 "Hennepin County"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-aa57c2f6-6dbe-4467-ad1c-ec6402e45638", 
+"dc_identifier_s": "aa57c2f6-6dbe-4467-ad1c-ec6402e45638", 
 "georss_polygon_s": "44.7467 -93.8828 45.2532 -93.8828 45.2532 -93.1241 44.7467 -93.1241 44.7467 -93.8828", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Hennepin County, Minnesota", 
-"Minnesota"
+"Hennepin County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Hennepin County"
 ], 
-"layer_id_s": "urn:urn-aa57c2f6-6dbe-4467-ad1c-ec6402e45638", 
+"layer_id_s": "aa57c2f6-6dbe-4467-ad1c-ec6402e45638", 
 "georss_box_s": "44.7467 -93.8828 45.2532 -93.1241", 
 "dc_title_s": "Wetland Inventory: Hennepin County, Minnesota, 2014", 
-"layer_slug_s": "Minnesota-urn-aa57c2f6-6dbe-4467-ad1c-ec6402e45638"
+"layer_slug_s": "aa57c2f6-6dbe-4467-ad1c-ec6402e45638", 
+"dct_isPartOf_sm": "Hennepin County Open Data"
 }

@@ -1,32 +1,33 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:21Z", 
+"layer_modified_dt": "2017-01-20T18:40:56Z", 
 "solr_geom": "ENVELOPE(-93.516996, -92.729862, 45.249475, 44.657284)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-mississippi-r-critical-area\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_mississippi_r_critical_area/shp_bdry_mississippi_r_critical_area.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_mississippi_r_critical_area/shp_bdry_mississippi_r_critical_area.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-mississippi-r-critical-area\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/e0/f0/87/dfd5524b68a4ed8d9639a57f0f/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-e0f087df-d552-4b68-a4ed-8d9639a57f0f", 
+"uuid": "e0f087df-d552-4b68-a4ed-8d9639a57f0f", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Boundaries"
 ], 
-"dct_temporal_sm": "2016", 
+"dct_temporal_sm": "2014", 
 "dc_description_s": "The shapefile shows the distribution and boundaries of the Mississippi River Critical Area, including its four landuse districts.", 
 "dct_issued_s": "2014-12-19T06:00:00.000Z", 
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "National Park Service"
 ], 
-"dc_identifier_s": "urn-e0f087df-d552-4b68-a4ed-8d9639a57f0f", 
+"dc_identifier_s": "e0f087df-d552-4b68-a4ed-8d9639a57f0f", 
 "georss_polygon_s": "44.657284 -93.516996 45.249475 -93.516996 45.249475 -92.729862 44.657284 -92.729862 44.657284 -93.516996", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-e0f087df-d552-4b68-a4ed-8d9639a57f0f", 
+"layer_id_s": "e0f087df-d552-4b68-a4ed-8d9639a57f0f", 
 "georss_box_s": "44.657284 -93.516996 45.249475 -92.729862", 
 "dc_title_s": "Mississippi River Critical Area Boundary and Districts: Minnesota, 2014", 
-"layer_slug_s": "Minnesota-urn-e0f087df-d552-4b68-a4ed-8d9639a57f0f"
+"layer_slug_s": "e0f087df-d552-4b68-a4ed-8d9639a57f0f", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

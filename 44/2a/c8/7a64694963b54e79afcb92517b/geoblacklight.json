@@ -1,10 +1,10 @@
 {
-"layer_geom_type_s": "Raster", 
-"layer_modified_dt": "2016-06-29T10:00:17Z", 
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2017-01-20T18:40:51Z", 
 "solr_geom": "ENVELOPE(-93.14, -92.64, 45.73, 45.29)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-geologic-atlas-chis-c22a\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-geologic-atlas-chis-c22a\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/44/2a/c8/7a64694963b54e79afcb92517b/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-442ac87a-6469-4963-b54e-79afcb92517b", 
+"uuid": "442ac87a-6469-4963-b54e-79afcb92517b", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Geoscientific Information"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Minnesota Geological Survey (MGS)"
 ], 
-"dc_identifier_s": "urn-442ac87a-6469-4963-b54e-79afcb92517b", 
-"dc_relation_sm": [
-"C-22, Part A. Geologic Atlas of Chisago County, Minnesota. Minnesota Geological Survey. April 2010. Dale R. Setterholm, Project Manager. Color. 6 plates. Scales 1:100,000 and 1:200,000. Paper map and report available from MGS Map Sales Office (2642 University Avenue, St. Paul, Minnesota, 55114, 612-627-4782.)For a listing of all geologic maps go to the Minnesota Geological Survey website at: http://www.mngs.umn.edu/mgsdocs.htmlFor a complete listing of MGS State Map Series Maps, Reports, and GIS Data, see http://conservancy.umn.edu/handle/11299/708For other County Atlas and Regional Hydrogeologic Assessment data see: http://www.mngs.umn.edu/county_atlas/countyatlas.htm For a listing of the status of the DNR Ground Water Mapping Program, go to: http://www.dnr.state.mn.us/waters/groundwater_section/mapping/index.html"
-], 
+"dc_identifier_s": "442ac87a-6469-4963-b54e-79afcb92517b", 
 "georss_polygon_s": "45.29 -93.14 45.73 -93.14 45.73 -92.64 45.29 -92.64 45.29 -93.14", 
 "solr_year_i": 2010, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Chisago County, Minnesota"
+"Minnesota, United States", 
+"Chisago County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Geological Survey"
 ], 
-"layer_id_s": "urn:urn-442ac87a-6469-4963-b54e-79afcb92517b", 
+"layer_id_s": "442ac87a-6469-4963-b54e-79afcb92517b", 
 "georss_box_s": "45.29 -93.14 45.73 -92.64", 
 "dc_title_s": "Geologic Atlas of Chisago County, Minnesota (Part A), 2010", 
-"layer_slug_s": "Minnesota-urn-442ac87a-6469-4963-b54e-79afcb92517b"
+"layer_slug_s": "442ac87a-6469-4963-b54e-79afcb92517b", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

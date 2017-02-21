@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Line", 
-"layer_modified_dt": "2016-09-19T17:03:17Z", 
+"layer_modified_dt": "2016-12-30T13:42:19Z", 
 "solr_geom": "ENVELOPE(-94.0174, -93.162, 45.2467, 44.7877)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/938c8598f0a0439a8d612bb7894a05cc_1.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/TRANSPORTATION/MapServer/1\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/938c8598f0a0439a8d612bb7894a05cc_1\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/938c8598f0a0439a8d612bb7894a05cc_1.zip\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/938c8598f0a0439a8d612bb7894a05cc_1\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/c7/13/8a/0ca780405e89121d42b85a9e55/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/TRANSPORTATION/MapServer/1\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-c7138a0c-a780-405e-8912-1d42b85a9e55", 
+"uuid": "c7138a0c-a780-405e-8912-1d42b85a9e55", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Intelligence and Military", 
@@ -18,18 +18,19 @@
 "Hennepin County"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-c7138a0c-a780-405e-8912-1d42b85a9e55", 
+"dc_identifier_s": "c7138a0c-a780-405e-8912-1d42b85a9e55", 
 "georss_polygon_s": "44.7877 -94.0174 45.2467 -94.0174 45.2467 -93.162 44.7877 -93.162 44.7877 -94.0174", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Hennepin County, Minnesota", 
-"Minnesota"
+"Hennepin County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Hennepin County"
 ], 
-"layer_id_s": "urn:urn-c7138a0c-a780-405e-8912-1d42b85a9e55", 
+"layer_id_s": "c7138a0c-a780-405e-8912-1d42b85a9e55", 
 "georss_box_s": "44.7877 -94.0174 45.2467 -93.162", 
 "dc_title_s": "Bikeway System: Hennepin County, Minnesota", 
-"layer_slug_s": "Minnesota-urn-c7138a0c-a780-405e-8912-1d42b85a9e55"
+"layer_slug_s": "c7138a0c-a780-405e-8912-1d42b85a9e55", 
+"dct_isPartOf_sm": "Hennepin County Open Data"
 }

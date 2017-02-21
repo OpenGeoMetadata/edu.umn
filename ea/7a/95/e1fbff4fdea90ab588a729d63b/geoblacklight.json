@@ -1,10 +1,10 @@
 {
-"layer_geom_type_s": "Raster", 
-"layer_modified_dt": "2016-06-29T09:59:01Z", 
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2017-01-20T18:39:12Z", 
 "solr_geom": "ENVELOPE(-95.13, -94.05, 45.79, 45.27)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-geologic-atlas-stea-c10a\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-geologic-atlas-stea-c10a\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/ea/7a/95/e1fbff4fdea90ab588a729d63b/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-ea7a95e1-fbff-4fde-a90a-b588a729d63b", 
+"uuid": "ea7a95e1-fbff-4fde-a90a-b588a729d63b", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Geoscientific Information"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Minnesota Geological Survey (MGS)"
 ], 
-"dc_identifier_s": "urn-ea7a95e1-fbff-4fde-a90a-b588a729d63b", 
-"dc_relation_sm": [
-"C-10, Part A. Geologic atlas of Stearns County, Minnesota. G.N. Meyer, project manager. 1995. Color. 7 pls. Scales 1:100,000 and 1:200,000. Plates: 1, Data-base map; 2, Bedrock geology; 3, Surfical geology; 4, Quaternary stratigraphy; 5, Depth to bedrock and thickness of Cretaceous strata; 6, Bedrock topography; 7, Geologic resources. $20.00. Map and report available from MGS Map Sales Office (2609 Territorial Road, St. Paul, Minnesota, 55114, 612-626-2969.)C-10, Part B. Geologic atlas of Stearns County, Minnesota. J. Falteisek, Minnesota Dept. of Natural Resources, Division of Waters, editor and project manager. 1998. Color. Scale 1:100,000. 3 pls. and insert. $12.00. Map and report available from MGS Map Sales Office.  Digital files available from the Department of Natural Resources (DNR).C-10, Part C. Text supplement to the Geologic Atlas of Stearns County, Minnesota. G.N. Meyer and L. Swanson, eds. 1996. 63 p. $2.50. Report available from MGS Map Sales Office.For a listing of all geologic maps go to the Minnesota Geological Survey website at: http://www.mngs.umn.edu/mgsdocs.htmlFor a complete listing of MGS State Map Series Maps, Reports, and GIS Data, see http://conservancy.umn.edu/handle/11299/708For other County Atlas and Regional Hydrogeologic Assessment data see: http://www.mngs.umn.edu/county_atlas/countyatlas.htm For a listing of the status of the Department of Natural Resources (DNR) Ground Water Mapping Program, go to: http://www.dnr.state.mn.us/waters/groundwater_section/mapping/index.html"
-], 
+"dc_identifier_s": "ea7a95e1-fbff-4fde-a90a-b588a729d63b", 
 "georss_polygon_s": "45.27 -95.13 45.79 -95.13 45.79 -94.05 45.27 -94.05 45.27 -95.13", 
 "solr_year_i": 1995, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Stearns County, Minnesota"
+"Minnesota, United States", 
+"Stearns County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Geological Survey"
 ], 
-"layer_id_s": "urn:urn-ea7a95e1-fbff-4fde-a90a-b588a729d63b", 
+"layer_id_s": "ea7a95e1-fbff-4fde-a90a-b588a729d63b", 
 "georss_box_s": "45.27 -95.13 45.79 -94.05", 
 "dc_title_s": "Geologic Atlas of Stearns County (Part A), 1995", 
-"layer_slug_s": "Minnesota-urn-ea7a95e1-fbff-4fde-a90a-b588a729d63b"
+"layer_slug_s": "ea7a95e1-fbff-4fde-a90a-b588a729d63b", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

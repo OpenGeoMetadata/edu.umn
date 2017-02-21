@@ -1,10 +1,10 @@
 {
-"layer_geom_type_s": "Raster", 
-"layer_modified_dt": "2016-06-29T09:59:14Z", 
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2017-01-20T18:39:29Z", 
 "solr_geom": "ENVELOPE(-95.75, -95.13, 45.8, 45.39)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-geologic-atlas-pope-c15a\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-geologic-atlas-pope-c15a\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/af/a9/38/a4473b4d1dbb7147d50419a62e/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-afa938a4-473b-4d1d-bb71-47d50419a62e", 
+"uuid": "afa938a4-473b-4d1d-bb71-47d50419a62e", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Geoscientific Information"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Minnesota Geological Survey (MGS)"
 ], 
-"dc_identifier_s": "urn-afa938a4-473b-4d1d-bb71-47d50419a62e", 
-"dc_relation_sm": [
-"C-15, Part A. Geologic Atlas of Pope County, Minnesota. Kenneth L. Harris, Project Manager. 2003. Color.  Scales 1:100,000 and 1:200,000. Paper map and report available from MGS Map Sales Office (2609 Territorial Road, St. Paul, Minnesota, 55114, 612-626-2969.)For a listing of all geologic maps go to the Minnesota Geological Survey website at: http://www.mngs.umn.edu/mgsdocs.htmlFor a complete listing of MGS State Map Series Maps, Reports, and GIS Data, see http://conservancy.umn.edu/handle/11299/708 For other County Atlas and Regional Hydrogeologic Assessment data see: http://www.mngs.umn.edu/county_atlas/countyatlas.htm For a listing of the status of the DNR Ground Water Mapping Program, go to: http://www.dnr.state.mn.us/waters/groundwater_section/mapping/index.html"
-], 
+"dc_identifier_s": "afa938a4-473b-4d1d-bb71-47d50419a62e", 
 "georss_polygon_s": "45.39 -95.75 45.8 -95.75 45.8 -95.13 45.39 -95.13 45.39 -95.75", 
 "solr_year_i": 2003, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Pope County, Minnesota"
+"Minnesota, United States", 
+"Pope County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Geological Survey"
 ], 
-"layer_id_s": "urn:urn-afa938a4-473b-4d1d-bb71-47d50419a62e", 
+"layer_id_s": "afa938a4-473b-4d1d-bb71-47d50419a62e", 
 "georss_box_s": "45.39 -95.75 45.8 -95.13", 
 "dc_title_s": "Geologic Atlas of Pope County, Minnesota (Part A), 2003", 
-"layer_slug_s": "Minnesota-urn-afa938a4-473b-4d1d-bb71-47d50419a62e"
+"layer_slug_s": "afa938a4-473b-4d1d-bb71-47d50419a62e", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

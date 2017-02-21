@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-09-28T11:34:56Z", 
+"layer_modified_dt": "2016-12-30T13:41:39Z", 
 "solr_geom": "ENVELOPE(-93.3291143127397, -93.2025933532949, 45.0389461595331, 44.8923411303282)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/93fb32337d274547820e4e17c3de7c56_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Neighborhood_Commercial_Nodes/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/93fb32337d274547820e4e17c3de7c56_0.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/93fb32337d274547820e4e17c3de7c56_0.zip\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/93fb32337d274547820e4e17c3de7c56_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/ac/9e/17/b47cda49c0b221570d927f0b32/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Neighborhood_Commercial_Nodes/FeatureServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-ac9e17b4-7cda-49c0-b221-570d927f0b32", 
+"uuid": "ac9e17b4-7cda-49c0-b221-570d927f0b32", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Planning and Cadastral"
@@ -17,18 +17,19 @@
 "City of Minneapolis"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-ac9e17b4-7cda-49c0-b221-570d927f0b32", 
+"dc_identifier_s": "ac9e17b4-7cda-49c0-b221-570d927f0b32", 
 "georss_polygon_s": "44.8923411303282 -93.3291143127397 45.0389461595331 -93.3291143127397 45.0389461595331 -93.2025933532949 44.8923411303282 -93.2025933532949 44.8923411303282 -93.3291143127397", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minneapolis, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "City of Minneapolis"
 ], 
-"layer_id_s": "urn:urn-ac9e17b4-7cda-49c0-b221-570d927f0b32", 
+"layer_id_s": "ac9e17b4-7cda-49c0-b221-570d927f0b32", 
 "georss_box_s": "44.8923411303282 -93.3291143127397 45.0389461595331 -93.2025933532949", 
 "dc_title_s": "Neighborhood Commercial Nodes: Minneapolis, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-ac9e17b4-7cda-49c0-b221-570d927f0b32"
+"layer_slug_s": "ac9e17b4-7cda-49c0-b221-570d927f0b32", 
+"dct_isPartOf_sm": "Minneapolis Open Data"
 }

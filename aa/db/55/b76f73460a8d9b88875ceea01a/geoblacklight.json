@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-08-19T17:50:29Z", 
+"layer_modified_dt": "2016-12-30T13:42:38Z", 
 "solr_geom": "ENVELOPE(-96.18644, -95.160211, 47.124013, 46.720103)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://www.co.becker.mn.us/online_services/GIS_data.aspx\",\"http://schema.org/downloadUrl\":\"http://gis-server.co.becker.mn.us/data/gis/shapefiles/lots.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis-server.co.becker.mn.us/data/gis/shapefiles/lots.zip\",\"http://schema.org/url\":\"http://www.co.becker.mn.us/online_services/GIS_data.aspx\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/aa/db/55/b76f73460a8d9b88875ceea01a/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-aadb55b7-6f73-460a-8d9b-88875ceea01a", 
+"uuid": "aadb55b7-6f73-460a-8d9b-88875ceea01a", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Planning and Cadastral"
@@ -17,18 +17,19 @@
 "Becker County, Minnesota"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-aadb55b7-6f73-460a-8d9b-88875ceea01a", 
+"dc_identifier_s": "aadb55b7-6f73-460a-8d9b-88875ceea01a", 
 "georss_polygon_s": "46.720103 -96.18644 47.124013 -96.18644 47.124013 -95.160211 46.720103 -95.160211 46.720103 -96.18644", 
 "solr_year_i": 2016, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Becker County, Minnesota"
+"Becker County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Becker County, Minnesota"
 ], 
-"layer_id_s": "urn:urn-aadb55b7-6f73-460a-8d9b-88875ceea01a", 
+"layer_id_s": "aadb55b7-6f73-460a-8d9b-88875ceea01a", 
 "georss_box_s": "46.720103 -96.18644 47.124013 -95.160211", 
 "dc_title_s": "Lots: Becker County, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-aadb55b7-6f73-460a-8d9b-88875ceea01a"
+"layer_slug_s": "aadb55b7-6f73-460a-8d9b-88875ceea01a", 
+"dct_isPartOf_sm": "Becker County GIS Data"
 }

@@ -1,10 +1,10 @@
 {
-"layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:58:55Z", 
+"layer_geom_type_s": "Point", 
+"layer_modified_dt": "2017-01-20T18:39:02Z", 
 "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/agri_cropland_data_layer_2007\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/agri-cropland-data-layer-2007\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/agri-cropland-data-layer-2007\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/cc/35/e2/fc07814e69b359d2d6431b98cf/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-cc35e2fc-0781-4e69-b359-d2d6431b98cf", 
+"uuid": "cc35e2fc-0781-4e69-b359-d2d6431b98cf", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Farming"
@@ -16,17 +16,18 @@
 "dc_creator_sm": [
 "National Agricultural Statistics Service (NASS), United States Department of Agriculture (USDA)"
 ], 
-"dc_identifier_s": "urn-cc35e2fc-0781-4e69-b359-d2d6431b98cf", 
+"dc_identifier_s": "cc35e2fc-0781-4e69-b359-d2d6431b98cf", 
 "georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
-"solr_year_i": 2015, 
+"solr_year_i": 2007, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Agriculture"
 ], 
-"layer_id_s": "urn:urn-cc35e2fc-0781-4e69-b359-d2d6431b98cf", 
+"layer_id_s": "cc35e2fc-0781-4e69-b359-d2d6431b98cf", 
 "georss_box_s": "43.5 -97.23 49.37 -89.53", 
 "dc_title_s": "Cropland Data Layer: Minnesota, 2007", 
-"layer_slug_s": "Minnesota-urn-cc35e2fc-0781-4e69-b359-d2d6431b98cf"
+"layer_slug_s": "cc35e2fc-0781-4e69-b359-d2d6431b98cf", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

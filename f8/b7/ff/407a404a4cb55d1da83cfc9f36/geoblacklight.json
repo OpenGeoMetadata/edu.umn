@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:57Z", 
+"layer_modified_dt": "2017-01-20T18:40:26Z", 
 "solr_geom": "ENVELOPE(-97.2, -92.28, 47.9, 45.55)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-saip-central-2013-1ft\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-saip-central-2013-1ft\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/f8/b7/ff/407a404a4cb55d1da83cfc9f36/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-f8b7ff40-7a40-4a4c-b55d-1da83cfc9f36", 
+"uuid": "f8b7ff40-7a40-4a4c-b55d-1da83cfc9f36", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Imagery and Base Maps"
@@ -16,26 +16,24 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources, Quantum Geospatial, Inc., Carlton County, Clay County, Itasca County, Mille Lacs County, Wilkin County, Fond du Lac Reservation, White Earth Reservation, and Camp Ripley Military Reservation"
 ], 
-"dc_identifier_s": "urn-f8b7ff40-7a40-4a4c-b55d-1da83cfc9f36", 
-"dc_relation_sm": [
-"For information on other air photos available for Minnesota, see: http://www.mngeo.state.mn.us/chouse/airphoto/"
-], 
+"dc_identifier_s": "f8b7ff40-7a40-4a4c-b55d-1da83cfc9f36", 
 "georss_polygon_s": "45.55 -97.2 47.9 -97.2 47.9 -92.28 45.55 -92.28 45.55 -97.2", 
 "solr_year_i": 2013, 
 "dct_spatial_sm": [
-"Minnesota, MN, Carlton, Clay, Itasca, Mille Lacs, Wilkin, Fond du Lac Reservation, White Earth Reservation, Camp Ripley Military Reservation", 
-"Minnesota", 
-"Wilkin County, Minnesota", 
-"Mille Lacs County, Minnesota", 
-"Itasca County, Minnesota", 
-"Clay County, Minnesota", 
-"Carlton County, Minnesota"
+"Minnesota, United States, MN, Carlton, United States, Clay, Itasca, Mille Lacs, Wilkin, Fond du Lac Reservation, White Earth Reservation, Camp Ripley Military Reservation", 
+"Minnesota, United States", 
+"Wilkin County, Minnesota, United States", 
+"Mille Lacs County, Minnesota, United States", 
+"Itasca County, Minnesota, United States", 
+"Clay County, Minnesota, United States", 
+"Carlton, United States County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Geospatial Information Office (MnGeo)"
 ], 
-"layer_id_s": "urn:urn-f8b7ff40-7a40-4a4c-b55d-1da83cfc9f36", 
+"layer_id_s": "f8b7ff40-7a40-4a4c-b55d-1da83cfc9f36", 
 "georss_box_s": "45.55 -97.2 47.9 -92.28", 
 "dc_title_s": "High Resolution Orthoimagery, 1 Foot Resolution: Selected Areas, Central Minnesota, Spring 2013", 
-"layer_slug_s": "Minnesota-urn-f8b7ff40-7a40-4a4c-b55d-1da83cfc9f36"
+"layer_slug_s": "f8b7ff40-7a40-4a4c-b55d-1da83cfc9f36", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

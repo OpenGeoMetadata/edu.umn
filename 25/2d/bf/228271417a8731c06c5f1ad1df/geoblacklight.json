@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Point", 
-"layer_modified_dt": "2016-09-02T14:54:54Z", 
+"layer_modified_dt": "2016-12-30T13:41:08Z", 
 "solr_geom": "ENVELOPE(-93.266839, -92.524135, 45.848379, 45.208703)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gis.chisagocounty.us/Link/SpatialData/addresses.zip\",\"http://schema.org/url\":\"http://gis.chisagocounty.us/Link/jsfe/index.aspx\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gis.chisagocounty.us/Link/SpatialData/addresses.zip\",\"http://schema.org/url\":\"http://gis.chisagocounty.us/Link/jsfe/index.aspx\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/25/2d/bf/228271417a8731c06c5f1ad1df/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-252dbf22-8271-417a-8731-c06c5f1ad1df", 
+"uuid": "252dbf22-8271-417a-8731-c06c5f1ad1df", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Location"
@@ -17,18 +17,19 @@
 "Chisago County"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-252dbf22-8271-417a-8731-c06c5f1ad1df", 
+"dc_identifier_s": "252dbf22-8271-417a-8731-c06c5f1ad1df", 
 "georss_polygon_s": "45.208703 -93.266839 45.848379 -93.266839 45.848379 -92.524135 45.208703 -92.524135 45.208703 -93.266839", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Chisago County, Minnesota", 
-"Minnesota"
+"Chisago County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Chisago County"
 ], 
-"layer_id_s": "urn:urn-252dbf22-8271-417a-8731-c06c5f1ad1df", 
+"layer_id_s": "252dbf22-8271-417a-8731-c06c5f1ad1df", 
 "georss_box_s": "45.208703 -93.266839 45.848379 -92.524135", 
 "dc_title_s": "Addresses: Chisago County, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-252dbf22-8271-417a-8731-c06c5f1ad1df"
+"layer_slug_s": "252dbf22-8271-417a-8731-c06c5f1ad1df", 
+"dct_isPartOf_sm": "Chisago County GIS Data"
 }

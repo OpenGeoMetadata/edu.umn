@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:49Z", 
+"layer_modified_dt": "2017-01-20T18:40:16Z", 
 "solr_geom": "ENVELOPE(-96.717361, -89.394166, 49.348276, 43.449311)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-lakes-surveyed-by-mndnr\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_lakes_surveyed_by_mndnr/shp_env_lakes_surveyed_by_mndnr.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_lakes_surveyed_by_mndnr/shp_env_lakes_surveyed_by_mndnr.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-lakes-surveyed-by-mndnr\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/a8/43/79/46742c41cdb4a65309b699f482/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-a8437946-742c-41cd-b4a6-5309b699f482", 
+"uuid": "a8437946-742c-41cd-b4a6-5309b699f482", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Environment"
@@ -16,17 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-a8437946-742c-41cd-b4a6-5309b699f482", 
+"dc_identifier_s": "a8437946-742c-41cd-b4a6-5309b699f482", 
 "georss_polygon_s": "43.449311 -96.717361 49.348276 -96.717361 49.348276 -89.394166 43.449311 -89.394166 43.449311 -96.717361", 
 "solr_year_i": 2006, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-a8437946-742c-41cd-b4a6-5309b699f482", 
+"layer_id_s": "a8437946-742c-41cd-b4a6-5309b699f482", 
 "georss_box_s": "43.449311 -96.717361 49.348276 -89.394166", 
 "dc_title_s": "DNR Hydrography, Fisheries Surveyed Lakes: Minnesota, 2006", 
-"layer_slug_s": "Minnesota-urn-a8437946-742c-41cd-b4a6-5309b699f482"
+"layer_slug_s": "a8437946-742c-41cd-b4a6-5309b699f482", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

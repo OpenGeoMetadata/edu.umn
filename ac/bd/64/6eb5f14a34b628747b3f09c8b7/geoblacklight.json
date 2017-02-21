@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-09-28T11:47:55Z", 
+"layer_modified_dt": "2016-12-30T13:41:14Z", 
 "solr_geom": "ENVELOPE(-93.3291357536763, -93.1936820874839, 45.051106735847, 44.8906287273661)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/d4f231795f0a4414ae8e2d8db2a45cda_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/PlanningOverlayDistricts/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/d4f231795f0a4414ae8e2d8db2a45cda_0.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/d4f231795f0a4414ae8e2d8db2a45cda_0.zip\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/d4f231795f0a4414ae8e2d8db2a45cda_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/ac/bd/64/6eb5f14a34b628747b3f09c8b7/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/PlanningOverlayDistricts/FeatureServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-acbd646e-b5f1-4a34-b628-747b3f09c8b7", 
+"uuid": "acbd646e-b5f1-4a34-b628-747b3f09c8b7", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Planning and Cadastral"
@@ -17,18 +17,19 @@
 "City of Minneapolis"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-acbd646e-b5f1-4a34-b628-747b3f09c8b7", 
+"dc_identifier_s": "acbd646e-b5f1-4a34-b628-747b3f09c8b7", 
 "georss_polygon_s": "44.8906287273661 -93.3291357536763 45.051106735847 -93.3291357536763 45.051106735847 -93.1936820874839 44.8906287273661 -93.1936820874839 44.8906287273661 -93.3291357536763", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minneapolis, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "City of Minneapolis"
 ], 
-"layer_id_s": "urn:urn-acbd646e-b5f1-4a34-b628-747b3f09c8b7", 
+"layer_id_s": "acbd646e-b5f1-4a34-b628-747b3f09c8b7", 
 "georss_box_s": "44.8906287273661 -93.3291357536763 45.051106735847 -93.1936820874839", 
 "dc_title_s": "Planning Overlay Districts: Minneapolis, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-acbd646e-b5f1-4a34-b628-747b3f09c8b7"
+"layer_slug_s": "acbd646e-b5f1-4a34-b628-747b3f09c8b7", 
+"dct_isPartOf_sm": "Minneapolis Open Data"
 }

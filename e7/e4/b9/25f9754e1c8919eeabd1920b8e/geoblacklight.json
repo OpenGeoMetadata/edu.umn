@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-09-28T11:42:53Z", 
+"layer_modified_dt": "2016-12-30T13:42:03Z", 
 "solr_geom": "ENVELOPE(-93.329242557645, -93.196906054707, 45.0514098762642, 44.9013978427304)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/8d110c659d614474839c9c0642d8974a_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/trails/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/8d110c659d614474839c9c0642d8974a_0.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/8d110c659d614474839c9c0642d8974a_0.zip\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/8d110c659d614474839c9c0642d8974a_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/e7/e4/b9/25f9754e1c8919eeabd1920b8e/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/trails/FeatureServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-e7e4b925-f975-4e1c-8919-eeabd1920b8e", 
+"uuid": "e7e4b925-f975-4e1c-8919-eeabd1920b8e", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Transportation"
@@ -17,18 +17,19 @@
 "City of Minneapolis"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-e7e4b925-f975-4e1c-8919-eeabd1920b8e", 
+"dc_identifier_s": "e7e4b925-f975-4e1c-8919-eeabd1920b8e", 
 "georss_polygon_s": "44.9013978427304 -93.329242557645 45.0514098762642 -93.329242557645 45.0514098762642 -93.196906054707 44.9013978427304 -93.196906054707 44.9013978427304 -93.329242557645", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minneapolis, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "City of Minneapolis"
 ], 
-"layer_id_s": "urn:urn-e7e4b925-f975-4e1c-8919-eeabd1920b8e", 
+"layer_id_s": "e7e4b925-f975-4e1c-8919-eeabd1920b8e", 
 "georss_box_s": "44.9013978427304 -93.329242557645 45.0514098762642 -93.196906054707", 
 "dc_title_s": "Pedestrian and Bicycle Trails: Minneapolis, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-e7e4b925-f975-4e1c-8919-eeabd1920b8e"
+"layer_slug_s": "e7e4b925-f975-4e1c-8919-eeabd1920b8e", 
+"dct_isPartOf_sm": "Minneapolis Open Data"
 }

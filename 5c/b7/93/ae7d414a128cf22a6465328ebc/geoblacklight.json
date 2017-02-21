@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:18Z", 
+"layer_modified_dt": "2017-01-20T18:40:52Z", 
 "solr_geom": "ENVELOPE(-93.0373, -93.5272, 44.5453, 44.1948)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/elev-lidar-rice2007\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/elev-lidar-rice2007\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/5c/b7/93/ae7d414a128cf22a6465328ebc/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-5cb793ae-7d41-4a12-8cf2-2a6465328ebc", 
+"uuid": "5cb793ae-7d41-4a12-8cf2-2a6465328ebc", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Elevation"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "AeroMetric, Inc."
 ], 
-"dc_identifier_s": "urn-5cb793ae-7d41-4a12-8cf2-2a6465328ebc", 
-"dc_relation_sm": [
-"Black-and-white Digital Orthophotos, Rice County, MN For more information about elevation data for Minnesota, see: http://www.mngeo.state.mn.us/chouse/elevation/index.html"
-], 
+"dc_identifier_s": "5cb793ae-7d41-4a12-8cf2-2a6465328ebc", 
 "georss_polygon_s": "44.1948 -93.0373 44.5453 -93.0373 44.5453 -93.5272 44.1948 -93.5272 44.1948 -93.0373", 
 "solr_year_i": 2007, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Rice County, Minnesota"
 ], 
-"layer_id_s": "urn:urn-5cb793ae-7d41-4a12-8cf2-2a6465328ebc", 
+"layer_id_s": "5cb793ae-7d41-4a12-8cf2-2a6465328ebc", 
 "georss_box_s": "44.1948 -93.0373 44.5453 -93.5272", 
 "dc_title_s": "LiDAR Elevation, Rice County, Minnesota, 2007", 
-"layer_slug_s": "Minnesota-urn-5cb793ae-7d41-4a12-8cf2-2a6465328ebc"
+"layer_slug_s": "5cb793ae-7d41-4a12-8cf2-2a6465328ebc", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

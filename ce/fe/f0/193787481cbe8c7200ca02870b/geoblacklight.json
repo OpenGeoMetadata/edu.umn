@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Point", 
-"layer_modified_dt": "2016-06-29T10:00:12Z", 
+"layer_modified_dt": "2017-01-20T18:40:45Z", 
 "solr_geom": "ENVELOPE(-93.329703, -92.729647, 44.923335, 44.469579)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-co-dakota-struc-physicalfeatures\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/struc_physicalfeatures/shp_struc_physicalfeatures.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/struc_physicalfeatures/shp_struc_physicalfeatures.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-co-dakota-struc-physicalfeatures\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/ce/fe/f0/193787481cbe8c7200ca02870b/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-cefef019-3787-481c-be8c-7200ca02870b", 
+"uuid": "cefef019-3787-481c-be8c-7200ca02870b", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Structure"
@@ -16,18 +16,19 @@
 "dc_creator_sm": [
 "Dakota County GIS, Dakota County GIS, Staff"
 ], 
-"dc_identifier_s": "urn-cefef019-3787-481c-be8c-7200ca02870b", 
+"dc_identifier_s": "cefef019-3787-481c-be8c-7200ca02870b", 
 "georss_polygon_s": "44.469579 -93.329703 44.923335 -93.329703 44.923335 -92.729647 44.469579 -92.729647 44.469579 -93.329703", 
 "solr_year_i": 2016, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Dakota County, Minnesota"
+"Minnesota, United States", 
+"Dakota County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Dakota County, Minnesota"
 ], 
-"layer_id_s": "urn:urn-cefef019-3787-481c-be8c-7200ca02870b", 
+"layer_id_s": "cefef019-3787-481c-be8c-7200ca02870b", 
 "georss_box_s": "44.469579 -93.329703 44.923335 -92.729647", 
 "dc_title_s": "Physical Features, Lines and Points: Dakota County, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-cefef019-3787-481c-be8c-7200ca02870b"
+"layer_slug_s": "cefef019-3787-481c-be8c-7200ca02870b", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

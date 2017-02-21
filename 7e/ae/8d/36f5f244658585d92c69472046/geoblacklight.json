@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:53Z", 
+"layer_modified_dt": "2017-01-20T18:40:20Z", 
 "solr_geom": "ENVELOPE(-97.5, -89, 49.5, 43)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-naip-2008-airphotos\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mngeo/base_naip_2008_airphotos/shp_base_naip_2008_airphotos.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mngeo/base_naip_2008_airphotos/shp_base_naip_2008_airphotos.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-naip-2008-airphotos\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/7e/ae/8d/36f5f244658585d92c69472046/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-7eae8d36-f5f2-4465-8585-d92c69472046", 
+"uuid": "7eae8d36-f5f2-4465-8585-d92c69472046", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Imagery and Base Maps"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "U.S. Department of Agriculture (USDA), Farm Service Agency (FSA), Aerial Photography Field Office (APFO)"
 ], 
-"dc_identifier_s": "urn-7eae8d36-f5f2-4465-8585-d92c69472046", 
-"dc_relation_sm": [
-"A shapefile, with its associated metadata, is included with this dataset. It shows polygons delineating the boundary between DOQQ imagery used in the creation of the county NAIP file and attributes such as the source date of the imagery.For information on other air photos available for Minnesota, including other years of NAIP imagery, see  http://www.mngeo.state.mn.us/chouse/airphoto/index.html"
-], 
+"dc_identifier_s": "7eae8d36-f5f2-4465-8585-d92c69472046", 
 "georss_polygon_s": "43 -97.5 49.5 -97.5 49.5 -89 43 -89 43 -97.5", 
 "solr_year_i": 2008, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Geospatial Information Office (MnGeo)"
 ], 
-"layer_id_s": "urn:urn-7eae8d36-f5f2-4465-8585-d92c69472046", 
+"layer_id_s": "7eae8d36-f5f2-4465-8585-d92c69472046", 
 "georss_box_s": "43 -97.5 49.5 -89", 
 "dc_title_s": "Digital Orthorectified Images (DOQ), National Agricultural Imagery Program (NAIP): Minnesota, 2008", 
-"layer_slug_s": "Minnesota-urn-7eae8d36-f5f2-4465-8585-d92c69472046"
+"layer_slug_s": "7eae8d36-f5f2-4465-8585-d92c69472046", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

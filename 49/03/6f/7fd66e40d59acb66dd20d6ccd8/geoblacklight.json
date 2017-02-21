@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:24Z", 
+"layer_modified_dt": "2017-01-20T18:41:02Z", 
 "solr_geom": "ENVELOPE(-94, -92.7, 45.4, 44.4)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-bdry-counties-and-ctus-lookup\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/bdry_counties_and_ctus_lookup/shp_bdry_counties_and_ctus_lookup.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/bdry_counties_and_ctus_lookup/shp_bdry_counties_and_ctus_lookup.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-bdry-counties-and-ctus-lookup\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/49/03/6f/7fd66e40d59acb66dd20d6ccd8/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-49036f7f-d66e-40d5-9acb-66dd20d6ccd8", 
+"uuid": "49036f7f-d66e-40d5-9acb-66dd20d6ccd8", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Boundaries"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Metropolitan Council"
 ], 
-"dc_identifier_s": "urn-49036f7f-d66e-40d5-9acb-66dd20d6ccd8", 
-"dc_relation_sm": [
-"Counties and Cities & Townships, Twin Cities Metropolitan Area"
-], 
+"dc_identifier_s": "49036f7f-d66e-40d5-9acb-66dd20d6ccd8", 
 "georss_polygon_s": "44.4 -94 45.4 -94 45.4 -92.7 44.4 -92.7 44.4 -94", 
 "solr_year_i": 2016, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-49036f7f-d66e-40d5-9acb-66dd20d6ccd8", 
+"layer_id_s": "49036f7f-d66e-40d5-9acb-66dd20d6ccd8", 
 "georss_box_s": "44.4 -94 45.4 -92.7", 
 "dc_title_s": "County, City and Township (CTU) Lookup Table: Twin Cities Metro, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-49036f7f-d66e-40d5-9acb-66dd20d6ccd8"
+"layer_slug_s": "49036f7f-d66e-40d5-9acb-66dd20d6ccd8", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

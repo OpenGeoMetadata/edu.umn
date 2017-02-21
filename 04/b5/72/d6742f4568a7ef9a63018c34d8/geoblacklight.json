@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-09-28T11:09:35Z", 
+"layer_modified_dt": "2016-12-30T13:42:01Z", 
 "solr_geom": "ENVELOPE(-93.3291083642602, -93.1896159986687, 45.0512462600492, 44.8901520021226)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/772ebcaf2ec0405ea1b156b5937593e7_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Fire_Station_Areas/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/772ebcaf2ec0405ea1b156b5937593e7_0.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/772ebcaf2ec0405ea1b156b5937593e7_0.zip\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/772ebcaf2ec0405ea1b156b5937593e7_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/04/b5/72/d6742f4568a7ef9a63018c34d8/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Fire_Station_Areas/FeatureServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-04b572d6-742f-4568-a7ef-9a63018c34d8", 
+"uuid": "04b572d6-742f-4568-a7ef-9a63018c34d8", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Boundaries"
@@ -17,18 +17,19 @@
 "City of Minneapolis"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-04b572d6-742f-4568-a7ef-9a63018c34d8", 
+"dc_identifier_s": "04b572d6-742f-4568-a7ef-9a63018c34d8", 
 "georss_polygon_s": "44.8901520021226 -93.3291083642602 45.0512462600492 -93.3291083642602 45.0512462600492 -93.1896159986687 44.8901520021226 -93.1896159986687 44.8901520021226 -93.3291083642602", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minneapolis, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "City of Minneapolis"
 ], 
-"layer_id_s": "urn:urn-04b572d6-742f-4568-a7ef-9a63018c34d8", 
+"layer_id_s": "04b572d6-742f-4568-a7ef-9a63018c34d8", 
 "georss_box_s": "44.8901520021226 -93.3291083642602 45.0512462600492 -93.1896159986687", 
 "dc_title_s": "Fire Station Areas: Minneapolis, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-04b572d6-742f-4568-a7ef-9a63018c34d8"
+"layer_slug_s": "04b572d6-742f-4568-a7ef-9a63018c34d8", 
+"dct_isPartOf_sm": "Minneapolis Open Data"
 }

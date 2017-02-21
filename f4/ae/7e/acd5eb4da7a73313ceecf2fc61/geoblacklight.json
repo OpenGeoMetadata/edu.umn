@@ -1,17 +1,17 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:59Z", 
+"layer_modified_dt": "2017-01-20T18:40:28Z", 
 "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-transitway-inc-rev-sch2040\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_transitway_inc_rev_sch2040/shp_trans_transitway_inc_rev_sch2040.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_transitway_inc_rev_sch2040/shp_trans_transitway_inc_rev_sch2040.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-transitway-inc-rev-sch2040\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/f4/ae/7e/acd5eb4da7a73313ceecf2fc61/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-f4ae7eac-d5eb-4da7-a733-13ceecf2fc61", 
+"uuid": "f4ae7eac-d5eb-4da7-a733-13ceecf2fc61", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Transportation", 
-"bus", 
-"commuter traffic", 
-"rapid transit train", 
-"transportation"
+"Bus", 
+"Transportation", 
+"Commuter traffic", 
+"Rapid transit train"
 ], 
 "dct_temporal_sm": "2016", 
 "dc_description_s": "The Increased Revenue Scenario Transitways data set was developed as part of the 2040 Transportation Policy Plan, published in Jan 2015. (see http://metrocouncil.org/tpp-update) This data can be seen on maps in the plan Figure 8 and Figure 6-9 More info about how this data were developed can be found in Chapter 6: Transit Investment Direction and Plan. (http://metrocouncil.org/Transportation/Planning-2/Key-Transportation-Planning-Documents/Transportation-Policy-Plan-(1)/The-Adopted-2040-TPP-(1)/Final-2040-Transportation-Policy-Plan/2040-TPP-Chapter-6-Transit-Investment-Direction-an.aspx) This data are for planning purposes and should be used at a regional level. Actual corridor alignment is still being developed. Data subject to any amendments of the TPP. Please use the layer file provided to symbolize this data. The data determinations were made on a subjective basis by managers at Metropolitan Transportation Services and Metro Transit.", 
@@ -20,18 +20,19 @@
 "dc_creator_sm": [
 "Metropolitan Transportation Services - Metropolitan Council"
 ], 
-"dc_identifier_s": "urn-f4ae7eac-d5eb-4da7-a733-13ceecf2fc61", 
+"dc_identifier_s": "f4ae7eac-d5eb-4da7-a733-13ceecf2fc61", 
 "georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
-"solr_year_i": 2015, 
+"solr_year_i": 2016, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-f4ae7eac-d5eb-4da7-a733-13ceecf2fc61", 
+"layer_id_s": "f4ae7eac-d5eb-4da7-a733-13ceecf2fc61", 
 "georss_box_s": "44.471 -94.012 45.415 -92.732", 
 "dc_title_s": "Transitways: 2040 Increased Revenue Scenario: Twin Cities Metro, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-f4ae7eac-d5eb-4da7-a733-13ceecf2fc61"
+"layer_slug_s": "f4ae7eac-d5eb-4da7-a733-13ceecf2fc61", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

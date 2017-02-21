@@ -1,14 +1,14 @@
 {
 "layer_geom_type_s": "Polygon", 
-"layer_modified_dt": "2016-08-17T12:57:53Z", 
+"layer_modified_dt": "2016-12-30T13:41:46Z", 
 "solr_geom": "ENVELOPE(-94.0129, -93.5194, 44.9788, 44.6347)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/7bfd682ca3124a47a51b714a5542b52a_3.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.carver.mn.us/arcgis_ea/rest/services/OpenAccess/CC_Administrative/MapServer/3\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/7bfd682ca3124a47a51b714a5542b52a_3\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/7bfd682ca3124a47a51b714a5542b52a_3.zip\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/7bfd682ca3124a47a51b714a5542b52a_3\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/8e/da/47/da517a4cbd95ce9d0f23beb30a/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.carver.mn.us/arcgis_ea/rest/services/OpenAccess/CC_Administrative/MapServer/3\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-8eda47da-517a-4cbd-95ce-9d0f23beb30a", 
+"uuid": "8eda47da-517a-4cbd-95ce-9d0f23beb30a", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Location", 
-"election districts"
+"Election districts"
 ], 
 "dct_temporal_sm": "2014-2015", 
 "dc_description_s": "Carver County commissioner districts.", 
@@ -18,18 +18,19 @@
 "Carver County, Minnesota"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-8eda47da-517a-4cbd-95ce-9d0f23beb30a", 
+"dc_identifier_s": "8eda47da-517a-4cbd-95ce-9d0f23beb30a", 
 "georss_polygon_s": "44.6347 -94.0129 44.9788 -94.0129 44.9788 -93.5194 44.6347 -93.5194 44.6347 -94.0129", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Carver County, Minnesota", 
-"Minnesota"
+"Carver County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Carver County, Minnesota"
 ], 
-"layer_id_s": "urn:urn-8eda47da-517a-4cbd-95ce-9d0f23beb30a", 
+"layer_id_s": "8eda47da-517a-4cbd-95ce-9d0f23beb30a", 
 "georss_box_s": "44.6347 -94.0129 44.9788 -93.5194", 
 "dc_title_s": "Commissioner Districts: Carver County, Minnesota, 2014", 
-"layer_slug_s": "Minnesota-urn-8eda47da-517a-4cbd-95ce-9d0f23beb30a"
+"layer_slug_s": "8eda47da-517a-4cbd-95ce-9d0f23beb30a", 
+"dct_isPartOf_sm": "Carver County Open Data"
 }

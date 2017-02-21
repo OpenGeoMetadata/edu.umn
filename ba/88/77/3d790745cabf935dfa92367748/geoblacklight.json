@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:41Z", 
+"layer_modified_dt": "2017-01-20T18:40:06Z", 
 "solr_geom": "ENVELOPE(-93.92, -93.27, 44.82, 44.54)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-scott-2013-airphotos\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-scott-2013-airphotos\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/ba/88/77/3d790745cabf935dfa92367748/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-ba88773d-7907-45ca-bf93-5dfa92367748", 
+"uuid": "ba88773d-7907-45ca-bf93-5dfa92367748", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Imagery and Base Maps"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Scott County, Minnesota"
 ], 
-"dc_identifier_s": "urn-ba88773d-7907-45ca-bf93-5dfa92367748", 
-"dc_relation_sm": [
-"For information on other air photos available for Minnesota, see http://www.mngeo.state.mn.us/chouse/airphoto/index.html"
-], 
+"dc_identifier_s": "ba88773d-7907-45ca-bf93-5dfa92367748", 
 "georss_polygon_s": "44.54 -93.92 44.82 -93.92 44.82 -93.27 44.54 -93.27 44.54 -93.92", 
 "solr_year_i": 2013, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Scott County, Minnesota"
+"Minnesota, United States", 
+"Scott County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Geospatial Information Office (MnGeo)"
 ], 
-"layer_id_s": "urn:urn-ba88773d-7907-45ca-bf93-5dfa92367748", 
+"layer_id_s": "ba88773d-7907-45ca-bf93-5dfa92367748", 
 "georss_box_s": "44.54 -93.92 44.82 -93.27", 
 "dc_title_s": "High Resolution Orthoimagery: Scott County, Minnesota, Spring 2013", 
-"layer_slug_s": "Minnesota-urn-ba88773d-7907-45ca-bf93-5dfa92367748"
+"layer_slug_s": "ba88773d-7907-45ca-bf93-5dfa92367748", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

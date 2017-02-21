@@ -1,35 +1,34 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:39Z", 
+"layer_modified_dt": "2017-01-20T18:40:02Z", 
 "solr_geom": "ENVELOPE(-94.022081, -92.74902, 45.392369, 44.467198)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-agri-agricultural-preserves2003\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/agri_agricultural_preserves2003/shp_agri_agricultural_preserves2003.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/agri_agricultural_preserves2003/shp_agri_agricultural_preserves2003.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-agri-agricultural-preserves2003\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/7c/d5/5e/2e9fe0413b8b097b5b9b9051bc/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-7cd55e2e-9fe0-413b-8b09-7b5b9b9051bc", 
+"uuid": "7cd55e2e-9fe0-413b-8b09-7b5b9b9051bc", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Farming"
 ], 
-"dc_format_s": "Shapefile", 
+"dct_temporal_sm": "2003", 
 "dc_description_s": "This dataset includes parcels that are enrolled in the Metropolitan Agricultural Preserves Act, Minnesota Statute 473H. The goal of this act is to encourage preservation of agricultural lands by providing a package of benefits to keep land in long-term agricultural use. At the request of the Metropolitan Council, a table is created by each county to reflect the status of parcels in the program at the end of each calendar year. The Council links these tables to the MetroGIS Regional Parcel Dataset to creates a shape file of Agricultural Preserves.", 
 "dct_issued_s": "2004-03-19", 
+"dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Metropolitan Council"
 ], 
-"dc_identifier_s": "urn-7cd55e2e-9fe0-413b-8b09-7b5b9b9051bc", 
-"dc_relation_sm": [
-"Agricultural Preserves (other years), Regional Parcel Dataset (Licensed) - Seven County Twin Cities Metropolitan Area"
-], 
+"dc_identifier_s": "7cd55e2e-9fe0-413b-8b09-7b5b9b9051bc", 
 "georss_polygon_s": "44.467198 -94.022081 45.392369 -94.022081 45.392369 -92.74902 44.467198 -92.74902 44.467198 -94.022081", 
-"solr_year_i": 2004, 
+"solr_year_i": 2003, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-7cd55e2e-9fe0-413b-8b09-7b5b9b9051bc", 
+"layer_id_s": "7cd55e2e-9fe0-413b-8b09-7b5b9b9051bc", 
 "georss_box_s": "44.467198 -94.022081 45.392369 -92.74902", 
 "dc_title_s": "Agricultural Preserves: Twin Cities Metro, Minnesota, 2003", 
-"layer_slug_s": "Minnesota-urn-7cd55e2e-9fe0-413b-8b09-7b5b9b9051bc"
+"layer_slug_s": "7cd55e2e-9fe0-413b-8b09-7b5b9b9051bc", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

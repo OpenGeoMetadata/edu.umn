@@ -1,14 +1,14 @@
 {
 "layer_geom_type_s": "Polygon", 
-"layer_modified_dt": "2016-08-17T12:58:08Z", 
+"layer_modified_dt": "2016-12-30T13:42:00Z", 
 "solr_geom": "ENVELOPE(-93.6319, -93.5105, 44.8925, 44.7955)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/872210523ba04a86bd2896622b7b7865_5.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.carver.mn.us/arcgis_ea/rest/services/OpenAccess/CC_OpenDataStandards/MapServer/5\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/872210523ba04a86bd2896622b7b7865_5\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/872210523ba04a86bd2896622b7b7865_5.zip\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/872210523ba04a86bd2896622b7b7865_5\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/16/4e/ea/81a02f42e195ef37ed4a8ff87b/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.carver.mn.us/arcgis_ea/rest/services/OpenAccess/CC_OpenDataStandards/MapServer/5\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-164eea81-a02f-42e1-95ef-37ed4a8ff87b", 
+"uuid": "164eea81-a02f-42e1-95ef-37ed4a8ff87b", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Planning and Cadastral", 
-"zoning"
+"Zoning"
 ], 
 "dct_temporal_sm": "2016", 
 "dc_description_s": "The zoning layer is maintained by the city of Chanhassen.", 
@@ -18,19 +18,20 @@
 "Carver County, Minnesota"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-164eea81-a02f-42e1-95ef-37ed4a8ff87b", 
+"dc_identifier_s": "164eea81-a02f-42e1-95ef-37ed4a8ff87b", 
 "georss_polygon_s": "44.7955 -93.6319 44.8925 -93.6319 44.8925 -93.5105 44.7955 -93.5105 44.7955 -93.6319", 
 "solr_year_i": 2016, 
 "dct_spatial_sm": [
-"Carver County, Minnesota", 
-"Minnesota", 
-"Chanhassen, Minnesota"
+"Chanhassen, Minnesota, United States", 
+"Carver County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Carver County, Minnesota"
 ], 
-"layer_id_s": "urn:urn-164eea81-a02f-42e1-95ef-37ed4a8ff87b", 
+"layer_id_s": "164eea81-a02f-42e1-95ef-37ed4a8ff87b", 
 "georss_box_s": "44.7955 -93.6319 44.8925 -93.5105", 
 "dc_title_s": "Zoning: Carver County, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-164eea81-a02f-42e1-95ef-37ed4a8ff87b"
+"layer_slug_s": "164eea81-a02f-42e1-95ef-37ed4a8ff87b", 
+"dct_isPartOf_sm": "Carver County Open Data"
 }

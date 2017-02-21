@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:57Z", 
+"layer_modified_dt": "2017-01-20T18:40:25Z", 
 "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-econ-fare-retailer\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/econ_fare_retailer/shp_econ_fare_retailer.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/econ_fare_retailer/shp_econ_fare_retailer.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-econ-fare-retailer\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/b1/2c/af/ad68a94e7697c09f0c38471faa/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-b12cafad-68a9-4e76-97c0-9f0c38471faa", 
+"uuid": "b12cafad-68a9-4e76-97c0-9f0c38471faa", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Economy"
@@ -16,18 +16,19 @@
 "dc_creator_sm": [
 "Metropolitan Council - Metro Transit"
 ], 
-"dc_identifier_s": "urn-b12cafad-68a9-4e76-97c0-9f0c38471faa", 
+"dc_identifier_s": "b12cafad-68a9-4e76-97c0-9f0c38471faa", 
 "georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-b12cafad-68a9-4e76-97c0-9f0c38471faa", 
+"layer_id_s": "b12cafad-68a9-4e76-97c0-9f0c38471faa", 
 "georss_box_s": "44.471 -94.012 45.415 -92.732", 
 "dc_title_s": "Metro Transit Fare Retailer Locations: Twin Cities Metro, Minnesota, 2014", 
-"layer_slug_s": "Minnesota-urn-b12cafad-68a9-4e76-97c0-9f0c38471faa"
+"layer_slug_s": "b12cafad-68a9-4e76-97c0-9f0c38471faa", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-09-15T11:53:53Z", 
+"layer_modified_dt": "2017-01-20T18:41:03Z", 
 "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-plan-growth-mgmt-policy-area1996\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Planning_Development/MapServer/13\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/plan_growth_mgmt_policy_area1996/shp_plan_growth_mgmt_policy_area1996.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/plan_growth_mgmt_policy_area1996/shp_plan_growth_mgmt_policy_area1996.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-plan-growth-mgmt-policy-area1996\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/08/d0/05/4444ae426cb069aebd70a6fc67/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Planning_Development/MapServer/13\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-08d00544-44ae-426c-b069-aebd70a6fc67", 
+"uuid": "08d00544-44ae-426c-b069-aebd70a6fc67", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Planning and Cadastral"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Metropolitan Council"
 ], 
-"dc_identifier_s": "urn-08d00544-44ae-426c-b069-aebd70a6fc67", 
-"dc_relation_sm": [
-"1990 Generalized Land Use in Generalized Land Use - Historical 1984, 1990, 1997, 2000, 2005, and 2010 for the Twin Cities Metropolitan Area"
-], 
+"dc_identifier_s": "08d00544-44ae-426c-b069-aebd70a6fc67", 
 "georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
 "solr_year_i": 1996, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-08d00544-44ae-426c-b069-aebd70a6fc67", 
+"layer_id_s": "08d00544-44ae-426c-b069-aebd70a6fc67", 
 "georss_box_s": "44.471 -94.012 45.415 -92.732", 
 "dc_title_s": "Growth Management Policy Areas: Twin Cities Metro, Minnesota, 1996", 
-"layer_slug_s": "Minnesota-urn-08d00544-44ae-426c-b069-aebd70a6fc67"
+"layer_slug_s": "08d00544-44ae-426c-b069-aebd70a6fc67", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

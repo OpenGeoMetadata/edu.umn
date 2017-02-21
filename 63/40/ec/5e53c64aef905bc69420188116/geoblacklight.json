@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:52Z", 
+"layer_modified_dt": "2017-01-20T18:40:20Z", 
 "solr_geom": "ENVELOPE(-92.732, -91.532, 45.415, 44.471)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-util-liquid-waste-rec-disp-sites\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Utilities/MapServer/1\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/util_liquid_waste_rec_disp_sites/shp_util_liquid_waste_rec_disp_sites.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/util_liquid_waste_rec_disp_sites/shp_util_liquid_waste_rec_disp_sites.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-util-liquid-waste-rec-disp-sites\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/63/40/ec/5e53c64aef905bc69420188116/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Utilities/MapServer/1\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-6340ec5e-53c6-4aef-905b-c69420188116", 
+"uuid": "6340ec5e-53c6-4aef-905b-c69420188116", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Utilities and Communication"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Metropolitan Council"
 ], 
-"dc_identifier_s": "urn-6340ec5e-53c6-4aef-905b-c69420188116", 
-"dc_relation_sm": [
-"MCES Industrial Discharge Permits, Temporary and Planning Meters, Sewer Interceptor System (Limited Attributes)"
-], 
+"dc_identifier_s": "6340ec5e-53c6-4aef-905b-c69420188116", 
 "georss_polygon_s": "44.471 -92.732 45.415 -92.732 45.415 -91.532 44.471 -91.532 44.471 -92.732", 
 "solr_year_i": 2010, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-6340ec5e-53c6-4aef-905b-c69420188116", 
+"layer_id_s": "6340ec5e-53c6-4aef-905b-c69420188116", 
 "georss_box_s": "44.471 -92.732 45.415 -91.532", 
 "dc_title_s": "Liquid Waste Receiving Disposal Sites: Twin Cities Metro, Minnesota, 2010", 
-"layer_slug_s": "Minnesota-urn-6340ec5e-53c6-4aef-905b-c69420188116"
+"layer_slug_s": "6340ec5e-53c6-4aef-905b-c69420188116", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

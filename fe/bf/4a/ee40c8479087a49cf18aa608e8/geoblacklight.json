@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:17Z", 
+"layer_modified_dt": "2017-01-20T18:39:32Z", 
 "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-anlys-zones-legacy-curent\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_anlys_zones_legacy_curent/shp_trans_anlys_zones_legacy_curent.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_anlys_zones_legacy_curent/shp_trans_anlys_zones_legacy_curent.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-anlys-zones-legacy-curent\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/fe/bf/4a/ee40c8479087a49cf18aa608e8/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-febf4aee-40c8-4790-87a4-9cf18aa608e8", 
+"uuid": "febf4aee-40c8-4790-87a4-9cf18aa608e8", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Transportation"
@@ -16,18 +16,19 @@
 "dc_creator_sm": [
 "Metropolitan Council"
 ], 
-"dc_identifier_s": "urn-febf4aee-40c8-4790-87a4-9cf18aa608e8", 
+"dc_identifier_s": "febf4aee-40c8-4790-87a4-9cf18aa608e8", 
 "georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
 "solr_year_i": 2016, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-febf4aee-40c8-4790-87a4-9cf18aa608e8", 
+"layer_id_s": "febf4aee-40c8-4790-87a4-9cf18aa608e8", 
 "georss_box_s": "44.471 -94.012 45.415 -92.732", 
 "dc_title_s": "Transportation Analysis Zones (Legacy TAZ System w/1,568 Zones) with Current Forecasts: Twin Cities Metro, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-febf4aee-40c8-4790-87a4-9cf18aa608e8"
+"layer_slug_s": "febf4aee-40c8-4790-87a4-9cf18aa608e8", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

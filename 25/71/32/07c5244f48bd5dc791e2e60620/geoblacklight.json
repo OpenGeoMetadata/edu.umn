@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-08-17T17:09:46Z", 
+"layer_modified_dt": "2017-01-20T18:40:11Z", 
 "solr_geom": "ENVELOPE(-97.269688, -89.397194, 49.403805, 43.435423)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-school-district-boundaries\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mde/bdry_school_district_boundaries/shp_bdry_school_district_boundaries.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mde/bdry_school_district_boundaries/shp_bdry_school_district_boundaries.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-school-district-boundaries\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/25/71/32/07c5244f48bd5dc791e2e60620/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-25713207-c524-4f48-bd5d-c791e2e60620", 
+"uuid": "25713207-c524-4f48-bd5d-c791e2e60620", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Boundaries"
@@ -15,20 +15,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Education"
 ], 
-"dc_identifier_s": "urn-25713207-c524-4f48-bd5d-c791e2e60620", 
-"dc_relation_sm": [
-"See related school datasets at:          http://www.mngeo.state.mn.us/chouse/metalong.html#admin"
-], 
+"dc_identifier_s": "25713207-c524-4f48-bd5d-c791e2e60620", 
 "georss_polygon_s": "43.435423 -97.269688 49.403805 -97.269688 49.403805 -89.397194 43.435423 -89.397194 43.435423 -97.269688", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Education"
 ], 
-"layer_id_s": "urn:urn-25713207-c524-4f48-bd5d-c791e2e60620", 
+"layer_id_s": "25713207-c524-4f48-bd5d-c791e2e60620", 
 "georss_box_s": "43.435423 -97.269688 49.403805 -89.397194", 
 "dc_title_s": "School District Boundaries: Minnesota, SY2015-2016", 
-"layer_slug_s": "Minnesota-urn-25713207-c524-4f48-bd5d-c791e2e60620"
+"layer_slug_s": "25713207-c524-4f48-bd5d-c791e2e60620", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

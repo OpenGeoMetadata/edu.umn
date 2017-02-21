@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Point", 
-"layer_modified_dt": "2016-09-28T12:19:58Z", 
+"layer_modified_dt": "2016-12-30T13:41:48Z", 
 "solr_geom": "ENVELOPE(-93.2780137110287, -93.2101956396994, 44.9834979572076, 44.9123677580963)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/55a4601b78404583be59165006da9ad8_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Transit_Stations/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/55a4601b78404583be59165006da9ad8_0.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/55a4601b78404583be59165006da9ad8_0.zip\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/55a4601b78404583be59165006da9ad8_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/54/17/71/e529934956aec638bd11dfb8ad/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Transit_Stations/FeatureServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-541771e5-2993-4956-aec6-38bd11dfb8ad", 
+"uuid": "541771e5-2993-4956-aec6-38bd11dfb8ad", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Transportation"
@@ -17,18 +17,19 @@
 "City of Minneapolis"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-541771e5-2993-4956-aec6-38bd11dfb8ad", 
+"dc_identifier_s": "541771e5-2993-4956-aec6-38bd11dfb8ad", 
 "georss_polygon_s": "44.9123677580963 -93.2780137110287 44.9834979572076 -93.2780137110287 44.9834979572076 -93.2101956396994 44.9123677580963 -93.2101956396994 44.9123677580963 -93.2780137110287", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minneapolis, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "City of Minneapolis"
 ], 
-"layer_id_s": "urn:urn-541771e5-2993-4956-aec6-38bd11dfb8ad", 
+"layer_id_s": "541771e5-2993-4956-aec6-38bd11dfb8ad", 
 "georss_box_s": "44.9123677580963 -93.2780137110287 44.9834979572076 -93.2101956396994", 
 "dc_title_s": "Transit Stations: Minneapolis, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-541771e5-2993-4956-aec6-38bd11dfb8ad"
+"layer_slug_s": "541771e5-2993-4956-aec6-38bd11dfb8ad", 
+"dct_isPartOf_sm": "Minneapolis Open Data"
 }

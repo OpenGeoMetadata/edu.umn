@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Line", 
-"layer_modified_dt": "2016-09-21T16:45:39Z", 
+"layer_modified_dt": "2016-12-30T13:41:33Z", 
 "solr_geom": "ENVELOPE(-93.2341, -92.9782, 45.125, 44.8829)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/520ada3c690146c8a1dc4180c96bdada_20.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/20\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/520ada3c690146c8a1dc4180c96bdada_20\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/520ada3c690146c8a1dc4180c96bdada_20.zip\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/520ada3c690146c8a1dc4180c96bdada_20\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/e0/3f/8a/3fd2344d7aa9ab43ea29578c6a/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/20\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-e03f8a3f-d234-4d7a-a9ab-43ea29578c6a", 
+"uuid": "e03f8a3f-d234-4d7a-a9ab-43ea29578c6a", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Utilities and Communication"
@@ -17,18 +17,19 @@
 "Map Portal"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-e03f8a3f-d234-4d7a-a9ab-43ea29578c6a", 
+"dc_identifier_s": "e03f8a3f-d234-4d7a-a9ab-43ea29578c6a", 
 "georss_polygon_s": "44.8829 -93.2341 45.125 -93.2341 45.125 -92.9782 44.8829 -92.9782 44.8829 -93.2341", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Ramsey County, Minnesota", 
-"Minnesota"
+"Ramsey County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "OpenRamsey"
 ], 
-"layer_id_s": "urn:urn-e03f8a3f-d234-4d7a-a9ab-43ea29578c6a", 
+"layer_id_s": "e03f8a3f-d234-4d7a-a9ab-43ea29578c6a", 
 "georss_box_s": "44.8829 -93.2341 45.125 -92.9782", 
 "dc_title_s": "Railroads: Ramsey County, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-e03f8a3f-d234-4d7a-a9ab-43ea29578c6a"
+"layer_slug_s": "e03f8a3f-d234-4d7a-a9ab-43ea29578c6a", 
+"dct_isPartOf_sm": "Open Ramsey County"
 }

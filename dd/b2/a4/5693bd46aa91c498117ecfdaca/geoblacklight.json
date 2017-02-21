@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:58:54Z", 
+"layer_modified_dt": "2017-01-20T18:39:02Z", 
 "solr_geom": "ENVELOPE(-95.14, -94.65, 46.38, 45.76)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-geologic-atlas-todd-c18a\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-geologic-atlas-todd-c18a\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/dd/b2/a4/5693bd46aa91c498117ecfdaca/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-ddb2a456-93bd-46aa-91c4-98117ecfdaca", 
+"uuid": "ddb2a456-93bd-46aa-91c4-98117ecfdaca", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Geoscientific Information"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Minnesota Geological Survey (MGS)"
 ], 
-"dc_identifier_s": "urn-ddb2a456-93bd-46aa-91c4-98117ecfdaca", 
-"dc_relation_sm": [
-"C-18, Part A. Geologic Atlas of Todd County, Minnesota. Dale R. Setterholm, Project Manager. March 2007. Color. 6 plates. Scales 1:100,000 and 1:200,000. Paper map and report available from MGS Map Sales Office (2609 Territorial Road, St. Paul, Minnesota, 55114, 612-626-2969.)For a listing of all geologic maps go to the Minnesota Geological Survey website at: http://www.mngs.umn.edu/mgsdocs.htmlFor a complete listing of MGS State Map Series Maps, Reports, and GIS Data, see http://conservancy.umn.edu/handle/11299/708For other County Atlas and Regional Hydrogeologic Assessment data see: http://www.mngs.umn.edu/county_atlas/countyatlas.htm For a listing of the status of the Department of Natural Resources (DNR) Ground Water Mapping Program, go to: http://www.dnr.state.mn.us/waters/groundwater_section/mapping/index.html"
-], 
+"dc_identifier_s": "ddb2a456-93bd-46aa-91c4-98117ecfdaca", 
 "georss_polygon_s": "45.76 -95.14 46.38 -95.14 46.38 -94.65 45.76 -94.65 45.76 -95.14", 
 "solr_year_i": 2007, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Todd County, Minnesota"
+"Minnesota, United States", 
+"Todd County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Geological Survey"
 ], 
-"layer_id_s": "urn:urn-ddb2a456-93bd-46aa-91c4-98117ecfdaca", 
+"layer_id_s": "ddb2a456-93bd-46aa-91c4-98117ecfdaca", 
 "georss_box_s": "45.76 -95.14 46.38 -94.65", 
 "dc_title_s": "Geologic Atlas of Todd County, Minnesota (Part A), 2007", 
-"layer_slug_s": "Minnesota-urn-ddb2a456-93bd-46aa-91c4-98117ecfdaca"
+"layer_slug_s": "ddb2a456-93bd-46aa-91c4-98117ecfdaca", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

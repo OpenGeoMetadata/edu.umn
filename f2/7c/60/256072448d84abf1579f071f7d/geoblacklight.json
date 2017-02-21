@@ -1,36 +1,34 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:13Z", 
+"layer_modified_dt": "2017-01-26T14:50:52Z", 
 "solr_geom": "ENVELOPE(-94.581, -91.719, 45.628, 44.385)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-park-and-ride-lots\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/services/MetroGIS/Transportation/MapServer\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_park_and_ride_lots/shp_trans_park_and_ride_lots.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_park_and_ride_lots/shp_trans_park_and_ride_lots.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-park-and-ride-lots\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/f2/7c/60/256072448d84abf1579f071f7d/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-f27c6025-6072-448d-84ab-f1579f071f7d", 
+"uuid": "f27c6025-6072-448d-84ab-f1579f071f7d", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Transportation"
 ], 
 "dct_temporal_sm": "2016", 
 "dc_description_s": "The Park-and-Ride layer contains the 196 existing and future park-and-ride lots in the Twin Cities Metropolitan area. The dataset was geocoded using TLG centerline streets. When specific site details were available, the geography was moved off the street lines to the actual lot locations using 2005 Markhurd orthophotography as a base layer. All attempts were made to correctly reflect the real lot locations; however, the positional accuracy of this data cannot be guaranteed. Attribute information is considered current to the metadata date and will be updated as needed.", 
-"dct_issued_s": "2016-01-14T06:00:00.000Z", 
+"dct_issued_s": "2016-01-11T06:00:00Z", 
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Metro Transit"
 ], 
-"dc_identifier_s": "urn-f27c6025-6072-448d-84ab-f1579f071f7d", 
-"dc_relation_sm": [
-"Transit Centers, Transit Stops, Transit Routes"
-], 
+"dc_identifier_s": "f27c6025-6072-448d-84ab-f1579f071f7d", 
 "georss_polygon_s": "44.385 -94.581 45.628 -94.581 45.628 -91.719 44.385 -91.719 44.385 -94.581", 
 "solr_year_i": 2016, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-f27c6025-6072-448d-84ab-f1579f071f7d", 
+"layer_id_s": "f27c6025-6072-448d-84ab-f1579f071f7d", 
 "georss_box_s": "44.385 -94.581 45.628 -91.719", 
 "dc_title_s": "Park and Ride Lots: Twin Cities Metro, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-f27c6025-6072-448d-84ab-f1579f071f7d"
+"layer_slug_s": "f27c6025-6072-448d-84ab-f1579f071f7d", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

@@ -1,15 +1,18 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:12Z", 
+"layer_modified_dt": "2017-01-20T18:40:45Z", 
 "solr_geom": "ENVELOPE(-92.370946, -89.892698, 47.985475, 46.654873)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/trans-superior-hiking-trail\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/trans_superior_hiking_trail/shp_trans_superior_hiking_trail.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/trans_superior_hiking_trail/shp_trans_superior_hiking_trail.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/trans-superior-hiking-trail\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/10/f4/31/9fdfea494abb3421208a4b2c72/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-10f4319f-dfea-494a-bb34-21208a4b2c72", 
+"uuid": "10f4319f-dfea-494a-bb34-21208a4b2c72", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Transportation", 
-"recreation", 
-"hiking trail"
+"Recreation", 
+"Hiking trail", 
+"Trails", 
+"Backpacking", 
+"Hiking"
 ], 
 "dct_temporal_sm": "2016", 
 "dc_description_s": "Superior Hiking Trail main trail, spurs, and campsite spurs for completed trail throughout Cook, Lake, St. Louis and Carlton counties. These data were collected with high-quality, realtime differentially corrected GPS units. This project was funded in part under the Coastal Zone Management Act, by NOAA's Office of Ocean and Coastal Resource Management, in conjunction with Minnesota's Lake Superior Coastal Program.", 
@@ -18,20 +21,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-10f4319f-dfea-494a-bb34-21208a4b2c72", 
-"dc_relation_sm": [
-""
-], 
+"dc_identifier_s": "10f4319f-dfea-494a-bb34-21208a4b2c72", 
 "georss_polygon_s": "46.654873 -92.370946 47.985475 -92.370946 47.985475 -89.892698 46.654873 -89.892698 46.654873 -92.370946", 
 "solr_year_i": 2016, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-10f4319f-dfea-494a-bb34-21208a4b2c72", 
+"layer_id_s": "10f4319f-dfea-494a-bb34-21208a4b2c72", 
 "georss_box_s": "46.654873 -92.370946 47.985475 -89.892698", 
 "dc_title_s": "Superior Hiking Trail: Northeastern Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-10f4319f-dfea-494a-bb34-21208a4b2c72"
+"layer_slug_s": "10f4319f-dfea-494a-bb34-21208a4b2c72", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

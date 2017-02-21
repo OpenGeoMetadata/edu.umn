@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Polygon", 
-"layer_modified_dt": "2016-09-19T17:05:41Z", 
+"layer_modified_dt": "2016-12-30T13:41:12Z", 
 "solr_geom": "ENVELOPE(-93.7727, -93.1766, 45.2471, 44.783)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/fd527cfaa7d645fd95631eb658cec4fa_12.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/BOUNDARIES/MapServer/12\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/fd527cfaa7d645fd95631eb658cec4fa_12\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/fd527cfaa7d645fd95631eb658cec4fa_12.zip\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/fd527cfaa7d645fd95631eb658cec4fa_12\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/85/a4/5f/eeca41477b8619c6ebc1620693/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/BOUNDARIES/MapServer/12\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-85a45fee-ca41-477b-8619-c6ebc1620693", 
+"uuid": "85a45fee-ca41-477b-8619-c6ebc1620693", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Boundaries"
@@ -17,18 +17,19 @@
 "Hennepin County"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-85a45fee-ca41-477b-8619-c6ebc1620693", 
+"dc_identifier_s": "85a45fee-ca41-477b-8619-c6ebc1620693", 
 "georss_polygon_s": "44.783 -93.7727 45.2471 -93.7727 45.2471 -93.1766 44.783 -93.1766 44.783 -93.7727", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Hennepin County, Minnesota", 
-"Minnesota"
+"Hennepin County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Hennepin County"
 ], 
-"layer_id_s": "urn:urn-85a45fee-ca41-477b-8619-c6ebc1620693", 
+"layer_id_s": "85a45fee-ca41-477b-8619-c6ebc1620693", 
 "georss_box_s": "44.783 -93.7727 45.2471 -93.1766", 
 "dc_title_s": "Zip Codes: Hennepin County, Minnesota", 
-"layer_slug_s": "Minnesota-urn-85a45fee-ca41-477b-8619-c6ebc1620693"
+"layer_slug_s": "85a45fee-ca41-477b-8619-c6ebc1620693", 
+"dct_isPartOf_sm": "Hennepin County Open Data"
 }

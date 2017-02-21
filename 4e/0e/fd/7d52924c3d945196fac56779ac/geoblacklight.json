@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-08-19T17:54:51Z", 
+"layer_modified_dt": "2016-12-30T13:42:26Z", 
 "solr_geom": "ENVELOPE(-96.273509, -95.115269, 47.263867, 46.610895)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://www.co.becker.mn.us/online_services/GIS_data.aspx\",\"http://schema.org/downloadUrl\":\"http://gis-server.co.becker.mn.us/data/gis/shapefiles/wetlands.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis-server.co.becker.mn.us/data/gis/shapefiles/wetlands.zip\",\"http://schema.org/url\":\"http://www.co.becker.mn.us/online_services/GIS_data.aspx\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/4e/0e/fd/7d52924c3d945196fac56779ac/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-4e0efd7d-5292-4c3d-9451-96fac56779ac", 
+"uuid": "4e0efd7d-5292-4c3d-9451-96fac56779ac", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Environment", 
@@ -18,18 +18,19 @@
 "Becker County, Minnesota"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-4e0efd7d-5292-4c3d-9451-96fac56779ac", 
+"dc_identifier_s": "4e0efd7d-5292-4c3d-9451-96fac56779ac", 
 "georss_polygon_s": "46.610895 -96.273509 47.263867 -96.273509 47.263867 -95.115269 46.610895 -95.115269 46.610895 -96.273509", 
 "solr_year_i": 2013, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Becker County, Minnesota"
+"Becker County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Becker County, Minnesota"
 ], 
-"layer_id_s": "urn:urn-4e0efd7d-5292-4c3d-9451-96fac56779ac", 
+"layer_id_s": "4e0efd7d-5292-4c3d-9451-96fac56779ac", 
 "georss_box_s": "46.610895 -96.273509 47.263867 -95.115269", 
 "dc_title_s": "Wetlands: Becker County, Minnesota, 2013", 
-"layer_slug_s": "Minnesota-urn-4e0efd7d-5292-4c3d-9451-96fac56779ac"
+"layer_slug_s": "4e0efd7d-5292-4c3d-9451-96fac56779ac", 
+"dct_isPartOf_sm": "Becker County GIS Data"
 }

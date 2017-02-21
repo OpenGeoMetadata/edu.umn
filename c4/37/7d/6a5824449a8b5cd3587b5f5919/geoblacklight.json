@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:23Z", 
+"layer_modified_dt": "2017-01-20T18:39:40Z", 
 "solr_geom": "ENVELOPE(-97.252252, -89.406737, 49.34025, 43.098198)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/water-measured-kittle-routes\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/water_measured_kittle_routes/shp_water_measured_kittle_routes.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/water_measured_kittle_routes/shp_water_measured_kittle_routes.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/water-measured-kittle-routes\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/c4/37/7d/6a5824449a8b5cd3587b5f5919/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-c4377d6a-5824-449a-8b5c-d3587b5f5919", 
+"uuid": "c4377d6a-5824-449a-8b5c-d3587b5f5919", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Inland Waters"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-c4377d6a-5824-449a-8b5c-d3587b5f5919", 
-"dc_relation_sm": [
-"This is one of the major feature classes within the <a href=N../../water_dnr_hydrography/metadata/dnr_hydrography_dataset.htmlN target=_blank><b>DNR Hydrography Dataset</b></a>The following layers are managed as linear events along the <i>Stream Routes with Kittle Numbers and Mile Measures</i> layer:<a href=N../../env_trout_stream_designations/metadata/metadata.htmlN target=_blank><b>Designated Water Features - Trout Stream Designation</b></a><a href=N../../env_trout_stream_special_regs/metadata/metadata.htmlN target=_blank><b>Regulated Water Features - Trout Stream Special Regulations</b></a><a href=N../../water_wild_and_scenic_rec_rivers/metadata/metadata.htmlN target=_blank><b>Designated Water Features - Wild, Scenic and Recreational Rivers</b></a><a href=N../../water_major_river_centerlines/metadata/metadata.htmlN target=_blank><b>DNR Hydrography - Stream Routes - Major River Centerlines</b></a><a href=N../../water_strahler_stream_order/metadata/metadata.htmlN target=_blank><b>DNR Hydrography - Stream Routes with Strahler Stream Order</b></a>(Note: these layers are <u>distributed</u> to users as geodatabase feature classes, but <u>managed</u> as tabular linear events)<b>Also related:</b> <a href=N../../water_dnr_hydrography/metadata/dnr_hydrography_stream_centerlines_flow_direction.htmlN target=_blank><b>DNR Hydrography - Stream Confluences and Flow Direction</b></a><a href=N../../water_dnr_hydrography/metadata/dnr_hydrography_stream_centerlines_stream_types.htmlN target=_blank><b>DNR Hydrography - Stream Routes with Stream Types</b></a>"
-], 
+"dc_identifier_s": "c4377d6a-5824-449a-8b5c-d3587b5f5919", 
 "georss_polygon_s": "43.098198 -97.252252 49.34025 -97.252252 49.34025 -89.406737 43.098198 -89.406737 43.098198 -97.252252", 
 "solr_year_i": 2013, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-c4377d6a-5824-449a-8b5c-d3587b5f5919", 
+"layer_id_s": "c4377d6a-5824-449a-8b5c-d3587b5f5919", 
 "georss_box_s": "43.098198 -97.252252 49.34025 -89.406737", 
 "dc_title_s": "Stream Routes with Kittle Numbers and Mile Measures: Minnesota, 2013", 
-"layer_slug_s": "Minnesota-urn-c4377d6a-5824-449a-8b5c-d3587b5f5919"
+"layer_slug_s": "c4377d6a-5824-449a-8b5c-d3587b5f5919", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

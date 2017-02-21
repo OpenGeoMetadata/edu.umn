@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Point", 
-"layer_modified_dt": "2016-09-28T10:52:32Z", 
+"layer_modified_dt": "2016-12-30T13:42:42Z", 
 "solr_geom": "ENVELOPE(-93.328873, -93.200971, 45.0511, 44.890816)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/7e34fef2ad6d4ee79f6d67c9e03cd5bc_0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/7e34fef2ad6d4ee79f6d67c9e03cd5bc_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/BldgCharacteristics2016/FeatureServer/0/query?outFields=*&where=1%3D1\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.arcgis.com/datasets/a7ee3ae77ed34ca18fac90e6b99042c7_0.zip\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/assessor-building-characteristics-2016\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/27/d1/4d/58f1744345aec2904c9c867027/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/AssrBldgCharacteristics2016/FeatureServer/0/\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-27d14d58-f174-4345-aec2-904c9c867027", 
+"uuid": "27d14d58-f174-4345-aec2-904c9c867027", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Planning and Cadastral"
@@ -17,18 +17,19 @@
 "City of Minneapolis"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-27d14d58-f174-4345-aec2-904c9c867027", 
+"dc_identifier_s": "27d14d58-f174-4345-aec2-904c9c867027", 
 "georss_polygon_s": "44.890816 -93.328873 45.0511 -93.328873 45.0511 -93.200971 44.890816 -93.200971 44.890816 -93.328873", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minneapolis, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "City of Minneapolis"
 ], 
-"layer_id_s": "urn:urn-27d14d58-f174-4345-aec2-904c9c867027", 
+"layer_id_s": "27d14d58-f174-4345-aec2-904c9c867027", 
 "georss_box_s": "44.890816 -93.328873 45.0511 -93.200971", 
 "dc_title_s": "Assessor Building Characteristics: Minneapolis, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-27d14d58-f174-4345-aec2-904c9c867027"
+"layer_slug_s": "27d14d58-f174-4345-aec2-904c9c867027", 
+"dct_isPartOf_sm": "Minneapolis Open Data"
 }

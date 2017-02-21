@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:45Z", 
+"layer_modified_dt": "2017-01-20T18:40:10Z", 
 "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/trans-hcaadt-traffic-count-locs\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dot/trans_hcaadt_traffic_count_locs/shp_trans_hcaadt_traffic_count_locs.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dot/trans_hcaadt_traffic_count_locs/shp_trans_hcaadt_traffic_count_locs.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/trans-hcaadt-traffic-count-locs\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/9e/40/e6/fd5d424e048b19131806c8afcf/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-9e40e6fd-5d42-4e04-8b19-131806c8afcf", 
+"uuid": "9e40e6fd-5d42-4e04-8b19-131806c8afcf", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Transportation"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Transportation/Office of Transportation Systems Management/Traffic Forecasting and Analysis Section"
 ], 
-"dc_identifier_s": "urn-9e40e6fd-5d42-4e04-8b19-131806c8afcf", 
-"dc_relation_sm": [
-"Annual Average Daily Traffic Current Traffic SegmentsAnnual Average Daily Traffic Count Locations Heavy Commercial Annual Average Daily Traffic Current Traffic Segments"
-], 
+"dc_identifier_s": "9e40e6fd-5d42-4e04-8b19-131806c8afcf", 
 "georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
 "solr_year_i": 1994, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Transportation"
 ], 
-"layer_id_s": "urn:urn-9e40e6fd-5d42-4e04-8b19-131806c8afcf", 
+"layer_id_s": "9e40e6fd-5d42-4e04-8b19-131806c8afcf", 
 "georss_box_s": "43.5 -97.23 49.37 -89.53", 
 "dc_title_s": "Heavy Commercial Annual Average Daily Traffic Count Locations: Minnesota, 1994-2012", 
-"layer_slug_s": "Minnesota-urn-9e40e6fd-5d42-4e04-8b19-131806c8afcf"
+"layer_slug_s": "9e40e6fd-5d42-4e04-8b19-131806c8afcf", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

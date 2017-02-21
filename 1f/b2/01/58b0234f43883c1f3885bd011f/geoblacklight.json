@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:34Z", 
+"layer_modified_dt": "2017-01-20T18:39:56Z", 
 "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-bwsr-rim-cons-easements\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-bwsr-rim-cons-easements\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/1f/b2/01/58b0234f43883c1f3885bd011f/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-1fb20158-b023-4f43-883c-1f3885bd011f", 
+"uuid": "1fb20158-b023-4f43-883c-1f3885bd011f", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Boundaries"
@@ -16,17 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Board of Water and Soil Resources (BWSR)"
 ], 
-"dc_identifier_s": "urn-1fb20158-b023-4f43-883c-1f3885bd011f", 
+"dc_identifier_s": "1fb20158-b023-4f43-883c-1f3885bd011f", 
 "georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Board of Water and Soil Resources"
 ], 
-"layer_id_s": "urn:urn-1fb20158-b023-4f43-883c-1f3885bd011f", 
+"layer_id_s": "1fb20158-b023-4f43-883c-1f3885bd011f", 
 "georss_box_s": "43.5 -97.23 49.37 -89.53", 
 "dc_title_s": "State Funded Conservation Easements (RIM Reserve): Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-1fb20158-b023-4f43-883c-1f3885bd011f"
+"layer_slug_s": "1fb20158-b023-4f43-883c-1f3885bd011f", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

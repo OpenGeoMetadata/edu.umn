@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Point", 
-"layer_modified_dt": "2016-09-19T17:07:51Z", 
+"layer_modified_dt": "2016-12-30T13:41:56Z", 
 "solr_geom": "ENVELOPE(-93.3276, -93.2122, 45.0361, 44.8927)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/360adc33fe8d4e16a075e417bc5f54fc_9.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/PLACES/MapServer/9\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/360adc33fe8d4e16a075e417bc5f54fc_9\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/360adc33fe8d4e16a075e417bc5f54fc_9.zip\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/360adc33fe8d4e16a075e417bc5f54fc_9\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/18/ef/08/820f804f799ec87fe7b26da062/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/PLACES/MapServer/9\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-18ef0882-0f80-4f79-9ec8-7fe7b26da062", 
+"uuid": "18ef0882-0f80-4f79-9ec8-7fe7b26da062", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Health"
@@ -17,18 +17,19 @@
 "Hennepin County"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-18ef0882-0f80-4f79-9ec8-7fe7b26da062", 
+"dc_identifier_s": "18ef0882-0f80-4f79-9ec8-7fe7b26da062", 
 "georss_polygon_s": "44.8927 -93.3276 45.0361 -93.3276 45.0361 -93.2122 44.8927 -93.2122 44.8927 -93.3276", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Hennepin County, Minnesota", 
-"Minnesota"
+"Hennepin County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Hennepin County"
 ], 
-"layer_id_s": "urn:urn-18ef0882-0f80-4f79-9ec8-7fe7b26da062", 
+"layer_id_s": "18ef0882-0f80-4f79-9ec8-7fe7b26da062", 
 "georss_box_s": "44.8927 -93.3276 45.0361 -93.2122", 
 "dc_title_s": "Mini Farmers Markets: Hennepin County, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-18ef0882-0f80-4f79-9ec8-7fe7b26da062"
+"layer_slug_s": "18ef0882-0f80-4f79-9ec8-7fe7b26da062", 
+"dct_isPartOf_sm": "Hennepin County Open Data"
 }

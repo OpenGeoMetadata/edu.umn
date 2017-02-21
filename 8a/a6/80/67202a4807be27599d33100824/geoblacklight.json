@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:08Z", 
+"layer_modified_dt": "2017-01-20T18:39:22Z", 
 "solr_geom": "ENVELOPE(-97.96, -94.21, 47.61, 42.2)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-potentially-undisturbed-land\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_potentially_undisturbed_land/shp_env_potentially_undisturbed_land.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_potentially_undisturbed_land/shp_env_potentially_undisturbed_land.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-potentially-undisturbed-land\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/8a/a6/80/67202a4807be27599d33100824/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-8aa68067-202a-4807-be27-599d33100824", 
+"uuid": "8aa68067-202a-4807-be27-599d33100824", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Environment"
@@ -16,17 +16,18 @@
 "dc_creator_sm": [
 "DNR Section of Wildlife - Working Lands Initiative"
 ], 
-"dc_identifier_s": "urn-8aa68067-202a-4807-be27-599d33100824", 
+"dc_identifier_s": "8aa68067-202a-4807-be27-599d33100824", 
 "georss_polygon_s": "42.2 -97.96 47.61 -97.96 47.61 -94.21 42.2 -94.21 42.2 -97.96", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-8aa68067-202a-4807-be27-599d33100824", 
+"layer_id_s": "8aa68067-202a-4807-be27-599d33100824", 
 "georss_box_s": "42.2 -97.96 47.61 -94.21", 
 "dc_title_s": "Potentially Undisturbed Land (Virgin Sod), FSA Common Land Unit Derived: Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-8aa68067-202a-4807-be27-599d33100824"
+"layer_slug_s": "8aa68067-202a-4807-be27-599d33100824", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

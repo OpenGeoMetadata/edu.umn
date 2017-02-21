@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Point", 
-"layer_modified_dt": "2016-09-28T11:37:32Z", 
+"layer_modified_dt": "2016-12-30T13:42:09Z", 
 "solr_geom": "ENVELOPE(-93.3284617991423, -93.2129504550967, 45.0310388737871, 44.9065352692957)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/a0448b7b87f04899822478467f6830db_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Off-Sale_Liquor_Licenses/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/a0448b7b87f04899822478467f6830db_0.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/a0448b7b87f04899822478467f6830db_0.zip\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/a0448b7b87f04899822478467f6830db_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/c1/3e/1c/be35324354aad9b821a93ae79a/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Off-Sale_Liquor_Licenses/FeatureServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-c13e1cbe-3532-4354-aad9-b821a93ae79a", 
+"uuid": "c13e1cbe-3532-4354-aad9-b821a93ae79a", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Economy"
@@ -17,18 +17,19 @@
 "City of Minneapolis"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-c13e1cbe-3532-4354-aad9-b821a93ae79a", 
+"dc_identifier_s": "c13e1cbe-3532-4354-aad9-b821a93ae79a", 
 "georss_polygon_s": "44.9065352692957 -93.3284617991423 45.0310388737871 -93.3284617991423 45.0310388737871 -93.2129504550967 44.9065352692957 -93.2129504550967 44.9065352692957 -93.3284617991423", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minneapolis, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "City of Minneapolis"
 ], 
-"layer_id_s": "urn:urn-c13e1cbe-3532-4354-aad9-b821a93ae79a", 
+"layer_id_s": "c13e1cbe-3532-4354-aad9-b821a93ae79a", 
 "georss_box_s": "44.9065352692957 -93.3284617991423 45.0310388737871 -93.2129504550967", 
 "dc_title_s": "Off-Sale Liquor Licenses: Minneapolis, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-c13e1cbe-3532-4354-aad9-b821a93ae79a"
+"layer_slug_s": "c13e1cbe-3532-4354-aad9-b821a93ae79a", 
+"dct_isPartOf_sm": "Minneapolis Open Data"
 }

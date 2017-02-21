@@ -1,32 +1,33 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:58:43Z", 
+"layer_modified_dt": "2017-01-20T18:38:47Z", 
 "solr_geom": "ENVELOPE(-96.833072, -89.397037, 49.348244, 43.435392)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-pheasant-range-minnesota\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_pheasant_range_minnesota/shp_env_pheasant_range_minnesota.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_pheasant_range_minnesota/shp_env_pheasant_range_minnesota.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-pheasant-range-minnesota\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/18/08/3c/7998ab4e619abe427a5899292c/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-18083c79-98ab-4e61-9abe-427a5899292c", 
+"uuid": "18083c79-98ab-4e61-9abe-427a5899292c", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Environment"
 ], 
-"dct_temporal_sm": "8/20", 
+"dct_temporal_sm": "2002", 
 "dc_description_s": "This dataset delineates the spatial range of wild pheasant populations in Minnesota as of 2002 by dividing the MN state boundary into 2 units: pheasant range and non-range.", 
 "dct_issued_s": "2002-08-20T05:00:00.000Z", 
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-18083c79-98ab-4e61-9abe-427a5899292c", 
+"dc_identifier_s": "18083c79-98ab-4e61-9abe-427a5899292c", 
 "georss_polygon_s": "43.435392 -96.833072 49.348244 -96.833072 49.348244 -89.397037 43.435392 -89.397037 43.435392 -96.833072", 
 "solr_year_i": 2002, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-18083c79-98ab-4e61-9abe-427a5899292c", 
+"layer_id_s": "18083c79-98ab-4e61-9abe-427a5899292c", 
 "georss_box_s": "43.435392 -96.833072 49.348244 -89.397037", 
 "dc_title_s": "Pheasant Range: Minnesota, 2002", 
-"layer_slug_s": "Minnesota-urn-18083c79-98ab-4e61-9abe-427a5899292c"
+"layer_slug_s": "18083c79-98ab-4e61-9abe-427a5899292c", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

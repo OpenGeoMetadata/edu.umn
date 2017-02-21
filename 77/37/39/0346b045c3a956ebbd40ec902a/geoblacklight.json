@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Raster", 
-"layer_modified_dt": "2016-09-27T11:42:41Z", 
+"layer_modified_dt": "2016-12-30T13:42:37Z", 
 "solr_geom": "ENVELOPE(-93.780674, -93.165735, 45.253356, 44.776988)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gis.hennepin.us/arcgis/rest/services/Imagery\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/Imagery/UTM_Aerial_1969/MapServer/0\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gis.hennepin.us/arcgis/rest/services/Imagery\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/77/37/39/0346b045c3a956ebbd40ec902a/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/Imagery/UTM_Aerial_1969/MapServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-52c4d7f0-35cf-44b8-840f-2de96513fa0aurn-77373903-46b0-45c3-a956-ebbd40ec902a", 
+"uuid": "77373903-46b0-45c3-a956-ebbd40ec902a", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Imagery and Base Maps"
@@ -16,18 +16,19 @@
 "dc_creator_sm": [
 "Hennepin County Taxpayer Services Survey Division"
 ], 
-"dc_identifier_s": "urn-52c4d7f0-35cf-44b8-840f-2de96513fa0aurn-77373903-46b0-45c3-a956-ebbd40ec902a", 
+"dc_identifier_s": "77373903-46b0-45c3-a956-ebbd40ec902a", 
 "georss_polygon_s": "44.776988 -93.780674 45.253356 -93.780674 45.253356 -93.165735 44.776988 -93.165735 44.776988 -93.780674", 
 "solr_year_i": 1969, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minnesota, United States", 
+"Hennepin County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Hennepin County GIS Office"
 ], 
-"layer_id_s": "urn:urn-52c4d7f0-35cf-44b8-840f-2de96513fa0aurn-77373903-46b0-45c3-a956-ebbd40ec902a", 
+"layer_id_s": "77373903-46b0-45c3-a956-ebbd40ec902a", 
 "georss_box_s": "44.776988 -93.780674 45.253356 -93.165735", 
 "dc_title_s": "Aerial Imagery: Hennepin County, 1969", 
-"layer_slug_s": "Minnesota-urn-52c4d7f0-35cf-44b8-840f-2de96513fa0aurn-77373903-46b0-45c3-a956-ebbd40ec902a"
+"layer_slug_s": "77373903-46b0-45c3-a956-ebbd40ec902a", 
+"dct_isPartOf_sm": "Hennepin County Open Data"
 }

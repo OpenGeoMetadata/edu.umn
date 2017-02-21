@@ -1,15 +1,15 @@
 {
 "layer_geom_type_s": "Polygon", 
-"layer_modified_dt": "2016-08-17T12:59:25Z", 
+"layer_modified_dt": "2016-12-30T13:41:26Z", 
 "solr_geom": "ENVELOPE(-94.0129, -93.5194, 44.9788, 44.6343)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/db197f51e3644bf18d7b543b60bcd1fd_2.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.carver.mn.us/arcgis_ea/rest/services/OpenAccess/CC_Floodplain/MapServer/2\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/db197f51e3644bf18d7b543b60bcd1fd_2\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/db197f51e3644bf18d7b543b60bcd1fd_2.zip\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/db197f51e3644bf18d7b543b60bcd1fd_2\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/78/23/92/52c24845568aead0a4a19dc86c/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.carver.mn.us/arcgis_ea/rest/services/OpenAccess/CC_Floodplain/MapServer/2\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-78239252-c248-4556-8aea-d0a4a19dc86c", 
+"uuid": "78239252-c248-4556-8aea-d0a4a19dc86c", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Inland Waters", 
-"floods", 
-"floodplains"
+"Floodplains", 
+"Floods"
 ], 
 "dct_temporal_sm": "2014", 
 "dc_description_s": "2010 FEMA DFIRM floodway.", 
@@ -19,18 +19,19 @@
 "Carver County, Minnesota"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-78239252-c248-4556-8aea-d0a4a19dc86c", 
+"dc_identifier_s": "78239252-c248-4556-8aea-d0a4a19dc86c", 
 "georss_polygon_s": "44.6343 -94.0129 44.9788 -94.0129 44.9788 -93.5194 44.6343 -93.5194 44.6343 -94.0129", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Carver County, Minnesota", 
-"Minnesota"
+"Carver County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Carver County, Minnesota"
 ], 
-"layer_id_s": "urn:urn-78239252-c248-4556-8aea-d0a4a19dc86c", 
+"layer_id_s": "78239252-c248-4556-8aea-d0a4a19dc86c", 
 "georss_box_s": "44.6343 -94.0129 44.9788 -93.5194", 
 "dc_title_s": "Floodway: Carver County, Minnesota, 2014", 
-"layer_slug_s": "Minnesota-urn-78239252-c248-4556-8aea-d0a4a19dc86c"
+"layer_slug_s": "78239252-c248-4556-8aea-d0a4a19dc86c", 
+"dct_isPartOf_sm": "Carver County Open Data"
 }

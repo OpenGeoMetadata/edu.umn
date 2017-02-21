@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-09-28T11:16:34Z", 
+"layer_modified_dt": "2016-12-30T13:41:27Z", 
 "solr_geom": "ENVELOPE(-93.3297898388066, -93.1992984763171, 45.0391408863409, 44.8903892504775)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/fb78f39deee143019f6ed26719d13e58_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Great_Streets_Eligible_Areas/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/fb78f39deee143019f6ed26719d13e58_0.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/fb78f39deee143019f6ed26719d13e58_0.zip\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/fb78f39deee143019f6ed26719d13e58_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/12/54/e3/36cb79453ca8d79bdb537c62f4/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Great_Streets_Eligible_Areas/FeatureServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-1254e336-cb79-453c-a8d7-9bdb537c62f4", 
+"uuid": "1254e336-cb79-453c-a8d7-9bdb537c62f4", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Transportation"
@@ -17,18 +17,19 @@
 "City of Minneapolis"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-1254e336-cb79-453c-a8d7-9bdb537c62f4", 
+"dc_identifier_s": "1254e336-cb79-453c-a8d7-9bdb537c62f4", 
 "georss_polygon_s": "44.8903892504775 -93.3297898388066 45.0391408863409 -93.3297898388066 45.0391408863409 -93.1992984763171 44.8903892504775 -93.1992984763171 44.8903892504775 -93.3297898388066", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minneapolis, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "City of Minneapolis"
 ], 
-"layer_id_s": "urn:urn-1254e336-cb79-453c-a8d7-9bdb537c62f4", 
+"layer_id_s": "1254e336-cb79-453c-a8d7-9bdb537c62f4", 
 "georss_box_s": "44.8903892504775 -93.3297898388066 45.0391408863409 -93.1992984763171", 
 "dc_title_s": "Great Streets Eligible Areas: Minneapolis, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-1254e336-cb79-453c-a8d7-9bdb537c62f4"
+"layer_slug_s": "1254e336-cb79-453c-a8d7-9bdb537c62f4", 
+"dct_isPartOf_sm": "Minneapolis Open Data"
 }

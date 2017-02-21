@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:03Z", 
+"layer_modified_dt": "2017-01-20T18:40:33Z", 
 "solr_geom": "ENVELOPE(-98, -96, 49.1, 45.4)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-redr-2008-2010-airphotos\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-redr-2008-2010-airphotos\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/0e/af/4d/5a945f439299aa2388d300ed1f/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-0eaf4d5a-945f-4392-99aa-2388d300ed1f", 
+"uuid": "0eaf4d5a-945f-4392-99aa-2388d300ed1f", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Imagery and Base Maps"
@@ -16,24 +16,22 @@
 "dc_creator_sm": [
 "International Water Institute"
 ], 
-"dc_identifier_s": "urn-0eaf4d5a-945f-4392-99aa-2388d300ed1f", 
-"dc_relation_sm": [
-"This imagery was collected in conjunction with a larger mapping initiative that incompassed 1.4-m LiDAR data acquisition. For more information see the International Water Institute Red River Basin Mapping Initiative 2008-2010 - LiDAR Acquisition web page: http://www.iwinst.org/lidar/ Metadata for the LiDAR project is at http://www.mngeo.state.mn.us/chouse/metadata/iwi_rrbmi_08_10_lidar.html."
-], 
+"dc_identifier_s": "0eaf4d5a-945f-4392-99aa-2388d300ed1f", 
 "georss_polygon_s": "45.4 -98 49.1 -98 49.1 -96 45.4 -96 45.4 -98", 
 "solr_year_i": 2008, 
 "dct_spatial_sm": [
 "Canada", 
-"North Dakota", 
-"South Dakota", 
-"Minnesota", 
-"Red River Valley of the North"
+"North Dakota, United States", 
+"South Dakota, United States", 
+"Minnesota, United States", 
+"Red River Valley of the North, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Red River Basin Mapping Initiative, International Water Institute"
 ], 
-"layer_id_s": "urn:urn-0eaf4d5a-945f-4392-99aa-2388d300ed1f", 
+"layer_id_s": "0eaf4d5a-945f-4392-99aa-2388d300ed1f", 
 "georss_box_s": "45.4 -98 49.1 -96", 
 "dc_title_s": "Orthoimagery, 1.4 Meter, Red River Basin Mapping Initiative: 2008-2010", 
-"layer_slug_s": "Minnesota-urn-0eaf4d5a-945f-4392-99aa-2388d300ed1f"
+"layer_slug_s": "0eaf4d5a-945f-4392-99aa-2388d300ed1f", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

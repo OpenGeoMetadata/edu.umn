@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:06Z", 
+"layer_modified_dt": "2017-01-20T18:39:18Z", 
 "solr_geom": "ENVELOPE(-94.4, -93.77, 46.81, 46.15)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/elev-lidar-crowwing2008\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/elev-lidar-crowwing2008\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/d8/a3/8b/8d962c4a5fa00cce0859431ff7/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-d8a38b8d-962c-4a5f-a00c-ce0859431ff7", 
+"uuid": "d8a38b8d-962c-4a5f-a00c-ce0859431ff7", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Elevation"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Crow Wing County (Merrick & Company)"
 ], 
-"dc_identifier_s": "urn-d8a38b8d-962c-4a5f-a00c-ce0859431ff7", 
-"dc_relation_sm": [
-"For more information about elevation data for Minnesota, see: http://www.mngeo.state.mn.us/chouse/elevation/index.html"
-], 
+"dc_identifier_s": "d8a38b8d-962c-4a5f-a00c-ce0859431ff7", 
 "georss_polygon_s": "46.15 -94.4 46.81 -94.4 46.81 -93.77 46.15 -93.77 46.15 -94.4", 
 "solr_year_i": 2008, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Crow Wing County, Minnesota"
+"Minnesota, United States", 
+"Crow Wing County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-d8a38b8d-962c-4a5f-a00c-ce0859431ff7", 
+"layer_id_s": "d8a38b8d-962c-4a5f-a00c-ce0859431ff7", 
 "georss_box_s": "46.15 -94.4 46.81 -93.77", 
 "dc_title_s": "LiDAR Elevation: Crow Wing County, Minnesota, 2008", 
-"layer_slug_s": "Minnesota-urn-d8a38b8d-962c-4a5f-a00c-ce0859431ff7"
+"layer_slug_s": "d8a38b8d-962c-4a5f-a00c-ce0859431ff7", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

@@ -1,15 +1,15 @@
 {
 "layer_geom_type_s": "Polygon", 
-"layer_modified_dt": "2016-08-17T12:59:13Z", 
+"layer_modified_dt": "2016-12-30T13:42:08Z", 
 "solr_geom": "ENVELOPE(-94.0176, -93.516, 44.9814, 44.65)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/1bebe2b7addb42b79378cec1be9f9103_9.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.carver.mn.us/arcgis_ea/rest/services/OpenAccess/CC_Hydrography/MapServer/9\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/1bebe2b7addb42b79378cec1be9f9103_9\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/1bebe2b7addb42b79378cec1be9f9103_9.zip\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/1bebe2b7addb42b79378cec1be9f9103_9\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/7f/0e/67/0e86654f1686f6021b8a2f7386/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.carver.mn.us/arcgis_ea/rest/services/OpenAccess/CC_Hydrography/MapServer/9\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-7f0e670e-8665-4f16-86f6-021b8a2f7386", 
+"uuid": "7f0e670e-8665-4f16-86f6-021b8a2f7386", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Inland Waters", 
-"hydrography", 
-"lakes"
+"Hydrography", 
+"Lakes"
 ], 
 "dct_temporal_sm": "2014-", 
 "dc_description_s": "Lakesheds for Carver County lakes.", 
@@ -19,18 +19,19 @@
 "Carver County, Minnesota"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-7f0e670e-8665-4f16-86f6-021b8a2f7386", 
+"dc_identifier_s": "7f0e670e-8665-4f16-86f6-021b8a2f7386", 
 "georss_polygon_s": "44.65 -94.0176 44.9814 -94.0176 44.9814 -93.516 44.65 -93.516 44.65 -94.0176", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Carver County, Minnesota", 
-"Minnesota"
+"Carver County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Carver County, Minnesota"
 ], 
-"layer_id_s": "urn:urn-7f0e670e-8665-4f16-86f6-021b8a2f7386", 
+"layer_id_s": "7f0e670e-8665-4f16-86f6-021b8a2f7386", 
 "georss_box_s": "44.65 -94.0176 44.9814 -93.516", 
 "dc_title_s": "Lakesheds: Carver County, Minnesota, 2014", 
-"layer_slug_s": "Minnesota-urn-7f0e670e-8665-4f16-86f6-021b8a2f7386"
+"layer_slug_s": "7f0e670e-8665-4f16-86f6-021b8a2f7386", 
+"dct_isPartOf_sm": "Carver County Open Data"
 }

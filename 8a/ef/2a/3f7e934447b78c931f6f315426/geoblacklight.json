@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:01Z", 
+"layer_modified_dt": "2017-01-20T18:39:11Z", 
 "solr_geom": "ENVELOPE(-94.272941, -92.22492, 45.732233, 44.328073)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-conservation-corridors\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_conservation_corridors/shp_env_conservation_corridors.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_conservation_corridors/shp_env_conservation_corridors.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-conservation-corridors\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/8a/ef/2a/3f7e934447b78c931f6f315426/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-8aef2a3f-7e93-4447-b78c-931f6f315426", 
+"uuid": "8aef2a3f-7e93-4447-b78c-931f6f315426", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Environment"
@@ -16,18 +16,19 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-8aef2a3f-7e93-4447-b78c-931f6f315426", 
+"dc_identifier_s": "8aef2a3f-7e93-4447-b78c-931f6f315426", 
 "georss_polygon_s": "44.328073 -94.272941 45.732233 -94.272941 45.732233 -92.22492 44.328073 -92.22492 44.328073 -94.272941", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-8aef2a3f-7e93-4447-b78c-931f6f315426", 
+"layer_id_s": "8aef2a3f-7e93-4447-b78c-931f6f315426", 
 "georss_box_s": "44.328073 -94.272941 45.732233 -92.22492", 
 "dc_title_s": "Metro Conservation Corridors: Twin Cities Metro, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-8aef2a3f-7e93-4447-b78c-931f6f315426"
+"layer_slug_s": "8aef2a3f-7e93-4447-b78c-931f6f315426", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

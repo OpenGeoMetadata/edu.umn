@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Raster", 
-"layer_modified_dt": "2016-09-27T11:42:04Z", 
+"layer_modified_dt": "2016-12-30T13:41:24Z", 
 "solr_geom": "ENVELOPE(-93.780674, -93.165735, 45.253356, 44.776988)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gis.hennepin.us/OpenData/imagery/index.html\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/Imagery/UTM_Aerial_2015/MapServer/0\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gis.hennepin.us/OpenData/imagery/index.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/52/c4/d7/f035cf44b8840f2de96513fa0a/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/Imagery/UTM_Aerial_2015/MapServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-52c4d7f0-35cf-44b8-840f-2de96513fa0a", 
+"uuid": "52c4d7f0-35cf-44b8-840f-2de96513fa0a", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Imagery and Base Maps"
@@ -16,18 +16,19 @@
 "dc_creator_sm": [
 "Hennepin County Resident and Real Estate Services Survey Division"
 ], 
-"dc_identifier_s": "urn-52c4d7f0-35cf-44b8-840f-2de96513fa0a", 
+"dc_identifier_s": "52c4d7f0-35cf-44b8-840f-2de96513fa0a", 
 "georss_polygon_s": "44.776988 -93.780674 45.253356 -93.780674 45.253356 -93.165735 44.776988 -93.165735 44.776988 -93.780674", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minnesota, United States", 
+"Hennepin County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Hennepin County GIS Office"
 ], 
-"layer_id_s": "urn:urn-52c4d7f0-35cf-44b8-840f-2de96513fa0a", 
+"layer_id_s": "52c4d7f0-35cf-44b8-840f-2de96513fa0a", 
 "georss_box_s": "44.776988 -93.780674 45.253356 -93.165735", 
 "dc_title_s": "Aerial Imagery: Hennepin County, 2015", 
-"layer_slug_s": "Minnesota-urn-52c4d7f0-35cf-44b8-840f-2de96513fa0a"
+"layer_slug_s": "52c4d7f0-35cf-44b8-840f-2de96513fa0a", 
+"dct_isPartOf_sm": "Hennepin County Open Data"
 }

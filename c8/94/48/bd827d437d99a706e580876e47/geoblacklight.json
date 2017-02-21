@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:43Z", 
+"layer_modified_dt": "2017-01-20T18:40:07Z", 
 "solr_geom": "ENVELOPE(-97.4, -93, 49.1, 45.4)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/elev-lidar-red-river-z15\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/elev-lidar-red-river-z15\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/c8/94/48/bd827d437d99a706e580876e47/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-c89448bd-827d-437d-99a7-06e580876e47", 
+"uuid": "c89448bd-827d-437d-99a7-06e580876e47", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Elevation"
@@ -16,24 +16,22 @@
 "dc_creator_sm": [
 "International Water Institute"
 ], 
-"dc_identifier_s": "urn-c89448bd-827d-437d-99a7-06e580876e47", 
-"dc_relation_sm": [
-"For more information about elevation data for Minnesota, see: http://www.mngeo.state.mn.us/chouse/elevation/index.htmlFor more information about the Zone 14 version of the data, which extends into South and North Dakota, see the dataset documentation:  http://www.rrbdin.org/wp-content/uploads/2011/10/RRBMI_Metadata.html and the International Water Institute website:  http://www.iwinst.org/lidar/"
-], 
+"dc_identifier_s": "c89448bd-827d-437d-99a7-06e580876e47", 
 "georss_polygon_s": "45.4 -97.4 49.1 -97.4 49.1 -93 45.4 -93 45.4 -97.4", 
 "solr_year_i": 2008, 
 "dct_spatial_sm": [
 "Canada", 
-"North Dakota", 
-"South Dakota", 
-"Minnesota", 
-"Red River Valley of the North"
+"North Dakota, United States", 
+"South Dakota, United States", 
+"Minnesota, United States", 
+"Red River Valley of the North, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-c89448bd-827d-437d-99a7-06e580876e47", 
+"layer_id_s": "c89448bd-827d-437d-99a7-06e580876e47", 
 "georss_box_s": "45.4 -97.4 49.1 -93", 
 "dc_title_s": "LiDAR Elevation: Red River of the North Basin, 2008-2010", 
-"layer_slug_s": "Minnesota-urn-c89448bd-827d-437d-99a7-06e580876e47"
+"layer_slug_s": "c89448bd-827d-437d-99a7-06e580876e47", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

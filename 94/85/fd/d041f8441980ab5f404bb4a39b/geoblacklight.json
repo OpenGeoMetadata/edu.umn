@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:58:43Z", 
+"layer_modified_dt": "2017-01-20T18:38:46Z", 
 "solr_geom": "ENVELOPE(-96.223008, -96.159976, 43.730787, 43.681629)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-blue-mounds-state-park\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/geos_blue_mounds_state_park/shp_geos_blue_mounds_state_park.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/geos_blue_mounds_state_park/shp_geos_blue_mounds_state_park.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-blue-mounds-state-park\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/94/85/fd/d041f8441980ab5f404bb4a39b/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-9485fdd0-41f8-4419-80ab-5f404bb4a39b", 
+"uuid": "9485fdd0-41f8-4419-80ab-5f404bb4a39b", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Geoscientific Information"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Geological Survey"
 ], 
-"dc_identifier_s": "urn-9485fdd0-41f8-4419-80ab-5f404bb4a39b", 
-"dc_relation_sm": [
-"Blue Mounds State Park Bedrock Geologic Units, Fractures, Geologic Features, Geologic Stations, Outcrop, Structures"
-], 
+"dc_identifier_s": "9485fdd0-41f8-4419-80ab-5f404bb4a39b", 
 "georss_polygon_s": "43.681629 -96.223008 43.730787 -96.223008 43.730787 -96.159976 43.681629 -96.159976 43.681629 -96.223008", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Rock County, Minnesota"
+"Rock County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-9485fdd0-41f8-4419-80ab-5f404bb4a39b", 
+"layer_id_s": "9485fdd0-41f8-4419-80ab-5f404bb4a39b", 
 "georss_box_s": "43.681629 -96.223008 43.730787 -96.159976", 
 "dc_title_s": "Geology of Blue Mounds State Park: Rock County, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-9485fdd0-41f8-4419-80ab-5f404bb4a39b"
+"layer_slug_s": "9485fdd0-41f8-4419-80ab-5f404bb4a39b", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

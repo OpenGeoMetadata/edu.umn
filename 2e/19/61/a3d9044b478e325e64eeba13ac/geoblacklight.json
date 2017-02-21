@@ -1,41 +1,39 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:58:58Z", 
+"layer_modified_dt": "2017-01-26T14:50:39Z", 
 "solr_geom": "ENVELOPE(-93.697348, -92.760689, 45.240721, 44.627016)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-transit-taxing-district\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Transportation/MapServer/16\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_transit_taxing_district/shp_trans_transit_taxing_district.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_transit_taxing_district/shp_trans_transit_taxing_district.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-transit-taxing-district\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/2e/19/61/a3d9044b478e325e64eeba13ac/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-2e1961a3-d904-4b47-8e32-5e64eeba13ac", 
+"uuid": "2e1961a3-d904-4b47-8e32-5e64eeba13ac", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Transportation", 
-"Metro Transit", 
-"buses", 
-"transit system", 
-"administrative boundaries", 
-"transit taxing district", 
-"Transit Capita lLevy Communities"
+"Buses", 
+"Transit system", 
+"Metro transit", 
+"Administrative boundaries", 
+"Transit taxing district"
 ], 
-"dc_format_s": "Shapefile", 
+"dct_temporal_sm": "2016", 
 "dc_description_s": "NOTE: As part of the Omnibus Tax Bill which was listed as 2001 Special Session, Chapter 5, the transit taxing district is no longer used for tax assessment purposes. NOTE: As of November 6, 2012 this boundary has changed due to boundary adjustment between Prior Lake and Spring Lake Township The transit taxing district was the area in which all taxable property was assessed a tax to be used for payment of transit and paratransit services per Minn. Stat. 473.446. This area was comprised of whole cities, townships and unorganized territories. While the Transit Taxing District has not changed since 2001, additional communities have agreed to levy for transit capital, beginning in 2009. For this reason, a new dataset was created and is referred to as the Transit Capital Levy Communities. For the most accurate list of communities that participate in the transit capital levy, please consult this dataset since the legislatively defined boundary has not changed but the communities that participate in transit capital levy have changed.", 
-"dct_issued_s": "2016-03-31", 
+"dct_issued_s": "2016-03-29", 
+"dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Metropolitan Council"
 ], 
-"dc_identifier_s": "urn-2e1961a3-d904-4b47-8e32-5e64eeba13ac", 
-"dc_relation_sm": [
-"Transit Capital Levy Communities, Transit Routes, Counties and Cities & Townships, Twin Cities Metropolitan Area"
-], 
+"dc_identifier_s": "2e1961a3-d904-4b47-8e32-5e64eeba13ac", 
 "georss_polygon_s": "44.627016 -93.697348 45.240721 -93.697348 45.240721 -92.760689 44.627016 -92.760689 44.627016 -93.697348", 
 "solr_year_i": 2016, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-2e1961a3-d904-4b47-8e32-5e64eeba13ac", 
+"layer_id_s": "2e1961a3-d904-4b47-8e32-5e64eeba13ac", 
 "georss_box_s": "44.627016 -93.697348 45.240721 -92.760689", 
 "dc_title_s": "Transit Taxing District: Twin Cities Metro, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-2e1961a3-d904-4b47-8e32-5e64eeba13ac"
+"layer_slug_s": "2e1961a3-d904-4b47-8e32-5e64eeba13ac", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

@@ -1,31 +1,33 @@
 {
-"solr_year_i": 2003, 
-"uuid": "urn-fedf9836-f5f4-4822-97e1-732cddcccb91", 
 "layer_geom_type_s": "Mixed", 
-"dc_publisher_sm": [
-"Minnesota Department of Natural Resources"
-], 
-"layer_modified_dt": "2016-06-29T10:00:20Z", 
-"dc_creator_sm": [
-"Land Management Information Center (LMIC)"
-], 
-"layer_id_s": "urn:urn-fedf9836-f5f4-4822-97e1-732cddcccb91", 
-"georss_polygon_s": "42.891013 -97.991522 49.892443 -97.991522 49.892443 -87.177541 42.891013 -87.177541 42.891013 -97.991522", 
-"georss_box_s": "42.891013 -97.991522 49.892443 -87.177541", 
-"dc_identifier_s": "urn-fedf9836-f5f4-4822-97e1-732cddcccb91", 
+"layer_modified_dt": "2017-01-20T18:40:54Z", 
+"solr_geom": "ENVELOPE(-97.991522, -87.177541, 49.892443, 42.891013)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/loc_index_q250k_tile_scheme/shp_loc_index_q250k_tile_scheme.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/loc-index-q250k-tile-scheme\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/fe/df/98/36f5f4482297e1732cddcccb91/iso19139.xml\"}", 
+"dc_rights_s": "Public", 
+"uuid": "fedf9836-f5f4-4822-97e1-732cddcccb91", 
 "dct_provenance_s": "Minnesota", 
-"dc_title_s": "USGS 1:250000 (2 by 1 Degree) Quadrangle Index: Minnesota, 2003", 
-"layer_slug_s": "Minnesota-urn-fedf9836-f5f4-4822-97e1-732cddcccb91", 
-"dc_format_s": "Shapefile", 
-"dc_description_s": "USGS 1:250,000 scale Quadrangle Map Index with quadrangle name and standard identifiers.", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/loc-index-q250k-tile-scheme\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/loc_index_q250k_tile_scheme/shp_loc_index_q250k_tile_scheme.zip\"}", 
 "dc_subject_sm": [
 "Location"
 ], 
+"dct_temporal_sm": "2003", 
+"dc_description_s": "USGS 1:250,000 scale Quadrangle Map Index with quadrangle name and standard identifiers.", 
 "dct_issued_s": "2003-09-04T05:00:00.000Z", 
-"solr_geom": "ENVELOPE(-97.991522, -87.177541, 49.892443, 42.891013)", 
-"dc_rights_s": "Public", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Land Management Information Center (LMIC)"
+], 
+"dc_identifier_s": "fedf9836-f5f4-4822-97e1-732cddcccb91", 
+"georss_polygon_s": "42.891013 -97.991522 49.892443 -97.991522 49.892443 -87.177541 42.891013 -87.177541 42.891013 -97.991522", 
+"solr_year_i": 2003, 
 "dct_spatial_sm": [
-"Minnesota"
-]
+"Minnesota, United States"
+], 
+"dc_publisher_sm": [
+"Minnesota Department of Natural Resources"
+], 
+"layer_id_s": "fedf9836-f5f4-4822-97e1-732cddcccb91", 
+"georss_box_s": "42.891013 -97.991522 49.892443 -87.177541", 
+"dc_title_s": "USGS 1:250000 (2 by 1 Degree) Quadrangle Index: Minnesota, 2003", 
+"layer_slug_s": "fedf9836-f5f4-4822-97e1-732cddcccb91", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

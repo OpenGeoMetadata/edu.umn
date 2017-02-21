@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Polygon", 
-"layer_modified_dt": "2016-09-21T16:48:22Z", 
+"layer_modified_dt": "2016-12-30T13:41:17Z", 
 "solr_geom": "ENVELOPE(-93.2068, -93, 45.1237, 44.9128)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/cce1fd66f3b44f30905638018075e937_17.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/17\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/cce1fd66f3b44f30905638018075e937_17\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/cce1fd66f3b44f30905638018075e937_17.zip\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/cce1fd66f3b44f30905638018075e937_17\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/46/05/ac/9ddcb84f9aaa0ebfd9ce35fbba/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/17\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-4605ac9d-dcb8-4f9a-aa0e-bfd9ce35fbba", 
+"uuid": "4605ac9d-dcb8-4f9a-aa0e-bfd9ce35fbba", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Inland Waters", 
@@ -18,18 +18,19 @@
 "Map Portal"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-4605ac9d-dcb8-4f9a-aa0e-bfd9ce35fbba", 
+"dc_identifier_s": "4605ac9d-dcb8-4f9a-aa0e-bfd9ce35fbba", 
 "georss_polygon_s": "44.9128 -93.2068 45.1237 -93.2068 45.1237 -93 44.9128 -93 44.9128 -93.2068", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Ramsey County, Minnesota", 
-"Minnesota"
+"Ramsey County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "OpenRamsey"
 ], 
-"layer_id_s": "urn:urn-4605ac9d-dcb8-4f9a-aa0e-bfd9ce35fbba", 
+"layer_id_s": "4605ac9d-dcb8-4f9a-aa0e-bfd9ce35fbba", 
 "georss_box_s": "44.9128 -93.2068 45.1237 -93", 
 "dc_title_s": "Dams: Ramsey County, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-4605ac9d-dcb8-4f9a-aa0e-bfd9ce35fbba"
+"layer_slug_s": "4605ac9d-dcb8-4f9a-aa0e-bfd9ce35fbba", 
+"dct_isPartOf_sm": "Open Ramsey County"
 }

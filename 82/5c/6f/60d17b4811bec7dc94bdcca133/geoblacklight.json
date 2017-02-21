@@ -1,14 +1,16 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:58:44Z", 
+"layer_modified_dt": "2017-01-20T18:38:48Z", 
 "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/trans-snowmobile-trails-mn\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/trans_snowmobile_trails_mn/shp_trans_snowmobile_trails_mn.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/trans_snowmobile_trails_mn/shp_trans_snowmobile_trails_mn.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/trans-snowmobile-trails-mn\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/82/5c/6f/60d17b4811bec7dc94bdcca133/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-825c6f60-d17b-4811-bec7-dc94bdcca133", 
+"uuid": "825c6f60-d17b-4811-bec7-dc94bdcca133", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Transportation", 
-"transportation"
+"Transportation", 
+"Trails", 
+"Snowmobiles"
 ], 
 "dct_temporal_sm": "2016", 
 "dc_description_s": "This layer shows all of the current snowmobile trails open to the public in Minnesota, regardless of funding source.", 
@@ -17,20 +19,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-825c6f60-d17b-4811-bec7-dc94bdcca133", 
-"dc_relation_sm": [
-"Snowmobile Interactive Mapping DNR web siteSnowmobile GPS Product, Garmin IMG file and KML file.Snowmobile trail cahnge point file"
-], 
+"dc_identifier_s": "825c6f60-d17b-4811-bec7-dc94bdcca133", 
 "georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
 "solr_year_i": 2016, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-825c6f60-d17b-4811-bec7-dc94bdcca133", 
+"layer_id_s": "825c6f60-d17b-4811-bec7-dc94bdcca133", 
 "georss_box_s": "43.5 -97.23 49.37 -89.53", 
 "dc_title_s": "Snowmobile Trails: Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-825c6f60-d17b-4811-bec7-dc94bdcca133"
+"layer_slug_s": "825c6f60-d17b-4811-bec7-dc94bdcca133", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

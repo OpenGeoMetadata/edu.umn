@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:58:49Z", 
+"layer_modified_dt": "2017-01-20T18:38:55Z", 
 "solr_geom": "ENVELOPE(-96.833072, -89.397037, 49.348244, 43.435392)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-land-type-associations\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-land-type-associations\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-land-type-associations\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/06/6e/e7/39764743ab9a64749ef475f920/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-066ee739-7647-43ab-9a64-749ef475f920", 
+"uuid": "066ee739-7647-43ab-9a64-749ef475f920", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Geoscientific Information"
@@ -16,17 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-066ee739-7647-43ab-9a64-749ef475f920", 
+"dc_identifier_s": "066ee739-7647-43ab-9a64-749ef475f920", 
 "georss_polygon_s": "43.435392 -96.833072 49.348244 -96.833072 49.348244 -89.397037 43.435392 -89.397037 43.435392 -96.833072", 
 "solr_year_i": 1999, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-066ee739-7647-43ab-9a64-749ef475f920", 
+"layer_id_s": "066ee739-7647-43ab-9a64-749ef475f920", 
 "georss_box_s": "43.435392 -96.833072 49.348244 -89.397037", 
 "dc_title_s": "Ecological Land Type Associations: Minnesota, 1999", 
-"layer_slug_s": "Minnesota-urn-066ee739-7647-43ab-9a64-749ef475f920"
+"layer_slug_s": "066ee739-7647-43ab-9a64-749ef475f920", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

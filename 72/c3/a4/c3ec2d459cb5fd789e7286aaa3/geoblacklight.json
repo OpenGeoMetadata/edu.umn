@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Polygon", 
-"layer_modified_dt": "2016-09-29T18:20:30Z", 
+"layer_modified_dt": "2016-12-30T13:41:34Z", 
 "solr_geom": "ENVELOPE(-93.233, -92.9858, 45.1195, 44.9178)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/f2534b33ad1d4d3d93bd937eb00a663c_19.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/19\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/f2534b33ad1d4d3d93bd937eb00a663c_19\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/f2534b33ad1d4d3d93bd937eb00a663c_19.zip\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/f2534b33ad1d4d3d93bd937eb00a663c_19\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/72/c3/a4/c3ec2d459cb5fd789e7286aaa3/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/19\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-72c3a4c3-ec2d-459c-b5fd-789e7286aaa3", 
+"uuid": "72c3a4c3-ec2d-459c-b5fd-789e7286aaa3", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Utilities and Communication"
@@ -17,18 +17,19 @@
 "Map Portal"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-72c3a4c3-ec2d-459c-b5fd-789e7286aaa3", 
+"dc_identifier_s": "72c3a4c3-ec2d-459c-b5fd-789e7286aaa3", 
 "georss_polygon_s": "44.9178 -93.233 45.1195 -93.233 45.1195 -92.9858 44.9178 -92.9858 44.9178 -93.233", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Ramsey County, Minnesota", 
-"Minnesota"
+"Ramsey County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "OpenRamsey"
 ], 
-"layer_id_s": "urn:urn-72c3a4c3-ec2d-459c-b5fd-789e7286aaa3", 
+"layer_id_s": "72c3a4c3-ec2d-459c-b5fd-789e7286aaa3", 
 "georss_box_s": "44.9178 -93.233 45.1195 -92.9858", 
 "dc_title_s": "Water Towers: Ramsey County, Minnesota", 
-"layer_slug_s": "Minnesota-urn-72c3a4c3-ec2d-459c-b5fd-789e7286aaa3"
+"layer_slug_s": "72c3a4c3-ec2d-459c-b5fd-789e7286aaa3", 
+"dct_isPartOf_sm": "Open Ramsey County"
 }

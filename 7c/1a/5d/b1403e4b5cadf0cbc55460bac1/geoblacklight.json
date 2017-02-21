@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-09-28T12:18:53Z", 
+"layer_modified_dt": "2016-12-30T13:41:28Z", 
 "solr_geom": "ENVELOPE(-93.3291357714711, -93.1938488983436, 45.0512511622102, 44.8904714473126)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/818308c9079c4c0c89944b1fe0e600b1_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/OPENDATA_IT_OUTREACHSURVEY/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/818308c9079c4c0c89944b1fe0e600b1_0.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/818308c9079c4c0c89944b1fe0e600b1_0.zip\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/818308c9079c4c0c89944b1fe0e600b1_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/7c/1a/5d/b1403e4b5cadf0cbc55460bac1/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/OPENDATA_IT_OUTREACHSURVEY/FeatureServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-7c1a5db1-403e-4b5c-adf0-cbc55460bac1", 
+"uuid": "7c1a5db1-403e-4b5c-adf0-cbc55460bac1", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Biota", 
@@ -25,18 +25,19 @@
 "City of Minneapolis"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-7c1a5db1-403e-4b5c-adf0-cbc55460bac1", 
+"dc_identifier_s": "7c1a5db1-403e-4b5c-adf0-cbc55460bac1", 
 "georss_polygon_s": "44.8904714473126 -93.3291357714711 45.0512511622102 -93.3291357714711 45.0512511622102 -93.1938488983436 44.8904714473126 -93.1938488983436 44.8904714473126 -93.3291357714711", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minneapolis, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "City of Minneapolis"
 ], 
-"layer_id_s": "urn:urn-7c1a5db1-403e-4b5c-adf0-cbc55460bac1", 
+"layer_id_s": "7c1a5db1-403e-4b5c-adf0-cbc55460bac1", 
 "georss_box_s": "44.8904714473126 -93.3291357714711 45.0512511622102 -93.1938488983436", 
 "dc_title_s": "Technology Outreach Survey: Minneapolis, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-7c1a5db1-403e-4b5c-adf0-cbc55460bac1"
+"layer_slug_s": "7c1a5db1-403e-4b5c-adf0-cbc55460bac1", 
+"dct_isPartOf_sm": "Minneapolis Open Data"
 }

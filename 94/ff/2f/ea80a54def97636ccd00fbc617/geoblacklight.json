@@ -1,35 +1,33 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:56Z", 
+"layer_modified_dt": "2017-01-20T18:40:26Z", 
 "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-dnr-lrs-prk\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_dnr_lrs_prk/shp_bdry_dnr_lrs_prk.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_dnr_lrs_prk/shp_bdry_dnr_lrs_prk.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-dnr-lrs-prk\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/94/ff/2f/ea80a54def97636ccd00fbc617/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-94ff2fea-80a5-4def-9763-6ccd00fbc617", 
+"uuid": "94ff2fea-80a5-4def-9763-6ccd00fbc617", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Boundaries"
 ], 
-"dct_temporal_sm": "2016", 
+"dct_temporal_sm": "2013", 
 "dc_description_s": "This dataset consists of three related feature classes: - A point file of State Park, State Recreation Area, and State Wayside Area locations, with centroids calculated from each unit's statutory boundary polygon. - Statutory boundary polygons of State Parks, State Recreation Areas, and State Wayside Areas. - Lands managed by the Division of Parks and Trails within these statutory boundaries (polygon layer).", 
 "dct_issued_s": "2013-09-15", 
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (MNDNR)"
 ], 
-"dc_identifier_s": "urn-94ff2fea-80a5-4def-9763-6ccd00fbc617", 
-"dc_relation_sm": [
-"bdry_dnr_managed_areas (Management Units - LRS, Stat Plan Areas - LRS)"
-], 
+"dc_identifier_s": "94ff2fea-80a5-4def-9763-6ccd00fbc617", 
 "georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
 "solr_year_i": 2013, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-94ff2fea-80a5-4def-9763-6ccd00fbc617", 
+"layer_id_s": "94ff2fea-80a5-4def-9763-6ccd00fbc617", 
 "georss_box_s": "43.5 -97.23 49.37 -89.53", 
 "dc_title_s": "State Parks, Recreation Areas, and Waysides: Minnesota, 2013", 
-"layer_slug_s": "Minnesota-urn-94ff2fea-80a5-4def-9763-6ccd00fbc617"
+"layer_slug_s": "94ff2fea-80a5-4def-9763-6ccd00fbc617", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

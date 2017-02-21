@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:03Z", 
+"layer_modified_dt": "2017-01-20T18:39:14Z", 
 "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-historic-airphoto-index\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-historic-airphoto-index\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/9e/38/02/67e1eb40fd98923e7df2904ef5/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-9e380267-e1eb-40fd-9892-3e7df2904ef5", 
+"uuid": "9e380267-e1eb-40fd-9892-3e7df2904ef5", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Imagery and Base Maps"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (MNDNR)"
 ], 
-"dc_identifier_s": "urn-9e380267-e1eb-40fd-9892-3e7df2904ef5", 
-"dc_relation_sm": [
-"MNDNR has an online web-app that allows you to interactively click on these centroids and download the photographs. The URL for that web page is:  http://www.dnr.state.mn.us/maps/landview/index.html"
-], 
+"dc_identifier_s": "9e380267-e1eb-40fd-9892-3e7df2904ef5", 
 "georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
 "solr_year_i": 1930, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-9e380267-e1eb-40fd-9892-3e7df2904ef5", 
+"layer_id_s": "9e380267-e1eb-40fd-9892-3e7df2904ef5", 
 "georss_box_s": "43.5 -97.23 49.37 -89.53", 
 "dc_title_s": "Index of Historic Airphotos Avaliable via MNDNR's Webserver: Minnesota, 1930-2000", 
-"layer_slug_s": "Minnesota-urn-9e380267-e1eb-40fd-9892-3e7df2904ef5"
+"layer_slug_s": "9e380267-e1eb-40fd-9892-3e7df2904ef5", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

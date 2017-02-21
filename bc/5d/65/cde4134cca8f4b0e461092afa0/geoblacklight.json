@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:24Z", 
+"layer_modified_dt": "2017-01-20T18:41:00Z", 
 "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/water-fisheries-reclamations\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/water_fisheries_reclamations/shp_water_fisheries_reclamations.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/water_fisheries_reclamations/shp_water_fisheries_reclamations.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/water-fisheries-reclamations\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/bc/5d/65/cde4134cca8f4b0e461092afa0/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-bc5d65cd-e413-4cca-8f4b-0e461092afa0", 
+"uuid": "bc5d65cd-e413-4cca-8f4b-0e461092afa0", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Inland Waters"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-bc5d65cd-e413-4cca-8f4b-0e461092afa0", 
-"dc_relation_sm": [
-"<a href=N../../water_dnr_hydrography/metadata/dnr_hydrography_lakes_and_open_water.htmlN target=_blank><b>DNR Hydrography - Lakes and Open Water</b></a>"
-], 
+"dc_identifier_s": "bc5d65cd-e413-4cca-8f4b-0e461092afa0", 
 "georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
 "solr_year_i": 2007, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-bc5d65cd-e413-4cca-8f4b-0e461092afa0", 
+"layer_id_s": "bc5d65cd-e413-4cca-8f4b-0e461092afa0", 
 "georss_box_s": "43.5 -97.23 49.37 -89.53", 
 "dc_title_s": "DNR Hydrography, Fisheries Reclamation Events: Minnesota, 2007", 
-"layer_slug_s": "Minnesota-urn-bc5d65cd-e413-4cca-8f4b-0e461092afa0"
+"layer_slug_s": "bc5d65cd-e413-4cca-8f4b-0e461092afa0", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

@@ -1,10 +1,10 @@
 {
-"layer_geom_type_s": "Raster", 
-"layer_modified_dt": "2016-06-29T09:58:49Z", 
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2017-01-20T18:38:54Z", 
 "solr_geom": "ENVELOPE(-94.5, -94.01, 44.99, 44.62)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-geologic-atlas-mcle-c20a\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-geologic-atlas-mcle-c20a\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/65/a8/82/51a0bd42538c1ae4564f551251/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-65a88251-a0bd-4253-8c1a-e4564f551251", 
+"uuid": "65a88251-a0bd-4253-8c1a-e4564f551251", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Geoscientific Information"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Minnesota Geological Survey (MGS)"
 ], 
-"dc_identifier_s": "urn-65a88251-a0bd-4253-8c1a-e4564f551251", 
-"dc_relation_sm": [
-"C-20, Part A. Geologic Atlas of McLeod County, Minnesota. Barbara Lusardi, Project Manager. 2009. Color. 6 plates. Scales 1:100,000 and 1:200,000. Paper map and report available from MGS Map Sales Office (2609 Territorial Road, St. Paul, Minnesota, 55114, 612-626-2969.)For a listing of all geologic maps go to the Minnesota Geological Survey website at: http://www.mngs.umn.edu/mgsdocs.htmlFor a complete listing of MGS State Map Series Maps, Reports, and GIS Data, see http://conservancy.umn.edu/handle/11299/708 For other County Atlas and Regional Hydrogeologic Assessment data see: http://www.mngs.umn.edu/county_atlas/countyatlas.htm For a listing of the status of the DNR Ground Water Mapping Program, go to: http://www.dnr.state.mn.us/waters/groundwater_section/mapping/index.html"
-], 
+"dc_identifier_s": "65a88251-a0bd-4253-8c1a-e4564f551251", 
 "georss_polygon_s": "44.62 -94.5 44.99 -94.5 44.99 -94.01 44.62 -94.01 44.62 -94.5", 
 "solr_year_i": 2009, 
 "dct_spatial_sm": [
-"Minnesota", 
-"McLeod County, Minnesota"
+"Minnesota, United States", 
+"McLeod County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Geological Survey"
 ], 
-"layer_id_s": "urn:urn-65a88251-a0bd-4253-8c1a-e4564f551251", 
+"layer_id_s": "65a88251-a0bd-4253-8c1a-e4564f551251", 
 "georss_box_s": "44.62 -94.5 44.99 -94.01", 
 "dc_title_s": "Geologic Atlas of McLeod County, Minnesota (Part A), 2009", 
-"layer_slug_s": "Minnesota-urn-65a88251-a0bd-4253-8c1a-e4564f551251"
+"layer_slug_s": "65a88251-a0bd-4253-8c1a-e4564f551251", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

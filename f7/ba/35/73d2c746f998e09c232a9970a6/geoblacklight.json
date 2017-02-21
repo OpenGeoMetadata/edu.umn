@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Point", 
-"layer_modified_dt": "2016-08-18T18:33:12Z", 
+"layer_modified_dt": "2016-12-30T13:42:33Z", 
 "solr_geom": "ENVELOPE(-93.461466, -93.269514, 45.232337, 45.077839)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://gisdata.co.anoka.mn.us/Transit_Stations.zip\",\"http://schema.org/url\":\"https://www.anokacounty.us/1990/Data-Downloads\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://gisdata.co.anoka.mn.us/Transit_Stations.zip\",\"http://schema.org/url\":\"https://www.anokacounty.us/1990/Data-Downloads\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/f7/ba/35/73d2c746f998e09c232a9970a6/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-f7ba3573-d2c7-46f9-98e0-9c232a9970a6", 
+"uuid": "f7ba3573-d2c7-46f9-98e0-9c232a9970a6", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Transportation", 
@@ -19,18 +19,19 @@
 "Anoka County"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-f7ba3573-d2c7-46f9-98e0-9c232a9970a6", 
+"dc_identifier_s": "f7ba3573-d2c7-46f9-98e0-9c232a9970a6", 
 "georss_polygon_s": "45.077839 -93.461466 45.232337 -93.461466 45.232337 -93.269514 45.077839 -93.269514 45.077839 -93.461466", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Anoka County, Minnesota"
+"Anoka County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Anoka County"
 ], 
-"layer_id_s": "urn:urn-f7ba3573-d2c7-46f9-98e0-9c232a9970a6", 
+"layer_id_s": "f7ba3573-d2c7-46f9-98e0-9c232a9970a6", 
 "georss_box_s": "45.077839 -93.461466 45.232337 -93.269514", 
 "dc_title_s": "Transit Stations: Anoka County, Minnesota", 
-"layer_slug_s": "Minnesota-urn-f7ba3573-d2c7-46f9-98e0-9c232a9970a6"
+"layer_slug_s": "f7ba3573-d2c7-46f9-98e0-9c232a9970a6", 
+"dct_isPartOf_sm": "Anoka County GIS Data"
 }

@@ -61,7 +61,7 @@
       </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-06-29T09:58:41</gco:DateTime>
+      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2017-01-20T18:38:44</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
       <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -120,6 +120,12 @@
                 </gmd:role>
               </gmd:CI_ResponsibleParty>
             </gmd:citedResponsibleParty>
+            <gmd:otherCitationDetails>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Mixed</gco:CharacterString>
+            </gmd:otherCitationDetails>
+            <gmd:collectiveTitle>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Geospatial Commons</gco:CharacterString>
+            </gmd:collectiveTitle>
           </gmd:CI_Citation>
         </gmd:citation>
         <gmd:abstract>
@@ -197,43 +203,6 @@
             </gmd:fileDescription>
           </gmd:MD_BrowseGraphic>
         </gmd:graphicOverview>
-        <gmd:descriptiveKeywords>
-          <gmd:MD_Keywords>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minneapolis-St. Paul-Bloomington</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:type>
-              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="place"/>
-            </gmd:type>
-            <gmd:thesaurusName>
-              <gmd:CI_Citation>
-                <gmd:title>
-                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GeoNames</gco:CharacterString>
-                </gmd:title>
-                <gmd:date>
-                  <gmd:CI_Date>
-                    <gmd:date>
-                      <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2012-10-29</gco:Date>
-                    </gmd:date>
-                    <gmd:dateType>
-                      <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
-                    </gmd:dateType>
-                  </gmd:CI_Date>
-                </gmd:date>
-                <gmd:identifier>
-                  <gmd:MD_Identifier>
-                    <gmd:code>
-                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">http://www.geonames.org/ontology/ontology_v3.1.rdf</gco:CharacterString>
-                    </gmd:code>
-                  </gmd:MD_Identifier>
-                </gmd:identifier>
-              </gmd:CI_Citation>
-            </gmd:thesaurusName>
-          </gmd:MD_Keywords>
-        </gmd:descriptiveKeywords>
         <gmd:resourceConstraints>
           <gmd:MD_LegalConstraints>
             <gmd:accessConstraints>
@@ -293,21 +262,12 @@
               </gmd:EX_GeographicBoundingBox>
             </gmd:geographicElement>
             <gmd:temporalElement>
-              <gmd:EX_TemporalExtent id="boundingTemporalExtent">
+              <gmd:EX_TemporalExtent>
                 <gmd:extent>
-                  <gml:TimeInstant xmlns:gml="http://www.opengis.net/gml" gml:id="boundingTimeInstantExtent">
-                    <gml:description>Initial planned land use data was received between June, 2000 and April, 2002. Communities reviewed the currentness of the Planned Land Use Information between March 8, 2002 and May 10, 2002. The actual date of a community's locally adopted plan is not known but the regional data are current as of the date that the Comprehensive Plan was reviewed and subsequent amendments by the Metropolitan Council per the Metropolitan Land Planning Act of 1995 (Minn. Stat 473.864, Subd 2 and 473.175, Subd 1). The Metropolitan Land Planning Act of 1995 requires communities in the seven-county Twin Cities metropolitan area to submit a Comprehensive Plan and subsequent plan amendments to the Metropolitan Council for review and consideration of the impact, if any the plan or plan amendment may have on the regional systems (i.e., roads, parks, wastewater collection and treatment. 
-
-All communities' 2008 Comprehensive Plan information HAVE been incorporated into the Regional Planned Land Use dataset with the exception of the following: 
-
-Fort Snelling (Unorganized) - Does not need to submit a plan 
-Landfall 
-Lexington 
-Shakopee Mdewakanton Sioux Community (lands included in Prior Lake and Shakopee) - Does not need to submit a plan 
-
-NOTE: Some municipalities have Orderly Annexation Agreements (OAA) with surrounding township. This means that parts of the township may be incorporated into the municipalities at any time in the future. Carver and Scott County has acknowledged that communities with OAA with surrounding townships have planning authority. As such, land use designation in the OAA areas following the adjacent community land use definitions.</gml:description>
-                    <gml:timePosition>2015-09-23</gml:timePosition>
-                  </gml:TimeInstant>
+                  <gml:TimePeriod xmlns:gml="http://www.opengis.net/gml">
+                    <gml:beginPosition>2015</gml:beginPosition>
+                    <gml:endPosition>2015</gml:endPosition>
+                  </gml:TimePeriod>
                 </gmd:extent>
               </gmd:EX_TemporalExtent>
             </gmd:temporalElement>
@@ -319,6 +279,19 @@ NOTE: Some municipalities have Orderly Annexation Agreements (OAA) with surround
         <gmd:supplementalInformation>
           <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Twin Cities 7 County Metropolitan Area.  This includes the counties of Anoka, Carver, Dakota, Hennepin, Ramsey, Scott and Washington in Minnesota.</gco:CharacterString>
         </gmd:supplementalInformation>
+        <gmd:descriptiveKeywords>
+          <gmd:MD_Keywords>
+            <gmd:type>
+              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="place"/>
+            </gmd:type>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota, United States</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minneapolis-St. Paul-Bloomington, United States</gco:CharacterString>
+            </gmd:keyword>
+          </gmd:MD_Keywords>
+        </gmd:descriptiveKeywords>
       </gmd:MD_DataIdentification>
     </gmd:identificationInfo>
     <gmd:contentInfo>

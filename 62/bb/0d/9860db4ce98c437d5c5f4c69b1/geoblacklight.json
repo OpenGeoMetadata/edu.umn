@@ -1,33 +1,34 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:45Z", 
+"layer_modified_dt": "2017-01-20T18:40:10Z", 
 "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-society-census2000tiger-zcta\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Demographics/MapServer/32\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/society_census2000tiger_zcta/shp_society_census2000tiger_zcta.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/society_census2000tiger_zcta/shp_society_census2000tiger_zcta.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-society-census2000tiger-zcta\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/62/bb/0d/9860db4ce98c437d5c5f4c69b1/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-62bb0d98-60db-4ce9-8c43-7d5c5f4c69b1", 
+"uuid": "62bb0d98-60db-4ce9-8c43-7d5c5f4c69b1", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Society"
 ], 
 "dct_temporal_sm": "2000", 
 "dc_description_s": "A ZIP Code tabulation area (ZCTA) is a statistical geographic entity that approximates the delivery area for a U.S. Postal Service five-digit or three-digit ZIP Code. ZCTAs are aggregations of census blocks that have the same predominant ZIP Code associated with the addresses in the U.S. Census Bureau's Master Address File (MAF). Three-digit ZCTA codes are applied to large contiguous areas for which the U.S. Census Bureau does not have five-digit ZIP Code information in its MAF. ZCTAs do not precisely depict ZIP Code delivery areas, and do not include all ZIP Codes used for mail delivery. The U.S. Census Bureau has established ZCTAs as a new geographic entity similar to, but replacing, data tabulations for ZIP Codes undertaken in conjunction with the 1990 and earlier censuses.", 
-"dct_issued_s": "2000-01-01", 
+"dct_issued_s": "1999-12-30", 
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "U.S. Census Bureau"
 ], 
-"dc_identifier_s": "urn-62bb0d98-60db-4ce9-8c43-7d5c5f4c69b1", 
+"dc_identifier_s": "62bb0d98-60db-4ce9-8c43-7d5c5f4c69b1", 
 "georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
 "solr_year_i": 2000, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "U.S. Census Bureau"
 ], 
-"layer_id_s": "urn:urn-62bb0d98-60db-4ce9-8c43-7d5c5f4c69b1", 
+"layer_id_s": "62bb0d98-60db-4ce9-8c43-7d5c5f4c69b1", 
 "georss_box_s": "44.471 -94.012 45.415 -92.732", 
 "dc_title_s": "Census 2000 5-Digit ZIP Code Tabulation Areas (ZCTAs): Twin Cities Metro, Minnesota, 2000", 
-"layer_slug_s": "Minnesota-urn-62bb0d98-60db-4ce9-8c43-7d5c5f4c69b1"
+"layer_slug_s": "62bb0d98-60db-4ce9-8c43-7d5c5f4c69b1", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

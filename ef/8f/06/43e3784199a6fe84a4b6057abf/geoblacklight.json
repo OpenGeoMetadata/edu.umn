@@ -1,15 +1,19 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:14Z", 
+"layer_modified_dt": "2017-01-20T18:39:28Z", 
 "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-water-potential-sply-issue\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/water_potential_sply_issue/shp_water_potential_sply_issue.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/water_potential_sply_issue/shp_water_potential_sply_issue.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-water-potential-sply-issue\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/ef/8f/06/43e3784199a6fe84a4b6057abf/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-ef8f0643-e378-4199-a6fe-84a4b6057abf", 
+"uuid": "ef8f0643-e378-4199-a6fe-84a4b6057abf", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Inland Waters", 
-"water supply", 
-"planning"
+"Planning", 
+"Water Supply", 
+"Water Supply", 
+"Planning", 
+"Water supply", 
+"Metropolitan Council"
 ], 
 "dct_temporal_sm": "2015", 
 "dc_description_s": "The Potential Water Supply Issues dataset encompasses the seven county Twin Cities (Minneapolis and St. Paul) Metropolitan Area in Minnesota. The dataset was developed by the Metropolitan Council, a regional governmental organization that deals, in part, with regional issues and long range planning for the Twin Cities area. The data were interpreted from several existing state agencies datasets. This dataset is composed of one feature class and three standalone tables. - PotentialWaterSupplyIssues = Detailed potential water supply issue polygons - PotentialWaterSupplyIssuesByCTU = Standalone table with summary of potential water supply issues by CTU - PotentialWaterSupplyIssuesByCounty = Standalone table with summary of potential water supply issues by county - PotentialWaterSupplyIssuesByWatershed = Standalone table with summary of potential water supply issues by Watershed Management District or Organization See NAttributesN section of the metadata for a detailed description of each of these water supply issue categories.", 
@@ -18,21 +22,19 @@
 "dc_creator_sm": [
 "Metropolitan Council"
 ], 
-"dc_identifier_s": "urn-ef8f0643-e378-4199-a6fe-84a4b6057abf", 
-"dc_relation_sm": [
-"Community and township information (Metropolitan Council)Watershed information (Metropolitan Council)Watershed Management Districts and Organizations (BWSR)Drinking Water Supply Management Area boundaries (MDH)Drinking Water Supply Management Area vulnerability (MDH)Special Well Boring and Construction Areas (Metropolitan Council)Trends in groundwater level observation wells (DNR)Calcareous fen locations (DNR)Vertical travel time from land surface to uppermost bedrock aquifers (MGS)County information (Metropolitan Council)Karst Feature Inventory (DNR)Trout stream locations (DNR)Supplier status information (Metropolitan Council)Regional groundwater flow model scenarios for 2040 (Metropolitan Council)Surface water feature vulnerability (Metropolitan Council)Aquifer tests (MDH)Groundwater level observation wells (DNR)Groundwater Management Area (DNR)Shakopee Mdewakanton Sioux Community infomration (SMSC)"
-], 
+"dc_identifier_s": "ef8f0643-e378-4199-a6fe-84a4b6057abf", 
 "georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-ef8f0643-e378-4199-a6fe-84a4b6057abf", 
+"layer_id_s": "ef8f0643-e378-4199-a6fe-84a4b6057abf", 
 "georss_box_s": "44.471 -94.012 45.415 -92.732", 
 "dc_title_s": "Potential Water Supply Issues By Watershed: Twin Cities Metro, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-ef8f0643-e378-4199-a6fe-84a4b6057abf"
+"layer_slug_s": "ef8f0643-e378-4199-a6fe-84a4b6057abf", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

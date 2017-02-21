@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:24Z", 
+"layer_modified_dt": "2017-01-20T18:39:42Z", 
 "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-econ-residential-building-permts\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/econ_residential_building_permts/shp_econ_residential_building_permts.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/econ_residential_building_permts/shp_econ_residential_building_permts.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-econ-residential-building-permts\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/a7/d4/16/290b904cc1afc98db68fd5f37b/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-a7d41629-0b90-4cc1-afc9-8db68fd5f37b", 
+"uuid": "a7d41629-0b90-4cc1-afc9-8db68fd5f37b", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Economy"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Metropolitan Council"
 ], 
-"dc_identifier_s": "urn-a7d41629-0b90-4cc1-afc9-8db68fd5f37b", 
-"dc_relation_sm": [
-"Commercial, Industrial, and Public and Institutional Construction, Twin Cities Metropolitan Area"
-], 
+"dc_identifier_s": "a7d41629-0b90-4cc1-afc9-8db68fd5f37b", 
 "georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-a7d41629-0b90-4cc1-afc9-8db68fd5f37b", 
+"layer_id_s": "a7d41629-0b90-4cc1-afc9-8db68fd5f37b", 
 "georss_box_s": "44.471 -94.012 45.415 -92.732", 
 "dc_title_s": "Residential Building Permits: Twin Cities Metro, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-a7d41629-0b90-4cc1-afc9-8db68fd5f37b"
+"layer_slug_s": "a7d41629-0b90-4cc1-afc9-8db68fd5f37b", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

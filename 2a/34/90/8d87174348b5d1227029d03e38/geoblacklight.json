@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-08-18T18:02:24Z", 
+"layer_modified_dt": "2016-12-30T13:41:51Z", 
 "solr_geom": "ENVELOPE(-93.51288, -93.264132, 45.414007, 45.034986)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://gisdata.co.anoka.mn.us/Railroad.zip\",\"http://schema.org/url\":\"https://www.anokacounty.us/1990/Data-Downloads\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://gisdata.co.anoka.mn.us/Railroad.zip\",\"http://schema.org/url\":\"https://www.anokacounty.us/1990/Data-Downloads\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/2a/34/90/8d87174348b5d1227029d03e38/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-2a34908d-8717-4348-b5d1-227029d03e38", 
+"uuid": "2a34908d-8717-4348-b5d1-227029d03e38", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Transportation", 
@@ -19,18 +19,19 @@
 "Anoka County"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-2a34908d-8717-4348-b5d1-227029d03e38", 
+"dc_identifier_s": "2a34908d-8717-4348-b5d1-227029d03e38", 
 "georss_polygon_s": "45.034986 -93.51288 45.414007 -93.51288 45.414007 -93.264132 45.034986 -93.264132 45.034986 -93.51288", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Anoka County, Minnesota"
+"Anoka County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Anoka County"
 ], 
-"layer_id_s": "urn:urn-2a34908d-8717-4348-b5d1-227029d03e38", 
+"layer_id_s": "2a34908d-8717-4348-b5d1-227029d03e38", 
 "georss_box_s": "45.034986 -93.51288 45.414007 -93.264132", 
 "dc_title_s": "Railroad: Anoka County, Minnesota", 
-"layer_slug_s": "Minnesota-urn-2a34908d-8717-4348-b5d1-227029d03e38"
+"layer_slug_s": "2a34908d-8717-4348-b5d1-227029d03e38", 
+"dct_isPartOf_sm": "Anoka County GIS Data"
 }

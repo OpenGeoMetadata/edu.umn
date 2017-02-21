@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Polygon", 
-"layer_modified_dt": "2016-09-19T17:04:40Z", 
+"layer_modified_dt": "2016-12-30T13:41:10Z", 
 "solr_geom": "ENVELOPE(-93.772, -93.1769, 45.2477, 44.7834)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/cde2b42d0da24de9b1bf7d7e178f3d83_2.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/PEOPLE_SOCIETY/MapServer/2\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/cde2b42d0da24de9b1bf7d7e178f3d83_2\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/cde2b42d0da24de9b1bf7d7e178f3d83_2.zip\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/cde2b42d0da24de9b1bf7d7e178f3d83_2\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/17/04/df/505a98478da44379dd32ef286d/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/PEOPLE_SOCIETY/MapServer/2\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-1704df50-5a98-478d-a443-79dd32ef286d", 
+"uuid": "1704df50-5a98-478d-a443-79dd32ef286d", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Society"
@@ -17,18 +17,19 @@
 "Hennepin County"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-1704df50-5a98-478d-a443-79dd32ef286d", 
+"dc_identifier_s": "1704df50-5a98-478d-a443-79dd32ef286d", 
 "georss_polygon_s": "44.7834 -93.772 45.2477 -93.772 45.2477 -93.1769 44.7834 -93.1769 44.7834 -93.772", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Hennepin County, Minnesota", 
-"Minnesota"
+"Hennepin County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Hennepin County"
 ], 
-"layer_id_s": "urn:urn-1704df50-5a98-478d-a443-79dd32ef286d", 
+"layer_id_s": "1704df50-5a98-478d-a443-79dd32ef286d", 
 "georss_box_s": "44.7834 -93.772 45.2477 -93.1769", 
 "dc_title_s": "2010 Census Block Groups: Hennepin County, Minnesota", 
-"layer_slug_s": "Minnesota-urn-1704df50-5a98-478d-a443-79dd32ef286d"
+"layer_slug_s": "1704df50-5a98-478d-a443-79dd32ef286d", 
+"dct_isPartOf_sm": "Hennepin County Open Data"
 }

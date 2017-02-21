@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:58:43Z", 
+"layer_modified_dt": "2017-01-20T18:38:47Z", 
 "solr_geom": "ENVELOPE(-91.827142, -90.995086, 48.204922, 46.929418)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-co-lake-plan-tax-parcels\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_lake/plan_tax_parcels/shp_plan_tax_parcels.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_lake/plan_tax_parcels/shp_plan_tax_parcels.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-co-lake-plan-tax-parcels\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/60/07/70/94d98148e4b40b4a98482bb288/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-60077094-d981-48e4-b40b-4a98482bb288", 
+"uuid": "60077094-d981-48e4-b40b-4a98482bb288", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Planning and Cadastral"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Lake County"
 ], 
-"dc_identifier_s": "urn-60077094-d981-48e4-b40b-4a98482bb288", 
-"dc_relation_sm": [
-"Generalized Land Ownership, Lake County, Minnesota"
-], 
+"dc_identifier_s": "60077094-d981-48e4-b40b-4a98482bb288", 
 "georss_polygon_s": "46.929418 -91.827142 48.204922 -91.827142 48.204922 -90.995086 46.929418 -90.995086 46.929418 -91.827142", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Lake County, Minnesota"
+"Minnesota, United States", 
+"Lake County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Lake County, Minnesota"
 ], 
-"layer_id_s": "urn:urn-60077094-d981-48e4-b40b-4a98482bb288", 
+"layer_id_s": "60077094-d981-48e4-b40b-4a98482bb288", 
 "georss_box_s": "46.929418 -91.827142 48.204922 -90.995086", 
 "dc_title_s": "Tax Parcels: Lake County, Minnesota, 2014", 
-"layer_slug_s": "Minnesota-urn-60077094-d981-48e4-b40b-4a98482bb288"
+"layer_slug_s": "60077094-d981-48e4-b40b-4a98482bb288", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

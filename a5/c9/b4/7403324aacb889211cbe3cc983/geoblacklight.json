@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-09-28T11:26:34Z", 
+"layer_modified_dt": "2016-12-30T13:42:03Z", 
 "solr_geom": "ENVELOPE(-93.3194380751523, -93.2075556763572, 45.0439545295464, 44.9395269991145)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/4c768a5aa3154f85bd80dc9c5dd0ebf7_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Industrial_Employment_Districts/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/4c768a5aa3154f85bd80dc9c5dd0ebf7_0.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/4c768a5aa3154f85bd80dc9c5dd0ebf7_0.zip\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/4c768a5aa3154f85bd80dc9c5dd0ebf7_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/a5/c9/b4/7403324aacb889211cbe3cc983/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Industrial_Employment_Districts/FeatureServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-a5c9b474-0332-4aac-b889-211cbe3cc983", 
+"uuid": "a5c9b474-0332-4aac-b889-211cbe3cc983", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Planning and Cadastral"
@@ -17,18 +17,19 @@
 "City of Minneapolis"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-a5c9b474-0332-4aac-b889-211cbe3cc983", 
+"dc_identifier_s": "a5c9b474-0332-4aac-b889-211cbe3cc983", 
 "georss_polygon_s": "44.9395269991145 -93.3194380751523 45.0439545295464 -93.3194380751523 45.0439545295464 -93.2075556763572 44.9395269991145 -93.2075556763572 44.9395269991145 -93.3194380751523", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minneapolis, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "City of Minneapolis"
 ], 
-"layer_id_s": "urn:urn-a5c9b474-0332-4aac-b889-211cbe3cc983", 
+"layer_id_s": "a5c9b474-0332-4aac-b889-211cbe3cc983", 
 "georss_box_s": "44.9395269991145 -93.3194380751523 45.0439545295464 -93.2075556763572", 
 "dc_title_s": "Industrial Employment Districts: Minneapolis, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-a5c9b474-0332-4aac-b889-211cbe3cc983"
+"layer_slug_s": "a5c9b474-0332-4aac-b889-211cbe3cc983", 
+"dct_isPartOf_sm": "Minneapolis Open Data"
 }

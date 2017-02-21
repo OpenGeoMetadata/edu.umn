@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:58:59Z", 
+"layer_modified_dt": "2017-01-20T18:39:08Z", 
 "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/water-altered-watercourse\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/water-altered-watercourse\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/50/19/8a/d6e4f545bfba84b01160c30b29/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-50198ad6-e4f5-45bf-ba84-b01160c30b29", 
+"uuid": "50198ad6-e4f5-45bf-ba84-b01160c30b29", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Inland Waters"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Geospatial Information Office (MnGeo) for the Minnesota Pollution Control Agency"
 ], 
-"dc_identifier_s": "urn-50198ad6-e4f5-45bf-ba84-b01160c30b29", 
-"dc_relation_sm": [
-"The high-resolution National Hydrography Dataset (NHD) NHD flowline feature class provided the linework upon which the altered watercourse determinations were created."
-], 
+"dc_identifier_s": "50198ad6-e4f5-45bf-ba84-b01160c30b29", 
 "georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Pollution Control Agency"
 ], 
-"layer_id_s": "urn:urn-50198ad6-e4f5-45bf-ba84-b01160c30b29", 
+"layer_id_s": "50198ad6-e4f5-45bf-ba84-b01160c30b29", 
 "georss_box_s": "43.5 -97.23 49.37 -89.53", 
 "dc_title_s": "Statewide Altered Watercourse Project: Minnesota, 2014", 
-"layer_slug_s": "Minnesota-urn-50198ad6-e4f5-45bf-ba84-b01160c30b29"
+"layer_slug_s": "50198ad6-e4f5-45bf-ba84-b01160c30b29", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

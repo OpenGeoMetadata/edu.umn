@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Point", 
-"layer_modified_dt": "2016-09-26T11:43:41Z", 
+"layer_modified_dt": "2016-12-30T13:42:13Z", 
 "solr_geom": "ENVELOPE(-93.3265378668995, -93.2035098716324, 45.0465909765695, 44.8968498518338)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/7d3234542a454bd2aa213530a83b978c_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/msvcElections_PollingLocations/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/7d3234542a454bd2aa213530a83b978c_0.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/7d3234542a454bd2aa213530a83b978c_0.zip\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/7d3234542a454bd2aa213530a83b978c_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/f4/a7/c8/b42ccb4f31b6190e9b08a63d17/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/msvcElections_PollingLocations/FeatureServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-f4a7c8b4-2ccb-4f31-b619-0e9b08a63d17", 
+"uuid": "f4a7c8b4-2ccb-4f31-b619-0e9b08a63d17", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Location"
@@ -17,18 +17,19 @@
 "City of Minneapolis"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-f4a7c8b4-2ccb-4f31-b619-0e9b08a63d17", 
+"dc_identifier_s": "f4a7c8b4-2ccb-4f31-b619-0e9b08a63d17", 
 "georss_polygon_s": "44.8968498518338 -93.3265378668995 45.0465909765695 -93.3265378668995 45.0465909765695 -93.2035098716324 44.8968498518338 -93.2035098716324 44.8968498518338 -93.3265378668995", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minneapolis, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "City of Minneapolis"
 ], 
-"layer_id_s": "urn:urn-f4a7c8b4-2ccb-4f31-b619-0e9b08a63d17", 
+"layer_id_s": "f4a7c8b4-2ccb-4f31-b619-0e9b08a63d17", 
 "georss_box_s": "44.8968498518338 -93.3265378668995 45.0465909765695 -93.2035098716324", 
 "dc_title_s": "Elections Polling Locations: Minneapolis, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-f4a7c8b4-2ccb-4f31-b619-0e9b08a63d17"
+"layer_slug_s": "f4a7c8b4-2ccb-4f31-b619-0e9b08a63d17", 
+"dct_isPartOf_sm": "Minneapolis Open Data"
 }

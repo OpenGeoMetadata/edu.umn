@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Point", 
-"layer_modified_dt": "2016-08-17T17:10:08Z", 
+"layer_modified_dt": "2017-01-20T18:39:45Z", 
 "solr_geom": "ENVELOPE(-97.25068, -89.597207, 49.37257, 43.444465)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/struc-school-program-locs\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mde/struc_school_program_locs/shp_struc_school_program_locs.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mde/struc_school_program_locs/shp_struc_school_program_locs.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/struc-school-program-locs\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/4a/a7/27/fe36ec4a7ab730fc57ae35e9fa/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-4aa727fe-36ec-4a7a-b730-fc57ae35e9fa", 
+"uuid": "4aa727fe-36ec-4a7a-b730-fc57ae35e9fa", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Structure"
@@ -15,20 +15,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Education"
 ], 
-"dc_identifier_s": "urn-4aa727fe-36ec-4a7a-b730-fc57ae35e9fa", 
-"dc_relation_sm": [
-"See related school datasets at:http://www.mngeo.state.mn.us/chouse/metalong.html#admin"
-], 
+"dc_identifier_s": "4aa727fe-36ec-4a7a-b730-fc57ae35e9fa", 
 "georss_polygon_s": "43.444465 -97.25068 49.37257 -97.25068 49.37257 -89.597207 43.444465 -89.597207 43.444465 -97.25068", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Education"
 ], 
-"layer_id_s": "urn:urn-4aa727fe-36ec-4a7a-b730-fc57ae35e9fa", 
+"layer_id_s": "4aa727fe-36ec-4a7a-b730-fc57ae35e9fa", 
 "georss_box_s": "43.444465 -97.25068 49.37257 -89.597207", 
 "dc_title_s": "School Program Locations: Minnesota, SY2015-2016", 
-"layer_slug_s": "Minnesota-urn-4aa727fe-36ec-4a7a-b730-fc57ae35e9fa"
+"layer_slug_s": "4aa727fe-36ec-4a7a-b730-fc57ae35e9fa", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

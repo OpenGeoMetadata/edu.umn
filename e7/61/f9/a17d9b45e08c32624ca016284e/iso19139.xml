@@ -39,7 +39,7 @@
       </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-09-21T16:51:42</gco:DateTime>
+      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-12-30T13:42:09</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
       <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
@@ -163,24 +163,17 @@
             <gmd:presentationForm>
               <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115"/>
             </gmd:presentationForm>
+            <gmd:otherCitationDetails>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Point</gco:CharacterString>
+            </gmd:otherCitationDetails>
+            <gmd:collectiveTitle>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Open Ramsey County</gco:CharacterString>
+            </gmd:collectiveTitle>
           </gmd:CI_Citation>
         </gmd:citation>
         <gmd:abstract>
           <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Attributed Parcel Point contains data fields previously contained in Ramsey County Users Group shapefiles, ParPts and OnLineCore, and MetroGIS Parcel Datasets. These fields are populated from a compilation of records and information from various state, county and city offices, and other sources. This data is joined to Ramsey Countys Parcel Point data using a property identification number (PIN) which is assigned to both polygons and points and is the primary link to county tax and assessment data. In 1986, parcels were digitized from hand drawn 1:2400 half and 1:1200 quarter section maps. In 1995, the parcel data layer was converted to ArcINFO format and held in the ArcStorm data base. Parcel Points were created from parcel centroids. Parcel Points were converted in 2005 to an ESRI ArcGIS GeoDatabase. When Parcel Points were originally created, there was a one-to-one relationship with identical PINs on both Parcel Polygons and Parcel Points with additional Parcel Points added for Common Interest Communities, Apartment Ownerships or Condominiums, where there is a one-to-many relationship with the Parcel Polygon having the smallest PIN for all associated Parcel Points. Parcel Points were also added for Manufactured Homes and are being added for Apartment Units. The PIN for Manufactured Homes contains a number for the Manufactured Home Park followed by an M then a unique number. The PIN for Apartments Units begins with a U and is followed by the PIN for the Parcel Polygon; attribute data for Apartment Units consists primarily of site address information. The Attributed Parcel Point field, TaxParcelID, can be used to identify the associated Parcel Polygon based on its PIN, and ParcelCode can be used to identify if there is a one-to-many relationship between the point &amp; polygon features.</gco:CharacterString>
         </gmd:abstract>
-        <gmd:descriptiveKeywords>
-          <gmd:MD_Keywords>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Ramsey County, Minnesota</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:type>
-              <gmd:MD_KeywordTypeCode codeList="" codeListValue="place"/>
-            </gmd:type>
-          </gmd:MD_Keywords>
-        </gmd:descriptiveKeywords>
         <gmd:resourceConstraints>
           <gmd:MD_Constraints>
             <gmd:useLimitation>
@@ -237,6 +230,19 @@
             </gmd:temporalElement>
           </gmd:EX_Extent>
         </gmd:extent>
+        <gmd:descriptiveKeywords>
+          <gmd:MD_Keywords>
+            <gmd:type>
+              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="place"/>
+            </gmd:type>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Ramsey County, Minnesota, United States</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota, United States</gco:CharacterString>
+            </gmd:keyword>
+          </gmd:MD_Keywords>
+        </gmd:descriptiveKeywords>
       </gmd:MD_DataIdentification>
     </gmd:identificationInfo>
     <gmd:distributionInfo>
@@ -279,9 +285,6 @@
                 <gmd:name>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Shapefile</gco:CharacterString>
                 </gmd:name>
-                <gmd:version xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
-                  <gco:CharacterString/>
-                </gmd:version>
               </gmd:MD_Format>
             </gmd:distributorFormat>
           </gmd:MD_Distributor>
@@ -296,9 +299,6 @@
                 <gmd:protocol>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">download</gco:CharacterString>
                 </gmd:protocol>
-                <gmd:name xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
-                  <gco:CharacterString/>
-                </gmd:name>
                 <gmd:description>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Shapefile</gco:CharacterString>
                 </gmd:description>
@@ -319,9 +319,6 @@
                 <gmd:protocol>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ESRI:ArcGIS</gco:CharacterString>
                 </gmd:protocol>
-                <gmd:name xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
-                  <gco:CharacterString/>
-                </gmd:name>
                 <gmd:description>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Esri REST Service</gco:CharacterString>
                 </gmd:description>
@@ -339,9 +336,6 @@
                 <gmd:protocol>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:LINK</gco:CharacterString>
                 </gmd:protocol>
-                <gmd:name xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
-                  <gco:CharacterString/>
-                </gmd:name>
                 <gmd:description>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Information</gco:CharacterString>
                 </gmd:description>

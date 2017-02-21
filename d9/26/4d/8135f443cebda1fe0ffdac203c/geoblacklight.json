@@ -1,8 +1,8 @@
 {
 "layer_geom_type_s": "Polygon", 
-"layer_modified_dt": "2016-09-21T16:46:44Z", 
+"layer_modified_dt": "2016-12-30T13:41:41Z", 
 "solr_geom": "ENVELOPE(-93.2284, -92.9826, 45.1245, 44.8869)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/dfd1dad7720b456bb0cb00eabb40056e_12.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/12\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/dfd1dad7720b456bb0cb00eabb40056e_12\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/dfd1dad7720b456bb0cb00eabb40056e_12.zip\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/dfd1dad7720b456bb0cb00eabb40056e_12\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/d9/26/4d/8135f443cebda1fe0ffdac203c/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/12\"}", 
 "dc_rights_s": "Public", 
 "uuid": "d9264d81-35f4-43ce-bda1-fe0ffdac203c", 
 "dct_provenance_s": "Minnesota", 
@@ -21,14 +21,15 @@
 "georss_polygon_s": "44.8869 -93.2284 45.1245 -93.2284 45.1245 -92.9826 44.8869 -92.9826 44.8869 -93.2284", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Ramsey County, Minnesota", 
-"Minnesota"
+"Ramsey County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "OpenRamsey"
 ], 
-"layer_id_s": "urn:d9264d81-35f4-43ce-bda1-fe0ffdac203c", 
+"layer_id_s": "d9264d81-35f4-43ce-bda1-fe0ffdac203c", 
 "georss_box_s": "44.8869 -93.2284 45.1245 -92.9826", 
 "dc_title_s": "Quarter Sections: Ramsey County, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-d9264d81-35f4-43ce-bda1-fe0ffdac203c"
+"layer_slug_s": "d9264d81-35f4-43ce-bda1-fe0ffdac203c", 
+"dct_isPartOf_sm": "Open Ramsey County"
 }

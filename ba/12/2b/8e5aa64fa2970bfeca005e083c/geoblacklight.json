@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-09-29T17:01:48Z", 
+"layer_modified_dt": "2016-12-30T13:42:18Z", 
 "solr_geom": "ENVELOPE(-93.32913577, -93.1938489, 45.05125116, 44.89047145)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/02ab4e12be434fee9d266531f563a6e8_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Police_Precincts/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/02ab4e12be434fee9d266531f563a6e8_0.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/02ab4e12be434fee9d266531f563a6e8_0.zip\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/02ab4e12be434fee9d266531f563a6e8_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/ba/12/2b/8e5aa64fa2970bfeca005e083c/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Police_Precincts/FeatureServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-ba122b8e-5aa6-4fa2-970b-feca005e083c", 
+"uuid": "ba122b8e-5aa6-4fa2-970b-feca005e083c", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Boundaries"
@@ -17,18 +17,19 @@
 "City of Minneapolis"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-ba122b8e-5aa6-4fa2-970b-feca005e083c", 
+"dc_identifier_s": "ba122b8e-5aa6-4fa2-970b-feca005e083c", 
 "georss_polygon_s": "44.89047145 -93.32913577 45.05125116 -93.32913577 45.05125116 -93.1938489 44.89047145 -93.1938489 44.89047145 -93.32913577", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minneapolis, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "City of Minneapolis"
 ], 
-"layer_id_s": "urn:urn-ba122b8e-5aa6-4fa2-970b-feca005e083c", 
+"layer_id_s": "ba122b8e-5aa6-4fa2-970b-feca005e083c", 
 "georss_box_s": "44.89047145 -93.32913577 45.05125116 -93.1938489", 
 "dc_title_s": "Minneapolis Police Precincts: Minneapolis, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-ba122b8e-5aa6-4fa2-970b-feca005e083c"
+"layer_slug_s": "ba122b8e-5aa6-4fa2-970b-feca005e083c", 
+"dct_isPartOf_sm": "Minneapolis Open Data"
 }

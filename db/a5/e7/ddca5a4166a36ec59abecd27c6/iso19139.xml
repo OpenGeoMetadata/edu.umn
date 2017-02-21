@@ -58,7 +58,7 @@
       </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-08-31T13:58:31</gco:DateTime>
+      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2017-01-20T18:40:12</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
       <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -80,9 +80,6 @@
         </gmd:geometricObjects>
       </gmd:MD_VectorSpatialRepresentation>
     </gmd:spatialRepresentationInfo>
-    <gmd:referenceSystemInfo>
-      <gmd:MD_ReferenceSystem/>
-    </gmd:referenceSystemInfo>
     <gmd:referenceSystemInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ngdc.noaa.gov/docucomp/65f8b220-95ed-11e0-aa80-0800200c9a66" xlink:title="North American Datum 1983"/>
     <gmd:referenceSystemInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ngdc.noaa.gov/docucomp/c3895520-95ed-11e0-aa80-0800200c9a66" xlink:title="Geodetic Reference System 1980"/>
     <gmd:identificationInfo>
@@ -124,20 +121,6 @@
                 <gmd:organisationName>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">University of Minnesota</gco:CharacterString>
                 </gmd:organisationName>
-                <gmd:contactInfo>
-                  <gmd:CI_Contact>
-                    <gmd:address>
-                      <gmd:CI_Address>
-                        <gmd:city xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
-                          <gco:CharacterString/>
-                        </gmd:city>
-                        <gmd:administrativeArea xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
-                          <gco:CharacterString/>
-                        </gmd:administrativeArea>
-                      </gmd:CI_Address>
-                    </gmd:address>
-                  </gmd:CI_Contact>
-                </gmd:contactInfo>
                 <gmd:role>
                   <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="010"/>
                 </gmd:role>
@@ -146,6 +129,12 @@
             <gmd:presentationForm>
               <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="005"/>
             </gmd:presentationForm>
+            <gmd:otherCitationDetails>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Mixed</gco:CharacterString>
+            </gmd:otherCitationDetails>
+            <gmd:collectiveTitle>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Geospatial Commons</gco:CharacterString>
+            </gmd:collectiveTitle>
           </gmd:CI_Citation>
         </gmd:citation>
         <gmd:abstract>
@@ -170,9 +159,6 @@
             </gmd:positionName>
             <gmd:contactInfo>
               <gmd:CI_Contact>
-                <gmd:phone>
-                  <gmd:CI_Telephone/>
-                </gmd:phone>
                 <gmd:address>
                   <gmd:CI_Address>
                     <gmd:electronicMailAddress>
@@ -240,8 +226,8 @@
             <gmd:temporalElement>
               <gmd:EX_TemporalExtent>
                 <gmd:extent>
-                  <gml:TimePeriod xmlns:gml="http://www.opengis.net/gml" gml:id="d948943e281a1052958">
-                    <gml:beginPosition/>
+                  <gml:TimePeriod xmlns:gml="http://www.opengis.net/gml">
+                    <gml:endPosition>1958</gml:endPosition>
                   </gml:TimePeriod>
                 </gmd:extent>
               </gmd:EX_TemporalExtent>
@@ -251,6 +237,19 @@
         <gmd:supplementalInformation>
           <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Twin Cities County Metropolitan Area</gco:CharacterString>
         </gmd:supplementalInformation>
+        <gmd:descriptiveKeywords>
+          <gmd:MD_Keywords>
+            <gmd:type>
+              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="place"/>
+            </gmd:type>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota, United States</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minneapolis-St. Paul-Bloomington, United States</gco:CharacterString>
+            </gmd:keyword>
+          </gmd:MD_Keywords>
+        </gmd:descriptiveKeywords>
       </gmd:MD_DataIdentification>
     </gmd:identificationInfo>
     <gmd:contentInfo>
@@ -261,7 +260,6 @@
         <gmd:featureTypes>
           <gco:LocalName xmlns:gco="http://www.isotc211.org/2005/gco" codeSpace="L1958_poly"/>
         </gmd:featureTypes>
-        <gmd:featureCatalogueCitation/>
       </gmd:MD_FeatureCatalogueDescription>
     </gmd:contentInfo>
     <gmd:distributionInfo>
@@ -381,17 +379,11 @@
         </gmd:report>
         <gmd:report>
           <gmd:DQ_CompletenessOmission>
-            <gmd:evaluationMethodDescription xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
-              <gco:CharacterString/>
-            </gmd:evaluationMethodDescription>
             <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
           </gmd:DQ_CompletenessOmission>
         </gmd:report>
         <gmd:report>
           <gmd:DQ_ConceptualConsistency>
-            <gmd:measureDescription xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
-              <gco:CharacterString/>
-            </gmd:measureDescription>
             <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
           </gmd:DQ_ConceptualConsistency>
         </gmd:report>
@@ -409,7 +401,6 @@
                     associated coverage files and original map scans were zipped into one file for
                     download and reuse.</gco:CharacterString>
                 </gmd:description>
-                <gmd:dateTime/>
               </gmd:LI_ProcessStep>
             </gmd:processStep>
           </gmd:LI_Lineage>

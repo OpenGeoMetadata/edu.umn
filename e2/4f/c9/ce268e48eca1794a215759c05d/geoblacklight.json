@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Point", 
-"layer_modified_dt": "2016-08-19T14:03:55Z", 
+"layer_modified_dt": "2016-12-30T13:42:06Z", 
 "solr_geom": "ENVELOPE(-93.451861, -93.04847, 45.401705, 45.055135)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://gisdata.co.anoka.mn.us/Schools.zip\",\"http://schema.org/url\":\"https://www.anokacounty.us/1990/Data-Downloads\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://gisdata.co.anoka.mn.us/Schools.zip\",\"http://schema.org/url\":\"https://www.anokacounty.us/1990/Data-Downloads\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/e2/4f/c9/ce268e48eca1794a215759c05d/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-e24fc9ce-268e-48ec-a179-4a215759c05d", 
+"uuid": "e24fc9ce-268e-48ec-a179-4a215759c05d", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Society", 
@@ -19,18 +19,19 @@
 "Anoka County"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-e24fc9ce-268e-48ec-a179-4a215759c05d", 
+"dc_identifier_s": "e24fc9ce-268e-48ec-a179-4a215759c05d", 
 "georss_polygon_s": "45.055135 -93.451861 45.401705 -93.451861 45.401705 -93.04847 45.055135 -93.04847 45.055135 -93.451861", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Anoka County, Minnesota"
+"Anoka County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Anoka County"
 ], 
-"layer_id_s": "urn:urn-e24fc9ce-268e-48ec-a179-4a215759c05d", 
+"layer_id_s": "e24fc9ce-268e-48ec-a179-4a215759c05d", 
 "georss_box_s": "45.055135 -93.451861 45.401705 -93.04847", 
 "dc_title_s": "Schools: Anoka County, Minnesota", 
-"layer_slug_s": "Minnesota-urn-e24fc9ce-268e-48ec-a179-4a215759c05d"
+"layer_slug_s": "e24fc9ce-268e-48ec-a179-4a215759c05d", 
+"dct_isPartOf_sm": "Anoka County GIS Data"
 }

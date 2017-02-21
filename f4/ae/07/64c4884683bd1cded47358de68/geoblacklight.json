@@ -1,24 +1,22 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:58:59Z", 
+"layer_modified_dt": "2017-01-20T18:39:09Z", 
 "solr_geom": "ENVELOPE(-98, -88, 50, 43)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-statsgo2\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-statsgo2\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/f4/ae/07/64c4884683bd1cded47358de68/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-f4ae0764-c488-4683-bd1c-ded47358de68", 
+"uuid": "f4ae0764-c488-4683-bd1c-ded47358de68", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Geoscientific Information"
 ], 
-"dc_format_s": "File", 
+"dct_temporal_sm": "2006", 
 "dc_description_s": "This data set consists of general soil association units. It was developed by the National Cooperative Soil Survey and supersedes the State Soil Geographic (STATSGO) data set published in 1994. It consists of a broad based inventory of soils and nonsoil areas that occur in a repeatable pattern on the landscape and that can be cartographically shown at the scale mapped. The data set was created by generalizing more detailed soil survey maps. Where more detailed soil survey maps were not available, data on geology, topography, vegetation, and climate were assembled, together with Land Remote Sensing Satellite (LANDSAT) images. Soils of like areas were studied, and the probable classification and extent of the soils were determined. Map unit composition was determined by transecting or sampling areas on the more detailed maps and expanding the data statistically to characterize the whole map unit. This data set consists of georeferenced vector digital data and tabular digital data. The map data were collected in 1-by 2-degree topographic quadrangle units and merged into a seamless national data set. It is distributed in state/territory and national extents. The soil map units are linked to attributes in the National Soil Information System data base which gives the proportionate extent of the component soils and their properties. (Note: MnGeo adapted the NRCS metadata record to create this record using the Minnesota Geographic Metadata Guidelines.)", 
 "dct_issued_s": "2006-01-01", 
+"dc_format_s": "File", 
 "dc_creator_sm": [
 "U.S. Department of Agriculture (USDA), Natural Resources Conservation Service (NRCS)"
 ], 
-"dc_identifier_s": "urn-f4ae0764-c488-4683-bd1c-ded47358de68", 
-"dc_relation_sm": [
-"For information on other soils data available for Minnesota, see: http://www.mngeo.state.mn.us/chouse/soil.html"
-], 
+"dc_identifier_s": "f4ae0764-c488-4683-bd1c-ded47358de68", 
 "georss_polygon_s": "43 -98 50 -98 50 -88 43 -88 43 -98", 
 "solr_year_i": 2006, 
 "dct_spatial_sm": [
@@ -27,8 +25,9 @@
 "dc_publisher_sm": [
 "U.S. Department of Agriculture"
 ], 
-"layer_id_s": "urn:urn-f4ae0764-c488-4683-bd1c-ded47358de68", 
+"layer_id_s": "f4ae0764-c488-4683-bd1c-ded47358de68", 
 "georss_box_s": "43 -98 50 -88", 
 "dc_title_s": "Digital General Soil Map (STATSGO2): United States", 
-"layer_slug_s": "Minnesota-urn-f4ae0764-c488-4683-bd1c-ded47358de68"
+"layer_slug_s": "f4ae0764-c488-4683-bd1c-ded47358de68", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:11Z", 
+"layer_modified_dt": "2017-01-20T18:39:25Z", 
 "solr_geom": "ENVELOPE(-93.048219, -92.717925, 45.298589, 44.729717)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-washington-2013-airphotos\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-washington-2013-airphotos\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/70/27/d6/fe7bba4861b0298529c92ddb7f/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-7027d6fe-7bba-4861-b029-8529c92ddb7f", 
+"uuid": "7027d6fe-7bba-4861-b029-8529c92ddb7f", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Imagery and Base Maps"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Washington County"
 ], 
-"dc_identifier_s": "urn-7027d6fe-7bba-4861-b029-8529c92ddb7f", 
-"dc_relation_sm": [
-"For information on other air photos available for Minnesota, see: http://www.mngeo.state.mn.us/chouse/airphoto/"
-], 
+"dc_identifier_s": "7027d6fe-7bba-4861-b029-8529c92ddb7f", 
 "georss_polygon_s": "44.729717 -93.048219 45.298589 -93.048219 45.298589 -92.717925 44.729717 -92.717925 44.729717 -93.048219", 
 "solr_year_i": 2013, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Washington County, Minnesota"
+"Minnesota, United States", 
+"Washington, United States County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Washington County, Minnesota"
 ], 
-"layer_id_s": "urn:urn-7027d6fe-7bba-4861-b029-8529c92ddb7f", 
+"layer_id_s": "7027d6fe-7bba-4861-b029-8529c92ddb7f", 
 "georss_box_s": "44.729717 -93.048219 45.298589 -92.717925", 
 "dc_title_s": "High Resolution Orthoimagery, Washington County, MN, Spring, 2013", 
-"layer_slug_s": "Minnesota-urn-7027d6fe-7bba-4861-b029-8529c92ddb7f"
+"layer_slug_s": "7027d6fe-7bba-4861-b029-8529c92ddb7f", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

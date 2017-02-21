@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-09-02T14:56:05Z", 
+"layer_modified_dt": "2016-12-30T13:42:04Z", 
 "solr_geom": "ENVELOPE(-93.14191, -92.647773, 45.730837, 45.295654)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gis.chisagocounty.us/Link/SpatialData/Rivers.zip\",\"http://schema.org/url\":\"http://gis.chisagocounty.us/Link/jsfe/index.aspx\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gis.chisagocounty.us/Link/SpatialData/Rivers.zip\",\"http://schema.org/url\":\"http://gis.chisagocounty.us/Link/jsfe/index.aspx\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/bd/8a/5d/2bb4a043e4bc89aa749fb3a218/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-bd8a5d2b-b4a0-43e4-bc89-aa749fb3a218", 
+"uuid": "bd8a5d2b-b4a0-43e4-bc89-aa749fb3a218", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Inland Waters", 
@@ -18,18 +18,19 @@
 "Chisago County"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-bd8a5d2b-b4a0-43e4-bc89-aa749fb3a218", 
+"dc_identifier_s": "bd8a5d2b-b4a0-43e4-bc89-aa749fb3a218", 
 "georss_polygon_s": "45.295654 -93.14191 45.730837 -93.14191 45.730837 -92.647773 45.295654 -92.647773 45.295654 -93.14191", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Chisago County, Minnesota", 
-"Minnesota"
+"Chisago County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Chisago County"
 ], 
-"layer_id_s": "urn:urn-bd8a5d2b-b4a0-43e4-bc89-aa749fb3a218", 
+"layer_id_s": "bd8a5d2b-b4a0-43e4-bc89-aa749fb3a218", 
 "georss_box_s": "45.295654 -93.14191 45.730837 -92.647773", 
 "dc_title_s": "Rivers: Chisago County, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-bd8a5d2b-b4a0-43e4-bc89-aa749fb3a218"
+"layer_slug_s": "bd8a5d2b-b4a0-43e4-bc89-aa749fb3a218", 
+"dct_isPartOf_sm": "Chisago County GIS Data"
 }

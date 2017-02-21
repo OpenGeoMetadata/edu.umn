@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:47Z", 
+"layer_modified_dt": "2017-01-20T18:40:13Z", 
 "solr_geom": "ENVELOPE(-93.329706, -92.729113, 44.923499, 44.469877)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-co-dakota-bdry-swcdsupervisordistricts\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/bdry_swcdsupervisordistricts/shp_bdry_swcdsupervisordistricts.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/bdry_swcdsupervisordistricts/shp_bdry_swcdsupervisordistricts.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-co-dakota-bdry-swcdsupervisordistricts\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/ac/39/65/b18e3243d6b4bb9974767bbe17/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-ac3965b1-8e32-43d6-b4bb-9974767bbe17", 
+"uuid": "ac3965b1-8e32-43d6-b4bb-9974767bbe17", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Boundaries"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "David Holmen, Dakota County Soil and Water Conservation District, Resource Conservationist/I.T. Specialist"
 ], 
-"dc_identifier_s": "urn-ac3965b1-8e32-43d6-b4bb-9974767bbe17", 
-"dc_relation_sm": [
-"SWCD Supervisor District Boundaries"
-], 
+"dc_identifier_s": "ac3965b1-8e32-43d6-b4bb-9974767bbe17", 
 "georss_polygon_s": "44.469877 -93.329706 44.923499 -93.329706 44.923499 -92.729113 44.469877 -92.729113 44.469877 -93.329706", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Dakota County, Minnesota"
+"Minnesota, United States", 
+"Dakota County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Dakota County, Minnesota"
 ], 
-"layer_id_s": "urn:urn-ac3965b1-8e32-43d6-b4bb-9974767bbe17", 
+"layer_id_s": "ac3965b1-8e32-43d6-b4bb-9974767bbe17", 
 "georss_box_s": "44.469877 -93.329706 44.923499 -92.729113", 
 "dc_title_s": "SWCD Supervisor Districts: Dakota County, Minnesota, 2014", 
-"layer_slug_s": "Minnesota-urn-ac3965b1-8e32-43d6-b4bb-9974767bbe17"
+"layer_slug_s": "ac3965b1-8e32-43d6-b4bb-9974767bbe17", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

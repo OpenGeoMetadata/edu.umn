@@ -1,16 +1,16 @@
 {
 "layer_geom_type_s": "Line", 
-"layer_modified_dt": "2016-08-17T12:59:04Z", 
+"layer_modified_dt": "2016-12-30T13:42:06Z", 
 "solr_geom": "ENVELOPE(-94.0251, -93.5088, 44.9872, 44.6312)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/a452e1e4b7ca45ceaf2765b1dcad41c3_3.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.carver.mn.us/arcgis_ea/rest/services/OpenAccess/CC_Hydrography/MapServer/3\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/a452e1e4b7ca45ceaf2765b1dcad41c3_3\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/a452e1e4b7ca45ceaf2765b1dcad41c3_3.zip\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/a452e1e4b7ca45ceaf2765b1dcad41c3_3\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/d9/39/5b/e19d1e40da9b4cccbae07b4dc3/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.carver.mn.us/arcgis_ea/rest/services/OpenAccess/CC_Hydrography/MapServer/3\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-d9395be1-9d1e-40da-9b4c-ccbae07b4dc3", 
+"uuid": "d9395be1-9d1e-40da-9b4c-ccbae07b4dc3", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Utilities and Communication", 
-"hydrography", 
-"ditches", 
-"streams"
+"Ditches", 
+"Hydrography", 
+"Streams"
 ], 
 "dct_temporal_sm": "2014-", 
 "dc_description_s": "Nonpublic ditches within Carver County.", 
@@ -20,18 +20,19 @@
 "Carver County, Minnesota"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-d9395be1-9d1e-40da-9b4c-ccbae07b4dc3", 
+"dc_identifier_s": "d9395be1-9d1e-40da-9b4c-ccbae07b4dc3", 
 "georss_polygon_s": "44.6312 -94.0251 44.9872 -94.0251 44.9872 -93.5088 44.6312 -93.5088 44.6312 -94.0251", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Carver County, Minnesota", 
-"Minnesota"
+"Carver County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Carver County, Minnesota"
 ], 
-"layer_id_s": "urn:urn-d9395be1-9d1e-40da-9b4c-ccbae07b4dc3", 
+"layer_id_s": "d9395be1-9d1e-40da-9b4c-ccbae07b4dc3", 
 "georss_box_s": "44.6312 -94.0251 44.9872 -93.5088", 
 "dc_title_s": "NonPublic Ditches: Carver County, Minnesota, 2014", 
-"layer_slug_s": "Minnesota-urn-d9395be1-9d1e-40da-9b4c-ccbae07b4dc3"
+"layer_slug_s": "d9395be1-9d1e-40da-9b4c-ccbae07b4dc3", 
+"dct_isPartOf_sm": "Carver County Open Data"
 }

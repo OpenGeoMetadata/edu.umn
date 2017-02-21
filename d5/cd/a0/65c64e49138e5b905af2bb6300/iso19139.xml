@@ -1,6 +1,6 @@
-<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd http://www.isotc211.org/2005/srv http://schemas.opengis.net/iso/19139/20060504/srv/srv.xsd">
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd http://www.isotc211.org/2005/srv http://schemas.opengis.net/iso/19139/20060504/srv/srv.xsd">
     <gmd:fileIdentifier>
-      <gco:CharacterString>d5cda065-c64e-4913-8e5b-905af2bb6300</gco:CharacterString>
+      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">d5cda065-c64e-4913-8e5b-905af2bb6300</gco:CharacterString>
     </gmd:fileIdentifier>
     <gmd:language>
       <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="eng" codeSpace="ISO639-2"/>
@@ -12,22 +12,22 @@
       <gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115"/>
     </gmd:hierarchyLevel>
     <gmd:hierarchyLevelName>
-      <gco:CharacterString>dataset</gco:CharacterString>
+      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">dataset</gco:CharacterString>
     </gmd:hierarchyLevelName>
     <gmd:contact>
       <gmd:CI_ResponsibleParty>
         <gmd:organisationName>
-          <gco:CharacterString>John R. Borchert Map Library, University of Minnesota Libraries</gco:CharacterString>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">John R. Borchert Map Library, University of Minnesota Libraries</gco:CharacterString>
         </gmd:organisationName>
         <gmd:positionName>
-          <gco:CharacterString>Spatial Data Analyst/Curator</gco:CharacterString>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Spatial Data Analyst/Curator</gco:CharacterString>
         </gmd:positionName>
         <gmd:contactInfo>
           <gmd:CI_Contact>
             <gmd:address>
               <gmd:CI_Address>
                 <gmd:electronicMailAddress>
-                  <gco:CharacterString>mapref@umn.edu</gco:CharacterString>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">mapref@umn.edu</gco:CharacterString>
                 </gmd:electronicMailAddress>
               </gmd:CI_Address>
             </gmd:address>
@@ -39,16 +39,16 @@
       </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-      <gco:DateTime>2016-08-17T16:03:44</gco:DateTime>
+      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-12-30T13:42:15</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
-      <gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
     </gmd:metadataStandardName>
     <gmd:metadataStandardVersion>
-      <gco:CharacterString>2007</gco:CharacterString>
+      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">2007</gco:CharacterString>
     </gmd:metadataStandardVersion>
     <gmd:dataSetURI>
-      <gco:CharacterString>http://data.wcmn.opendata.arcgis.com/datasets/5e85ca268c274faab25883f6b4c193f7_0</gco:CharacterString>
+      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">http://data.wcmn.opendata.arcgis.com/datasets/5e85ca268c274faab25883f6b4c193f7_0</gco:CharacterString>
     </gmd:dataSetURI>
     <gmd:spatialRepresentationInfo>
       <gmd:MD_VectorSpatialRepresentation>
@@ -61,7 +61,7 @@
               <gmd:MD_GeometricObjectTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_GeometricObjectTypeCode" codeListValue="surface" codeSpace="ISOTC211/19115"/>
             </gmd:geometricObjectType>
             <gmd:geometricObjectCount>
-              <gco:Integer>19</gco:Integer>
+              <gco:Integer xmlns:gco="http://www.isotc211.org/2005/gco">19</gco:Integer>
             </gmd:geometricObjectCount>
           </gmd:MD_GeometricObjects>
         </gmd:geometricObjects>
@@ -72,13 +72,13 @@
         <gmd:referenceSystemIdentifier>
           <gmd:RS_Identifier>
             <gmd:code>
-              <gco:CharacterString>4326</gco:CharacterString>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">4326</gco:CharacterString>
             </gmd:code>
             <gmd:codeSpace>
-              <gco:CharacterString>EPSG</gco:CharacterString>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">EPSG</gco:CharacterString>
             </gmd:codeSpace>
             <gmd:version>
-              <gco:CharacterString>8.2.6</gco:CharacterString>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">8.2.6</gco:CharacterString>
             </gmd:version>
           </gmd:RS_Identifier>
         </gmd:referenceSystemIdentifier>
@@ -89,12 +89,12 @@
         <gmd:citation>
           <gmd:CI_Citation>
             <gmd:title>
-              <gco:CharacterString>Park Boundaries: Washington County, Minnesota, 2015</gco:CharacterString>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Park Boundaries: Washington County, Minnesota, 2015</gco:CharacterString>
             </gmd:title>
             <gmd:date>
               <gmd:CI_Date>
                 <gmd:date>
-                  <gco:DateTime>2015-02-07T16:14:02</gco:DateTime>
+                  <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2015-02-07T16:14:02</gco:DateTime>
                 </gmd:date>
                 <gmd:dateType>
                   <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115"/>
@@ -104,7 +104,7 @@
             <gmd:date>
               <gmd:CI_Date>
                 <gmd:date>
-                  <gco:DateTime>2014-09-15T15:17:09</gco:DateTime>
+                  <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2014-09-15T15:17:09</gco:DateTime>
                 </gmd:date>
                 <gmd:dateType>
                   <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision" codeSpace="ISOTC211/19115"/>
@@ -114,21 +114,21 @@
             <gmd:identifier>
               <gmd:MD_Identifier>
                 <gmd:code>
-                  <gco:CharacterString>urn-d5cda065-c64e-4913-8e5b-905af2bb6300</gco:CharacterString>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">urn-d5cda065-c64e-4913-8e5b-905af2bb6300</gco:CharacterString>
                 </gmd:code>
               </gmd:MD_Identifier>
             </gmd:identifier>
             <gmd:citedResponsibleParty>
               <gmd:CI_ResponsibleParty>
                 <gmd:organisationName>
-                  <gco:CharacterString>Washington County, MN</gco:CharacterString>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Washington County, MN</gco:CharacterString>
                 </gmd:organisationName>
                 <gmd:contactInfo>
                   <gmd:CI_Contact>
                     <gmd:address>
                       <gmd:CI_Address>
                         <gmd:electronicMailAddress>
-                          <gco:CharacterString>gis@co.washington.mn.us</gco:CharacterString>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">gis@co.washington.mn.us</gco:CharacterString>
                         </gmd:electronicMailAddress>
                       </gmd:CI_Address>
                     </gmd:address>
@@ -142,14 +142,14 @@
             <gmd:citedResponsibleParty>
               <gmd:CI_ResponsibleParty>
                 <gmd:organisationName>
-                  <gco:CharacterString>Washington County, MN</gco:CharacterString>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Washington County, MN</gco:CharacterString>
                 </gmd:organisationName>
                 <gmd:contactInfo>
                   <gmd:CI_Contact>
                     <gmd:address>
                       <gmd:CI_Address>
                         <gmd:electronicMailAddress>
-                          <gco:CharacterString>gis@co.washington.mn.us</gco:CharacterString>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">gis@co.washington.mn.us</gco:CharacterString>
                         </gmd:electronicMailAddress>
                       </gmd:CI_Address>
                     </gmd:address>
@@ -163,41 +163,21 @@
             <gmd:presentationForm>
               <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115"/>
             </gmd:presentationForm>
+            <gmd:otherCitationDetails>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Polygon</gco:CharacterString>
+            </gmd:otherCitationDetails>
+            <gmd:collectiveTitle>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Washington County Open Data</gco:CharacterString>
+            </gmd:collectiveTitle>
           </gmd:CI_Citation>
         </gmd:citation>
         <gmd:abstract>
-          <gco:CharacterString>Location of parks in Washington County</gco:CharacterString>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Location of parks in Washington County</gco:CharacterString>
         </gmd:abstract>
-        <gmd:descriptiveKeywords>
-          <gmd:MD_Keywords>
-            <gmd:keyword>
-              <gco:CharacterString>Washington County, Minnesota</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:keyword>
-              <gco:CharacterString>Minnesota</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:type>
-              <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115"/>
-            </gmd:type>
-          </gmd:MD_Keywords>
-        </gmd:descriptiveKeywords>
-        <gmd:descriptiveKeywords>
-          <gmd:MD_Keywords>
-            <gmd:keyword>
-              <gco:CharacterString>parks</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:keyword>
-              <gco:CharacterString>recreation</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:type>
-              <gmd:MD_KeywordTypeCode codeListValue="theme"/>
-            </gmd:type>
-          </gmd:MD_Keywords>
-        </gmd:descriptiveKeywords>
         <gmd:resourceConstraints>
           <gmd:MD_LegalConstraints>
             <gmd:otherConstraints>
-              <gco:CharacterString>public</gco:CharacterString>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">public</gco:CharacterString>
             </gmd:otherConstraints>
           </gmd:MD_LegalConstraints>
         </gmd:resourceConstraints>
@@ -221,23 +201,23 @@
             <gmd:geographicElement>
               <gmd:EX_GeographicBoundingBox>
                 <gmd:westBoundLongitude>
-                  <gco:Decimal>-93.02</gco:Decimal>
+                  <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">-93.02</gco:Decimal>
                 </gmd:westBoundLongitude>
                 <gmd:eastBoundLongitude>
-                  <gco:Decimal>-92.7524</gco:Decimal>
+                  <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">-92.7524</gco:Decimal>
                 </gmd:eastBoundLongitude>
                 <gmd:southBoundLatitude>
-                  <gco:Decimal>44.7484</gco:Decimal>
+                  <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">44.7484</gco:Decimal>
                 </gmd:southBoundLatitude>
                 <gmd:northBoundLatitude>
-                  <gco:Decimal>45.2953</gco:Decimal>
+                  <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">45.2953</gco:Decimal>
                 </gmd:northBoundLatitude>
               </gmd:EX_GeographicBoundingBox>
             </gmd:geographicElement>
             <gmd:temporalElement>
               <gmd:EX_TemporalExtent>
                 <gmd:extent>
-                  <gml:TimePeriod gml:id="d333608e270a1052958">
+                  <gml:TimePeriod xmlns:gml="http://www.opengis.net/gml" gml:id="d333608e270a1052958">
                     <gml:beginPosition>20114-01-01</gml:beginPosition>
                     <gml:endPosition indeterminatePosition="now"/>
                   </gml:TimePeriod>
@@ -246,6 +226,32 @@
             </gmd:temporalElement>
           </gmd:EX_Extent>
         </gmd:extent>
+        <gmd:descriptiveKeywords>
+          <gmd:MD_Keywords>
+            <gmd:type>
+              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="place"/>
+            </gmd:type>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Washington County, Minnesota, United States</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota, United States</gco:CharacterString>
+            </gmd:keyword>
+          </gmd:MD_Keywords>
+        </gmd:descriptiveKeywords>
+        <gmd:descriptiveKeywords>
+          <gmd:MD_Keywords>
+            <gmd:type>
+              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+            </gmd:type>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Recreation</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Parks</gco:CharacterString>
+            </gmd:keyword>
+          </gmd:MD_Keywords>
+        </gmd:descriptiveKeywords>
       </gmd:MD_DataIdentification>
     </gmd:identificationInfo>
     <gmd:distributionInfo>
@@ -253,10 +259,10 @@
         <gmd:distributionFormat>
           <gmd:MD_Format>
             <gmd:name>
-              <gco:CharacterString>ESRI Shapefile</gco:CharacterString>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ESRI Shapefile</gco:CharacterString>
             </gmd:name>
             <gmd:version>
-              <gco:CharacterString>1.0</gco:CharacterString>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">1.0</gco:CharacterString>
             </gmd:version>
           </gmd:MD_Format>
         </gmd:distributionFormat>
@@ -265,14 +271,14 @@
             <gmd:distributorContact>
               <gmd:CI_ResponsibleParty>
                 <gmd:organisationName>
-                  <gco:CharacterString>Washington County</gco:CharacterString>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Washington County</gco:CharacterString>
                 </gmd:organisationName>
                 <gmd:contactInfo>
                   <gmd:CI_Contact>
                     <gmd:address>
                       <gmd:CI_Address>
                         <gmd:electronicMailAddress>
-                          <gco:CharacterString>gis@co.washington.mn.us</gco:CharacterString>
+                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">gis@co.washington.mn.us</gco:CharacterString>
                         </gmd:electronicMailAddress>
                       </gmd:CI_Address>
                     </gmd:address>
@@ -286,7 +292,7 @@
             <gmd:distributorFormat>
               <gmd:MD_Format>
                 <gmd:name>
-                  <gco:CharacterString>Shapefile</gco:CharacterString>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Shapefile</gco:CharacterString>
                 </gmd:name>
               </gmd:MD_Format>
             </gmd:distributorFormat>
@@ -300,10 +306,10 @@
                   <gmd:URL>http://data.wcmn.opendata.arcgis.com/datasets/5e85ca268c274faab25883f6b4c193f7_0.zip</gmd:URL>
                 </gmd:linkage>
                 <gmd:protocol>
-                  <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
                 </gmd:protocol>
                 <gmd:description>
-                  <gco:CharacterString>Shapefile</gco:CharacterString>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Shapefile</gco:CharacterString>
                 </gmd:description>
                 <gmd:function>
                   <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
@@ -320,10 +326,10 @@
                   <gmd:URL>http://data.wcmn.opendata.arcgis.com/datasets/5e85ca268c274faab25883f6b4c193f7_0</gmd:URL>
                 </gmd:linkage>
                 <gmd:protocol>
-                  <gco:CharacterString>WWW:LINK-1.0-http--link</gco:CharacterString>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:LINK-1.0-http--link</gco:CharacterString>
                 </gmd:protocol>
                 <gmd:description>
-                  <gco:CharacterString>Information</gco:CharacterString>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Information</gco:CharacterString>
                 </gmd:description>
                 <gmd:function>
                   <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>
@@ -340,7 +346,7 @@
           <gmd:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="unknown" codeSpace="ISOTC211/19115"/>
         </gmd:maintenanceAndUpdateFrequency>
         <gmd:maintenanceNote>
-          <gco:CharacterString>This metadata was generated from the Esri Open Data item from http://data.wcmn.opendata.arcgis.com/datasets/5e85ca268c274faab25883f6b4c193f7_0, orignally in the Project Open Data Metadata Schema, at 2016-07-12T16:18:02.561731.</gco:CharacterString>
+          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">This metadata was generated from the Esri Open Data item from http://data.wcmn.opendata.arcgis.com/datasets/5e85ca268c274faab25883f6b4c193f7_0, orignally in the Project Open Data Metadata Schema, at 2016-07-12T16:18:02.561731.</gco:CharacterString>
         </gmd:maintenanceNote>
       </gmd:MD_MaintenanceInformation>
     </gmd:metadataMaintenance>

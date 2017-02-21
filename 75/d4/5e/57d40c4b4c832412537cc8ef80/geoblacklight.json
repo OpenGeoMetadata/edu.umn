@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:13Z", 
+"layer_modified_dt": "2017-01-20T18:40:46Z", 
 "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/util-eusa\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mngeo/util_eusa/shp_util_eusa.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mngeo/util_eusa/shp_util_eusa.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/util-eusa\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/75/d4/5e/57d40c4b4c832412537cc8ef80/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-75d45e57-d40c-4b4c-8324-12537cc8ef80", 
+"uuid": "75d45e57-d40c-4b4c-8324-12537cc8ef80", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Utilities and Communication"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Geospatial Information Office (MnGeo)"
 ], 
-"dc_identifier_s": "urn-75d45e57-d40c-4b4c-8324-12537cc8ef80", 
-"dc_relation_sm": [
-"Electrical Utility Service Area Boundaries (lines) - tracks corrections.Electrical Utility Service Area Dockets (areas) - service area changes filed with PUC (not complete).Electrical Utility Service Area Exceptions (points and areas) - service area exceptions as provided by utilities. Exceptions are areas where a utility is serving customers in another utility's service area.For other public utility and telecommunications infrastructure geospatial data for Minnesota, see MnGeo's first-stop information page:  http://www.mngeo.state.mn.us/chouse/utilities_telecommunication.html"
-], 
+"dc_identifier_s": "75d45e57-d40c-4b4c-8324-12537cc8ef80", 
 "georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
-"solr_year_i": 2016, 
+"solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Geospatial Information Office (MnGeo)"
 ], 
-"layer_id_s": "urn:urn-75d45e57-d40c-4b4c-8324-12537cc8ef80", 
+"layer_id_s": "75d45e57-d40c-4b4c-8324-12537cc8ef80", 
 "georss_box_s": "43.5 -97.23 49.37 -89.53", 
 "dc_title_s": "Electric Utility Service Areas: Minnesota, December 2015", 
-"layer_slug_s": "Minnesota-urn-75d45e57-d40c-4b4c-8324-12537cc8ef80"
+"layer_slug_s": "75d45e57-d40c-4b4c-8324-12537cc8ef80", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

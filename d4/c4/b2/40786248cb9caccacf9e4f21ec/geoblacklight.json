@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:28Z", 
+"layer_modified_dt": "2017-01-20T18:39:47Z", 
 "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-plan-generl-lnduse-historical\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Planning_Development/MapServer/12\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/plan_generl_lnduse_historical/shp_plan_generl_lnduse_historical.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/plan_generl_lnduse_historical/shp_plan_generl_lnduse_historical.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-plan-generl-lnduse-historical\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/d4/c4/b2/40786248cb9caccacf9e4f21ec/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Planning_Development/MapServer/12\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-d4c4b240-7862-48cb-9cac-cacf9e4f21ec", 
+"uuid": "d4c4b240-7862-48cb-9cac-cacf9e4f21ec", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Planning and Cadastral"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Metropolitan Council"
 ], 
-"dc_identifier_s": "urn-d4c4b240-7862-48cb-9cac-cacf9e4f21ec", 
-"dc_relation_sm": [
-"Generalized Land Use 2005 for the Twin Cities Metropolitan Area, Generalized Land Use 2010 for the Twin Cities Metropolitan Area"
-], 
+"dc_identifier_s": "d4c4b240-7862-48cb-9cac-cacf9e4f21ec", 
 "georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
 "solr_year_i": 2010, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-d4c4b240-7862-48cb-9cac-cacf9e4f21ec", 
+"layer_id_s": "d4c4b240-7862-48cb-9cac-cacf9e4f21ec", 
 "georss_box_s": "44.471 -94.012 45.415 -92.732", 
 "dc_title_s": "Generalized Land Use, Historical: Twin Cities Metro, Minnesota, 2010", 
-"layer_slug_s": "Minnesota-urn-d4c4b240-7862-48cb-9cac-cacf9e4f21ec"
+"layer_slug_s": "d4c4b240-7862-48cb-9cac-cacf9e4f21ec", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

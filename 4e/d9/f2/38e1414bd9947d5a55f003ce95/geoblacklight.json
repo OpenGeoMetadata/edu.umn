@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:55Z", 
+"layer_modified_dt": "2017-01-20T18:40:24Z", 
 "solr_geom": "ENVELOPE(-97.252252, -89.406737, 49.34025, 43.098198)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/water-major-river-centerlines\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/water_major_river_centerlines/shp_water_major_river_centerlines.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/water_major_river_centerlines/shp_water_major_river_centerlines.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/water-major-river-centerlines\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/4e/d9/f2/38e1414bd9947d5a55f003ce95/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-4ed9f238-e141-4bd9-947d-5a55f003ce95", 
+"uuid": "4ed9f238-e141-4bd9-947d-5a55f003ce95", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Inland Waters"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-4ed9f238-e141-4bd9-947d-5a55f003ce95", 
-"dc_relation_sm": [
-"<a href=N../../water_measured_kittle_routes/metadata/metadata.htmlN target=_blank><b>Stream Routes with Kittle Numbers and Mile Measures</b></a>"
-], 
+"dc_identifier_s": "4ed9f238-e141-4bd9-947d-5a55f003ce95", 
 "georss_polygon_s": "43.098198 -97.252252 49.34025 -97.252252 49.34025 -89.406737 43.098198 -89.406737 43.098198 -97.252252", 
 "solr_year_i": 2013, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-4ed9f238-e141-4bd9-947d-5a55f003ce95", 
+"layer_id_s": "4ed9f238-e141-4bd9-947d-5a55f003ce95", 
 "georss_box_s": "43.098198 -97.252252 49.34025 -89.406737", 
 "dc_title_s": "Major River Centerlines: Minnesota, 2013", 
-"layer_slug_s": "Minnesota-urn-4ed9f238-e141-4bd9-947d-5a55f003ce95"
+"layer_slug_s": "4ed9f238-e141-4bd9-947d-5a55f003ce95", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

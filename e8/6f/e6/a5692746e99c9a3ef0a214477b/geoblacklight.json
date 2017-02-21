@@ -1,35 +1,33 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:21Z", 
+"layer_modified_dt": "2017-01-20T18:40:55Z", 
 "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-surface-karst-feature-devel\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/geos_surface_karst_feature_devel/shp_geos_surface_karst_feature_devel.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/geos_surface_karst_feature_devel/shp_geos_surface_karst_feature_devel.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-surface-karst-feature-devel\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/e8/6f/e6/a5692746e99c9a3ef0a214477b/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-e86fe6a5-6927-46e9-9c9a-3ef0a214477b", 
+"uuid": "e86fe6a5-6927-46e9-9c9a-3ef0a214477b", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Geoscientific Information"
 ], 
-"dct_temporal_sm": "2015", 
+"dct_temporal_sm": "2016", 
 "dc_description_s": "In Minnesota, surface karst features (including but not restricted to sinkholes, caves, stream sinks, and karst springs) are observed to primarily occur where 50 feet or less of unconsolidated material overlie Paleozoic carbonate bedrock, the St. Peter Sandstone, or the Mesoproterozoic Hinckley Sandstone. This product can be used to outline such areas in a GIS environment. The GIS coverage is a superposition of Bedrock Geology and Depth to Bedrock maps prepared by the Minnesota Geological Survey (MGS). This dataset is managed by the Ecological and Water Resources Division, County Geologic Atlas Program. Two feature classes are included: surfacekarst_carbonate_sandstone and surfacekarst_carbonateonly. See Section 5 Overview for more details.", 
 "dct_issued_s": "2016-01-04", 
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-e86fe6a5-6927-46e9-9c9a-3ef0a214477b", 
-"dc_relation_sm": [
-"Bedrock Geology from Part A of the County Geologic Atlas"
-], 
+"dc_identifier_s": "e86fe6a5-6927-46e9-9c9a-3ef0a214477b", 
 "georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
 "solr_year_i": 2016, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-e86fe6a5-6927-46e9-9c9a-3ef0a214477b", 
+"layer_id_s": "e86fe6a5-6927-46e9-9c9a-3ef0a214477b", 
 "georss_box_s": "43.5 -97.23 49.37 -89.53", 
 "dc_title_s": "Regions Prone to Surface Karst Feature Development: Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-e86fe6a5-6927-46e9-9c9a-3ef0a214477b"
+"layer_slug_s": "e86fe6a5-6927-46e9-9c9a-3ef0a214477b", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Point", 
-"layer_modified_dt": "2016-11-17T16:31:08Z", 
+"layer_modified_dt": "2016-12-30T13:41:53Z", 
 "solr_geom": "ENVELOPE(-93.10141, -91.756277, 48.585294, 46.647185)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://stlouiscountymndata.slcgis.opendata.arcgis.com/datasets/e1ca424971f8470d9afa4083c471a686_17\",\"http://schema.org/downloadUrl\":\"http://stlouiscountymndata.slcgis.opendata.arcgis.com/datasets/e1ca424971f8470d9afa4083c471a686_17.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://stlouiscountymndata.slcgis.opendata.arcgis.com/datasets/e1ca424971f8470d9afa4083c471a686_17.zip\",\"http://schema.org/url\":\"http://stlouiscountymndata.slcgis.opendata.arcgis.com/datasets/e1ca424971f8470d9afa4083c471a686_17\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/44/a7/41/a1d1304b2db66019dae706ffe8/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-44a741a1-d130-4b2d-b660-19dae706ffe8", 
+"uuid": "44a741a1-d130-4b2d-b660-19dae706ffe8", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Planning and Cadastral"
@@ -17,18 +17,19 @@
 "St. Louis County"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-44a741a1-d130-4b2d-b660-19dae706ffe8", 
+"dc_identifier_s": "44a741a1-d130-4b2d-b660-19dae706ffe8", 
 "georss_polygon_s": "46.647185 -93.10141 48.585294 -93.10141 48.585294 -91.756277 46.647185 -91.756277 46.647185 -93.10141", 
 "solr_year_i": 2016, 
 "dct_spatial_sm": [
-"St. Louis County, Minnesota", 
-"Minnesota"
+"St. Louis County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "St. Louis County"
 ], 
-"layer_id_s": "urn:urn-44a741a1-d130-4b2d-b660-19dae706ffe8", 
+"layer_id_s": "44a741a1-d130-4b2d-b660-19dae706ffe8", 
 "georss_box_s": "46.647185 -93.10141 48.585294 -91.756277", 
 "dc_title_s": "Address Points: St. Louis County, Minnesota", 
-"layer_slug_s": "Minnesota-urn-44a741a1-d130-4b2d-b660-19dae706ffe8"
+"layer_slug_s": "44a741a1-d130-4b2d-b660-19dae706ffe8", 
+"dct_isPartOf_sm": "St. Louis County GIS Data"
 }

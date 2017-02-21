@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-09-28T12:16:53Z", 
+"layer_modified_dt": "2016-12-30T13:42:38Z", 
 "solr_geom": "ENVELOPE(-93.3265547038871, -93.2088493281898, 45.0499635146317, 44.8992863497824)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/454f5f098931419da9f978aaa579b8fe_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Snow_Emergency_Polk_Tows_2016/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/454f5f098931419da9f978aaa579b8fe_0.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/454f5f098931419da9f978aaa579b8fe_0.zip\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/454f5f098931419da9f978aaa579b8fe_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/f0/e7/34/143bcf4705894ce9d1298fdf41/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Snow_Emergency_Polk_Tows_2016/FeatureServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-f0e73414-3bcf-4705-894c-e9d1298fdf41", 
+"uuid": "f0e73414-3bcf-4705-894c-e9d1298fdf41", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Location"
@@ -17,18 +17,19 @@
 "City of Minneapolis"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-f0e73414-3bcf-4705-894c-e9d1298fdf41", 
+"dc_identifier_s": "f0e73414-3bcf-4705-894c-e9d1298fdf41", 
 "georss_polygon_s": "44.8992863497824 -93.3265547038871 45.0499635146317 -93.3265547038871 45.0499635146317 -93.2088493281898 44.8992863497824 -93.2088493281898 44.8992863497824 -93.3265547038871", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minneapolis, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "City of Minneapolis"
 ], 
-"layer_id_s": "urn:urn-f0e73414-3bcf-4705-894c-e9d1298fdf41", 
+"layer_id_s": "f0e73414-3bcf-4705-894c-e9d1298fdf41", 
 "georss_box_s": "44.8992863497824 -93.3265547038871 45.0499635146317 -93.2088493281898", 
 "dc_title_s": "Snow Emergency Polk Tows: Minneapolis, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-f0e73414-3bcf-4705-894c-e9d1298fdf41"
+"layer_slug_s": "f0e73414-3bcf-4705-894c-e9d1298fdf41", 
+"dct_isPartOf_sm": "Minneapolis Open Data"
 }

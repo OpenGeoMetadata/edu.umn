@@ -1,34 +1,33 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:29Z", 
+"layer_modified_dt": "2017-01-20T18:39:48Z", 
 "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/elev-lidar-hillshade\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/elev-lidar-hillshade\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/3b/1e/71/60226d4fdc85d5e819785c7de2/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-3b1e7160-226d-4fdc-85d5-e819785c7de2", 
+"uuid": "3b1e7160-226d-4fdc-85d5-e819785c7de2", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Elevation"
 ], 
-"dc_format_s": "File", 
+"dct_temporal_sm": "2012", 
 "dc_description_s": "The hillshade is a black-and-white image showing elevation changes in the landscape. It is created from a digital elevation model as if the elevation surface were illuminated by a hypothetical light source shining from the northwest.", 
 "dct_issued_s": "2012-08-23", 
+"dc_format_s": "File", 
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources and Minnesota Geospatial Information Office"
 ], 
-"dc_identifier_s": "urn-3b1e7160-226d-4fdc-85d5-e819785c7de2", 
-"dc_relation_sm": [
-"For more information about elevation data for Minnesota, see: http://www.mngeo.state.mn.us/chouse/elevation/index.html"
-], 
+"dc_identifier_s": "3b1e7160-226d-4fdc-85d5-e819785c7de2", 
 "georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
 "solr_year_i": 2012, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Geospatial Information Office (MnGeo)"
 ], 
-"layer_id_s": "urn:urn-3b1e7160-226d-4fdc-85d5-e819785c7de2", 
+"layer_id_s": "3b1e7160-226d-4fdc-85d5-e819785c7de2", 
 "georss_box_s": "43.5 -97.23 49.37 -89.53", 
 "dc_title_s": "Hillshade, LiDAR-derived: Minnesota", 
-"layer_slug_s": "Minnesota-urn-3b1e7160-226d-4fdc-85d5-e819785c7de2"
+"layer_slug_s": "3b1e7160-226d-4fdc-85d5-e819785c7de2", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

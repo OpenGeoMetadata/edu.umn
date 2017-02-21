@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:28Z", 
+"layer_modified_dt": "2017-01-20T18:39:46Z", 
 "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-water-metro-municpl-water-supply\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/water_metro_municpl_water_supply/shp_water_metro_municpl_water_supply.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/water_metro_municpl_water_supply/shp_water_metro_municpl_water_supply.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-water-metro-municpl-water-supply\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/40/e8/1c/fca3514151a0544f79776de5e7/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-40e81cfc-a351-4151-a054-4f79776de5e7", 
+"uuid": "40e81cfc-a351-4151-a054-4f79776de5e7", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Inland Waters"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Metropolitan Council"
 ], 
-"dc_identifier_s": "urn-40e81cfc-a351-4151-a054-4f79776de5e7", 
-"dc_relation_sm": [
-"Public Water Supply System Demand Projections; Historic Residential Per Capita Demand; Minnesota Department of Health Minnesota Drinking Water Information System;  Local community water supply plans"
-], 
+"dc_identifier_s": "40e81cfc-a351-4151-a054-4f79776de5e7", 
 "georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
 "solr_year_i": 2016, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-40e81cfc-a351-4151-a054-4f79776de5e7", 
+"layer_id_s": "40e81cfc-a351-4151-a054-4f79776de5e7", 
 "georss_box_s": "44.471 -94.012 45.415 -92.732", 
 "dc_title_s": "Municipal Water Supply System Status: Twin Cities Metro, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-40e81cfc-a351-4151-a054-4f79776de5e7"
+"layer_slug_s": "40e81cfc-a351-4151-a054-4f79776de5e7", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

@@ -58,7 +58,7 @@
       </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-08-17T17:03:06</gco:DateTime>
+      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2017-01-20T18:40:59</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
       <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -66,7 +66,6 @@
     <gmd:metadataStandardVersion>
       <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2:2009(E)</gco:CharacterString>
     </gmd:metadataStandardVersion>
-    <gmd:spatialRepresentationInfo/>
     <gmd:referenceSystemInfo>
       <gmd:MD_ReferenceSystem>
         <gmd:referenceSystemIdentifier>
@@ -127,26 +126,17 @@
                 <gmd:organisationName>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Metropolitan Council</gco:CharacterString>
                 </gmd:organisationName>
-                <gmd:contactInfo>
-                  <gmd:CI_Contact>
-                    <gmd:address>
-                      <gmd:CI_Address>
-                        <gmd:city xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
-                          <gco:CharacterString/>
-                        </gmd:city>
-                        <gmd:administrativeArea xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
-                          <gco:CharacterString/>
-                        </gmd:administrativeArea>
-                      </gmd:CI_Address>
-                    </gmd:address>
-                  </gmd:CI_Contact>
-                </gmd:contactInfo>
                 <gmd:role>
                   <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="010"/>
                 </gmd:role>
               </gmd:CI_ResponsibleParty>
             </gmd:citedResponsibleParty>
-            <gmd:presentationForm/>
+            <gmd:otherCitationDetails>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Mixed</gco:CharacterString>
+            </gmd:otherCitationDetails>
+            <gmd:collectiveTitle>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Geospatial Commons</gco:CharacterString>
+            </gmd:collectiveTitle>
           </gmd:CI_Citation>
         </gmd:citation>
         <gmd:abstract>
@@ -211,45 +201,6 @@
             </gmd:maintenanceAndUpdateFrequency>
           </gmd:MD_MaintenanceInformation>
         </gmd:resourceMaintenance>
-        <gmd:descriptiveKeywords>
-          <gmd:MD_Keywords>
-            <gmd:type>
-              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="005">theme</gmd:MD_KeywordTypeCode>
-            </gmd:type>
-            <gmd:thesaurusName>
-              <gmd:CI_Citation>
-                <gmd:title>
-                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">None</gco:CharacterString>
-                </gmd:title>
-                <gmd:date xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
-              </gmd:CI_Citation>
-            </gmd:thesaurusName>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">sewerage</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">waste water</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">utilites</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">sewer</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">sewers</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">sewer interceptors</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">sewer systems</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">sewage</gco:CharacterString>
-            </gmd:keyword>
-          </gmd:MD_Keywords>
-        </gmd:descriptiveKeywords>
         <gmd:resourceConstraints>
           <gmd:MD_LegalConstraints>
             <gmd:accessConstraints>
@@ -272,15 +223,11 @@
                 </gmd:title>
                 <gmd:date>
                   <gmd:CI_Date>
-                    <gmd:date>
-                      <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco"/>
-                    </gmd:date>
                     <gmd:dateType>
                       <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
                     </gmd:dateType>
                   </gmd:CI_Date>
                 </gmd:date>
-                <gmd:otherCitationDetails/>
               </gmd:CI_Citation>
             </gmd:aggregateDataSetName>
             <gmd:associationType>
@@ -333,6 +280,47 @@
         <gmd:supplementalInformation>
           <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Twin Cities 7 County Metropolitan Area.  This includes the counties of Anoka, Carver, Dakota, Hennepin, Ramsey, Scott and Washington in Minnesota.</gco:CharacterString>
         </gmd:supplementalInformation>
+        <gmd:descriptiveKeywords>
+          <gmd:MD_Keywords>
+            <gmd:type>
+              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="place"/>
+            </gmd:type>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota, United States</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minneapolis-St. Paul-Bloomington, United States</gco:CharacterString>
+            </gmd:keyword>
+          </gmd:MD_Keywords>
+        </gmd:descriptiveKeywords>
+        <gmd:descriptiveKeywords>
+          <gmd:MD_Keywords>
+            <gmd:type>
+              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+            </gmd:type>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Sewers</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Utilites</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Sewage</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Sewer interceptors</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Sewerage system</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Sewer systems</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Wastewater</gco:CharacterString>
+            </gmd:keyword>
+          </gmd:MD_Keywords>
+        </gmd:descriptiveKeywords>
       </gmd:MD_DataIdentification>
     </gmd:identificationInfo>
     <gmd:contentInfo>
@@ -340,7 +328,6 @@
         <gmd:includedWithDataset>
           <gco:Boolean xmlns:gco="http://www.isotc211.org/2005/gco">false</gco:Boolean>
         </gmd:includedWithDataset>
-        <gmd:featureCatalogueCitation/>
       </gmd:MD_FeatureCatalogueDescription>
     </gmd:contentInfo>
     <gmd:distributionInfo>
@@ -405,9 +392,6 @@
             </gmd:distributorContact>
             <gmd:distributionOrderProcess>
               <gmd:MD_StandardOrderProcess>
-                <gmd:fees xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
-                  <gco:CharacterString/>
-                </gmd:fees>
                 <gmd:orderingInstructions>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Ordering Instructions: See Online Linkage Below</gco:CharacterString>
                 </gmd:orderingInstructions>
@@ -452,7 +436,6 @@
             <gmd:nameOfMeasure>
               <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Horizontal Positional Accuracy</gco:CharacterString>
             </gmd:nameOfMeasure>
-            <gmd:measureDescription/>
             <gmd:evaluationMethodDescription>
               <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">The positional accuracy of the dataset has not been tested under the National Standards for Spatial Data Accuracy. The positional accuracy of the dataset is estimated to be 20 ft.</gco:CharacterString>
             </gmd:evaluationMethodDescription>
@@ -464,7 +447,6 @@
                     <gml:unitsSystem xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.bipm.org/en/si/"/>
                   </gml:BaseUnit>
                 </gmd:valueUnit>
-                <gmd:value/>
               </gmd:DQ_QuantitativeResult>
             </gmd:result>
           </gmd:DQ_AbsoluteExternalPositionalAccuracy>
@@ -484,9 +466,6 @@
         </gmd:report>
         <gmd:report>
           <gmd:DQ_ConceptualConsistency>
-            <gmd:measureDescription xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
-              <gco:CharacterString/>
-            </gmd:measureDescription>
             <gmd:result xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
           </gmd:DQ_ConceptualConsistency>
         </gmd:report>
@@ -499,7 +478,6 @@
 
 The Metropolitan Council is in the process of developing parallel data using GPS locations for more accurate positioning.</gco:CharacterString>
                 </gmd:description>
-                <gmd:dateTime/>
               </gmd:LI_ProcessStep>
             </gmd:processStep>
             <gmd:processStep>
@@ -507,7 +485,6 @@ The Metropolitan Council is in the process of developing parallel data using GPS
                 <gmd:description>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Dataset copied.</gco:CharacterString>
                 </gmd:description>
-                <gmd:dateTime/>
                 <gmd:source>
                   <gmd:LI_Source>
                     <gmd:sourceCitation>

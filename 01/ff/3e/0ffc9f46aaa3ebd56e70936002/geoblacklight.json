@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:00Z", 
+"layer_modified_dt": "2017-01-20T18:39:10Z", 
 "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-lakes-of-biological-signific\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_lakes_of_biological_signific/shp_env_lakes_of_biological_signific.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_lakes_of_biological_signific/shp_env_lakes_of_biological_signific.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-lakes-of-biological-signific\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/01/ff/3e/0ffc9f46aaa3ebd56e70936002/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-01ff3e0f-fc9f-46aa-a3eb-d56e70936002", 
+"uuid": "01ff3e0f-fc9f-46aa-a3eb-d56e70936002", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Environment"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-01ff3e0f-fc9f-46aa-a3eb-d56e70936002", 
-"dc_relation_sm": [
-"<a href=Nhttps://gisdata.mn.gov/dataset/water-dnr-hydrographyN                    target=_blank>MNDNR Hydrography - All Water Features</a>"
-], 
+"dc_identifier_s": "01ff3e0f-fc9f-46aa-a3eb-d56e70936002", 
 "georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-01ff3e0f-fc9f-46aa-a3eb-d56e70936002", 
+"layer_id_s": "01ff3e0f-fc9f-46aa-a3eb-d56e70936002", 
 "georss_box_s": "43.5 -97.23 49.37 -89.53", 
 "dc_title_s": "DNR Hydrography, Lakes of Biological Significance: Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-01ff3e0f-fc9f-46aa-a3eb-d56e70936002"
+"layer_slug_s": "01ff3e0f-fc9f-46aa-a3eb-d56e70936002", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

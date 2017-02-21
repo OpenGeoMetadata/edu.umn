@@ -1,0 +1,33 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2017-01-18T17:38:23Z", 
+"solr_geom": "ENVELOPE(-97.269854, -89.389132, 49.404413, 43.435242)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.commissions.leg.state.mn.us/pub/gis/shape/S1994.zip\",\"http://schema.org/url\":\"http://www.gis.leg.mn/metadata/S1994.htm\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/be/89/dc/9bbc37485fb6dec759a39f6e74/iso19139.xml\"}", 
+"dc_rights_s": "Public", 
+"uuid": "be89dc9b-bc37-485f-b6de-c759a39f6e74", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Society", 
+"Boundaries", 
+"Senate districts"
+], 
+"dct_temporal_sm": "1994", 
+"dc_description_s": "This is a polygon data set for the 1994 Senate Districts.  This database was developed from U.S. Census Bureau 1990 TIGER/Line files as a result of a redistricting effort.", 
+"dct_issued_s": "2013-04-04", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Legislative Coordinating Commission"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "be89dc9b-bc37-485f-b6de-c759a39f6e74", 
+"georss_polygon_s": "43.435242 -97.269854 49.404413 -97.269854 49.404413 -89.389132 43.435242 -89.389132 43.435242 -97.269854", 
+"solr_year_i": 1994, 
+"dct_spatial_sm": [
+"Minnesota, United States"
+], 
+"layer_id_s": "be89dc9b-bc37-485f-b6de-c759a39f6e74", 
+"georss_box_s": "43.435242 -97.269854 49.404413 -89.389132", 
+"dc_title_s": "State Senate Districts: Minnesota, 1994", 
+"layer_slug_s": "be89dc9b-bc37-485f-b6de-c759a39f6e74", 
+"dct_isPartOf_sm": "Minnesota Legislative Coordinating Commission - Geospatial Information (LCC-GIS)"
+}

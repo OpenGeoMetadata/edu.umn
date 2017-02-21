@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-09-28T12:20:57Z", 
+"layer_modified_dt": "2016-12-30T13:41:43Z", 
 "solr_geom": "ENVELOPE(-93.3299541473494, -93.1887148407467, 45.0521128532281, 44.890711429396)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/0b2bdda8493c47f088100f831885bdce_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Water_Bodies/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/0b2bdda8493c47f088100f831885bdce_0.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/0b2bdda8493c47f088100f831885bdce_0.zip\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/0b2bdda8493c47f088100f831885bdce_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/d6/14/89/11b9884631833f6e5f5e338b72/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Water_Bodies/FeatureServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-d6148911-b988-4631-833f-6e5f5e338b72", 
+"uuid": "d6148911-b988-4631-833f-6e5f5e338b72", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Environment", 
@@ -18,18 +18,19 @@
 "City of Minneapolis"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-d6148911-b988-4631-833f-6e5f5e338b72", 
+"dc_identifier_s": "d6148911-b988-4631-833f-6e5f5e338b72", 
 "georss_polygon_s": "44.890711429396 -93.3299541473494 45.0521128532281 -93.3299541473494 45.0521128532281 -93.1887148407467 44.890711429396 -93.1887148407467 44.890711429396 -93.3299541473494", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minneapolis, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "City of Minneapolis"
 ], 
-"layer_id_s": "urn:urn-d6148911-b988-4631-833f-6e5f5e338b72", 
+"layer_id_s": "d6148911-b988-4631-833f-6e5f5e338b72", 
 "georss_box_s": "44.890711429396 -93.3299541473494 45.0521128532281 -93.1887148407467", 
 "dc_title_s": "Water: Minneapolis, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-d6148911-b988-4631-833f-6e5f5e338b72"
+"layer_slug_s": "d6148911-b988-4631-833f-6e5f5e338b72", 
+"dct_isPartOf_sm": "Minneapolis Open Data"
 }

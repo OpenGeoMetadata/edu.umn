@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Polygon", 
-"layer_modified_dt": "2016-09-21T16:51:02Z", 
+"layer_modified_dt": "2016-12-30T13:41:24Z", 
 "solr_geom": "ENVELOPE(-93.2284, -92.9827, 45.1245, 44.8873)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/3115ff609037465796604556843420be_4.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/4\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/3115ff609037465796604556843420be_4\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/3115ff609037465796604556843420be_4.zip\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/3115ff609037465796604556843420be_4\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/a9/eb/22/377d364a9cadad719a807c81cd/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/4\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-a9eb2237-7d36-4a9c-adad-719a807c81cd", 
+"uuid": "a9eb2237-7d36-4a9c-adad-719a807c81cd", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Planning and Cadastral"
@@ -17,18 +17,19 @@
 "Map Portal"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-a9eb2237-7d36-4a9c-adad-719a807c81cd", 
+"dc_identifier_s": "a9eb2237-7d36-4a9c-adad-719a807c81cd", 
 "georss_polygon_s": "44.8873 -93.2284 45.1245 -93.2284 45.1245 -92.9827 44.8873 -92.9827 44.8873 -93.2284", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Ramsey County, Minnesota", 
-"Minnesota"
+"Ramsey County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "OpenRamsey"
 ], 
-"layer_id_s": "urn:urn-a9eb2237-7d36-4a9c-adad-719a807c81cd", 
+"layer_id_s": "a9eb2237-7d36-4a9c-adad-719a807c81cd", 
 "georss_box_s": "44.8873 -93.2284 45.1245 -92.9827", 
 "dc_title_s": "Parcels: Ramsey County, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-a9eb2237-7d36-4a9c-adad-719a807c81cd"
+"layer_slug_s": "a9eb2237-7d36-4a9c-adad-719a807c81cd", 
+"dct_isPartOf_sm": "Open Ramsey County"
 }

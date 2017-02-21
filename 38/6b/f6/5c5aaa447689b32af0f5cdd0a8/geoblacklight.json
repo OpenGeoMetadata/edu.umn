@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:05Z", 
+"layer_modified_dt": "2017-01-20T18:40:36Z", 
 "solr_geom": "ENVELOPE(-96.720359, -91.59736, 49.050237, 43.646481)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-prairie-change-analysis-2008\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_prairie_change_analysis_2008/shp_env_prairie_change_analysis_2008.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_prairie_change_analysis_2008/shp_env_prairie_change_analysis_2008.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-prairie-change-analysis-2008\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/38/6b/f6/5c5aaa447689b32af0f5cdd0a8/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-386bf65c-5aaa-4476-89b3-2af0f5cdd0a8", 
+"uuid": "386bf65c-5aaa-4476-89b3-2af0f5cdd0a8", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Environment"
@@ -16,17 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-386bf65c-5aaa-4476-89b3-2af0f5cdd0a8", 
+"dc_identifier_s": "386bf65c-5aaa-4476-89b3-2af0f5cdd0a8", 
 "georss_polygon_s": "43.646481 -96.720359 49.050237 -96.720359 49.050237 -91.59736 43.646481 -91.59736 43.646481 -96.720359", 
 "solr_year_i": 1991, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-386bf65c-5aaa-4476-89b3-2af0f5cdd0a8", 
+"layer_id_s": "386bf65c-5aaa-4476-89b3-2af0f5cdd0a8", 
 "georss_box_s": "43.646481 -96.720359 49.050237 -91.59736", 
 "dc_title_s": "Prairie Change Analysis: Minnesota, 1991-2008", 
-"layer_slug_s": "Minnesota-urn-386bf65c-5aaa-4476-89b3-2af0f5cdd0a8"
+"layer_slug_s": "386bf65c-5aaa-4476-89b3-2af0f5cdd0a8", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Point", 
-"layer_modified_dt": "2016-08-18T18:06:46Z", 
+"layer_modified_dt": "2016-12-30T13:42:27Z", 
 "solr_geom": "ENVELOPE(-93.510845, -93.019171, 45.4142, 45.123858)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://gisdata.co.anoka.mn.us/Benchmarks.zip\",\"http://schema.org/url\":\"https://www.anokacounty.us/1990/Data-Downloads\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://gisdata.co.anoka.mn.us/Benchmarks.zip\",\"http://schema.org/url\":\"https://www.anokacounty.us/1990/Data-Downloads\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/a6/82/23/88ba3d4885bdd327d28c04f1b6/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-a6822388-ba3d-4885-bdd3-27d28c04f1b6", 
+"uuid": "a6822388-ba3d-4885-bdd3-27d28c04f1b6", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Location"
@@ -17,18 +17,19 @@
 "Anoka County"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-a6822388-ba3d-4885-bdd3-27d28c04f1b6", 
+"dc_identifier_s": "a6822388-ba3d-4885-bdd3-27d28c04f1b6", 
 "georss_polygon_s": "45.123858 -93.510845 45.4142 -93.510845 45.4142 -93.019171 45.123858 -93.019171 45.123858 -93.510845", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Anoka County, Minnesota"
+"Anoka County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Anoka County"
 ], 
-"layer_id_s": "urn:urn-a6822388-ba3d-4885-bdd3-27d28c04f1b6", 
+"layer_id_s": "a6822388-ba3d-4885-bdd3-27d28c04f1b6", 
 "georss_box_s": "45.123858 -93.510845 45.4142 -93.019171", 
 "dc_title_s": "Benchmarks: Anoka County, Minnesota", 
-"layer_slug_s": "Minnesota-urn-a6822388-ba3d-4885-bdd3-27d28c04f1b6"
+"layer_slug_s": "a6822388-ba3d-4885-bdd3-27d28c04f1b6", 
+"dct_isPartOf_sm": "Anoka County GIS Data"
 }

@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:07Z", 
+"layer_modified_dt": "2017-01-20T18:39:20Z", 
 "solr_geom": "ENVELOPE(-96.833072, -89.397127, 49.348368, 43.435392)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-mn-deer-harvest\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_mn_deer_harvest/shp_env_mn_deer_harvest.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_mn_deer_harvest/shp_env_mn_deer_harvest.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-mn-deer-harvest\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/cd/63/01/c534ef46e79302007cdd4c1111/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-cd6301c5-34ef-46e7-9302-007cdd4c1111", 
+"uuid": "cd6301c5-34ef-46e7-9302-007cdd4c1111", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Environment"
@@ -16,17 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-cd6301c5-34ef-46e7-9302-007cdd4c1111", 
+"dc_identifier_s": "cd6301c5-34ef-46e7-9302-007cdd4c1111", 
 "georss_polygon_s": "43.435392 -96.833072 49.348368 -96.833072 49.348368 -89.397127 43.435392 -89.397127 43.435392 -96.833072", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-cd6301c5-34ef-46e7-9302-007cdd4c1111", 
+"layer_id_s": "cd6301c5-34ef-46e7-9302-007cdd4c1111", 
 "georss_box_s": "43.435392 -96.833072 49.348368 -89.397127", 
 "dc_title_s": "Deer Harvest: Minnesota, 2014", 
-"layer_slug_s": "Minnesota-urn-cd6301c5-34ef-46e7-9302-007cdd4c1111"
+"layer_slug_s": "cd6301c5-34ef-46e7-9302-007cdd4c1111", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Point", 
-"layer_modified_dt": "2016-06-29T10:00:11Z", 
+"layer_modified_dt": "2017-01-20T18:40:44Z", 
 "solr_geom": "ENVELOPE(-97.0697, -90.511807, 48.968607, 43.442165)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-feedlots\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_pca/env_feedlots/shp_env_feedlots.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_pca/env_feedlots/shp_env_feedlots.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-feedlots\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/55/08/65/b8491e41bd8345efb91ca9b8e6/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-550865b8-491e-41bd-8345-efb91ca9b8e6", 
+"uuid": "550865b8-491e-41bd-8345-efb91ca9b8e6", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Environment"
@@ -16,17 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Pollution Control Agency"
 ], 
-"dc_identifier_s": "urn-550865b8-491e-41bd-8345-efb91ca9b8e6", 
+"dc_identifier_s": "550865b8-491e-41bd-8345-efb91ca9b8e6", 
 "georss_polygon_s": "43.442165 -97.0697 48.968607 -97.0697 48.968607 -90.511807 43.442165 -90.511807 43.442165 -97.0697", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Pollution Control Agency"
 ], 
-"layer_id_s": "urn:urn-550865b8-491e-41bd-8345-efb91ca9b8e6", 
+"layer_id_s": "550865b8-491e-41bd-8345-efb91ca9b8e6", 
 "georss_box_s": "43.442165 -97.0697 48.968607 -90.511807", 
 "dc_title_s": "MPCA Feedlots with Animal Counts and Animal Units: Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-550865b8-491e-41bd-8345-efb91ca9b8e6"
+"layer_slug_s": "550865b8-491e-41bd-8345-efb91ca9b8e6", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

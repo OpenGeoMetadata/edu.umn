@@ -1,14 +1,14 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-11-22T15:51:50Z", 
+"layer_modified_dt": "2016-12-30T13:41:31Z", 
 "solr_geom": "ENVELOPE(-96.305727, -95.118902, 46.733527, 46.091188)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://www.co.otter-tail.mn.us/DocumentCenter/Home/View/462\",\"http://schema.org/downloadUrl\":\"http://www.co.otter-tail.mn.us/212/GIS-Shapefile-Downloads\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://www.co.otter-tail.mn.us/212/GIS-Shapefile-Downloads\",\"http://schema.org/url\":\"http://www.co.otter-tail.mn.us/DocumentCenter/Home/View/462\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/6b/58/59/d452d14596a0da0abccd8cd545/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-6b5859d4-52d1-4596-a0da-0abccd8cd545", 
+"uuid": "6b5859d4-52d1-4596-a0da-0abccd8cd545", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Transportation", 
-"roads"
+"Roads"
 ], 
 "dct_temporal_sm": "2015", 
 "dc_description_s": "This shapefile contains all road centerlines in Otter Tail County.", 
@@ -18,18 +18,19 @@
 "Otter Tail County, Minnesota"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-6b5859d4-52d1-4596-a0da-0abccd8cd545", 
+"dc_identifier_s": "6b5859d4-52d1-4596-a0da-0abccd8cd545", 
 "georss_polygon_s": "46.091188 -96.305727 46.733527 -96.305727 46.733527 -95.118902 46.091188 -95.118902 46.091188 -96.305727", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Otter Tail County, Minnesota"
+"Otter Tail County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Otter Tail County, Minnesota"
 ], 
-"layer_id_s": "urn:urn-6b5859d4-52d1-4596-a0da-0abccd8cd545", 
+"layer_id_s": "6b5859d4-52d1-4596-a0da-0abccd8cd545", 
 "georss_box_s": "46.091188 -96.305727 46.733527 -95.118902", 
 "dc_title_s": "Road Centerlines: Otter Tail County, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-6b5859d4-52d1-4596-a0da-0abccd8cd545"
+"layer_slug_s": "6b5859d4-52d1-4596-a0da-0abccd8cd545", 
+"dct_isPartOf_sm": "Otter Tail County GIS Data"
 }

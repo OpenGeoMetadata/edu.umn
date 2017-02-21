@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:01Z", 
+"layer_modified_dt": "2017-01-20T18:40:31Z", 
 "solr_geom": "ENVELOPE(-92.395886, -89.913908, 48.19366, 47.091749)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-mn-moose-harvest\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_mn_moose_harvest/shp_env_mn_moose_harvest.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_mn_moose_harvest/shp_env_mn_moose_harvest.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-mn-moose-harvest\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/8b/28/7b/c329e04e4e8e2368bc507a70ad/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-8b287bc3-29e0-4e4e-8e23-68bc507a70ad", 
+"uuid": "8b287bc3-29e0-4e4e-8e23-68bc507a70ad", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Environment"
@@ -16,17 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-8b287bc3-29e0-4e4e-8e23-68bc507a70ad", 
+"dc_identifier_s": "8b287bc3-29e0-4e4e-8e23-68bc507a70ad", 
 "georss_polygon_s": "47.091749 -92.395886 48.19366 -92.395886 48.19366 -89.913908 47.091749 -89.913908 47.091749 -92.395886", 
 "solr_year_i": 2009, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-8b287bc3-29e0-4e4e-8e23-68bc507a70ad", 
+"layer_id_s": "8b287bc3-29e0-4e4e-8e23-68bc507a70ad", 
 "georss_box_s": "47.091749 -92.395886 48.19366 -89.913908", 
 "dc_title_s": "Moose Harvest: Minnesota, 2009", 
-"layer_slug_s": "Minnesota-urn-8b287bc3-29e0-4e4e-8e23-68bc507a70ad"
+"layer_slug_s": "8b287bc3-29e0-4e4e-8e23-68bc507a70ad", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

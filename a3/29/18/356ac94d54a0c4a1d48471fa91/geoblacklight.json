@@ -1,18 +1,18 @@
 {
 "layer_geom_type_s": "Polygon", 
-"layer_modified_dt": "2016-08-17T12:59:31Z", 
+"layer_modified_dt": "2016-12-30T13:41:15Z", 
 "solr_geom": "ENVELOPE(-94.0128, -93.5203, 44.9777, 44.6398)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/ce4fdaf6e33541a69be07f0191c9f5fe_1.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.carver.mn.us/arcgis_ea/rest/services/OpenAccess/CC_Floodplain/MapServer/1\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/ce4fdaf6e33541a69be07f0191c9f5fe_1\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/ce4fdaf6e33541a69be07f0191c9f5fe_1.zip\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/ce4fdaf6e33541a69be07f0191c9f5fe_1\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/a3/29/18/356ac94d54a0c4a1d48471fa91/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.carver.mn.us/arcgis_ea/rest/services/OpenAccess/CC_Floodplain/MapServer/1\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-a3291835-6ac9-4d54-a0c4-a1d48471fa91", 
+"uuid": "a3291835-6ac9-4d54-a0c4-a1d48471fa91", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Intelligence and Military", 
 "Inland Waters", 
 "Elevation", 
 "Imagery and Base Maps", 
-"floods", 
-"floodplains"
+"Floodplains", 
+"Floods"
 ], 
 "dct_temporal_sm": "2014", 
 "dc_description_s": "2010 FEMA DFIRM base flood elevations.", 
@@ -22,18 +22,19 @@
 "Carver County, Minnesota"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-a3291835-6ac9-4d54-a0c4-a1d48471fa91", 
+"dc_identifier_s": "a3291835-6ac9-4d54-a0c4-a1d48471fa91", 
 "georss_polygon_s": "44.6398 -94.0128 44.9777 -94.0128 44.9777 -93.5203 44.6398 -93.5203 44.6398 -94.0128", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Carver County, Minnesota", 
-"Minnesota"
+"Carver County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Carver County, Minnesota"
 ], 
-"layer_id_s": "urn:urn-a3291835-6ac9-4d54-a0c4-a1d48471fa91", 
+"layer_id_s": "a3291835-6ac9-4d54-a0c4-a1d48471fa91", 
 "georss_box_s": "44.6398 -94.0128 44.9777 -93.5203", 
 "dc_title_s": "Base Flood Elevation: Carver County, Minnesota, 2014", 
-"layer_slug_s": "Minnesota-urn-a3291835-6ac9-4d54-a0c4-a1d48471fa91"
+"layer_slug_s": "a3291835-6ac9-4d54-a0c4-a1d48471fa91", 
+"dct_isPartOf_sm": "Carver County Open Data"
 }

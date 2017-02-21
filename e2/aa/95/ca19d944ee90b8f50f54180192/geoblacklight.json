@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:06Z", 
+"layer_modified_dt": "2017-01-20T18:39:18Z", 
 "solr_geom": "ENVELOPE(-96.833072, -89.397127, 49.348368, 43.435392)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-turkey-permit-areas\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_turkey_permit_areas/shp_bdry_turkey_permit_areas.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_turkey_permit_areas/shp_bdry_turkey_permit_areas.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-turkey-permit-areas\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/e2/aa/95/ca19d944ee90b8f50f54180192/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-e2aa95ca-19d9-44ee-90b8-f50f54180192", 
+"uuid": "e2aa95ca-19d9-44ee-90b8-f50f54180192", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Boundaries"
@@ -16,17 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR) - Division of Fish & Wildlife - Wildlife Unit"
 ], 
-"dc_identifier_s": "urn-e2aa95ca-19d9-44ee-90b8-f50f54180192", 
+"dc_identifier_s": "e2aa95ca-19d9-44ee-90b8-f50f54180192", 
 "georss_polygon_s": "43.435392 -96.833072 49.348368 -96.833072 49.348368 -89.397127 43.435392 -89.397127 43.435392 -96.833072", 
 "solr_year_i": 2016, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-e2aa95ca-19d9-44ee-90b8-f50f54180192", 
+"layer_id_s": "e2aa95ca-19d9-44ee-90b8-f50f54180192", 
 "georss_box_s": "43.435392 -96.833072 49.348368 -89.397127", 
 "dc_title_s": "Turkey Permit Areas: Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-e2aa95ca-19d9-44ee-90b8-f50f54180192"
+"layer_slug_s": "e2aa95ca-19d9-44ee-90b8-f50f54180192", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

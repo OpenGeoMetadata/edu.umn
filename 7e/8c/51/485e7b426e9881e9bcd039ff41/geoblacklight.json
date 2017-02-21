@@ -1,38 +1,37 @@
 {
-"layer_geom_type_s": "Raster", 
-"layer_modified_dt": "2016-06-29T09:59:54Z", 
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2017-01-20T18:40:22Z", 
 "solr_geom": "ENVELOPE(-94.17, -92.5, 45.75, 45)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-rha1a-anoka-sand-plain\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-rha1a-anoka-sand-plain\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/7e/8c/51/485e7b426e9881e9bcd039ff41/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-7e8c5148-5e7b-426e-9881-e9bcd039ff41", 
+"uuid": "7e8c5148-5e7b-426e-9881-e9bcd039ff41", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Geoscientific Information"
 ], 
-"dc_format_s": "ArcGRID", 
+"dct_temporal_sm": "1993", 
 "dc_description_s": "A County Geologic Atlas is a systematic study of a county's geologic and ground water resources. Geologic studies include both near-surface deposits and bedrock. Ground water studies include flow systems, aquifer capacity, and ground water chemistry. In some areas sand and gravel deposits, sinkholes, or other features are studied. Interpretation of sensitivity to pollution is also part of an atlas. The information is organized, analyzed, and displayed using geographic information technology. A Regional Hydrogeologic Assessment (RHA) is similar to a County Geologic Atlas in that both geology and ground water are studied. However, a Regional Hydrogeologic Assessment covers a larger area, typically four to nine counties, in less detail. The RHA emphasizes near-surface geologic, ground water, and pollution sensitivity mapping.", 
 "dct_issued_s": "1993-06-15", 
+"dc_format_s": "ArcGRID", 
 "dc_creator_sm": [
 "Minnesota Geological Survey (MGS) and Minnesota Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-7e8c5148-5e7b-426e-9881-e9bcd039ff41", 
-"dc_relation_sm": [
-"Map Series and Report: Anoka Sand Plain Regional Hydrogeologic Assessment, Report RHA-1, Meyer, G.N., Patterson, C.J., Hobbs, H.C., Lehr, J.d., (Minnesota Geological Survey, 1993). Report is out of print. There is no Part B for this Atlas. Both geology and hydrogeology are included in this map product. For a listing of Maps and Data published by the Minnesota Geological Survey, see U of M Library Digital Conservancy: http://conservancy.umn.edu/handle/11299/708 For additional information on the DNR Ground Water Mapping Program, visit: http://www.dnr.state.mn.us/waters/groundwater_section/mapping/index.html"
-], 
+"dc_identifier_s": "7e8c5148-5e7b-426e-9881-e9bcd039ff41", 
 "georss_polygon_s": "45 -94.17 45.75 -94.17 45.75 -92.5 45 -92.5 45 -94.17", 
 "solr_year_i": 1993, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Chisago County, Minnesota", 
-"Anoka County, Minnesota", 
-"Isanti County, Minnesota", 
-"Sherburne County, Minnesota"
+"Minnesota, United States", 
+"Chisago County, Minnesota, United States", 
+"Anoka County, Minnesota, United States", 
+"Isanti County, Minnesota, United States", 
+"Sherburne County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Geological Survey"
 ], 
-"layer_id_s": "urn:urn-7e8c5148-5e7b-426e-9881-e9bcd039ff41", 
+"layer_id_s": "7e8c5148-5e7b-426e-9881-e9bcd039ff41", 
 "georss_box_s": "45 -94.17 45.75 -92.5", 
 "dc_title_s": "Regional Hydrogeologic Assessment, Anoka Sand Plain, Minnesota, 1993", 
-"layer_slug_s": "Minnesota-urn-7e8c5148-5e7b-426e-9881-e9bcd039ff41"
+"layer_slug_s": "7e8c5148-5e7b-426e-9881-e9bcd039ff41", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

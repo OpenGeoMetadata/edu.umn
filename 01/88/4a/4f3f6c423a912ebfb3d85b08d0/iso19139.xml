@@ -39,7 +39,7 @@
       </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-09-21T16:45:05</gco:DateTime>
+      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-12-30T13:41:55</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
       <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
@@ -163,24 +163,17 @@
             <gmd:presentationForm>
               <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115"/>
             </gmd:presentationForm>
+            <gmd:otherCitationDetails>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Point</gco:CharacterString>
+            </gmd:otherCitationDetails>
+            <gmd:collectiveTitle>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Open Ramsey County</gco:CharacterString>
+            </gmd:collectiveTitle>
           </gmd:CI_Citation>
         </gmd:citation>
         <gmd:abstract>
           <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Address points represent individual addressed locations as determined by the Local Addressing Authority. This authority rest in the municipal government in Ramsey County, and the municipalities assist in the maintenance of this information. The original source of many of these points came from the centroid of tax parcels with known situs addresses. In some locations this data has been enhanced to cases where a tax parcel may have multiple addresses (such as in some apartment units).</gco:CharacterString>
         </gmd:abstract>
-        <gmd:descriptiveKeywords>
-          <gmd:MD_Keywords>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Ramsey County, Minnesota</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:type>
-              <gmd:MD_KeywordTypeCode codeList="" codeListValue="place"/>
-            </gmd:type>
-          </gmd:MD_Keywords>
-        </gmd:descriptiveKeywords>
         <gmd:resourceConstraints>
           <gmd:MD_Constraints>
             <gmd:useLimitation>
@@ -240,6 +233,19 @@
             </gmd:temporalElement>
           </gmd:EX_Extent>
         </gmd:extent>
+        <gmd:descriptiveKeywords>
+          <gmd:MD_Keywords>
+            <gmd:type>
+              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="place"/>
+            </gmd:type>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Ramsey County, Minnesota, United States</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota, United States</gco:CharacterString>
+            </gmd:keyword>
+          </gmd:MD_Keywords>
+        </gmd:descriptiveKeywords>
       </gmd:MD_DataIdentification>
     </gmd:identificationInfo>
     <gmd:distributionInfo>
@@ -282,9 +288,6 @@
                 <gmd:name>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Shapefile</gco:CharacterString>
                 </gmd:name>
-                <gmd:version xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
-                  <gco:CharacterString/>
-                </gmd:version>
               </gmd:MD_Format>
             </gmd:distributorFormat>
           </gmd:MD_Distributor>
@@ -299,9 +302,6 @@
                 <gmd:protocol>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">download</gco:CharacterString>
                 </gmd:protocol>
-                <gmd:name xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
-                  <gco:CharacterString/>
-                </gmd:name>
                 <gmd:description>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Shapefile</gco:CharacterString>
                 </gmd:description>
@@ -322,9 +322,6 @@
                 <gmd:protocol>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ESRI:ArcGIS</gco:CharacterString>
                 </gmd:protocol>
-                <gmd:name xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
-                  <gco:CharacterString/>
-                </gmd:name>
                 <gmd:description>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Esri REST Service</gco:CharacterString>
                 </gmd:description>
@@ -342,9 +339,6 @@
                 <gmd:protocol>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:LINK</gco:CharacterString>
                 </gmd:protocol>
-                <gmd:name xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
-                  <gco:CharacterString/>
-                </gmd:name>
                 <gmd:description>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Information</gco:CharacterString>
                 </gmd:description>

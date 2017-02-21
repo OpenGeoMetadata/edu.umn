@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-09-29T16:48:04Z", 
+"layer_modified_dt": "2016-12-30T13:42:11Z", 
 "solr_geom": "ENVELOPE(-93.3291357676986, -93.1938489001448, 45.0512511622199, 44.8904714467841)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/92f705ededd64abc94964867b38a4c32_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Minneapolis_City_Limits/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/92f705ededd64abc94964867b38a4c32_0.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/92f705ededd64abc94964867b38a4c32_0.zip\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/92f705ededd64abc94964867b38a4c32_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/80/4b/af/c96eae48c1942bd547fe138c33/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Minneapolis_City_Limits/FeatureServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-804bafc9-6eae-48c1-942b-d547fe138c33", 
+"uuid": "804bafc9-6eae-48c1-942b-d547fe138c33", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Boundaries"
@@ -17,18 +17,19 @@
 "City of Minneapolis"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-804bafc9-6eae-48c1-942b-d547fe138c33", 
+"dc_identifier_s": "804bafc9-6eae-48c1-942b-d547fe138c33", 
 "georss_polygon_s": "44.8904714467841 -93.3291357676986 45.0512511622199 -93.3291357676986 45.0512511622199 -93.1938489001448 44.8904714467841 -93.1938489001448 44.8904714467841 -93.3291357676986", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minneapolis, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "City of Minneapolis"
 ], 
-"layer_id_s": "urn:urn-804bafc9-6eae-48c1-942b-d547fe138c33", 
+"layer_id_s": "804bafc9-6eae-48c1-942b-d547fe138c33", 
 "georss_box_s": "44.8904714467841 -93.3291357676986 45.0512511622199 -93.1938489001448", 
 "dc_title_s": "City Boundary: Minneapolis, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-804bafc9-6eae-48c1-942b-d547fe138c33"
+"layer_slug_s": "804bafc9-6eae-48c1-942b-d547fe138c33", 
+"dct_isPartOf_sm": "Minneapolis Open Data"
 }

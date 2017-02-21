@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:58:39Z", 
+"layer_modified_dt": "2017-01-20T18:38:41Z", 
 "solr_geom": "ENVELOPE(-93.288378, -93.073311, 44.989128, 44.936468)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-transit-downtown-fare-zone\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Transportation/MapServer/12\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_transit_downtown_fare_zone/shp_trans_transit_downtown_fare_zone.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_transit_downtown_fare_zone/shp_trans_transit_downtown_fare_zone.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-transit-downtown-fare-zone\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/28/26/81/48a280449ca7e6d5bb2d0a6e53/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Transportation/MapServer/12\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-28268148-a280-449c-a7e6-d5bb2d0a6e53", 
+"uuid": "28268148-a280-449c-a7e6-d5bb2d0a6e53", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Transportation"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Metropolitan Council"
 ], 
-"dc_identifier_s": "urn-28268148-a280-449c-a7e6-d5bb2d0a6e53", 
-"dc_relation_sm": [
-"Transit Routes, Transit Stops"
-], 
+"dc_identifier_s": "28268148-a280-449c-a7e6-d5bb2d0a6e53", 
 "georss_polygon_s": "44.936468 -93.288378 44.989128 -93.288378 44.989128 -93.073311 44.936468 -93.073311 44.936468 -93.288378", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-28268148-a280-449c-a7e6-d5bb2d0a6e53", 
+"layer_id_s": "28268148-a280-449c-a7e6-d5bb2d0a6e53", 
 "georss_box_s": "44.936468 -93.288378 44.989128 -93.073311", 
 "dc_title_s": "Downtown Fare Zones: Twin Cities Metro, Minnesota, 2014", 
-"layer_slug_s": "Minnesota-urn-28268148-a280-449c-a7e6-d5bb2d0a6e53"
+"layer_slug_s": "28268148-a280-449c-a7e6-d5bb2d0a6e53", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }
