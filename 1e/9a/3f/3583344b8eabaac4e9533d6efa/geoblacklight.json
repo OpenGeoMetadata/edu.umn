@@ -1,10 +1,10 @@
 {
-"layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:58:41Z", 
+"layer_geom_type_s": "Point", 
+"layer_modified_dt": "2017-01-20T18:38:44Z", 
 "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/agri-cropland-data-layer-2014\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mda/agri_cropland_data_layer_2014/fgdb_agri_cropland_data_layer_2014.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mda/agri_cropland_data_layer_2014/fgdb_agri_cropland_data_layer_2014.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/agri-cropland-data-layer-2014\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/1e/9a/3f/3583344b8eabaac4e9533d6efa/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-1e9a3f35-8334-4b8e-abaa-c4e9533d6efa", 
+"uuid": "1e9a3f35-8334-4b8e-abaa-c4e9533d6efa", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Farming"
@@ -16,17 +16,18 @@
 "dc_creator_sm": [
 "National Agricultural Statistics Service (NASS), United States Department of Agriculture (USDA)"
 ], 
-"dc_identifier_s": "urn-1e9a3f35-8334-4b8e-abaa-c4e9533d6efa", 
+"dc_identifier_s": "1e9a3f35-8334-4b8e-abaa-c4e9533d6efa", 
 "georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
-"solr_year_i": 2015, 
+"solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Agriculture"
 ], 
-"layer_id_s": "urn:urn-1e9a3f35-8334-4b8e-abaa-c4e9533d6efa", 
+"layer_id_s": "1e9a3f35-8334-4b8e-abaa-c4e9533d6efa", 
 "georss_box_s": "43.5 -97.23 49.37 -89.53", 
 "dc_title_s": "Cropland Data Layer: Minnesota, 2014", 
-"layer_slug_s": "Minnesota-urn-1e9a3f35-8334-4b8e-abaa-c4e9533d6efa"
+"layer_slug_s": "1e9a3f35-8334-4b8e-abaa-c4e9533d6efa", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

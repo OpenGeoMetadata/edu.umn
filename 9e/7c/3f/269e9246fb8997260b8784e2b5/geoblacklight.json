@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:55Z", 
+"layer_modified_dt": "2017-01-20T18:40:23Z", 
 "solr_geom": "ENVELOPE(-98.9, -76, 50.4, 29.1)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/loc-geographic-names-usgs-gnis\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mngeo/loc_geographic_names_usgs_gnis/shp_loc_geographic_names_usgs_gnis.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mngeo/loc_geographic_names_usgs_gnis/shp_loc_geographic_names_usgs_gnis.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/loc-geographic-names-usgs-gnis\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/9e/7c/3f/269e9246fb8997260b8784e2b5/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-9e7c3f26-9e92-46fb-8997-260b8784e2b5", 
+"uuid": "9e7c3f26-9e92-46fb-8997-260b8784e2b5", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Location"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "United States Geological Survey"
 ], 
-"dc_identifier_s": "urn-9e7c3f26-9e92-46fb-8997-260b8784e2b5", 
-"dc_relation_sm": [
-"Federal data sets within the Geographic Names Information System include:National Geographic Names Data Base (the source of this GIS coverage)USGS Topographic Names Bata BaseReference Data BaseBoard of Geographic Names Data BaseUSGS Digital GazetteerMost names are represented on the Digital Raster Geographic (DRG) versions of the topographic map series. The National Hydrography Dataset (NHD) names lakes and rivers using the GNIS ID.  This dataset provides a full geometric representation of lake boundaries and river traces."
-], 
+"dc_identifier_s": "9e7c3f26-9e92-46fb-8997-260b8784e2b5", 
 "georss_polygon_s": "29.1 -98.9 50.4 -98.9 50.4 -76 29.1 -76 29.1 -98.9", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Geospatial Information Office (MnGeo)"
 ], 
-"layer_id_s": "urn:urn-9e7c3f26-9e92-46fb-8997-260b8784e2b5", 
+"layer_id_s": "9e7c3f26-9e92-46fb-8997-260b8784e2b5", 
 "georss_box_s": "29.1 -98.9 50.4 -76", 
 "dc_title_s": "Geographic Names: Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-9e7c3f26-9e92-46fb-8997-260b8784e2b5"
+"layer_slug_s": "9e7c3f26-9e92-46fb-8997-260b8784e2b5", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

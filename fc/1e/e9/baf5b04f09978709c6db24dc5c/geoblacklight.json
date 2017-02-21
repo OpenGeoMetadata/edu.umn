@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:26Z", 
+"layer_modified_dt": "2017-01-20T18:41:03Z", 
 "solr_geom": "ENVELOPE(-95.13, -94.05, 45.79, 45.27)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/elev-lidar-stearns2006\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/elev-lidar-stearns2006\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/fc/1e/e9/baf5b04f09978709c6db24dc5c/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-fc1ee9ba-f5b0-4f09-9787-09c6db24dc5c", 
+"uuid": "fc1ee9ba-f5b0-4f09-9787-09c6db24dc5c", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Elevation"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Stearns County, Minnesota"
 ], 
-"dc_identifier_s": "urn-fc1ee9ba-f5b0-4f09-9787-09c6db24dc5c", 
-"dc_relation_sm": [
-"For more information about elevation data for Minnesota, see: http://www.mngeo.state.mn.us/chouse/elevation/index.html"
-], 
+"dc_identifier_s": "fc1ee9ba-f5b0-4f09-9787-09c6db24dc5c", 
 "georss_polygon_s": "45.27 -95.13 45.79 -95.13 45.79 -94.05 45.27 -94.05 45.27 -95.13", 
 "solr_year_i": 2006, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Stearns County, Minnesota"
+"Minnesota, United States", 
+"Stearns County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-fc1ee9ba-f5b0-4f09-9787-09c6db24dc5c", 
+"layer_id_s": "fc1ee9ba-f5b0-4f09-9787-09c6db24dc5c", 
 "georss_box_s": "45.27 -95.13 45.79 -94.05", 
 "dc_title_s": "LiDAR Elevation: Stearns County, Minnesota, 2006", 
-"layer_slug_s": "Minnesota-urn-fc1ee9ba-f5b0-4f09-9787-09c6db24dc5c"
+"layer_slug_s": "fc1ee9ba-f5b0-4f09-9787-09c6db24dc5c", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

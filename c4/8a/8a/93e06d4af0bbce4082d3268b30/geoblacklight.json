@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:15Z", 
+"layer_modified_dt": "2017-01-20T18:39:30Z", 
 "solr_geom": "ENVELOPE(-96.719299, -89.998661, 48.559229, 43.460328)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/water-lake-basin-littoral-zones\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/water_lake_basin_littoral_zones/shp_water_lake_basin_littoral_zones.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/water_lake_basin_littoral_zones/shp_water_lake_basin_littoral_zones.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/water-lake-basin-littoral-zones\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/c4/8a/8a/93e06d4af0bbce4082d3268b30/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-c48a8a93-e06d-4af0-bbce-4082d3268b30", 
+"uuid": "c48a8a93-e06d-4af0-bbce-4082d3268b30", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Inland Waters"
@@ -16,17 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-c48a8a93-e06d-4af0-bbce-4082d3268b30", 
+"dc_identifier_s": "c48a8a93-e06d-4af0-bbce-4082d3268b30", 
 "georss_polygon_s": "43.460328 -96.719299 48.559229 -96.719299 48.559229 -89.998661 43.460328 -89.998661 43.460328 -96.719299", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-c48a8a93-e06d-4af0-bbce-4082d3268b30", 
+"layer_id_s": "c48a8a93-e06d-4af0-bbce-4082d3268b30", 
 "georss_box_s": "43.460328 -96.719299 48.559229 -89.998661", 
 "dc_title_s": "Lake Basin Littoral Zone: Minnesota, 2014", 
-"layer_slug_s": "Minnesota-urn-c48a8a93-e06d-4af0-bbce-4082d3268b30"
+"layer_slug_s": "c48a8a93-e06d-4af0-bbce-4082d3268b30", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:06Z", 
+"layer_modified_dt": "2017-01-20T18:39:18Z", 
 "solr_geom": "ENVELOPE(-95.061095, -91.126578, 46.369039, 43.483265)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-green-infrastructure\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_green_infrastructure/shp_env_green_infrastructure.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_green_infrastructure/shp_env_green_infrastructure.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-green-infrastructure\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/20/48/53/a12c2c4c469516c914bb28e2bc/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-204853a1-2c2c-4c46-9516-c914bb28e2bc", 
+"uuid": "204853a1-2c2c-4c46-9516-c914bb28e2bc", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Environment"
@@ -16,17 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-204853a1-2c2c-4c46-9516-c914bb28e2bc", 
+"dc_identifier_s": "204853a1-2c2c-4c46-9516-c914bb28e2bc", 
 "georss_polygon_s": "43.483265 -95.061095 46.369039 -95.061095 46.369039 -91.126578 43.483265 -91.126578 43.483265 -95.061095", 
 "solr_year_i": 2008, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-204853a1-2c2c-4c46-9516-c914bb28e2bc", 
+"layer_id_s": "204853a1-2c2c-4c46-9516-c914bb28e2bc", 
 "georss_box_s": "43.483265 -95.061095 46.369039 -91.126578", 
 "dc_title_s": "Central Region Green Infrastructure: Minnesota, 2008", 
-"layer_slug_s": "Minnesota-urn-204853a1-2c2c-4c46-9516-c914bb28e2bc"
+"layer_slug_s": "204853a1-2c2c-4c46-9516-c914bb28e2bc", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

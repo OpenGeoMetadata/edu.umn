@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:58:51Z", 
+"layer_modified_dt": "2017-01-20T18:38:58Z", 
 "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metrogis-loc-address-points\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Facilities_Buildings_Structures/MapServer/0\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metrogis/loc_address_points/shp_loc_address_points.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metrogis/loc_address_points/shp_loc_address_points.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metrogis-loc-address-points\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/b6/2c/1b/16791742f79733922ca6a4082e/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Facilities_Buildings_Structures/MapServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-b62c1b16-7917-42f7-9733-922ca6a4082e", 
+"uuid": "b62c1b16-7917-42f7-9733-922ca6a4082e", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Location"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Contains data originating from cities and counties in the Twin Cities metropolitan area."
 ], 
-"dc_identifier_s": "urn-b62c1b16-7917-42f7-9733-922ca6a4082e", 
-"dc_relation_sm": [
-"MetroGIS Regional Parcel Dataset"
-], 
+"dc_identifier_s": "b62c1b16-7917-42f7-9733-922ca6a4082e", 
 "georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-b62c1b16-7917-42f7-9733-922ca6a4082e", 
+"layer_id_s": "b62c1b16-7917-42f7-9733-922ca6a4082e", 
 "georss_box_s": "44.471 -94.012 45.415 -92.732", 
 "dc_title_s": "MetroGIS Address Points Dataset: Twin Cities Metro, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-b62c1b16-7917-42f7-9733-922ca6a4082e"
+"layer_slug_s": "b62c1b16-7917-42f7-9733-922ca6a4082e", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

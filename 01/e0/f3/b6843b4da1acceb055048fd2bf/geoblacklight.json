@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:58:47Z", 
+"layer_modified_dt": "2017-01-20T18:38:52Z", 
 "solr_geom": "ENVELOPE(-92.43923, -90.147331, 48.253256, 47.783106)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-boundary-waters-canoe-area\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-boundary-waters-canoe-area\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-boundary-waters-canoe-area\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/01/e0/f3/b6843b4da1acceb055048fd2bf/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-01e0f3b6-843b-4da1-acce-b055048fd2bf", 
+"uuid": "01e0f3b6-843b-4da1-acce-b055048fd2bf", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Boundaries"
@@ -16,17 +16,18 @@
 "dc_creator_sm": [
 "Minnesota DNR - Division of Lands & Minerals"
 ], 
-"dc_identifier_s": "urn-01e0f3b6-843b-4da1-acce-b055048fd2bf", 
+"dc_identifier_s": "01e0f3b6-843b-4da1-acce-b055048fd2bf", 
 "georss_polygon_s": "47.783106 -92.43923 48.253256 -92.43923 48.253256 -90.147331 47.783106 -90.147331 47.783106 -92.43923", 
-"solr_year_i": 2002, 
+"solr_year_i": 1978, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-01e0f3b6-843b-4da1-acce-b055048fd2bf", 
+"layer_id_s": "01e0f3b6-843b-4da1-acce-b055048fd2bf", 
 "georss_box_s": "47.783106 -92.43923 48.253256 -90.147331", 
 "dc_title_s": "Boundary Waters Canoe Area Boundary: Minnesota, 1978", 
-"layer_slug_s": "Minnesota-urn-01e0f3b6-843b-4da1-acce-b055048fd2bf"
+"layer_slug_s": "01e0f3b6-843b-4da1-acce-b055048fd2bf", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

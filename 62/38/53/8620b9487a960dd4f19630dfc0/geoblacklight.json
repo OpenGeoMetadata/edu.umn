@@ -1,15 +1,15 @@
 {
 "layer_geom_type_s": "Polygon", 
-"layer_modified_dt": "2016-08-17T16:49:21Z", 
+"layer_modified_dt": "2016-12-30T13:42:02Z", 
 "solr_geom": "ENVELOPE(-94.0129, -93.5195, 44.9788, 44.6353)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/5b46aa4a2a8b4d97b3f5c800d1257b70_3.zip\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/5b46aa4a2a8b4d97b3f5c800d1257b70_3\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/5b46aa4a2a8b4d97b3f5c800d1257b70_3.zip\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/5b46aa4a2a8b4d97b3f5c800d1257b70_3\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/62/38/53/8620b9487a960dd4f19630dfc0/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-62385386-20b9-487a-960d-d4f19630dfc0", 
+"uuid": "62385386-20b9-487a-960d-d4f19630dfc0", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Planning and Cadastral", 
-"public land survey system", 
-"townships"
+"Townships", 
+"Public land survey system"
 ], 
 "dct_temporal_sm": "2014-", 
 "dc_description_s": "This is a polygon dataset for the township boundaries within Carver County derived from the County Surveryor's base map.", 
@@ -19,18 +19,19 @@
 "Carver County, Minnesota"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-62385386-20b9-487a-960d-d4f19630dfc0", 
+"dc_identifier_s": "62385386-20b9-487a-960d-d4f19630dfc0", 
 "georss_polygon_s": "44.6353 -94.0129 44.9788 -94.0129 44.9788 -93.5195 44.6353 -93.5195 44.6353 -94.0129", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Carver County, Minnesota", 
-"Minnesota"
+"Carver County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Carver County, Minnesota"
 ], 
-"layer_id_s": "urn:urn-62385386-20b9-487a-960d-d4f19630dfc0", 
+"layer_id_s": "62385386-20b9-487a-960d-d4f19630dfc0", 
 "georss_box_s": "44.6353 -94.0129 44.9788 -93.5195", 
 "dc_title_s": "PLSS Townships: Carver County, Minnesota", 
-"layer_slug_s": "Minnesota-urn-62385386-20b9-487a-960d-d4f19630dfc0"
+"layer_slug_s": "62385386-20b9-487a-960d-d4f19630dfc0", 
+"dct_isPartOf_sm": "Carver County Open Data"
 }

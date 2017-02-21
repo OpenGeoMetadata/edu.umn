@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Point", 
-"layer_modified_dt": "2016-09-19T16:49:17Z", 
+"layer_modified_dt": "2016-12-30T13:42:29Z", 
 "solr_geom": "ENVELOPE(-93.7522, -93.217, 45.2438, 44.8096)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/389b45bdb8b64b59858f87d544875557_1.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/PLACES/MapServer/1\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/389b45bdb8b64b59858f87d544875557_1\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/389b45bdb8b64b59858f87d544875557_1.zip\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/389b45bdb8b64b59858f87d544875557_1\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/ec/34/e4/33786b44b2b86fd06930fd7339/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/PLACES/MapServer/1\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-ec34e433-786b-44b2-b86f-d06930fd7339", 
+"uuid": "ec34e433-786b-44b2-b86f-d06930fd7339", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Location"
@@ -17,18 +17,19 @@
 "Hennepin County"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-ec34e433-786b-44b2-b86f-d06930fd7339", 
+"dc_identifier_s": "ec34e433-786b-44b2-b86f-d06930fd7339", 
 "georss_polygon_s": "44.8096 -93.7522 45.2438 -93.7522 45.2438 -93.217 44.8096 -93.217 44.8096 -93.7522", 
 "solr_year_i": 2005, 
 "dct_spatial_sm": [
-"Hennepin County, Minnesota", 
-"Minnesota"
+"Hennepin County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Hennepin County"
 ], 
-"layer_id_s": "urn:urn-ec34e433-786b-44b2-b86f-d06930fd7339", 
+"layer_id_s": "ec34e433-786b-44b2-b86f-d06930fd7339", 
 "georss_box_s": "44.8096 -93.7522 45.2438 -93.217", 
 "dc_title_s": "Fire Stations: Hennepin County, Minnesota, 2008", 
-"layer_slug_s": "Minnesota-urn-ec34e433-786b-44b2-b86f-d06930fd7339"
+"layer_slug_s": "ec34e433-786b-44b2-b86f-d06930fd7339", 
+"dct_isPartOf_sm": "Hennepin County Open Data"
 }

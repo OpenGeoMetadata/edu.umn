@@ -1,37 +1,35 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:58:55Z", 
+"layer_modified_dt": "2017-01-20T18:39:04Z", 
 "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-transit-count-headway-rt\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_transit_count_headway_rt/shp_trans_transit_count_headway_rt.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_transit_count_headway_rt/shp_trans_transit_count_headway_rt.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-transit-count-headway-rt\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/dd/3f/c6/df25d24b558917d6052d264966/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-dd3fc6df-25d2-4b55-8917-d6052d264966", 
+"uuid": "dd3fc6df-25d2-4b55-8917-d6052d264966", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Transportation", 
-"transportation"
+"Transportation"
 ], 
-"dct_temporal_sm": "upda", 
+"dct_temporal_sm": "2015", 
 "dc_description_s": "The Transit Route Trip Count and Headway layer contains frequency statistics for all trips serving the Twin Cities regional metropolitan area. One shape and one corresponding record exists for each individual road segment during a specific day of the week for a specific route. One road segment can have three or more copies of the same shape if the trip pattern occurs on a weekday, Saturday, and Sunday. Headway is defined as the number of minutes in a service period divided by the trip count for that same service period. The number represents the average rate of minutes between each trip. The line work for the dataset was derived from NCompass's Centerline and Address Range dataset. A small number of line segments have been added to completely depict the network traveled by fixed-route transit vehicles.", 
 "dct_issued_s": "2015-12-01", 
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Metropolitan Council"
 ], 
-"dc_identifier_s": "urn-dd3fc6df-25d2-4b55-8917-d6052d264966", 
-"dc_relation_sm": [
-"- NCompass Street Centerline and Address Range dataset. - TransitRoutes, TransitStop, TransitPatterns, TransitPattersBySegment"
-], 
+"dc_identifier_s": "dd3fc6df-25d2-4b55-8917-d6052d264966", 
 "georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-dd3fc6df-25d2-4b55-8917-d6052d264966", 
+"layer_id_s": "dd3fc6df-25d2-4b55-8917-d6052d264966", 
 "georss_box_s": "44.471 -94.012 45.415 -92.732", 
 "dc_title_s": "Transit Trip Count Headway by Route: Twin Cities Metro, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-dd3fc6df-25d2-4b55-8917-d6052d264966"
+"layer_slug_s": "dd3fc6df-25d2-4b55-8917-d6052d264966", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

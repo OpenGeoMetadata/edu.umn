@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:23Z", 
+"layer_modified_dt": "2017-01-20T18:40:59Z", 
 "solr_geom": "ENVELOPE(-170.764583, 145.793611, 71.318472, -14.333194)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/util-fcc\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/util-fcc\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/d9/ce/f8/a3a1924aada0baa8f1d1b2d4a7/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-d9cef8a3-a192-4aad-a0ba-a8f1d1b2d4a7", 
+"uuid": "d9cef8a3-a192-4aad-a0ba-a8f1d1b2d4a7", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Utilities and Communication"
@@ -16,10 +16,7 @@
 "dc_creator_sm": [
 "Federal Communications Commission (FCC) Media Bureau and Wireless Telecommunications Bureau"
 ], 
-"dc_identifier_s": "urn-d9cef8a3-a192-4aad-a0ba-a8f1d1b2d4a7", 
-"dc_relation_sm": [
-"FCC Universal Licensing System homepage:http://wireless.fcc.gov/uls/about/"
-], 
+"dc_identifier_s": "d9cef8a3-a192-4aad-a0ba-a8f1d1b2d4a7", 
 "georss_polygon_s": "-14.333194 -170.764583 71.318472 -170.764583 71.318472 145.793611 -14.333194 145.793611 -14.333194 -170.764583", 
 "solr_year_i": 2012, 
 "dct_spatial_sm": [
@@ -28,8 +25,9 @@
 "dc_publisher_sm": [
 "Federal Communications Commission (FCC)"
 ], 
-"layer_id_s": "urn:urn-d9cef8a3-a192-4aad-a0ba-a8f1d1b2d4a7", 
+"layer_id_s": "d9cef8a3-a192-4aad-a0ba-a8f1d1b2d4a7", 
 "georss_box_s": "-14.333194 -170.764583 71.318472 145.793611", 
 "dc_title_s": "Federal Communications Commission (FCC) Geospatial Data: United States, 2012", 
-"layer_slug_s": "Minnesota-urn-d9cef8a3-a192-4aad-a0ba-a8f1d1b2d4a7"
+"layer_slug_s": "d9cef8a3-a192-4aad-a0ba-a8f1d1b2d4a7", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

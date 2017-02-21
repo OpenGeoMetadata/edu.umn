@@ -1,15 +1,15 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-08-19T17:53:21Z", 
+"layer_modified_dt": "2016-12-30T13:42:36Z", 
 "solr_geom": "ENVELOPE(-96.199862, -95.157763, 47.163723, 46.704307)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://www.co.becker.mn.us/online_services/GIS_data.aspx\",\"http://schema.org/downloadUrl\":\"http://gis-server.co.becker.mn.us/data/gis/shapefiles/soils.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis-server.co.becker.mn.us/data/gis/shapefiles/soils.zip\",\"http://schema.org/url\":\"http://www.co.becker.mn.us/online_services/GIS_data.aspx\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/ac/08/a1/72a11b4e5880fe3bb40faaceca/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-ac08a172-a11b-4e58-80fe-3bb40faaceca", 
+"uuid": "ac08a172-a11b-4e58-80fe-3bb40faaceca", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Geoscientific Information", 
-"pedology", 
-"soils"
+"Soils", 
+"Pedology"
 ], 
 "dct_temporal_sm": "2013", 
 "dc_description_s": "Shapefile of soils in Becker County, Minnesota", 
@@ -19,18 +19,19 @@
 "Becker County, Minnesota"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-ac08a172-a11b-4e58-80fe-3bb40faaceca", 
+"dc_identifier_s": "ac08a172-a11b-4e58-80fe-3bb40faaceca", 
 "georss_polygon_s": "46.704307 -96.199862 47.163723 -96.199862 47.163723 -95.157763 46.704307 -95.157763 46.704307 -96.199862", 
 "solr_year_i": 2013, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Becker County, Minnesota"
+"Becker County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Becker County, Minnesota"
 ], 
-"layer_id_s": "urn:urn-ac08a172-a11b-4e58-80fe-3bb40faaceca", 
+"layer_id_s": "ac08a172-a11b-4e58-80fe-3bb40faaceca", 
 "georss_box_s": "46.704307 -96.199862 47.163723 -95.157763", 
 "dc_title_s": "Soils: Becker County, Minnesota, 2013", 
-"layer_slug_s": "Minnesota-urn-ac08a172-a11b-4e58-80fe-3bb40faaceca"
+"layer_slug_s": "ac08a172-a11b-4e58-80fe-3bb40faaceca", 
+"dct_isPartOf_sm": "Becker County GIS Data"
 }

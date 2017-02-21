@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Polygon", 
-"layer_modified_dt": "2016-09-19T17:00:32Z", 
+"layer_modified_dt": "2016-12-30T13:41:09Z", 
 "solr_geom": "ENVELOPE(-93.7728, -93.1766, 45.2471, 44.783)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/b1bd3283733744b992a0d9e27206fef6_7.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/BOUNDARIES/MapServer/7\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/b1bd3283733744b992a0d9e27206fef6_7\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/b1bd3283733744b992a0d9e27206fef6_7.zip\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/b1bd3283733744b992a0d9e27206fef6_7\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/d0/d3/e6/34b28f49b78de6b2dddfdec8cd/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/BOUNDARIES/MapServer/7\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-d0d3e634-b28f-49b7-8de6-b2dddfdec8cd", 
+"uuid": "d0d3e634-b28f-49b7-8de6-b2dddfdec8cd", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Boundaries", 
@@ -18,18 +18,19 @@
 "Hennepin County"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-d0d3e634-b28f-49b7-8de6-b2dddfdec8cd", 
+"dc_identifier_s": "d0d3e634-b28f-49b7-8de6-b2dddfdec8cd", 
 "georss_polygon_s": "44.783 -93.7728 45.2471 -93.7728 45.2471 -93.1766 44.783 -93.1766 44.783 -93.7728", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Hennepin County, Minnesota", 
-"Minnesota"
+"Hennepin County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Hennepin County"
 ], 
-"layer_id_s": "urn:urn-d0d3e634-b28f-49b7-8de6-b2dddfdec8cd", 
+"layer_id_s": "d0d3e634-b28f-49b7-8de6-b2dddfdec8cd", 
 "georss_box_s": "44.783 -93.7728 45.2471 -93.1766", 
 "dc_title_s": "Soil and Water Districts: Hennepin County, Minnesota, 2002", 
-"layer_slug_s": "Minnesota-urn-d0d3e634-b28f-49b7-8de6-b2dddfdec8cd"
+"layer_slug_s": "d0d3e634-b28f-49b7-8de6-b2dddfdec8cd", 
+"dct_isPartOf_sm": "Hennepin County Open Data"
 }

@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:24Z", 
+"layer_modified_dt": "2017-01-20T18:39:41Z", 
 "solr_geom": "ENVELOPE(-96.311, -91.532, 46.919, 43.62)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-water-mces-indus-dischrg-permits\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Environmental_Monitoring_Modeling/MapServer/2\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/water_mces_indus_dischrg_permits/shp_water_mces_indus_dischrg_permits.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/water_mces_indus_dischrg_permits/shp_water_mces_indus_dischrg_permits.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-water-mces-indus-dischrg-permits\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/2a/78/f3/f937bf4b3bb78cd1f66e7a4f37/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Environmental_Monitoring_Modeling/MapServer/2\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-2a78f3f9-37bf-4b3b-b78c-d1f66e7a4f37", 
+"uuid": "2a78f3f9-37bf-4b3b-b78c-d1f66e7a4f37", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Inland Waters"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Metropolitan Council"
 ], 
-"dc_identifier_s": "urn-2a78f3f9-37bf-4b3b-b78c-d1f66e7a4f37", 
-"dc_relation_sm": [
-"Temporary and Planning Meters, Liquid Waste Receiving Disposal Sites, Sewer Interceptor System (Limited Attributes)"
-], 
+"dc_identifier_s": "2a78f3f9-37bf-4b3b-b78c-d1f66e7a4f37", 
 "georss_polygon_s": "43.62 -96.311 46.919 -96.311 46.919 -91.532 43.62 -91.532 43.62 -96.311", 
 "solr_year_i": 2002, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-2a78f3f9-37bf-4b3b-b78c-d1f66e7a4f37", 
+"layer_id_s": "2a78f3f9-37bf-4b3b-b78c-d1f66e7a4f37", 
 "georss_box_s": "43.62 -96.311 46.919 -91.532", 
 "dc_title_s": "MCES Industrial Discharge Permits: Twin Cities Metro, Minnesota, 2002", 
-"layer_slug_s": "Minnesota-urn-2a78f3f9-37bf-4b3b-b78c-d1f66e7a4f37"
+"layer_slug_s": "2a78f3f9-37bf-4b3b-b78c-d1f66e7a4f37", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

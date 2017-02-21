@@ -1,10 +1,10 @@
 {
-"layer_geom_type_s": "Raster", 
-"layer_modified_dt": "2016-06-29T10:00:08Z", 
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2017-01-20T18:40:40Z", 
 "solr_geom": "ENVELOPE(-96.6, -95.1, 46, 45.2)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-rha6a-trav-grnt-area\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-rha6a-trav-grnt-area\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/6d/05/55/5574f34745885377aff42576c8/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-6d055555-74f3-4745-8853-77aff42576c8", 
+"uuid": "6d055555-74f3-4745-8853-77aff42576c8", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Geoscientific Information"
@@ -16,26 +16,24 @@
 "dc_creator_sm": [
 "Minnesota Geological Survey"
 ], 
-"dc_identifier_s": "urn-6d055555-74f3-4745-8853-77aff42576c8", 
-"dc_relation_sm": [
-"Paper Report: RHA-6, Part. A. Harris, K.L., project manager, Quaternary geology--Traverse-Grant area, west-central Minnesota: 2006: Scale: 1:200,000. 2 plates. Plate 1: Surficial geology; Plate 2: Quaternary stratigraphy. $14.00. Paper map and report are available from MGS Map Sales Office (2609 Territorial Road, St. Paul, Minnesota, 55114, 612-626-2969.)  RHA-6, Part B, Hydrogeology, is available from the MGS Map Sales Office (paper report). Digital data is available from the Minnesota Department of Natural Resources Ground Water Mapping Unit:http://www.dnr.state.mn.us/waters/groundwater_section/mapping/index.htmlFor the U of M Libraries Digital Conservancy listing of map products see: http://conservancy.umn.edu/handle/11299/708"
-], 
+"dc_identifier_s": "6d055555-74f3-4745-8853-77aff42576c8", 
 "georss_polygon_s": "45.2 -96.6 46 -96.6 46 -95.1 45.2 -95.1 45.2 -96.6", 
 "solr_year_i": 2006, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Todd County, Minnesota", 
-"Wadena County, Minnesota", 
-"Hubbard County, Minnesota", 
-"Douglas County, Minnesota", 
-"Becker County, Minnesota", 
-"Otter Tail County, Minnesota"
+"Minnesota, United States", 
+"Todd County, Minnesota, United States", 
+"Wadena County, Minnesota, United States", 
+"Hubbard County, Minnesota, United States", 
+"Douglas County, Minnesota, United States", 
+"Becker County, Minnesota, United States", 
+"Otter Tail County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Geological Survey"
 ], 
-"layer_id_s": "urn:urn-6d055555-74f3-4745-8853-77aff42576c8", 
+"layer_id_s": "6d055555-74f3-4745-8853-77aff42576c8", 
 "georss_box_s": "45.2 -96.6 46 -95.1", 
 "dc_title_s": "Quaternary Geology, Traverse-Grant Area, West-Central Minnesota (Part A), 2006", 
-"layer_slug_s": "Minnesota-urn-6d055555-74f3-4745-8853-77aff42576c8"
+"layer_slug_s": "6d055555-74f3-4745-8853-77aff42576c8", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

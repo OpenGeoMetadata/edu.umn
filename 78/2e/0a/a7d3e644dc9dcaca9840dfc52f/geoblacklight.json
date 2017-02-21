@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:37Z", 
+"layer_modified_dt": "2017-01-20T18:40:00Z", 
 "solr_geom": "ENVELOPE(-94.022081, -92.74902, 45.392369, 44.467198)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-agri-agricultural-preserves2007\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/agri_agricultural_preserves2007/shp_agri_agricultural_preserves2007.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/agri_agricultural_preserves2007/shp_agri_agricultural_preserves2007.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-agri-agricultural-preserves2007\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/78/2e/0a/a7d3e644dc9dcaca9840dfc52f/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-782e0aa7-d3e6-44dc-9dca-ca9840dfc52f", 
+"uuid": "782e0aa7-d3e6-44dc-9dca-ca9840dfc52f", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Farming"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Metropolitan Council"
 ], 
-"dc_identifier_s": "urn-782e0aa7-d3e6-44dc-9dca-ca9840dfc52f", 
-"dc_relation_sm": [
-"Agricultural Preserves (other years), Regional Parcel Dataset (Licensed) -                    Seven County Twin Cities Metropolitan Area"
-], 
+"dc_identifier_s": "782e0aa7-d3e6-44dc-9dca-ca9840dfc52f", 
 "georss_polygon_s": "44.467198 -94.022081 45.392369 -94.022081 45.392369 -92.74902 44.467198 -92.74902 44.467198 -94.022081", 
-"solr_year_i": 2008, 
+"solr_year_i": 2007, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-782e0aa7-d3e6-44dc-9dca-ca9840dfc52f", 
+"layer_id_s": "782e0aa7-d3e6-44dc-9dca-ca9840dfc52f", 
 "georss_box_s": "44.467198 -94.022081 45.392369 -92.74902", 
 "dc_title_s": "Agricultural Preserves: Twin Cities Metro, Minnesota, 2007", 
-"layer_slug_s": "Minnesota-urn-782e0aa7-d3e6-44dc-9dca-ca9840dfc52f"
+"layer_slug_s": "782e0aa7-d3e6-44dc-9dca-ca9840dfc52f", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

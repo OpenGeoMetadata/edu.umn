@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:23Z", 
+"layer_modified_dt": "2017-01-20T18:39:40Z", 
 "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-watershed-mgmt-dist-orgs\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_bwsr/bdry_watershed_mgmt_dist_orgs/shp_bdry_watershed_mgmt_dist_orgs.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_bwsr/bdry_watershed_mgmt_dist_orgs/shp_bdry_watershed_mgmt_dist_orgs.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-watershed-mgmt-dist-orgs\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/b4/10/b3/08c9854e13bb5961a73e87a402/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-b410b308-c985-4e13-bb59-61a73e87a402", 
+"uuid": "b410b308-c985-4e13-bb59-61a73e87a402", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Boundaries"
@@ -16,17 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Board of Water and Soil Resources (BWSR)"
 ], 
-"dc_identifier_s": "urn-b410b308-c985-4e13-bb59-61a73e87a402", 
+"dc_identifier_s": "b410b308-c985-4e13-bb59-61a73e87a402", 
 "georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Board of Water and Soil Resources"
 ], 
-"layer_id_s": "urn:urn-b410b308-c985-4e13-bb59-61a73e87a402", 
+"layer_id_s": "b410b308-c985-4e13-bb59-61a73e87a402", 
 "georss_box_s": "43.5 -97.23 49.37 -89.53", 
 "dc_title_s": "Watershed Management Districts and Organizations: Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-b410b308-c985-4e13-bb59-61a73e87a402"
+"layer_slug_s": "b410b308-c985-4e13-bb59-61a73e87a402", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Point", 
-"layer_modified_dt": "2016-09-28T11:08:32Z", 
+"layer_modified_dt": "2016-12-30T13:41:39Z", 
 "solr_geom": "ENVELOPE(-93.473996, -93.178142, 45.062, 44.863658)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/7dd0a65b907e4a008a0128b3b239ec2e_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Fires_Reported_2015/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/7dd0a65b907e4a008a0128b3b239ec2e_0.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.arcgis.com/datasets/e8ad122f05b44729890758505ba967aa_0.zip\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/fires-reported-2015\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/e1/e0/b8/041a5f44f58c62462893375a9f/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/FiresReportedPublic2015/FeatureServer/0/\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-e1e0b804-1a5f-44f5-8c62-462893375a9f", 
+"uuid": "e1e0b804-1a5f-44f5-8c62-462893375a9f", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Society"
@@ -17,18 +17,19 @@
 "City of Minneapolis"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-e1e0b804-1a5f-44f5-8c62-462893375a9f", 
+"dc_identifier_s": "e1e0b804-1a5f-44f5-8c62-462893375a9f", 
 "georss_polygon_s": "44.863658 -93.473996 45.062 -93.473996 45.062 -93.178142 44.863658 -93.178142 44.863658 -93.473996", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minneapolis, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "City of Minneapolis"
 ], 
-"layer_id_s": "urn:urn-e1e0b804-1a5f-44f5-8c62-462893375a9f", 
+"layer_id_s": "e1e0b804-1a5f-44f5-8c62-462893375a9f", 
 "georss_box_s": "44.863658 -93.473996 45.062 -93.178142", 
 "dc_title_s": "Fires Reported: Minneapolis, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-e1e0b804-1a5f-44f5-8c62-462893375a9f"
+"layer_slug_s": "e1e0b804-1a5f-44f5-8c62-462893375a9f", 
+"dct_isPartOf_sm": "Minneapolis Open Data"
 }

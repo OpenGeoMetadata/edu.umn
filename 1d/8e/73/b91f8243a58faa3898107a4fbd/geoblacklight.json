@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Polygon", 
-"layer_modified_dt": "2016-09-19T16:58:12Z", 
+"layer_modified_dt": "2016-12-30T13:41:31Z", 
 "solr_geom": "ENVELOPE(-93.7695, -93.1766, 45.2471, 44.7832)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/f066ef57b3fe40ebbfefaa318a261d75_2.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/ENVIRONMENT/MapServer/2\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/f066ef57b3fe40ebbfefaa318a261d75_2\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/f066ef57b3fe40ebbfefaa318a261d75_2.zip\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/f066ef57b3fe40ebbfefaa318a261d75_2\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/1d/8e/73/b91f8243a58faa3898107a4fbd/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/ENVIRONMENT/MapServer/2\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-1d8e73b9-1f82-43a5-8faa-3898107a4fbd", 
+"uuid": "1d8e73b9-1f82-43a5-8faa-3898107a4fbd", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Environment"
@@ -17,18 +17,19 @@
 "Hennepin County"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-1d8e73b9-1f82-43a5-8faa-3898107a4fbd", 
+"dc_identifier_s": "1d8e73b9-1f82-43a5-8faa-3898107a4fbd", 
 "georss_polygon_s": "44.7832 -93.7695 45.2471 -93.7695 45.2471 -93.1766 44.7832 -93.1766 44.7832 -93.7695", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Hennepin County, Minnesota", 
-"Minnesota"
+"Hennepin County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Hennepin County"
 ], 
-"layer_id_s": "urn:urn-1d8e73b9-1f82-43a5-8faa-3898107a4fbd", 
+"layer_id_s": "1d8e73b9-1f82-43a5-8faa-3898107a4fbd", 
 "georss_box_s": "44.7832 -93.7695 45.2471 -93.1766", 
 "dc_title_s": "Priority Natural Resource Corridors: Hennepin County, Minnesota", 
-"layer_slug_s": "Minnesota-urn-1d8e73b9-1f82-43a5-8faa-3898107a4fbd"
+"layer_slug_s": "1d8e73b9-1f82-43a5-8faa-3898107a4fbd", 
+"dct_isPartOf_sm": "Hennepin County Open Data"
 }

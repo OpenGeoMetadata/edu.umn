@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:49Z", 
+"layer_modified_dt": "2017-01-20T18:40:15Z", 
 "solr_geom": "ENVELOPE(-99, -96, 49.2, 48.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-nwborder-2009-wms-airphotos\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-nwborder-2009-wms-airphotos\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/12/7a/bd/cf4de448d4a99fceea1cb82441/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-127abdcf-4de4-48d4-a99f-ceea1cb82441", 
+"uuid": "127abdcf-4de4-48d4-a99f-ceea1cb82441", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Imagery and Base Maps"
@@ -16,22 +16,20 @@
 "dc_creator_sm": [
 "3001, Inc., for the United States Geological Survey"
 ], 
-"dc_identifier_s": "urn-127abdcf-4de4-48d4-a99f-ceea1cb82441", 
-"dc_relation_sm": [
-"For information on other air photos available for Minnesota, see  http://www.mngeo.state.mn.us/chouse/airphoto/index.html"
-], 
+"dc_identifier_s": "127abdcf-4de4-48d4-a99f-ceea1cb82441", 
 "georss_polygon_s": "48.5 -99 49.2 -99 49.2 -96 48.5 -96 48.5 -99", 
 "solr_year_i": 2009, 
 "dct_spatial_sm": [
 "Manitoba, Canada", 
-"North Dakota", 
-"Minnesota"
+"North Dakota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Geospatial Information Office (MnGeo)"
 ], 
-"layer_id_s": "urn:urn-127abdcf-4de4-48d4-a99f-ceea1cb82441", 
+"layer_id_s": "127abdcf-4de4-48d4-a99f-ceea1cb82441", 
 "georss_box_s": "48.5 -99 49.2 -96", 
 "dc_title_s": "Orthoimagery, 1 Foot (DOQ): Border Region of NW Minnesota, NE North Dakota, and Southern Manitoba, Canada, 2009", 
-"layer_slug_s": "Minnesota-urn-127abdcf-4de4-48d4-a99f-ceea1cb82441"
+"layer_slug_s": "127abdcf-4de4-48d4-a99f-ceea1cb82441", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-09-28T10:44:14Z", 
+"layer_modified_dt": "2016-12-30T13:42:39Z", 
 "solr_geom": "ENVELOPE(-93.329, -93.194, 45.051, 44.891)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/1e89a7bf8cd74cb686352e9459457227_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Wards2012/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/1e89a7bf8cd74cb686352e9459457227_0.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/1e89a7bf8cd74cb686352e9459457227_0.zip\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/1e89a7bf8cd74cb686352e9459457227_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/0b/2d/66/c51b9643c7a4a553dc904f5e22/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Wards2012/FeatureServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-0b2d66c5-1b96-43c7-a4a5-53dc904f5e22", 
+"uuid": "0b2d66c5-1b96-43c7-a4a5-53dc904f5e22", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Environment", 
@@ -20,18 +20,19 @@
 "City of Minneapolis"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-0b2d66c5-1b96-43c7-a4a5-53dc904f5e22", 
+"dc_identifier_s": "0b2d66c5-1b96-43c7-a4a5-53dc904f5e22", 
 "georss_polygon_s": "44.891 -93.329 45.051 -93.329 45.051 -93.194 44.891 -93.194 44.891 -93.329", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minneapolis, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "City of Minneapolis"
 ], 
-"layer_id_s": "urn:urn-0b2d66c5-1b96-43c7-a4a5-53dc904f5e22", 
+"layer_id_s": "0b2d66c5-1b96-43c7-a4a5-53dc904f5e22", 
 "georss_box_s": "44.891 -93.329 45.051 -93.194", 
 "dc_title_s": "City Council Wards with Demographics: Minneapolis, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-0b2d66c5-1b96-43c7-a4a5-53dc904f5e22"
+"layer_slug_s": "0b2d66c5-1b96-43c7-a4a5-53dc904f5e22", 
+"dct_isPartOf_sm": "Minneapolis Open Data"
 }

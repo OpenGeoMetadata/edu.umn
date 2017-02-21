@@ -58,7 +58,7 @@
       </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-06-29T10:00:07</gco:DateTime>
+      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2017-01-20T18:40:38</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
       <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -119,6 +119,12 @@
                 </gmd:role>
               </gmd:CI_ResponsibleParty>
             </gmd:citedResponsibleParty>
+            <gmd:otherCitationDetails>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Mixed</gco:CharacterString>
+            </gmd:otherCitationDetails>
+            <gmd:collectiveTitle>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Geospatial Commons</gco:CharacterString>
+            </gmd:collectiveTitle>
           </gmd:CI_Citation>
         </gmd:citation>
         <gmd:abstract>
@@ -190,98 +196,6 @@
             </gmd:fileName>
           </gmd:MD_BrowseGraphic>
         </gmd:graphicOverview>
-        <gmd:descriptiveKeywords>
-          <gmd:MD_Keywords>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">planning, land ownership, interest types, public land survey (PLS), land stewardship, natural resources</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:type>
-              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="005">theme</gmd:MD_KeywordTypeCode>
-            </gmd:type>
-            <gmd:thesaurusName>
-              <gmd:CI_Citation>
-                <gmd:date xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
-              </gmd:CI_Citation>
-            </gmd:thesaurusName>
-          </gmd:MD_Keywords>
-        </gmd:descriptiveKeywords>
-        <gmd:descriptiveKeywords>
-          <gmd:MD_Keywords>
-            <gmd:keyword>
-              <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://geonet.lib.umn.edu:80/geonetwork/srv/eng/xml.keyword.get?thesaurus=external.theme.gemet-en&amp;id=http://www.eionet.europa.eu/gemet/concept/4988">management of natural resources</gmx:Anchor>
-            </gmd:keyword>
-            <gmd:keyword>
-              <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://geonet.lib.umn.edu:80/geonetwork/srv/eng/xml.keyword.get?thesaurus=external.theme.gemet-en&amp;id=http://www.eionet.europa.eu/gemet/concept/4599">land</gmx:Anchor>
-            </gmd:keyword>
-            <gmd:keyword>
-              <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://geonet.lib.umn.edu:80/geonetwork/srv/eng/xml.keyword.get?thesaurus=external.theme.gemet-en&amp;id=http://www.eionet.europa.eu/gemet/concept/5971">ownership</gmx:Anchor>
-            </gmd:keyword>
-            <gmd:keyword>
-              <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://geonet.lib.umn.edu:80/geonetwork/srv/eng/xml.keyword.get?thesaurus=external.theme.gemet-en&amp;id=http://www.eionet.europa.eu/gemet/concept/6287">planning</gmx:Anchor>
-            </gmd:keyword>
-            <gmd:type>
-              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="theme"/>
-            </gmd:type>
-            <gmd:thesaurusName>
-              <gmd:CI_Citation>
-                <gmd:title>
-                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GEMET</gco:CharacterString>
-                </gmd:title>
-                <gmd:date>
-                  <gmd:CI_Date>
-                    <gmd:date>
-                      <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2010-01-13</gco:Date>
-                    </gmd:date>
-                    <gmd:dateType>
-                      <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
-                    </gmd:dateType>
-                  </gmd:CI_Date>
-                </gmd:date>
-                <gmd:identifier>
-                  <gmd:MD_Identifier>
-                    <gmd:code>
-                      <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://geonet.lib.umn.edu/geonetwork/srv/eng/thesaurus.download?ref=external.theme.gemet-en">geonetwork.thesaurus.external.theme.gemet-en</gmx:Anchor>
-                    </gmd:code>
-                  </gmd:MD_Identifier>
-                </gmd:identifier>
-              </gmd:CI_Citation>
-            </gmd:thesaurusName>
-          </gmd:MD_Keywords>
-        </gmd:descriptiveKeywords>
-        <gmd:descriptiveKeywords>
-          <gmd:MD_Keywords>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:type>
-              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="place"/>
-            </gmd:type>
-            <gmd:thesaurusName>
-              <gmd:CI_Citation>
-                <gmd:title>
-                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GeoNames</gco:CharacterString>
-                </gmd:title>
-                <gmd:date>
-                  <gmd:CI_Date>
-                    <gmd:date>
-                      <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2012-10-29</gco:Date>
-                    </gmd:date>
-                    <gmd:dateType>
-                      <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
-                    </gmd:dateType>
-                  </gmd:CI_Date>
-                </gmd:date>
-                <gmd:identifier>
-                  <gmd:MD_Identifier>
-                    <gmd:code>
-                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">http://www.geonames.org/ontology/ontology_v3.1.rdf</gco:CharacterString>
-                    </gmd:code>
-                  </gmd:MD_Identifier>
-                </gmd:identifier>
-              </gmd:CI_Citation>
-            </gmd:thesaurusName>
-          </gmd:MD_Keywords>
-        </gmd:descriptiveKeywords>
         <gmd:resourceConstraints>
           <gmd:MD_LegalConstraints>
             <gmd:accessConstraints>
@@ -338,12 +252,12 @@
               </gmd:EX_GeographicBoundingBox>
             </gmd:geographicElement>
             <gmd:temporalElement>
-              <gmd:EX_TemporalExtent id="boundingTemporalExtent">
+              <gmd:EX_TemporalExtent>
                 <gmd:extent>
-                  <gml:TimeInstant xmlns:gml="http://www.opengis.net/gml" gml:id="boundingTimeInstantExtent">
-                    <gml:description>Time Period of Content date indicates the date which the user can be confident of accuracy and completeness of the dataset.  Updates occur weekly, for all of the State Lands (also referred to as State surface interests) layers.  The control point generated PLS layer (often referred to as PLS40) was created during the 1990s, with the information based on the General Land Office (GLO) plats and field notes, ranging from the mid-1800s to 1998.  Since that time, additional GLO plats have been used to modify the PLS40 layer to incorporate more recent surveys, especially island surveys, and to make corrections to the PLS40 layer.  To better map the state ownership, a version of PLS40 was modified to include several non-BLM (Bureau of Land Management) surveys.  Note that during processing, any land record that does not match to the PLS forty or government lot is then matched to the PLS section to include as many of the land records as possible in this layer.</gml:description>
-                    <gml:timePosition>2016-04-07</gml:timePosition>
-                  </gml:TimeInstant>
+                  <gml:TimePeriod xmlns:gml="http://www.opengis.net/gml">
+                    <gml:beginPosition>2015</gml:beginPosition>
+                    <gml:endPosition>2015</gml:endPosition>
+                  </gml:TimePeriod>
                 </gmd:extent>
               </gmd:EX_TemporalExtent>
             </gmd:temporalElement>
@@ -352,6 +266,47 @@
         <gmd:topicCategory>
           <gmd:MD_TopicCategoryCode>planningCadastre</gmd:MD_TopicCategoryCode>
         </gmd:topicCategory>
+        <gmd:descriptiveKeywords>
+          <gmd:MD_Keywords>
+            <gmd:type>
+              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="place"/>
+            </gmd:type>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota, United States</gco:CharacterString>
+            </gmd:keyword>
+          </gmd:MD_Keywords>
+        </gmd:descriptiveKeywords>
+        <gmd:descriptiveKeywords>
+          <gmd:MD_Keywords>
+            <gmd:type>
+              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+            </gmd:type>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Planning</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Ownership</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Land</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Natural resources</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Public land survey system</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Management of natural resources</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Land stewardship</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Land ownership</gco:CharacterString>
+            </gmd:keyword>
+          </gmd:MD_Keywords>
+        </gmd:descriptiveKeywords>
       </gmd:MD_DataIdentification>
     </gmd:identificationInfo>
     <gmd:contentInfo>

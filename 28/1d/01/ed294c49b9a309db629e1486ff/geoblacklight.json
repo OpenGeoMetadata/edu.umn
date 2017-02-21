@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-07-01T14:38:43Z", 
+"layer_modified_dt": "2017-01-20T18:40:32Z", 
 "solr_geom": "ENVELOPE(-98.4, -89, 49.9, 41.7)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/water-national-hydrography-data\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/water-national-hydrography-data\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/28/1d/01/ed294c49b9a309db629e1486ff/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-281d01ed-294c-49b9-a309-db629e1486ff", 
+"uuid": "281d01ed-294c-49b9-a309-db629e1486ff", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Inland Waters"
@@ -15,23 +15,21 @@
 "dc_creator_sm": [
 "U.S. Geological Survey (USGS) in cooperation with U. S. Environmental Protection Agency and other state and local partners."
 ], 
-"dc_identifier_s": "urn-281d01ed-294c-49b9-a309-db629e1486ff", 
-"dc_relation_sm": [
-"National Hydrography Dataset (NHD) main site (includes WBD):http://nhd.usgs.gov A state subset of NHD is also available through the state's Geographic Data  Resource Site (GDRS)."
-], 
+"dc_identifier_s": "281d01ed-294c-49b9-a309-db629e1486ff", 
 "georss_polygon_s": "41.7 -98.4 49.9 -98.4 49.9 -89 41.7 -89 41.7 -98.4", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
 "Conterminous United States", 
 "U.S.", 
 "US", 
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "U.S. Geological Survey (USGS)"
 ], 
-"layer_id_s": "urn:urn-281d01ed-294c-49b9-a309-db629e1486ff", 
+"layer_id_s": "281d01ed-294c-49b9-a309-db629e1486ff", 
 "georss_box_s": "41.7 -98.4 49.9 -89", 
 "dc_title_s": "National Hydrography Dataset (NHD), High-Resolution: Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-281d01ed-294c-49b9-a309-db629e1486ff"
+"layer_slug_s": "281d01ed-294c-49b9-a309-db629e1486ff", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

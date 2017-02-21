@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Point", 
-"layer_modified_dt": "2016-09-19T17:08:26Z", 
+"layer_modified_dt": "2016-12-30T13:41:12Z", 
 "solr_geom": "ENVELOPE(-93.7704, -93.1915, 45.2419, 44.7876)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/8dcdf020c0624a5494b492e36deaad5c_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/ENVIRONMENT/MapServer/0\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/8dcdf020c0624a5494b492e36deaad5c_0\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/8dcdf020c0624a5494b492e36deaad5c_0.zip\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/8dcdf020c0624a5494b492e36deaad5c_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/bc/8c/fe/8a096949c89ca3285b1ebb7fe8/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/ENVIRONMENT/MapServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-bc8cfe8a-0969-49c8-9ca3-285b1ebb7fe8", 
+"uuid": "bc8cfe8a-0969-49c8-9ca3-285b1ebb7fe8", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Environment"
@@ -17,18 +17,19 @@
 "Hennepin County"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-bc8cfe8a-0969-49c8-9ca3-285b1ebb7fe8", 
+"dc_identifier_s": "bc8cfe8a-0969-49c8-9ca3-285b1ebb7fe8", 
 "georss_polygon_s": "44.7876 -93.7704 45.2419 -93.7704 45.2419 -93.1915 44.7876 -93.1915 44.7876 -93.7704", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Hennepin County, Minnesota", 
-"Minnesota"
+"Hennepin County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Hennepin County"
 ], 
-"layer_id_s": "urn:urn-bc8cfe8a-0969-49c8-9ca3-285b1ebb7fe8", 
+"layer_id_s": "bc8cfe8a-0969-49c8-9ca3-285b1ebb7fe8", 
 "georss_box_s": "44.7876 -93.7704 45.2419 -93.1915", 
 "dc_title_s": "Hazardous Waste Generators: Hennepin County, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-bc8cfe8a-0969-49c8-9ca3-285b1ebb7fe8"
+"layer_slug_s": "bc8cfe8a-0969-49c8-9ca3-285b1ebb7fe8", 
+"dct_isPartOf_sm": "Hennepin County Open Data"
 }

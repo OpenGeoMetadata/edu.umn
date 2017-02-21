@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-08-18T18:12:36Z", 
+"layer_modified_dt": "2016-12-30T13:41:49Z", 
 "solr_geom": "ENVELOPE(-93.5109, -93.018829, 45.41481, 45.035499)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://gisdata.co.anoka.mn.us/Lakes.zip\",\"http://schema.org/url\":\"https://www.anokacounty.us/1990/Data-Downloads\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://gisdata.co.anoka.mn.us/Lakes.zip\",\"http://schema.org/url\":\"https://www.anokacounty.us/1990/Data-Downloads\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/5a/51/6d/c0a96a49f991c7f43868d1d8f5/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-5a516dc0-a96a-49f9-91c7-f43868d1d8f5", 
+"uuid": "5a516dc0-a96a-49f9-91c7-f43868d1d8f5", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Inland Waters", 
@@ -19,18 +19,19 @@
 "Anoka County"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-5a516dc0-a96a-49f9-91c7-f43868d1d8f5", 
+"dc_identifier_s": "5a516dc0-a96a-49f9-91c7-f43868d1d8f5", 
 "georss_polygon_s": "45.035499 -93.5109 45.41481 -93.5109 45.41481 -93.018829 45.035499 -93.018829 45.035499 -93.5109", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Anoka County, Minnesota"
+"Anoka County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Anoka County"
 ], 
-"layer_id_s": "urn:urn-5a516dc0-a96a-49f9-91c7-f43868d1d8f5", 
+"layer_id_s": "5a516dc0-a96a-49f9-91c7-f43868d1d8f5", 
 "georss_box_s": "45.035499 -93.5109 45.41481 -93.018829", 
 "dc_title_s": "Lakes: Anoka County, Minnesota", 
-"layer_slug_s": "Minnesota-urn-5a516dc0-a96a-49f9-91c7-f43868d1d8f5"
+"layer_slug_s": "5a516dc0-a96a-49f9-91c7-f43868d1d8f5", 
+"dct_isPartOf_sm": "Anoka County GIS Data"
 }

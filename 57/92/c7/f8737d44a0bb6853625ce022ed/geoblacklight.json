@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Point", 
-"layer_modified_dt": "2016-09-29T16:53:53Z", 
+"layer_modified_dt": "2016-12-30T13:41:38Z", 
 "solr_geom": "ENVELOPE(-93.328722, -93.200394, 45.051089, 44.890963)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/78bf8e2d9b6849f1baf37b30bd83d9b7_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Sales2015_2/FeatureServer/0/query?outFields=*&where=1%3D1\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/78bf8e2d9b6849f1baf37b30bd83d9b7_0.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/78bf8e2d9b6849f1baf37b30bd83d9b7_0.zip\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/78bf8e2d9b6849f1baf37b30bd83d9b7_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/57/92/c7/f8737d44a0bb6853625ce022ed/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Sales2015_2/FeatureServer/0/query?outFields=*&where=1%3D1\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-5792c7f8-737d-44a0-bb68-53625ce022ed", 
+"uuid": "5792c7f8-737d-44a0-bb68-53625ce022ed", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Economy"
@@ -17,18 +17,19 @@
 "City of Minneapolis"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-5792c7f8-737d-44a0-bb68-53625ce022ed", 
+"dc_identifier_s": "5792c7f8-737d-44a0-bb68-53625ce022ed", 
 "georss_polygon_s": "44.890963 -93.328722 45.051089 -93.328722 45.051089 -93.200394 44.890963 -93.200394 44.890963 -93.328722", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minneapolis, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "City of Minneapolis"
 ], 
-"layer_id_s": "urn:urn-5792c7f8-737d-44a0-bb68-53625ce022ed", 
+"layer_id_s": "5792c7f8-737d-44a0-bb68-53625ce022ed", 
 "georss_box_s": "44.890963 -93.328722 45.051089 -93.200394", 
 "dc_title_s": "Property Sales: Minneapolis, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-5792c7f8-737d-44a0-bb68-53625ce022ed"
+"layer_slug_s": "5792c7f8-737d-44a0-bb68-53625ce022ed", 
+"dct_isPartOf_sm": "Minneapolis Open Data"
 }

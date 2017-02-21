@@ -1,8 +1,8 @@
 {
 "layer_geom_type_s": "Polygon", 
-"layer_modified_dt": "2016-09-21T16:39:31Z", 
+"layer_modified_dt": "2016-12-30T13:42:40Z", 
 "solr_geom": "ENVELOPE(-93.2351, -92.9604, 45.1377, 44.8442)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/2e1efae7d7d244afb08f2b011e031d25_7.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/7\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/2e1efae7d7d244afb08f2b011e031d25_7\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/2e1efae7d7d244afb08f2b011e031d25_7.zip\",\"http://schema.org/url\":\"http://openramsey.ramseygis.opendata.arcgis.com/datasets/2e1efae7d7d244afb08f2b011e031d25_7\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/0d/63/12/17c2b74c62a15b8774a59d729f/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData_All/MapServer/7\"}", 
 "dc_rights_s": "Public", 
 "uuid": "0d631217-c2b7-4c62-a15b-8774a59d729f", 
 "dct_provenance_s": "Minnesota", 
@@ -12,7 +12,7 @@
 ], 
 "dct_temporal_sm": "2014-2016", 
 "dc_description_s": "This data set contains open water area outlines including, creeks, lakes, rivers. This data set also contains islands within open water areas. The open water areas are created from aerial photography observation and interpretation using stereo processing techniques. Vector line work was originally plotted from 2009 photography. All graphical lines contain a character based layer name that identifies the different mapping features.", 
-"dct_issued_s": "2014-11-30T19:52:31Z", 
+"dct_issued_s": "2014-11-28T19:52:31Z", 
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Map Portal"
@@ -22,14 +22,15 @@
 "georss_polygon_s": "44.8442 -93.2351 45.1377 -93.2351 45.1377 -92.9604 44.8442 -92.9604 44.8442 -93.2351", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Ramsey County, Minnesota", 
-"Minnesota"
+"Ramsey County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "OpenRamsey"
 ], 
-"layer_id_s": "urn:0d631217-c2b7-4c62-a15b-8774a59d729f", 
+"layer_id_s": "0d631217-c2b7-4c62-a15b-8774a59d729f", 
 "georss_box_s": "44.8442 -93.2351 45.1377 -92.9604", 
 "dc_title_s": "Water Bodies: Ramsey County, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-0d631217-c2b7-4c62-a15b-8774a59d729f"
+"layer_slug_s": "0d631217-c2b7-4c62-a15b-8774a59d729f", 
+"dct_isPartOf_sm": "Open Ramsey County"
 }

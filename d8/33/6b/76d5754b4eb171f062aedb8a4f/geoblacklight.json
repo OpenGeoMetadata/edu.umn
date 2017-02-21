@@ -1,16 +1,15 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:58:47Z", 
+"layer_modified_dt": "2017-01-20T18:38:52Z", 
 "solr_geom": "ENVELOPE(-93.329706, -92.729113, 44.923499, 44.46764)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-co-dakota-plan-parcels\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/plan_parcels/shp_plan_parcels.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/plan_parcels/shp_plan_parcels.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-co-dakota-plan-parcels\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/d8/33/6b/76d5754b4eb171f062aedb8a4f/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-d8336b76-d575-4b4e-b171-f062aedb8a4f", 
+"uuid": "d8336b76-d575-4b4e-b171-f062aedb8a4f", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Planning and Cadastral", 
-"ownership", 
-"plan", 
-"ownership"
+"Ownership", 
+"Plan"
 ], 
 "dct_temporal_sm": "2016", 
 "dc_description_s": "This dataset is a compilation of tax parcel information for Dakota County, MNThe layer contains one record for each real estate/tax parcel polygon within the county. Condominiums are not included in the polygon layer. If condominiums are desired, use the tax parcel point layer in combination with this polygon layer.In many places a one-to-one relationship does not exist between these parcel polygons and the actual buildings or occupancy units that lie within them. There may be many buildings on one parcel and there may be many occupancy units (e.g. apartments, stores or offices) within each building. Additionally, no information exists within this dataset about residents of parcels. Currently, only tax parcel ownership (and taxpayer information) is displayed for this dataset. Tax Parcel - PolygonsTax Parcel - Points", 
@@ -19,18 +18,19 @@
 "dc_creator_sm": [
 "Dakota County GIS, Dakota County GIS, Staff"
 ], 
-"dc_identifier_s": "urn-d8336b76-d575-4b4e-b171-f062aedb8a4f", 
+"dc_identifier_s": "d8336b76-d575-4b4e-b171-f062aedb8a4f", 
 "georss_polygon_s": "44.46764 -93.329706 44.923499 -93.329706 44.923499 -92.729113 44.46764 -92.729113 44.46764 -93.329706", 
 "solr_year_i": 2016, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Dakota County, Minnesota"
+"Minnesota, United States", 
+"Dakota County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Dakota County, Minnesota"
 ], 
-"layer_id_s": "urn:urn-d8336b76-d575-4b4e-b171-f062aedb8a4f", 
+"layer_id_s": "d8336b76-d575-4b4e-b171-f062aedb8a4f", 
 "georss_box_s": "44.46764 -93.329706 44.923499 -92.729113", 
 "dc_title_s": "Tax Parcels, Points and Polygons: Dakota County, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-d8336b76-d575-4b4e-b171-f062aedb8a4f"
+"layer_slug_s": "d8336b76-d575-4b4e-b171-f062aedb8a4f", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

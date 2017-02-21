@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:50Z", 
+"layer_modified_dt": "2017-01-20T18:40:17Z", 
 "solr_geom": "ENVELOPE(-94.00493, -92.728689, 45.415601, 44.469261)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-mlccs-regional-corr-areas\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_mlccs_regional_corr_areas/shp_env_mlccs_regional_corr_areas.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_mlccs_regional_corr_areas/shp_env_mlccs_regional_corr_areas.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-mlccs-regional-corr-areas\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/0b/f5/8e/4b23d44f0789c13022661ba7b4/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-0bf58e4b-23d4-4f07-89c1-3022661ba7b4", 
+"uuid": "0bf58e4b-23d4-4f07-89c1-3022661ba7b4", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Environment"
@@ -16,17 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-0bf58e4b-23d4-4f07-89c1-3022661ba7b4", 
+"dc_identifier_s": "0bf58e4b-23d4-4f07-89c1-3022661ba7b4", 
 "georss_polygon_s": "44.469261 -94.00493 45.415601 -94.00493 45.415601 -92.728689 44.469261 -92.728689 44.469261 -94.00493", 
-"solr_year_i": 2015, 
+"solr_year_i": 2008, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-0bf58e4b-23d4-4f07-89c1-3022661ba7b4", 
+"layer_id_s": "0bf58e4b-23d4-4f07-89c1-3022661ba7b4", 
 "georss_box_s": "44.469261 -94.00493 45.415601 -92.728689", 
 "dc_title_s": "Regionally Significant Ecological Areas and Regional Ecological Corridors, MLCCS derived: Minnesota, 2008", 
-"layer_slug_s": "Minnesota-urn-0bf58e4b-23d4-4f07-89c1-3022661ba7b4"
+"layer_slug_s": "0bf58e4b-23d4-4f07-89c1-3022661ba7b4", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:35Z", 
+"layer_modified_dt": "2017-01-20T18:39:57Z", 
 "solr_geom": "ENVELOPE(-94.382, -93.763, 44.267, 43.845)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/elev-lidar-blueearth2012\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/elev-lidar-blueearth2012\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/c6/b6/f0/2f57bb40899cc3d502b8bfcde1/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-c6b6f02f-57bb-4089-9cc3-d502b8bfcde1", 
+"uuid": "c6b6f02f-57bb-4089-9cc3-d502b8bfcde1", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Elevation"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "AeroMetric, Inc. and Minnesota Department of Natural Resources"
 ], 
-"dc_identifier_s": "urn-c6b6f02f-57bb-4089-9cc3-d502b8bfcde1", 
-"dc_relation_sm": [
-"1. Blue Earth County LiDAR Elevation 2005:  http://www.mngeo.state.mn.us/chouse/metadata/lidar_blueearth2005.html2. For more information about elevation data for Minnesota, see: http://www.mngeo.state.mn.us/chouse/elevation/index.html"
-], 
+"dc_identifier_s": "c6b6f02f-57bb-4089-9cc3-d502b8bfcde1", 
 "georss_polygon_s": "43.845 -94.382 44.267 -94.382 44.267 -93.763 43.845 -93.763 43.845 -94.382", 
 "solr_year_i": 2012, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Blue Earth County, Minnesota"
+"Minnesota, United States", 
+"Blue Earth County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-c6b6f02f-57bb-4089-9cc3-d502b8bfcde1", 
+"layer_id_s": "c6b6f02f-57bb-4089-9cc3-d502b8bfcde1", 
 "georss_box_s": "43.845 -94.382 44.267 -93.763", 
 "dc_title_s": "LiDAR Elevation: Blue Earth County, Minnesota, 2012", 
-"layer_slug_s": "Minnesota-urn-c6b6f02f-57bb-4089-9cc3-d502b8bfcde1"
+"layer_slug_s": "c6b6f02f-57bb-4089-9cc3-d502b8bfcde1", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

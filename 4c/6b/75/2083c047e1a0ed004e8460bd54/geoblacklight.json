@@ -1,17 +1,17 @@
 {
 "layer_geom_type_s": "Line", 
-"layer_modified_dt": "2016-08-17T13:00:08Z", 
+"layer_modified_dt": "2016-12-30T13:42:23Z", 
 "solr_geom": "ENVELOPE(-94.0251, -93.5088, 44.9872, 44.6312)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/a3ff6c0a00e44a2ca0b110332925cff5_6.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.carver.mn.us/arcgis_ea/rest/services/OpenAccess/CC_Hydrography/MapServer/6\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/a3ff6c0a00e44a2ca0b110332925cff5_6\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/a3ff6c0a00e44a2ca0b110332925cff5_6.zip\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/a3ff6c0a00e44a2ca0b110332925cff5_6\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/4c/6b/75/2083c047e1a0ed004e8460bd54/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.carver.mn.us/arcgis_ea/rest/services/OpenAccess/CC_Hydrography/MapServer/6\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-4c6b7520-83c0-47e1-a0ed-004e8460bd54", 
+"uuid": "4c6b7520-83c0-47e1-a0ed-004e8460bd54", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Geoscientific Information", 
 "Utilities and Communication", 
 "Inland Waters", 
-"streams", 
-"hydrography"
+"Streams", 
+"Hydrography"
 ], 
 "dct_temporal_sm": "2014", 
 "dc_description_s": "Nonpublic tiles within Carver County.", 
@@ -21,18 +21,19 @@
 "Carver County, Minnesota"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-4c6b7520-83c0-47e1-a0ed-004e8460bd54", 
+"dc_identifier_s": "4c6b7520-83c0-47e1-a0ed-004e8460bd54", 
 "georss_polygon_s": "44.6312 -94.0251 44.9872 -94.0251 44.9872 -93.5088 44.6312 -93.5088 44.6312 -94.0251", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Carver County, Minnesota", 
-"Minnesota"
+"Carver County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Carver County, Minnesota"
 ], 
-"layer_id_s": "urn:urn-4c6b7520-83c0-47e1-a0ed-004e8460bd54", 
+"layer_id_s": "4c6b7520-83c0-47e1-a0ed-004e8460bd54", 
 "georss_box_s": "44.6312 -94.0251 44.9872 -93.5088", 
 "dc_title_s": "NonPublic Tiles: Carver County, Minnesota, 2014", 
-"layer_slug_s": "Minnesota-urn-4c6b7520-83c0-47e1-a0ed-004e8460bd54"
+"layer_slug_s": "4c6b7520-83c0-47e1-a0ed-004e8460bd54", 
+"dct_isPartOf_sm": "Carver County Open Data"
 }

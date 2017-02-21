@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2017-01-18T17:38:21Z", 
+"solr_geom": "ENVELOPE(-97.269689, -89.397194, 49.403805, 43.435423)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.commissions.leg.state.mn.us/pub/gis/shape/vtd2013.zip\",\"http://schema.org/url\":\"http://www.gis.leg.mn/metadata/vtd2013.htm\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/69/4d/0f/35f8204c50868174e614fd8b0f/iso19139.xml\"}", 
+"dc_rights_s": "Public", 
+"uuid": "694d0f35-f820-4c50-8681-74e614fd8b0f", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Society", 
+"Boundaries", 
+"Voting districts", 
+"Precincts", 
+"Election districts", 
+"Voting precinct"
+], 
+"dct_temporal_sm": "2013", 
+"dc_description_s": "Voting precincts for the State of Minnesota, those to be used in the 2013 State General election. Includes election district attributes for each precinct.", 
+"dct_issued_s": "2013-03-07", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Legislative Coordinating Commission"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "694d0f35-f820-4c50-8681-74e614fd8b0f", 
+"georss_polygon_s": "43.435423 -97.269689 49.403805 -97.269689 49.403805 -89.397194 43.435423 -89.397194 43.435423 -97.269689", 
+"solr_year_i": 2013, 
+"dct_spatial_sm": [
+"Minnesota, United States"
+], 
+"layer_id_s": "694d0f35-f820-4c50-8681-74e614fd8b0f", 
+"georss_box_s": "43.435423 -97.269689 49.403805 -89.397194", 
+"dc_title_s": "Precincts (Voting Districts): Minnesota, 2013", 
+"layer_slug_s": "694d0f35-f820-4c50-8681-74e614fd8b0f", 
+"dct_isPartOf_sm": "Minnesota Legislative Coordinating Commission - Geospatial Information (LCC-GIS)"
+}

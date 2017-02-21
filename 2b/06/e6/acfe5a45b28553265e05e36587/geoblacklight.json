@@ -1,18 +1,24 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:25Z", 
+"layer_modified_dt": "2017-01-20T18:41:01Z", 
 "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/agri-mawqcp-areas\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mda/agri_mawqcp_areas/shp_agri_mawqcp_areas.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mda/agri_mawqcp_areas/shp_agri_mawqcp_areas.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/agri-mawqcp-areas\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/2b/06/e6/acfe5a45b28553265e05e36587/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-2b06e6ac-fe5a-45b2-8553-265e05e36587", 
+"uuid": "2b06e6ac-fe5a-45b2-8553-265e05e36587", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Farming", 
-"certification", 
-"agriculture", 
-"water quality", 
-"health", 
-"environment"
+"Agriculture", 
+"Environment", 
+"Health", 
+"Certification", 
+"Boundaries", 
+"Inlandwaters", 
+"Watersheds", 
+"Water", 
+"Water quality", 
+"Farming", 
+"Quality"
 ], 
 "dct_temporal_sm": "2015", 
 "dc_description_s": "The Minnesota Agricultural Water Quality Certification Program (MAWQCP) is a voluntary opportunity for farmers and agricultural landowners to take the lead in implementing conservation practices that protect our water. Those who implement and maintain approved farm management practices will be certified and in turn obtain regulatory certainty for a period of ten years. The program is the product of a state-federal partnership that includes the Minnesota Department of Agriculture, the Minnesota Pollution Control Agency (MPCA), the Minnesota Board of Water and Soil Resources (BWSR), the Minnesota Department of Natural Resources (DNR), the U.S. Department of Agriculture's Natural Resource Conservation Service (NRCS), and the U.S. Environmental Protection Agency (EPA). The Minnesota Agricultural Water Quality Certification Program was initially piloted in four distinct regions of the state; these areas represented a diversity of Minnesota's agricultural landscapes and cropping systems, differences in water resource concerns and also leverage the strength of existing local partnerships. The pilot areas include: Elm Creek in Cottonwood, Faribault, Jackson, Martin and Watonwan counties, the Middle Sauk River in Stearns County, Whiskey Creek in Otter Tail and Wilkin counties, and the Whitewater River in Olmsted, Wabasha and Winona counties. In June and July 2015 the program was expanded first to several counties and then to the entire state of Minnesota. The MAWQCP was expanded across the state in coordination with Soil and Water Conservation Districts and our other partners. Interested producers can find their nearest certification provider by contacting MDA at 651-201-6489 or MDA.MAWQCP@state.mn.us. For further information and details about this program, visit http://www.mda.state.mn.us/awqcp.", 
@@ -21,17 +27,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Agriculture"
 ], 
-"dc_identifier_s": "urn-2b06e6ac-fe5a-45b2-8553-265e05e36587", 
+"dc_identifier_s": "2b06e6ac-fe5a-45b2-8553-265e05e36587", 
 "georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Agriculture"
 ], 
-"layer_id_s": "urn:urn-2b06e6ac-fe5a-45b2-8553-265e05e36587", 
+"layer_id_s": "2b06e6ac-fe5a-45b2-8553-265e05e36587", 
 "georss_box_s": "43.5 -97.23 49.37 -89.53", 
 "dc_title_s": "Agricultural Water Quality Certification Program (MAWQCP) Pilot and Expanded Areas: Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-2b06e6ac-fe5a-45b2-8553-265e05e36587"
+"layer_slug_s": "2b06e6ac-fe5a-45b2-8553-265e05e36587", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

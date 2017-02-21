@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:16Z", 
+"layer_modified_dt": "2017-01-20T18:39:31Z", 
 "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-aggregate-mapping\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-aggregate-mapping\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/92/f2/bb/65e4ca4428b567116793aef5ff/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-92f2bb65-e4ca-4428-b567-116793aef5ff", 
+"uuid": "92f2bb65-e4ca-4428-b567-116793aef5ff", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Geoscientific Information"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-92f2bb65-e4ca-4428-b567-116793aef5ff", 
-"dc_relation_sm": [
-"List of Completed DNR Aggregate Mapping Project's Web Pages to Download Maps and Original GIS Data and Metadata at:http://www.dnr.state.mn.us/lands_minerals/aggregate_maps/completed/index.htmlAitkin County (2014) Stearns County (2012)Kanabec County (2012)Portions of Northern St. Louis and Northern Lake Counties (2010)Olmsted County (2010)Carlton County and Fond du Lac Reservation (2009)Mille Lacs County (2007)Meeker County (2006)Renville County (2003)Le Sueur County (2003)Itasca County (2003) - Contracted with MGSBenton County (2002)Dodge County (2002)Chisago County (2000) - Contracted with MGSNicollet County (1999)Blue Earth County (1999)Clay County (1995)Isanti County (1991)Wright County (1989)Sherburne County (1987)Completed MGS Aggregate Endowment of the 7-County Twin Cities Metropolitan Area7-County Mapping Web page: Information and links to view and download report, maps, and original GIS data and metadata for this MGS mapping project."
-], 
+"dc_identifier_s": "92f2bb65-e4ca-4428-b567-116793aef5ff", 
 "georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-92f2bb65-e4ca-4428-b567-116793aef5ff", 
+"layer_id_s": "92f2bb65-e4ca-4428-b567-116793aef5ff", 
 "georss_box_s": "43.5 -97.23 49.37 -89.53", 
 "dc_title_s": "Aggregate Resource Mapping Program: Minnesota, 2014", 
-"layer_slug_s": "Minnesota-urn-92f2bb65-e4ca-4428-b567-116793aef5ff"
+"layer_slug_s": "92f2bb65-e4ca-4428-b567-116793aef5ff", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

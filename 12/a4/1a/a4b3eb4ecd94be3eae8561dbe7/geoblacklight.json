@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:58:45Z", 
+"layer_modified_dt": "2017-01-20T18:38:49Z", 
 "solr_geom": "ENVELOPE(-96.862, -91.032, 45.68, 43.35)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/water-nat-wetlands-inv-2009-2014\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/water_nat_wetlands_inv_2009_2014/shp_water_nat_wetlands_inv_2009_2014.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/water_nat_wetlands_inv_2009_2014/shp_water_nat_wetlands_inv_2009_2014.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/water-nat-wetlands-inv-2009-2014\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/12/a4/1a/a4b3eb4ecd94be3eae8561dbe7/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-12a41aa4-b3eb-4ecd-94be-3eae8561dbe7", 
+"uuid": "12a41aa4-b3eb-4ecd-94be-3eae8561dbe7", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Inland Waters"
@@ -16,17 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources, Ducks Unilimted, and St. Mary's University of Minnesota"
 ], 
-"dc_identifier_s": "urn-12a41aa4-b3eb-4ecd-94be-3eae8561dbe7", 
+"dc_identifier_s": "12a41aa4-b3eb-4ecd-94be-3eae8561dbe7", 
 "georss_polygon_s": "43.35 -96.862 45.68 -96.862 45.68 -91.032 43.35 -91.032 43.35 -96.862", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-12a41aa4-b3eb-4ecd-94be-3eae8561dbe7", 
+"layer_id_s": "12a41aa4-b3eb-4ecd-94be-3eae8561dbe7", 
 "georss_box_s": "43.35 -96.862 45.68 -91.032", 
 "dc_title_s": "National Wetland Inventory Update for: Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-12a41aa4-b3eb-4ecd-94be-3eae8561dbe7"
+"layer_slug_s": "12a41aa4-b3eb-4ecd-94be-3eae8561dbe7", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

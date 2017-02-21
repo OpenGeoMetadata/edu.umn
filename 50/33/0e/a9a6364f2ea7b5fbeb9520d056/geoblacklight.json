@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:32Z", 
+"layer_modified_dt": "2017-01-20T18:39:52Z", 
 "solr_geom": "ENVELOPE(-94.34, -92.62, 45.75, 44.43)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-saip-ec2010-50cm-airphotos\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-saip-ec2010-50cm-airphotos\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/50/33/0e/a9a6364f2ea7b5fbeb9520d056/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-50330ea9-a636-4f2e-a7b5-fbeb9520d056", 
+"uuid": "50330ea9-a636-4f2e-a7b5-fbeb9520d056", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Imagery and Base Maps"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources, Surdex Corporation"
 ], 
-"dc_identifier_s": "urn-50330ea9-a636-4f2e-a7b5-fbeb9520d056", 
-"dc_relation_sm": [
-"Some areas of this project were flown at one-foot resolution; see: http://www.mngeo.state.mn.us/chouse/metadata/ecmn2010_doqq_1ft.htmlFor information on other air photos available for Minnesota, see: http://www.mngeo.state.mn.us/chouse/airphoto/"
-], 
+"dc_identifier_s": "50330ea9-a636-4f2e-a7b5-fbeb9520d056", 
 "georss_polygon_s": "44.43 -94.34 45.75 -94.34 45.75 -92.62 44.43 -92.62 44.43 -94.34", 
 "solr_year_i": 2010, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-50330ea9-a636-4f2e-a7b5-fbeb9520d056", 
+"layer_id_s": "50330ea9-a636-4f2e-a7b5-fbeb9520d056", 
 "georss_box_s": "44.43 -94.34 45.75 -92.62", 
 "dc_title_s": "Digital Orthoimagery, 0.5 Meter: East-Central Minnesota, Spring 2010", 
-"layer_slug_s": "Minnesota-urn-50330ea9-a636-4f2e-a7b5-fbeb9520d056"
+"layer_slug_s": "50330ea9-a636-4f2e-a7b5-fbeb9520d056", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

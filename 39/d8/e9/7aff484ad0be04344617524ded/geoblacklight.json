@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:58:54Z", 
+"layer_modified_dt": "2017-01-20T18:39:01Z", 
 "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-dnr-watersheds\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/geos_dnr_watersheds/fgdb_geos_dnr_watersheds.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/geos_dnr_watersheds/fgdb_geos_dnr_watersheds.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-dnr-watersheds\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/39/d8/e9/7aff484ad0be04344617524ded/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-39d8e97a-ff48-4ad0-be04-344617524ded", 
+"uuid": "39d8e97a-ff48-4ad0-be04-344617524ded", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Geoscientific Information"
@@ -16,17 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (MNDNR)"
 ], 
-"dc_identifier_s": "urn-39d8e97a-ff48-4ad0-be04-344617524ded", 
+"dc_identifier_s": "39d8e97a-ff48-4ad0-be04-344617524ded", 
 "georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-39d8e97a-ff48-4ad0-be04-344617524ded", 
+"layer_id_s": "39d8e97a-ff48-4ad0-be04-344617524ded", 
 "georss_box_s": "43.5 -97.23 49.37 -89.53", 
 "dc_title_s": "MNDNR Watershed Suite: Minnesota, 2014", 
-"layer_slug_s": "Minnesota-urn-39d8e97a-ff48-4ad0-be04-344617524ded"
+"layer_slug_s": "39d8e97a-ff48-4ad0-be04-344617524ded", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

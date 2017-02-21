@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:07Z", 
+"layer_modified_dt": "2017-01-20T18:40:38Z", 
 "solr_geom": "ENVELOPE(-95.824029, -89.957509, 48.514924, 44.02913)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-trout-lake-designation\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_trout_lake_designation/shp_env_trout_lake_designation.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_trout_lake_designation/shp_env_trout_lake_designation.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-trout-lake-designation\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/ae/8f/fd/9e87d141e79ddef7aaa8fb15a3/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-ae8ffd9e-87d1-41e7-9dde-f7aaa8fb15a3", 
+"uuid": "ae8ffd9e-87d1-41e7-9dde-f7aaa8fb15a3", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Environment"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-ae8ffd9e-87d1-41e7-9dde-f7aaa8fb15a3", 
-"dc_relation_sm": [
-"<a href=N../../water_dnr_hydrography/metadata/dnr_hydrography_lakes_and_open_water.htmlN target=_blank><b>DNR Hydrography - Lakes and Open Water</b></a><a href=N../../env_stream_trout_lakes/metadata/metadata.htmlN target=_blank><b>Stream Trout Lakes</b></a>"
-], 
+"dc_identifier_s": "ae8ffd9e-87d1-41e7-9dde-f7aaa8fb15a3", 
 "georss_polygon_s": "44.02913 -95.824029 48.514924 -95.824029 48.514924 -89.957509 44.02913 -89.957509 44.02913 -95.824029", 
 "solr_year_i": 2004, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-ae8ffd9e-87d1-41e7-9dde-f7aaa8fb15a3", 
+"layer_id_s": "ae8ffd9e-87d1-41e7-9dde-f7aaa8fb15a3", 
 "georss_box_s": "44.02913 -95.824029 48.514924 -89.957509", 
 "dc_title_s": "DNR Hydrography, Trout Lake Designation: Minnesota, 2004", 
-"layer_slug_s": "Minnesota-urn-ae8ffd9e-87d1-41e7-9dde-f7aaa8fb15a3"
+"layer_slug_s": "ae8ffd9e-87d1-41e7-9dde-f7aaa8fb15a3", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

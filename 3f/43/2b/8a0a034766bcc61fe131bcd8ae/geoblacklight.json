@@ -1,15 +1,15 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:58:59Z", 
+"layer_modified_dt": "2017-01-20T18:39:09Z", 
 "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metrogis-plan-regonal-parcels-2015\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metrogis/plan_regonal_parcels_2015/shp_plan_regonal_parcels_2015.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metrogis/plan_regonal_parcels_2015/shp_plan_regonal_parcels_2015.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metrogis-plan-regonal-parcels-2015\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/3f/43/2b/8a0a034766bcc61fe131bcd8ae/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-3f432b8a-0a03-4766-bcc6-1fe131bcd8ae", 
+"uuid": "3f432b8a-0a03-4766-bcc6-1fe131bcd8ae", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Planning and Cadastral", 
-"ownership", 
-"regional planning"
+"Ownership", 
+"Regional planning"
 ], 
 "dct_temporal_sm": "2015", 
 "dc_description_s": "This dataset is a compilation of tax parcel polygon and point layers from the seven Twin Cities, Minnesota metropolitan area counties of Anoka, Carver, Dakota, Hennepin, Ramsey, Scott and Washington. The seven counties were assembled into a common coordinate system. No attempt has been made to edgematch or rubbersheet between counties. A standard set of attribute fields is included for each county. (See section 5 of the metadata). The attributes are the same for the polygon and points layers. Not all attributes are populated for all counties. The polygon layer contains one record for each real estate/tax parcel polygon within each county's parcel dataset. Some counties have polygons for each individual condominium, and others do not. (See Completeness in Section 2 of the metadata for more information.) The points layer includes the same attribute fields as the polygon dataset. The points are intended to provide information in situations where multiple tax parcels are represented by a single polygon. The primary example of this is the condominium, though some counties stacked polygons for condos. Condominiums, by definition, are legally owned as individual, taxed real estate units. Records for condominiums may not show up in the polygon dataset. The points for the point dataset often will be randomly placed or stacked within the parcel polygon with which they are associated. The polygon layer is broken into individual county shape files. The points layer is provided as both individual county files and as one file for the entire metro area. In many places a one-to-one relationship does not exist between these parcel polygons or points and the actual buildings or occupancy units that lie within them. There may be many buildings on one parcel and there may be many occupancy units (e.g. apartments, stores or offices) within each building. Additionally, no information exists within this dataset about residents of parcels. Parcel owner and taxpayer information exists for many, but not all counties. Polygon and point counts for each county are as follows (Updated annually, current as of 1/08/2016): polygons / points Anoka - 131121 / 131121 Carver - 40510 / 40509 Dakota - 140770 / 154109 Hennepin - 429241 / 429241 Ramsey - 154512 / 166225 Scott - 56219 / 56219 Washington - 106045 / 106045 This is a MetroGIS Regionally Endorsed dataset. Each of the seven Metro Area counties has entered into a multiparty agreement with the Metropolitan Council to assemble and distribute the parcel data for each county as a regional (seven county) parcel dataset. A standard set of attribute fields is included for each county. The attributes are identical for the point and polygon datasets. Not all attributes fields are populated by each county. Detailed information about the attributes can be found in the MetroGIS Regional Parcels Attributes 2015 document. Additional information may be available in the individual metadata for each county at the links listed below. Also, any questions or comments about suspected errors or omissions in this dataset can be addressed to the contact person listed in the individual county metadata. Anoka = http://www.anokacounty.us/315/GIS Caver = http://www.co.carver.mn.us/GIS Dakota = http://www.co.dakota.mn.us/homeproperty/propertymaps/pages/default.aspx Hennepin: http://www.hennepin.us/gisopendata Ramsey = https://www.ramseycounty.us/your-government/open-government/research-data Scott = http://www.scottcountymn.gov/1183/GIS-Data-and-Maps Washington = http://www.co.washington.mn.us/index.aspx?NID=1606", 
@@ -18,21 +18,19 @@
 "dc_creator_sm": [
 "Counties of Anoka, Carver, Dakota, Hennepin, Ramsey, Scott and Washington"
 ], 
-"dc_identifier_s": "urn-3f432b8a-0a03-4766-bcc6-1fe131bcd8ae", 
-"dc_relation_sm": [
-"Regional Parcel Dataset - Seven County Twin Cities Metropolitan Area2002 - current"
-], 
+"dc_identifier_s": "3f432b8a-0a03-4766-bcc6-1fe131bcd8ae", 
 "georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
-"solr_year_i": 2016, 
+"solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-3f432b8a-0a03-4766-bcc6-1fe131bcd8ae", 
+"layer_id_s": "3f432b8a-0a03-4766-bcc6-1fe131bcd8ae", 
 "georss_box_s": "44.471 -94.012 45.415 -92.732", 
 "dc_title_s": "MetroGIS Regional Parcels: Twin Cities Metro, 2015", 
-"layer_slug_s": "Minnesota-urn-3f432b8a-0a03-4766-bcc6-1fe131bcd8ae"
+"layer_slug_s": "3f432b8a-0a03-4766-bcc6-1fe131bcd8ae", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

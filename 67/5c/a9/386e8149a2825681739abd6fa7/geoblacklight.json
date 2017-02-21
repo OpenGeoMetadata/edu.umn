@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Point", 
-"layer_modified_dt": "2016-09-19T16:34:11Z", 
+"layer_modified_dt": "2016-12-30T13:41:28Z", 
 "solr_geom": "ENVELOPE(-93.3104, -93.2584, 45.0072, 44.9187)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/95591cf795fd4dd0b5bbfb183560d276_8.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/PLACES/MapServer/8\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/95591cf795fd4dd0b5bbfb183560d276_8\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/95591cf795fd4dd0b5bbfb183560d276_8.zip\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/95591cf795fd4dd0b5bbfb183560d276_8\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/67/5c/a9/386e8149a2825681739abd6fa7/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/PLACES/MapServer/8\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-675ca938-6e81-49a2-8256-81739abd6fa7", 
+"uuid": "675ca938-6e81-49a2-8256-81739abd6fa7", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Health"
@@ -17,18 +17,19 @@
 "Hennepin County"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-675ca938-6e81-49a2-8256-81739abd6fa7", 
+"dc_identifier_s": "675ca938-6e81-49a2-8256-81739abd6fa7", 
 "georss_polygon_s": "44.9187 -93.3104 45.0072 -93.3104 45.0072 -93.2584 44.9187 -93.2584 44.9187 -93.3104", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Hennepin County, Minnesota", 
-"Minnesota"
+"Hennepin County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Hennepin County"
 ], 
-"layer_id_s": "urn:urn-675ca938-6e81-49a2-8256-81739abd6fa7", 
+"layer_id_s": "675ca938-6e81-49a2-8256-81739abd6fa7", 
 "georss_box_s": "44.9187 -93.3104 45.0072 -93.2584", 
 "dc_title_s": "Homeless Shelters: Hennepin County, Minnesota", 
-"layer_slug_s": "Minnesota-urn-675ca938-6e81-49a2-8256-81739abd6fa7"
+"layer_slug_s": "675ca938-6e81-49a2-8256-81739abd6fa7", 
+"dct_isPartOf_sm": "Hennepin County Open Data"
 }

@@ -1,0 +1,36 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2017-01-18T17:38:23Z", 
+"solr_geom": "ENVELOPE(-97.269853, -89.397028, 49.404414, 43.435244)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.commissions.leg.state.mn.us/pub/gis/shape/elec08.zip\",\"http://schema.org/url\":\"http://www.gis.leg.mn/metadata/elec08.htm\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/88/6e/01/38d91248edbf64fa3f45da94be/iso19139.xml\"}", 
+"dc_rights_s": "Public", 
+"uuid": "886e0138-d912-48ed-bf64-fa3f45da94be", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Boundaries", 
+"Society", 
+"Precincts", 
+"Elections", 
+"Vote tabulation districts", 
+"Election results"
+], 
+"dct_temporal_sm": "2008", 
+"dc_description_s": "This is a polygon data set showing the 2008 Minnesota Election Results by precinct", 
+"dct_issued_s": "2012-01-22", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Legislative Coordinating Commission"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "886e0138-d912-48ed-bf64-fa3f45da94be", 
+"georss_polygon_s": "43.435244 -97.269853 49.404414 -97.269853 49.404414 -89.397028 43.435244 -89.397028 43.435244 -97.269853", 
+"solr_year_i": 2008, 
+"dct_spatial_sm": [
+"Minnesota, United States"
+], 
+"layer_id_s": "886e0138-d912-48ed-bf64-fa3f45da94be", 
+"georss_box_s": "43.435244 -97.269853 49.404414 -89.397028", 
+"dc_title_s": "2008 Election Results: Minnesota", 
+"layer_slug_s": "886e0138-d912-48ed-bf64-fa3f45da94be", 
+"dct_isPartOf_sm": "Minnesota Legislative Coordinating Commission - Geospatial Information (LCC-GIS)"
+}

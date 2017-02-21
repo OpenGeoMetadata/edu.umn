@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:01Z", 
+"layer_modified_dt": "2017-01-20T18:40:32Z", 
 "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-bdry-reg-transit-authority-areas\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/bdry_reg_transit_authority_areas/shp_bdry_reg_transit_authority_areas.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/bdry_reg_transit_authority_areas/shp_bdry_reg_transit_authority_areas.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-bdry-reg-transit-authority-areas\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/38/28/0c/debad9486f8854b0f02e97097f/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-38280cde-bad9-486f-8854-b0f02e97097f", 
+"uuid": "38280cde-bad9-486f-8854-b0f02e97097f", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Boundaries"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Metro Transit"
 ], 
-"dc_identifier_s": "urn-38280cde-bad9-486f-8854-b0f02e97097f", 
-"dc_relation_sm": [
-"Transit Stops, Transit Routes"
-], 
+"dc_identifier_s": "38280cde-bad9-486f-8854-b0f02e97097f", 
 "georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-38280cde-bad9-486f-8854-b0f02e97097f", 
+"layer_id_s": "38280cde-bad9-486f-8854-b0f02e97097f", 
 "georss_box_s": "44.471 -94.012 45.415 -92.732", 
 "dc_title_s": "Regional Transit Authority Service Areas: Twin Cities Metro, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-38280cde-bad9-486f-8854-b0f02e97097f"
+"layer_slug_s": "38280cde-bad9-486f-8854-b0f02e97097f", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

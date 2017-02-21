@@ -1,35 +1,33 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:58:40Z", 
+"layer_modified_dt": "2017-01-20T18:38:42Z", 
 "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/trans-state-trails-minnesota\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/trans_state_trails_minnesota/shp_trans_state_trails_minnesota.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/trans_state_trails_minnesota/shp_trans_state_trails_minnesota.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/trans-state-trails-minnesota\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/4d/b0/0d/7221204a0cbffd8f7c38a5f92c/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-4db00d72-2120-4a0c-bffd-8f7c38a5f92c", 
+"uuid": "4db00d72-2120-4a0c-bffd-8f7c38a5f92c", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Transportation"
 ], 
-"dct_temporal_sm": "2016", 
+"dct_temporal_sm": "2010", 
 "dc_description_s": "This dataset represents State Trails that have been legislatively authorized and physically constructed and that are maintained by the MNDNR Division of Parks and Trails. These trails, which pass through a combination of state-owned lands and acquired easements, have multiple use status with specific activities supported in designated sections.", 
 "dct_issued_s": "2010-03-02", 
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (MNDNR)"
 ], 
-"dc_identifier_s": "urn-4db00d72-2120-4a0c-bffd-8f7c38a5f92c", 
-"dc_relation_sm": [
-""
-], 
+"dc_identifier_s": "4db00d72-2120-4a0c-bffd-8f7c38a5f92c", 
 "georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
 "solr_year_i": 2010, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-4db00d72-2120-4a0c-bffd-8f7c38a5f92c", 
+"layer_id_s": "4db00d72-2120-4a0c-bffd-8f7c38a5f92c", 
 "georss_box_s": "43.5 -97.23 49.37 -89.53", 
 "dc_title_s": "State Trails of Minnesota: , 2010", 
-"layer_slug_s": "Minnesota-urn-4db00d72-2120-4a0c-bffd-8f7c38a5f92c"
+"layer_slug_s": "4db00d72-2120-4a0c-bffd-8f7c38a5f92c", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

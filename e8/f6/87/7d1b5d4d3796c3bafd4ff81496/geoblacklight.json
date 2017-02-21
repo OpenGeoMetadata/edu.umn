@@ -1,33 +1,34 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:58:38Z", 
+"layer_modified_dt": "2017-01-20T18:38:39Z", 
 "solr_geom": "ENVELOPE(-94.664, -92.117, 45.736, 44.183)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-society-census2010tiger\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Demographics/MapServer/9\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/society_census2010tiger/shp_society_census2010tiger.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/society_census2010tiger/shp_society_census2010tiger.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-society-census2010tiger\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/e8/f6/87/7d1b5d4d3796c3bafd4ff81496/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-e8f6877d-1b5d-4d37-96c3-bafd4ff81496", 
+"uuid": "e8f6877d-1b5d-4d37-96c3-bafd4ff81496", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Society"
 ], 
-"dct_temporal_sm": "2010", 
+"dct_temporal_sm": "2011", 
 "dc_description_s": "This 'Redistricting' version of the census data is the first release of the data. This 2010 census redistricting geography database of the 7 county metropolitan area and the additional 12 collar county area was developed from the U.S. Census Bureau's Redistricting Census 2010 TIGER/Line files. The Metropolitan Council downloaded this data from the Census Bureau's FTP site and added a few attributes, then created block, block group, tract, county subdivision (city), county, taz and water datasets from the original data. For block level data, this is the Census Bureau's March 2012 re-release with additional attributes added by the Met Council.", 
-"dct_issued_s": "2011-01-31", 
+"dct_issued_s": "2011-01-28", 
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "U.S. Census Bureau and the Metropolitan Council"
 ], 
-"dc_identifier_s": "urn-e8f6877d-1b5d-4d37-96c3-bafd4ff81496", 
+"dc_identifier_s": "e8f6877d-1b5d-4d37-96c3-bafd4ff81496", 
 "georss_polygon_s": "44.183 -94.664 45.736 -94.664 45.736 -92.117 44.183 -92.117 44.183 -94.664", 
 "solr_year_i": 2011, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-e8f6877d-1b5d-4d37-96c3-bafd4ff81496", 
+"layer_id_s": "e8f6877d-1b5d-4d37-96c3-bafd4ff81496", 
 "georss_box_s": "44.183 -94.664 45.736 -92.117", 
 "dc_title_s": "Census 2010 Geography, TIGER Redistricting: Twin Cities Metro, Minnesota, 2011", 
-"layer_slug_s": "Minnesota-urn-e8f6877d-1b5d-4d37-96c3-bafd4ff81496"
+"layer_slug_s": "e8f6877d-1b5d-4d37-96c3-bafd4ff81496", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

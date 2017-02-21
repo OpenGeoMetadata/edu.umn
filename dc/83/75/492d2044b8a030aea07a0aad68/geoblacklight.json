@@ -1,35 +1,33 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:13Z", 
+"layer_modified_dt": "2017-01-20T18:39:27Z", 
 "solr_geom": "ENVELOPE(-97.252252, -89.406737, 49.34025, 43.098198)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-trout-stream-special-regs\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_trout_stream_special_regs/shp_env_trout_stream_special_regs.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_trout_stream_special_regs/shp_env_trout_stream_special_regs.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-trout-stream-special-regs\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/dc/83/75/492d2044b8a030aea07a0aad68/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-dc837549-2d20-44b8-a030-aea07a0aad68", 
+"uuid": "dc837549-2d20-44b8-a030-aea07a0aad68", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Environment"
 ], 
-"dct_temporal_sm": "2015", 
+"dct_temporal_sm": "2013", 
 "dc_description_s": "This layer shows Minnesota trout streams that have a special regulation as described in the 2015 Minnesota Fishing Regulations. Road crossings were determined using the 1991 Air Photos (1 - metre DOQs). Check the fishing regulations booklet ( http://www.dnr.state.mn.us/regulations/fishing/index.html ) for detailed information. Note legal descriptions and restrictions associated with designated trout waters under the section Special Regulations: Streams and Rivers (p. 56-62). Regulated segments are maintained as tabular data and displayed as linear events on the Stream Routes with Kittle Numbers and Mile Measures layer. In the attribute table, designated segments extend from the FROM_MEAS (mile) to the TO_MEAS (mile) and have a total length = [LENGTH_MI] on a route with total length = [ROUTE_MI].", 
 "dct_issued_s": "2013-11-01", 
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-dc837549-2d20-44b8-a030-aea07a0aad68", 
-"dc_relation_sm": [
-"<a href=N../../env_trout_stream_designations/metadata/metadata.htmlN target=_blank><b> Designated Water Features - Trout Stream Designation</b></a><a href=N../../water_trout_streams_pls_sections/metadata/metadata.htmlN target=_blank><b>Designated Water Features - Trout Stream Designation - PLS Sections</b></a><a href=N../../water_trout_stream_winter_regs/metadata/metadata.htmlN target=_blank><b> Regulated Water Features - Trout Stream Winter Regulations</b></a><a href=N../../water_measured_kittle_routes/metadata/metadata.htmlN target=_blank><b>Stream Routes with Kittle Numbers and Mile Measures</b></a>"
-], 
+"dc_identifier_s": "dc837549-2d20-44b8-a030-aea07a0aad68", 
 "georss_polygon_s": "43.098198 -97.252252 49.34025 -97.252252 49.34025 -89.406737 43.098198 -89.406737 43.098198 -97.252252", 
 "solr_year_i": 2013, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-dc837549-2d20-44b8-a030-aea07a0aad68", 
+"layer_id_s": "dc837549-2d20-44b8-a030-aea07a0aad68", 
 "georss_box_s": "43.098198 -97.252252 49.34025 -89.406737", 
 "dc_title_s": "Regulated Water Features, Trout Stream Special Regulations: Minnesota, 2013", 
-"layer_slug_s": "Minnesota-urn-dc837549-2d20-44b8-a030-aea07a0aad68"
+"layer_slug_s": "dc837549-2d20-44b8-a030-aea07a0aad68", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

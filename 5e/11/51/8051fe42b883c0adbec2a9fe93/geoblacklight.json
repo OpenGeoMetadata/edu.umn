@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Point", 
-"layer_modified_dt": "2016-09-28T12:04:53Z", 
+"layer_modified_dt": "2016-12-30T13:42:12Z", 
 "solr_geom": "ENVELOPE(-93.3287098886709, -93.2047120972542, 45.0510011973899, 44.8909681493227)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/4a50dcb6da524b18b9fab49947d7a3fa_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/PW_SpecialAssessments/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/4a50dcb6da524b18b9fab49947d7a3fa_0.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/4a50dcb6da524b18b9fab49947d7a3fa_0.zip\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/4a50dcb6da524b18b9fab49947d7a3fa_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/5e/11/51/8051fe42b883c0adbec2a9fe93/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/PW_SpecialAssessments/FeatureServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-5e115180-51fe-42b8-83c0-adbec2a9fe93", 
+"uuid": "5e115180-51fe-42b8-83c0-adbec2a9fe93", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Society"
@@ -17,18 +17,19 @@
 "City of Minneapolis"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-5e115180-51fe-42b8-83c0-adbec2a9fe93", 
+"dc_identifier_s": "5e115180-51fe-42b8-83c0-adbec2a9fe93", 
 "georss_polygon_s": "44.8909681493227 -93.3287098886709 45.0510011973899 -93.3287098886709 45.0510011973899 -93.2047120972542 44.8909681493227 -93.2047120972542 44.8909681493227 -93.3287098886709", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minneapolis, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "City of Minneapolis"
 ], 
-"layer_id_s": "urn:urn-5e115180-51fe-42b8-83c0-adbec2a9fe93", 
+"layer_id_s": "5e115180-51fe-42b8-83c0-adbec2a9fe93", 
 "georss_box_s": "44.8909681493227 -93.3287098886709 45.0510011973899 -93.2047120972542", 
 "dc_title_s": "Public Works Special Assessments: Minneapolis, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-5e115180-51fe-42b8-83c0-adbec2a9fe93"
+"layer_slug_s": "5e115180-51fe-42b8-83c0-adbec2a9fe93", 
+"dct_isPartOf_sm": "Minneapolis Open Data"
 }

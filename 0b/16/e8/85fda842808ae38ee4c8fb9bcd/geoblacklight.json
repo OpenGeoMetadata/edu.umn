@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:36Z", 
+"layer_modified_dt": "2017-01-20T18:39:58Z", 
 "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-bedrock-geology-mn\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-bedrock-geology-mn\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/0b/16/e8/85fda842808ae38ee4c8fb9bcd/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-0b16e885-fda8-4280-8ae3-8ee4c8fb9bcd", 
+"uuid": "0b16e885-fda8-4280-8ae3-8ee4c8fb9bcd", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Geoscientific Information"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Geological Survey"
 ], 
-"dc_identifier_s": "urn-0b16e885-fda8-4280-8ae3-8ee4c8fb9bcd", 
-"dc_relation_sm": [
-"Map: 'Geologic Map of Minnesota - Bedrock Geology', Minnesota Geological Survey Map S-21, 2011,  is the basis for this data set.For a complete listing of MGS State Map Series Maps, Reports, and GIS Data, see http://conservancy.umn.edu/handle/11299/59725 U of M Digital Conservancy information on this map is at http://conservancy.umn.edu/handle/11299/101466"
-], 
+"dc_identifier_s": "0b16e885-fda8-4280-8ae3-8ee4c8fb9bcd", 
 "georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
 "solr_year_i": 2011, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Geological Survey"
 ], 
-"layer_id_s": "urn:urn-0b16e885-fda8-4280-8ae3-8ee4c8fb9bcd", 
+"layer_id_s": "0b16e885-fda8-4280-8ae3-8ee4c8fb9bcd", 
 "georss_box_s": "43.5 -97.23 49.37 -89.53", 
 "dc_title_s": "Geologic Map of Minnesota, Bedrock Geology (MGS Map S-21), 2011", 
-"layer_slug_s": "Minnesota-urn-0b16e885-fda8-4280-8ae3-8ee4c8fb9bcd"
+"layer_slug_s": "0b16e885-fda8-4280-8ae3-8ee4c8fb9bcd", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

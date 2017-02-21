@@ -1,27 +1,29 @@
 {
-"solr_year_i": 1996, 
-"uuid": "urn-c99901aa-09bd-42e7-bccf-7d07baf38c82", 
 "layer_geom_type_s": "Raster", 
-"georss_box_s": "46.856961 -96.766102 47.009786 -96.608484", 
-"layer_modified_dt": "2016-11-29T13:46:18Z", 
-"layer_id_s": "urn:urn-c99901aa-09bd-42e7-bccf-7d07baf38c82", 
-"georss_polygon_s": "46.856961 -96.766102 47.009786 -96.766102 47.009786 -96.608484 46.856961 -96.608484 46.856961 -96.766102", 
-"dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-c99901aa-09bd-42e7-bccf-7d07baf38c82", 
-"dct_provenance_s": "Minnesota", 
-"dc_title_s": "USGS Survey Map O46096H6: Clay County, Minnesota, 1996", 
-"layer_slug_s": "Minnesota-urn-c99901aa-09bd-42e7-bccf-7d07baf38c82", 
-"dc_format_s": "Raster Dataset", 
-"dc_description_s": "Geo-referenced USGS survey map of western Clay County from 1970s", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://claycountymn.gov/658/GIS-Data\",\"http://schema.org/downloadUrl\":\"ftp://gis.co.clay.mn.us/Download/Clay/USGSTOPO.ZIP\"}", 
-"dc_subject_sm": [
-"Imagery base maps earth cover"
-], 
-"dct_issued_s": "1996-09-24", 
+"layer_modified_dt": "2017-01-25T16:29:41Z", 
 "solr_geom": "ENVELOPE(-96.766102, -96.608484, 47.009786, 46.856961)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://gis.co.clay.mn.us/Download/Clay/USGSTOPO.ZIP\",\"http://schema.org/url\":\"http://claycountymn.gov/658/GIS-Data\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/c9/99/01/aa09bd42e7bccf7d07baf38c82/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
+"uuid": "c99901aa-09bd-42e7-bccf-7d07baf38c82", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Imagery and Base Maps"
+], 
+"dct_temporal_sm": "1969-1979", 
+"dc_description_s": "Geo-referenced USGS survey map of western Clay County from 1970s", 
+"dct_issued_s": "1996-09-23", 
+"dc_format_s": "Raster Dataset", 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "c99901aa-09bd-42e7-bccf-7d07baf38c82", 
+"georss_polygon_s": "46.856961 -96.766102 47.009786 -96.766102 47.009786 -96.608484 46.856961 -96.608484 46.856961 -96.766102", 
+"solr_year_i": 1969, 
 "dct_spatial_sm": [
-"Clay County", 
-"Minnesota"
-]
+"Clay County, Minnesota, United States", 
+"Minnesota, United States"
+], 
+"layer_id_s": "c99901aa-09bd-42e7-bccf-7d07baf38c82", 
+"georss_box_s": "46.856961 -96.766102 47.009786 -96.608484", 
+"dc_title_s": "USGS Survey Map O46096H6: Clay County, Minnesota, 1996", 
+"layer_slug_s": "c99901aa-09bd-42e7-bccf-7d07baf38c82", 
+"dct_isPartOf_sm": "Clay County GIS Data"
 }

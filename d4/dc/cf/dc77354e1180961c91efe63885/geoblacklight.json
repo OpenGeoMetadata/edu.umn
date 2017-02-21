@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:02Z", 
+"layer_modified_dt": "2017-01-20T18:40:31Z", 
 "solr_geom": "ENVELOPE(-96.721312, -89.587051, 48.989955, 43.440334)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/water-shallow-lakes-id-by-wldlif\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/water_shallow_lakes_id_by_wldlif/shp_water_shallow_lakes_id_by_wldlif.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/water_shallow_lakes_id_by_wldlif/shp_water_shallow_lakes_id_by_wldlif.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/water-shallow-lakes-id-by-wldlif\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/d4/dc/cf/dc77354e1180961c91efe63885/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-d4dccfdc-7735-4e11-8096-1c91efe63885", 
+"uuid": "d4dccfdc-7735-4e11-8096-1c91efe63885", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Inland Waters"
@@ -16,17 +16,18 @@
 "dc_creator_sm": [
 "Minnesota DNR - Division of Fish & Wildlife - Wildlife Unit"
 ], 
-"dc_identifier_s": "urn-d4dccfdc-7735-4e11-8096-1c91efe63885", 
+"dc_identifier_s": "d4dccfdc-7735-4e11-8096-1c91efe63885", 
 "georss_polygon_s": "43.440334 -96.721312 48.989955 -96.721312 48.989955 -89.587051 43.440334 -89.587051 43.440334 -96.721312", 
 "solr_year_i": 2006, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-d4dccfdc-7735-4e11-8096-1c91efe63885", 
+"layer_id_s": "d4dccfdc-7735-4e11-8096-1c91efe63885", 
 "georss_box_s": "43.440334 -96.721312 48.989955 -89.587051", 
 "dc_title_s": "Shallow Lakes Identified by DNR Wildlife: Minnesota, 2006", 
-"layer_slug_s": "Minnesota-urn-d4dccfdc-7735-4e11-8096-1c91efe63885"
+"layer_slug_s": "d4dccfdc-7735-4e11-8096-1c91efe63885", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

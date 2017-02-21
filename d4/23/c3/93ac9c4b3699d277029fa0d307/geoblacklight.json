@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:19Z", 
+"layer_modified_dt": "2017-01-20T18:39:35Z", 
 "solr_geom": "ENVELOPE(-97.5, -89, 49.5, 43)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/trans-rr-station-plat-map-points\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dot/trans_rr_station_plat_map_points/shp_trans_rr_station_plat_map_points.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dot/trans_rr_station_plat_map_points/shp_trans_rr_station_plat_map_points.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/trans-rr-station-plat-map-points\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/d4/23/c3/93ac9c4b3699d277029fa0d307/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-d423c393-ac9c-4b36-99d2-77029fa0d307", 
+"uuid": "d423c393-ac9c-4b36-99d2-77029fa0d307", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Transportation"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Transportation, Office of Land Management"
 ], 
-"dc_identifier_s": "urn-d423c393-ac9c-4b36-99d2-77029fa0d307", 
-"dc_relation_sm": [
-"Railroad coverage including abandoned lines, Railroad Station Plat images, Railroad Valuation images, State basemap (active railroad lines), 1936 County Map Series with Government Lots, Sections, Townships and Ranges, Minnesota Railroad and Warehouse Commission Historical Railroad Maps."
-], 
+"dc_identifier_s": "d423c393-ac9c-4b36-99d2-77029fa0d307", 
 "georss_polygon_s": "43 -97.5 49.5 -97.5 49.5 -89 43 -89 43 -97.5", 
 "solr_year_i": 1918, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Transportation"
 ], 
-"layer_id_s": "urn:urn-d423c393-ac9c-4b36-99d2-77029fa0d307", 
+"layer_id_s": "d423c393-ac9c-4b36-99d2-77029fa0d307", 
 "georss_box_s": "43 -97.5 49.5 -89", 
 "dc_title_s": "Railroad Station Plat Map Location Points: Minnesota, 1918-1974", 
-"layer_slug_s": "Minnesota-urn-d423c393-ac9c-4b36-99d2-77029fa0d307"
+"layer_slug_s": "d423c393-ac9c-4b36-99d2-77029fa0d307", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

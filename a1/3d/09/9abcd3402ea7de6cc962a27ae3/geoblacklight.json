@@ -1,10 +1,10 @@
 {
-"layer_geom_type_s": "Raster", 
-"layer_modified_dt": "2016-06-29T10:00:14Z", 
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2017-01-20T18:40:48Z", 
 "solr_geom": "ENVELOPE(-95.7, -89.9, 48.6, 45.9)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/biota-timber-surveys-1900s-image\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/biota-timber-surveys-1900s-image\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/a1/3d/09/9abcd3402ea7de6cc962a27ae3/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-a13d099a-bcd3-402e-a7de-6cc962a27ae3", 
+"uuid": "a13d099a-bcd3-402e-a7de-6cc962a27ae3", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Biota"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Geospatial Information Office (MnGeo)"
 ], 
-"dc_identifier_s": "urn-a13d099a-bcd3-402e-a7de-6cc962a27ae3", 
-"dc_relation_sm": [
-"1.  Vector files digitized from the timber record maps:  https://gisdata.mn.gov/dataset/biota-timber-surveys-1900s-vec2.  A database of the information from the timber record:  https://gisdata.mn.gov/dataset/biota-timber-surveys-1900s-db3. The original paper records of the timber surveys are held at the State Archives Department, Minnesota Historical Society.Minnesota Board of Timber Commissioners. Reports of Estimates and Appraisals, 1895-1905. Minnesota Historical Society. State Archives Microfilm 271.Library Minnesota Historical Society 345 Kellogg Blvd. W St. Paul, MN 55102 651-296-2143http://www.mnhs.org/library/4.  Control Point Generated PLS:  The Department of Natural Resources (DNR) 1:24,000-scale public land survey layer detailed to the quarter-quarter PLS section and government lot level.  See https://gisdata.mn.gov/dataset/plan-mndnr-public-land-survey5.  Bearing Trees:  a point database showing bearing trees used as references or landmarks during the original Minnesota Public Land Survey. https://gisdata.mn.gov/dataset/biota-original-pls-bearing-trees6.  Presettlement Vegetation of Minnesota:  a data set based on Marschner's original analysis of Public Land Survey notes and landscape patterns.  See https://gisdata.mn.gov/dataset/biota-marschner-presettle-veg"
-], 
+"dc_identifier_s": "a13d099a-bcd3-402e-a7de-6cc962a27ae3", 
 "georss_polygon_s": "45.9 -95.7 48.6 -95.7 48.6 -89.9 45.9 -89.9 45.9 -95.7", 
 "solr_year_i": 1895, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Historical Society"
 ], 
-"layer_id_s": "urn:urn-a13d099a-bcd3-402e-a7de-6cc962a27ae3", 
+"layer_id_s": "a13d099a-bcd3-402e-a7de-6cc962a27ae3", 
 "georss_box_s": "45.9 -95.7 48.6 -89.9", 
 "dc_title_s": "Reports of Estimates and Appraisals of the Timber Commissioners Board, Minnesota, 1895-1905: Image Format", 
-"layer_slug_s": "Minnesota-urn-a13d099a-bcd3-402e-a7de-6cc962a27ae3"
+"layer_slug_s": "a13d099a-bcd3-402e-a7de-6cc962a27ae3", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:04Z", 
+"layer_modified_dt": "2017-01-20T18:40:34Z", 
 "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-wetland-banking-easements\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-wetland-banking-easements\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/17/d1/fe/2af5fc4a21acf126e5193cc35b/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-17d1fe2a-f5fc-4a21-acf1-26e5193cc35b", 
+"uuid": "17d1fe2a-f5fc-4a21-acf1-26e5193cc35b", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Boundaries"
@@ -16,17 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Board of Water and Soil Resources (BWSR)"
 ], 
-"dc_identifier_s": "urn-17d1fe2a-f5fc-4a21-acf1-26e5193cc35b", 
+"dc_identifier_s": "17d1fe2a-f5fc-4a21-acf1-26e5193cc35b", 
 "georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Board of Water and Soil Resources"
 ], 
-"layer_id_s": "urn:urn-17d1fe2a-f5fc-4a21-acf1-26e5193cc35b", 
+"layer_id_s": "17d1fe2a-f5fc-4a21-acf1-26e5193cc35b", 
 "georss_box_s": "43.5 -97.23 49.37 -89.53", 
 "dc_title_s": "Wetland Banking Program Easements: Minnesota", 
-"layer_slug_s": "Minnesota-urn-17d1fe2a-f5fc-4a21-acf1-26e5193cc35b"
+"layer_slug_s": "17d1fe2a-f5fc-4a21-acf1-26e5193cc35b", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

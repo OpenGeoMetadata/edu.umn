@@ -58,7 +58,7 @@
       </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-07-01T14:38:43</gco:DateTime>
+      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2017-01-20T18:40:32</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
       <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -168,6 +168,12 @@
                 </gmd:role>
               </gmd:CI_ResponsibleParty>
             </gmd:citedResponsibleParty>
+            <gmd:otherCitationDetails>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Mixed</gco:CharacterString>
+            </gmd:otherCitationDetails>
+            <gmd:collectiveTitle>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Geospatial Commons</gco:CharacterString>
+            </gmd:collectiveTitle>
           </gmd:CI_Citation>
         </gmd:citation>
         <gmd:abstract>
@@ -235,79 +241,6 @@
             </gmd:maintenanceAndUpdateFrequency>
           </gmd:MD_MaintenanceInformation>
         </gmd:resourceMaintenance>
-        <gmd:descriptiveKeywords>
-          <gmd:MD_Keywords>
-            <gmd:type>
-              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="005">theme</gmd:MD_KeywordTypeCode>
-            </gmd:type>
-            <gmd:thesaurusName>
-              <gmd:CI_Citation>
-                <gmd:title>
-                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">U.S. Department of the Interior, U.S. Geological Survey, 1999, Standards for National Hydrography Dataset</gco:CharacterString>
-                </gmd:title>
-                <gmd:date xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
-              </gmd:CI_Citation>
-            </gmd:thesaurusName>
-          </gmd:MD_Keywords>
-        </gmd:descriptiveKeywords>
-        <gmd:descriptiveKeywords>
-          <gmd:MD_Keywords>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Conterminous United States</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">U.S.</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">US</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:type>
-              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="002">place</gmd:MD_KeywordTypeCode>
-            </gmd:type>
-            <gmd:thesaurusName>
-              <gmd:CI_Citation>
-                <gmd:title>
-                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">U.S. Department of Commerce, 1995, Countries, dependencies, areas of sovereignty, and their principal administrative divisions (Federal Information Processing Standard 10-4): Washington, D.C., National Institute of Standards and Technology</gco:CharacterString>
-                </gmd:title>
-                <gmd:date xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
-              </gmd:CI_Citation>
-            </gmd:thesaurusName>
-          </gmd:MD_Keywords>
-        </gmd:descriptiveKeywords>
-        <gmd:descriptiveKeywords>
-          <gmd:MD_Keywords>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:type>
-              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="place"/>
-            </gmd:type>
-            <gmd:thesaurusName>
-              <gmd:CI_Citation>
-                <gmd:title>
-                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GeoNames</gco:CharacterString>
-                </gmd:title>
-                <gmd:date>
-                  <gmd:CI_Date>
-                    <gmd:date>
-                      <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2012-10-29</gco:Date>
-                    </gmd:date>
-                    <gmd:dateType>
-                      <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
-                    </gmd:dateType>
-                  </gmd:CI_Date>
-                </gmd:date>
-                <gmd:identifier>
-                  <gmd:MD_Identifier>
-                    <gmd:code>
-                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">http://www.geonames.org/ontology/ontology_v3.1.rdf</gco:CharacterString>
-                    </gmd:code>
-                  </gmd:MD_Identifier>
-                </gmd:identifier>
-              </gmd:CI_Citation>
-            </gmd:thesaurusName>
-          </gmd:MD_Keywords>
-        </gmd:descriptiveKeywords>
         <gmd:resourceConstraints>
           <gmd:MD_LegalConstraints>
             <gmd:accessConstraints>
@@ -437,8 +370,8 @@ A state subset of NHD is also available through the state's Geographic Data  Res
             <gmd:temporalElement>
               <gmd:EX_TemporalExtent>
                 <gmd:extent>
-                  <gml:TimePeriod xmlns:gml="http://www.opengis.net/gml" gml:id="d239418e494a1052958">
-                    <gml:beginPosition/>
+                  <gml:TimePeriod xmlns:gml="http://www.opengis.net/gml">
+                    <gml:endPosition>2015</gml:endPosition>
                   </gml:TimePeriod>
                 </gmd:extent>
               </gmd:EX_TemporalExtent>
@@ -448,6 +381,25 @@ A state subset of NHD is also available through the state's Geographic Data  Res
         <gmd:supplementalInformation>
           <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota, statewide.  80 subbasins (WBD HU_8 units covering the state of Minnesota). Note that NHD is a nationwide dataset - this distribution is for Minnesota's area of interest only.  Since the NHD state extract covers full HUC-8 areas (subasins), there is some overlap of data into adjacent states and provinces.</gco:CharacterString>
         </gmd:supplementalInformation>
+        <gmd:descriptiveKeywords>
+          <gmd:MD_Keywords>
+            <gmd:type>
+              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="place"/>
+            </gmd:type>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Conterminous United States</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">U.S.</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">US</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota, United States</gco:CharacterString>
+            </gmd:keyword>
+          </gmd:MD_Keywords>
+        </gmd:descriptiveKeywords>
       </gmd:MD_DataIdentification>
     </gmd:identificationInfo>
     <gmd:contentInfo>

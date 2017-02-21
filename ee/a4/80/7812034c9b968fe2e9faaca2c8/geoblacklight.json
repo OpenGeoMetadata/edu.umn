@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:22Z", 
+"layer_modified_dt": "2017-01-20T18:40:57Z", 
 "solr_geom": "ENVELOPE(-97.5, -89, 49.5, 43)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-naip-2013-airphotos\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-naip-2013-airphotos\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/ee/a4/80/7812034c9b968fe2e9faaca2c8/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-eea48078-1203-4c9b-968f-e2e9faaca2c8", 
+"uuid": "eea48078-1203-4c9b-968f-e2e9faaca2c8", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Imagery and Base Maps"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "U.S. Department of Agriculture (USDA), Farm Service Agency (FSA), Aerial Photography Field Office (APFO)"
 ], 
-"dc_identifier_s": "urn-eea48078-1203-4c9b-968f-e2e9faaca2c8", 
-"dc_relation_sm": [
-"A shapefile, with its associated metadata, is included with the compressed county mosaic datasets downloadable from the USDA NRCS Geospatial Data Gateway. It shows seamline polygons delineating the boundary between DOQQ imagery used in the creation of the county NAIP file and attributes such as the source date of the imagery. All the seamline shapefiles for Minnesota's 87 counties may also be downloaded in one zipfile from MnGeo's website. For more information, see:  http://www.mngeo.state.mn.us/chouse/metadata/naip13_date.htmlFor information on other air photos available for Minnesota, including other years of NAIP imagery, see  http://www.mngeo.state.mn.us/chouse/airphoto/index.html"
-], 
+"dc_identifier_s": "eea48078-1203-4c9b-968f-e2e9faaca2c8", 
 "georss_polygon_s": "43 -97.5 49.5 -97.5 49.5 -89 43 -89 43 -97.5", 
 "solr_year_i": 2013, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "U.S. Department of Agriculture"
 ], 
-"layer_id_s": "urn:urn-eea48078-1203-4c9b-968f-e2e9faaca2c8", 
+"layer_id_s": "eea48078-1203-4c9b-968f-e2e9faaca2c8", 
 "georss_box_s": "43 -97.5 49.5 -89", 
 "dc_title_s": "Digital Orthorectified Images (DOQ), National Agricultural Imagery Program (NAIP): Minnesota, 2013", 
-"layer_slug_s": "Minnesota-urn-eea48078-1203-4c9b-968f-e2e9faaca2c8"
+"layer_slug_s": "eea48078-1203-4c9b-968f-e2e9faaca2c8", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

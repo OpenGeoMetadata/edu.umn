@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:58:48Z", 
+"layer_modified_dt": "2017-01-20T18:38:54Z", 
 "solr_geom": "ENVELOPE(-96.190218, -89.667797, 48.645586, 43.490648)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-mn-ruffed-grouse\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_mn_ruffed_grouse/shp_env_mn_ruffed_grouse.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_mn_ruffed_grouse/shp_env_mn_ruffed_grouse.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-mn-ruffed-grouse\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/f8/80/91/aaf6524006a950e8ce8fedd48d/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-f88091aa-f652-4006-a950-e8ce8fedd48d", 
+"uuid": "f88091aa-f652-4006-a950-e8ce8fedd48d", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Environment"
@@ -16,17 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-f88091aa-f652-4006-a950-e8ce8fedd48d", 
+"dc_identifier_s": "f88091aa-f652-4006-a950-e8ce8fedd48d", 
 "georss_polygon_s": "43.490648 -96.190218 48.645586 -96.190218 48.645586 -89.667797 43.490648 -89.667797 43.490648 -96.190218", 
-"solr_year_i": 2015, 
+"solr_year_i": 2009, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-f88091aa-f652-4006-a950-e8ce8fedd48d", 
+"layer_id_s": "f88091aa-f652-4006-a950-e8ce8fedd48d", 
 "georss_box_s": "43.490648 -96.190218 48.645586 -89.667797", 
 "dc_title_s": "Ruffed Grouse Drumming Count Routes and Stops: Minnesota, 2009", 
-"layer_slug_s": "Minnesota-urn-f88091aa-f652-4006-a950-e8ce8fedd48d"
+"layer_slug_s": "f88091aa-f652-4006-a950-e8ce8fedd48d", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

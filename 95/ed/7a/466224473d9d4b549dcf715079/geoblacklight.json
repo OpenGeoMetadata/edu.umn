@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Point", 
-"layer_modified_dt": "2016-09-28T11:27:51Z", 
+"layer_modified_dt": "2016-12-30T13:42:12Z", 
 "solr_geom": "ENVELOPE(-93.3191350590214, -93.2317671642871, 45.0048229756535, 44.8943744599442)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/2c35bcea1a7c4a3ba48fa42b039e5aa6_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Major_Retail_Centers/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/2c35bcea1a7c4a3ba48fa42b039e5aa6_0.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/2c35bcea1a7c4a3ba48fa42b039e5aa6_0.zip\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/2c35bcea1a7c4a3ba48fa42b039e5aa6_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/95/ed/7a/466224473d9d4b549dcf715079/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Major_Retail_Centers/FeatureServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-95ed7a46-6224-473d-9d4b-549dcf715079", 
+"uuid": "95ed7a46-6224-473d-9d4b-549dcf715079", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Planning and Cadastral"
@@ -17,18 +17,19 @@
 "City of Minneapolis"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-95ed7a46-6224-473d-9d4b-549dcf715079", 
+"dc_identifier_s": "95ed7a46-6224-473d-9d4b-549dcf715079", 
 "georss_polygon_s": "44.8943744599442 -93.3191350590214 45.0048229756535 -93.3191350590214 45.0048229756535 -93.2317671642871 44.8943744599442 -93.2317671642871 44.8943744599442 -93.3191350590214", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minneapolis, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "City of Minneapolis"
 ], 
-"layer_id_s": "urn:urn-95ed7a46-6224-473d-9d4b-549dcf715079", 
+"layer_id_s": "95ed7a46-6224-473d-9d4b-549dcf715079", 
 "georss_box_s": "44.8943744599442 -93.3191350590214 45.0048229756535 -93.2317671642871", 
 "dc_title_s": "Major Retail Centers: Minneapolis, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-95ed7a46-6224-473d-9d4b-549dcf715079"
+"layer_slug_s": "95ed7a46-6224-473d-9d4b-549dcf715079", 
+"dct_isPartOf_sm": "Minneapolis Open Data"
 }

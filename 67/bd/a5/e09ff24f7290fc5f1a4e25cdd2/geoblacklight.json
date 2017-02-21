@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:19Z", 
+"layer_modified_dt": "2017-01-20T18:40:53Z", 
 "solr_geom": "ENVELOPE(-96.591873, -89.932085, 48.993325, 43.450467)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-impaired-lakes-2010\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_pca/env_impaired_lakes_2010/shp_env_impaired_lakes_2010.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_pca/env_impaired_lakes_2010/shp_env_impaired_lakes_2010.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-impaired-lakes-2010\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/67/bd/a5/e09ff24f7290fc5f1a4e25cdd2/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-67bda5e0-9ff2-4f72-90fc-5f1a4e25cdd2", 
+"uuid": "67bda5e0-9ff2-4f72-90fc-5f1a4e25cdd2", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Environment"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Pollution Control Agency"
 ], 
-"dc_identifier_s": "urn-67bda5e0-9ff2-4f72-90fc-5f1a4e25cdd2", 
-"dc_relation_sm": [
-"Draft Minnesota 2010  Inventory of Impaired Streams, January 2010Draft Minnesota 2010 Inventory of Impaired Wetlands, January 2010"
-], 
+"dc_identifier_s": "67bda5e0-9ff2-4f72-90fc-5f1a4e25cdd2", 
 "georss_polygon_s": "43.450467 -96.591873 48.993325 -96.591873 48.993325 -89.932085 43.450467 -89.932085 43.450467 -96.591873", 
-"solr_year_i": 2012, 
+"solr_year_i": 2010, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Pollution Control Agency"
 ], 
-"layer_id_s": "urn:urn-67bda5e0-9ff2-4f72-90fc-5f1a4e25cdd2", 
+"layer_id_s": "67bda5e0-9ff2-4f72-90fc-5f1a4e25cdd2", 
 "georss_box_s": "43.450467 -96.591873 48.993325 -89.932085", 
 "dc_title_s": "Impaired Lakes: Minnesota, 2010", 
-"layer_slug_s": "Minnesota-urn-67bda5e0-9ff2-4f72-90fc-5f1a4e25cdd2"
+"layer_slug_s": "67bda5e0-9ff2-4f72-90fc-5f1a4e25cdd2", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

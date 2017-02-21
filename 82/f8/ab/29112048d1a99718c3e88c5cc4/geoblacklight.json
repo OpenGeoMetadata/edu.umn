@@ -1,16 +1,16 @@
 {
 "layer_geom_type_s": "Point", 
-"layer_modified_dt": "2016-08-17T15:51:26Z", 
+"layer_modified_dt": "2016-12-30T13:42:20Z", 
 "solr_geom": "ENVELOPE(-93.02936, -92.74151, 45.29843, 44.73814)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.wcmn.opendata.arcgis.com/datasets/e4bcd31e5bf14a018ae905ce4cb085a2_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/3fjYPqJf7qalQMlb/arcgis/rest/services/schools/FeatureServer/0\",\"http://schema.org/url\":\"http://data.wcmn.opendata.arcgis.com/datasets/e4bcd31e5bf14a018ae905ce4cb085a2_0\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.wcmn.opendata.arcgis.com/datasets/e4bcd31e5bf14a018ae905ce4cb085a2_0.zip\",\"http://schema.org/url\":\"http://data.wcmn.opendata.arcgis.com/datasets/e4bcd31e5bf14a018ae905ce4cb085a2_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/82/f8/ab/29112048d1a99718c3e88c5cc4/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/3fjYPqJf7qalQMlb/arcgis/rest/services/schools/FeatureServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-82f8ab29-1120-48d1-a997-18c3e88c5cc4", 
+"uuid": "82f8ab29-1120-48d1-a997-18c3e88c5cc4", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Structure", 
 "Society", 
-"education", 
-"schools"
+"Schools", 
+"Education"
 ], 
 "dct_temporal_sm": "2014-", 
 "dc_description_s": "Schools in Washington County, MN", 
@@ -20,18 +20,19 @@
 "Washington County, MN"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-82f8ab29-1120-48d1-a997-18c3e88c5cc4", 
+"dc_identifier_s": "82f8ab29-1120-48d1-a997-18c3e88c5cc4", 
 "georss_polygon_s": "44.73814 -93.02936 45.29843 -93.02936 45.29843 -92.74151 44.73814 -92.74151 44.73814 -93.02936", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Washington County, Minnesota", 
-"Minnesota"
+"Washington County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Washington County, MN"
 ], 
-"layer_id_s": "urn:urn-82f8ab29-1120-48d1-a997-18c3e88c5cc4", 
+"layer_id_s": "82f8ab29-1120-48d1-a997-18c3e88c5cc4", 
 "georss_box_s": "44.73814 -93.02936 45.29843 -92.74151", 
 "dc_title_s": "Schools: Washington County, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-82f8ab29-1120-48d1-a997-18c3e88c5cc4"
+"layer_slug_s": "82f8ab29-1120-48d1-a997-18c3e88c5cc4", 
+"dct_isPartOf_sm": "Washington County Open Data"
 }

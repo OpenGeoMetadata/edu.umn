@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Point", 
-"layer_modified_dt": "2016-09-19T16:17:44Z", 
+"layer_modified_dt": "2016-12-30T13:42:36Z", 
 "solr_geom": "ENVELOPE(-93.7725, -93.1737, 45.2465, 44.7859)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/7a24f282f0d7497f9352519dbb3607e8_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/LAND_PROPERTY/MapServer/0\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/7a24f282f0d7497f9352519dbb3607e8_0\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/7a24f282f0d7497f9352519dbb3607e8_0.zip\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/7a24f282f0d7497f9352519dbb3607e8_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/f4/9a/18/422bfa42c6900d3925a8bb2356/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/LAND_PROPERTY/MapServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-f49a1842-2bfa-42c6-900d-3925a8bb2356", 
+"uuid": "f49a1842-2bfa-42c6-900d-3925a8bb2356", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Location"
@@ -17,18 +17,19 @@
 "Hennepin County"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-f49a1842-2bfa-42c6-900d-3925a8bb2356", 
+"dc_identifier_s": "f49a1842-2bfa-42c6-900d-3925a8bb2356", 
 "georss_polygon_s": "44.7859 -93.7725 45.2465 -93.7725 45.2465 -93.1737 44.7859 -93.1737 44.7859 -93.7725", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Hennepin County, Minnesota", 
-"Minnesota"
+"Hennepin County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Hennepin County"
 ], 
-"layer_id_s": "urn:urn-f49a1842-2bfa-42c6-900d-3925a8bb2356", 
+"layer_id_s": "f49a1842-2bfa-42c6-900d-3925a8bb2356", 
 "georss_box_s": "44.7859 -93.7725 45.2465 -93.1737", 
 "dc_title_s": "Address Points: Hennepin County, Minnesota", 
-"layer_slug_s": "Minnesota-urn-f49a1842-2bfa-42c6-900d-3925a8bb2356"
+"layer_slug_s": "f49a1842-2bfa-42c6-900d-3925a8bb2356", 
+"dct_isPartOf_sm": "Hennepin County Open Data"
 }

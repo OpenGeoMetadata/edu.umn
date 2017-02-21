@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-09-28T10:53:22Z", 
+"layer_modified_dt": "2016-12-30T13:41:16Z", 
 "solr_geom": "ENVELOPE(-93.3290253457508, -93.2134906404745, 45.0149708862547, 44.9107185069228)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/a56d41c8f426417fa4d039958d135032_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Activity_Centers/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/a56d41c8f426417fa4d039958d135032_0.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/a56d41c8f426417fa4d039958d135032_0.zip\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/a56d41c8f426417fa4d039958d135032_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/f6/71/d3/d15b0641369d733e69c3c72681/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Activity_Centers/FeatureServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-f671d3d1-5b06-4136-9d73-3e69c3c72681", 
+"uuid": "f671d3d1-5b06-4136-9d73-3e69c3c72681", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Planning and Cadastral"
@@ -17,18 +17,19 @@
 "City of Minneapolis"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-f671d3d1-5b06-4136-9d73-3e69c3c72681", 
+"dc_identifier_s": "f671d3d1-5b06-4136-9d73-3e69c3c72681", 
 "georss_polygon_s": "44.9107185069228 -93.3290253457508 45.0149708862547 -93.3290253457508 45.0149708862547 -93.2134906404745 44.9107185069228 -93.2134906404745 44.9107185069228 -93.3290253457508", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minneapolis, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "City of Minneapolis"
 ], 
-"layer_id_s": "urn:urn-f671d3d1-5b06-4136-9d73-3e69c3c72681", 
+"layer_id_s": "f671d3d1-5b06-4136-9d73-3e69c3c72681", 
 "georss_box_s": "44.9107185069228 -93.3290253457508 45.0149708862547 -93.2134906404745", 
 "dc_title_s": "Activity Centers: Minneapolis, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-f671d3d1-5b06-4136-9d73-3e69c3c72681"
+"layer_slug_s": "f671d3d1-5b06-4136-9d73-3e69c3c72681", 
+"dct_isPartOf_sm": "Minneapolis Open Data"
 }

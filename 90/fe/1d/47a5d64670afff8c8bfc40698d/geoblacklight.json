@@ -1,15 +1,15 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:58:39Z", 
+"layer_modified_dt": "2017-01-20T18:38:42Z", 
 "solr_geom": "ENVELOPE(-93.697365, -92.760683, 45.242099, 44.687444)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-transit-capital-levy-cmnty\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_transit_capital_levy_cmnty/shp_trans_transit_capital_levy_cmnty.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_transit_capital_levy_cmnty/shp_trans_transit_capital_levy_cmnty.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-transit-capital-levy-cmnty\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/90/fe/1d/47a5d64670afff8c8bfc40698d/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-90fe1d47-a5d6-4670-afff-8c8bfc40698d", 
+"uuid": "90fe1d47-a5d6-4670-afff-8c8bfc40698d", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Transportation", 
-"rapid transit train", 
-"levy"
+"Levy", 
+"Rapid transit train"
 ], 
 "dct_temporal_sm": "2013", 
 "dc_description_s": "NOTE: As part of the Omnibus Tax Bill which was listed as 2001 Special Session, Chapter 5, the transit taxing district is no longer used for tax assessment purposes. The Transit Capital Levy Communities dataset includes all the communities in the transit taxing district on 1/1/2001 AND communities that have come to an agreement with the Metropolitan Council to levy in their community for transit capital. The transit taxing district was the area in which all taxable property was assessed a tax to be used for payment of transit and paratransit services per Minn. Stat. 473.446. This area was comprised of whole cities, townships and unorganized territories.", 
@@ -18,21 +18,19 @@
 "dc_creator_sm": [
 "Metropolitan Council"
 ], 
-"dc_identifier_s": "urn-90fe1d47-a5d6-4670-afff-8c8bfc40698d", 
-"dc_relation_sm": [
-"Transit Routes, Counties and Cities & Townships, Twin Cities Metropolitan Area"
-], 
+"dc_identifier_s": "90fe1d47-a5d6-4670-afff-8c8bfc40698d", 
 "georss_polygon_s": "44.687444 -93.697365 45.242099 -93.697365 45.242099 -92.760683 44.687444 -92.760683 44.687444 -93.697365", 
-"solr_year_i": 2016, 
+"solr_year_i": 2013, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-90fe1d47-a5d6-4670-afff-8c8bfc40698d", 
+"layer_id_s": "90fe1d47-a5d6-4670-afff-8c8bfc40698d", 
 "georss_box_s": "44.687444 -93.697365 45.242099 -92.760683", 
 "dc_title_s": "Transit Capital Levy Communities: Twin Cities Metro, Minnesota, 2013", 
-"layer_slug_s": "Minnesota-urn-90fe1d47-a5d6-4670-afff-8c8bfc40698d"
+"layer_slug_s": "90fe1d47-a5d6-4670-afff-8c8bfc40698d", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

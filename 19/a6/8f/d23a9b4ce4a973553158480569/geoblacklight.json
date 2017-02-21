@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:27Z", 
+"layer_modified_dt": "2017-01-20T18:39:45Z", 
 "solr_geom": "ENVELOPE(-96.717156, -91.08382, 47.577986, 43.439224)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-mn-turkey-harvest\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_mn_turkey_harvest/shp_env_mn_turkey_harvest.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_mn_turkey_harvest/shp_env_mn_turkey_harvest.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-mn-turkey-harvest\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/19/a6/8f/d23a9b4ce4a973553158480569/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-19a68fd2-3a9b-4ce4-a973-553158480569", 
+"uuid": "19a68fd2-3a9b-4ce4-a973-553158480569", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Environment"
@@ -16,17 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR) - Division of Fish & Wildlife - Wildlife Unit"
 ], 
-"dc_identifier_s": "urn-19a68fd2-3a9b-4ce4-a973-553158480569", 
+"dc_identifier_s": "19a68fd2-3a9b-4ce4-a973-553158480569", 
 "georss_polygon_s": "43.439224 -96.717156 47.577986 -96.717156 47.577986 -91.08382 43.439224 -91.08382 43.439224 -96.717156", 
 "solr_year_i": 2006, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-19a68fd2-3a9b-4ce4-a973-553158480569", 
+"layer_id_s": "19a68fd2-3a9b-4ce4-a973-553158480569", 
 "georss_box_s": "43.439224 -96.717156 47.577986 -91.08382", 
 "dc_title_s": "Turkey Harvest: Minnesota, 2006-2015", 
-"layer_slug_s": "Minnesota-urn-19a68fd2-3a9b-4ce4-a973-553158480569"
+"layer_slug_s": "19a68fd2-3a9b-4ce4-a973-553158480569", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

@@ -1,14 +1,14 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:40Z", 
+"layer_modified_dt": "2017-01-20T18:40:05Z", 
 "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-plan-ada-service-provider-areas\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/plan_ada_service_provider_areas/shp_plan_ada_service_provider_areas.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/plan_ada_service_provider_areas/shp_plan_ada_service_provider_areas.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-plan-ada-service-provider-areas\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/c5/1b/3a/b8fff5424aa7c25e8a93e27794/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-c51b3ab8-fff5-424a-a7c2-5e8a93e27794", 
+"uuid": "c51b3ab8-fff5-424a-a7c2-5e8a93e27794", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Planning and Cadastral", 
-"transportation"
+"Transportation"
 ], 
 "dct_temporal_sm": "2016", 
 "dc_description_s": "This layer represents the demand responsive services (Dial-a-Ride) provided for the Americans with Disabilities Act (ADA) by Metro Mobility. Dial-a-ride service for the general public is available through the Transit Link Dial-a-Ride program. (see Transit Link Dial-a-Ride Service Areas) ADA service areas are defined by complete cities or townships.", 
@@ -17,21 +17,19 @@
 "dc_creator_sm": [
 "Metropolitan Council - Metropolitan Transportation Services (Metro Mobility)"
 ], 
-"dc_identifier_s": "urn-c51b3ab8-fff5-424a-a7c2-5e8a93e27794", 
-"dc_relation_sm": [
-"Counties and Cities & Townships, Twin Cities Metropolitan Area"
-], 
+"dc_identifier_s": "c51b3ab8-fff5-424a-a7c2-5e8a93e27794", 
 "georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
 "solr_year_i": 2016, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-c51b3ab8-fff5-424a-a7c2-5e8a93e27794", 
+"layer_id_s": "c51b3ab8-fff5-424a-a7c2-5e8a93e27794", 
 "georss_box_s": "44.471 -94.012 45.415 -92.732", 
 "dc_title_s": "Metro Mobility Americans with Diabilities Act (ADA) Service Provider Areas: Twin Cities Metro, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-c51b3ab8-fff5-424a-a7c2-5e8a93e27794"
+"layer_slug_s": "c51b3ab8-fff5-424a-a7c2-5e8a93e27794", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

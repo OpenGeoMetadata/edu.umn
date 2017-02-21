@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:58:55Z", 
+"layer_modified_dt": "2017-01-20T18:39:03Z", 
 "solr_geom": "ENVELOPE(-95.6, -94.41, 48.55, 47.15)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/biota-landcover-beltclea-1986\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mngeo/biota_landcover_beltclea_1986/shp_biota_landcover_beltclea_1986.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mngeo/biota_landcover_beltclea_1986/shp_biota_landcover_beltclea_1986.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/biota-landcover-beltclea-1986\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/0a/6b/28/8dfa344a7295907bc7ca25b1ac/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-0a6b288d-fa34-4a72-9590-7bc7ca25b1ac", 
+"uuid": "0a6b288d-fa34-4a72-9590-7bc7ca25b1ac", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Biota"
@@ -16,22 +16,20 @@
 "dc_creator_sm": [
 "Department of Geography, Bemidji State University; Clearwater Soil and Water Conservation District (SWCD); Beltrami Soil and Water Conservation District"
 ], 
-"dc_identifier_s": "urn-0a6b288d-fa34-4a72-9590-7bc7ca25b1ac", 
-"dc_relation_sm": [
-"For more information about land use/land cover data for Minnesota, see http://www.mngeo.state.mn.us/chouse/land_use.htmlUpdates have been done by the Department of Geography at Bemidji State Iniversity for primary growth areas in Beltrami County.  Two townships around Blackduck and nine townships around Bemidji have been updated since 1995.  This data is available from Bemidji State University on a township basis."
-], 
+"dc_identifier_s": "0a6b288d-fa34-4a72-9590-7bc7ca25b1ac", 
 "georss_polygon_s": "47.15 -95.6 48.55 -95.6 48.55 -94.41 47.15 -94.41 47.15 -95.6", 
 "solr_year_i": 1986, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Clearwater County, Minnesota", 
-"Beltrami County, Minnesota"
+"Minnesota, United States", 
+"Clearwater County, Minnesota, United States", 
+"Beltrami County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Geospatial Information Office (MnGeo)"
 ], 
-"layer_id_s": "urn:urn-0a6b288d-fa34-4a72-9590-7bc7ca25b1ac", 
+"layer_id_s": "0a6b288d-fa34-4a72-9590-7bc7ca25b1ac", 
 "georss_box_s": "47.15 -95.6 48.55 -94.41", 
 "dc_title_s": "Land Use: Clearwater and Beltrami Counties, Minnesota, 1986", 
-"layer_slug_s": "Minnesota-urn-0a6b288d-fa34-4a72-9590-7bc7ca25b1ac"
+"layer_slug_s": "0a6b288d-fa34-4a72-9590-7bc7ca25b1ac", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

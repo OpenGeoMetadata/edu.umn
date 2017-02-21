@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:25Z", 
+"layer_modified_dt": "2017-01-20T18:41:03Z", 
 "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-saip-photocenters-2009-14\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mngeo/base_saip_photocenters_2009_14/shp_base_saip_photocenters_2009_14.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mngeo/base_saip_photocenters_2009_14/shp_base_saip_photocenters_2009_14.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-saip-photocenters-2009-14\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/e7/d5/c0/dc9b2f492299f7650c2794c2d7/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-e7d5c0dc-9b2f-4922-99f7-650c2794c2d7", 
+"uuid": "e7d5c0dc-9b2f-4922-99f7-650c2794c2d7", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Imagery and Base Maps"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources and Minnesota Geospatial Information Office"
 ], 
-"dc_identifier_s": "urn-e7d5c0dc-9b2f-4922-99f7-650c2794c2d7", 
-"dc_relation_sm": [
-"Digital orthophoto quarter-quadrangles (DOQQs) from the Spring Aerial Imagery Program:1. Northeast:  a. Half-meter resolution:  https://gisdata.mn.gov/dataset/base-saip-ne2009-50cm-airphotosb. One-foot resolution:  https://gisdata.mn.gov/dataset/base-saip-nc2009-30cm-airphotos2. East-Central:  a. Half-meter resolution:  https://gisdata.mn.gov/dataset/base-saip-ec2010-50cm-airphotosb. One-foot resolution:  https://gisdata.mn.gov/dataset/base-saip-ec2010tc-1ft-airphotos3. Southern:  https://gisdata.mn.gov/dataset/base-saip-so2011-50cm-airphotos4. Central & Northwest: a. Half-meter resolution:  http://www.mngeo.state.mn.us/chouse/airphoto/centralmn13.html (metadata forthcoming)b.  Polk and Beltrami Counties:  https://gisdata.mn.gov/dataset/base-saip-polkbelt2014-airphotos"
-], 
+"dc_identifier_s": "e7d5c0dc-9b2f-4922-99f7-650c2794c2d7", 
 "georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
 "solr_year_i": 2009, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-e7d5c0dc-9b2f-4922-99f7-650c2794c2d7", 
+"layer_id_s": "e7d5c0dc-9b2f-4922-99f7-650c2794c2d7", 
 "georss_box_s": "43.5 -97.23 49.37 -89.53", 
 "dc_title_s": "Aerial Imagery Photo Center Points and Acquisition Dates: Minnesota, Spring 2009-2014", 
-"layer_slug_s": "Minnesota-urn-e7d5c0dc-9b2f-4922-99f7-650c2794c2d7"
+"layer_slug_s": "e7d5c0dc-9b2f-4922-99f7-650c2794c2d7", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

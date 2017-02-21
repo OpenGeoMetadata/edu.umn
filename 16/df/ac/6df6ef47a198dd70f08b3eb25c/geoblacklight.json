@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:28Z", 
+"layer_modified_dt": "2017-01-20T18:41:06Z", 
 "solr_geom": "ENVELOPE(-94.7146, -92.120234, 46.39554, 44.21195)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/elev-lidar-metro2011\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/elev-lidar-metro2011\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/16/df/ac/6df6ef47a198dd70f08b3eb25c/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-16dfac6d-f6ef-47a1-98dd-70f08b3eb25c", 
+"uuid": "16dfac6d-f6ef-47a1-98dd-70f08b3eb25c", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Elevation"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Fugro Horizons, Inc. and the Minnesota Department of Natural Resources"
 ], 
-"dc_identifier_s": "urn-16dfac6d-f6ef-47a1-98dd-70f08b3eb25c", 
-"dc_relation_sm": [
-"For more information about elevation data for Minnesota, see: http://www.mngeo.state.mn.us/chouse/elevation/index.html"
-], 
+"dc_identifier_s": "16dfac6d-f6ef-47a1-98dd-70f08b3eb25c", 
 "georss_polygon_s": "44.21195 -94.7146 46.39554 -94.7146 46.39554 -92.120234 44.21195 -92.120234 44.21195 -94.7146", 
 "solr_year_i": 2011, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-16dfac6d-f6ef-47a1-98dd-70f08b3eb25c", 
+"layer_id_s": "16dfac6d-f6ef-47a1-98dd-70f08b3eb25c", 
 "georss_box_s": "44.21195 -94.7146 46.39554 -92.120234", 
 "dc_title_s": "LiDAR Elevation: Twin Cities Metro Region, Minnesota, 2011", 
-"layer_slug_s": "Minnesota-urn-16dfac6d-f6ef-47a1-98dd-70f08b3eb25c"
+"layer_slug_s": "16dfac6d-f6ef-47a1-98dd-70f08b3eb25c", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

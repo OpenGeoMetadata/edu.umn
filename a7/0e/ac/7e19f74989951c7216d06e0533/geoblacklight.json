@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Line", 
-"layer_modified_dt": "2016-09-19T17:52:21Z", 
+"layer_modified_dt": "2016-12-30T13:41:19Z", 
 "solr_geom": "ENVELOPE(-93.7725, -93.1739, 45.2462, 44.7879)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/2c68a692df4b4e47af378a00452d85b0_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/TRANSPORTATION/MapServer/0\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/2c68a692df4b4e47af378a00452d85b0_0\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/2c68a692df4b4e47af378a00452d85b0_0.zip\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/2c68a692df4b4e47af378a00452d85b0_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/a7/0e/ac/7e19f74989951c7216d06e0533/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/TRANSPORTATION/MapServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-a70eac7e-19f7-4989-951c-7216d06e0533", 
+"uuid": "a70eac7e-19f7-4989-951c-7216d06e0533", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Transportation"
@@ -17,18 +17,19 @@
 "Hennepin County"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-a70eac7e-19f7-4989-951c-7216d06e0533", 
+"dc_identifier_s": "a70eac7e-19f7-4989-951c-7216d06e0533", 
 "georss_polygon_s": "44.7879 -93.7725 45.2462 -93.7725 45.2462 -93.1739 44.7879 -93.1739 44.7879 -93.7725", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Hennepin County, Minnesota", 
-"Minnesota"
+"Hennepin County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Hennepin County"
 ], 
-"layer_id_s": "urn:urn-a70eac7e-19f7-4989-951c-7216d06e0533", 
+"layer_id_s": "a70eac7e-19f7-4989-951c-7216d06e0533", 
 "georss_box_s": "44.7879 -93.7725 45.2462 -93.1739", 
 "dc_title_s": "Street Centerlines: Hennepin County, Minnesota", 
-"layer_slug_s": "Minnesota-urn-a70eac7e-19f7-4989-951c-7216d06e0533"
+"layer_slug_s": "a70eac7e-19f7-4989-951c-7216d06e0533", 
+"dct_isPartOf_sm": "Hennepin County Open Data"
 }

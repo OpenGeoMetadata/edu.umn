@@ -1,10 +1,10 @@
 {
-"layer_geom_type_s": "Raster", 
-"layer_modified_dt": "2016-06-29T09:58:42Z", 
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2017-01-20T18:38:45Z", 
 "solr_geom": "ENVELOPE(-94.63, -93.76, 44.73, 44.44)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-geologic-atlas-sibl-c24a\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-geologic-atlas-sibl-c24a\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/9c/dd/87/26fec74902b96d0e4b0adde8b0/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-9cdd8726-fec7-4902-b96d-0e4b0adde8b0", 
+"uuid": "9cdd8726-fec7-4902-b96d-0e4b0adde8b0", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Geoscientific Information"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Minnesota Geological Survey (MGS)"
 ], 
-"dc_identifier_s": "urn-9cdd8726-fec7-4902-b96d-0e4b0adde8b0", 
-"dc_relation_sm": [
-"C-24, Part A. Surface and subsurface geology of Sibley County, Minnesota. Authors, Lusardi, B.A., Runkel, A.C., Meyer, G.N. Minnesota Geological Survey, 2011. Plate 2 Bedrock Geology, Plate 3, Surficial Geology, Scale 1:100,000. This atlas is a work in progress. Plates 1 and 2 were completed in 2010 as part of the USGS Statemap program. Paper map and report available from MGS Map Sales Office (2609 Territorial Road, St. Paul, Minnesota, 55114, 612-626-2969.)For a listing of all geologic maps go to the Minnesota Geological Survey website at: http://www.mngs.umn.edu/mgsdocs.htmlFor the U of M Libraries Digital Conservancy listing of map products see: http://conservancy.umn.edu/handle/11299/708For other County Atlas and Regional Hydrogeologic Assessment data see: http://www.mngs.umn.edu/county_atlas/countyatlas.htm For a listing of the status of the DNR Ground Water Mapping Program, go to: http://www.dnr.state.mn.us/waters/groundwater_section/mapping/index.html"
-], 
+"dc_identifier_s": "9cdd8726-fec7-4902-b96d-0e4b0adde8b0", 
 "georss_polygon_s": "44.44 -94.63 44.73 -94.63 44.73 -93.76 44.44 -93.76 44.44 -94.63", 
 "solr_year_i": 2011, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Sibley County, Minnesota"
+"Minnesota, United States", 
+"Sibley County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Geological Survey"
 ], 
-"layer_id_s": "urn:urn-9cdd8726-fec7-4902-b96d-0e4b0adde8b0", 
+"layer_id_s": "9cdd8726-fec7-4902-b96d-0e4b0adde8b0", 
 "georss_box_s": "44.44 -94.63 44.73 -93.76", 
 "dc_title_s": "Geologic Atlas of Sibley County, Minnesota (Part A), 2011", 
-"layer_slug_s": "Minnesota-urn-9cdd8726-fec7-4902-b96d-0e4b0adde8b0"
+"layer_slug_s": "9cdd8726-fec7-4902-b96d-0e4b0adde8b0", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

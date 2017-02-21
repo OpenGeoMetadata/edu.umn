@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-11-18T12:42:35Z", 
+"layer_modified_dt": "2016-12-30T13:42:32Z", 
 "solr_geom": "ENVELOPE(-95.139891, -93.976797, 45.827783, 45.279073)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://207.171.83.232/GIS/roads.zip\",\"http://schema.org/url\":\"http://www.co.stearns.mn.us/PropertyRoads/GISDataforDownload\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://207.171.83.232/GIS/roads.zip\",\"http://schema.org/url\":\"http://www.co.stearns.mn.us/PropertyRoads/GISDataforDownload\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/e5/46/ae/cfd4d14c9a9e3e70c65f9e9584/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-e546aecf-d4d1-4c9a-9e3e-70c65f9e9584", 
+"uuid": "e546aecf-d4d1-4c9a-9e3e-70c65f9e9584", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Transportation"
@@ -17,18 +17,19 @@
 "Stearns County, Minnesota"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-e546aecf-d4d1-4c9a-9e3e-70c65f9e9584", 
+"dc_identifier_s": "e546aecf-d4d1-4c9a-9e3e-70c65f9e9584", 
 "georss_polygon_s": "45.279073 -95.139891 45.827783 -95.139891 45.827783 -93.976797 45.279073 -93.976797 45.279073 -95.139891", 
 "solr_year_i": 2016, 
 "dct_spatial_sm": [
-"Stearns County, Minnesota", 
-"Minnesota"
+"Stearns County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Stearns County, Minnesota"
 ], 
-"layer_id_s": "urn:urn-e546aecf-d4d1-4c9a-9e3e-70c65f9e9584", 
+"layer_id_s": "e546aecf-d4d1-4c9a-9e3e-70c65f9e9584", 
 "georss_box_s": "45.279073 -95.139891 45.827783 -93.976797", 
 "dc_title_s": "Road Centerlines: Stearns County, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-e546aecf-d4d1-4c9a-9e3e-70c65f9e9584"
+"layer_slug_s": "e546aecf-d4d1-4c9a-9e3e-70c65f9e9584", 
+"dct_isPartOf_sm": "Stearns County GIS Data"
 }

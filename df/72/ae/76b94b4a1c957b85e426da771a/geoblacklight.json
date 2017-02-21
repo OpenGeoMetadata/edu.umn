@@ -1,14 +1,14 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:00Z", 
+"layer_modified_dt": "2017-01-20T18:39:10Z", 
 "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-pland-transitway-alignment\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-pland-transitway-alignment\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/df/72/ae/76b94b4a1c957b85e426da771a/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-df72ae76-b94b-4a1c-957b-85e426da771a", 
+"uuid": "df72ae76-b94b-4a1c-957b-85e426da771a", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Transportation", 
-"rail transport"
+"Rail transport"
 ], 
 "dct_temporal_sm": "2016", 
 "dc_description_s": "This dataset depicts the planned alignments of future transitways which are in advanced design or under construction. Currently, this file includes alignments for Southwest LRT (Green Line Extension), Cedar Avenue BRT Phase 2 (Red Line), I-35W BRT (Orange Line), Bottineau LRT (Blue Line extension) and other planned Arterial BRT alignemnts. This file is markedly different from the 2030 Transitway System file which depicts all potential transitways in the Twin Cities Metro Area. This file can be used at a large scale; however, these alignments are not a guarantee of actual completed alignment. File is for planning purposes only. Alignment is subject to change without warning. When transitway construction is completed and service begins, the alignment will move from this file to TransitwayAlignment (existing). Additional Notes: - Blue, Red and Orange line alignments are managed by Rachel Wiken (see Section 7). All other alignments are managed by: Katie Roth, Project Manager Metro Transit BRT/Small Starts Project Office 560 6th Ave N Minneapolis, MN 55411 612-349-7772 katie.roth@metrotransit.org", 
@@ -17,21 +17,19 @@
 "dc_creator_sm": [
 "Metropolitan Council - Metro Transit"
 ], 
-"dc_identifier_s": "urn-df72ae76-b94b-4a1c-957b-85e426da771a", 
-"dc_relation_sm": [
-"Transitway Stations, Transitway Platforms, Planned Transitway Stations, Transitway Alignments"
-], 
+"dc_identifier_s": "df72ae76-b94b-4a1c-957b-85e426da771a", 
 "georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
 "solr_year_i": 2016, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-df72ae76-b94b-4a1c-957b-85e426da771a", 
+"layer_id_s": "df72ae76-b94b-4a1c-957b-85e426da771a", 
 "georss_box_s": "44.471 -94.012 45.415 -92.732", 
 "dc_title_s": "Planned Transitway Alignments: Twin Cities Metro, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-df72ae76-b94b-4a1c-957b-85e426da771a"
+"layer_slug_s": "df72ae76-b94b-4a1c-957b-85e426da771a", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

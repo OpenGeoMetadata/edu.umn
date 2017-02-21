@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:47Z", 
+"layer_modified_dt": "2017-01-20T18:40:14Z", 
 "solr_geom": "ENVELOPE(-96.824784, -90.836301, 49.267794, 43.438259)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-counties-in-minnesota\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_counties_in_minnesota/shp_bdry_counties_in_minnesota.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_counties_in_minnesota/shp_bdry_counties_in_minnesota.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-counties-in-minnesota\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/02/1d/1e/a079ac4a3fafb6778a3d7d554c/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-021d1ea0-79ac-4a3f-afb6-778a3d7d554c", 
+"uuid": "021d1ea0-79ac-4a3f-afb6-778a3d7d554c", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Boundaries"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (MNDNR)"
 ], 
-"dc_identifier_s": "urn-021d1ea0-79ac-4a3f-afb6-778a3d7d554c", 
-"dc_relation_sm": [
-"State Boundary, Minnesota ( http://gisdata.mn.gov/dataset/bdry-state-of-minnesota )"
-], 
+"dc_identifier_s": "021d1ea0-79ac-4a3f-afb6-778a3d7d554c", 
 "georss_polygon_s": "43.438259 -96.824784 49.267794 -96.824784 49.267794 -90.836301 43.438259 -90.836301 43.438259 -96.824784", 
 "solr_year_i": 2013, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-021d1ea0-79ac-4a3f-afb6-778a3d7d554c", 
+"layer_id_s": "021d1ea0-79ac-4a3f-afb6-778a3d7d554c", 
 "georss_box_s": "43.438259 -96.824784 49.267794 -90.836301", 
 "dc_title_s": "County Boundaries: Minnesota, 2013", 
-"layer_slug_s": "Minnesota-urn-021d1ea0-79ac-4a3f-afb6-778a3d7d554c"
+"layer_slug_s": "021d1ea0-79ac-4a3f-afb6-778a3d7d554c", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

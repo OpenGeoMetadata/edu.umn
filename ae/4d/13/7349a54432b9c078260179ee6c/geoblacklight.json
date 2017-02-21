@@ -1,15 +1,15 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-11-22T16:06:09Z", 
+"layer_modified_dt": "2016-12-30T13:42:15Z", 
 "solr_geom": "ENVELOPE(-96.284521, -95.139461, 46.719006, 46.105965)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://www.co.otter-tail.mn.us/DocumentCenter/Home/View/464\",\"http://schema.org/url\":\"http://www.co.otter-tail.mn.us/212/GIS-Shapefile-Downloads\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://www.co.otter-tail.mn.us/DocumentCenter/Home/View/464\",\"http://schema.org/url\":\"http://www.co.otter-tail.mn.us/212/GIS-Shapefile-Downloads\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/ae/4d/13/7349a54432b9c078260179ee6c/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-ae4d1373-49a5-4432-b9c0-78260179ee6c", 
+"uuid": "ae4d1373-49a5-4432-b9c0-78260179ee6c", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Planning and Cadastral", 
-"civil divisions", 
-"cities and towns"
+"Cities and towns", 
+"Civil divisions"
 ], 
 "dct_temporal_sm": "2015", 
 "dc_description_s": "This shapefile contains townships in Otter Tail County.", 
@@ -19,18 +19,19 @@
 "Otter Tail County, Minnesota"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-ae4d1373-49a5-4432-b9c0-78260179ee6c", 
+"dc_identifier_s": "ae4d1373-49a5-4432-b9c0-78260179ee6c", 
 "georss_polygon_s": "46.105965 -96.284521 46.719006 -96.284521 46.719006 -95.139461 46.105965 -95.139461 46.105965 -96.284521", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Otter Tail County, Minnesota"
+"Otter Tail County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Otter Tail County, Minnesota"
 ], 
-"layer_id_s": "urn:urn-ae4d1373-49a5-4432-b9c0-78260179ee6c", 
+"layer_id_s": "ae4d1373-49a5-4432-b9c0-78260179ee6c", 
 "georss_box_s": "46.105965 -96.284521 46.719006 -95.139461", 
 "dc_title_s": "Townships: Otter Tail County, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-ae4d1373-49a5-4432-b9c0-78260179ee6c"
+"layer_slug_s": "ae4d1373-49a5-4432-b9c0-78260179ee6c", 
+"dct_isPartOf_sm": "Otter Tail County GIS Data"
 }

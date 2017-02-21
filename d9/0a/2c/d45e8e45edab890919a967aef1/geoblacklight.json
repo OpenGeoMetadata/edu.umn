@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:24Z", 
+"layer_modified_dt": "2017-01-20T18:41:00Z", 
 "solr_geom": "ENVELOPE(-97.5, -89, 49.5, 43)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-naip-2006-airphotos\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-naip-2006-airphotos\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/d9/0a/2c/d45e8e45edab890919a967aef1/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-d90a2cd4-5e8e-45ed-ab89-0919a967aef1", 
+"uuid": "d90a2cd4-5e8e-45ed-ab89-0919a967aef1", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Imagery and Base Maps"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "U.S. Department of Agriculture, Farm Service Agency, Aerial Photography Field Office"
 ], 
-"dc_identifier_s": "urn-d90a2cd4-5e8e-45ed-ab89-0919a967aef1", 
-"dc_relation_sm": [
-"For information on other air photos available for Minnesota, including other years of NAIP imagery, see  http://www.lmic.state.mn.us/chouse/airphoto/index.html"
-], 
+"dc_identifier_s": "d90a2cd4-5e8e-45ed-ab89-0919a967aef1", 
 "georss_polygon_s": "43 -97.5 49.5 -97.5 49.5 -89 43 -89 43 -97.5", 
 "solr_year_i": 2006, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "U.S. Department of Agriculture"
 ], 
-"layer_id_s": "urn:urn-d90a2cd4-5e8e-45ed-ab89-0919a967aef1", 
+"layer_id_s": "d90a2cd4-5e8e-45ed-ab89-0919a967aef1", 
 "georss_box_s": "43 -97.5 49.5 -89", 
 "dc_title_s": "National Agricultural Imagery Program (NAIP), Geo-rectified Images: Minnesota, 2006", 
-"layer_slug_s": "Minnesota-urn-d90a2cd4-5e8e-45ed-ab89-0919a967aef1"
+"layer_slug_s": "d90a2cd4-5e8e-45ed-ab89-0919a967aef1", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

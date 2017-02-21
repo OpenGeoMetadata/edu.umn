@@ -1,15 +1,15 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:20Z", 
+"layer_modified_dt": "2017-01-20T18:39:36Z", 
 "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-society-census1990population\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/society_census1990population/shp_society_census1990population.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/society_census1990population/shp_society_census1990population.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-society-census1990population\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/fd/a7/12/32a68946c3a5fba98c3d49ef92/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-fda71232-a689-46c3-a5fb-a98c3d49ef92", 
+"uuid": "fda71232-a689-46c3-a5fb-a98c3d49ef92", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Society", 
-"human population", 
-"census survey"
+"Census survey", 
+"Human population"
 ], 
 "dct_temporal_sm": "1990", 
 "dc_description_s": "Decennial Census 1990 includes tabulations of housing units, total population and adult population by race and Hispanicity. Geographies nationwide can be obtained from Census, with disaggregate geographic detail down to Block-level. Metropolitan Council is publishing files for 1990 Blocks, Block Groups and Tracts.", 
@@ -18,21 +18,19 @@
 "dc_creator_sm": [
 "U.S. Census Bureau"
 ], 
-"dc_identifier_s": "urn-fda71232-a689-46c3-a5fb-a98c3d49ef92", 
-"dc_relation_sm": [
-"Census Geography 1990 - Tiger, Census Geography 1990 - TLG Aligned"
-], 
+"dc_identifier_s": "fda71232-a689-46c3-a5fb-a98c3d49ef92", 
 "georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
-"solr_year_i": 1992, 
+"solr_year_i": 1990, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-fda71232-a689-46c3-a5fb-a98c3d49ef92", 
+"layer_id_s": "fda71232-a689-46c3-a5fb-a98c3d49ef92", 
 "georss_box_s": "43.5 -97.23 49.37 -89.53", 
 "dc_title_s": "Decennial Census 1990, Blocks, Block Groups, and Tracts: Twin Cities Metro", 
-"layer_slug_s": "Minnesota-urn-fda71232-a689-46c3-a5fb-a98c3d49ef92"
+"layer_slug_s": "fda71232-a689-46c3-a5fb-a98c3d49ef92", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:15Z", 
+"layer_modified_dt": "2017-01-20T18:40:49Z", 
 "solr_geom": "ENVELOPE(-93.33, -92.73, 44.93, 44.47)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-dakota-2013-airphotos\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-dakota-2013-airphotos\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/6b/d6/63/6b44544818a00560529b9083d2/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-6bd6636b-4454-4818-a005-60529b9083d2", 
+"uuid": "6bd6636b-4454-4818-a005-60529b9083d2", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Imagery and Base Maps"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Dakota County, Minnesota"
 ], 
-"dc_identifier_s": "urn-6bd6636b-4454-4818-a005-60529b9083d2", 
-"dc_relation_sm": [
-"For information on other air photos available for Minnesota, see http://www.mngeo.state.mn.us/chouse/airphoto/index.html"
-], 
+"dc_identifier_s": "6bd6636b-4454-4818-a005-60529b9083d2", 
 "georss_polygon_s": "44.47 -93.33 44.93 -93.33 44.93 -92.73 44.47 -92.73 44.47 -93.33", 
 "solr_year_i": 2013, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Dakota County, Minnesota"
+"Minnesota, United States", 
+"Dakota County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Geospatial Information Office (MnGeo)"
 ], 
-"layer_id_s": "urn:urn-6bd6636b-4454-4818-a005-60529b9083d2", 
+"layer_id_s": "6bd6636b-4454-4818-a005-60529b9083d2", 
 "georss_box_s": "44.47 -93.33 44.93 -92.73", 
 "dc_title_s": "High Resolution Orthoimagery: Dakota County, Minnesota, Spring 2013", 
-"layer_slug_s": "Minnesota-urn-6bd6636b-4454-4818-a005-60529b9083d2"
+"layer_slug_s": "6bd6636b-4454-4818-a005-60529b9083d2", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

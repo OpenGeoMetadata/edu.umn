@@ -1,33 +1,34 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:14Z", 
+"layer_modified_dt": "2017-01-20T18:39:29Z", 
 "solr_geom": "ENVELOPE(-96.723837, -92.452463, 46.059798, 43.56873)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-water-surf-grndwtr-vulninteractn\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/water_surf_grndwtr_vulninteractn/shp_water_surf_grndwtr_vulninteractn.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/water_surf_grndwtr_vulninteractn/shp_water_surf_grndwtr_vulninteractn.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-water-surf-grndwtr-vulninteractn\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/e5/18/cf/0eda63461fa4ada0a2b9036775/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-e518cf0e-da63-461f-a4ad-a0a2b9036775", 
+"uuid": "e518cf0e-da63-461f-a4ad-a0a2b9036775", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Inland Waters"
 ], 
-"dct_temporal_sm": "2008", 
+"dct_temporal_sm": "2010", 
 "dc_description_s": "These data represent surface water features, derived from the Minnesota DNR's Public Waters Inventory and the US Fish and Wildlife Services' National Wetlands Inventory. 1. PWI basins were intersected with NWI wetlands - the area of each unique wetland type within each basin was calculated. Each basin was then assigned that wetland type which covered the greatest proportion of its extent. 2. Approximate depths were assigned to all wetland types present in the study area. The data were saved in tabular form, and joined to the basins feature class by wetland type - thus an approximate depth was derived for each basin. 3. The basin extents were clipped from the wetlands feature class - wetland fragments less than 60 square meters were then removed, as the basin and wetland edges weren't perfectly coincident, and polygon slivers remained after the clip. 4. The depth table was joined to the wetlands by wetland type, and each wetland was assigned an approximate depth. Adjacent wetlands of the same depth were then dissolved together. 5. Basins and wetlands were merged into a single feature class. An ID was assigned to each wetland, based on the county in which the greatest proportion of the wetland is found.", 
 "dct_issued_s": "2010-06-01", 
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Barr Engineering Company"
 ], 
-"dc_identifier_s": "urn-e518cf0e-da63-461f-a4ad-a0a2b9036775", 
+"dc_identifier_s": "e518cf0e-da63-461f-a4ad-a0a2b9036775", 
 "georss_polygon_s": "43.56873 -96.723837 46.059798 -96.723837 46.059798 -92.452463 43.56873 -92.452463 43.56873 -96.723837", 
 "solr_year_i": 2010, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-e518cf0e-da63-461f-a4ad-a0a2b9036775", 
+"layer_id_s": "e518cf0e-da63-461f-a4ad-a0a2b9036775", 
 "georss_box_s": "43.56873 -96.723837 46.059798 -92.452463", 
 "dc_title_s": "Vulnerability of Surface-Water Features to Groundwater Pumping: Twin Cities Metro, Minnesota, 2010", 
-"layer_slug_s": "Minnesota-urn-e518cf0e-da63-461f-a4ad-a0a2b9036775"
+"layer_slug_s": "e518cf0e-da63-461f-a4ad-a0a2b9036775", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

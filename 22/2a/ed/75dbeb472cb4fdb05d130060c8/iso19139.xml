@@ -61,7 +61,7 @@
       </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-08-17T17:03:07</gco:DateTime>
+      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2017-01-20T18:38:41</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
       <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -69,7 +69,6 @@
     <gmd:metadataStandardVersion>
       <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2:2009(E)</gco:CharacterString>
     </gmd:metadataStandardVersion>
-    <gmd:spatialRepresentationInfo/>
     <gmd:referenceSystemInfo>
       <gmd:MD_ReferenceSystem>
         <gmd:referenceSystemIdentifier>
@@ -130,26 +129,17 @@
                 <gmd:organisationName>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">U.S. Department of Agriculture</gco:CharacterString>
                 </gmd:organisationName>
-                <gmd:contactInfo>
-                  <gmd:CI_Contact>
-                    <gmd:address>
-                      <gmd:CI_Address>
-                        <gmd:city xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
-                          <gco:CharacterString/>
-                        </gmd:city>
-                        <gmd:administrativeArea xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
-                          <gco:CharacterString/>
-                        </gmd:administrativeArea>
-                      </gmd:CI_Address>
-                    </gmd:address>
-                  </gmd:CI_Contact>
-                </gmd:contactInfo>
                 <gmd:role>
                   <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="010"/>
                 </gmd:role>
               </gmd:CI_ResponsibleParty>
             </gmd:citedResponsibleParty>
-            <gmd:presentationForm/>
+            <gmd:otherCitationDetails>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Mixed</gco:CharacterString>
+            </gmd:otherCitationDetails>
+            <gmd:collectiveTitle>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Geospatial Commons</gco:CharacterString>
+            </gmd:collectiveTitle>
           </gmd:CI_Citation>
         </gmd:citation>
         <gmd:abstract>
@@ -222,12 +212,6 @@
             <gmd:fileName>
               <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ftp://ftp.lmic.state.mn.us/pub/data/phys_biol/soils/ssurgo.gif</gco:CharacterString>
             </gmd:fileName>
-            <gmd:fileDescription xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
-              <gco:CharacterString/>
-            </gmd:fileDescription>
-            <gmd:fileType xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
-              <gco:CharacterString/>
-            </gmd:fileType>
           </gmd:MD_BrowseGraphic>
         </gmd:graphicOverview>
         <gmd:resourceConstraints>
@@ -252,15 +236,11 @@
                 </gmd:title>
                 <gmd:date>
                   <gmd:CI_Date>
-                    <gmd:date>
-                      <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco"/>
-                    </gmd:date>
                     <gmd:dateType>
                       <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
                     </gmd:dateType>
                   </gmd:CI_Date>
                 </gmd:date>
-                <gmd:otherCitationDetails/>
               </gmd:CI_Citation>
             </gmd:aggregateDataSetName>
             <gmd:associationType>
@@ -298,11 +278,11 @@
                 </gmd:northBoundLatitude>
               </gmd:EX_GeographicBoundingBox>
             </gmd:geographicElement>
-            <gmd:temporalElement xmlns:gn="http://www.fao.org/geonetwork" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <gmd:temporalElement>
               <gmd:EX_TemporalExtent>
                 <gmd:extent>
-                  <gml:TimePeriod gml:id="d359673e341a1052958">
-                    <gml:beginPosition/>
+                  <gml:TimePeriod xmlns:gml="http://www.opengis.net/gml">
+                    <gml:endPosition>2015</gml:endPosition>
                   </gml:TimePeriod>
                 </gmd:extent>
               </gmd:EX_TemporalExtent>
@@ -313,6 +293,16 @@
           <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Most counties within Minnesota; see status maps: http://websoilsurvey.nrcs.usda.gov/DataAvailability/SoilDataAvailabilityMap.pdf 
 and http://www.bwsr.state.mn.us/soils/SSURGO_Status_MN2014.pdf</gco:CharacterString>
         </gmd:supplementalInformation>
+        <gmd:descriptiveKeywords>
+          <gmd:MD_Keywords>
+            <gmd:type>
+              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="place"/>
+            </gmd:type>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota, United States</gco:CharacterString>
+            </gmd:keyword>
+          </gmd:MD_Keywords>
+        </gmd:descriptiveKeywords>
       </gmd:MD_DataIdentification>
     </gmd:identificationInfo>
     <gmd:contentInfo>
@@ -320,7 +310,6 @@ and http://www.bwsr.state.mn.us/soils/SSURGO_Status_MN2014.pdf</gco:CharacterStr
         <gmd:includedWithDataset>
           <gco:Boolean xmlns:gco="http://www.isotc211.org/2005/gco">false</gco:Boolean>
         </gmd:includedWithDataset>
-        <gmd:featureCatalogueCitation/>
       </gmd:MD_FeatureCatalogueDescription>
     </gmd:contentInfo>
     <gmd:distributionInfo>
@@ -377,9 +366,6 @@ and http://www.bwsr.state.mn.us/soils/SSURGO_Status_MN2014.pdf</gco:CharacterStr
             </gmd:distributorContact>
             <gmd:distributionOrderProcess>
               <gmd:MD_StandardOrderProcess>
-                <gmd:fees xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
-                  <gco:CharacterString/>
-                </gmd:fees>
                 <gmd:orderingInstructions>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Ordering Instructions: Click on 'Online Linkage' field below to get to an NRCS webpage detailing the options for free download and for CD purchase. See NRCS's readme.txt file that accompanies the download for help with importing the tabular data into a SSURGO template database.</gco:CharacterString>
                 </gmd:orderingInstructions>
@@ -411,7 +397,6 @@ and http://www.bwsr.state.mn.us/soils/SSURGO_Status_MN2014.pdf</gco:CharacterStr
             <gmd:nameOfMeasure>
               <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Horizontal Positional Accuracy</gco:CharacterString>
             </gmd:nameOfMeasure>
-            <gmd:measureDescription/>
             <gmd:evaluationMethodDescription>
               <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">The accuracy of these digital data is based upon their compilation to base maps that meet National Map Accuracy Standards. The difference in positional accuracy between the soil boundaries and special soil features locations in the field and their digitized map locations is unknown. The locational accuracy of soil delineations on the ground varies with the transition between map units. For example, on long gently sloping landscapes the transition occurs gradually over many feet. Where landscapes change abruptly from steep to level, the transition will be very narrow. Soil delineation boundaries and special soil features generally were digitized within 0.01 inch of their locations on the digitizing source. The digital map elements are edge matched between data sets. The data along each quadrangle edge are matched against the data for the adjacent quadrangle. Edge locations generally do not deviate from centerline to centerline by more than 0.01 inch.</gco:CharacterString>
             </gmd:evaluationMethodDescription>
@@ -423,7 +408,6 @@ and http://www.bwsr.state.mn.us/soils/SSURGO_Status_MN2014.pdf</gco:CharacterStr
                     <gml:unitsSystem xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.bipm.org/en/si/"/>
                   </gml:BaseUnit>
                 </gmd:valueUnit>
-                <gmd:value/>
               </gmd:DQ_QuantitativeResult>
             </gmd:result>
           </gmd:DQ_AbsoluteExternalPositionalAccuracy>
@@ -433,7 +417,6 @@ and http://www.bwsr.state.mn.us/soils/SSURGO_Status_MN2014.pdf</gco:CharacterStr
             <gmd:nameOfMeasure>
               <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Vertical Positional Accuracy</gco:CharacterString>
             </gmd:nameOfMeasure>
-            <gmd:measureDescription/>
             <gmd:evaluationMethodDescription>
               <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Not applicable</gco:CharacterString>
             </gmd:evaluationMethodDescription>
@@ -445,7 +428,6 @@ and http://www.bwsr.state.mn.us/soils/SSURGO_Status_MN2014.pdf</gco:CharacterStr
                     <gml:unitsSystem xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.bipm.org/en/si/"/>
                   </gml:BaseUnit>
                 </gmd:valueUnit>
-                <gmd:value/>
               </gmd:DQ_QuantitativeResult>
             </gmd:result>
           </gmd:DQ_AbsoluteExternalPositionalAccuracy>
@@ -486,7 +468,6 @@ and http://www.bwsr.state.mn.us/soils/SSURGO_Status_MN2014.pdf</gco:CharacterStr
                 <gmd:description>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">See the sources and process steps in the metadata provided by NRCS for each county, as well as information provided on their SSURGO information webpage:  http://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/survey/geo/?cid=nrcs142p2_053627</gco:CharacterString>
                 </gmd:description>
-                <gmd:dateTime/>
               </gmd:LI_ProcessStep>
             </gmd:processStep>
           </gmd:LI_Lineage>

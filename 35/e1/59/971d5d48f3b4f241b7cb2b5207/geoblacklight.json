@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:10Z", 
+"layer_modified_dt": "2017-01-20T18:39:24Z", 
 "solr_geom": "ENVELOPE(-97.5, -89, 49.5, 43)", 
-"dct_references_s": "{\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.mda.state.mn.us/arcgis/rest/services/MN_Agriculture_AgChem/MapServer/3\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-agchem-incidents\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mda/env_agchem_incidents/shp_env_agchem_incidents.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mda/env_agchem_incidents/shp_env_agchem_incidents.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-agchem-incidents\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/35/e1/59/971d5d48f3b4f241b7cb2b5207/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://app.gisdata.mn.gov/arcgis/rest/services/MDA_Basemap/MDA_Basemap/MapServer\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-35e15997-1d5d-48f3-b4f2-41b7cb2b5207", 
+"uuid": "35e15997-1d5d-48f3-b4f2-41b7cb2b5207", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Environment"
@@ -16,17 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Agriculture - Incident Response Unit"
 ], 
-"dc_identifier_s": "urn-35e15997-1d5d-48f3-b4f2-41b7cb2b5207", 
+"dc_identifier_s": "35e15997-1d5d-48f3-b4f2-41b7cb2b5207", 
 "georss_polygon_s": "43 -97.5 49.5 -97.5 49.5 -89 43 -89 43 -97.5", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Agriculture"
 ], 
-"layer_id_s": "urn:urn-35e15997-1d5d-48f3-b4f2-41b7cb2b5207", 
+"layer_id_s": "35e15997-1d5d-48f3-b4f2-41b7cb2b5207", 
 "georss_box_s": "43 -97.5 49.5 -89", 
 "dc_title_s": "Agricultural Chemical Incidents: Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-35e15997-1d5d-48f3-b4f2-41b7cb2b5207"
+"layer_slug_s": "35e15997-1d5d-48f3-b4f2-41b7cb2b5207", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

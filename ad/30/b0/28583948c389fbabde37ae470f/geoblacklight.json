@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:27Z", 
+"layer_modified_dt": "2017-01-20T18:39:46Z", 
 "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-natural-area-registry\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_natural_area_registry/shp_bdry_natural_area_registry.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_natural_area_registry/shp_bdry_natural_area_registry.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-natural-area-registry\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/ad/30/b0/28583948c389fbabde37ae470f/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-ad30b028-5839-48c3-89fb-abde37ae470f", 
+"uuid": "ad30b028-5839-48c3-89fb-abde37ae470f", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Boundaries"
@@ -16,17 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR) - Division of Ecological and Water Resources, Scientific & Natural Areas (SNA) Program"
 ], 
-"dc_identifier_s": "urn-ad30b028-5839-48c3-89fb-abde37ae470f", 
+"dc_identifier_s": "ad30b028-5839-48c3-89fb-abde37ae470f", 
 "georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-ad30b028-5839-48c3-89fb-abde37ae470f", 
+"layer_id_s": "ad30b028-5839-48c3-89fb-abde37ae470f", 
 "georss_box_s": "43.5 -97.23 49.37 -89.53", 
 "dc_title_s": "Natural Area Registry: Minnesota, 2014", 
-"layer_slug_s": "Minnesota-urn-ad30b028-5839-48c3-89fb-abde37ae470f"
+"layer_slug_s": "ad30b028-5839-48c3-89fb-abde37ae470f", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

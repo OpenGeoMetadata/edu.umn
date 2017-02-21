@@ -1,10 +1,10 @@
 {
-"layer_geom_type_s": "Raster", 
-"layer_modified_dt": "2016-06-29T09:58:42Z", 
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2017-01-20T18:38:45Z", 
 "solr_geom": "ENVELOPE(-96.86813, -89.353303, 49.371082, 43.407737)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/biota-landcover-gap\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_landcover_gap/fgdb_biota_landcover_gap.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_landcover_gap/fgdb_biota_landcover_gap.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/biota-landcover-gap\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/38/c5/04/53f828443dbaa00d0e1e723de8/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-38c50453-f828-443d-baa0-0d0e1e723de8", 
+"uuid": "38c50453-f828-443d-baa0-0d0e1e723de8", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Biota"
@@ -16,17 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR) - Division of Forestry"
 ], 
-"dc_identifier_s": "urn-38c50453-f828-443d-baa0-0d0e1e723de8", 
+"dc_identifier_s": "38c50453-f828-443d-baa0-0d0e1e723de8", 
 "georss_polygon_s": "43.407737 -96.86813 49.371082 -96.86813 49.371082 -89.353303 43.407737 -89.353303 43.407737 -96.86813", 
 "solr_year_i": 1995, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-38c50453-f828-443d-baa0-0d0e1e723de8", 
+"layer_id_s": "38c50453-f828-443d-baa0-0d0e1e723de8", 
 "georss_box_s": "43.407737 -96.86813 49.371082 -89.353303", 
 "dc_title_s": "GAP Land Cover: Minnesota, 1995-2000", 
-"layer_slug_s": "Minnesota-urn-38c50453-f828-443d-baa0-0d0e1e723de8"
+"layer_slug_s": "38c50453-f828-443d-baa0-0d0e1e723de8", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

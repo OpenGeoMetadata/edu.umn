@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Point", 
-"layer_modified_dt": "2016-09-28T10:51:56Z", 
+"layer_modified_dt": "2016-12-30T13:41:48Z", 
 "solr_geom": "ENVELOPE(-93.329032, -93.199183, 45.051108, 44.890638)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/ca1bb83c4b104ac09a20e81479c23410_0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/ca1bb83c4b104ac09a20e81479c23410_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/ParcelLandCharacteristics/FeatureServer/0\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.arcgis.com/datasets/b8db843ed5a0416fab97c92dee150aa4_0.zip\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/assessor-land-characteristics-2016\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/80/6e/0e/5d4cdc470990e2b521cea8d8bd/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/LandCharacteristics/FeatureServer/0/\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-806e0e5d-4cdc-4709-90e2-b521cea8d8bd", 
+"uuid": "806e0e5d-4cdc-4709-90e2-b521cea8d8bd", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Economy"
@@ -17,18 +17,19 @@
 "City of Minneapolis"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-806e0e5d-4cdc-4709-90e2-b521cea8d8bd", 
+"dc_identifier_s": "806e0e5d-4cdc-4709-90e2-b521cea8d8bd", 
 "georss_polygon_s": "44.890638 -93.329032 45.051108 -93.329032 45.051108 -93.199183 44.890638 -93.199183 44.890638 -93.329032", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minneapolis, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "City of Minneapolis"
 ], 
-"layer_id_s": "urn:urn-806e0e5d-4cdc-4709-90e2-b521cea8d8bd", 
+"layer_id_s": "806e0e5d-4cdc-4709-90e2-b521cea8d8bd", 
 "georss_box_s": "44.890638 -93.329032 45.051108 -93.199183", 
 "dc_title_s": "Assessor Land Characteristics: Minneapolis, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-806e0e5d-4cdc-4709-90e2-b521cea8d8bd"
+"layer_slug_s": "806e0e5d-4cdc-4709-90e2-b521cea8d8bd", 
+"dct_isPartOf_sm": "Minneapolis Open Data"
 }

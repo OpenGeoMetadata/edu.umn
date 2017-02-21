@@ -1,14 +1,14 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:53Z", 
+"layer_modified_dt": "2017-01-20T18:40:21Z", 
 "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-society-census-econchar-trct2000\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/society_census_econchar_trct2000/shp_society_census_econchar_trct2000.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/society_census_econchar_trct2000/shp_society_census_econchar_trct2000.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-society-census-econchar-trct2000\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/8e/1f/87/e3ea1944f2bf8c598b248d0174/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-8e1f87e3-ea19-44f2-bf8c-598b248d0174", 
+"uuid": "8e1f87e3-ea19-44f2-bf8c-598b248d0174", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Society", 
-"society"
+"Society"
 ], 
 "dct_temporal_sm": "2000", 
 "dc_description_s": "Summary File 3 Data Profile 3 (SF3 Table DP-3) for Minneapolis-St. Paul 7 County metropolitan area is a subset of the profile of selected economic characteristics for 2000 prepared by the U. S. Census Bureau. This table (DP-3) includes: Employment Status, Commuting to Work, Occupation, Industry, Class of Worker, Income in 1999, Median earnings, Number Below Poverty Level, Poverty Status in 1999, For Whom Poverty Status is Determined US Census 2000 Demographic Profiles: 100-percent and Sample Data The profile includes four tables (DP-1 thru DP-4) that provide various demographic, social, economic, and housing characteristics for the United States, states, counties, minor civil divisions in selected states, places, metropolitan areas, American Indian and Alaska Native areas, Hawaiian home lands and congressional districts (106th Congress). It includes 100-percent and sample data from Census 2000. The DP-1 table is available as part of the Summary File 1 (SF 1) dataset, and the other three tables are available as part of the Summary File 3 (SF 3) dataset. The US Census provides DP-1 thru DP-4 data at the Census tract level through their DataFinder search engine. However, since the Metropolitan Council and MetroGIS participants are interested in all Census tracts within the seven county metropolitan area, it was quicker to take the raw Census SF-1 and SF-3 data at tract levels and recreate the DP1-4 variables using the appropriate formula for each DP variable. This file lists the formulas used to create the DP variables.", 
@@ -17,21 +17,19 @@
 "dc_creator_sm": [
 "Metropolitan Council and the U.S. Census Bureau"
 ], 
-"dc_identifier_s": "urn-8e1f87e3-ea19-44f2-bf8c-598b248d0174", 
-"dc_relation_sm": [
-"Census Geography 2000 -TIGER Tracts, Census Geography 2000 - TLG Aligned Tracts"
-], 
+"dc_identifier_s": "8e1f87e3-ea19-44f2-bf8c-598b248d0174", 
 "georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
-"solr_year_i": 2003, 
+"solr_year_i": 2000, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-8e1f87e3-ea19-44f2-bf8c-598b248d0174", 
+"layer_id_s": "8e1f87e3-ea19-44f2-bf8c-598b248d0174", 
 "georss_box_s": "43.5 -97.23 49.37 -89.53", 
 "dc_title_s": "Profile of Selected Economic Characteristics for Census Tracts: Twin Cities Metro, 2000", 
-"layer_slug_s": "Minnesota-urn-8e1f87e3-ea19-44f2-bf8c-598b248d0174"
+"layer_slug_s": "8e1f87e3-ea19-44f2-bf8c-598b248d0174", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

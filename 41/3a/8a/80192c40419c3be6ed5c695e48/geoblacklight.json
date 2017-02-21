@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:58:46Z", 
+"layer_modified_dt": "2017-01-20T18:38:51Z", 
 "solr_geom": "ENVELOPE(-96, -91.2, 46.7, 43.4)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-karst-feature-inventory-pts\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/geos_karst_feature_inventory_pts/shp_geos_karst_feature_inventory_pts.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/geos_karst_feature_inventory_pts/shp_geos_karst_feature_inventory_pts.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-karst-feature-inventory-pts\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/41/3a/8a/80192c40419c3be6ed5c695e48/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-413a8a80-192c-4041-9c3b-e6ed5c695e48", 
+"uuid": "413a8a80-192c-4041-9c3b-e6ed5c695e48", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Geoscientific Information"
@@ -16,17 +16,18 @@
 "dc_creator_sm": [
 "University of Minnesota, Department of Geology and Geophysics; Minnesota Department of Natural Resources (DNR), Ecological and Water Resources Division"
 ], 
-"dc_identifier_s": "urn-413a8a80-192c-4041-9c3b-e6ed5c695e48", 
+"dc_identifier_s": "413a8a80-192c-4041-9c3b-e6ed5c695e48", 
 "georss_polygon_s": "43.4 -96 46.7 -96 46.7 -91.2 43.4 -91.2 43.4 -96", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-413a8a80-192c-4041-9c3b-e6ed5c695e48", 
+"layer_id_s": "413a8a80-192c-4041-9c3b-e6ed5c695e48", 
 "georss_box_s": "43.4 -96 46.7 -91.2", 
 "dc_title_s": "Karst Feature Inventory Points: Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-413a8a80-192c-4041-9c3b-e6ed5c695e48"
+"layer_slug_s": "413a8a80-192c-4041-9c3b-e6ed5c695e48", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

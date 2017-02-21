@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:51Z", 
+"layer_modified_dt": "2017-01-20T18:40:18Z", 
 "solr_geom": "ENVELOPE(-94.5, -94.01, 44.99, 44.62)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-mcleod-2014-airphotos\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-mcleod-2014-airphotos\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/f4/9a/84/2f8c6d436f950f6a3172aba006/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-f49a842f-8c6d-436f-950f-6a3172aba006", 
+"uuid": "f49a842f-8c6d-436f-950f-6a3172aba006", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Imagery and Base Maps"
@@ -16,22 +16,20 @@
 "dc_creator_sm": [
 "McLeod County; Quantum Spatial, Inc."
 ], 
-"dc_identifier_s": "urn-f49a842f-8c6d-436f-950f-6a3172aba006", 
-"dc_relation_sm": [
-"For information on other air photos available for Minnesota, see: http://www.mngeo.state.mn.us/chouse/airphoto/"
-], 
+"dc_identifier_s": "f49a842f-8c6d-436f-950f-6a3172aba006", 
 "georss_polygon_s": "44.62 -94.5 44.99 -94.5 44.99 -94.01 44.62 -94.01 44.62 -94.5", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Minnesota, MN, McLeod", 
-"Minnesota", 
-"McLeod County, Minnesota"
+"Minnesota, United States, MN, McLeod", 
+"Minnesota, United States", 
+"McLeod County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Geospatial Information Office (MnGeo)"
 ], 
-"layer_id_s": "urn:urn-f49a842f-8c6d-436f-950f-6a3172aba006", 
+"layer_id_s": "f49a842f-8c6d-436f-950f-6a3172aba006", 
 "georss_box_s": "44.62 -94.5 44.99 -94.01", 
 "dc_title_s": "Digital Orthoimagery, McLeod County, Minnesota, Spring 2014", 
-"layer_slug_s": "Minnesota-urn-f49a842f-8c6d-436f-950f-6a3172aba006"
+"layer_slug_s": "f49a842f-8c6d-436f-950f-6a3172aba006", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

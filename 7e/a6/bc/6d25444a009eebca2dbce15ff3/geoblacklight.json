@@ -1,15 +1,15 @@
 {
-"layer_geom_type_s": "Raster", 
-"layer_modified_dt": "2016-06-29T09:58:58Z", 
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2017-01-20T18:39:07Z", 
 "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-water-ave-anual-gwtr-recharge\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/water_ave_anual_gwtr_recharge/fgdb_water_ave_anual_gwtr_recharge.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/water_ave_anual_gwtr_recharge/fgdb_water_ave_anual_gwtr_recharge.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-water-ave-anual-gwtr-recharge\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/7e/a6/bc/6d25444a009eebca2dbce15ff3/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-7ea6bc6d-2544-4a00-9eeb-ca2dbce15ff3", 
+"uuid": "7ea6bc6d-2544-4a00-9eeb-ca2dbce15ff3", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Inland Waters", 
-"model", 
-"groundwater"
+"Model", 
+"Groundwater"
 ], 
 "dct_temporal_sm": "2009", 
 "dc_description_s": "This dataset contains long-term average (1975-2003) annual recharge estimates for the seven-county Twin Cities metropolitan area. Values are in inches per year. Recharge was estimated using a daily soil-water balance (SWB) model developed by the Wisconsin Geological and Natural History Survey in conjuction with a regional groundwater flow model developed for the Twin Cities metropolitan area. This dataset was developed by Barr Engineering Company for the Metropolitan Council to support the development of the Twin Cities metropolitan area regional groundwater flow model (Metro Model 2). More information about this process is provided in the 2009 Metropolitan Council report 'Twin Cities Metropolitan Area Regional Groundwater Flow Model Version 2.00 - Technical Report in Support of the Metropolitan Area Master Water Supply Plan', which is available online at www.metrocouncil.org/environment/WaterSupply/metrogroundwatermodeldatasets.htm.", 
@@ -18,21 +18,19 @@
 "dc_creator_sm": [
 "Barr Engineering Company"
 ], 
-"dc_identifier_s": "urn-7ea6bc6d-2544-4a00-9eeb-ca2dbce15ff3", 
-"dc_relation_sm": [
-"Daily precipitation and maximum, minimum, and average daily air temperature collected by the US National Weather Service for the Downtown St. Paul Holman Field Airport station for the period January 1, 1975 - December 31, 2003.GIS mapping of land cover from the United States Geological Survey (NLCD 2001)Soil data from the Natural Resources Conservation Service Soil Survey Geographic Database (SSURGO)Soil data from the Minnesota State Soil Atlas1968 soil data in Wisconsin compiled by the Wisconsin Department of Natural Resources, the US Geological Survey, the Wisconsin Geological and Natural History Survey and the University of Wisconsin in 1987.US Geological survey 30 meter square digital elevation models"
-], 
+"dc_identifier_s": "7ea6bc6d-2544-4a00-9eeb-ca2dbce15ff3", 
 "georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
 "solr_year_i": 2009, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-7ea6bc6d-2544-4a00-9eeb-ca2dbce15ff3", 
+"layer_id_s": "7ea6bc6d-2544-4a00-9eeb-ca2dbce15ff3", 
 "georss_box_s": "44.471 -94.012 45.415 -92.732", 
 "dc_title_s": "Average Annual Groundwater Recharge: Twin Cities Metro, Minnesota, 2009", 
-"layer_slug_s": "Minnesota-urn-7ea6bc6d-2544-4a00-9eeb-ca2dbce15ff3"
+"layer_slug_s": "7ea6bc6d-2544-4a00-9eeb-ca2dbce15ff3", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

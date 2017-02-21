@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-09-26T11:33:21Z", 
+"layer_modified_dt": "2016-12-30T13:42:02Z", 
 "solr_geom": "ENVELOPE(-93.3291083714495, -93.1943285193941, 45.0512462602368, 44.8905885083142)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/e009a98508a949f39556086fbddff561_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Building_Inspection_Boundaries/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/e009a98508a949f39556086fbddff561_0.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/e009a98508a949f39556086fbddff561_0.zip\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/e009a98508a949f39556086fbddff561_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/41/a8/ba/199b644e16ae511e6873c1ca3f/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Building_Inspection_Boundaries/FeatureServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-41a8ba19-9b64-4e16-ae51-1e6873c1ca3f", 
+"uuid": "41a8ba19-9b64-4e16-ae51-1e6873c1ca3f", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Boundaries"
@@ -17,18 +17,19 @@
 "City of Minneapolis"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-41a8ba19-9b64-4e16-ae51-1e6873c1ca3f", 
+"dc_identifier_s": "41a8ba19-9b64-4e16-ae51-1e6873c1ca3f", 
 "georss_polygon_s": "44.8905885083142 -93.3291083714495 45.0512462602368 -93.3291083714495 45.0512462602368 -93.1943285193941 44.8905885083142 -93.1943285193941 44.8905885083142 -93.3291083714495", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minneapolis, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "City of Minneapolis"
 ], 
-"layer_id_s": "urn:urn-41a8ba19-9b64-4e16-ae51-1e6873c1ca3f", 
+"layer_id_s": "41a8ba19-9b64-4e16-ae51-1e6873c1ca3f", 
 "georss_box_s": "44.8905885083142 -93.3291083714495 45.0512462602368 -93.1943285193941", 
 "dc_title_s": "Building Inspection Districts: Minneapolis, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-41a8ba19-9b64-4e16-ae51-1e6873c1ca3f"
+"layer_slug_s": "41a8ba19-9b64-4e16-ae51-1e6873c1ca3f", 
+"dct_isPartOf_sm": "Minneapolis Open Data"
 }

@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:46Z", 
+"layer_modified_dt": "2017-01-20T18:40:11Z", 
 "solr_geom": "ENVELOPE(-97.25, -89.48, 49.4, 43.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/loc-geodetic\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/loc-geodetic\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/ac/6a/af/fdbb8f418b995b0c107dfe703a/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-ac6aaffd-bb8f-418b-995b-0c107dfe703a", 
+"uuid": "ac6aaffd-bb8f-418b-995b-0c107dfe703a", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Location"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Transportation (Mn/DOT)"
 ], 
-"dc_identifier_s": "urn-ac6aaffd-bb8f-418b-995b-0c107dfe703a", 
-"dc_relation_sm": [
-"Minnesota Public Land Survey System Control Point Inventory"
-], 
+"dc_identifier_s": "ac6aaffd-bb8f-418b-995b-0c107dfe703a", 
 "georss_polygon_s": "43.5 -97.25 49.4 -97.25 49.4 -89.48 43.5 -89.48 43.5 -97.25", 
 "solr_year_i": 1998, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Transportation"
 ], 
-"layer_id_s": "urn:urn-ac6aaffd-bb8f-418b-995b-0c107dfe703a", 
+"layer_id_s": "ac6aaffd-bb8f-418b-995b-0c107dfe703a", 
 "georss_box_s": "43.5 -97.25 49.4 -89.48", 
 "dc_title_s": "Geodetic Database: Minnesota", 
-"layer_slug_s": "Minnesota-urn-ac6aaffd-bb8f-418b-995b-0c107dfe703a"
+"layer_slug_s": "ac6aaffd-bb8f-418b-995b-0c107dfe703a", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

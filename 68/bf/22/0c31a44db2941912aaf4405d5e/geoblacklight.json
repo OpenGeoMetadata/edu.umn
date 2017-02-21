@@ -1,27 +1,26 @@
 {
+"dct_temporal_sm": "1996", 
+"dc_rights_s": "Public", 
 "solr_year_i": 1996, 
-"uuid": "urn-68bf220c-31a4-4db2-9419-12aaf4405d5e", 
+"uuid": "68bf220c-31a4-4db2-9419-12aaf4405d5e", 
 "layer_geom_type_s": "Raster", 
 "georss_box_s": "46.731924 -96.766047 46.884796 -96.608519", 
-"layer_modified_dt": "2016-11-29T13:46:19Z", 
-"layer_id_s": "urn:urn-68bf220c-31a4-4db2-9419-12aaf4405d5e", 
+"layer_modified_dt": "2016-12-30T13:42:25Z", 
+"layer_id_s": "68bf220c-31a4-4db2-9419-12aaf4405d5e", 
 "georss_polygon_s": "46.731924 -96.766047 46.884796 -96.766047 46.884796 -96.608519 46.731924 -96.608519 46.731924 -96.766047", 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-68bf220c-31a4-4db2-9419-12aaf4405d5e", 
+"dc_identifier_s": "68bf220c-31a4-4db2-9419-12aaf4405d5e", 
 "dct_provenance_s": "Minnesota", 
-"dc_title_s": "USGS Survey Map O46096G6: Clay County, Minnesota, 1996", 
-"layer_slug_s": "Minnesota-urn-68bf220c-31a4-4db2-9419-12aaf4405d5e", 
+"dct_isPartOf_sm": "Clay County GIS Data", 
+"layer_slug_s": "68bf220c-31a4-4db2-9419-12aaf4405d5e", 
 "dc_format_s": "Raster Dataset", 
-"dc_description_s": "Geo-referenced USGS survey map of western Clay County from 1970s", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://claycountymn.gov/658/GIS-Data\",\"http://schema.org/downloadUrl\":\"ftp://gis.co.clay.mn.us/Download/Clay/USGSTOPO.ZIP\"}", 
-"dc_subject_sm": [
-"Imagery base maps earth cover"
-], 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://gis.co.clay.mn.us/Download/Clay/USGSTOPO.ZIP\",\"http://schema.org/url\":\"http://claycountymn.gov/658/GIS-Data\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/68/bf/22/0c31a44db2941912aaf4405d5e/iso19139.xml\"}", 
+"dc_title_s": "USGS Survey Map O46096G6: Clay County, Minnesota, 1996", 
 "dct_issued_s": "1996-09-24", 
 "solr_geom": "ENVELOPE(-96.766047, -96.608519, 46.884796, 46.731924)", 
-"dc_rights_s": "Public", 
+"dc_description_s": "Geo-referenced USGS survey map of western Clay County from 1970s", 
 "dct_spatial_sm": [
-"Clay County", 
-"Minnesota"
+"Clay County, Minnesota, United States", 
+"Minnesota, United States"
 ]
 }

@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-09-28T11:30:22Z", 
+"layer_modified_dt": "2016-12-30T13:42:21Z", 
 "solr_geom": "ENVELOPE(-93.3290935012259, -93.1938488959554, 45.0511081210592, 44.8906522454113)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/9e0d092ecdfd4089b2ef3021e739f8c7_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/msvcCPED_PRIMARY_ZONING/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/9e0d092ecdfd4089b2ef3021e739f8c7_0.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/9e0d092ecdfd4089b2ef3021e739f8c7_0.zip\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/9e0d092ecdfd4089b2ef3021e739f8c7_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/d8/49/4a/82eba4413dacb45ca8c37a5c7c/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/msvcCPED_PRIMARY_ZONING/FeatureServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-d8494a82-eba4-413d-acb4-5ca8c37a5c7c", 
+"uuid": "d8494a82-eba4-413d-acb4-5ca8c37a5c7c", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Planning and Cadastral"
@@ -17,18 +17,19 @@
 "City of Minneapolis"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-d8494a82-eba4-413d-acb4-5ca8c37a5c7c", 
+"dc_identifier_s": "d8494a82-eba4-413d-acb4-5ca8c37a5c7c", 
 "georss_polygon_s": "44.8906522454113 -93.3290935012259 45.0511081210592 -93.3290935012259 45.0511081210592 -93.1938488959554 44.8906522454113 -93.1938488959554 44.8906522454113 -93.3290935012259", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minneapolis, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "City of Minneapolis"
 ], 
-"layer_id_s": "urn:urn-d8494a82-eba4-413d-acb4-5ca8c37a5c7c", 
+"layer_id_s": "d8494a82-eba4-413d-acb4-5ca8c37a5c7c", 
 "georss_box_s": "44.8906522454113 -93.3290935012259 45.0511081210592 -93.1938488959554", 
 "dc_title_s": "Minneapolis Primary Zoning: Minneapolis, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-d8494a82-eba4-413d-acb4-5ca8c37a5c7c"
+"layer_slug_s": "d8494a82-eba4-413d-acb4-5ca8c37a5c7c", 
+"dct_isPartOf_sm": "Minneapolis Open Data"
 }

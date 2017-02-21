@@ -1,0 +1,37 @@
+{
+"layer_geom_type_s": "Point", 
+"layer_modified_dt": "2017-01-18T17:38:20Z", 
+"solr_geom": "ENVELOPE(-97.170095, -66.321864, 49.327857, 8.560974)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.commissions.leg.state.mn.us/pub/gis/shape/legacy_pts_nov2016.zip\",\"http://schema.org/url\":\"http://www.gis.leg.mn/metadata/legacy.htm\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/a0/f4/2c/97f3674784acc8a06a4ac291ea/iso19139.xml\"}", 
+"dc_rights_s": "Public", 
+"uuid": "a0f42c97-f367-4784-acc8-a06a4ac291ea", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Society", 
+"Legacy", 
+"Parks", 
+"Trails", 
+"Arts", 
+"Outdoor heritage", 
+"Clean water"
+], 
+"dct_temporal_sm": "2009-2016", 
+"dc_description_s": "This data provides information on funded projects through the Legacy Amendment and their distribution throughout the state of Minnesota. The data was derived from information provided by project managers of different organizations.\u00a0 Map only shows projects with specific location data. It may not show projects that report a statewide impact. Not all projects report geographic data.", 
+"dct_issued_s": "2016-12-07", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Legislative Coordinating Commission"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "a0f42c97-f367-4784-acc8-a06a4ac291ea", 
+"georss_polygon_s": "8.560974 -97.170095 49.327857 -97.170095 49.327857 -66.321864 8.560974 -66.321864 8.560974 -97.170095", 
+"solr_year_i": 2009, 
+"dct_spatial_sm": [
+"Minnesota, United States"
+], 
+"layer_id_s": "a0f42c97-f367-4784-acc8-a06a4ac291ea", 
+"georss_box_s": "8.560974 -97.170095 49.327857 -66.321864", 
+"dc_title_s": "Legacy Amendment Projects: Minnesota, 2009-2016", 
+"layer_slug_s": "a0f42c97-f367-4784-acc8-a06a4ac291ea", 
+"dct_isPartOf_sm": "Minnesota Legislative Coordinating Commission - Geospatial Information (LCC-GIS)"
+}

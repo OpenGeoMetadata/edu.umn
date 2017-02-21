@@ -36,7 +36,7 @@
       </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-09-28T12:08:01</gco:DateTime>
+      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-12-30T13:41:36</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
       <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
@@ -128,6 +128,12 @@
             <gmd:presentationForm>
               <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115"/>
             </gmd:presentationForm>
+            <gmd:otherCitationDetails>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Point</gco:CharacterString>
+            </gmd:otherCitationDetails>
+            <gmd:collectiveTitle>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minneapolis Open Data</gco:CharacterString>
+            </gmd:collectiveTitle>
           </gmd:CI_Citation>
         </gmd:citation>
         <gmd:abstract>
@@ -150,7 +156,6 @@
         <gmd:spatialRepresentationType>
           <gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115"/>
         </gmd:spatialRepresentationType>
-        <gmd:language xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing"/>
         <gmd:characterSet>
           <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115"/>
         </gmd:characterSet>
@@ -178,10 +183,10 @@
                 </gmd:northBoundLatitude>
               </gmd:EX_GeographicBoundingBox>
             </gmd:geographicElement>
-            <gmd:temporalElement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gn="http://www.fao.org/geonetwork" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <gmd:temporalElement>
               <gmd:EX_TemporalExtent>
                 <gmd:extent>
-                  <gml:TimePeriod gml:id="d1296547e206a1052958">
+                  <gml:TimePeriod xmlns:gml="http://www.opengis.net/gml" gml:id="d1296547e206a1052958">
                     <gml:beginPosition>2015</gml:beginPosition>
                     <gml:endPosition>2016</gml:endPosition>
                   </gml:TimePeriod>
@@ -213,6 +218,19 @@
             </gmd:geographicElement>
           </gmd:EX_Extent>
         </gmd:extent>
+        <gmd:descriptiveKeywords>
+          <gmd:MD_Keywords>
+            <gmd:type>
+              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="place"/>
+            </gmd:type>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minneapolis, Minnesota, United States</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota, United States</gco:CharacterString>
+            </gmd:keyword>
+          </gmd:MD_Keywords>
+        </gmd:descriptiveKeywords>
       </gmd:MD_DataIdentification>
     </gmd:identificationInfo>
     <gmd:distributionInfo>
@@ -222,7 +240,6 @@
             <gmd:name>
               <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Shapefile</gco:CharacterString>
             </gmd:name>
-            <gmd:version xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing"/>
           </gmd:MD_Format>
         </gmd:distributionFormat>
         <gmd:distributor>
@@ -253,7 +270,6 @@
                 <gmd:name>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Shapefile</gco:CharacterString>
                 </gmd:name>
-                <gmd:version xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing"/>
               </gmd:MD_Format>
             </gmd:distributorFormat>
           </gmd:MD_Distributor>

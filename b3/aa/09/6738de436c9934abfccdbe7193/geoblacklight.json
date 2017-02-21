@@ -1,32 +1,33 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:16Z", 
+"layer_modified_dt": "2017-01-20T18:40:49Z", 
 "solr_geom": "ENVELOPE(-96.428572, -93.469584, 47.725581, 43.495509)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-migratory-waterfowl-areas\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_migratory_waterfowl_areas/shp_env_migratory_waterfowl_areas.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_migratory_waterfowl_areas/shp_env_migratory_waterfowl_areas.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-migratory-waterfowl-areas\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/b3/aa/09/6738de436c9934abfccdbe7193/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-b3aa0967-38de-436c-9934-abfccdbe7193", 
+"uuid": "b3aa0967-38de-436c-9934-abfccdbe7193", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Environment"
 ], 
-"dct_temporal_sm": "2005", 
+"dct_temporal_sm": "2014", 
 "dc_description_s": "This resource contains 2 feature classes: 1) A polygon feature class of lakes completely or partially designated as Migratory Waterfowl Feeding & Resting Areas, as listed in the Minnesota Hunting & Trapping Regulations Handbook. The lakes were derived (selected) out of the DNR 100k Lakes and Rivers. 2) A point feature class created from the polygons.", 
 "dct_issued_s": "2014-10-06T05:00:00.000ZZ", 
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-b3aa0967-38de-436c-9934-abfccdbe7193", 
+"dc_identifier_s": "b3aa0967-38de-436c-9934-abfccdbe7193", 
 "georss_polygon_s": "43.495509 -96.428572 47.725581 -96.428572 47.725581 -93.469584 43.495509 -93.469584 43.495509 -96.428572", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-b3aa0967-38de-436c-9934-abfccdbe7193", 
+"layer_id_s": "b3aa0967-38de-436c-9934-abfccdbe7193", 
 "georss_box_s": "43.495509 -96.428572 47.725581 -93.469584", 
 "dc_title_s": "Migratory Waterfowl Feeding and Resting Areas: Minnesota, 2014", 
-"layer_slug_s": "Minnesota-urn-b3aa0967-38de-436c-9934-abfccdbe7193"
+"layer_slug_s": "b3aa0967-38de-436c-9934-abfccdbe7193", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

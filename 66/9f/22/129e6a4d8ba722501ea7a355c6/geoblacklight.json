@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Point", 
-"layer_modified_dt": "2016-09-28T11:32:42Z", 
+"layer_modified_dt": "2016-12-30T13:42:07Z", 
 "solr_geom": "ENVELOPE(-93.3212809889999, -93.2134896339999, 45.0448693690001, 44.8969193040001)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/6d3c4cca729f41818f38d267afc323a8_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/OPENDATA_NCR_ORGCONTACT/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/6d3c4cca729f41818f38d267afc323a8_0.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/6d3c4cca729f41818f38d267afc323a8_0.zip\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/6d3c4cca729f41818f38d267afc323a8_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/66/9f/22/129e6a4d8ba722501ea7a355c6/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/OPENDATA_NCR_ORGCONTACT/FeatureServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-669f2212-9e6a-4d8b-a722-501ea7a355c6", 
+"uuid": "669f2212-9e6a-4d8b-a722-501ea7a355c6", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Society"
@@ -17,18 +17,19 @@
 "City of Minneapolis"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-669f2212-9e6a-4d8b-a722-501ea7a355c6", 
+"dc_identifier_s": "669f2212-9e6a-4d8b-a722-501ea7a355c6", 
 "georss_polygon_s": "44.8969193040001 -93.3212809889999 45.0448693690001 -93.3212809889999 45.0448693690001 -93.2134896339999 44.8969193040001 -93.2134896339999 44.8969193040001 -93.3212809889999", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minneapolis, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "City of Minneapolis"
 ], 
-"layer_id_s": "urn:urn-669f2212-9e6a-4d8b-a722-501ea7a355c6", 
+"layer_id_s": "669f2212-9e6a-4d8b-a722-501ea7a355c6", 
 "georss_box_s": "44.8969193040001 -93.3212809889999 45.0448693690001 -93.2134896339999", 
 "dc_title_s": "NCR Organization Contact: Minneapolis, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-669f2212-9e6a-4d8b-a722-501ea7a355c6"
+"layer_slug_s": "669f2212-9e6a-4d8b-a722-501ea7a355c6", 
+"dct_isPartOf_sm": "Minneapolis Open Data"
 }

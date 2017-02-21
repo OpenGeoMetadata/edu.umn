@@ -1,15 +1,15 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:06Z", 
+"layer_modified_dt": "2017-01-20T18:40:38Z", 
 "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-society-census-soclchar-muni2000\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/society_census_soclchar_muni2000/shp_society_census_soclchar_muni2000.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/society_census_soclchar_muni2000/shp_society_census_soclchar_muni2000.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-society-census-soclchar-muni2000\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/03/b3/fa/ecc7c64fb7b4d5d25e93cefad8/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-03b3faec-c7c6-4fb7-b4d5-d25e93cefad8", 
+"uuid": "03b3faec-c7c6-4fb7-b4d5-d25e93cefad8", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Society", 
-"census survey", 
-"society"
+"Society", 
+"Census survey"
 ], 
 "dct_temporal_sm": "2000", 
 "dc_description_s": "Summary File 3 Data Profile 2 (SF3 Table DP-2) for cities and townships in Minnesota is a subset of the profile of selected social characteristics for 2000 prepared by the U.S. Census Bureau. This table includes: School Enrollment, Educational Attainment, Marital Status, Grandparents as Caregivers, Veran Status, Disability Status of the Civilian Noninstitutionalized Population, Residence in 1995, Nativity and Place of Birth, Region of Birth of Foreign Born, Language Spoken At Home, Ancestry US Census 2000 Demographic Profiles: 100-percent and Sample Data A profile includes four tables that provide various demographic, social, economic, and housing characteristics for the United States, states, counties, minor civil divisions in selected states, places, metropolitan areas, American Indian and Alaska Native areas, Hawaiian home lands and congressional districts (106th Congress). It includes 100-percent and sample data from Census 2000. The Demographic Profile consists of four tables (DP-1 thru DP-4). For Census 2000 data, the DP-1 table is available as part of the Summary File 1 (SF 1) dataset, and the other three tables are available as part of the Summary File 3 (SF 3) dataset.", 
@@ -18,21 +18,19 @@
 "dc_creator_sm": [
 "Metropolitan Council and the U.S. Census Bureau"
 ], 
-"dc_identifier_s": "urn-03b3faec-c7c6-4fb7-b4d5-d25e93cefad8", 
-"dc_relation_sm": [
-"City and Township Boundaries - 2000"
-], 
+"dc_identifier_s": "03b3faec-c7c6-4fb7-b4d5-d25e93cefad8", 
 "georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
-"solr_year_i": 2003, 
+"solr_year_i": 2000, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-03b3faec-c7c6-4fb7-b4d5-d25e93cefad8", 
+"layer_id_s": "03b3faec-c7c6-4fb7-b4d5-d25e93cefad8", 
 "georss_box_s": "43.5 -97.23 49.37 -89.53", 
 "dc_title_s": "Profile of Selected Social Characteristics for MN Cities & Townships: Twin Cities Metro, 2000", 
-"layer_slug_s": "Minnesota-urn-03b3faec-c7c6-4fb7-b4d5-d25e93cefad8"
+"layer_slug_s": "03b3faec-c7c6-4fb7-b4d5-d25e93cefad8", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

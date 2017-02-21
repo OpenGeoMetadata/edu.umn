@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:22Z", 
+"layer_modified_dt": "2017-01-20T18:40:58Z", 
 "solr_geom": "ENVELOPE(-95.846, -91.533, 46.776, 41.284)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-society-tbi-transit-onboard2010\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-society-tbi-transit-onboard2010\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/9e/d4/98/a7d93a4cfaafea242b0bc18d99/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-9ed498a7-d93a-4cfa-afea-242b0bc18d99", 
+"uuid": "9ed498a7-d93a-4cfa-afea-242b0bc18d99", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Society"
@@ -16,18 +16,19 @@
 "dc_creator_sm": [
 "Metropolitan Council"
 ], 
-"dc_identifier_s": "urn-9ed498a7-d93a-4cfa-afea-242b0bc18d99", 
+"dc_identifier_s": "9ed498a7-d93a-4cfa-afea-242b0bc18d99", 
 "georss_polygon_s": "41.284 -95.846 46.776 -95.846 46.776 -91.533 41.284 -91.533 41.284 -95.846", 
-"solr_year_i": 2012, 
+"solr_year_i": 2010, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-9ed498a7-d93a-4cfa-afea-242b0bc18d99", 
+"layer_id_s": "9ed498a7-d93a-4cfa-afea-242b0bc18d99", 
 "georss_box_s": "41.284 -95.846 46.776 -91.533", 
 "dc_title_s": "Travel Behavior Inventory (TBI) Transit On Board Survey: Twin Cities Metro, Minnesota, 2010", 
-"layer_slug_s": "Minnesota-urn-9ed498a7-d93a-4cfa-afea-242b0bc18d99"
+"layer_slug_s": "9ed498a7-d93a-4cfa-afea-242b0bc18d99", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

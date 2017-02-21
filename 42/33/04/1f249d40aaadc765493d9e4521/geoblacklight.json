@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-09-28T11:36:08Z", 
+"layer_modified_dt": "2016-12-30T13:42:05Z", 
 "solr_geom": "ENVELOPE(-93.46, -93.04, 45.09, 44.85)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/d67f042acef4454c851d8c7448b216f9_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Neighborhoods/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/d67f042acef4454c851d8c7448b216f9_0.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/d67f042acef4454c851d8c7448b216f9_0.zip\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/d67f042acef4454c851d8c7448b216f9_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/42/33/04/1f249d40aaadc765493d9e4521/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Neighborhoods/FeatureServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-4233041f-249d-40aa-adc7-65493d9e4521", 
+"uuid": "4233041f-249d-40aa-adc7-65493d9e4521", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Boundaries"
@@ -17,18 +17,19 @@
 "City of Minneapolis"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-4233041f-249d-40aa-adc7-65493d9e4521", 
+"dc_identifier_s": "4233041f-249d-40aa-adc7-65493d9e4521", 
 "georss_polygon_s": "44.85 -93.46 45.09 -93.46 45.09 -93.04 44.85 -93.04 44.85 -93.46", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minneapolis, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "City of Minneapolis"
 ], 
-"layer_id_s": "urn:urn-4233041f-249d-40aa-adc7-65493d9e4521", 
+"layer_id_s": "4233041f-249d-40aa-adc7-65493d9e4521", 
 "georss_box_s": "44.85 -93.46 45.09 -93.04", 
 "dc_title_s": "Neighborhoods: Minneapolis, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-4233041f-249d-40aa-adc7-65493d9e4521"
+"layer_slug_s": "4233041f-249d-40aa-adc7-65493d9e4521", 
+"dct_isPartOf_sm": "Minneapolis Open Data"
 }

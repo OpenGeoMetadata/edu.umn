@@ -61,7 +61,7 @@
       </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-06-29T09:58:46</gco:DateTime>
+      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2017-01-20T18:38:51</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
       <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -115,6 +115,12 @@
                 </gmd:role>
               </gmd:CI_ResponsibleParty>
             </gmd:citedResponsibleParty>
+            <gmd:otherCitationDetails>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Mixed</gco:CharacterString>
+            </gmd:otherCitationDetails>
+            <gmd:collectiveTitle>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Geospatial Commons</gco:CharacterString>
+            </gmd:collectiveTitle>
           </gmd:CI_Citation>
         </gmd:citation>
         <gmd:abstract>
@@ -189,40 +195,6 @@
             </gmd:fileName>
           </gmd:MD_BrowseGraphic>
         </gmd:graphicOverview>
-        <gmd:descriptiveKeywords>
-          <gmd:MD_Keywords>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:type>
-              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="place"/>
-            </gmd:type>
-            <gmd:thesaurusName>
-              <gmd:CI_Citation>
-                <gmd:title>
-                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GeoNames</gco:CharacterString>
-                </gmd:title>
-                <gmd:date>
-                  <gmd:CI_Date>
-                    <gmd:date>
-                      <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2012-10-29</gco:Date>
-                    </gmd:date>
-                    <gmd:dateType>
-                      <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
-                    </gmd:dateType>
-                  </gmd:CI_Date>
-                </gmd:date>
-                <gmd:identifier>
-                  <gmd:MD_Identifier>
-                    <gmd:code>
-                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">http://www.geonames.org/ontology/ontology_v3.1.rdf</gco:CharacterString>
-                    </gmd:code>
-                  </gmd:MD_Identifier>
-                </gmd:identifier>
-              </gmd:CI_Citation>
-            </gmd:thesaurusName>
-          </gmd:MD_Keywords>
-        </gmd:descriptiveKeywords>
         <gmd:resourceConstraints>
           <gmd:MD_LegalConstraints>
             <gmd:accessConstraints>
@@ -285,14 +257,12 @@
               </gmd:EX_GeographicBoundingBox>
             </gmd:geographicElement>
             <gmd:temporalElement>
-              <gmd:EX_TemporalExtent id="boundingTemporalExtent">
+              <gmd:EX_TemporalExtent>
                 <gmd:extent>
-                  <gml:TimeInstant xmlns:gml="http://www.opengis.net/gml" gml:id="boundingTimeInstantExtent">
-                    <gml:description>The dates of each imagery layer are listed in the Lineage field.
-
-This service will be updated annually as new or improved image datasets become available.  These new image layers will wholly or partially replace image layers in the service.</gml:description>
-                    <gml:timePosition>2010</gml:timePosition>
-                  </gml:TimeInstant>
+                  <gml:TimePeriod xmlns:gml="http://www.opengis.net/gml">
+                    <gml:beginPosition>2011</gml:beginPosition>
+                    <gml:endPosition>2011</gml:endPosition>
+                  </gml:TimePeriod>
                 </gmd:extent>
               </gmd:EX_TemporalExtent>
             </gmd:temporalElement>
@@ -301,6 +271,16 @@ This service will be updated annually as new or improved image datasets become a
         <gmd:supplementalInformation>
           <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">1. Small-scale: Landsat extends 100-200 miles into adjoining states and Canada. 2. Medium-scale: Minnesota and the western Wisconsin counties listed in the Lineage field. 3. Large-scale: Areas in the Twin Cities described in the Lineage field.</gco:CharacterString>
         </gmd:supplementalInformation>
+        <gmd:descriptiveKeywords>
+          <gmd:MD_Keywords>
+            <gmd:type>
+              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="place"/>
+            </gmd:type>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota, United States</gco:CharacterString>
+            </gmd:keyword>
+          </gmd:MD_Keywords>
+        </gmd:descriptiveKeywords>
       </gmd:MD_DataIdentification>
     </gmd:identificationInfo>
     <gmd:contentInfo>

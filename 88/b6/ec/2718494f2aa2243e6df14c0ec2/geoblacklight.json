@@ -1,16 +1,25 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:15Z", 
+"layer_modified_dt": "2017-01-20T18:39:30Z", 
 "solr_geom": "ENVELOPE(-96.810586, -89.787973, 49.015581, 43.436203)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/biota-mcbs-sites-of-biodiversity\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_mcbs_sites_of_biodiversity/shp_biota_mcbs_sites_of_biodiversity.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_mcbs_sites_of_biodiversity/shp_biota_mcbs_sites_of_biodiversity.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/biota-mcbs-sites-of-biodiversity\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/88/b6/ec/2718494f2aa2243e6df14c0ec2/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-88b6ec27-1849-4f2a-a224-3e6df14c0ec2", 
+"uuid": "88b6ec27-1849-4f2a-a224-3e6df14c0ec2", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Biota", 
-"rare species", 
-"natural heritage", 
-"survey"
+"Natural Heritage", 
+"Biota", 
+"Natural Heritage", 
+"Rare Species", 
+"Rare Species", 
+"Biological survey", 
+"Mcbs sites", 
+"Native plant communities", 
+"Rare plants", 
+"Natural heritage", 
+"Rare species", 
+"Surveying"
 ], 
 "dct_temporal_sm": "2016", 
 "dc_description_s": "This data layer represents areas with varying levels of native biodiversity that may contain high quality native plant communities, rare plants, rare animals, and/or animal aggregations. Initially, boundaries of sites are determined by review of aerial photography in order to identify potential areas of native biodiversity based on native vegetation. In subsequent field investigations, MCBS assesses the ecological characteristics of the site and the presence of rare species. A biodiversity significance rank is assigned on the basis of the number of rare species, the quality of the native plant communities, size of the site, and context within the landscape. Following field investigations, site boundaries sometimes are revised, or sites added, to incorporate critical habitat for rare plants and rare animals. In these instances, the quality of native plant communities is not the primary criteria for ranking the site. MCBS Sites that are found to be disturbed are retained in the layer as negative data and are given the Biodiversity Significance rank of NBelow.N Those disturbed areas within MCBS Sites and all areas outside MCBS Sites are lands where native plant communities have been seriously altered or destroyed by human activities such as farming, recent logging, draining, and development.", 
@@ -19,21 +28,19 @@
 "dc_creator_sm": [
 "The Minnesota County Biological Survey, Minnesota Department of Natural Resources, Division of Ecological Resources"
 ], 
-"dc_identifier_s": "urn-88b6ec27-1849-4f2a-a224-3e6df14c0ec2", 
-"dc_relation_sm": [
-""
-], 
+"dc_identifier_s": "88b6ec27-1849-4f2a-a224-3e6df14c0ec2", 
 "georss_polygon_s": "43.436203 -96.810586 49.015581 -96.810586 49.015581 -89.787973 43.436203 -89.787973 43.436203 -96.810586", 
 "solr_year_i": 2016, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "The Minnesota County Biological Survey, Minnesota Department of Natural Resources, Division of Ecological Resources"
 ], 
-"layer_id_s": "urn:urn-88b6ec27-1849-4f2a-a224-3e6df14c0ec2", 
+"layer_id_s": "88b6ec27-1849-4f2a-a224-3e6df14c0ec2", 
 "georss_box_s": "43.436203 -96.810586 49.015581 -89.787973", 
 "dc_title_s": "MCBS Sites of Biodiversity Significance: Twin Cities Metro, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-88b6ec27-1849-4f2a-a224-3e6df14c0ec2"
+"layer_slug_s": "88b6ec27-1849-4f2a-a224-3e6df14c0ec2", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

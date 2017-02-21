@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:21Z", 
+"layer_modified_dt": "2017-01-20T18:40:56Z", 
 "solr_geom": "ENVELOPE(-96.628762, -93.401415, 46.158043, 43.417905)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/elev-lidar-swmn2010\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/elev-lidar-swmn2010\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/63/ae/40/dd8bf54b27a0ca39100800f862/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-63ae40dd-8bf5-4b27-a0ca-39100800f862", 
+"uuid": "63ae40dd-8bf5-4b27-a0ca-39100800f862", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Elevation"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "AeroMetric, Inc."
 ], 
-"dc_identifier_s": "urn-63ae40dd-8bf5-4b27-a0ca-39100800f862", 
-"dc_relation_sm": [
-"For more information about elevation data for Minnesota, see: http://www.mngeo.state.mn.us/chouse/elevation/index.html"
-], 
+"dc_identifier_s": "63ae40dd-8bf5-4b27-a0ca-39100800f862", 
 "georss_polygon_s": "43.417905 -96.628762 46.158043 -96.628762 46.158043 -93.401415 43.417905 -93.401415 43.417905 -96.628762", 
 "solr_year_i": 2010, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-63ae40dd-8bf5-4b27-a0ca-39100800f862", 
+"layer_id_s": "63ae40dd-8bf5-4b27-a0ca-39100800f862", 
 "georss_box_s": "43.417905 -96.628762 46.158043 -93.401415", 
 "dc_title_s": "LiDAR Elevation: Minnesota River Basin, Southwest Minnesota, 2010", 
-"layer_slug_s": "Minnesota-urn-63ae40dd-8bf5-4b27-a0ca-39100800f862"
+"layer_slug_s": "63ae40dd-8bf5-4b27-a0ca-39100800f862", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

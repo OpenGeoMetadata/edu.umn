@@ -1,39 +1,36 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:02Z", 
+"layer_modified_dt": "2017-01-26T14:40:59Z", 
 "solr_geom": "ENVELOPE(-95.322875, -92.867608, 46.240745, 44.634733)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/water-mgmnt-area-surface-water\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_health/water_mgmnt_area_surface_water/shp_water_mgmnt_area_surface_water.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_health/water_mgmnt_area_surface_water/shp_water_mgmnt_area_surface_water.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/water-mgmnt-area-surface-water\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/61/6a/0e/e502244daaab2dd6bb90bc050e/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-616a0ee5-0224-4daa-ab2d-d6bb90bc050e", 
+"uuid": "616a0ee5-0224-4daa-ab2d-d6bb90bc050e", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Health", 
-"surface water", 
-"health", 
-"drinking water", 
-"environment"
+"Drinking water", 
+"Environment", 
+"Surface water"
 ], 
 "dct_temporal_sm": "2009", 
 "dc_description_s": "Drinking water supply management area for a surface water intake (DWSMA-SW) is the Minnesota Department of Health (MDH) endorsed surface and subsurface area surrounding a public water supply intake that contains the scientifically calculated surface water protection area and is managed by the entity identified in a surface water protection plan. The boundaries of a DWSMA-SW are delineated by identifiable physical features, landmarks or political and administrative boundaries.", 
-"dct_issued_s": "2009-05-20", 
+"dct_issued_s": "2009-05-18", 
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Minnesota Department of Health"
 ], 
-"dc_identifier_s": "urn-616a0ee5-0224-4daa-ab2d-d6bb90bc050e", 
-"dc_relation_sm": [
-"Drinking Water Supply Management Areas, DWSMA Vulnerability, Wellhead Protection Areas, Emergency Response Areas"
-], 
+"dc_identifier_s": "616a0ee5-0224-4daa-ab2d-d6bb90bc050e", 
 "georss_polygon_s": "44.634733 -95.322875 46.240745 -95.322875 46.240745 -92.867608 44.634733 -92.867608 44.634733 -95.322875", 
 "solr_year_i": 2009, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Health"
 ], 
-"layer_id_s": "urn:urn-616a0ee5-0224-4daa-ab2d-d6bb90bc050e", 
+"layer_id_s": "616a0ee5-0224-4daa-ab2d-d6bb90bc050e", 
 "georss_box_s": "44.634733 -95.322875 46.240745 -92.867608", 
 "dc_title_s": "Drinking Water Supply Management Area for Surface Water (DWSMA-SW): Minnesota, 2009", 
-"layer_slug_s": "Minnesota-urn-616a0ee5-0224-4daa-ab2d-d6bb90bc050e"
+"layer_slug_s": "616a0ee5-0224-4daa-ab2d-d6bb90bc050e", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

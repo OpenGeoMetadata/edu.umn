@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:58:45Z", 
+"layer_modified_dt": "2017-01-20T18:38:49Z", 
 "solr_geom": "ENVELOPE(-96.406211, -93.193888, 45.827796, 44.142354)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-assessed-wetlands-2010\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_pca/env_assessed_wetlands_2010/shp_env_assessed_wetlands_2010.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_pca/env_assessed_wetlands_2010/shp_env_assessed_wetlands_2010.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-assessed-wetlands-2010\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/a2/dd/e8/0190df47f8adde58c18bcebc02/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-a2dde801-90df-47f8-adde-58c18bcebc02", 
+"uuid": "a2dde801-90df-47f8-adde-58c18bcebc02", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Environment"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Pollution Control Agency"
 ], 
-"dc_identifier_s": "urn-a2dde801-90df-47f8-adde-58c18bcebc02", 
-"dc_relation_sm": [
-"Minnesota 2010 Surface Water Quality Assessments - Wetlands"
-], 
+"dc_identifier_s": "a2dde801-90df-47f8-adde-58c18bcebc02", 
 "georss_polygon_s": "44.142354 -96.406211 45.827796 -96.406211 45.827796 -93.193888 44.142354 -93.193888 44.142354 -96.406211", 
-"solr_year_i": 2012, 
+"solr_year_i": 2010, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Pollution Control Agency"
 ], 
-"layer_id_s": "urn:urn-a2dde801-90df-47f8-adde-58c18bcebc02", 
+"layer_id_s": "a2dde801-90df-47f8-adde-58c18bcebc02", 
 "georss_box_s": "44.142354 -96.406211 45.827796 -93.193888", 
 "dc_title_s": "Wetland Assessments: Minnesota, 2010", 
-"layer_slug_s": "Minnesota-urn-a2dde801-90df-47f8-adde-58c18bcebc02"
+"layer_slug_s": "a2dde801-90df-47f8-adde-58c18bcebc02", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

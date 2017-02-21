@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:45Z", 
+"layer_modified_dt": "2017-01-20T18:40:11Z", 
 "solr_geom": "ENVELOPE(-96.833072, -89.397127, 49.348368, 43.435392)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/biota-landcover-mlccs\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_landcover_mlccs/shp_biota_landcover_mlccs.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_landcover_mlccs/shp_biota_landcover_mlccs.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/biota-landcover-mlccs\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/00/04/7c/1524c240f28bd87e532f88d373/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-00047c15-24c2-40f2-8bd8-7e532f88d373", 
+"uuid": "00047c15-24c2-40f2-8bd8-7e532f88d373", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Biota"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-00047c15-24c2-40f2-8bd8-7e532f88d373", 
-"dc_relation_sm": [
-""
-], 
+"dc_identifier_s": "00047c15-24c2-40f2-8bd8-7e532f88d373", 
 "georss_polygon_s": "43.435392 -96.833072 49.348368 -96.833072 49.348368 -89.397127 43.435392 -89.397127 43.435392 -96.833072", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-00047c15-24c2-40f2-8bd8-7e532f88d373", 
+"layer_id_s": "00047c15-24c2-40f2-8bd8-7e532f88d373", 
 "georss_box_s": "43.435392 -96.833072 49.348368 -89.397127", 
 "dc_title_s": "Land Cover, Land Cover Classification System: Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-00047c15-24c2-40f2-8bd8-7e532f88d373"
+"layer_slug_s": "00047c15-24c2-40f2-8bd8-7e532f88d373", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

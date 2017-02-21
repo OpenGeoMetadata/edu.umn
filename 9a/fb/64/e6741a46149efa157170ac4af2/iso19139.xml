@@ -39,7 +39,7 @@
       </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-09-19T17:05:12</gco:DateTime>
+      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-12-30T13:42:08</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
       <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
@@ -163,24 +163,17 @@
             <gmd:presentationForm>
               <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115"/>
             </gmd:presentationForm>
+            <gmd:otherCitationDetails>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Point</gco:CharacterString>
+            </gmd:otherCitationDetails>
+            <gmd:collectiveTitle>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Hennepin County Open Data</gco:CharacterString>
+            </gmd:collectiveTitle>
           </gmd:CI_Citation>
         </gmd:citation>
         <gmd:abstract>
           <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">This dataset contains Hennepin County owned and leased facility information and locations, including county libraries, service centers, office, medical, and correctional facilities. It contains structures only and does not include any parking lot, ramps, or related properties currently leased or owned by Hennepin County. Additional modification was conducted by the Hennepin County GIS Office. Facility Data Supplied by: Planning and Project Development Division Hennepin County Facilities Management Department A2208 Government Center &#8211; Mail Code 228300 South Sixth Street Minneapolis, MN 55487-0228 Link to Attribute Table Information: http://gis.hennepin.us/OpenData/Metadata/County%20Facilities.pdf Data updated: September 2015 Use Limitations: This data (i) is furnished 'AS IS' with no representation as to completeness or accuracy; (ii) is furnished with no warranty of any kind; and (iii) is not suitable for legal, engineering or surveying purposes. Hennepin County shall not be liable for any damage, injury or loss resulting from this data.</gco:CharacterString>
         </gmd:abstract>
-        <gmd:descriptiveKeywords>
-          <gmd:MD_Keywords>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Hennepin County, Minnesota</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:type>
-              <gmd:MD_KeywordTypeCode codeList="" codeListValue="place"/>
-            </gmd:type>
-          </gmd:MD_Keywords>
-        </gmd:descriptiveKeywords>
         <gmd:resourceConstraints>
           <gmd:MD_Constraints>
             <gmd:useLimitation>
@@ -237,6 +230,19 @@
             </gmd:temporalElement>
           </gmd:EX_Extent>
         </gmd:extent>
+        <gmd:descriptiveKeywords>
+          <gmd:MD_Keywords>
+            <gmd:type>
+              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="place"/>
+            </gmd:type>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Hennepin County, Minnesota, United States</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota, United States</gco:CharacterString>
+            </gmd:keyword>
+          </gmd:MD_Keywords>
+        </gmd:descriptiveKeywords>
       </gmd:MD_DataIdentification>
     </gmd:identificationInfo>
     <gmd:distributionInfo>
@@ -279,9 +285,6 @@
                 <gmd:name>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Shapefile</gco:CharacterString>
                 </gmd:name>
-                <gmd:version xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
-                  <gco:CharacterString/>
-                </gmd:version>
               </gmd:MD_Format>
             </gmd:distributorFormat>
           </gmd:MD_Distributor>
@@ -296,9 +299,6 @@
                 <gmd:protocol>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">download</gco:CharacterString>
                 </gmd:protocol>
-                <gmd:name xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
-                  <gco:CharacterString/>
-                </gmd:name>
                 <gmd:description>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Shapefile</gco:CharacterString>
                 </gmd:description>
@@ -319,9 +319,6 @@
                 <gmd:protocol>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ESRI:ArcGIS</gco:CharacterString>
                 </gmd:protocol>
-                <gmd:name xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
-                  <gco:CharacterString/>
-                </gmd:name>
                 <gmd:description>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Esri REST Service</gco:CharacterString>
                 </gmd:description>
@@ -339,9 +336,6 @@
                 <gmd:protocol>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:LINK</gco:CharacterString>
                 </gmd:protocol>
-                <gmd:name xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
-                  <gco:CharacterString/>
-                </gmd:name>
                 <gmd:description>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Information</gco:CharacterString>
                 </gmd:description>

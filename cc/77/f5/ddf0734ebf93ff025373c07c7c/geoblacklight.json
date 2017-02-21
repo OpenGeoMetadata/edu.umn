@@ -1,0 +1,33 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2017-01-18T17:38:21Z", 
+"solr_geom": "ENVELOPE(-97.239196, -89.483385, 49.384358, 43.499361)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.commissions.leg.state.mn.us/pub/gis/shape/county2010.zip\",\"http://schema.org/url\":\"http://www.gis.leg.mn/metadata/county2010.htm\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/cc/77/f5/ddf0734ebf93ff025373c07c7c/iso19139.xml\"}", 
+"dc_rights_s": "Public", 
+"uuid": "cc77f5dd-f073-4ebf-93ff-025373c07c7c", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Society", 
+"Boundaries", 
+"Counties"
+], 
+"dct_temporal_sm": "2010", 
+"dc_description_s": "A polygon dataset for Minnesota counties.  This database was developed from U.S. Census Bureau 2010 TIGER/Line files as part of a redistricting effort.", 
+"dct_issued_s": "2010-03-06", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Legislative Coordinating Commission"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "cc77f5dd-f073-4ebf-93ff-025373c07c7c", 
+"georss_polygon_s": "43.499361 -97.239196 49.384358 -97.239196 49.384358 -89.483385 43.499361 -89.483385 43.499361 -97.239196", 
+"solr_year_i": 2010, 
+"dct_spatial_sm": [
+"Minnesota, United States"
+], 
+"layer_id_s": "cc77f5dd-f073-4ebf-93ff-025373c07c7c", 
+"georss_box_s": "43.499361 -97.239196 49.384358 -89.483385", 
+"dc_title_s": "Counties: Minnesota, 2010", 
+"layer_slug_s": "cc77f5dd-f073-4ebf-93ff-025373c07c7c", 
+"dct_isPartOf_sm": "Minnesota Legislative Coordinating Commission - Geospatial Information (LCC-GIS)"
+}

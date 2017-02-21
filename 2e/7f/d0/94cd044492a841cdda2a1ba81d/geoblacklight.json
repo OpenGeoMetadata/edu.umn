@@ -1,29 +1,29 @@
 {
-"dct_temporal_sm": "2016", 
-"solr_year_i": 2016, 
-"uuid": "urn-2e7fd094-cd04-4492-a841-cdda2a1ba81d", 
 "layer_geom_type_s": "Mixed", 
-"georss_box_s": "46.611122 -96.849658 47.170693 -96.153718", 
-"layer_modified_dt": "2016-11-29T13:46:15Z", 
-"layer_id_s": "urn:urn-2e7fd094-cd04-4492-a841-cdda2a1ba81d", 
-"georss_polygon_s": "46.611122 -96.849658 47.170693 -96.849658 47.170693 -96.153718 46.611122 -96.153718 46.611122 -96.849658", 
-"dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-2e7fd094-cd04-4492-a841-cdda2a1ba81d", 
-"dct_provenance_s": "Minnesota", 
-"dc_title_s": "Property Parcels UTM15: Clay County, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-2e7fd094-cd04-4492-a841-cdda2a1ba81d", 
-"dc_format_s": "Shapefile", 
-"dc_description_s": "Clay County property parcels. This file includes property information in UTM zone 15 coordinates.", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://claycountymn.gov/658/GIS-Data\",\"http://schema.org/downloadUrl\":\"ftp://gis.co.clay.mn.us/Download/Clay/Clay_County_Parcels_UTM15.zip\"}", 
-"dc_subject_sm": [
-"Planning cadastre", 
-"parcels"
-], 
-"dct_issued_s": "2016-07-01", 
+"layer_modified_dt": "2016-12-30T13:41:08Z", 
 "solr_geom": "ENVELOPE(-96.849658, -96.153718, 47.170693, 46.611122)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://gis.co.clay.mn.us/Download/Clay/Clay_County_Parcels_UTM15.zip\",\"http://schema.org/url\":\"http://claycountymn.gov/658/GIS-Data\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/2e/7f/d0/94cd044492a841cdda2a1ba81d/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
+"uuid": "2e7fd094-cd04-4492-a841-cdda2a1ba81d", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Parcels"
+], 
+"dct_temporal_sm": "2016", 
+"dc_description_s": "Clay County property parcels. This file includes property information in UTM zone 15 coordinates.", 
+"dct_issued_s": "2016-07-01", 
+"dc_format_s": "Shapefile", 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "2e7fd094-cd04-4492-a841-cdda2a1ba81d", 
+"georss_polygon_s": "46.611122 -96.849658 47.170693 -96.849658 47.170693 -96.153718 46.611122 -96.153718 46.611122 -96.849658", 
+"solr_year_i": 2016, 
 "dct_spatial_sm": [
-"Clay County", 
-"Minnesota"
-]
+"Clay County, Minnesota, United States", 
+"Minnesota, United States"
+], 
+"layer_id_s": "2e7fd094-cd04-4492-a841-cdda2a1ba81d", 
+"georss_box_s": "46.611122 -96.849658 47.170693 -96.153718", 
+"dc_title_s": "Property Parcels UTM15: Clay County, Minnesota, 2016", 
+"layer_slug_s": "2e7fd094-cd04-4492-a841-cdda2a1ba81d", 
+"dct_isPartOf_sm": "Clay County GIS Data"
 }

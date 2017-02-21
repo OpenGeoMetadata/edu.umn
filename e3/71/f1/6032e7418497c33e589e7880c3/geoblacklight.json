@@ -1,14 +1,14 @@
 {
 "layer_geom_type_s": "Point", 
-"layer_modified_dt": "2016-08-17T12:59:42Z", 
+"layer_modified_dt": "2016-12-30T13:41:39Z", 
 "solr_geom": "ENVELOPE(-94.0277, -93.51, 44.9814, 44.6423)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/f52d0d79746c453abb7f2a9a9cc714b4_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.carver.mn.us/arcgis_ea/rest/services/OpenAccess/CC_OpenDataStandards/MapServer/0\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/f52d0d79746c453abb7f2a9a9cc714b4_0\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.carver.opendata.arcgis.com/datasets/f52d0d79746c453abb7f2a9a9cc714b4_0.zip\",\"http://schema.org/url\":\"http://data.carver.opendata.arcgis.com/datasets/f52d0d79746c453abb7f2a9a9cc714b4_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/e3/71/f1/6032e7418497c33e589e7880c3/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.carver.mn.us/arcgis_ea/rest/services/OpenAccess/CC_OpenDataStandards/MapServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-e371f160-32e7-4184-97c3-3e589e7880c3", 
+"uuid": "e371f160-32e7-4184-97c3-3e589e7880c3", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Location", 
-"addresses"
+"Addresses"
 ], 
 "dct_temporal_sm": "2014-", 
 "dc_description_s": "Summary Carver County address point dataset. Description Address points are maintained by different addressing authorities within Carver County. The dataset is based upon the MetroGIS Address Points Standards , derived from the National Address Standard. This dataset contains situs addresses, they are not used for contact of individuals, but instead for the relating of features to a specific location.", 
@@ -18,18 +18,19 @@
 "Carver County, Minnesota"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-e371f160-32e7-4184-97c3-3e589e7880c3", 
+"dc_identifier_s": "e371f160-32e7-4184-97c3-3e589e7880c3", 
 "georss_polygon_s": "44.6423 -94.0277 44.9814 -94.0277 44.9814 -93.51 44.6423 -93.51 44.6423 -94.0277", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Carver County, Minnesota", 
-"Minnesota"
+"Carver County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Carver County, Minnesota"
 ], 
-"layer_id_s": "urn:urn-e371f160-32e7-4184-97c3-3e589e7880c3", 
+"layer_id_s": "e371f160-32e7-4184-97c3-3e589e7880c3", 
 "georss_box_s": "44.6423 -94.0277 44.9814 -93.51", 
 "dc_title_s": "Address Points: Carver County, Minnesota, 2014", 
-"layer_slug_s": "Minnesota-urn-e371f160-32e7-4184-97c3-3e589e7880c3"
+"layer_slug_s": "e371f160-32e7-4184-97c3-3e589e7880c3", 
+"dct_isPartOf_sm": "Carver County Open Data"
 }

@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:24Z", 
+"layer_modified_dt": "2017-01-20T18:39:42Z", 
 "solr_geom": "ENVELOPE(-93.52, -92.75, 45.26, 44.74)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-usgs-msp-2004-airphotos\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-usgs-msp-2004-airphotos\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/3d/a5/fc/4c90e646d9b3fef60166bd8843/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-3da5fc4c-90e6-46d9-b3fe-f60166bd8843", 
+"uuid": "3da5fc4c-90e6-46d9-b3fe-f60166bd8843", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Imagery and Base Maps"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "National Geospatial-Intelligence Agency (NGA), U.S. Geological Survey (USGS)"
 ], 
-"dc_identifier_s": "urn-3da5fc4c-90e6-46d9-b3fe-f60166bd8843", 
-"dc_relation_sm": [
-"For information on other air photos available for Minnesota, see http://www.mngeo.state.mn.us/chouse/airphoto/index.html"
-], 
+"dc_identifier_s": "3da5fc4c-90e6-46d9-b3fe-f60166bd8843", 
 "georss_polygon_s": "44.74 -93.52 45.26 -93.52 45.26 -92.75 44.74 -92.75 44.74 -93.52", 
 "solr_year_i": 2004, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Geospatial Information Office (MnGeo)"
 ], 
-"layer_id_s": "urn:urn-3da5fc4c-90e6-46d9-b3fe-f60166bd8843", 
+"layer_id_s": "3da5fc4c-90e6-46d9-b3fe-f60166bd8843", 
 "georss_box_s": "44.74 -93.52 45.26 -92.75", 
 "dc_title_s": "USGS High Resolution Orthoimagery: Twin Cities Metro, Minnesota, Spring 2004", 
-"layer_slug_s": "Minnesota-urn-3da5fc4c-90e6-46d9-b3fe-f60166bd8843"
+"layer_slug_s": "3da5fc4c-90e6-46d9-b3fe-f60166bd8843", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

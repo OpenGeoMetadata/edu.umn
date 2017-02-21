@@ -1,0 +1,33 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2017-01-18T17:38:20Z", 
+"solr_geom": "ENVELOPE(-96.753072, -65.113098, 48.518423, 8.496074999999999)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.commissions.leg.state.mn.us/pub/gis/shape/landacq_03192015.zip\",\"http://schema.org/url\":\"http://www.gis.leg.mn/metadata/lccmr.htm\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/4f/a6/aa/1a2df248cdb30c1f7ee26d3e35/iso19139.xml\"}", 
+"dc_rights_s": "Public", 
+"uuid": "4fa6aa1a-2df2-48cd-b30c-1f7ee26d3e35", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Environment", 
+"Conservation", 
+"Natural resources"
+], 
+"dct_temporal_sm": "2005-2015", 
+"dc_description_s": "This data provides information on Lands Acquired through the Environment and Natural Resources Trust Fund and their distribution throughout the state of Minnesota. The data was derived from information provided by project managers of different organizations.", 
+"dct_issued_s": "2015-03-17", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Legislative Coordinating Commission"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "4fa6aa1a-2df2-48cd-b30c-1f7ee26d3e35", 
+"georss_polygon_s": "8.496074999999999 -96.753072 48.518423 -96.753072 48.518423 -65.113098 8.496074999999999 -65.113098 8.496074999999999 -96.753072", 
+"solr_year_i": 2005, 
+"dct_spatial_sm": [
+"Minnesota, United States"
+], 
+"layer_id_s": "4fa6aa1a-2df2-48cd-b30c-1f7ee26d3e35", 
+"georss_box_s": "8.496074999999999 -96.753072 48.518423 -65.113098", 
+"dc_title_s": "Environment and Natural Resources Trust Fund Land Acquisitions: Minnesota, 2005-2014", 
+"layer_slug_s": "4fa6aa1a-2df2-48cd-b30c-1f7ee26d3e35", 
+"dct_isPartOf_sm": "Minnesota Legislative Coordinating Commission - Geospatial Information (LCC-GIS)"
+}

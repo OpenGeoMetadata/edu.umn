@@ -1,10 +1,10 @@
 {
-"layer_geom_type_s": "Raster", 
-"layer_modified_dt": "2016-06-30T11:05:41Z", 
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2017-01-20T18:38:45Z", 
 "solr_geom": "ENVELOPE(-97.612501, -88.842351, 49.464145, 42.906949)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-usgs-scanned-topo-100k-drg\",\"http://schema.org/downloadUrl\":\"ftp://gdrs.dnr.state.mn.us/gdrs/data/pub/us_mn_state_dnr/tif_base_usgs_scanned_topo_100k_drg.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://gdrs.dnr.state.mn.us/gdrs/data/pub/us_mn_state_dnr/tif_base_usgs_scanned_topo_100k_drg.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/base-usgs-scanned-topo-100k-drg\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/08/32/9e/9637794cea9fa85d9939b6276f/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-08329e96-3779-4cea-9fa8-5d9939b6276f", 
+"uuid": "08329e96-3779-4cea-9fa8-5d9939b6276f", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Imagery and Base Maps"
@@ -15,20 +15,18 @@
 "dc_creator_sm": [
 "U.S. Geological Survey (USGS) and Minnesota Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-08329e96-3779-4cea-9fa8-5d9939b6276f", 
-"dc_relation_sm": [
-"base_usgs_scanned_topo_024k_drg, base_usgs_scanned_topo_250k_drg"
-], 
+"dc_identifier_s": "08329e96-3779-4cea-9fa8-5d9939b6276f", 
 "georss_polygon_s": "42.906949 -97.612501 49.464145 -97.612501 49.464145 -88.842351 42.906949 -88.842351 42.906949 -97.612501", 
 "solr_year_i": 2010, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-08329e96-3779-4cea-9fa8-5d9939b6276f", 
+"layer_id_s": "08329e96-3779-4cea-9fa8-5d9939b6276f", 
 "georss_box_s": "42.906949 -97.612501 49.464145 -88.842351", 
 "dc_title_s": "1:100k Digital Raster Graphic, Collars Removed: Minnesota, 2010", 
-"layer_slug_s": "Minnesota-urn-08329e96-3779-4cea-9fa8-5d9939b6276f"
+"layer_slug_s": "08329e96-3779-4cea-9fa8-5d9939b6276f", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

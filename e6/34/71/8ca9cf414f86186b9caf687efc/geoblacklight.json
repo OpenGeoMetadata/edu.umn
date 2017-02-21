@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-08-19T17:37:45Z", 
+"layer_modified_dt": "2016-12-30T13:41:35Z", 
 "solr_geom": "ENVELOPE(-96.199656, -95.157885, 47.163225, 46.705331)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://www.co.becker.mn.us/online_services/GIS_data.aspx\",\"http://schema.org/downloadUrl\":\"http://gis-server.co.becker.mn.us/data/gis/shapefiles/hydro_line.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis-server.co.becker.mn.us/data/gis/shapefiles/hydro_line.zip\",\"http://schema.org/url\":\"http://www.co.becker.mn.us/online_services/GIS_data.aspx\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/e6/34/71/8ca9cf414f86186b9caf687efc/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-e634718c-a9cf-414f-8618-6b9caf687efc", 
+"uuid": "e634718c-a9cf-414f-8618-6b9caf687efc", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Inland Waters"
@@ -17,18 +17,19 @@
 "Becker County, Minnesota"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-e634718c-a9cf-414f-8618-6b9caf687efc", 
+"dc_identifier_s": "e634718c-a9cf-414f-8618-6b9caf687efc", 
 "georss_polygon_s": "46.705331 -96.199656 47.163225 -96.199656 47.163225 -95.157885 46.705331 -95.157885 46.705331 -96.199656", 
 "solr_year_i": 2016, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Becker County, Minnesota"
+"Becker County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Becker County, Minnesota"
 ], 
-"layer_id_s": "urn:urn-e634718c-a9cf-414f-8618-6b9caf687efc", 
+"layer_id_s": "e634718c-a9cf-414f-8618-6b9caf687efc", 
 "georss_box_s": "46.705331 -96.199656 47.163225 -95.157885", 
 "dc_title_s": "Hydrography: Becker County, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-e634718c-a9cf-414f-8618-6b9caf687efc"
+"layer_slug_s": "e634718c-a9cf-414f-8618-6b9caf687efc", 
+"dct_isPartOf_sm": "Becker County GIS Data"
 }

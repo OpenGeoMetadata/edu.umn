@@ -1,10 +1,10 @@
 {
-"layer_geom_type_s": "Raster", 
-"layer_modified_dt": "2016-06-29T09:59:00Z", 
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2017-01-20T18:39:11Z", 
 "solr_geom": "ENVELOPE(-96, -95, 47, 46)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-rha5a-otter-tail-area\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-rha5a-otter-tail-area\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/4d/0c/cc/3b2c5645b897d3e3cd47d67a85/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-4d0ccc3b-2c56-45b8-97d3-e3cd47d67a85", 
+"uuid": "4d0ccc3b-2c56-45b8-97d3-e3cd47d67a85", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Geoscientific Information"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Geological Survey"
 ], 
-"dc_identifier_s": "urn-4d0ccc3b-2c56-45b8-97d3-e3cd47d67a85", 
-"dc_relation_sm": [
-"Paper Report: RHA- 5, Part. A. Harris, K.L., project manager, Regional hydrogeologic assessment: Quaternary geology--Otter Tail area, west-central Minnesota: 1999: 2 pls. PLATES: 1, Harris, K.L., and Knaeble, A. R., Surficial geology, scale 1:200,000; 2, Harris, K.L., Knaeble, A.R., Berg, J.A., Quaternary stratigraphy; scale of lithostratigraphic map on plate, 1:400,000. $8.00. Paper map and report are available from MGS Map Sales Office (2609 Territorial Road, St. Paul, Minnesota, 55114, 612-626-2969.)  RHA-5, Part B, Hydrogeology, is available from the Minnesota Department of Natural Resources Ground Water Mapping Program:  http://www.dnr.state.mn.us/waters/groundwater_section/mapping/index.htmlFor the U of M Libraries Digital Conservancy listing of map products see: http://conservancy.umn.edu/handle/11299/708"
-], 
+"dc_identifier_s": "4d0ccc3b-2c56-45b8-97d3-e3cd47d67a85", 
 "georss_polygon_s": "46 -96 47 -96 47 -95 46 -95 46 -96", 
 "solr_year_i": 1999, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Geological Survey"
 ], 
-"layer_id_s": "urn:urn-4d0ccc3b-2c56-45b8-97d3-e3cd47d67a85", 
+"layer_id_s": "4d0ccc3b-2c56-45b8-97d3-e3cd47d67a85", 
 "georss_box_s": "46 -96 47 -95", 
 "dc_title_s": "Quaternary Geology, Otter Tail Area, West-Central Minnesota (Part A), 1999", 
-"layer_slug_s": "Minnesota-urn-4d0ccc3b-2c56-45b8-97d3-e3cd47d67a85"
+"layer_slug_s": "4d0ccc3b-2c56-45b8-97d3-e3cd47d67a85", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

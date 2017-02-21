@@ -1,0 +1,32 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2017-01-20T18:40:32Z", 
+"solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-gssurgo\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/c2/af/8a/13168e4814aec439d3ac52ea2d/iso19139.xml\"}", 
+"dc_rights_s": "Public", 
+"uuid": "c2af8a13-168e-4814-aec4-39d3ac52ea2d", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Geoscientific Information"
+], 
+"dc_format_s": "File", 
+"dc_description_s": "The gSSURGO dataset provides detailed soil survey mapping in raster format with ready-to-map attributes organized in statewide tiles for desktop GIS. gSSURGO is derived from the official Soil Survey Geographic (SSURGO) Database. SSURGO generally has the most detailed level of soil geographic data developed by the National Cooperative Soil Survey (NCSS) in accordance with NCSS mapping standards. The tabular data represent the soil attributes and are derived from properties and characteristics stored in the National Soil Information System (NASIS). The gSSURGO data were prepared by merging the traditional vector-based SSURGO digital map data and tabular data into statewide extents, adding a statewide gridded map layer derived from the vector layer, and adding a new value-added look up table (valu) containing ready-to-map attributes. The gridded map layer is in an ArcGIS file geodatabase in raster format, thus it has the capacity to store significantly more data and greater spatial extents than the traditional SSURGO product. The raster map data have a 10-meter cell size that approximates the vector polygons in an Albers Equal Area projection. Each cell (and polygon) is linked to a map unit identifier called the map unit key. A unique map unit key is used to link the raster cells and polygons to attribute tables. For more information, see the gSSURGO webpage: http://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/survey/geo/?cid=nrcs142p2_053628", 
+"dct_temporal_sm": "2016", 
+"dc_creator_sm": [
+"U.S. Department of Agriculture (USDA), Natural Resources Conservation Service (NRCS)"
+], 
+"dc_identifier_s": "c2af8a13-168e-4814-aec4-39d3ac52ea2d", 
+"georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
+"solr_year_i": 2016, 
+"dct_spatial_sm": [
+"Minnesota, United States"
+], 
+"dc_publisher_sm": [
+"Natural Resources Conservation Service"
+], 
+"layer_id_s": "c2af8a13-168e-4814-aec4-39d3ac52ea2d", 
+"georss_box_s": "43.5 -97.23 49.37 -89.53", 
+"dc_title_s": "Gridded Soil Survey Geographic Database (gSSURGO): Minnesota", 
+"layer_slug_s": "c2af8a13-168e-4814-aec4-39d3ac52ea2d", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
+}

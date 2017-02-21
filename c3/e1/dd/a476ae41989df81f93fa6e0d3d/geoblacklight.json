@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-09-02T14:54:49Z", 
+"layer_modified_dt": "2016-12-30T13:41:50Z", 
 "solr_geom": "ENVELOPE(-93.142176, -92.645306, 45.730939, 45.295519)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gis.chisagocounty.us/Link/SpatialData/Sections.zip\",\"http://schema.org/url\":\"http://gis.chisagocounty.us/Link/jsfe/index.aspx\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gis.chisagocounty.us/Link/SpatialData/Sections.zip\",\"http://schema.org/url\":\"http://gis.chisagocounty.us/Link/jsfe/index.aspx\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/c3/e1/dd/a476ae41989df81f93fa6e0d3d/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-c3e1dda4-76ae-4198-9df8-1f93fa6e0d3d", 
+"uuid": "c3e1dda4-76ae-4198-9df8-1f93fa6e0d3d", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Planning and Cadastral"
@@ -17,18 +17,19 @@
 "Chisago County"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-c3e1dda4-76ae-4198-9df8-1f93fa6e0d3d", 
+"dc_identifier_s": "c3e1dda4-76ae-4198-9df8-1f93fa6e0d3d", 
 "georss_polygon_s": "45.295519 -93.142176 45.730939 -93.142176 45.730939 -92.645306 45.295519 -92.645306 45.295519 -93.142176", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Chisago County, Minnesota", 
-"Minnesota"
+"Chisago County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Chisago County"
 ], 
-"layer_id_s": "urn:urn-c3e1dda4-76ae-4198-9df8-1f93fa6e0d3d", 
+"layer_id_s": "c3e1dda4-76ae-4198-9df8-1f93fa6e0d3d", 
 "georss_box_s": "45.295519 -93.142176 45.730939 -92.645306", 
 "dc_title_s": "Sections: Chisago County, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-c3e1dda4-76ae-4198-9df8-1f93fa6e0d3d"
+"layer_slug_s": "c3e1dda4-76ae-4198-9df8-1f93fa6e0d3d", 
+"dct_isPartOf_sm": "Chisago County GIS Data"
 }

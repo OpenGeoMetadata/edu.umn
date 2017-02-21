@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Point", 
-"layer_modified_dt": "2016-09-28T10:52:52Z", 
+"layer_modified_dt": "2016-12-30T13:41:22Z", 
 "solr_geom": "ENVELOPE(-93.326761241597, -93.208779105617, 45.0475905220239, 44.8927088663169)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/77c3283978464432b9a391b8b9cf7885_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/AirQualitySurvey2015Update/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/77c3283978464432b9a391b8b9cf7885_0.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/77c3283978464432b9a391b8b9cf7885_0.zip\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/77c3283978464432b9a391b8b9cf7885_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/37/c1/33/39d5944ac391d54059fd3217f1/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/AirQualitySurvey2015Update/FeatureServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-37c13339-d594-4ac3-91d5-4059fd3217f1", 
+"uuid": "37c13339-d594-4ac3-91d5-4059fd3217f1", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Environment", 
@@ -18,18 +18,19 @@
 "City of Minneapolis"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-37c13339-d594-4ac3-91d5-4059fd3217f1", 
+"dc_identifier_s": "37c13339-d594-4ac3-91d5-4059fd3217f1", 
 "georss_polygon_s": "44.8927088663169 -93.326761241597 45.0475905220239 -93.326761241597 45.0475905220239 -93.208779105617 44.8927088663169 -93.208779105617 44.8927088663169 -93.326761241597", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minneapolis, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "City of Minneapolis"
 ], 
-"layer_id_s": "urn:urn-37c13339-d594-4ac3-91d5-4059fd3217f1", 
+"layer_id_s": "37c13339-d594-4ac3-91d5-4059fd3217f1", 
 "georss_box_s": "44.8927088663169 -93.326761241597 45.0475905220239 -93.208779105617", 
 "dc_title_s": "Air Quality Survey: Minneapolis, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-37c13339-d594-4ac3-91d5-4059fd3217f1"
+"layer_slug_s": "37c13339-d594-4ac3-91d5-4059fd3217f1", 
+"dct_isPartOf_sm": "Minneapolis Open Data"
 }

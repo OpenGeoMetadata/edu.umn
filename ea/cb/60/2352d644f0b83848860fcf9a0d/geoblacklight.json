@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:42Z", 
+"layer_modified_dt": "2017-01-20T18:40:06Z", 
 "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-zip-code-tabulation-areas\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mngeo/bdry_zip_code_tabulation_areas/shp_bdry_zip_code_tabulation_areas.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mngeo/bdry_zip_code_tabulation_areas/shp_bdry_zip_code_tabulation_areas.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-zip-code-tabulation-areas\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/ea/cb/60/2352d644f0b83848860fcf9a0d/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-eacb6023-52d6-44f0-b838-48860fcf9a0d", 
+"uuid": "eacb6023-52d6-44f0-b838-48860fcf9a0d", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Boundaries"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "U.S. Department of Commerce, U.S. Census Bureau, Geography Division"
 ], 
-"dc_identifier_s": "urn-eacb6023-52d6-44f0-b838-48860fcf9a0d", 
-"dc_relation_sm": [
-"For nationwide ZCTAs and for related ZCTA products, see: http://www.census.gov/geo/reference/zctas.html"
-], 
+"dc_identifier_s": "eacb6023-52d6-44f0-b838-48860fcf9a0d", 
 "georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
 "solr_year_i": 2010, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "U.S. Census Bureau"
 ], 
-"layer_id_s": "urn:urn-eacb6023-52d6-44f0-b838-48860fcf9a0d", 
+"layer_id_s": "eacb6023-52d6-44f0-b838-48860fcf9a0d", 
 "georss_box_s": "43.5 -97.23 49.37 -89.53", 
 "dc_title_s": "ZIP Code Tabulation Areas, 5-digit (ZCTA5): Minnesota, 2010", 
-"layer_slug_s": "Minnesota-urn-eacb6023-52d6-44f0-b838-48860fcf9a0d"
+"layer_slug_s": "eacb6023-52d6-44f0-b838-48860fcf9a0d", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

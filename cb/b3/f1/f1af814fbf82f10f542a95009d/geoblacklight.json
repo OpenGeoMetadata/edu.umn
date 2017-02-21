@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:15Z", 
+"layer_modified_dt": "2017-01-20T18:39:31Z", 
 "solr_geom": "ENVELOPE(-93.144399, -92.289602, 46.419592, 45.727871)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/elev-lidar-pine2006\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/elev-lidar-pine2006\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/cb/b3/f1/f1af814fbf82f10f542a95009d/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-cbb3f1f1-af81-4fbf-82f1-0f542a95009d", 
+"uuid": "cbb3f1f1-af81-4fbf-82f1-0f542a95009d", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Elevation"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Sanborn Mapping for the U.S. Department of Agriculture Natural Resources Conservation Service"
 ], 
-"dc_identifier_s": "urn-cbb3f1f1-af81-4fbf-82f1-0f542a95009d", 
-"dc_relation_sm": [
-"1. Pine County check points collected by Houston Engineeringhttp://www.mngeo.state.mn.us/chouse/metadata/lidar_checkpts_pine2007.html2. For information on other elevation data available in Minnesota, see:http://www.mngeo.state.mn.us/chouse/elevation/index.html"
-], 
+"dc_identifier_s": "cbb3f1f1-af81-4fbf-82f1-0f542a95009d", 
 "georss_polygon_s": "45.727871 -93.144399 46.419592 -93.144399 46.419592 -92.289602 45.727871 -92.289602 45.727871 -93.144399", 
-"solr_year_i": 2007, 
+"solr_year_i": 2006, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Pine County, Minnesota"
+"Minnesota, United States", 
+"Pine County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-cbb3f1f1-af81-4fbf-82f1-0f542a95009d", 
+"layer_id_s": "cbb3f1f1-af81-4fbf-82f1-0f542a95009d", 
 "georss_box_s": "45.727871 -93.144399 46.419592 -92.289602", 
 "dc_title_s": "LiDAR Elevation: Pine County, Minnesota, 2006", 
-"layer_slug_s": "Minnesota-urn-cbb3f1f1-af81-4fbf-82f1-0f542a95009d"
+"layer_slug_s": "cbb3f1f1-af81-4fbf-82f1-0f542a95009d", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

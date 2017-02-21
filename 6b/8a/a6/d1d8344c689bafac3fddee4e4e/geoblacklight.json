@@ -1,10 +1,10 @@
 {
-"layer_geom_type_s": "Raster", 
-"layer_modified_dt": "2016-06-29T09:58:52Z", 
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2017-01-20T18:38:59Z", 
 "solr_geom": "ENVELOPE(-92.45, -91.72, 43.85, 43.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-geologic-atlas-fill-c08a\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-geologic-atlas-fill-c08a\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/6b/8a/a6/d1d8344c689bafac3fddee4e4e/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-6b8aa6d1-d834-4c68-9baf-ac3fddee4e4e", 
+"uuid": "6b8aa6d1-d834-4c68-9baf-ac3fddee4e4e", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Geoscientific Information"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Minnesota Geological Survey (MGS)"
 ], 
-"dc_identifier_s": "urn-6b8aa6d1-d834-4c68-9baf-ac3fddee4e4e", 
-"dc_relation_sm": [
-"C-8, Part A. Geologic atlas of Fillmore County, Minnesota. J.H. Mossler, project manager. 1995. 5 plates. Scale  1:100,000. Plates: 1, Data-base map; 2, Bedrock geology; 3, Surficial geology; 4, Depth to bedrock and bedrock topography; 5, Geologic resources. $12.00. Digital files in unix format, no metadata.  Paper map and report available from MGS Map Sales Office (2609 Territorial Road, St. Paul, Minnesota, 55114, 612-626-2969.)C-8, Part B. Geologic atlas of Fillmore County, Minnesota. J. Falteisek, Minnesota Dept. of Natural Resources, Division of  Waters, project supervisor. 1996. 4 pls. Scale 1:100,000. Plates: 6, Bedrock hydrogeology; 7, Sensitivity of the St. Peter-Prairie du Chien-Jordan aquifer to pollution; 8, Sinkholes and sinkhole probability; 9, Springsheds. $12.00. Note: Numbering continues from Part A. C-8, Part C. Text supplement to the Geologic Atlas of Fillmore County, Minnesota. R.S. Lively and N.H. Balaban, eds. 1995. 41 p. $2.00. For a listing of all geologic maps go to the Minnesota Geological Survey website at: http://www.mngs.umn.edu/mgsdocs.htmlFor a complete listing of MGS State Map Series Maps, Reports, and GIS Data, see http://conservancy.umn.edu/handle/11299/708For other County Atlas and Regional Hydrogeologic Assessment data see: http://www.mngs.umn.edu/county_atlas/countyatlas.htm For a listing of the status of the DNR Ground Water Mapping Program (Part B), go to: http://www.dnr.state.mn.us/waters/groundwater_section/mapping/index.html"
-], 
+"dc_identifier_s": "6b8aa6d1-d834-4c68-9baf-ac3fddee4e4e", 
 "georss_polygon_s": "43.5 -92.45 43.85 -92.45 43.85 -91.72 43.5 -91.72 43.5 -92.45", 
 "solr_year_i": 1995, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Fillmore County, Minnesota"
+"Minnesota, United States", 
+"Fillmore County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Geological Survey"
 ], 
-"layer_id_s": "urn:urn-6b8aa6d1-d834-4c68-9baf-ac3fddee4e4e", 
+"layer_id_s": "6b8aa6d1-d834-4c68-9baf-ac3fddee4e4e", 
 "georss_box_s": "43.5 -92.45 43.85 -91.72", 
 "dc_title_s": "Geologic Atlas of Fillmore County, Minnesota (Part A), 1995", 
-"layer_slug_s": "Minnesota-urn-6b8aa6d1-d834-4c68-9baf-ac3fddee4e4e"
+"layer_slug_s": "6b8aa6d1-d834-4c68-9baf-ac3fddee4e4e", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

@@ -1,15 +1,15 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:06Z", 
+"layer_modified_dt": "2017-01-20T18:40:37Z", 
 "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metrogis-plan-regonal-parcels-2003\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metrogis/plan_regonal_parcels_2003/shp_plan_regonal_parcels_2003.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metrogis/plan_regonal_parcels_2003/shp_plan_regonal_parcels_2003.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metrogis-plan-regonal-parcels-2003\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/af/a2/8b/c0a45d43bc9aed6afc5b4483e7/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-afa28bc0-a45d-43bc-9aed-6afc5b4483e7", 
+"uuid": "afa28bc0-a45d-43bc-9aed-6afc5b4483e7", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Planning and Cadastral", 
-"land planning", 
-"regional planning"
+"Land planning", 
+"Regional planning"
 ], 
 "dct_temporal_sm": "2003", 
 "dc_description_s": "This dataset is a compilation of tax parcel polygon layers from the seven Twin Cities, Minnesota metropolitan area counties of Anoka, Carver, Dakota, Hennepin, Ramsey, Scott and Washington. The seven counties were assembled into a common coordinate system. No attempt has been made to edgematch or rubbersheet between counties. A standard set of attribute fields is included for each county. Not all attributes are populated for all counties. This is an annual version of the MetroGIS Regional Parcel Dataset that can be used with other annual versions to do change analysis and time series investigations. This dataset is intended to contain all updates to each county's parcel data through the end of 2003. It was originally published as the 'January 1, 2004' version of the dataset. See the Currentness Reference below and the Entity and Attribute information in Section 5 for more information about the dates for specific aspects of the dataset. This dataset contains one record for each real estate/tax parcel polygon. In many places a one-to-one relationship does not exist between these parcel polygons and the actual buildings or occupancy units that lie within them. There may be many buildings on one parcel and there may be many occupancy units (e.g. apartments, stores or offices) within each building. Additionally, no information exists within this dataset about residents of parcels. Parcel owner and taxpayer information exists for many, but not all counties. Some counties have also made available a parcel points dataset that includes the same attribute fields as the polygon dataset. The point are intended to provide information in situations where multiple tax parcels are represented by a single polygon. The primary example of this is the condominium. Condominiums, by definition, are legally owned as individual, taxed real estate units. Records for condominiums may not show up in the polygon dataset. This is a MetroGIS Regionally Endorsed dataset.", 
@@ -18,21 +18,19 @@
 "dc_creator_sm": [
 "Counties of Anoka, Carver, Dakota, Hennepin, Ramsey, Scott and Washington"
 ], 
-"dc_identifier_s": "urn-afa28bc0-a45d-43bc-9aed-6afc5b4483e7", 
-"dc_relation_sm": [
-"Regional Parcel Dataset - Seven County Twin Cities Metropolitan Area2002 - current"
-], 
+"dc_identifier_s": "afa28bc0-a45d-43bc-9aed-6afc5b4483e7", 
 "georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
-"solr_year_i": 2004, 
+"solr_year_i": 2003, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-afa28bc0-a45d-43bc-9aed-6afc5b4483e7", 
+"layer_id_s": "afa28bc0-a45d-43bc-9aed-6afc5b4483e7", 
 "georss_box_s": "44.471 -94.012 45.415 -92.732", 
 "dc_title_s": "MetroGIS Regional Parcels: Twin Cities Metro, 2003", 
-"layer_slug_s": "Minnesota-urn-afa28bc0-a45d-43bc-9aed-6afc5b4483e7"
+"layer_slug_s": "afa28bc0-a45d-43bc-9aed-6afc5b4483e7", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

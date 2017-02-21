@@ -1,14 +1,17 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:58:45Z", 
+"layer_modified_dt": "2017-01-20T18:38:49Z", 
 "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/trans-water-trails-minnesota\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/trans_water_trails_minnesota/shp_trans_water_trails_minnesota.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/trans_water_trails_minnesota/shp_trans_water_trails_minnesota.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/trans-water-trails-minnesota\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/d4/3c/69/5c7e7841b1897ee3b2f1847f05/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-d43c695c-7e78-41b1-897e-e3b2f1847f05", 
+"uuid": "d43c695c-7e78-41b1-897e-e3b2f1847f05", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Inland Waters", 
-"boating"
+"Boating", 
+"Kayak trail", 
+"Canoe and boating routes", 
+"Water trails"
 ], 
 "dct_temporal_sm": "2016", 
 "dc_description_s": "This dataset represents state water trails in the State of Minnesota as designated through legislation and recognized by the Department of Natural Resources. The alignments represent the approximate river centerlines as interpreted from 2009 aerial photographs. The alignments were created at a scale between 1:2000 and 1:10000.", 
@@ -17,20 +20,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-d43c695c-7e78-41b1-897e-e3b2f1847f05", 
-"dc_relation_sm": [
-""
-], 
+"dc_identifier_s": "d43c695c-7e78-41b1-897e-e3b2f1847f05", 
 "georss_polygon_s": "43.5 -97.23 49.37 -97.23 49.37 -89.53 43.5 -89.53 43.5 -97.23", 
 "solr_year_i": 2016, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-d43c695c-7e78-41b1-897e-e3b2f1847f05", 
+"layer_id_s": "d43c695c-7e78-41b1-897e-e3b2f1847f05", 
 "georss_box_s": "43.5 -97.23 49.37 -89.53", 
 "dc_title_s": "Water Trails: Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-d43c695c-7e78-41b1-897e-e3b2f1847f05"
+"layer_slug_s": "d43c695c-7e78-41b1-897e-e3b2f1847f05", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

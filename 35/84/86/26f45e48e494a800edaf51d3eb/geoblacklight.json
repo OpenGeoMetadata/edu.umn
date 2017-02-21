@@ -1,0 +1,33 @@
+{
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2017-01-18T17:38:22Z", 
+"solr_geom": "ENVELOPE(-97.269853, -89.389133, 49.404414, 43.435244)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.commissions.leg.state.mn.us/pub/gis/plans/congress/C2002/cong2002.zip\",\"http://schema.org/url\":\"http://www.gis.leg.mn/metadata/cong02.htm\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/35/84/86/26f45e48e494a800edaf51d3eb/iso19139.xml\"}", 
+"dc_rights_s": "Public", 
+"uuid": "35848626-f45e-48e4-94a8-00edaf51d3eb", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Society", 
+"Boundaries", 
+"Congressional districts"
+], 
+"dct_temporal_sm": "2002", 
+"dc_description_s": "This is a polygon data set for the 2002 Congressional Districts.  This database of Congressional District Boundares was developed from U.S. Census Bureau 2000 TIGER/Line files as a result of a redistricting effort.", 
+"dct_issued_s": "2003-02-26", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Legislative Coordinating Commission"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "35848626-f45e-48e4-94a8-00edaf51d3eb", 
+"georss_polygon_s": "43.435244 -97.269853 49.404414 -97.269853 49.404414 -89.389133 43.435244 -89.389133 43.435244 -97.269853", 
+"solr_year_i": 2002, 
+"dct_spatial_sm": [
+"Minnesota, United States"
+], 
+"layer_id_s": "35848626-f45e-48e4-94a8-00edaf51d3eb", 
+"georss_box_s": "43.435244 -97.269853 49.404414 -89.389133", 
+"dc_title_s": "Congressional Districts: Minnesota, 2002", 
+"layer_slug_s": "35848626-f45e-48e4-94a8-00edaf51d3eb", 
+"dct_isPartOf_sm": "Minnesota Legislative Coordinating Commission - Geospatial Information (LCC-GIS)"
+}

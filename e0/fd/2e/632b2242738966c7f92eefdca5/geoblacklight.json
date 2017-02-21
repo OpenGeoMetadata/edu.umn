@@ -1,10 +1,10 @@
 {
-"layer_geom_type_s": "Raster", 
-"layer_modified_dt": "2016-06-29T09:59:38Z", 
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2017-01-20T18:40:00Z", 
 "solr_geom": "ENVELOPE(-97.5, -89, 49.5, 43)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-bedrock-geology-mn\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-bedrock-geology-mn\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/e0/fd/2e/632b2242738966c7f92eefdca5/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-e0fd2e63-2b22-4273-8966-c7f92eefdca5", 
+"uuid": "e0fd2e63-2b22-4273-8966-c7f92eefdca5", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Geoscientific Information"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Geological Survey (MGS) and Minnesota Geospatial Information Office (MnGeo)"
 ], 
-"dc_identifier_s": "urn-e0fd2e63-2b22-4273-8966-c7f92eefdca5", 
-"dc_relation_sm": [
-"Map:  'Geologic Map of Minnesota: Quaternary Geology', Minnesota Geological Survey Map S-1, 1982, J.C. Hobbs and J.E. Goebel, is the basis for this data layer. For a complete listing of MGS State Map Series Maps, Reports, and GIS Data, see http://conservancy.umn.edu/handle/11299/59725U of M Digital Conservancy information on this map is at http://conservancy.umn.edu/handle/11299/60085"
-], 
+"dc_identifier_s": "e0fd2e63-2b22-4273-8966-c7f92eefdca5", 
 "georss_polygon_s": "43 -97.5 49.5 -97.5 49.5 -89 43 -89 43 -97.5", 
 "solr_year_i": 1982, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Geological Survey"
 ], 
-"layer_id_s": "urn:urn-e0fd2e63-2b22-4273-8966-c7f92eefdca5", 
+"layer_id_s": "e0fd2e63-2b22-4273-8966-c7f92eefdca5", 
 "georss_box_s": "43 -97.5 49.5 -89", 
 "dc_title_s": "Geologic Map of Minnesota - Quaternary Geology, (MGS Map S-1), 1982", 
-"layer_slug_s": "Minnesota-urn-e0fd2e63-2b22-4273-8966-c7f92eefdca5"
+"layer_slug_s": "e0fd2e63-2b22-4273-8966-c7f92eefdca5", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

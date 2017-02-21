@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-09-02T14:55:30Z", 
+"layer_modified_dt": "2016-12-30T13:41:26Z", 
 "solr_geom": "ENVELOPE(-93.266839, -92.524135, 45.848379, 45.208703)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gis.chisagocounty.us/Link/SpatialData/Roads.zip\",\"http://schema.org/url\":\"http://gis.chisagocounty.us/Link/jsfe/index.aspx\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gis.chisagocounty.us/Link/SpatialData/Roads.zip\",\"http://schema.org/url\":\"http://gis.chisagocounty.us/Link/jsfe/index.aspx\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/79/f9/6f/26feaa4d19aa50f64b82421ea0/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-79f96f26-feaa-4d19-aa50-f64b82421ea0", 
+"uuid": "79f96f26-feaa-4d19-aa50-f64b82421ea0", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Transportation"
@@ -17,18 +17,19 @@
 "Chisago County"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-79f96f26-feaa-4d19-aa50-f64b82421ea0", 
+"dc_identifier_s": "79f96f26-feaa-4d19-aa50-f64b82421ea0", 
 "georss_polygon_s": "45.208703 -93.266839 45.848379 -93.266839 45.848379 -92.524135 45.208703 -92.524135 45.208703 -93.266839", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Chisago County", 
-"Minnesota"
+"Chisago County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Chisago County"
 ], 
-"layer_id_s": "urn:urn-79f96f26-feaa-4d19-aa50-f64b82421ea0", 
+"layer_id_s": "79f96f26-feaa-4d19-aa50-f64b82421ea0", 
 "georss_box_s": "45.208703 -93.266839 45.848379 -92.524135", 
 "dc_title_s": "Roads: Chisago County, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-79f96f26-feaa-4d19-aa50-f64b82421ea0"
+"layer_slug_s": "79f96f26-feaa-4d19-aa50-f64b82421ea0", 
+"dct_isPartOf_sm": "Chisago County GIS Data"
 }

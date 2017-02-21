@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:38Z", 
+"layer_modified_dt": "2017-01-20T18:40:00Z", 
 "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-bdry-metro-counties-and-ctus\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Administrative_Political_Boundaries/MapServer/5\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/bdry_metro_counties_and_ctus/shp_bdry_metro_counties_and_ctus.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/bdry_metro_counties_and_ctus/shp_bdry_metro_counties_and_ctus.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-bdry-metro-counties-and-ctus\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/2f/c1/71/1a87554299af03db13e1aebf05/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Administrative_Political_Boundaries/MapServer/5\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-2fc1711a-8755-4299-af03-db13e1aebf05", 
+"uuid": "2fc1711a-8755-4299-af03-db13e1aebf05", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Boundaries"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "The Counties of Anoka, Dakota, Carver, Hennepin, Ramsey, Scott and Washington and the Metropolitan Council"
 ], 
-"dc_identifier_s": "urn-2fc1711a-8755-4299-af03-db13e1aebf05", 
-"dc_relation_sm": [
-"County CTU Lookup Table"
-], 
+"dc_identifier_s": "2fc1711a-8755-4299-af03-db13e1aebf05", 
 "georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
 "solr_year_i": 2016, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-2fc1711a-8755-4299-af03-db13e1aebf05", 
+"layer_id_s": "2fc1711a-8755-4299-af03-db13e1aebf05", 
 "georss_box_s": "44.471 -94.012 45.415 -92.732", 
 "dc_title_s": "Counties, Cities and Townships: Twin Cities Metro, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-2fc1711a-8755-4299-af03-db13e1aebf05"
+"layer_slug_s": "2fc1711a-8755-4299-af03-db13e1aebf05", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

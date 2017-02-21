@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:59Z", 
+"layer_modified_dt": "2017-01-20T18:40:28Z", 
 "solr_geom": "ENVELOPE(-97.269853, -89.389133, 49.404387, 43.435244)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-mn-city-township-unorg\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dot/bdry_mn_city_township_unorg/shp_bdry_mn_city_township_unorg.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dot/bdry_mn_city_township_unorg/shp_bdry_mn_city_township_unorg.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-mn-city-township-unorg\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/48/43/7e/e0d5d843549ec63a89243144e3/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-48437ee0-d5d8-4354-9ec6-3a89243144e3", 
+"uuid": "48437ee0-d5d8-4354-9ec6-3a89243144e3", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Boundaries"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Transportation"
 ], 
-"dc_identifier_s": "urn-48437ee0-d5d8-4354-9ec6-3a89243144e3", 
-"dc_relation_sm": [
-"The Minnesota CTU database is an up-to-date resource for Minnesota CTU ID codes and names:http://www.mngeo.state.mn.us/CTU/index.htmlCTU boundary files for previous years can be obtained from the following websites:1. MCD2003 - http://www.mngeo.state.mn.us/chouse/metadata/mcd2003.html2. Mn/DOT BaseMap 2001 - Muni -  http://www.dot.state.mn.us/maps/gdma/data/metadata/muni.htm3. 2000 Minor Civil Divisions - http://www.mngeo.state.mn.us/chouse/metadata/mcd.html (this file contains many Census 2000 population attributes)4. MCD 1998/1995 - ftp://ftp.commissions.leg.state.mn.us/pub/gis/shape/5. Minor Civil Divisions, Minnesota, 1990 -  http://www.mngeo.state.mn.us/chouse/metadata/mcd90.html (this file contains 1990 Census population totals).For more information about municipal boundary adjustments, see:  http://www.mba.state.mn.us/"
-], 
+"dc_identifier_s": "48437ee0-d5d8-4354-9ec6-3a89243144e3", 
 "georss_polygon_s": "43.435244 -97.269853 49.404387 -97.269853 49.404387 -89.389133 43.435244 -89.389133 43.435244 -97.269853", 
-"solr_year_i": 2016, 
+"solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Geospatial Information Office (MnGeo)"
 ], 
-"layer_id_s": "urn:urn-48437ee0-d5d8-4354-9ec6-3a89243144e3", 
+"layer_id_s": "48437ee0-d5d8-4354-9ec6-3a89243144e3", 
 "georss_box_s": "43.435244 -97.269853 49.404387 -89.389133", 
 "dc_title_s": "City, Township, and Unorganized Territory (CTU) Boundaries: Minnesota, December 31, 2015", 
-"layer_slug_s": "Minnesota-urn-48437ee0-d5d8-4354-9ec6-3a89243144e3"
+"layer_slug_s": "48437ee0-d5d8-4354-9ec6-3a89243144e3", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

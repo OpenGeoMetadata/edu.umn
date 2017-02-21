@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-08-18T18:10:47Z", 
+"layer_modified_dt": "2016-12-30T13:41:27Z", 
 "solr_geom": "ENVELOPE(-93.513402, -93.018369, 45.41481, 45.0352)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://gisdata.co.anoka.mn.us/Watershed_Districts.zip\",\"http://schema.org/url\":\"https://www.anokacounty.us/1990/Data-Downloads\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://gisdata.co.anoka.mn.us/Watershed_Districts.zip\",\"http://schema.org/url\":\"https://www.anokacounty.us/1990/Data-Downloads\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/67/f9/e9/bc6e5a41edbf0bc7afca2392fd/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-67f9e9bc-6e5a-41ed-bf0b-c7afca2392fd", 
+"uuid": "67f9e9bc-6e5a-41ed-bf0b-c7afca2392fd", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Inland Waters", 
@@ -19,18 +19,19 @@
 "Anoka County"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-67f9e9bc-6e5a-41ed-bf0b-c7afca2392fd", 
+"dc_identifier_s": "67f9e9bc-6e5a-41ed-bf0b-c7afca2392fd", 
 "georss_polygon_s": "45.0352 -93.513402 45.41481 -93.513402 45.41481 -93.018369 45.0352 -93.018369 45.0352 -93.513402", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Anoka County, Minnesota"
+"Anoka County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Anoka County"
 ], 
-"layer_id_s": "urn:urn-67f9e9bc-6e5a-41ed-bf0b-c7afca2392fd", 
+"layer_id_s": "67f9e9bc-6e5a-41ed-bf0b-c7afca2392fd", 
 "georss_box_s": "45.0352 -93.513402 45.41481 -93.018369", 
 "dc_title_s": "Watershed Districts: Anoka County, Minnesota", 
-"layer_slug_s": "Minnesota-urn-67f9e9bc-6e5a-41ed-bf0b-c7afca2392fd"
+"layer_slug_s": "67f9e9bc-6e5a-41ed-bf0b-c7afca2392fd", 
+"dct_isPartOf_sm": "Anoka County GIS Data"
 }

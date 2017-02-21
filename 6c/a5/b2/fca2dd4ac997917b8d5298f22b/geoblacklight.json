@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-08-19T17:50:11Z", 
+"layer_modified_dt": "2016-12-30T13:41:41Z", 
 "solr_geom": "ENVELOPE(-96.268508, -95.133557, 47.20128, 46.673693)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://www.co.becker.mn.us/online_services/GIS_data.aspx\",\"http://schema.org/downloadUrl\":\"http://gis-server.co.becker.mn.us/data/gis/shapefiles/lidar_contours.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis-server.co.becker.mn.us/data/gis/shapefiles/lidar_contours.zip\",\"http://schema.org/url\":\"http://www.co.becker.mn.us/online_services/GIS_data.aspx\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/6c/a5/b2/fca2dd4ac997917b8d5298f22b/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-6ca5b2fc-a2dd-4ac9-9791-7b8d5298f22b", 
+"uuid": "6ca5b2fc-a2dd-4ac9-9791-7b8d5298f22b", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Elevation"
@@ -17,18 +17,19 @@
 "Becker County, Minnesota"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-6ca5b2fc-a2dd-4ac9-9791-7b8d5298f22b", 
+"dc_identifier_s": "6ca5b2fc-a2dd-4ac9-9791-7b8d5298f22b", 
 "georss_polygon_s": "46.673693 -96.268508 47.20128 -96.268508 47.20128 -95.133557 46.673693 -95.133557 46.673693 -96.268508", 
 "solr_year_i": 2013, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Becker County, Minnesota"
+"Becker County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Becker County, Minnesota"
 ], 
-"layer_id_s": "urn:urn-6ca5b2fc-a2dd-4ac9-9791-7b8d5298f22b", 
+"layer_id_s": "6ca5b2fc-a2dd-4ac9-9791-7b8d5298f22b", 
 "georss_box_s": "46.673693 -96.268508 47.20128 -95.133557", 
 "dc_title_s": "Lidar Contours: Becker County, Minnesota, 2013", 
-"layer_slug_s": "Minnesota-urn-6ca5b2fc-a2dd-4ac9-9791-7b8d5298f22b"
+"layer_slug_s": "6ca5b2fc-a2dd-4ac9-9791-7b8d5298f22b", 
+"dct_isPartOf_sm": "Becker County GIS Data"
 }

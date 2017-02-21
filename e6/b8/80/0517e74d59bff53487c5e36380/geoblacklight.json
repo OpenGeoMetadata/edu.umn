@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:09Z", 
+"layer_modified_dt": "2017-01-20T18:39:22Z", 
 "solr_geom": "ENVELOPE(-96.833073, -89.397037, 49.348242, 43.435393)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/atmos-1969-1990-mn-precip-avg\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/atmos_1969_1990_mn_precip_avg/shp_atmos_1969_1990_mn_precip_avg.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/atmos_1969_1990_mn_precip_avg/shp_atmos_1969_1990_mn_precip_avg.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/atmos-1969-1990-mn-precip-avg\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/e6/b8/80/0517e74d59bff53487c5e36380/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-e6b88005-17e7-4d59-bff5-3487c5e36380", 
+"uuid": "e6b88005-17e7-4d59-bff5-3487c5e36380", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Climatology, Meteorology and Atmosphere"
@@ -16,17 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-e6b88005-17e7-4d59-bff5-3487c5e36380", 
+"dc_identifier_s": "e6b88005-17e7-4d59-bff5-3487c5e36380", 
 "georss_polygon_s": "43.435393 -96.833073 49.348242 -96.833073 49.348242 -89.397037 43.435393 -89.397037 43.435393 -96.833073", 
 "solr_year_i": 1961, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-e6b88005-17e7-4d59-bff5-3487c5e36380", 
+"layer_id_s": "e6b88005-17e7-4d59-bff5-3487c5e36380", 
 "georss_box_s": "43.435393 -96.833073 49.348242 -89.397037", 
 "dc_title_s": "Precipitation Average: Minnesota, 1961-1990", 
-"layer_slug_s": "Minnesota-urn-e6b88005-17e7-4d59-bff5-3487c5e36380"
+"layer_slug_s": "e6b88005-17e7-4d59-bff5-3487c5e36380", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

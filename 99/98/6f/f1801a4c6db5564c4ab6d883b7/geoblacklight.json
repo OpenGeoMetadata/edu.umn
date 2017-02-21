@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-09-28T11:11:32Z", 
+"layer_modified_dt": "2016-12-30T13:42:33Z", 
 "solr_geom": "ENVELOPE(-93.3290771847041, -93.1953071953443, 45.0511598180844, 44.8906173367841)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/ccee069bb5424150b3d3a79fbdc35a9e_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Future_LandUse/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/ccee069bb5424150b3d3a79fbdc35a9e_0.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/ccee069bb5424150b3d3a79fbdc35a9e_0.zip\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/ccee069bb5424150b3d3a79fbdc35a9e_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/99/98/6f/f1801a4c6db5564c4ab6d883b7/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Future_LandUse/FeatureServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-99986ff1-801a-4c6d-b556-4c4ab6d883b7", 
+"uuid": "99986ff1-801a-4c6d-b556-4c4ab6d883b7", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Planning and Cadastral"
@@ -17,18 +17,19 @@
 "City of Minneapolis"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-99986ff1-801a-4c6d-b556-4c4ab6d883b7", 
+"dc_identifier_s": "99986ff1-801a-4c6d-b556-4c4ab6d883b7", 
 "georss_polygon_s": "44.8906173367841 -93.3290771847041 45.0511598180844 -93.3290771847041 45.0511598180844 -93.1953071953443 44.8906173367841 -93.1953071953443 44.8906173367841 -93.3290771847041", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minneapolis, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "City of Minneapolis"
 ], 
-"layer_id_s": "urn:urn-99986ff1-801a-4c6d-b556-4c4ab6d883b7", 
+"layer_id_s": "99986ff1-801a-4c6d-b556-4c4ab6d883b7", 
 "georss_box_s": "44.8906173367841 -93.3290771847041 45.0511598180844 -93.1953071953443", 
 "dc_title_s": "Future Land Use: Minneapolis, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-99986ff1-801a-4c6d-b556-4c4ab6d883b7"
+"layer_slug_s": "99986ff1-801a-4c6d-b556-4c4ab6d883b7", 
+"dct_isPartOf_sm": "Minneapolis Open Data"
 }

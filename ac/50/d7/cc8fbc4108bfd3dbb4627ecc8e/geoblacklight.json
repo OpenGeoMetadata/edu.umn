@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:56Z", 
+"layer_modified_dt": "2017-01-20T18:40:25Z", 
 "solr_geom": "ENVELOPE(-96.774088, -89.847596, 49.238689, 43.43753)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/biota-wma-landcover-pub\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_wma_landcover_pub/shp_biota_wma_landcover_pub.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_wma_landcover_pub/shp_biota_wma_landcover_pub.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/biota-wma-landcover-pub\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/ac/50/d7/cc8fbc4108bfd3dbb4627ecc8e/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-ac50d7cc-8fbc-4108-bfd3-dbb4627ecc8e", 
+"uuid": "ac50d7cc-8fbc-4108-bfd3-dbb4627ecc8e", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Biota"
@@ -16,17 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR) - Division of Fish & Wildlife - Wildlife Unit"
 ], 
-"dc_identifier_s": "urn-ac50d7cc-8fbc-4108-bfd3-dbb4627ecc8e", 
+"dc_identifier_s": "ac50d7cc-8fbc-4108-bfd3-dbb4627ecc8e", 
 "georss_polygon_s": "43.43753 -96.774088 49.238689 -96.774088 49.238689 -89.847596 43.43753 -89.847596 43.43753 -96.774088", 
 "solr_year_i": 2016, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-ac50d7cc-8fbc-4108-bfd3-dbb4627ecc8e", 
+"layer_id_s": "ac50d7cc-8fbc-4108-bfd3-dbb4627ecc8e", 
 "georss_box_s": "43.43753 -96.774088 49.238689 -89.847596", 
 "dc_title_s": "DNR Wildlife Management Area Land Cover, Publicly Accessible: Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-ac50d7cc-8fbc-4108-bfd3-dbb4627ecc8e"
+"layer_slug_s": "ac50d7cc-8fbc-4108-bfd3-dbb4627ecc8e", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

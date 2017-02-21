@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:48Z", 
+"layer_modified_dt": "2017-01-20T18:40:15Z", 
 "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-geos-metro-top-elev-bedrock\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/geos_metro_top_elev_bedrock/fgdb_geos_metro_top_elev_bedrock.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/geos_metro_top_elev_bedrock/fgdb_geos_metro_top_elev_bedrock.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-geos-metro-top-elev-bedrock\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/16/08/89/d7b3b445b890078bf42a1dbb28/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-160889d7-b3b4-45b8-9007-8bf42a1dbb28", 
+"uuid": "160889d7-b3b4-45b8-9007-8bf42a1dbb28", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Geoscientific Information"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Barr Engineering Company"
 ], 
-"dc_identifier_s": "urn-160889d7-b3b4-45b8-9007-8bf42a1dbb28", 
-"dc_relation_sm": [
-"Supporting datasets:1) digital elevation models for the tops of the St. Peter Sandstone, Prairie du Chien Group, Jordan Sandstone, and St. Lawrence Formation within the seven county metropolitan area (Tipping and Mossler, 1996); 2) digital elevation models for top of the St. Peter Sandstone, Prairie Du Chein Group, Jordan Sandstone, St. Lawrence Formation, Franconia Formation, Ironton-Galesville Sandstone, Eau Claire Formation, and the Mt. Simon Sandstone in Scott County (Runkel and Tipping, 2006); 3) digital elevation models for the top of the Eau Claire Formation, Ironton-Galesville Sandstone, Mt. Simon Sandstone, and Precambrian crystaline bedrock in the northwest metro area (Runkel et al., 2003); and 4) County Well Index (CWI) stratigraphic information (MGS, 2006).Datasets described by this metadata:TOPELEVATIONEAUCLAIREFORMATIONTOPELEVATIONFRANCONIAFORMATIONTOPELEVATIONIRONTONGALESVILLESANDSTONETOPELEVATIONJORDANSANDSTONETOPELEVATIONMTSIMONHINCKLEYSANDSTONETOPELEVATIONPRAIRIEDUCHIENGROUPTOPELEVATIONSTLAWRENCEFORMATIONTOPELEVATIONSTPETERSANDSTONE"
-], 
+"dc_identifier_s": "160889d7-b3b4-45b8-9007-8bf42a1dbb28", 
 "georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
 "solr_year_i": 2009, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-160889d7-b3b4-45b8-9007-8bf42a1dbb28", 
+"layer_id_s": "160889d7-b3b4-45b8-9007-8bf42a1dbb28", 
 "georss_box_s": "44.471 -94.012 45.415 -92.732", 
 "dc_title_s": "Top of Bedrock Units: Twin Cities Metro, Minnesota, 2009", 
-"layer_slug_s": "Minnesota-urn-160889d7-b3b4-45b8-9007-8bf42a1dbb28"
+"layer_slug_s": "160889d7-b3b4-45b8-9007-8bf42a1dbb28", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

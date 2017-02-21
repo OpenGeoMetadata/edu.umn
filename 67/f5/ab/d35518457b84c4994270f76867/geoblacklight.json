@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:40Z", 
+"layer_modified_dt": "2017-01-20T18:40:04Z", 
 "solr_geom": "ENVELOPE(-93.80167, -92.842552, 45.399534, 44.54238)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-fnctnl-cls-rds-regsol-pln\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Transportation/MapServer/4\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_fnctnl_cls_rds_regsol_pln/shp_trans_fnctnl_cls_rds_regsol_pln.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_fnctnl_cls_rds_regsol_pln/shp_trans_fnctnl_cls_rds_regsol_pln.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-fnctnl-cls-rds-regsol-pln\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/67/f5/ab/d35518457b84c4994270f76867/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Transportation/MapServer/4\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-67f5abd3-5518-457b-84c4-994270f76867", 
+"uuid": "67f5abd3-5518-457b-84c4-994270f76867", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Transportation"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Metropolitan Council"
 ], 
-"dc_identifier_s": "urn-67f5abd3-5518-457b-84c4-994270f76867", 
-"dc_relation_sm": [
-"Functional Class Roads - Existing; Major Highways, NCompass Technologies Street Centerline and Address Ranges"
-], 
+"dc_identifier_s": "67f5abd3-5518-457b-84c4-994270f76867", 
 "georss_polygon_s": "44.54238 -93.80167 45.399534 -93.80167 45.399534 -92.842552 44.54238 -92.842552 44.54238 -93.80167", 
 "solr_year_i": 2014, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-67f5abd3-5518-457b-84c4-994270f76867", 
+"layer_id_s": "67f5abd3-5518-457b-84c4-994270f76867", 
 "georss_box_s": "44.54238 -93.80167 45.399534 -92.842552", 
 "dc_title_s": "Regional Solicitation - Functional Class Roads - Planned: Twin Cities Metro, Minnesota, 2014", 
-"layer_slug_s": "Minnesota-urn-67f5abd3-5518-457b-84c4-994270f76867"
+"layer_slug_s": "67f5abd3-5518-457b-84c4-994270f76867", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

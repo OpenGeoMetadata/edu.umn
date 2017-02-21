@@ -1,35 +1,36 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-11-29T15:46:36Z", 
+"layer_modified_dt": "2016-12-30T13:42:29Z", 
 "solr_geom": "ENVELOPE(-96.840128, -96.167484, 47.152251, 46.627424)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://claycountymn.gov/658/GIS-Data\",\"http://schema.org/downloadUrl\":\"ftp://gis.co.clay.mn.us/Download/Clay/ClayWaterSheds.ZIP\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://gis.co.clay.mn.us/Download/Clay/ClayWaterSheds.ZIP\",\"http://schema.org/url\":\"http://claycountymn.gov/658/GIS-Data\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/49/71/d6/e41f8c43a7ad64002abb21f8ba/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-4971d6e4-1f8c-43a7-ad64-002abb21f8ba", 
+"uuid": "4971d6e4-1f8c-43a7-ad64-002abb21f8ba", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
-"Inland waters", 
-"hydrology", 
-"watersheds"
+"Hydrology", 
+"Watersheds"
 ], 
-"dc_format_s": "Shapefile", 
+"dct_temporal_sm": "1998", 
 "dc_description_s": "Clay County watershed areas.", 
 "dct_issued_s": "1998-10-15", 
+"dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Clay County GIS"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-4971d6e4-1f8c-43a7-ad64-002abb21f8ba", 
+"dc_identifier_s": "4971d6e4-1f8c-43a7-ad64-002abb21f8ba", 
 "georss_polygon_s": "46.627424 -96.840128 47.152251 -96.840128 47.152251 -96.167484 46.627424 -96.167484 46.627424 -96.840128", 
 "solr_year_i": 1998, 
 "dct_spatial_sm": [
-"Clay County", 
-"Minnesota"
+"Clay County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Clay County GIS"
 ], 
-"layer_id_s": "urn:urn-4971d6e4-1f8c-43a7-ad64-002abb21f8ba", 
+"layer_id_s": "4971d6e4-1f8c-43a7-ad64-002abb21f8ba", 
 "georss_box_s": "46.627424 -96.840128 47.152251 -96.167484", 
 "dc_title_s": "Watersheds: Clay County, Minnesota, 1998", 
-"layer_slug_s": "Minnesota-urn-4971d6e4-1f8c-43a7-ad64-002abb21f8ba"
+"layer_slug_s": "4971d6e4-1f8c-43a7-ad64-002abb21f8ba", 
+"dct_isPartOf_sm": "Clay County GIS Data"
 }

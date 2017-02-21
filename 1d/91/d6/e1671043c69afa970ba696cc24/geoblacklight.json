@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:44Z", 
+"layer_modified_dt": "2017-01-20T18:40:10Z", 
 "solr_geom": "ENVELOPE(-93.23431, -89.562, 48.664343, 46.34806)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/elev-lidar-arrowhead2011\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/elev-lidar-arrowhead2011\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/1d/91/d6/e1671043c69afa970ba696cc24/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-1d91d6e1-6710-43c6-9afa-970ba696cc24", 
+"uuid": "1d91d6e1-6710-43c6-9afa-970ba696cc24", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Elevation"
@@ -16,20 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"dc_identifier_s": "urn-1d91d6e1-6710-43c6-9afa-970ba696cc24", 
-"dc_relation_sm": [
-"The Duluth area was reflown in 2012:  http://www.mngeo.state.mn.us/chouse/metadata/lidar_duluth2012.htmlFor more information about elevation data for Minnesota, see: http://www.mngeo.state.mn.us/chouse/elevation/index.html"
-], 
+"dc_identifier_s": "1d91d6e1-6710-43c6-9afa-970ba696cc24", 
 "georss_polygon_s": "46.34806 -93.23431 48.664343 -93.23431 48.664343 -89.562 46.34806 -89.562 46.34806 -93.23431", 
-"solr_year_i": 2012, 
+"solr_year_i": 2011, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-1d91d6e1-6710-43c6-9afa-970ba696cc24", 
+"layer_id_s": "1d91d6e1-6710-43c6-9afa-970ba696cc24", 
 "georss_box_s": "46.34806 -93.23431 48.664343 -89.562", 
 "dc_title_s": "LiDAR Elevation: Arrowhead Region, Minnesota, 2011", 
-"layer_slug_s": "Minnesota-urn-1d91d6e1-6710-43c6-9afa-970ba696cc24"
+"layer_slug_s": "1d91d6e1-6710-43c6-9afa-970ba696cc24", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

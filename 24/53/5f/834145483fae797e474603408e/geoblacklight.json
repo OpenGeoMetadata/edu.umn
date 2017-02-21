@@ -1,10 +1,10 @@
 {
-"layer_geom_type_s": "Raster", 
-"layer_modified_dt": "2016-06-29T10:00:28Z", 
+"layer_geom_type_s": "Mixed", 
+"layer_modified_dt": "2017-01-20T18:41:06Z", 
 "solr_geom": "ENVELOPE(-93.04, -92.23, 44.71, 44.19)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-geologic-atlas-good-c12a\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-geologic-atlas-good-c12a\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/24/53/5f/834145483fae797e474603408e/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-24535f83-4145-483f-ae79-7e474603408e", 
+"uuid": "24535f83-4145-483f-ae79-7e474603408e", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Geoscientific Information"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Minnesota Geological Survey (MGS)"
 ], 
-"dc_identifier_s": "urn-24535f83-4145-483f-ae79-7e474603408e", 
-"dc_relation_sm": [
-"C-12, Part A. Geologic atlas of Goodhue County, Minnesota. D.R. Setterholm, project manager. 1998. Color. 7 pls. Scale 1:100,000. Plates: 1, Data base map; 2, Bedrock geology; 3, Surfical geology and Thickness of Quaternary Sediments; 4, Quaternary stratigraphy; 5, Bedrock topography; 6, Geologic resources. $17.00. Paper map and report available from MGS Map Sales Office (2609 Territorial Road, St. Paul, Minnesota, 55114, 612-626-2969. The Goodhue County Atlas - Part B (Hydrogeology) is available from the Minnesota Department of Natural Resources Ground Water Mapping Program. For a listing of the status of the DNR Ground Water Mapping Program, go to: http://www.dnr.state.mn.us/waters/groundwater_section/mapping/index.html For a listing of all geologic maps go to the Minnesota Geological Survey website at: http://www.mngs.umn.edu/mgsdocs.html For a complete listing of MGS State Map Series Maps, Reports, and GIS Data, see http://conservancy.umn.edu/handle/11299/708 For other County Atlas and Regional Hydrogeologic Assessment data see: http://www.mngs.umn.edu/county_atlas/countyatlas.htm For a listing of the status of the DNR Ground Water Mapping Program, go to: http://www.dnr.state.mn.us/waters/groundwater_section/mapping/index.html"
-], 
+"dc_identifier_s": "24535f83-4145-483f-ae79-7e474603408e", 
 "georss_polygon_s": "44.19 -93.04 44.71 -93.04 44.71 -92.23 44.19 -92.23 44.19 -93.04", 
 "solr_year_i": 1998, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Goodhue County, Minnesota"
+"Minnesota, United States", 
+"Goodhue County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Geological Survey"
 ], 
-"layer_id_s": "urn:urn-24535f83-4145-483f-ae79-7e474603408e", 
+"layer_id_s": "24535f83-4145-483f-ae79-7e474603408e", 
 "georss_box_s": "44.19 -93.04 44.71 -92.23", 
 "dc_title_s": "Geologic Atlas of Goodhue County, Minnesota (Part A), 1998", 
-"layer_slug_s": "Minnesota-urn-24535f83-4145-483f-ae79-7e474603408e"
+"layer_slug_s": "24535f83-4145-483f-ae79-7e474603408e", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

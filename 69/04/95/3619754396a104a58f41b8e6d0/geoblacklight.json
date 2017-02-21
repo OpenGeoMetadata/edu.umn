@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Polygon", 
-"layer_modified_dt": "2016-06-29T10:00:26Z", 
+"layer_modified_dt": "2017-01-20T18:41:04Z", 
 "solr_geom": "ENVELOPE(-93.144138, -92.641809, 45.732329, 45.294135)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/elev-lidar-chisago2007\"}", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/elev-lidar-chisago2007\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/69/04/95/3619754396a104a58f41b8e6d0/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-69049536-1975-4396-a104-a58f41b8e6d0", 
+"uuid": "69049536-1975-4396-a104-a58f41b8e6d0", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Elevation"
@@ -16,21 +16,19 @@
 "dc_creator_sm": [
 "Chisago County Surveyor's Office"
 ], 
-"dc_identifier_s": "urn-69049536-1975-4396-a104-a58f41b8e6d0", 
-"dc_relation_sm": [
-"For more information about elevation data for Minnesota, see:                    http://www.mngeo.state.mn.us/chouse/elevation/index.html"
-], 
+"dc_identifier_s": "69049536-1975-4396-a104-a58f41b8e6d0", 
 "georss_polygon_s": "45.294135 -93.144138 45.732329 -93.144138 45.732329 -92.641809 45.294135 -92.641809 45.294135 -93.144138", 
 "solr_year_i": 2007, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Chisago County, Minnesota"
+"Minnesota, United States", 
+"Chisago County, Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-69049536-1975-4396-a104-a58f41b8e6d0", 
+"layer_id_s": "69049536-1975-4396-a104-a58f41b8e6d0", 
 "georss_box_s": "45.294135 -93.144138 45.732329 -92.641809", 
 "dc_title_s": "LiDAR Elevation: Chisago County, Minnesota, 2007", 
-"layer_slug_s": "Minnesota-urn-69049536-1975-4396-a104-a58f41b8e6d0"
+"layer_slug_s": "69049536-1975-4396-a104-a58f41b8e6d0", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

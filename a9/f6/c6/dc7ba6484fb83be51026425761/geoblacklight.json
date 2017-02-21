@@ -1,18 +1,18 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:06Z", 
+"layer_modified_dt": "2017-01-20T18:40:37Z", 
 "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-pland-transitway-station\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_pland_transitway_station/shp_trans_pland_transitway_station.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_pland_transitway_station/shp_trans_pland_transitway_station.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-pland-transitway-station\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/a9/f6/c6/dc7ba6484fb83be51026425761/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-a9f6c6dc-7ba6-484f-b83b-e51026425761", 
+"uuid": "a9f6c6dc-7ba6-484f-b83b-e51026425761", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Transportation", 
-"planned urban development", 
-"bus", 
-"commuter traffic", 
-"rail transport", 
-"transportation"
+"Bus", 
+"Transportation", 
+"Planned urban development", 
+"Commuter traffic", 
+"Rail transport"
 ], 
 "dct_temporal_sm": "2016", 
 "dc_description_s": "This dataset depicts the location and development status of planned transitway stations that are along a transitway in the 2040 Transportation Policy Plan. Currently, the file includes planned stations locations for those transitways where stations have been identified through a local process including: Southwest LRT (Green Line Extension), Bottineau LRT (Blue Line Extension), Cedar Avenue BRT Future Stages (Red Line), I-35W BRT (Orange Line), Gateway BRT (Gold Line), Red Rock BRT, and planned A Line Arterial BRT stations. Stations and station points are placed at locations that generally represent the latest official project action by the lead agency. For transitways in early design, this could be as generalized as a point at the intersection and this file is not a guarantee of future station locations until they are under construction or in operation. The point dataset was created by using heads-up digitizing referencing aerial photography. When transitway construction is completed and service begins, the stations will move from this file to TransitwayStations (existing). Additional Notes: -Rachel Wiken is main contact for stations which are not part of the ABRT System. ABRT Station locations are managed by: Katie Roth, Project Manager Metro Transit BRT/Small Starts Project Office 560 6th Ave N Minneapolis, MN 55411 612-349-7772 katie.roth@metrotransit.org - The A Line stations at Snelling & Como will be located on the exit ramps, not in an online configuration as shown. The purpose of the current point is to show that there will be stations at Snelling and Como Avenues. - Downtown Minneapolis and Saint Paul BRT station locations have yet to be determined. Stations shown are conceptual.", 
@@ -21,21 +21,19 @@
 "dc_creator_sm": [
 "Metropolitan Council"
 ], 
-"dc_identifier_s": "urn-a9f6c6dc-7ba6-484f-b83b-e51026425761", 
-"dc_relation_sm": [
-"Transit Stops, Transit Routes, Planned Transitway Alignments"
-], 
+"dc_identifier_s": "a9f6c6dc-7ba6-484f-b83b-e51026425761", 
 "georss_polygon_s": "44.471 -94.012 45.415 -94.012 45.415 -92.732 44.471 -92.732 44.471 -94.012", 
 "solr_year_i": 2016, 
 "dct_spatial_sm": [
-"Minnesota", 
-"Minneapolis-St. Paul-Bloomington"
+"Minnesota, United States", 
+"Minneapolis-St. Paul-Bloomington, United States"
 ], 
 "dc_publisher_sm": [
 "Metropolitan Council"
 ], 
-"layer_id_s": "urn:urn-a9f6c6dc-7ba6-484f-b83b-e51026425761", 
+"layer_id_s": "a9f6c6dc-7ba6-484f-b83b-e51026425761", 
 "georss_box_s": "44.471 -94.012 45.415 -92.732", 
 "dc_title_s": "Planned Transitway Stations: Twin Cities Metro, Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-a9f6c6dc-7ba6-484f-b83b-e51026425761"
+"layer_slug_s": "a9f6c6dc-7ba6-484f-b83b-e51026425761", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Point", 
-"layer_modified_dt": "2016-09-28T11:25:37Z", 
+"layer_modified_dt": "2016-12-30T13:42:03Z", 
 "solr_geom": "ENVELOPE(-93.32902440053, -93.1876387897277, 45.0542617147944, 44.8836459464172)", 
-"dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/cb8d4b1dbad0470380e5f46f1e75e962_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Hydrants/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/cb8d4b1dbad0470380e5f46f1e75e962_0.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/cb8d4b1dbad0470380e5f46f1e75e962_0.zip\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/cb8d4b1dbad0470380e5f46f1e75e962_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/c7/ee/05/295204454aa71eb862bb0157a9/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Hydrants/FeatureServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-c7ee0529-5204-454a-a71e-b862bb0157a9", 
+"uuid": "c7ee0529-5204-454a-a71e-b862bb0157a9", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Structure", 
@@ -18,18 +18,19 @@
 "City of Minneapolis"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-c7ee0529-5204-454a-a71e-b862bb0157a9", 
+"dc_identifier_s": "c7ee0529-5204-454a-a71e-b862bb0157a9", 
 "georss_polygon_s": "44.8836459464172 -93.32902440053 45.0542617147944 -93.32902440053 45.0542617147944 -93.1876387897277 44.8836459464172 -93.1876387897277 44.8836459464172 -93.32902440053", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Minneapolis", 
-"Minnesota"
+"Minneapolis, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "City of Minneapolis"
 ], 
-"layer_id_s": "urn:urn-c7ee0529-5204-454a-a71e-b862bb0157a9", 
+"layer_id_s": "c7ee0529-5204-454a-a71e-b862bb0157a9", 
 "georss_box_s": "44.8836459464172 -93.32902440053 45.0542617147944 -93.1876387897277", 
 "dc_title_s": "Hydrants: Minneapolis, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-c7ee0529-5204-454a-a71e-b862bb0157a9"
+"layer_slug_s": "c7ee0529-5204-454a-a71e-b862bb0157a9", 
+"dct_isPartOf_sm": "Minneapolis Open Data"
 }

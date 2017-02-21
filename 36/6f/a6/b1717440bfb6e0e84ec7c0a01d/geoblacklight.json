@@ -1,35 +1,33 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T09:59:11Z", 
+"layer_modified_dt": "2017-01-20T18:39:24Z", 
 "solr_geom": "ENVELOPE(-95.498715, -89.802289, 49.283563, 43.485292)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-state-forest\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_state_forest/shp_bdry_state_forest.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_state_forest/shp_bdry_state_forest.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-state-forest\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/36/6f/a6/b1717440bfb6e0e84ec7c0a01d/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-366fa6b1-7174-40bf-b6e0-e84ec7c0a01d", 
+"uuid": "366fa6b1-7174-40bf-b6e0-e84ec7c0a01d", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Boundaries"
 ], 
-"dct_temporal_sm": "2016", 
+"dct_temporal_sm": "2003", 
 "dc_description_s": "This layer file consists of three related datasets: - Statutory boundary polygons of State Forests - Lands managed by the Division of Forestry within the statutory boundaries, known as Management Units - Lands managed by the Division of Forestry outside of the statutory boundaries, known as Other Forestry Lands State Forests - Statutory Boundaries: This theme shows the boundaries of those areas of Minnesota that have been legislatively designated as State Forests ( http://www.dnr.state.mn.us/state_forests/index.html ) Minnesota's 58 state forests were established to produce timber and other forest crops, provide outdoor recreation, protect watersheds, and perpetuate rare and distinctive species of native flora and fauna. The mapped boundaries are based on legislative/statutory language and are described in broad terms based on legal descriptions. Private or other ownerships included inside a State Forest boundary are typically NOT identified in legislative language and subsequently are NOT mapped in this layer. It is important to note that these data do not represent public ownership. State Forest boundaries often include private land and should not be used to determine ownership. Ownership information can be found in the State Lands by Administrator - Forestry layer ( http://gisdata.mn.gov/dataset/plan-state-lands-dnr-interest ) and the GAP Stewardship 2008 layer ( http://gisdata.mn.gov/dataset/plan-gap-stewardship-2008 ). Data has been updated during 2009 by the MNDNR Forest Resource Assessment office. State Forests - Management Units This theme shows the land owned and managed by the Division of Forestry within the Statutory Boundaries. The shapes were derived mostly from county parcel data, where available, and from plat maps and other ownership resources. This data presents an approximate location of the land ownership and is intended for cartographic purposes only. It is not survey quality and should never be used to resolve land ownership disputes. State Forests - Other Forest Lands This theme shows State Forest lands outside of the State Forest Statutory Boundaries. It was derived from MNDNR's Land Records System PLS40 data layer. Sub-40 shapes are not represented. Partial PLS40 ownership is represented as a whole PLS40. This data is not survey quality and should never be used to resolve land ownership disputes.", 
 "dct_issued_s": "2003-09-04", 
 "dc_format_s": "Shapefile", 
 "dc_creator_sm": [
 "Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-366fa6b1-7174-40bf-b6e0-e84ec7c0a01d", 
-"dc_relation_sm": [
-""
-], 
+"dc_identifier_s": "366fa6b1-7174-40bf-b6e0-e84ec7c0a01d", 
 "georss_polygon_s": "43.485292 -95.498715 49.283563 -95.498715 49.283563 -89.802289 43.485292 -89.802289 43.485292 -95.498715", 
 "solr_year_i": 2003, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-366fa6b1-7174-40bf-b6e0-e84ec7c0a01d", 
+"layer_id_s": "366fa6b1-7174-40bf-b6e0-e84ec7c0a01d", 
 "georss_box_s": "43.485292 -95.498715 49.283563 -89.802289", 
 "dc_title_s": "State Forest Statutory Boundaries and Management Units: Minnesota, 2003", 
-"layer_slug_s": "Minnesota-urn-366fa6b1-7174-40bf-b6e0-e84ec7c0a01d"
+"layer_slug_s": "366fa6b1-7174-40bf-b6e0-e84ec7c0a01d", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

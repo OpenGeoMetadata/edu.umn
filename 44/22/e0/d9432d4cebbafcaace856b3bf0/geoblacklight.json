@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Point", 
-"layer_modified_dt": "2016-09-19T16:26:30Z", 
+"layer_modified_dt": "2016-12-30T13:41:25Z", 
 "solr_geom": "ENVELOPE(-97.0694, -90.2662, 48.9316, 43.4679)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/1fb4f3c3727f40aa944616d1f74039af_2.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/HEALTH/MapServer/2\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/1fb4f3c3727f40aa944616d1f74039af_2\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/1fb4f3c3727f40aa944616d1f74039af_2.zip\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/1fb4f3c3727f40aa944616d1f74039af_2\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/44/22/e0/d9432d4cebbafcaace856b3bf0/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/HEALTH/MapServer/2\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-4422e0d9-432d-4ceb-bafc-aace856b3bf0", 
+"uuid": "4422e0d9-432d-4ceb-bafc-aace856b3bf0", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Health"
@@ -17,18 +17,19 @@
 "Hennepin County"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-4422e0d9-432d-4ceb-bafc-aace856b3bf0", 
+"dc_identifier_s": "4422e0d9-432d-4ceb-bafc-aace856b3bf0", 
 "georss_polygon_s": "43.4679 -97.0694 48.9316 -97.0694 48.9316 -90.2662 43.4679 -90.2662 43.4679 -97.0694", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Hennepin County, Minnesota", 
-"Minnesota"
+"Hennepin County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Hennepin County"
 ], 
-"layer_id_s": "urn:urn-4422e0d9-432d-4ceb-bafc-aace856b3bf0", 
+"layer_id_s": "4422e0d9-432d-4ceb-bafc-aace856b3bf0", 
 "georss_box_s": "43.4679 -97.0694 48.9316 -90.2662", 
 "dc_title_s": "Nursing Homes: Minnesota, 2016", 
-"layer_slug_s": "Minnesota-urn-4422e0d9-432d-4ceb-bafc-aace856b3bf0"
+"layer_slug_s": "4422e0d9-432d-4ceb-bafc-aace856b3bf0", 
+"dct_isPartOf_sm": "Hennepin County Open Data"
 }

@@ -58,7 +58,7 @@
       </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2016-06-29T09:58:58</gco:DateTime>
+      <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2017-01-26T14:50:39</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
       <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -90,7 +90,7 @@
             <gmd:date>
               <gmd:CI_Date>
                 <gmd:date>
-                  <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2016-03-31</gco:Date>
+                  <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2016-03-29</gco:Date>
                 </gmd:date>
                 <gmd:dateType>
                   <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="002"/>
@@ -131,6 +131,12 @@
                 </gmd:role>
               </gmd:CI_ResponsibleParty>
             </gmd:citedResponsibleParty>
+            <gmd:otherCitationDetails>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Mixed</gco:CharacterString>
+            </gmd:otherCitationDetails>
+            <gmd:collectiveTitle>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota Geospatial Commons</gco:CharacterString>
+            </gmd:collectiveTitle>
           </gmd:CI_Citation>
         </gmd:citation>
         <gmd:abstract>
@@ -195,76 +201,6 @@
             </gmd:maintenanceAndUpdateFrequency>
           </gmd:MD_MaintenanceInformation>
         </gmd:resourceMaintenance>
-        <gmd:descriptiveKeywords>
-          <gmd:MD_Keywords>
-            <gmd:type>
-              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="005">theme</gmd:MD_KeywordTypeCode>
-            </gmd:type>
-            <gmd:thesaurusName>
-              <gmd:CI_Citation>
-                <gmd:title>
-                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">transit taxing district</gco:CharacterString>
-                </gmd:title>
-                <gmd:date xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
-              </gmd:CI_Citation>
-            </gmd:thesaurusName>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Metro Transit</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">buses</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">transit system</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">administrative boundaries</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">transit taxing district</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Transit Capita lLevy Communities</gco:CharacterString>
-            </gmd:keyword>
-          </gmd:MD_Keywords>
-        </gmd:descriptiveKeywords>
-        <gmd:descriptiveKeywords>
-          <gmd:MD_Keywords>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:keyword>
-              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minneapolis-St. Paul-Bloomington</gco:CharacterString>
-            </gmd:keyword>
-            <gmd:type>
-              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="place"/>
-            </gmd:type>
-            <gmd:thesaurusName>
-              <gmd:CI_Citation>
-                <gmd:title>
-                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GeoNames</gco:CharacterString>
-                </gmd:title>
-                <gmd:date>
-                  <gmd:CI_Date>
-                    <gmd:date>
-                      <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2012-10-29</gco:Date>
-                    </gmd:date>
-                    <gmd:dateType>
-                      <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
-                    </gmd:dateType>
-                  </gmd:CI_Date>
-                </gmd:date>
-                <gmd:identifier>
-                  <gmd:MD_Identifier>
-                    <gmd:code>
-                      <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">http://www.geonames.org/ontology/ontology_v3.1.rdf</gco:CharacterString>
-                    </gmd:code>
-                  </gmd:MD_Identifier>
-                </gmd:identifier>
-              </gmd:CI_Citation>
-            </gmd:thesaurusName>
-          </gmd:MD_Keywords>
-        </gmd:descriptiveKeywords>
         <gmd:resourceConstraints>
           <gmd:MD_LegalConstraints>
             <gmd:accessConstraints>
@@ -329,7 +265,10 @@
             <gmd:temporalElement>
               <gmd:EX_TemporalExtent>
                 <gmd:extent>
-                  <gml:TimePeriod xmlns:gml="http://www.opengis.net/gml" gml:id="d54330e349a1050910"/>
+                  <gml:TimePeriod xmlns:gml="http://www.opengis.net/gml" gml:id="d353374e301a1052958">
+                    <gml:beginPosition>2016</gml:beginPosition>
+                    <gml:endPosition>2016</gml:endPosition>
+                  </gml:TimePeriod>
                 </gmd:extent>
               </gmd:EX_TemporalExtent>
             </gmd:temporalElement>
@@ -341,6 +280,41 @@
         <gmd:supplementalInformation>
           <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Twin Cities 7 County Metropolitan Area.  This includes the counties of Anoka, Carver, Dakota, Hennepin, Ramsey, Scott and Washington in Minnesota.</gco:CharacterString>
         </gmd:supplementalInformation>
+        <gmd:descriptiveKeywords>
+          <gmd:MD_Keywords>
+            <gmd:type>
+              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="place"/>
+            </gmd:type>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minnesota, United States</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Minneapolis-St. Paul-Bloomington, United States</gco:CharacterString>
+            </gmd:keyword>
+          </gmd:MD_Keywords>
+        </gmd:descriptiveKeywords>
+        <gmd:descriptiveKeywords>
+          <gmd:MD_Keywords>
+            <gmd:type>
+              <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+            </gmd:type>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Buses</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Transit system</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Metro transit</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Administrative boundaries</gco:CharacterString>
+            </gmd:keyword>
+            <gmd:keyword>
+              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Transit taxing district</gco:CharacterString>
+            </gmd:keyword>
+          </gmd:MD_Keywords>
+        </gmd:descriptiveKeywords>
       </gmd:MD_DataIdentification>
     </gmd:identificationInfo>
     <gmd:contentInfo>
@@ -432,19 +406,6 @@
                 <gmd:protocol>
                   <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:LINK</gco:CharacterString>
                 </gmd:protocol>
-              </gmd:CI_OnlineResource>
-            </gmd:onLine>
-            <gmd:onLine>
-              <gmd:CI_OnlineResource>
-                <gmd:linkage>
-                  <gmd:URL>https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Transportation/MapServer/16</gmd:URL>
-                </gmd:linkage>
-                <gmd:protocol>
-                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ESRI:ArcGIS</gco:CharacterString>
-                </gmd:protocol>
-                <gmd:description>
-                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">DynamicMapLayer</gco:CharacterString>
-                </gmd:description>
               </gmd:CI_OnlineResource>
             </gmd:onLine>
             <gmd:onLine>

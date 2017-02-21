@@ -1,16 +1,16 @@
 {
 "layer_geom_type_s": "Polygon", 
-"layer_modified_dt": "2016-08-17T16:03:44Z", 
+"layer_modified_dt": "2016-12-30T13:42:15Z", 
 "solr_geom": "ENVELOPE(-93.02, -92.7524, 45.2953, 44.7484)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.wcmn.opendata.arcgis.com/datasets/5e85ca268c274faab25883f6b4c193f7_0.zip\",\"http://schema.org/url\":\"http://data.wcmn.opendata.arcgis.com/datasets/5e85ca268c274faab25883f6b4c193f7_0\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.wcmn.opendata.arcgis.com/datasets/5e85ca268c274faab25883f6b4c193f7_0.zip\",\"http://schema.org/url\":\"http://data.wcmn.opendata.arcgis.com/datasets/5e85ca268c274faab25883f6b4c193f7_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/d5/cd/a0/65c64e49138e5b905af2bb6300/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-d5cda065-c64e-4913-8e5b-905af2bb6300", 
+"uuid": "d5cda065-c64e-4913-8e5b-905af2bb6300", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Boundaries", 
 "Society", 
-"parks", 
-"recreation"
+"Recreation", 
+"Parks"
 ], 
 "dct_temporal_sm": "2011-", 
 "dc_description_s": "Location of parks in Washington County", 
@@ -20,18 +20,19 @@
 "Washington County, MN"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-d5cda065-c64e-4913-8e5b-905af2bb6300", 
+"dc_identifier_s": "d5cda065-c64e-4913-8e5b-905af2bb6300", 
 "georss_polygon_s": "44.7484 -93.02 45.2953 -93.02 45.2953 -92.7524 44.7484 -92.7524 44.7484 -93.02", 
 "solr_year_i": 2011, 
 "dct_spatial_sm": [
-"Washington County, Minnesota", 
-"Minnesota"
+"Washington County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Washington County, MN"
 ], 
-"layer_id_s": "urn:urn-d5cda065-c64e-4913-8e5b-905af2bb6300", 
+"layer_id_s": "d5cda065-c64e-4913-8e5b-905af2bb6300", 
 "georss_box_s": "44.7484 -93.02 45.2953 -92.7524", 
 "dc_title_s": "Park Boundaries: Washington County, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-d5cda065-c64e-4913-8e5b-905af2bb6300"
+"layer_slug_s": "d5cda065-c64e-4913-8e5b-905af2bb6300", 
+"dct_isPartOf_sm": "Washington County Open Data"
 }

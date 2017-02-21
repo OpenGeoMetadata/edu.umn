@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-06-29T10:00:04Z", 
+"layer_modified_dt": "2017-01-20T18:40:34Z", 
 "solr_geom": "ENVELOPE(-96.831356, -89.414289, 49.331324, 43.435901)", 
-"dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/biota-original-pls-vegetation\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_original_pls_vegetation/shp_biota_original_pls_vegetation.zip\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_original_pls_vegetation/shp_biota_original_pls_vegetation.zip\",\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/biota-original-pls-vegetation\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/5e/a4/51/4248334abb8411bce8c28480c6/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-5ea45142-4833-4abb-8411-bce8c28480c6", 
+"uuid": "5ea45142-4833-4abb-8411-bce8c28480c6", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Biota"
@@ -16,17 +16,18 @@
 "dc_creator_sm": [
 "Minnesota Department of Natural Resources (DNR)"
 ], 
-"dc_identifier_s": "urn-5ea45142-4833-4abb-8411-bce8c28480c6", 
+"dc_identifier_s": "5ea45142-4833-4abb-8411-bce8c28480c6", 
 "georss_polygon_s": "43.435901 -96.831356 49.331324 -96.831356 49.331324 -89.414289 43.435901 -89.414289 43.435901 -96.831356", 
 "solr_year_i": 1846, 
 "dct_spatial_sm": [
-"Minnesota"
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Minnesota Department of Natural Resources"
 ], 
-"layer_id_s": "urn:urn-5ea45142-4833-4abb-8411-bce8c28480c6", 
+"layer_id_s": "5ea45142-4833-4abb-8411-bce8c28480c6", 
 "georss_box_s": "43.435901 -96.831356 49.331324 -89.414289", 
 "dc_title_s": "Public Land Survey, Corners with Presettlement Vegetation Information: Minnesota, 1846-1908", 
-"layer_slug_s": "Minnesota-urn-5ea45142-4833-4abb-8411-bce8c28480c6"
+"layer_slug_s": "5ea45142-4833-4abb-8411-bce8c28480c6", 
+"dct_isPartOf_sm": "Minnesota Geospatial Commons"
 }

@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Mixed", 
-"layer_modified_dt": "2016-09-02T14:55:56Z", 
+"layer_modified_dt": "2016-12-30T13:41:18Z", 
 "solr_geom": "ENVELOPE(-93.142176, -92.64401, 45.730939, 45.295514)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gis.chisagocounty.us/Link/SpatialData/Townships.zip\",\"http://schema.org/url\":\"http://gis.chisagocounty.us/Link/jsfe/index.aspx\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gis.chisagocounty.us/Link/SpatialData/Townships.zip\",\"http://schema.org/url\":\"http://gis.chisagocounty.us/Link/jsfe/index.aspx\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/9f/97/66/cc108444bf9216370cf10925e2/iso19139.xml\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-9f9766cc-1084-44bf-9216-370cf10925e2", 
+"uuid": "9f9766cc-1084-44bf-9216-370cf10925e2", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Boundaries"
@@ -17,18 +17,19 @@
 "Chisago County"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-9f9766cc-1084-44bf-9216-370cf10925e2", 
+"dc_identifier_s": "9f9766cc-1084-44bf-9216-370cf10925e2", 
 "georss_polygon_s": "45.295514 -93.142176 45.730939 -93.142176 45.730939 -92.64401 45.295514 -92.64401 45.295514 -93.142176", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Chisago County, Minnesota", 
-"Minnesota"
+"Chisago County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Chisago County"
 ], 
-"layer_id_s": "urn:urn-9f9766cc-1084-44bf-9216-370cf10925e2", 
+"layer_id_s": "9f9766cc-1084-44bf-9216-370cf10925e2", 
 "georss_box_s": "45.295514 -93.142176 45.730939 -92.64401", 
 "dc_title_s": "City Township Boundaries: Chisago County, Minnesota, 2015", 
-"layer_slug_s": "Minnesota-urn-9f9766cc-1084-44bf-9216-370cf10925e2"
+"layer_slug_s": "9f9766cc-1084-44bf-9216-370cf10925e2", 
+"dct_isPartOf_sm": "Chisago County GIS Data"
 }

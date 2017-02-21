@@ -1,10 +1,10 @@
 {
 "layer_geom_type_s": "Point", 
-"layer_modified_dt": "2016-09-19T17:01:03Z", 
+"layer_modified_dt": "2016-12-30T13:41:32Z", 
 "solr_geom": "ENVELOPE(-93.3558, -93.2195, 45.0938, 44.8606)", 
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/038b0504d5e74b708121a008abe0f0e9_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/HEALTH/MapServer/0\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/038b0504d5e74b708121a008abe0f0e9_0\"}", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis.hennepin.opendata.arcgis.com/datasets/038b0504d5e74b708121a008abe0f0e9_0.zip\",\"http://schema.org/url\":\"http://gis.hennepin.opendata.arcgis.com/datasets/038b0504d5e74b708121a008abe0f0e9_0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.umn/8a/c1/c6/87748a4c898a0ea39f2e4e1056/iso19139.xml\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/HEALTH/MapServer/0\"}", 
 "dc_rights_s": "Public", 
-"uuid": "urn-8ac1c687-748a-4c89-8a0e-a39f2e4e1056", 
+"uuid": "8ac1c687-748a-4c89-8a0e-a39f2e4e1056", 
 "dct_provenance_s": "Minnesota", 
 "dc_subject_sm": [
 "Health"
@@ -17,18 +17,19 @@
 "Hennepin County"
 ], 
 "dc_type_s": "Dataset", 
-"dc_identifier_s": "urn-8ac1c687-748a-4c89-8a0e-a39f2e4e1056", 
+"dc_identifier_s": "8ac1c687-748a-4c89-8a0e-a39f2e4e1056", 
 "georss_polygon_s": "44.8606 -93.3558 45.0938 -93.3558 45.0938 -93.2195 44.8606 -93.2195 44.8606 -93.3558", 
 "solr_year_i": 2015, 
 "dct_spatial_sm": [
-"Hennepin County, Minnesota", 
-"Minnesota"
+"Hennepin County, Minnesota, United States", 
+"Minnesota, United States"
 ], 
 "dc_publisher_sm": [
 "Hennepin County"
 ], 
-"layer_id_s": "urn:urn-8ac1c687-748a-4c89-8a0e-a39f2e4e1056", 
+"layer_id_s": "8ac1c687-748a-4c89-8a0e-a39f2e4e1056", 
 "georss_box_s": "44.8606 -93.3558 45.0938 -93.2195", 
 "dc_title_s": "HCMC Clinics: Hennepin County, Minnesota, 2014", 
-"layer_slug_s": "Minnesota-urn-8ac1c687-748a-4c89-8a0e-a39f2e4e1056"
+"layer_slug_s": "8ac1c687-748a-4c89-8a0e-a39f2e4e1056", 
+"dct_isPartOf_sm": "Hennepin County Open Data"
 }
