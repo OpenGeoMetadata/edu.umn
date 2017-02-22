@@ -20,7 +20,7 @@ This repository contains metadata for GIS data that originated from the followin
 
 **Metadata standards:**
 
-- ISO 190139 
+- ISO 19139 
 - GeoBlacklight schema
 
 Find all data in [Big Ten Academic Alliance Geoportal](https://geo.btaa.org/?_=1487803149260&f%5Bdct_provenance_s%5D%5B%5D=Minnesota)
