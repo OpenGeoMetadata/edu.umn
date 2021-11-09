@@ -1,2 +1,3 @@
 # Geospatial metadata repository for the University of Minnesota
-see repo https://github.com/OpenGeoMetadata/big-ten
+
+Datasets held at the University Digital Conservancy: (https://conservancy.umn.edu/)[https://conservancy.umn.edu/]
