@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2021-11-09T15:25:56Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Block-level accessibility data for transit-way evaluation in the Twin Cities metropolitan region] (2019)",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile",
+  "dc_source_sm": [
+    ""
+  ],
+  "dc_description_s": "The data are provided in 20 shapefiles. The shapefiles are segmented by the scenario comparison and the analysis day/time. The fields include the Census block-level 15-digit identifiers, baseline accessibility, alternative scenario accessibility, their absolute difference, their percent difference. CRS EPSG: 4326 - WGS 84. Users should be able to map the cumulative job accessibility by transit for 5 transit network scenarios and 4 comparisons between transit networks.",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_creator_sm": [
+    "Carlson, Kristin, M",
+    "Owen, Andrew"
+  ],
+  "dct_provenance_s": "University of Minnesota",
+  "dc_subject_sm": [
+    "Transportation",
+    "Census"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "dct_issued_s": "2020-03-06",
+  "dct_spatial_sm": [
+    "Minneapolis-St. Paul, Minnesota",
+    "Minnesota"
+  ],
+  "solr_geom": "ENVELOPE(-93.3292,-93.0143,45.0513,44.8902)",
+  "dc_identifier_s": "http://hdl.handle.net/11299/212006",
+  "layer_slug_s": "9c38adfb-877c-43f7-9e75-aab5fa8d3d53",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/11299/212006\",\"http://lccn.loc.gov/sh85035852\":\"https://conservancy.umn.edu/bitstream/handle/11299/212006/README.txt?sequence=8&isAllowed=y\"}"
+}

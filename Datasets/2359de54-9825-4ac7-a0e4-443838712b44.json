@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2021-11-09T15:25:56Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Block-level accessibility data for managed lanes in the Twin Cities] (2019)",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile",
+  "dc_source_sm": [
+    ""
+  ],
+  "dc_description_s": "The data are provided in 4 ESRI shapefiles. The shapefiles are segmented by the analysis day of the week and departure time. The fields include the Census block-level 15-digit identifier (GEOID10), baseline accessibility, tier 1 managed lane scenario accessibility, their absolute difference, their percent difference. CRS EPSG: 4326 - WGS 84. Users should be able to map the cumulative job accessibility by automobile for 4 comparisons between baseline (general purpose lanes) and managed lanes (tier 1 corridors).",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_creator_sm": [
+    "Carlson, Kristin, M",
+    "Owen, Andrew"
+  ],
+  "dct_provenance_s": "University of Minnesota",
+  "dc_subject_sm": [
+    "Transportation",
+    "Census"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "dct_issued_s": "2020-03-24",
+  "dct_spatial_sm": [
+    "Minneapolis-St. Paul, Minnesota",
+    "Minnesota"
+  ],
+  "solr_geom": "ENVELOPE(-93.3292,-93.0143,45.0513,44.8902)",
+  "dc_identifier_s": "http://hdl.handle.net/11299/212245",
+  "layer_slug_s": "2359de54-9825-4ac7-a0e4-443838712b44",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/11299/212245\",\"http://lccn.loc.gov/sh85035852\":\"https://conservancy.umn.edu/bitstream/handle/11299/212245/README.txt?sequence=8&isAllowed=y\"}"
+}
