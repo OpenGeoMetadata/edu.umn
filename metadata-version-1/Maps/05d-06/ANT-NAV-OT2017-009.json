@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ANT-NAV-OT2017-009",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map 13: Marie Byrd Land (Edition 2): Antarctica",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "ANT-NAV-OT2017-009",
+  "solr_geom": "ENVELOPE(-120.9638,-138.8141,-73.7871,-85.5268)",
+  "solr_year_i": "2017",
+  "dc_creator_sm": [
+    "Clementz, Herried"
+  ],
+  "dc_description_s": "1:1,000,000 Air Operations Map in collaboration with SCAGI. See the SCAR Map Catalogue (https://data.aad.gov.au/aadc/mapcat/) for the rest of the map series.; Series: PGC 1:1,000,000 Air Operations Planning Map Series",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/pgc/17/geo/Map 13 Marie Byrd Land Ed 2.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/2353\"}",
+  "dct_spatial_sm": [
+    "Marie Byrd Land, Antarctica",
+    "West Antarctica, Antarctica",
+    "Ford Ranges, Antarctica",
+    "Siple Dome, Antarctica",
+    "Byrd Surface Camp, Antarctica",
+    "WAIS Divide, Antarctica",
+    "Antarctica"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:51:01Z",
+  "dc_publisher_s": "Polar Geospatial Center",
+  "dct_issued_s": "2017",
+  "dct_temporal_sm": [
+    "2017"
+  ]
+}

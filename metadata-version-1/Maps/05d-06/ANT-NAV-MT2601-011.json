@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ANT-NAV-MT2601-011",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Robertson Bay: Antarctica",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "ANT-NAV-MT2601-011",
+  "solr_geom": "ENVELOPE(171.25,167.916,-71,-71.716)",
+  "solr_year_i": "1970",
+  "dc_description_s": "Projection: WGS72 Mercator Projection; Series: United States Navy Antarctic Nautical Charts",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/navoceano/01/geo/Robertson Bay.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/308\"}",
+  "dct_spatial_sm": [
+    "Victoria Land, Antarctica",
+    "Antarctica"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:51:37Z",
+  "dc_publisher_s": "Naval Oceanographic Office",
+  "dct_issued_s": "1970",
+  "dct_temporal_sm": [
+    "1970"
+  ]
+}

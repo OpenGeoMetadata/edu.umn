@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ANT-REF-MT2503-088",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Jones Mountains: Antarctica",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "ANT-REF-MT2503-088",
+  "solr_geom": "ENVELOPE(90,95,-73,-74)",
+  "solr_year_i": "2000",
+  "dc_description_s": "Projection: Lambert Conformal Conic Projection: Standard Parallels -73º10' and -73º50'; Series: USGS 1:250,000 Topographic Reconnaissance Series",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/03/geo/Jones Mountains.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/624\"}",
+  "dct_spatial_sm": [
+    "Antarctica"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:50:56Z",
+  "dc_publisher_s": "United States Geological Survey",
+  "dct_issued_s": "2000",
+  "dct_temporal_sm": [
+    "2000"
+  ]
+}

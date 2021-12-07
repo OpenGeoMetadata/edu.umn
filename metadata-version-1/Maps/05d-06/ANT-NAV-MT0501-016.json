@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ANT-NAV-MT0501-016",
+  "dc_rights_s": "Public",
+  "dc_title_s": "McMurdo Station and Vicinity: Antarctica",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "ANT-NAV-MT0501-016",
+  "solr_geom": "ENVELOPE(166.7722,166.55,-77.83,-77.8694)",
+  "solr_year_i": "1969",
+  "dc_description_s": "Projection: WGS72 Mercator Projection; Series: Defense Mapping Agency Nautical Charts",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/nga/01/geo/McMurdo Station and Vicinity.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/331\"}",
+  "dct_spatial_sm": [
+    "Antarctica"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:51:21Z",
+  "dc_publisher_s": "National Geospatial-Intelligence Agency",
+  "dct_issued_s": "n.d.",
+  "dct_temporal_sm": [
+    "1969"
+  ]
+}

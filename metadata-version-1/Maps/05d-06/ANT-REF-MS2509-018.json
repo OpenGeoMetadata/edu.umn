@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ANT-REF-MS2509-018",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Mount Erebus: Antarctica",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "ANT-REF-MS2509-018",
+  "solr_geom": "ENVELOPE(167.231,166.133,-77.4736,-77.675)",
+  "solr_year_i": "1995",
+  "dc_creator_sm": [
+    "Jean-Claude M. Thomas"
+  ],
+  "dc_description_s": "Projection: Lambert Conformal Conic Projection - Standard Parallels -76º40' and -79º20'; Series: USGS Satellite Image Maps",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/09/geo/Mount Erebus.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/208\"}",
+  "dct_spatial_sm": [
+    "Antarctica"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:51:23Z",
+  "dc_publisher_s": "United States Geological Survey",
+  "dct_issued_s": "1995",
+  "dct_temporal_sm": [
+    "1995"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ANT-NAV-OT2017-006",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map 16: Victoria Land (Edition 1): Antarctica",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "ANT-NAV-OT2017-006",
+  "solr_geom": "ENVELOPE(139.7636,175.6013,-70.1777,-76.9837)",
+  "solr_year_i": "2016",
+  "dc_creator_sm": [
+    "Clementz"
+  ],
+  "dc_description_s": "See Edition 2 (http://maps.apps.pgc.umn.edu/antarctica/20/17) for the most recent version of this map.; Series: PGC 1:1,000,000 Air Operations Planning Map Series",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/pgc/17/geo/Map 16 Victoria Land.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/965\"}",
+  "dct_spatial_sm": [
+    "Victoria Land, Antarctica",
+    "Ross Island, Antarctica",
+    "McMurdo Sound, Antarctica",
+    "Prince Albert Mountains, Antarctica",
+    "Mario Zucchelli, Antarctica",
+    "Jang Bogo, Antarctica",
+    "Antarctica"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:51:01Z",
+  "dc_publisher_s": "Polar Geospatial Center",
+  "dct_issued_s": "2016",
+  "dct_temporal_sm": [
+    "2016"
+  ]
+}

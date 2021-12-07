@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ANT-REF-MT2503-022",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Ebbe Glacier: Antarctica",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "ANT-REF-MT2503-022",
+  "solr_geom": "ENVELOPE(168,165,-71,-72)",
+  "solr_year_i": "1969",
+  "dc_description_s": "Projection: Lambert Conformal Conic Projection: Standard Parallels -68º40' and -71º20'; Series: USGS 1:250,000 Topographic Reconnaissance Series",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/03/geo/Ebbe Glacier.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/22\"}",
+  "dct_spatial_sm": [
+    "Antarctica"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:50:38Z",
+  "dc_publisher_s": "United States Geological Survey",
+  "dct_issued_s": "1969",
+  "dct_temporal_sm": [
+    "1969"
+  ]
+}

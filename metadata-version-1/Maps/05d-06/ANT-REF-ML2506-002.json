@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ANT-REF-ML2506-002",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Knox Coast: Antarctica",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "ANT-REF-ML2506-002",
+  "solr_geom": "ENVELOPE(112.5,97.5,-58,-64)",
+  "solr_year_i": "1958",
+  "dc_description_s": "Projection: Polar Stereographic Projection: Standard Parallels 71º; Series: USGS 1:1,000,000 Topographic Miscellaneous Series",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/06/geo/Knox Coast.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/189\"}",
+  "dct_spatial_sm": [
+    "Antarctica"
+  ],
+  "layer_modified_dt": "2021-05-07T19:50:57Z",
+  "dc_publisher_s": "United States Geological Survey",
+  "dct_issued_s": "1958",
+  "dct_temporal_sm": [
+    "1958"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "GRL-REF-MT0505-035",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Scoresby Sund: Greenland",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "GRL-REF-MT0505-035",
+  "solr_geom": "ENVELOPE(-21,-26.5,72,70)",
+  "solr_year_i": "1941",
+  "dc_description_s": "Projection: Polyconic Projection; Series: AMS C401 Greenland 1:500,000 Topographic Series",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/arctic/nga/05/geo/Scoresby Sund.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/473\"}",
+  "dct_spatial_sm": [
+    "Greenland"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:51:38Z",
+  "dc_publisher_s": "National Geospatial-Intelligence Agency",
+  "dct_issued_s": "n.d.",
+  "dct_temporal_sm": [
+    "1941"
+  ]
+}

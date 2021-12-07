@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ANT-NAV-MT0501-024",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Flandres Bay and Approaches: Antarctica",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "ANT-NAV-MT0501-024",
+  "solr_geom": "ENVELOPE(62.2,63.675,-64.833,-65.1916)",
+  "solr_year_i": "1967",
+  "dc_description_s": "Projection: WGS72 Mercator Projection; Series: Defense Mapping Agency Nautical Charts",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/nga/01/geo/Flandres Bay and Approaches.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/339\"}",
+  "dct_spatial_sm": [
+    "Antarctica"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:50:39Z",
+  "dc_publisher_s": "National Geospatial-Intelligence Agency",
+  "dct_issued_s": "n.d.",
+  "dct_temporal_sm": [
+    "1967"
+  ]
+}

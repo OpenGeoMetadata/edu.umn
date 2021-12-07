@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "t065r19w4fl03",
+  "dc_rights_s": "Public",
+  "dc_title_s": "General Land Office Township Plat - Islands Survey: Minnesota (T065N R19W), 1960",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "t065r19w4fl03",
+  "solr_geom": "ENVELOPE(-92.8373574,-92.71305873,48.15170076,48.06427597)",
+  "solr_year_i": "1960",
+  "dc_creator_sm": [
+    "Washington D.C. Land Office"
+  ],
+  "dc_description_s": "Sections 28 and 33; 1 copy in drawer 23",
+  "dc_format_s": "GeoJPEG",
+  "dc_subject_sm": [
+    "Surveying--Public lands"
+  ],
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://glorecords.blm.gov/results/default.aspx?searchCriteria=type=survey|st=MN|cty=|twp_nr=65|rng_nr=19|rng_dir=W\",\"http://schema.org/downloadUrl\":\"https://resources.gisdata.mn.gov/pub/data/basemaps/glo/St%20Louis/Georeferenced/t065r19w4fl03.zip\",\"http://schema.org/url\":\"http://www.mngeo.state.mn.us/glo/glo.php?township=65\\u0026range=19\"}",
+  "dct_spatial_sm": [
+    "Saint Louis County, Minnesota",
+    "Minnesota"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-07-15T14:27:52Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Minnesota Geospatial Information Office (MnGeo)",
+  "dct_issued_s": "1960",
+  "dct_temporal_sm": [
+    "1960"
+  ]
+}

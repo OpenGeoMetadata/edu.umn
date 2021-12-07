@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ANT-NAV-MT0501-007",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Cape Royds to Hut Point: Antarctica",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "ANT-NAV-MT0501-007",
+  "solr_geom": "ENVELOPE(167.3,165.66,-77.5,-77.916)",
+  "solr_year_i": "1983",
+  "dc_description_s": "Projection: WGS72 Mercator Projection; Series: Defense Mapping Agency Nautical Charts",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/nga/01/geo/Cape Royds to Hut Point v3.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/322\"}",
+  "dct_spatial_sm": [
+    "Antarctica"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:50:31Z",
+  "dc_publisher_s": "National Geospatial-Intelligence Agency",
+  "dct_issued_s": "n.d.",
+  "dct_temporal_sm": [
+    "1983"
+  ]
+}

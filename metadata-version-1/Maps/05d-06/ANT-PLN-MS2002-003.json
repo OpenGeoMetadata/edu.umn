@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ANT-PLN-MS2002-003",
+  "dc_rights_s": "Public",
+  "dc_title_s": "T-902 Field Planning 2012: Blue Glacier, Southern Dry Valleys: Antarctica",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "ANT-PLN-MS2002-003",
+  "solr_geom": "ENVELOPE(165.5,162.5,-77.5,-78.5)",
+  "solr_year_i": "2012",
+  "dc_creator_sm": [
+    "Herried"
+  ],
+  "dc_description_s": "Satellite map for planning in Southern Dry Valleys including Royal Society Range; Series: PGC Operations Support 2011-12",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/pgc/02/geo/T902 Field Planning Blue Glacier.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/135\"}",
+  "dct_spatial_sm": [
+    "McMurdo Dry Valleys, Antarctica",
+    "Antarctica"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:51:47Z",
+  "dc_publisher_s": "Polar Geospatial Center",
+  "dct_issued_s": "2012",
+  "dct_temporal_sm": [
+    "2012"
+  ]
+}

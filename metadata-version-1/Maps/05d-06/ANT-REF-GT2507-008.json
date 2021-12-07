@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ANT-REF-GT2507-008",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Mount Blackburn: Antarctica",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "ANT-REF-GT2507-008",
+  "solr_geom": "ENVELOPE(-135,-150,-86,-87)",
+  "solr_year_i": "1985",
+  "dc_creator_sm": [
+    "Stump; Smit; Self"
+  ],
+  "dc_description_s": "Projection: Polar Stereographic Projection: Standard Parallels -80º14'; Series: USGS 1:250,000 Geologic Reconnaissance Series",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/07/geo/Mount Blackburn.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/124\"}",
+  "dct_spatial_sm": [
+    "Antarctica"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:51:22Z",
+  "dc_publisher_s": "United States Geological Survey",
+  "dct_issued_s": "1985",
+  "dct_temporal_sm": [
+    "1985"
+  ]
+}
