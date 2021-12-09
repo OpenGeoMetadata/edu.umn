@@ -5,7 +5,7 @@ The files in the folder called `metadata-version-1` contain JSONs using the GeoB
 ### Contents:
 
 MAPS from:
-* [UMedia Digital Repository](https://umedia.lib.umn.edu/) at the University of Minnesota Libraries
+* [UMedia Digital Repository](https://umedia.lib.umn.edu/)
 * [Minnesota Geological Survey](https://collection.mndigital.org/?f%5Bcollection_name_ssi%5D%5B%5D=Minnesota+Geological+Survey&f%5Bphysical_format_ssi%5D%5B%5D=Maps)
 * [Polar Geospatial Center](https://maps.apps.pgc.umn.edu/)
 
