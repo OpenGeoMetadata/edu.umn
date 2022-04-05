@@ -2,21 +2,18 @@
   "geoblacklight_version": "1.0",
   "dc_identifier_s": "UMN_ALMA:9952214370001701",
   "dc_rights_s": "Public",
-  "dc_title_s": "Översiktskarta över södra Sveriges myrmarker~~(boggy ground in southern Sweden)",
+  "dc_title_s": "Översiktskarta över södra Sveriges myrmarker : (boggy ground in southern Sweden)",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:363",
-  "solr_geom": "ENVELOPE(10.96,17.16,60.66,55.33)",
+  "solr_geom": "ENVELOPE(10.9667,17.1667,60.6667,55.3333)",
   "solr_year_i": "1923",
   "dc_creator_sm": [
     "Sveriges geologiska undersökning; Granlund, Erik, 1892-1938; von Post,Lennart, 1884-1951; Kartografiska institutet, AB."
   ],
-  "dc_description_s": "Cartographic Details: Scale 1:500,000 (E 10°58ʹ--E 17°10ʹ/N 60°40ʹ--N 55°20ʹ). \"... efter de Geologiska kartbladen.” \"A.-B. Kartografiska Institutet\"--lower right margin. \"Sveriges Geologiska Undersökning Ser. Ba. Nr 11.\" Title and legend in Swedish and English. Contents: Norra bladet -- Södra bladet. Dimensions: 1 map on 2 sheets : color ; 56 x 100 centimeters and 73 x 100 centimeters",
+  "dc_description_s": "artographic Details: Scale 1:500,000 (E 10°58ʹ--E 17°10ʹ/N 60°40ʹ--N 55°20ʹ). \"... efter de Geologiska kartbladen.” \"A.-B. Kartografiska Institutet\"--lower right margin. \"Sveriges Geologiska Undersökning Ser. Ba. Nr 11.\" Title and legend in Swedish and English. Contents: Norra bladet -- Södra bladet.||1 map on 2 sheets : color ; 56 x 100 centimeters and 73 x 100 centimeters|Scale 1:500,000",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/363/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:363\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/363/manifest.json\"}",
-  "dct_spatial_sm": [
-    "Sweden"
-  ],
-  "layer_modified_dt": "2021-10-08T19:38:25Z",
+  "layer_modified_dt": "2022-04-01T15:33:18Z",
   "dc_language_sm": [
     "swe",
     "eng"

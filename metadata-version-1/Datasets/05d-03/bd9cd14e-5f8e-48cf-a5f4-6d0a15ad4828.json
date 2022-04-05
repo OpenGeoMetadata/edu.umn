@@ -1,36 +1,30 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2021-11-09T15:25:56Z",
+  "dc_identifier_s": "bd9cd14e-5f8e-48cf-a5f4-6d0a15ad4828",
   "dc_rights_s": "Public",
   "dc_title_s": "Minneapolis Safety In Numbers Investigation Data",
-  "layer_geom_type_s": "Mixed",
-  "dc_format_s": "Files",
-  "dc_source_sm": [
-    ""
-  ],
-  "dc_description_s": "The data consist of three publicly-available (but not simple to obtain) datasets procured from the City of Minneapolis and an additional spatial reference layer: 1) Turning Movement Counts (TMCs) at select intersections in Minneapolis between 1993 and 2014, broken down by vehicle or user type. 2) Most recently updated Average Annual Daily Traffic (AADT) levels on select street segments in Minneapolis; latest dates range from 2007 to 2014. 3) Crash reports data, from 2000 to 2013. 4) Shapefile of Minneapolis intersections. These points are based on OpenStreetMap street centerlines and provide locations for intersections observed in the turning movement count data. These datasets were leveraged in research performed for the Roadway Safety Institute at the University of Minnesota's Center for Transportation Studies. The associated project information page is located here: http://www.roadwaysafety.umn.edu/research/search/projectdetail.html?id=2015038",
-  "dc_language_sm": [
-    "eng"
-  ],
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "bd9cd14e-5f8e-48cf-a5f4-6d0a15ad4828",
+  "solr_geom": "ENVELOPE(-93.3292,-93.1939,45.0513,44.8902)",
+  "solr_year_i": "1994",
   "dc_creator_sm": [
     "Owen, Andrew",
     "Levinson, David M",
     "Murphy, Brendan"
   ],
-  "dct_provenance_s": "University of Minnesota",
-  "dc_subject_sm": [
-    "Transportation"
-  ],
-  "dct_temporal_sm": [
-    "1994 - 2013"
-  ],
-  "dct_issued_s": "2017-03-29",
+  "dc_description_s": "The data consist of three publicly-available (but not simple to obtain) datasets procured from the City of Minneapolis and an additional spatial reference layer: 1) Turning Movement Counts (TMCs) at select intersections in Minneapolis between 1993 and 2014, broken down by vehicle or user type. 2) Most recently updated Average Annual Daily Traffic (AADT) levels on select street segments in Minneapolis; latest dates range from 2007 to 2014. 3) Crash reports data, from 2000 to 2013. 4) Shapefile of Minneapolis intersections. These points are based on OpenStreetMap street centerlines and provide locations for intersections observed in the turning movement count data. These datasets were leveraged in research performed for the Roadway Safety Institute at the University of Minnesota's Center for Transportation Studies. The associated project information page is located here: http://www.roadwaysafety.umn.edu/research/search/projectdetail.html?id=2015038",
+  "dc_format_s": "Files",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://conservancy.umn.edu/bitstream/handle/11299/185412/Minneapolis_Safety_in_Numbers_data_documentation.pdf\",\"http://schema.org/url\":\"http://hdl.handle.net/11299/185412\"}",
   "dct_spatial_sm": [
     "Minneapolis, Minnesota",
     "Minnesota"
   ],
-  "solr_geom": "ENVELOPE(-93.3292,-93.1939,45.0513,44.8902)",
-  "dc_identifier_s": "http://hdl.handle.net/11299/185412",
-  "layer_slug_s": "bd9cd14e-5f8e-48cf-a5f4-6d0a15ad4828",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/11299/185412\",\"http://lccn.loc.gov/sh85035852\":\"https://conservancy.umn.edu/bitstream/handle/11299/185412/Minneapolis_Safety_in_Numbers_data_documentation.pdf\"}"
+  "layer_modified_dt": "2022-04-01T15:32:50Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "2017-03-29",
+  "dct_temporal_sm": [
+    "1994 - 2013"
+  ]
 }

@@ -1,34 +1,28 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2021-11-09T15:25:56Z",
+  "dc_identifier_s": "f6d58f9b-600f-4bf3-8691-951a2435f9fa",
   "dc_rights_s": "Public",
   "dc_title_s": "Distribution Maps and Models for 13 Invasive Plants in Minnesota",
-  "layer_geom_type_s": "Raster",
-  "dc_format_s": "GeoTIFF",
-  "dc_source_sm": [
-    ""
-  ],
-  "dc_description_s": "This dataset consists of raster (.tif) and map (.png) files for 13 invasive plants in Minnesota. Species included consist of: common buckthorn, glossy buckthorn, multiflora rose, garlic mustard, Canada thistle, common tansy, leafy spurge, spotted knapweed, wild parsnip, purple loosestrife, Japanese knotweed, narrowleaf bittercress, and plumeless thistle. The rasters (.tif files) included here consist of the output of species distribution modeling (SDM) conducted for each species; these files depict the mean cross-model and cross-assumption distribution estimates for each species, on a scale of 0 to 1. Values near 0 indicate low likelihood of finding the species there, or low habitat suitability, and values near 1 represent a high likelihood of finding the species. The maps (.png files) included here depict the same information, but in a static non-GIS compatible format.",
-  "dc_language_sm": [
-    "eng"
-  ],
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "f6d58f9b-600f-4bf3-8691-951a2435f9fa",
+  "solr_geom": "ENVELOPE(-97.24,-89.48,49.38,43.5)",
+  "solr_year_i": "2019",
   "dc_creator_sm": [
     "Reinhardt, Jason R",
     "Russell, Matthew B"
   ],
-  "dct_provenance_s": "University of Minnesota",
-  "dc_subject_sm": [
-    "Biota"
-  ],
-  "dct_temporal_sm": [
-    "2019"
-  ],
-  "dct_issued_s": "2019-10-17",
+  "dc_description_s": "This dataset consists of raster (.tif) and map (.png) files for 13 invasive plants in Minnesota. Species included consist of: common buckthorn, glossy buckthorn, multiflora rose, garlic mustard, Canada thistle, common tansy, leafy spurge, spotted knapweed, wild parsnip, purple loosestrife, Japanese knotweed, narrowleaf bittercress, and plumeless thistle. The rasters (.tif files) included here consist of the output of species distribution modeling (SDM) conducted for each species; these files depict the mean cross-model and cross-assumption distribution estimates for each species, on a scale of 0 to 1. Values near 0 indicate low likelihood of finding the species there, or low habitat suitability, and values near 1 represent a high likelihood of finding the species. The maps (.png files) included here depict the same information, but in a static non-GIS compatible format.",
+  "dc_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://conservancy.umn.edu/bitstream/handle/11299/208549/data_description.txt?sequence=13\\u0026isAllowed=y\",\"http://schema.org/url\":\"http://hdl.handle.net/11299/208549\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "solr_geom": "ENVELOPE(-97.24,-89.48,49.38,43.5)",
-  "dc_identifier_s": "http://hdl.handle.net/11299/208549",
-  "layer_slug_s": "f6d58f9b-600f-4bf3-8691-951a2435f9fa",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/11299/208549\",\"http://lccn.loc.gov/sh85035852\":\"https://conservancy.umn.edu/bitstream/handle/11299/208549/data_description.txt?sequence=13&isAllowed=y\"}"
+  "layer_modified_dt": "2022-04-01T15:33:44Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "2019-10-17",
+  "dct_temporal_sm": [
+    "2019"
+  ]
 }
