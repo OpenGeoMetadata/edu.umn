@@ -1,0 +1,60 @@
+{
+  "dct_title_s": "Map of Minnesota : showing status of state road construction",
+  "dct_description_sm": [
+    "Cartographic Details: Scale [1:760,320]. 12 miles to 1 in. Dimensions: 87 x 77 centimeters"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Minnesota. State Highway Commission."
+  ],
+  "dct_publisher_sm": [
+    "State Highway Commission (St. Paul, Minnesota)"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Road maps"
+  ],
+  "dcat_keyword_sm": [
+    "Roads Minnesota Maps",
+    "Minnesota Maps"
+  ],
+  "dct_temporal_sm": [
+    "1917"
+  ],
+  "gbl_indexYear_im": [
+    "1917"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1917 TO 1917]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota"
+  ],
+  "locn_geometry": "ENVELOPE(-97.25,-89.5,49.38,43.5)",
+  "dcat_bbox": "ENVELOPE(-97.25,-89.5,49.38,43.5)",
+  "dcat_centroid": "46.44,-93.375",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-01",
+    "05d-p16022coll206"
+  ],
+  "dct_rights_sm": [
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/191016\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll206/130/manifest.json\"}",
+  "id": "p16022coll206:130",
+  "dct_identifier_sm": [
+    "p16022coll206:130"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:24:44Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,57 @@
+{
+  "dct_title_s": "Geologic map of Minnesota, International Falls sheet, bedrock geology",
+  "dct_description_sm": [
+    "Map showing interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the International Falls quadrangle, scale 1:250,000."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Southwick, David L.",
+    "Ojakangas, Richard W."
+  ],
+  "dct_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "dct_issued_s": "1979",
+  "gbl_indexYear_im": [
+    "1979"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1979 TO 1979]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota"
+  ],
+  "locn_geometry": "ENVELOPE(-94.4317,-93.0804,48.7118,47.846)",
+  "dcat_bbox": "ENVELOPE(-94.4317,-93.0804,48.7118,47.846)",
+  "dcat_centroid": "48.27889999999999,-93.75605",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22374.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/774/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:774\"}",
+  "id": "42d1901a-6a3e-487f-8b17-bee0f58d2163",
+  "dct_identifier_sm": [
+    "42d1901a-6a3e-487f-8b17-bee0f58d2163"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:22:33Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_title_s": "Geologic atlas of Fillmore County, Minnesota, C-8, Part A, Plate 1, Data Base",
+  "dct_description_sm": [
+    "Map showing locations of water wells, soil borings, outcrops and cuttings samples collected during water well drilling.  Distribution and sources of primary information tthat guide the geologic interpretations used to make the geologic maps in the series,  scale 1:100,000, Fillmore County."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Mossler, John H.",
+    "Swanson, L.",
+    "Wahl, Timothy E.",
+    "Cleland, Jane M.",
+    "Tipping, Robert G."
+  ],
+  "dct_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_issued_s": "1995",
+  "gbl_indexYear_im": [
+    "1995"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1995 TO 1995]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota"
+  ],
+  "locn_geometry": "ENVELOPE(-92.4507,-91.7305,43.8508,43.5021)",
+  "dcat_bbox": "ENVELOPE(-92.4507,-91.7305,43.8508,43.5021)",
+  "dcat_centroid": "43.67645,-92.0906",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22276.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/676/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:676\"}",
+  "id": "b6b94dd0-a668-46f3-aa36-65f6675c45cc",
+  "dct_identifier_sm": [
+    "b6b94dd0-a668-46f3-aa36-65f6675c45cc"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:28:35Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

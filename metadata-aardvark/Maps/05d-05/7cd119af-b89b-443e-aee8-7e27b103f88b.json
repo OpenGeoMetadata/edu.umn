@@ -1,0 +1,56 @@
+{
+  "dct_title_s": "Reconnaissance geologic map of Pine Mountain quadrangle, Cook County, Minnesota, M-31",
+  "dct_description_sm": [
+    "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Pine Mountain quadrangle, scale 1:24,000."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Davidson, D.M., Jr."
+  ],
+  "dct_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "dct_temporal_sm": [
+    "1977"
+  ],
+  "dct_issued_s": "1977",
+  "gbl_indexYear_im": [
+    "1977"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1977 TO 1977]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota"
+  ],
+  "locn_geometry": "ENVELOPE(-91.0311,-89.5,48.2462,47.4597)",
+  "dcat_bbox": "ENVELOPE(-91.0311,-89.5,48.2462,47.4597)",
+  "dcat_centroid": "47.85295,-90.26554999999999",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22410.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/802/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:802\"}",
+  "id": "7cd119af-b89b-443e-aee8-7e27b103f88b",
+  "dct_identifier_sm": [
+    "7cd119af-b89b-443e-aee8-7e27b103f88b"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:25:23Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

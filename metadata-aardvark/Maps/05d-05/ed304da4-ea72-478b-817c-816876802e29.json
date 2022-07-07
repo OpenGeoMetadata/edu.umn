@@ -1,0 +1,57 @@
+{
+  "dct_title_s": "Geologic atlas of Goodhue County, Minnesota, C-12, Part B, Plate 8, Hydrogeologic Cross Sections",
+  "dct_description_sm": [
+    "Cross sections detailing how and when ground water moves through the bedrock and Quaternary (unconsolidated glacial and stream sediment overlying the bedrock) aquifers, scale 1:100,000, Goodhue County."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Falteisek, Jan",
+    "Berg, James A."
+  ],
+  "dct_publisher_sm": [
+    "Minnesota Department of Natural Resources, Division of Waters"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "dct_issued_s": "2003",
+  "gbl_indexYear_im": [
+    "2003"
+  ],
+  "gbl_dateRange_drsim": [
+    "[2003 TO 2003]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota"
+  ],
+  "locn_geometry": "ENVELOPE(-93.0406,-92.2434,44.7157,44.1972)",
+  "dcat_bbox": "ENVELOPE(-93.0406,-92.2434,44.7157,44.1972)",
+  "dcat_centroid": "44.456450000000004,-92.642",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22322.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/722/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:722\"}",
+  "id": "ed304da4-ea72-478b-817c-816876802e29",
+  "dct_identifier_sm": [
+    "ed304da4-ea72-478b-817c-816876802e29"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:30:50Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

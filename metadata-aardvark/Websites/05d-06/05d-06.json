@@ -1,0 +1,42 @@
+{
+  "dct_title_s": "Polar Geospatial Center",
+  "dct_description_sm": [
+    "The Polar Geospatial Center curates a polar historical and contemporary map catalog from many organizations. Historical paper maps have been digitally scanned at a high resolution by the University of Minnesota's Borchert Map Library."
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Websites"
+  ],
+  "dct_subject_sm": [
+    "Map collections"
+  ],
+  "dct_temporal_sm": [
+    "1956-present"
+  ],
+  "gbl_indexYear_im": [
+    "1956"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1956 TO 2020]"
+  ],
+  "dct_spatial_sm": [
+    "Antarctica",
+    "Greenland",
+    "Arctic"
+  ],
+  "locn_geometry": "ENVELOPE(-180,180,90,-90)",
+  "dcat_bbox": "ENVELOPE(-180,180,90,-90)",
+  "dcat_centroid": "0.0,0.0",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Digital library collection",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/\"}",
+  "id": "05d-06",
+  "dct_identifier_sm": [
+    "05d-06"
+  ],
+  "gbl_mdModified_dt": "2022-04-14T19:32:40Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,57 @@
+{
+  "dct_title_s": "Lineament map, International Falls sheet, Minnesota, M-47",
+  "dct_description_sm": [
+    "Map showing linear features, (lineaments) on the International Falls quadrangle, scale 1:250,000."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Morey, G.B.",
+    "Heutmaker, J.F."
+  ],
+  "dct_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "dct_temporal_sm": [
+    "1977"
+  ],
+  "dct_issued_s": "1977",
+  "gbl_indexYear_im": [
+    "1977"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1977 TO 1977]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota"
+  ],
+  "locn_geometry": "ENVELOPE(-94.4317,-93.0804,48.7118,47.846)",
+  "dcat_bbox": "ENVELOPE(-94.4317,-93.0804,48.7118,47.846)",
+  "dcat_centroid": "48.27889999999999,-93.75605",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22426.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/818/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:818\"}",
+  "id": "060137c8-afc0-4305-bb4c-29d0ba19542d",
+  "dct_identifier_sm": [
+    "060137c8-afc0-4305-bb4c-29d0ba19542d"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:31:42Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

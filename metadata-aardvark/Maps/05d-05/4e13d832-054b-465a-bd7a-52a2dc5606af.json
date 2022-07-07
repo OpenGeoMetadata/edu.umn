@@ -1,0 +1,58 @@
+{
+  "dct_title_s": "Bedrock geologic map of northwestern Minnesota, M-92",
+  "dct_description_sm": [
+    "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of northwestern Minnesota, scale 1:200,000."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Jirsa, Mark A.",
+    "Chandler, Val W.",
+    "Runkel, Anthony C."
+  ],
+  "dct_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "dct_issued_s": "1999",
+  "gbl_indexYear_im": [
+    "1999"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1999 TO 1999]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota"
+  ],
+  "locn_geometry": "ENVELOPE(-97.239,-96.387,49.001,48.5438)",
+  "dcat_bbox": "ENVELOPE(-97.239,-96.387,49.001,48.5438)",
+  "dcat_centroid": "48.7724,-96.813",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22489.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/973/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:973\"}",
+  "id": "4e13d832-054b-465a-bd7a-52a2dc5606af",
+  "dct_identifier_sm": [
+    "4e13d832-054b-465a-bd7a-52a2dc5606af"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:27:48Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

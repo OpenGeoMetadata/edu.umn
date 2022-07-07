@@ -1,0 +1,53 @@
+{
+  "dct_title_s": "C-19 Geologic atlas of Carlton County, Minnesota [Part A]",
+  "dct_description_sm": [
+    "6 pls. Scales 1:100,000 and 1:200,000. Pl. 1 data-base map; pl. 2, bedrock geology; pl. 3, surficial geology; pl. 4, quaternary stratigraphy; pl. 5, bedrock topography, depth to bedrock, and sand distribution model; pl. 6, mineral endowment. Mapping includes the Fond du Lac Indian Reservation outside the boundary of Carlton County. Supplementary files include ArcGis coverages, shapefiles and/or ESRI grids used to construct the plates, and metadata."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Boerboom, Terrence J",
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Datasets",
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Geology"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "dct_issued_s": "2010-03-04",
+  "gbl_indexYear_im": [
+    "2009"
+  ],
+  "gbl_dateRange_drsim": [
+    "[2009 TO 2009]"
+  ],
+  "dct_spatial_sm": [
+    "Carlton County, Minnesota",
+    "Minnesota"
+  ],
+  "locn_geometry": "ENVELOPE(-93.0612,-92.2916,46.7687,46.4172)",
+  "dcat_bbox": "ENVELOPE(-93.0612,-92.2916,46.7687,46.4172)",
+  "dcat_centroid": "46.59295,-92.6764",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-04"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Files",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://hdl.handle.net/11299/58760\",\"http://schema.org/url\":\"https://hdl.handle.net/11299/58760\"}",
+  "id": "74e36988-0a20-44f9-91ef-4abe71e9ec46",
+  "dct_identifier_sm": [
+    "74e36988-0a20-44f9-91ef-4abe71e9ec46"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:28:00Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

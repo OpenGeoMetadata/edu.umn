@@ -1,0 +1,53 @@
+{
+  "dct_title_s": "C-14 Geologic atlas of Wabasha County, Minnesota [Part A]",
+  "dct_description_sm": [
+    "7 pls. Scale 1:100,000. Pl. 1, data-base map; pl. 2, bedrock geology; pl. 3, surficial geology; pl. 4, bedrock topography and depth to bedrock; pl. 5, karst features; pl. 6, geologic endowment of construction-aggregate materials; pl. 7, illustrated geology. See also RI-59. Part B Published separately by the Minnesota Department of Natural Resources, Division of Waters. Supplementary files include ArcGis coverages, shapefiles and/or ESRI grids used to construct the plates, and metadata."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Runkel, A.C",
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Datasets",
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Geology"
+  ],
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "dct_issued_s": "2010-02-26",
+  "gbl_indexYear_im": [
+    "2001"
+  ],
+  "gbl_dateRange_drsim": [
+    "[2001 TO 2001]"
+  ],
+  "dct_spatial_sm": [
+    "Wabasha County, Minnesota",
+    "Minnesota"
+  ],
+  "locn_geometry": "ENVELOPE(-92.5517,-91.8602,44.4561,44.1065)",
+  "dcat_bbox": "ENVELOPE(-92.5517,-91.8602,44.4561,44.1065)",
+  "dcat_centroid": "44.2813,-92.20595",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-04"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Files",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://hdl.handle.net/11299/58557\",\"http://schema.org/url\":\"https://hdl.handle.net/11299/58557\"}",
+  "id": "1f880f85-48b6-4726-a4cd-5376348c69c9",
+  "dct_identifier_sm": [
+    "1f880f85-48b6-4726-a4cd-5376348c69c9"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:28:46Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

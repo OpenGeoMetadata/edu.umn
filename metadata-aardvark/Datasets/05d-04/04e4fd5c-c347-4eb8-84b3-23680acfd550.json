@@ -1,0 +1,53 @@
+{
+  "dct_title_s": "C-22 Geologic Atlas of Chisago County, Minnesota [Part A]",
+  "dct_description_sm": [
+    "6 pls. Scales 1:100,000 and 1:200,000. Pl. 1, data-base map; pl. 2, bedrock geology; pl. 3, surficial geology; pl. 4 Quaternary stratigraphy; pl. 5, sand distribution model and Precambrian bedrock geology; pl. 6, bedrock topography, and depth to bedrock. Supplementary files include ArcGis coverages, shapefiles and/or ESRI grids used to construct the plates, and metadata.; Surface and subsurface geology of Chisago County"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Setterholm, Dale R",
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Datasets",
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Geology"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "dct_issued_s": "2010-09-15",
+  "gbl_indexYear_im": [
+    "2010"
+  ],
+  "gbl_dateRange_drsim": [
+    "[2010 TO 2010]"
+  ],
+  "dct_spatial_sm": [
+    "Chisago County, Minnesota",
+    "Minnesota"
+  ],
+  "locn_geometry": "ENVELOPE(-93.1409,-92.6465,45.7317,45.2961)",
+  "dcat_bbox": "ENVELOPE(-93.1409,-92.6465,45.7317,45.2961)",
+  "dcat_centroid": "45.5139,-92.8937",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-04"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Files",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://hdl.handle.net/11299/93861\",\"http://schema.org/url\":\"https://hdl.handle.net/11299/93861\"}",
+  "id": "04e4fd5c-c347-4eb8-84b3-23680acfd550",
+  "dct_identifier_sm": [
+    "04e4fd5c-c347-4eb8-84b3-23680acfd550"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:32:56Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

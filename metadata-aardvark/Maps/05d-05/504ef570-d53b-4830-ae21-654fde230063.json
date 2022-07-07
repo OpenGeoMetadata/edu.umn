@@ -1,0 +1,60 @@
+{
+  "dct_title_s": "Bedrock geology database, bedrock topography, and depth to bedrock maps of the eastern half of the Mesabi Iron Range, northern Minnesota, M-158, Plate 3",
+  "dct_description_sm": [
+    "Depth to bedrock (thickness of unconsolidated sediments overlying bedrock) map, eastern half Mesabi Iron range, scale 1:100,000."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Jirsa, Mark A.",
+    "Setterholm, Dale R.",
+    "Bloomgren, Bruce A.",
+    "Bauer, Emily J.",
+    "Lively, R.S."
+  ],
+  "dct_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "dct_temporal_sm": [
+    "2005"
+  ],
+  "dct_issued_s": "2005",
+  "gbl_indexYear_im": [
+    "2005"
+  ],
+  "gbl_dateRange_drsim": [
+    "[2005 TO 2005]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota"
+  ],
+  "locn_geometry": "ENVELOPE(-97.24,-89.48,49.42,43.5)",
+  "dcat_bbox": "ENVELOPE(-97.24,-89.48,49.42,43.5)",
+  "dcat_centroid": "46.46,-93.36",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22576.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/877/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:877\"}",
+  "id": "504ef570-d53b-4830-ae21-654fde230063",
+  "dct_identifier_sm": [
+    "504ef570-d53b-4830-ae21-654fde230063"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:23:22Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Geologic atlas of Scott County, Minnesota, C-1, Plate 6, Hydrogeology",
+  "dct_description_sm": [
+    "Maps showing water table configuration, transmissivity (ability of an aquifer to allow movement of water) and potentiometric conditions (potential direction of ground water movement) of surficial and bedrock aquifers, scale 1:200,000, Scott County."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Balaban, N.H.",
+    "McSwiggen, P.L.",
+    "Kanivetsky, Roman",
+    "Palen, Barbara"
+  ],
+  "dct_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "dct_temporal_sm": [
+    "1982"
+  ],
+  "dct_issued_s": "1982",
+  "gbl_indexYear_im": [
+    "1982"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1982 TO 1982]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota"
+  ],
+  "locn_geometry": "ENVELOPE(-93.9117,-93.2782,44.8139,44.5446)",
+  "dcat_bbox": "ENVELOPE(-93.9117,-93.2782,44.8139,44.5446)",
+  "dcat_centroid": "44.679249999999996,-93.59495",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn21124.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/618/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:618\"}",
+  "id": "b1231fd2-989e-4fb5-83ac-4128d900733b",
+  "dct_identifier_sm": [
+    "b1231fd2-989e-4fb5-83ac-4128d900733b"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:32:00Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

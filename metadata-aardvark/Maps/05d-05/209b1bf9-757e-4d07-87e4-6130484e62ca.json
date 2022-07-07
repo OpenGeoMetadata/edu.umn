@@ -1,0 +1,57 @@
+{
+  "dct_title_s": "Geologic atlas of Pope County, Minnesota, C-15, Part A, Plate 1, Data Base",
+  "dct_description_sm": [
+    "Map showing locations of water wells, soil borings, outcrops and cuttings samples collected during water well drilling.  Distribution and sources of primary information tthat guide the geologic interpretations used to make the geologic maps in the series,  scale 1:100,000, Pope County."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Harris, Kenneth L.",
+    "Bauer, Emily J."
+  ],
+  "dct_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "dct_issued_s": "2003",
+  "gbl_indexYear_im": [
+    "2003"
+  ],
+  "gbl_dateRange_drsim": [
+    "[2003 TO 2003]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota"
+  ],
+  "locn_geometry": "ENVELOPE(-95.7594,-95.1319,45.7602,45.4122)",
+  "dcat_bbox": "ENVELOPE(-95.7594,-95.1319,45.7602,45.4122)",
+  "dcat_centroid": "45.5862,-95.44565",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22345.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/745/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:745\"}",
+  "id": "209b1bf9-757e-4d07-87e4-6130484e62ca",
+  "dct_identifier_sm": [
+    "209b1bf9-757e-4d07-87e4-6130484e62ca"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:22:49Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

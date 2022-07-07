@@ -1,0 +1,36 @@
+{
+  "dct_title_s": "UMedia: John R. Borchert Map Library",
+  "dct_description_sm": [
+    "UMedia provides open access to digitized materials from across the University of Minnesota.",
+    "The John R. Borchert Map Library contains an extensive collection of historic maps and atlases. Though the focus is on historic Minnesota items, the collection contains a wide range of topics and dates -- from historic items dating back to the 16th Century to current maps from around the world."
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Websites"
+  ],
+  "dct_subject_sm": [
+    "Map collections"
+  ],
+  "gbl_dateRange_drsim": [
+    "[* TO *]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota",
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180,180,90,-90)",
+  "dcat_bbox": "ENVELOPE(-180,180,90,-90)",
+  "dcat_centroid": "0.0,0.0",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Digital library collection",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/search?facets%5Bcontributing_organization_name_s%5D%5B%5D=University+of+Minnesota+Libraries%2C+John+R.+Borchert+Map+Library.\"}",
+  "id": "05d-01",
+  "dct_identifier_sm": [
+    "05d-01"
+  ],
+  "gbl_mdModified_dt": "2022-04-14T19:32:40Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

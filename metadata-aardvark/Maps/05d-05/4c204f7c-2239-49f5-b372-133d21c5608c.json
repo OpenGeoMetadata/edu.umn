@@ -1,0 +1,58 @@
+{
+  "dct_title_s": "Bedrock geologic map of the Aitkin 30 x 60 minute quadrangle, east-central Minnesota, M-99, Plate 2",
+  "dct_description_sm": [
+    "Data base, Aitkin quadrangle showing drill holes, outcrops and other data used to make interpretations of bedrock geology for map M-99, scale 1:100,000."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Boerboom, Terrency J.",
+    "Severson, Mark J.",
+    "Southwick, David L."
+  ],
+  "dct_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "dct_issued_s": "1999",
+  "gbl_indexYear_im": [
+    "1999"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1999 TO 1999]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota"
+  ],
+  "locn_geometry": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
+  "dcat_bbox": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
+  "dcat_centroid": "46.441900000000004,-93.3613",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22497.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/835/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:835\"}",
+  "id": "4c204f7c-2239-49f5-b372-133d21c5608c",
+  "dct_identifier_sm": [
+    "4c204f7c-2239-49f5-b372-133d21c5608c"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:33:38Z",
+  "gbl_mdVersion_s": "Aardvark"
+}
