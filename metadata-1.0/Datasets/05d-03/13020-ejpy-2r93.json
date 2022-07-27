@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/10.13020/ejpy-2r93",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Private Rental Listings in Beijing, 2015 and 2018 [Beijing, China]",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "13020-ejpy-2r93",
+  "solr_geom": "ENVELOPE(115.4172,117.508,41.0596,39.4416)",
+  "solr_year_i": "2015",
+  "dc_creator_sm": [
+    "Wang, Yi"
+  ],
+  "dc_description_s": "The dataset includes rental listings from Lianjia (http://bj.lianjia.com) and Woaiwojia (https://bj.5i5j.com) in 2015 and 2018. I employed a web-scraping software program to collect rental listings every Sunday from January to March in 2015 and 2018. The information collected includes the unit’s geographical location, floor area (in square meters), and monthly rent. I then removed items that were duplicates from the original raw collections, items that contained invalid or incomplete information, and items that were not about residential units but storage or commercial spaces.",
+  "dc_format_s": "Spreadsheet",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://conservancy.umn.edu/bitstream/handle/11299/219254/Readme_219254.txt\",\"http://schema.org/url\":\"https://doi.org/10.13020/ejpy-2r93\",\"http://schema.org/downloadUrl\":[{\"label\":\"rental listings Excel spreadsheet (12.62Mb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/219254/RSBJ_dataset_final.xlsx\"},{\"label\":\"rental listings 2015 TXT file (13.24Mb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/219254/RSBJ_dataset_final_2015.txt\"},{\"label\":\"rental listings 2018 TXT file (10.94Mb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/219254/RSBJ_dataset_final_2018.txt\"}]}",
+  "dct_spatial_sm": [
+    "Beijing, China",
+    "China"
+  ],
+  "layer_modified_dt": "2022-06-24T02:58:16Z",
+  "dc_language_sm": [
+    "chi",
+    "eng"
+  ],
+  "dct_issued_s": "2021-04-08",
+  "dct_temporal_sm": [
+    "2015-2018"
+  ]
+}

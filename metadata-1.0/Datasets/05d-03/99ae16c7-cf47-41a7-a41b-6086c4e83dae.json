@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "99ae16c7-cf47-41a7-a41b-6086c4e83dae",
+  "dc_identifier_s": "http://dx.doi.org/10.13020/D6MW2Q|http://hdl.handle.net/11299/168064",
   "dc_rights_s": "Public",
   "dc_title_s": "Access Across America Transit Data (2014)",
   "dct_provenance_s": "University of Minnesota",
@@ -16,11 +16,11 @@
   "dc_subject_sm": [
     "Local transit"
   ],
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://conservancy.umn.edu/bitstream/handle/11299/168064/AODataDoc2014.pdf?sequence=8\\u0026isAllowed=y\",\"http://schema.org/downloadUrl\":\"https://conservancy.umn.edu/bitstream/handle/11299/168064/ALL_REGIONS_SHP_tr_2014_0700-0859.zip?sequence=154\\u0026isAllowed=y\",\"http://schema.org/url\":\"http://hdl.handle.net/11299/168064\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://dx.doi.org/10.13020/D6MW2Q\",\"http://lccn.loc.gov/sh85035852\":\"https://conservancy.umn.edu/bitstream/handle/11299/168064/AODataDoc2014.pdf\",\"http://schema.org/downloadUrl\":\"https://conservancy.umn.edu/bitstream/handle/11299/168064/ALL_REGIONS_SHP_tr_2014_0700-0859.zip?sequence=154\\u0026isAllowed=y\"}",
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:23Z",
+  "layer_modified_dt": "2022-06-23T22:23:45Z",
   "dc_language_sm": [
     "eng"
   ],

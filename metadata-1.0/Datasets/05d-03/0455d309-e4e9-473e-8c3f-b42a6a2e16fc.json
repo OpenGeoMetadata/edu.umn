@@ -16,7 +16,7 @@
   ],
   "dc_description_s": "This data was compiled by the Mapping Prejudice Project and shows the location of racial covenants recorded in Hennepin County between 1910 and 1955. Racial covenants were legal clauses embedded in property records that restricted ownership and occupancy of land parcels based on race. These covenants dramatically reshaped the demographic landscape of Hennepin County in the first half of the twentieth century. In 1948, the United States Supreme Court ruled racial covenants to be legally unenforceable in the Shelly v. Kraemer decision. Racial covenants continued to be inserted into property records, however, prompting the Minnesota state legislature to outlaw the recording of new racial covenants in 1953. The same legislative body made covenants illegal in 1962. The practice was formally ended nationally with the passage of the Fair Housing Act in 1968.",
   "dc_format_s": "Shapefile",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://conservancy.umn.edu/bitstream/handle/11299/217209/Hennepin_County_Racial_Covenants_Codebook.txt?sequence=14\\u0026isAllowed=y\",\"http://schema.org/downloadUrl\":\"https://conservancy.umn.edu/bitstream/handle/11299/217209/Hennepin_County_Racial_Covenants.zip?sequence=9\\u0026isAllowed=y\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/8df8p0NlLFEShl0r/ArcGIS/rest/services/Hennepin_County_Racial_Covenants/FeatureServer/0\",\"http://schema.org/url\":\"https://doi.org/10.13020/a88t-yb14\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://doi.org/10.13020/a88t-yb14\",\"http://lccn.loc.gov/sh85035852\":\"https://conservancy.umn.edu/bitstream/handle/11299/217209/Hennepin_County_Racial_Covenants_Codebook.txt\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/8df8p0NlLFEShl0r/ArcGIS/rest/services/Hennepin_County_Racial_Covenants/FeatureServer/0\",\"http://schema.org/downloadUrl\":[{\"label\":\"covenants shapefile (4.554Mb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/217209/Hennepin_County_Racial_Covenants.zip\"},{\"label\":\"covenants CSV (9.925Mb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/217209/Hennepin_County_Racial_Covenants_Table.csv\"}]}",
   "dct_spatial_sm": [
     "Bloomington, Minnesota",
     "Brooklyn Center, Minnesota",
@@ -52,10 +52,11 @@
     "Hennepin County, Minnesota",
     "Minnesota"
   ],
-  "layer_modified_dt": "2022-04-05T16:03:26Z",
+  "layer_modified_dt": "2022-06-28T15:24:20Z",
   "dc_language_sm": [
     "eng"
   ],
+  "dc_publisher_s": "University of Minnesota Mapping Prejudice Project",
   "dct_issued_s": "2020-12",
   "dct_temporal_sm": [
     "1910-1955"

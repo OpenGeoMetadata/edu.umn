@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "dd46eed3-9228-4a4c-8b17-ef095dbb5b6c",
+  "dc_identifier_s": "http://doi.org/10.13020/D6DW2V|http://hdl.handle.net/11299/181531",
   "dc_rights_s": "Public",
   "dc_title_s": "Rochester 1-Meter Land Cover Classification (Urban Focused)] (2016)",
   "dct_provenance_s": "University of Minnesota",
@@ -17,12 +17,12 @@
   "dc_subject_sm": [
     "Railroads"
   ],
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://conservancy.umn.edu/bitstream/handle/11299/181531/rochester_LC.tif\",\"http://schema.org/url\":\"http://hdl.handle.net/11299/181531\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://doi.org/10.13020/D6DW2V\",\"http://schema.org/downloadUrl\":\"https://conservancy.umn.edu/bitstream/handle/11299/181531/rochester_LC.tif\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://conservancy.umn.edu/bitstream/handle/11299/181531/Rochester_1m_LandCover_Metadata.xml\",\"http://www.w3.org/1999/xhtml\":\"https://conservancy.umn.edu/bitstream/handle/11299/181531/Rochester_1m_LandCover_Metadata.html\"}",
   "dct_spatial_sm": [
     "Rochester, Minnesota",
     "Minnesota"
   ],
-  "layer_modified_dt": "2022-04-01T15:33:55Z",
+  "layer_modified_dt": "2022-06-23T22:23:49Z",
   "dc_language_sm": [
     "eng"
   ],

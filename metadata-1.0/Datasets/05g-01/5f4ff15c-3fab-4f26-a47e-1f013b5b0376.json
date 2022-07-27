@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "5f4ff15c-3fab-4f26-a47e-1f013b5b0376",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Centerline: Mississippi River",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "5f4ff15c-3fab-4f26-a47e-1f013b5b0376",
+  "solr_geom": "ENVELOPE(-95.2469,-89.0964,47.4975,29.1537)",
+  "solr_year_i": "2002",
+  "dc_creator_sm": [
+    "US Army Corps of Engineers, St. Paul District Office"
+  ],
+  "dc_description_s": "Mississippi River centerline data derived from USACE navigation sailing line (recommended track) data and on-screen digitized in areas of no data. Data set extends from the Headwaters (Lake Itasca, Northern MN) to the Gulf Coast (Louisiana). This data set is not intended for navigation purposes.",
+  "dc_format_s": "Shapefile",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://mvp-extstp.mvp.usace.army.mil/gis/data/mississippi_river_centerline.zip\",\"http://schema.org/url\":\"http://mvp-extstp.mvp.usace.army.mil/gis/\"}",
+  "dct_spatial_sm": [
+    "Mississippi River"
+  ],
+  "layer_modified_dt": "2022-05-31T13:46:28Z",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_issued_s": "2010",
+  "dct_temporal_sm": [
+    "2002-2008"
+  ]
+}

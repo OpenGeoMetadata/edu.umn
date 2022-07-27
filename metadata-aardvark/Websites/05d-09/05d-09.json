@@ -1,0 +1,34 @@
+{
+  "dct_title_s": "Minnesota Historical Aerial Photographs Online (MHAPO), 1920-2000",
+  "dct_description_sm": [
+    "Provides access to 121,000 digital copies of non-georeferenced air photos that were captured between 1923 and 2007 and are freely available via the John R. Borchert Map Library and the Minnesota Department of Natural Resources. The images were captured by a variety of government entities to address a wide range of applications. Images were scanned at resolutions ranging from 150 to 1200DPI. The collection includes a mixture of black & white, true color and infrared photographs. Various image collects were taken at a range of flight heights depending on the year and purpose of the collect."
+  ],
+  "dct_publisher_sm": [
+    "University of Minnesota"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Websites"
+  ],
+  "dcat_keyword_sm": [
+    "Academic institutions geospatial data"
+  ],
+  "gbl_dateRange_drsim": [
+    "[* TO *]"
+  ],
+  "locn_geometry": "ENVELOPE(-97.2391959,-89.4833851,49.384358,43.499361)",
+  "dcat_bbox": "ENVELOPE(-97.2391959,-89.4833851,49.384358,43.499361)",
+  "dcat_centroid": "46.4418595,-93.3612905",
+  "pcdm_memberOf_sm": [
+    "dc8c18df-7d64-4ff4-a754-d18d0891187d"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Website",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.lib.umn.edu/apps/mhapo\"}",
+  "id": "05d-09",
+  "dct_identifier_sm": [
+    "05d-09"
+  ],
+  "gbl_mdModified_dt": "2022-04-14T19:32:45Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

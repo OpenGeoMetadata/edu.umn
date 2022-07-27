@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "c95016ec-811f-41d1-a72f-cf6603e86f50",
+  "dc_identifier_s": "http://dx.doi.org/10.13020/D6CC78|http://hdl.handle.net/11299/162818",
   "dc_rights_s": "Public",
   "dc_title_s": "Twin Cities State Highway Network (1920-1995)",
   "dct_provenance_s": "University of Minnesota",
@@ -13,12 +13,12 @@
   ],
   "dc_description_s": "Illustrates the development of the highway network in the Twin Cities metropolitan region. GIS maps of the state highway network were created for 1920-1995 (these were not previously digitized). These were used to build Markov Chain Cellular Automata models of land use change and network growth.  Vector line data with highway centerlines. Features may have attributes indicating year built and/or year divided. Also includes a PDF illustrating the data.",
   "dc_format_s": "Shapefile",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://conservancy.umn.edu/bitstream/handle/11299/162818/Roads1920_1995_data.zip\",\"http://schema.org/url\":\"http://hdl.handle.net/11299/162818\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://dx.doi.org/10.13020/D6CC78\",\"http://schema.org/downloadUrl\":\"https://conservancy.umn.edu/bitstream/handle/11299/162818/Roads1920_1995_data.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://conservancy.umn.edu/bitstream/handle/11299/162818/Roads1920_1995_metadata.xml\"}",
   "dct_spatial_sm": [
     "Minneapolis-St. Paul-Bloomington, Minnesota",
     "Minnesota"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:56Z",
+  "layer_modified_dt": "2022-06-23T22:23:49Z",
   "dc_language_sm": [
     "eng"
   ],

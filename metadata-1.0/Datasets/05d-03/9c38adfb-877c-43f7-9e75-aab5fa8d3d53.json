@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "9c38adfb-877c-43f7-9e75-aab5fa8d3d53",
+  "dc_identifier_s": "https://doi.org/10.13020/6khg-0d19|http://hdl.handle.net/11299/212006",
   "dc_rights_s": "Public",
   "dc_title_s": "Block-level accessibility data for transit-way evaluation in the Twin Cities metropolitan region] (2019)",
   "dct_provenance_s": "University of Minnesota",
@@ -16,15 +16,16 @@
   "dc_subject_sm": [
     "Census"
   ],
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://conservancy.umn.edu/bitstream/handle/11299/212006/README.txt?sequence=8\\u0026isAllowed=y\",\"http://schema.org/url\":\"http://hdl.handle.net/11299/212006\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://doi.org/10.13020/6khg-0d19\",\"http://lccn.loc.gov/sh85035852\":\"https://conservancy.umn.edu/bitstream/handle/11299/212006/README.txt\",\"http://schema.org/downloadUrl\":[{\"label\":\"Shapefiles  (6.848 Gb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/212006/TRANSITWAY_ACCESSIBILITY_EVALUATION_SHAPEFILES.zip\"},{\"label\":\"Report (23.85 Mb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/212006/CTS20-06.pdf\"}]}",
   "dct_spatial_sm": [
     "Minneapolis-St. Paul, Minnesota",
     "Minnesota"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:42Z",
+  "layer_modified_dt": "2022-06-23T22:55:25Z",
   "dc_language_sm": [
     "eng"
   ],
+  "dc_publisher_s": "University of Minnesota, Center for Transportation Studies, Accessibility Observatory",
   "dct_issued_s": "2020-03-06",
   "dct_temporal_sm": [
     "2019"

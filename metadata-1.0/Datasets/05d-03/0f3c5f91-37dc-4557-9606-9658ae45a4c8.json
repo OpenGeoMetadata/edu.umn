@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "0f3c5f91-37dc-4557-9606-9658ae45a4c8",
+  "dc_identifier_s": "http://doi.org/10.13020/D6C016|http://hdl.handle.net/11299/183470",
   "dc_rights_s": "Public",
   "dc_title_s": "Twin Cities Metropolitan Area Urban Tree Canopy Assessment (2015)",
   "dct_provenance_s": "University of Minnesota",
@@ -18,12 +18,12 @@
     "Trees",
     "Tree canopies"
   ],
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://conservancy.umn.edu/bitstream/handle/11299/183470/TCMA_UrbanTreeCanopy2015.zip\",\"http://schema.org/url\":\"http://hdl.handle.net/11299/183470\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://doi.org/10.13020/D6C016\",\"http://schema.org/downloadUrl\":\"https://conservancy.umn.edu/bitstream/handle/11299/183470/TCMA_UrbanTreeCanopy2015.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://conservancy.umn.edu/bitstream/handle/11299/183470/2015_TCMA_UTC_metadata.xml\",\"http://www.w3.org/1999/xhtml\":\"https://conservancy.umn.edu/bitstream/handle/11299/183470/2015_TCMA_UTC_metadata.html\"}",
   "dct_spatial_sm": [
     "Minneapolis-St. Paul-Bloomington, Minnesota",
     "Minnesota"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:44Z",
+  "layer_modified_dt": "2022-06-23T22:23:50Z",
   "dc_language_sm": [
     "eng"
   ],

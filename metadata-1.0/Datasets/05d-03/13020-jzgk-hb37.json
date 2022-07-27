@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://doi.org/10.13020/jzgk-hb37",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Maps of wind-wave height on Minnesota lake shorelines",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "13020-jzgk-hb37",
+  "solr_geom": "ENVELOPE(-97.24,-89.48,49.38,43.5)",
+  "solr_year_i": "2017",
+  "dc_creator_sm": [
+    "Herb, William",
+    "Janke, Ben",
+    "Cai, Meijun",
+    "Stefan, Heinz",
+    "Johnson, Lucinda"
+  ],
+  "dc_description_s": "This data set provides maps of typical wind-wave height and energy on Minnesota lakes to inform shoreline and near-shore habitat restoration projects. The data set consists of a set of ArcMap shape files which map out simulated wave height and energy parameters for a series of points around the\r shoreline of 460 lakes in Minnesota, with separate files for annual wave statistics and monthly wave statistics. The wave statistics were calculated for each lake based on airport wind data and the open water distance (fetch) across the lake for each wind direction. Each shapefile contains information on multiple wave statistics, including the mean and significant wave height, the number of days wave height exceeds thresholds, and cumulative wave energy over the time period.|There are a total of 11 shapefiles in this data set, including one file for annual wave statistics (Annual_WaveStats), 9 files for monthly\r wave statistics for April through December (e.g. April_WaveStats.shp) , and a shapefile giving the lake polygons for the 460 Minnesota lakes included in this study (Study_Lakes.shp). Each shapefile is packaged for download in .zip format.",
+  "dc_format_s": "Shapefile",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://conservancy.umn.edu/bitstream/handle/11299/226175/Description.txt\",\"http://schema.org/url\":\"https://doi.org/10.13020/jzgk-hb37\",\"http://schema.org/downloadUrl\":[{\"label\":\"Study_Lakes.zip (8.848Mb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/226175/Study_Lakes.zip\"},{\"label\":\"Annual_WaveStats.zip (5.974Mb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/226175/Annual_WaveStats.zip\"},{\"label\":\"April_WaveStats.zip (4.783Mb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/226175/April_WaveStats.zip\"},{\"label\":\"May_WaveStats.zip (5.142Mb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/226175/May_WaveStats.zip\"},{\"label\":\"June_WaveStats.zip (5.086Mb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/226175/June_WaveStats.zip\"},{\"label\":\"July_WaveStats.zip (5.131Mb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/226175/July_WaveStats.zip\"},{\"label\":\"August_WaveStats.zip (5.125Mb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/226175/August_WaveStats.zip\"},{\"label\":\"September_WaveStats.zip (5.085Mb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/226175/September_WaveStats.zip\"},{\"label\":\"October_WaveStats.zip (5.151Mb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/226175/October_WaveStats.zip\"},{\"label\":\"November_WaveStats.zip (5.121Mb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/226175/November_WaveStats.zip\"},{\"label\":\"December_WaveStats.zip (2.839Mb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/226175/December_WaveStats.zip\"},{\"label\":\"Description.txt (2.442Kb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/226175/Description.txt\"}]}",
+  "dct_spatial_sm": [
+    "Minnesota"
+  ],
+  "layer_modified_dt": "2022-06-24T02:58:17Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "2022-01-27",
+  "dct_temporal_sm": [
+    "2017-2018"
+  ]
+}

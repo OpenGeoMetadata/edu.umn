@@ -1,0 +1,38 @@
+{
+  "dct_title_s": "National Historical Geographic Information System (NHGIS)",
+  "dct_description_sm": [
+    "The National Historical Geographic Information System (NHGIS) provides easy access to summary tables and time series of population, housing, agriculture, and economic data, along with GIS-compatible boundary files, for years from 1790 through the present and for all levels of U.S. census geography, including states, counties, tracts, and blocks."
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Websites"
+  ],
+  "dct_subject_sm": [
+    "National government records",
+    "Census"
+  ],
+  "dcat_keyword_sm": [
+    "Census"
+  ],
+  "dct_temporal_sm": [
+    "Continually updated resource"
+  ],
+  "gbl_dateRange_drsim": [
+    "[* TO *]"
+  ],
+  "locn_geometry": "ENVELOPE(144.4,-64.4,71.6,-14.8)",
+  "dcat_bbox": "ENVELOPE(144.4,-64.4,71.6,-14.8)",
+  "dcat_centroid": "28.4,40.0",
+  "pcdm_memberOf_sm": [
+    "b0153110-e455-4ced-9114-9b13250a7093"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Interactive database",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.nhgis.org\"}",
+  "id": "05d-10",
+  "dct_identifier_sm": [
+    "https://www.nhgis.org"
+  ],
+  "gbl_mdModified_dt": "2022-04-14T19:32:41Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

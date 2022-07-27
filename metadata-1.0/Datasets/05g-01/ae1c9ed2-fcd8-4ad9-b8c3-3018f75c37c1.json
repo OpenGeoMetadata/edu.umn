@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ae1c9ed2-fcd8-4ad9-b8c3-3018f75c37c1",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Mile Markers: Red River of the North and Bois de Sioux River",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "ae1c9ed2-fcd8-4ad9-b8c3-3018f75c37c1",
+  "solr_geom": "ENVELOPE(-97.3383,-96.4163,49.0003,45.8786)",
+  "solr_year_i": "1991",
+  "dc_creator_sm": [
+    "US Army Corps of Engineers, St. Paul District Office"
+  ],
+  "dc_description_s": "The river mileage established by the US Army Corps of Engineers is from Plates 2-13 from the Souris-Red-Rainy River Basins, Red River Type II Study, Red River Main Stem, Regional Floodplain Area. The drawings are dated 1972. These drawings cover the Red River from Emerson, Manitoba (Canada) to White Rock Dam on the north end of Mud Lake.",
+  "dc_format_s": "Shapefile",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://mvp-extstp.mvp.usace.army.mil/gis/data/RedRiver_BoisdeSiouxMileMarkers.zip\",\"http://schema.org/url\":\"http://mvp-extstp.mvp.usace.army.mil/gis/\"}",
+  "dct_spatial_sm": [
+    "Red River of the North",
+    "North Dakota",
+    "Minnesota",
+    "Bois de Sioux River"
+  ],
+  "layer_modified_dt": "2022-05-31T13:46:28Z",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_issued_s": "2004",
+  "dct_temporal_sm": [
+    "1991-1992"
+  ]
+}

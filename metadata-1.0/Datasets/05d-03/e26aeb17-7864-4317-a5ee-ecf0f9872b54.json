@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "e26aeb17-7864-4317-a5ee-ecf0f9872b54",
+  "dc_identifier_s": "http://dx.doi.org/10.13020/D63W22|http://hdl.handle.net/11299/162666",
   "dc_rights_s": "Public",
   "dc_title_s": "Twin Cities Land Use Map from the Twin Cities Metropolitan Planning Commission (1968)",
   "dct_provenance_s": "University of Minnesota",
@@ -11,17 +11,17 @@
     "Levinson, David M.",
     "Chen, Wei"
   ],
-  "dc_description_s": "High-quality GIS land use maps for the Twin Cities Metropolitan Area for 1968 that were developed from paper maps (no GIS version existed previously). The GIS shapefiles were exported using ArcGIS Quick Import Tool from the Data Interoperability Toolbox. The coverage files was imported into a file geodatabase then exported to a .shp file for long-term use without proprietary software. An example output of the final GIS file is include as a pdf, in addition, a scan of the original 1968 map (held in the UMN Borchert Map Library) is included as a pdf. Metadata was extracted as an xml file. Finally, all associated coverage files and original map scans were zipped into one file for download and reuse.",
+  "dc_description_s": "High-quality GIS land use maps for the Twin Cities Metropolitan Area for 1968 that were developed from paper maps (no GIS version existed previously).|The GIS shapefiles were exported using ArcGIS Quick Import Tool from the Data Interoperability Toolbox. The coverage files was imported into a file geodatabase then exported to a .shp file for long-term use without proprietary software. An example output of the final GIS file is include as a pdf, in addition, a scan of the original 1968 map (held in the UMN Borchert Map Library) is included as a pdf. Metadata was extracted as an xml file. Finally, all associated coverage files and original map scans were zipped into one file for download and reuse.",
   "dc_format_s": "Shapefile",
   "dc_subject_sm": [
     "Land use"
   ],
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://conservancy.umn.edu/bitstream/handle/11299/162666/L1968_poly.zip\",\"http://schema.org/url\":\"http://hdl.handle.net/11299/162666\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://dx.doi.org/10.13020/D63W22\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://conservancy.umn.edu/bitstream/handle/11299/162666/1968_metadata_MGMG.xml\",\"http://www.w3.org/1999/xhtml\":\"https://conservancy.umn.edu/bitstream/handle/11299/162666/1968_metadata_MGMG.html\",\"http://schema.org/downloadUrl\":[{\"label\":\"shapefile (1.121Mb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/162666/L1968_poly.zip\"},{\"label\":\"scan of paper map PDF (27.13Mb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/162666/1968originalmap.pdf\"},{\"label\":\"GIS preview PDF (772.4Kb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/162666/1968gisdataexport.pdf\"},{\"label\":\"original ArcGIS data (45.49Mb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/162666/1968%20Twin%20Cities%20Land%20Use%20Map.zip\"}]}",
   "dct_spatial_sm": [
     "Minneapolis-St. Paul-Bloomington, Minnesota",
     "Minnesota"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:48Z",
+  "layer_modified_dt": "2022-07-09T16:28:06Z",
   "dc_language_sm": [
     "eng"
   ],

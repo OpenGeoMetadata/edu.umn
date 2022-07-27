@@ -19,7 +19,7 @@
   "dc_subject_sm": [
     "Land use"
   ],
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://conservancy.umn.edu/bitstream/handle/11299/217533/SuitabilityClassDefinitions.pdf\",\"http://schema.org/downloadUrl\":\"https://conservancy.umn.edu/bitstream/handle/11299/217533/Composite_Intrinsic_Suitability.zip\",\"http://www.w3.org/1999/xhtml\":\"https://conservancy.umn.edu/bitstream/handle/11299/217533/McHarg_metadata.html\",\"http://schema.org/url\":\"https://doi.org/10.13020/dqp3-c961\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://doi.org/10.13020/dqp3-c961\",\"http://lccn.loc.gov/sh85035852\":\"https://conservancy.umn.edu/bitstream/handle/11299/217533/SuitabilityClassDefinitions.pdf\",\"http://schema.org/downloadUrl\":\"https://conservancy.umn.edu/bitstream/handle/11299/217533/Composite_Intrinsic_Suitability.zip\",\"http://www.w3.org/1999/xhtml\":\"https://conservancy.umn.edu/bitstream/handle/11299/217533/McHarg_metadata.html\"}",
   "dct_spatial_sm": [
     "Hennepin County, Minnesota",
     "Ramsey County, Minnesota",
@@ -33,10 +33,11 @@
     "Scott County, Minnesota",
     "Minnesota"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:15Z",
+  "layer_modified_dt": "2022-06-23T22:40:44Z",
   "dc_language_sm": [
     "eng"
   ],
+  "dc_publisher_s": "U-Spatial",
   "dc_source_sm": [
     "p16022coll289:20"
   ],

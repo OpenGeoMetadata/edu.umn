@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "16740_bike_accessibility_data_2017",
+  "dc_identifier_s": "https://doi.org/10.13020/vebr-4a83|http://hdl.handle.net/11299/211418",
   "dc_rights_s": "Public",
   "dc_title_s": "Access Across America Bike Data [Charlotte-Gastonia-Rock Hill, NC-SC] (2017)",
   "dct_provenance_s": "University of Minnesota",
@@ -16,7 +16,7 @@
   "dc_subject_sm": [
     "Bicycles"
   ],
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://conservancy.umn.edu/bitstream/handle/11299/211418/2018DataDoc_all_LEHD.pdf?sequence=103\\u0026isAllowed=y\",\"http://schema.org/downloadUrl\":\"https://conservancy.umn.edu/bitstream/handle/11299/211418/16740_bike_accessibility_data_2017.zip\",\"http://schema.org/url\":\"http://hdl.handle.net/11299/211418\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://doi.org/10.13020/vebr-4a83\",\"http://lccn.loc.gov/sh85035852\":\"https://conservancy.umn.edu/bitstream/handle/11299/211418/2018DataDoc_all_LEHD.pdf\",\"http://schema.org/downloadUrl\":\"https://conservancy.umn.edu/bitstream/handle/11299/211418/16740_bike_accessibility_data_2017.zip\"}",
   "dct_spatial_sm": [
     "Charlotte, North Carolina",
     "Gastonia, North Carolina",
@@ -24,7 +24,7 @@
     "North Carolina",
     "South Carolina"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:13Z",
+  "layer_modified_dt": "2022-06-23T22:23:43Z",
   "dc_language_sm": [
     "eng"
   ],

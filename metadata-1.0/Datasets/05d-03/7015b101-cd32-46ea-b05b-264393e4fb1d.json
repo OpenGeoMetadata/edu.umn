@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "7015b101-cd32-46ea-b05b-264393e4fb1d",
+  "dc_identifier_s": "http://dx.doi.org/10.13020/D6SG6N|http://hdl.handle.net/11299/172696",
   "dc_rights_s": "Public",
   "dc_title_s": "Digital Surface Model [Minnesota] (2006-2012)",
   "dct_provenance_s": "University of Minnesota",
@@ -24,11 +24,11 @@
   ],
   "dc_description_s": "A 1m resolution digital surface model that was generated from raw lidar data. This dataset was an intermediate product of a process to model potential solar insolation for the state of Minnesota. The Digital Surface Model (DSM) was created to represent the terrain and all object present on that terrain. This included buildings, tree cover, roads, and other natural and human-altered landscapes. In effect, the DSM is a three dimensional representation of Minnesota. It was generated using a Streaming Delauney Triangulation process through rapidlasso's LAStools software package. In this process, triangles are iteratively generated using nearby lidar returns and values for each point are determined by extracting interpolated elevation from the surface of the triangle. The result is a 1 meter resolution raster covering the state. Lidar is a form of active remote sensing technology that uses light pulses, most commonly in the near-infrared wavelengths, to collected surface elevation data. A laser scanner, mounted in an aircraft and combined with high-accuracy GPS, collects light returns that are interpolated into a point cloud. Each point represents one return from a laser pulse. The laser pulse has the ability to penetrate vegetation, multiple laser returns can be gathered for each pulse including the returns from below the vegetation.The accuracy of lidar returns allow for a unique, multi-faceted analytical dataset. The first point returns can be used to interpolate a topology of Minnesota that models the objects (i.e. building, trees, etc) and geography resting upon the terrain. The lidar point files for the state of Minnesota used in the study were collected between 2006 and 2012 through an intergovernmental initiative with the primary object of providing improved elevation data for flood mapping. In some regions, existing lidar data was acquired and transformed to new state standards. Areas where data did not exist or could not be transformed, were collected by contracted vendors. The composite data forms a seamless coverage of the state with a resolutions of at least 1.5 meters. Refer to metadata.html for full details.",
   "dc_format_s": "Files",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://hdl.handle.net/11299/172696\",\"http://schema.org/url\":\"http://hdl.handle.net/11299/172696\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://dx.doi.org/10.13020/D6SG6N\",\"http://schema.org/downloadUrl\":\"http://hdl.handle.net/11299/172696\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://conservancy.umn.edu/bitstream/handle/11299/172696/dsm_metadata_MGMG.xml\",\"http://www.w3.org/1999/xhtml\":\"https://conservancy.umn.edu/bitstream/handle/11299/172696/dsm_metadata_MGMG.html\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:23Z",
+  "layer_modified_dt": "2022-06-23T22:23:49Z",
   "dc_language_sm": [
     "eng"
   ],

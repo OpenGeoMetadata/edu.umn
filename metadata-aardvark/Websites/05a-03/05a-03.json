@@ -1,0 +1,57 @@
+{
+  "dct_title_s": "General Land Office Township Plats: Minnesota",
+  "dct_alternative_sm": [
+    "Minnesota Original Public Land Survey Plat Maps, Digital Images, Geo-referenced"
+  ],
+  "dct_description_sm": [
+    "Minnesota's original public land survey plat maps were created between 1848 and 1907 during the first government land survey of the state by the U.S. Surveyor General's Office. This collection of more than 3,600 maps includes later General Land Office (GLO) and Bureau of Land Management maps up through 2001. Scanned images of the maps are available in several digital formats and most have been georeferenced."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Websites"
+  ],
+  "gbl_resourceType_sm": [
+    "Cadastral maps"
+  ],
+  "dct_subject_sm": [
+    "Map collections"
+  ],
+  "dcat_keyword_sm": [
+    "land survey",
+    "surveyor",
+    "public land survey system",
+    "PLSS",
+    "pls",
+    "OpenIndexMaps"
+  ],
+  "dct_temporal_sm": [
+    "1848-1907"
+  ],
+  "gbl_indexYear_im": [
+    "1848"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1848 TO 1907]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota"
+  ],
+  "locn_geometry": "ENVELOPE(-97.24,-89.48,49.38,43.5)",
+  "dcat_bbox": "ENVELOPE(-97.24,-89.48,49.38,43.5)",
+  "dcat_centroid": "46.44,-93.36",
+  "pcdm_memberOf_sm": [
+    "77f-0001"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Website with data downloads and an interactive map",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://resources.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mngeo/plan_glo_plat_maps_georef/metadata/metadata.html\",\"http://schema.org/url\":\"http://www.mngeo.state.mn.us/glo/Index.htm\",\"https://openindexmaps.org\":\"https://raw.githubusercontent.com/geobtaa/openindexmaps/main/0c55d18a-c6a6-425a-9d7b-7efe3e03df3e.geojson\"}",
+  "id": "05a-03",
+  "dct_identifier_sm": [
+    "05a-03"
+  ],
+  "gbl_mdModified_dt": "2022-07-08T20:34:52Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

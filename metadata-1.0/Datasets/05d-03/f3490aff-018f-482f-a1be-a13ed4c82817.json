@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "f3490aff-018f-482f-a1be-a13ed4c82817",
+  "dc_identifier_s": "http://doi.org/10.13020/D6PC72|http://hdl.handle.net/11299/181533",
   "dc_rights_s": "Public",
   "dc_title_s": "Duluth 1-Meter Land Cover Classification (Urban Focused)] (2016)",
   "dct_provenance_s": "University of Minnesota",
@@ -17,12 +17,12 @@
   "dc_subject_sm": [
     "Railroads"
   ],
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://conservancy.umn.edu/bitstream/handle/11299/181533/Duluth.zip\",\"http://schema.org/url\":\"http://hdl.handle.net/11299/181533\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://doi.org/10.13020/D6PC72\",\"http://lccn.loc.gov/sh85035852\":\"https://conservancy.umn.edu/bitstream/handle/11299/181533/Classification%20scheme%20for%20Level%201%20and%202%20land%20cover%20classes.pdf\",\"http://schema.org/downloadUrl\":\"https://conservancy.umn.edu/bitstream/handle/11299/181533/Duluth.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://conservancy.umn.edu/bitstream/handle/11299/181533/Duluth_1m_LandCover_Metadata.xml\",\"http://www.w3.org/1999/xhtml\":\"https://conservancy.umn.edu/bitstream/handle/11299/181533/Duluth_1m_LandCover_Metadata.html\"}",
   "dct_spatial_sm": [
     "Duluth, Minnesota",
     "Minnesota"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:26Z",
+  "layer_modified_dt": "2022-06-24T00:17:54Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "f6d58f9b-600f-4bf3-8691-951a2435f9fa",
+  "dc_identifier_s": "https://doi.org/10.13020/D6G68V|http://hdl.handle.net/11299/208549",
   "dc_rights_s": "Public",
   "dc_title_s": "Distribution Maps and Models for 13 Invasive Plants in Minnesota",
   "dct_provenance_s": "University of Minnesota",
@@ -13,11 +13,11 @@
   ],
   "dc_description_s": "This dataset consists of raster (.tif) and map (.png) files for 13 invasive plants in Minnesota. Species included consist of: common buckthorn, glossy buckthorn, multiflora rose, garlic mustard, Canada thistle, common tansy, leafy spurge, spotted knapweed, wild parsnip, purple loosestrife, Japanese knotweed, narrowleaf bittercress, and plumeless thistle. The rasters (.tif files) included here consist of the output of species distribution modeling (SDM) conducted for each species; these files depict the mean cross-model and cross-assumption distribution estimates for each species, on a scale of 0 to 1. Values near 0 indicate low likelihood of finding the species there, or low habitat suitability, and values near 1 represent a high likelihood of finding the species. The maps (.png files) included here depict the same information, but in a static non-GIS compatible format.",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://conservancy.umn.edu/bitstream/handle/11299/208549/data_description.txt?sequence=13\\u0026isAllowed=y\",\"http://schema.org/url\":\"http://hdl.handle.net/11299/208549\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://doi.org/10.13020/bgg5-kk86\",\"http://lccn.loc.gov/sh85035852\":\"https://conservancy.umn.edu/bitstream/handle/11299/208549/data_description.txt\",\"http://schema.org/downloadUrl\":[{\"label\":\"TIFFs (19.08Mb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/208549/invasive_plant_rasters_2019.zip\"},{\"label\":\"PNGs (4.826Mb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/208549/invasive_plant_maps_2019.zip\"}]}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2022-04-01T15:33:44Z",
+  "layer_modified_dt": "2022-06-24T00:13:51Z",
   "dc_language_sm": [
     "eng"
   ],

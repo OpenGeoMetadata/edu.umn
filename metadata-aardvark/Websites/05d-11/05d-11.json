@@ -1,0 +1,37 @@
+{
+  "dct_title_s": "Minnesota Natural Resource Atlas",
+  "dct_description_sm": [
+    "The Interactive Map provides a basic set of GIS tools for viewing, searching, and manipulating mapped data. These tools allows users to measure, access attribute data, conduct basic summaries, query features, and view different combinations of spatial data. Information can be shared by exporting results and map images."
+  ],
+  "dct_creator_sm": [
+    "Natural Resources Research Institute"
+  ],
+  "dct_publisher_sm": [
+    "University of Minnesota Duluth"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Websites"
+  ],
+  "gbl_dateRange_drsim": [
+    "[* TO *]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota"
+  ],
+  "locn_geometry": "ENVELOPE(-97.24,-89.48,49.38,43.5)",
+  "dcat_bbox": "ENVELOPE(-97.24,-89.48,49.38,43.5)",
+  "dcat_centroid": "46.44,-93.36",
+  "pcdm_memberOf_sm": [
+    "b0153110-e455-4ced-9114-9b13250a7093"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Data catalog and interactive map",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://mnatlas.org\"}",
+  "id": "05d-11",
+  "dct_identifier_sm": [
+    "05d-11"
+  ],
+  "gbl_mdModified_dt": "2022-05-27T13:41:47Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "352b02d6-d2b8-4159-94f1-056de0293781",
+  "dc_identifier_s": "http://dx.doi.org/10.13020/D6X59X|http://hdl.handle.net/11299/172642",
   "dc_rights_s": "Public",
   "dc_title_s": "Solar Insolation, Minnesota] (2006-2012)",
   "dct_provenance_s": "University of Minnesota",
@@ -24,11 +24,11 @@
   ],
   "dc_description_s": "The Minnesota Solar Suitability Analysis attempts to provide solar insolation analysis for the entire State of Minnesota. As far as we are aware, it is the only project of its scale in existence; similar studies have been limited to metro areas or focus on rooftop insolation. The project's existence is feasible because of statewide, freely available aerial lidar coverage. And the commitment of the team to work long hours on this unfunded project. The project finds itself at the intersection of renewable energy, big data analysis, geospatial technology, and open data availability. This data provides a measure of incedent solar radiation as it is intercepted by the earth surface, or features (such as vegetation and buildings) standing above the earth surface. The data is intended to be used to assess the suitability of a site for solar panel (photovoltaic cell) installations. The analysis used to produce this dataset looks at geographic location, surface slope, surface aspect, and the effects of shading based on local topography and adjacent structures. A digital surface model was generated from raw LiDAR data. Then, using this DSM, an individual locations on a grid surface were assessed for the amount of direct and indirect radiation that reaches the surface. This analysis was conducted at a 1m resolution for the entire state of Minnesota.",
   "dc_format_s": "Files",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://hdl.handle.net/11299/172642\",\"http://schema.org/url\":\"http://hdl.handle.net/11299/172642\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://dx.doi.org/10.13020/D6X59X\",\"http://schema.org/downloadUrl\":\"http://hdl.handle.net/11299/172642\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://conservancy.umn.edu/bitstream/handle/11299/172642/solar_metadata_MGMG.xml\",\"http://www.w3.org/1999/xhtml\":\"https://conservancy.umn.edu/bitstream/handle/11299/172642/solar_metadata_MGMG.html\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:14Z",
+  "layer_modified_dt": "2022-06-23T22:23:49Z",
   "dc_language_sm": [
     "eng"
   ],

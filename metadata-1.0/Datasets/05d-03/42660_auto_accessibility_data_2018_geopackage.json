@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "42660_auto_accessibility_data_2018_geopackage",
+  "dc_identifier_s": "https://doi.org/10.13020/qyh7-qy92|http://hdl.handle.net/11299/211408",
   "dc_rights_s": "Public",
   "dc_title_s": "Access Across America Auto Data [Seattle-Tacoma-Bellevue, WA] (2018)",
   "dct_provenance_s": "University of Minnesota",
@@ -16,14 +16,14 @@
   "dc_subject_sm": [
     "Automobiles"
   ],
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://conservancy.umn.edu/bitstream/handle/11299/211408/2018DataDoc_all_LEHD.pdf\",\"http://schema.org/downloadUrl\":\"https://conservancy.umn.edu/bitstream/handle/11299/211408/42660_auto_accessibility_data_2018_geopackage.zip\",\"http://schema.org/url\":\"http://hdl.handle.net/11299/211408\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://doi.org/10.13020/qyh7-qy92\",\"http://lccn.loc.gov/sh85035852\":\"https://conservancy.umn.edu/bitstream/handle/11299/211408/2018DataDoc_all_LEHD.pdf\",\"http://schema.org/downloadUrl\":\"https://conservancy.umn.edu/bitstream/handle/11299/211408/42660_auto_accessibility_data_2018_geopackage.zip\"}",
   "dct_spatial_sm": [
     "Seattle, Washington",
     "Tacoma, Washington",
     "Bellevue, Washington",
     "Washington"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:51Z",
+  "layer_modified_dt": "2022-06-23T22:23:42Z",
   "dc_language_sm": [
     "eng"
   ],

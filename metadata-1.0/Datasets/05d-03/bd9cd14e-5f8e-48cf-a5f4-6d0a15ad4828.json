@@ -1,12 +1,12 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "bd9cd14e-5f8e-48cf-a5f4-6d0a15ad4828",
+  "dc_identifier_s": "https://doi.org/10.13020/D6WG6K|http://hdl.handle.net/11299/185412",
   "dc_rights_s": "Public",
   "dc_title_s": "Minneapolis Safety In Numbers Investigation Data",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "bd9cd14e-5f8e-48cf-a5f4-6d0a15ad4828",
   "solr_geom": "ENVELOPE(-93.3292,-93.1939,45.0513,44.8902)",
-  "solr_year_i": "1994",
+  "solr_year_i": "1993",
   "dc_creator_sm": [
     "Owen, Andrew",
     "Levinson, David M",
@@ -14,17 +14,17 @@
   ],
   "dc_description_s": "The data consist of three publicly-available (but not simple to obtain) datasets procured from the City of Minneapolis and an additional spatial reference layer: 1) Turning Movement Counts (TMCs) at select intersections in Minneapolis between 1993 and 2014, broken down by vehicle or user type. 2) Most recently updated Average Annual Daily Traffic (AADT) levels on select street segments in Minneapolis; latest dates range from 2007 to 2014. 3) Crash reports data, from 2000 to 2013. 4) Shapefile of Minneapolis intersections. These points are based on OpenStreetMap street centerlines and provide locations for intersections observed in the turning movement count data. These datasets were leveraged in research performed for the Roadway Safety Institute at the University of Minnesota's Center for Transportation Studies. The associated project information page is located here: http://www.roadwaysafety.umn.edu/research/search/projectdetail.html?id=2015038",
   "dc_format_s": "Files",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://conservancy.umn.edu/bitstream/handle/11299/185412/Minneapolis_Safety_in_Numbers_data_documentation.pdf\",\"http://schema.org/url\":\"http://hdl.handle.net/11299/185412\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://doi.org/10.13020/D6WG6K\",\"http://lccn.loc.gov/sh85035852\":\"https://conservancy.umn.edu/bitstream/handle/11299/185412/Minneapolis_Safety_in_Numbers_data_documentation.pdf\",\"http://schema.org/downloadUrl\":[{\"label\":\"intersections shapefile (28.18Kb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/185412/minneapolis_intersections_shapefile.zip\"},{\"label\":\"crashes CSV (34.34Mb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/185412/Minneapolis_crashes_2000-2013.csv\"},{\"label\":\"turning movement CSV (40.58Mb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/185412/Minneapolis_TMC_1994-2013.csv\"},{\"label\":\"average annual daily traffic CSV (190.2Kb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/185412/Minneapolis_AADT_latest_%282014%29.csv\"}]}",
   "dct_spatial_sm": [
     "Minneapolis, Minnesota",
     "Minnesota"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:50Z",
+  "layer_modified_dt": "2022-06-24T00:20:58Z",
   "dc_language_sm": [
     "eng"
   ],
   "dct_issued_s": "2017-03-29",
   "dct_temporal_sm": [
-    "1994 - 2013"
+    "1993-2014"
   ]
 }

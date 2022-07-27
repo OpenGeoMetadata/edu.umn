@@ -1,0 +1,28 @@
+{
+  "dct_title_s": "ArcGIS Online at the University of Minnesota",
+  "dct_description_sm": [
+    "Geospatial web services created by the University of Minnesota's U-Spatial"
+  ],
+  "dct_creator_sm": [
+    "U-Spatial"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Websites"
+  ],
+  "gbl_dateRange_drsim": [
+    "[* TO *]"
+  ],
+  "locn_geometry": "ENVELOPE(179,-179,85,-75)",
+  "dcat_bbox": "ENVELOPE(179,-179,85,-75)",
+  "dcat_centroid": "5.0,0.0",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "ArcGIS Online Organization",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umn.maps.arcgis.com/home/index.html\"}",
+  "id": "05d-07",
+  "dct_identifier_sm": [
+    "https://umn.maps.arcgis.com/home/index.html"
+  ],
+  "gbl_mdModified_dt": "2022-04-22T21:57:29Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

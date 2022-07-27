@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "d8f1a763-d191-42dd-9516-d51bd06bca7f",
+  "dc_identifier_s": "http://doi.org/10.13020/D6D01H|http://hdl.handle.net/11299/182076",
   "dc_rights_s": "Public",
   "dc_title_s": "Reconstruction of North American Drainage Basins and River Discharge Since the Last Glacial Maximum)",
   "dct_provenance_s": "University of Minnesota",
@@ -9,13 +9,13 @@
   "dc_creator_sm": [
     "Wickert, Andrew D"
   ],
-  "dc_description_s": "Changes in major drainage basins and river discharges across North American since the Last Glacial Maximum from calculations based on five different reconstructions of past ice sheets and glacial-isostatic adjustment. River discharges are stored as Numpy binary files. Drainage basins are stored as shapefiles. Images and videos are available for each ice-sheet and glaical-isostatic adjustment model tested. These images show past topography and sea level, drainage basin extents as black lines, rivers with local flow greater than 1000 cubic meters per second as blue lines, and the footprint of the ice-sheet as a semitransparent light-colored region. Ages are in the folder and file names for the drainage basins and the images, and take the form, \"0XXXXX', where this is the number of years before present (i.e. before 1950) that the rivers of North America are simulated to be structured as shown.",
+  "dc_description_s": "Drainage basins and river discharges since the Last Glacial Maximum; released along with the article \"Reconstruction of North American drainage basins and river discharge since the Last Glacial Maximum\" to appear in the journal \"Earth Surface Dynamics\".|Changes in major drainage basins and river discharges across North American since the Last Glacial Maximum from calculations based on five different reconstructions of past ice sheets and glacial-isostatic adjustment. River discharges are stored as Numpy binary files. Drainage basins are stored as shapefiles. Images and videos are available for each ice-sheet and glaical-isostatic adjustment model tested. These images show past topography and sea level, drainage basin extents as black lines, rivers with local flow greater than 1000 cubic meters per second as blue lines, and the footprint of the ice-sheet as a semitransparent light-colored region. Ages are in the folder and file names for the drainage basins and the images, and take the form, \"0XXXXX', where this is the number of years before present (i.e. before 1950) that the rivers of North America are simulated to be structured as shown.",
   "dc_format_s": "Shapefile",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://conservancy.umn.edu/bitstream/handle/11299/182076/readme.txt\",\"http://schema.org/url\":\"http://hdl.handle.net/11299/182076\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://doi.org/10.13020/D6D01H\",\"http://lccn.loc.gov/sh85035852\":\"https://conservancy.umn.edu/bitstream/handle/11299/182076/readme.txt\",\"http://schema.org/downloadUrl\":[{\"label\":\"numpy binary files (58.28Kb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/182076/discharge_histories_2016.tar.gz\"},{\"label\":\"PNGs and MOVs (217.1Mb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/182076/NA_Figures_and_Movies_2016.tar.gz\"},{\"label\":\"shapefiles (76.13Mb)\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/182076/drainage_basin_histories_2016.tar.gz\"}]}",
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:51Z",
+  "layer_modified_dt": "2022-06-24T00:40:46Z",
   "dc_language_sm": [
     "eng"
   ],

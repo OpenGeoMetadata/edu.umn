@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "6d970918-caf1-4954-8718-acd11fcc8d33",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Wing Dam/Dike - River Channel Structure: St. Paul District",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "6d970918-caf1-4954-8718-acd11fcc8d33",
+  "solr_geom": "ENVELOPE(-93.051,-91.0029,44.9274,42.789)",
+  "solr_year_i": "1874",
+  "dc_creator_sm": [
+    "US Army Corps of Engineers, Fountain City Service Base -"
+  ],
+  "dc_description_s": "GIS database of the wing dam/closing dam attributes for those structures constructed along the nine-foot navigation channel of the Mississippi River (river miles 840.1 to 615.2). Wing dams are rock and brush structures extending from the bank toward the navigation channel to concentrate flow in the navigation channel. Closing dams are rock and brush structures extending across secondary channels to concentrate flow in the main channel. Many closing dams are located at the upriver entrance to secondary channels, while others are located farther downriver within secondary channels.",
+  "dc_format_s": "Shapefile",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://mvp-extstp.mvp.usace.army.mil/gis/data/StructureWingdamDike.zip\",\"http://schema.org/url\":\"http://mvp-extstp.mvp.usace.army.mil/gis/\"}",
+  "dct_spatial_sm": [
+    "Mississippi River",
+    "Minnesota",
+    "Iowa",
+    "Wisconsin"
+  ],
+  "layer_modified_dt": "2022-05-31T13:46:28Z",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_issued_s": "1998",
+  "dct_temporal_sm": [
+    "1874-1968"
+  ]
+}
