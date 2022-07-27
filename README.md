@@ -16,5 +16,8 @@ MAPS from:
 * 05d-05 [Minnesota Geological Survey](https://collection.mndigital.org/?f%5Bcollection_name_ssi%5D%5B%5D=Minnesota+Geological+Survey&f%5Bphysical_format_ssi%5D%5B%5D=Maps)
 * 05d-06 [Polar Geospatial Center](https://maps.apps.pgc.umn.edu/)
 
+WEB SERVICES from:
+
+* 05d-07 [UMN ArcGIS Online, U-Spatial](https://umn.maps.arcgis.com/home/search.html?q=owner%3A%22%20University_of_Minnesota%22)
 
 

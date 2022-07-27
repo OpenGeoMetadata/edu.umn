@@ -1,0 +1,60 @@
+{
+  "dct_title_s": "Five largest refugee origin countries {1951 to 2015}",
+  "dct_alternative_sm": [
+    "Refugee_Origins"
+  ],
+  "dct_description_sm": [
+    "A sublayer from migration routes for the five largest refugee populations in modern US history. This layer focuses on the five largest refugee origin countries from 1951 to 2015: 1. Afghanistan; 2. Syrian Arab Republic; 3. Iraq; 4. Ethiopia;  5. Somalia.",
+    "Source data: “Population Statistics.” The UN Refugee Agency, http://popstats.unhcr.org/en/persons_of_concern. Accessed 7 June 2016."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "U-Spatial"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Web services"
+  ],
+  "gbl_resourceType_sm": [
+    "Vector data",
+    "Line data"
+  ],
+  "dcat_theme_sm": [
+    "Society"
+  ],
+  "dct_temporal_sm": [
+    "1951-2015"
+  ],
+  "gbl_indexYear_im": [
+    "1951"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1951 TO 2015]"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(38.5069,66.0654,35.0382,4.3976)",
+  "dcat_bbox": "ENVELOPE(38.5069,66.0654,35.0382,4.3976)",
+  "dcat_centroid": "19.7179,52.28615",
+  "pcdm_memberOf_sm": [
+    "b0153110-e455-4ced-9114-9b13250a7093"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-07",
+    "c69b75a12ca64324a0109d48db735f6d"
+  ],
+  "dct_rights_sm": [
+    "Data may be freely downloaded for research, study, or teaching, but must be cited appropriately. Re-release of the data, or incorporation of the data into a commercial product, is allowed only with explicit permission. Contact U-Spatial at uspatial@umn.edu or visit our website at www.uspatial.umn.edu for more information."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_references_s": "{\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/8df8p0NlLFEShl0r/arcgis/rest/services/Refugees/FeatureServer/5\",\"http://schema.org/url\":\"https://umn.maps.arcgis.com/home/item.html?id=c69b75a12ca64324a0109d48db735f6d\\u0026sublayer=5\"}",
+  "id": "c69b75a12ca64324a0109d48db735f6d_5",
+  "dct_identifier_sm": [
+    "https://umn.maps.arcgis.com/home/item.html?id=c69b75a12ca64324a0109d48db735f6d&sublayer=5"
+  ],
+  "gbl_mdModified_dt": "2022-04-22T21:46:37Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

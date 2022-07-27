@@ -1,0 +1,60 @@
+{
+  "dct_title_s": "Global Energy Production and Reserves (Oil Production) [Global] {1990-2014}",
+  "dct_alternative_sm": [
+    "Oil_Production"
+  ],
+  "dct_description_sm": [
+    "Global oil production by country, 1990 - 2014"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "U-Spatial"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Web services"
+  ],
+  "gbl_resourceType_sm": [
+    "Vector data",
+    "Point data"
+  ],
+  "dcat_theme_sm": [
+    "Utilities",
+    "Environment"
+  ],
+  "dct_temporal_sm": [
+    "1990-2014"
+  ],
+  "gbl_indexYear_im": [
+    "1990"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1990 TO 2014]"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(179,-179,85,-75)",
+  "dcat_bbox": "ENVELOPE(179,-179,85,-75)",
+  "dcat_centroid": "5.0,0.0",
+  "pcdm_memberOf_sm": [
+    "b0153110-e455-4ced-9114-9b13250a7093"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-07",
+    "ab6b5d9c11134189a592af7dcec68442"
+  ],
+  "dct_rights_sm": [
+    "Data may be freely downloaded for research, study, or teaching, but must be cited appropriately. Re-release of the data, or incorporation of the data into a commercial product, is allowed only with explicit permission. Contact U-Spatial at uspatial@umn.edu or visit our website at www.uspatial.umn.edu for more information."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_references_s": "{\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/8df8p0NlLFEShl0r/arcgis/rest/services/Global_Energy_Production_and_Reserves_1990_2014/FeatureServer/1\",\"http://schema.org/url\":\"https://umn.maps.arcgis.com/home/item.html?id=ab6b5d9c11134189a592af7dcec68442\\u0026sublayer=1\"}",
+  "id": "ab6b5d9c11134189a592af7dcec68442_1",
+  "dct_identifier_sm": [
+    "https://umn.maps.arcgis.com/home/item.html?id=ab6b5d9c11134189a592af7dcec68442&sublayer=1"
+  ],
+  "gbl_mdModified_dt": "2022-04-22T21:57:29Z",
+  "gbl_mdVersion_s": "Aardvark"
+}
