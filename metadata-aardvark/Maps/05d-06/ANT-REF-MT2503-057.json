@@ -1,0 +1,53 @@
+{
+  "dct_title_s": "Mount Nares: Antarctica",
+  "dct_description_sm": [
+    "Projection: Polar Stereographic Projection: Standard Parallel -80º14'; Series: USGS 1:250,000 Topographic Reconnaissance Series"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "United States Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Polar Geospatial Center"
+  ],
+  "dct_temporal_sm": [
+    "1966"
+  ],
+  "dct_issued_s": "1966",
+  "gbl_indexYear_im": [
+    "1966"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1966 TO 1966]"
+  ],
+  "dct_spatial_sm": [
+    "Antarctica"
+  ],
+  "locn_geometry": "ENVELOPE(165,157.5,-81,-82)",
+  "dcat_bbox": "ENVELOPE(165,157.5,-81,-82)",
+  "dcat_centroid": "-81.5,161.25",
+  "pcdm_memberOf_sm": [
+    "b0153110-e455-4ced-9114-9b13250a7093"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-06"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/03/geo/Mount Nares.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/62\"}",
+  "id": "ANT-REF-MT2503-057",
+  "dct_identifier_sm": [
+    "ANT-REF-MT2503-057"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:25:38Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

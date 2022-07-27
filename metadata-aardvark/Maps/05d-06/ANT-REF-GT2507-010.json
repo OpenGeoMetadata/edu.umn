@@ -1,0 +1,57 @@
+{
+  "dct_title_s": "Ohio Range: Antarctica",
+  "dct_description_sm": [
+    "Projection: National Geodetic Vertical Datum of 1929; Series: USGS 1:250,000 Geologic Reconnaissance Series"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "McCartan; Bradshaw; Kellogg"
+  ],
+  "dct_publisher_sm": [
+    "United States Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Geoscientific Information",
+    "Polar Geospatial Center"
+  ],
+  "dct_temporal_sm": [
+    "1986"
+  ],
+  "dct_issued_s": "1986",
+  "gbl_indexYear_im": [
+    "1986"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1986 TO 1986]"
+  ],
+  "dct_spatial_sm": [
+    "Antarctica"
+  ],
+  "locn_geometry": "ENVELOPE(-113,-116,-84.75,-84.833)",
+  "dcat_bbox": "ENVELOPE(-113,-116,-84.75,-84.833)",
+  "dcat_centroid": "-84.7915,-114.5",
+  "pcdm_memberOf_sm": [
+    "b0153110-e455-4ced-9114-9b13250a7093"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-06"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/07/geo/Ohio Range.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/126\"}",
+  "id": "ANT-REF-GT2507-010",
+  "dct_identifier_sm": [
+    "ANT-REF-GT2507-010"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:26:56Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

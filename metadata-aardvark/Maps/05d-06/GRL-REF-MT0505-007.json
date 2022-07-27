@@ -1,0 +1,54 @@
+{
+  "dct_title_s": "Blossevile Kyst: Greenland",
+  "dct_description_sm": [
+    "Projection: Polyconic Projection; Series: AMS C401 Greenland 1:500,000 Topographic Series"
+  ],
+  "dct_language_sm": [
+    "eng",
+    "dan"
+  ],
+  "dct_publisher_sm": [
+    "National Geospatial-Intelligence Agency"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Polar Geospatial Center"
+  ],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "dct_issued_s": "n.d.",
+  "gbl_indexYear_im": [
+    "1944"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1944 TO 1944]"
+  ],
+  "dct_spatial_sm": [
+    "Greenland"
+  ],
+  "locn_geometry": "ENVELOPE(-24,-28,70,68)",
+  "dcat_bbox": "ENVELOPE(-24,-28,70,68)",
+  "dcat_centroid": "69.0,-26.0",
+  "pcdm_memberOf_sm": [
+    "b0153110-e455-4ced-9114-9b13250a7093"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-06"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/arctic/nga/05/geo/Blossevile Kyst v2.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/501\"}",
+  "id": "GRL-REF-MT0505-007",
+  "dct_identifier_sm": [
+    "GRL-REF-MT0505-007"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:23:19Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

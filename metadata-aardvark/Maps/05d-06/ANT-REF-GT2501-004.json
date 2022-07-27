@@ -1,0 +1,57 @@
+{
+  "dct_title_s": "Coastal-Change and Glaciological Map of the Ronne Ice Shelf Area: Antarctica",
+  "dct_description_sm": [
+    "Projection: Polar Stereographic Projection: Standard Parallel -71º; Series: USGS Geologic Investigations Series"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Swithinbank, Williams, Ferrigno"
+  ],
+  "dct_publisher_sm": [
+    "United States Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Geoscientific Information",
+    "Polar Geospatial Center"
+  ],
+  "dct_temporal_sm": [
+    "2005"
+  ],
+  "dct_issued_s": "2005",
+  "gbl_indexYear_im": [
+    "2005"
+  ],
+  "gbl_dateRange_drsim": [
+    "[2005 TO 2005]"
+  ],
+  "dct_spatial_sm": [
+    "Antarctica"
+  ],
+  "locn_geometry": "ENVELOPE(0,-90,0,-84)",
+  "dcat_bbox": "ENVELOPE(0,-90,0,-84)",
+  "dcat_centroid": "-42.0,-45.0",
+  "pcdm_memberOf_sm": [
+    "b0153110-e455-4ced-9114-9b13250a7093"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-06"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/01/geo/Ronne Ice Shelf.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/606\"}",
+  "id": "ANT-REF-GT2501-004",
+  "dct_identifier_sm": [
+    "ANT-REF-GT2501-004"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:32:43Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

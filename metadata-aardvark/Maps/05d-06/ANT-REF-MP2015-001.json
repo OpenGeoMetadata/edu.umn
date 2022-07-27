@@ -1,0 +1,58 @@
+{
+  "dct_title_s": "Antarctica",
+  "dct_description_sm": [
+    "This map was produced by the Polar Geospatial Center at the University of Minnesota with a generous donation from Lockheed Martin Antarctic Support Contract (ASC). Contact PGC if you would like printed copies of this map.; Series: PGC Antarctic Reference Series"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Herried"
+  ],
+  "dct_publisher_sm": [
+    "Polar Geospatial Center"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Physical maps"
+  ],
+  "dcat_keyword_sm": [
+    "2022-07-26-language",
+    "Physical maps",
+    "Polar Geospatial Center"
+  ],
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_issued_s": "2015",
+  "gbl_indexYear_im": [
+    "2015"
+  ],
+  "gbl_dateRange_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "dct_spatial_sm": [
+    "Antarctica"
+  ],
+  "locn_geometry": "ENVELOPE(42,-128,-54.9,-55)",
+  "dcat_bbox": "ENVELOPE(42,-128,-54.9,-55)",
+  "dcat_centroid": "-54.95,-43.0",
+  "pcdm_memberOf_sm": [
+    "b0153110-e455-4ced-9114-9b13250a7093"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-06"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/pgc/15/geo/Antarctica.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/666\"}",
+  "id": "ANT-REF-MP2015-001",
+  "dct_identifier_sm": [
+    "ANT-REF-MP2015-001"
+  ],
+  "gbl_mdModified_dt": "2022-07-26T17:32:17Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

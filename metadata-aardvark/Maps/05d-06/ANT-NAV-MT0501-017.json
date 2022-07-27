@@ -1,0 +1,55 @@
+{
+  "dct_title_s": "New Harbor and Marble Point Vicinity: Antarctica",
+  "dct_description_sm": [
+    "Projection: WGS72 Mercator Projection; Series: Defense Mapping Agency Nautical Charts"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "National Geospatial-Intelligence Agency"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Transportation",
+    "Navigation",
+    "Polar Geospatial Center"
+  ],
+  "dct_temporal_sm": [
+    "1976"
+  ],
+  "dct_issued_s": "n.d.",
+  "gbl_indexYear_im": [
+    "1976"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1976 TO 1976]"
+  ],
+  "dct_spatial_sm": [
+    "Antarctica"
+  ],
+  "locn_geometry": "ENVELOPE(164.8264,162.9931,-77.3516,-77.6014)",
+  "dcat_bbox": "ENVELOPE(164.8264,162.9931,-77.3516,-77.6014)",
+  "dcat_centroid": "-77.4765,163.90975",
+  "pcdm_memberOf_sm": [
+    "b0153110-e455-4ced-9114-9b13250a7093"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-06"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/nga/01/geo/New Harbor and Marble Point Vicinity.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/332\"}",
+  "id": "ANT-NAV-MT0501-017",
+  "dct_identifier_sm": [
+    "ANT-NAV-MT0501-017"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:22:56Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

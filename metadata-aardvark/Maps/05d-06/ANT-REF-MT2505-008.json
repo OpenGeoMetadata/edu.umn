@@ -1,0 +1,53 @@
+{
+  "dct_title_s": "E2-66-9: Antarctica",
+  "dct_description_sm": [
+    "Projection: Polar Stereographic Projection: Standard Parallel 71º; Series: USGS 1:500,000 Topographic Reconnaissance Series"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "United States Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Polar Geospatial Center"
+  ],
+  "dct_temporal_sm": [
+    "1960"
+  ],
+  "dct_issued_s": "1960",
+  "gbl_indexYear_im": [
+    "1960"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1960 TO 1960]"
+  ],
+  "dct_spatial_sm": [
+    "Antarctica"
+  ],
+  "locn_geometry": "ENVELOPE(120,112.5,-66,-68)",
+  "dcat_bbox": "ENVELOPE(120,112.5,-66,-68)",
+  "dcat_centroid": "-67.0,116.25",
+  "pcdm_memberOf_sm": [
+    "b0153110-e455-4ced-9114-9b13250a7093"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-06"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/05/geo/E2 66 9.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/245\"}",
+  "id": "ANT-REF-MT2505-008",
+  "dct_identifier_sm": [
+    "ANT-REF-MT2505-008"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:31:29Z",
+  "gbl_mdVersion_s": "Aardvark"
+}
