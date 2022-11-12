@@ -1,7 +1,9 @@
 {
   "dct_title_s": "Map of Minneapolis, Hennepin Co., Minn., 1895. Plate 22 b, Water mains",
   "dct_description_sm": [
-    "Cartographic Details: Scale [1:24,000]. 2,000 ft. to 1 in. Relief shown by contours and spot heights. Shows existing and proposed water mains, street car lines and railroads, and parks. \"Plate 22 b.--Water Mains.\" Dimensions: 72 x 47 centimeters"
+    "Cartographic Details: Scale [1:24,000]. 2,000 ft. to 1 in. Relief shown by contours and spot heights. Shows existing and proposed water mains, street car lines and railroads, and parks. \"Plate 22 b.--Water Mains.\"",
+    "72 x 47 centimeters",
+    "Minneapolis and St. Paul Maps and Atlases"
   ],
   "dct_language_sm": [
     "eng"
@@ -14,29 +16,22 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "Railroads"
-  ],
   "dcat_keyword_sm": [
     "Water Pipes Minnesota Minneapolis Maps",
     "Water Supply Minnesota Minneapolis Maps",
     "Parks Minnesota Minneapolis Maps",
-    "Minneapolis (Minn.) Maps"
+    "Minneapolis (Minn.) Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1985"
   ],
-  "gbl_indexYear_im": [
-    "1985"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1985 TO 1985]"
-  ],
+  "dct_issued_s": "1985",
   "dct_spatial_sm": [
     "Minneapolis, Minnesota",
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-93.3286,-93.1986,45.0539,44.9049)",
+  "locn_geometry": "POLYGON((-93.3286 45.0539, -93.1986 45.0539, -93.1986 44.9049, -93.3286 44.9049, -93.3286 45.0539))",
   "dcat_bbox": "ENVELOPE(-93.3286,-93.1986,45.0539,44.9049)",
   "dcat_centroid": "44.9794,-93.2636",
   "pcdm_memberOf_sm": [
@@ -44,18 +39,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll245"
+    "p16022coll245"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/188668\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/867/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:867\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/867/manifest.json\"}",
   "id": "p16022coll245:867",
   "dct_identifier_sm": [
-    "p16022coll245:867"
+    "UMN_ALMA:9962137280001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:48Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

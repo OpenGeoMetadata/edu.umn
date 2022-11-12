@@ -1,18 +1,16 @@
 {
   "dct_title_s": "Map of New Granada, Venezuela, and Guiana ; Map of Peru, and Equador ; Map of the Argentine Confederation",
-  "dct_alternative_sm": [
-    "Map of New Granada, Venezuela, and Guiana ; Map of Peru, and Equador ; Map of the Argentine Confederation"
-  ],
   "dct_description_sm": [
     "Relief shown by hachures.; Prime meridians: Greenwich and Washington.; \"Entered according to Act of Congress in the year 1867 by S. Augustus Mitchell, Jr. ... for the Eastern District of Pennsylvania.\"; In upper right corner: 61.",
     "17 x 24 centimeters or smaller, on sheet 39 x 31 centimeters",
-    "Scales differ."
+    "Scales differ.",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_publisher_sm": [
-    "S.A. Mitchell?"
+    "S.A. Mitchell? (Pennsylvaniä)"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -22,34 +20,29 @@
     "1910"
   ],
   "dct_issued_s": "1867?",
-  "gbl_indexYear_im": [
-    "1910"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1910 TO 1910]"
-  ],
   "dct_spatial_sm": [
     "Venezuela (Bolivarian Republic); French Guiana; Peru; Ecuador; Argentina"
   ],
-  "locn_geometry": "ENVELOPE(-93.9667,-32.5833,13.0667,-56.5333)",
+  "locn_geometry": "POLYGON((-93.9667 13.0667, -32.5833 13.0667, -32.5833 -56.5333, -93.9667 -56.5333, -93.9667 13.0667))",
   "dcat_bbox": "ENVELOPE(-93.9667,-32.5833,13.0667,-56.5333)",
   "dcat_centroid": "-21.7333,-63.275000000000006",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/2802/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2802\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2802/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2802\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2802/manifest.json\"}",
   "id": "p16022coll230:2802",
   "dct_identifier_sm": [
     "UMN_ALMA:9914245390001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:34Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }

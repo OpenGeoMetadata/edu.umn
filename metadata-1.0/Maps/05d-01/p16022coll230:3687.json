@@ -6,14 +6,17 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3687",
   "solr_geom": "ENVELOPE(34.3333,36.5,33.5833,30.8333)",
-  "solr_year_i": "1828",
   "dc_creator_sm": [
     "Assheton, J. T"
   ],
-  "dc_description_s": "Relief show by hachures.; \"Now greatly improved ... by Joseph W. Ingraham.\"; \"Printed by L. Stevens.\"; Representation of events shown pictorially and with Biblical citations.; Map within decorative border.|90 x 57 centimeters, on sheet 114 x 75 centimeters|Scale approximately 1:362,000",
+  "dc_description_s": "Relief show by hachures.; \"Now greatly improved ... by Joseph W. Ingraham.\"; \"Printed by L. Stevens.\"; Representation of events shown pictorially and with Biblical citations.; Map within decorative border.|90 x 57 centimeters, on sheet 114 x 75 centimeters|Scale approximately 1:362,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3687/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3687\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3687/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:29:58Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3687\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3687/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Palestine",
+    "Asia"
+  ],
+  "layer_modified_dt": "2022-09-28T02:14:21Z",
   "dc_language_sm": [
     "eng"
   ],

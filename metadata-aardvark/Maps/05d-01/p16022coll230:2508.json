@@ -1,12 +1,10 @@
 {
   "dct_title_s": "Froiseth's map of Little Cottonwood Mining District and vicinity, Utah ...",
-  "dct_alternative_sm": [
-    "Froiseth's map of Little Cottonwood Mining District and vicinity, Utah ..."
-  ],
   "dct_description_sm": [
     "Scale 400 feet to one inch, south of Alta 800 ft. to one inch.",
     "64 x 82 centimeters",
-    "Scale not given."
+    "Scale not given.",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -15,7 +13,7 @@
     "B.A.M. Froiseth (Firm)"
   ],
   "dct_publisher_sm": [
-    "Froiseth"
+    "Froiseth (Salt Lake City)"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -28,34 +26,29 @@
     "1873"
   ],
   "dct_issued_s": "1873",
-  "gbl_indexYear_im": [
-    "1873"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1873 TO 1873]"
-  ],
   "dct_spatial_sm": [
     "Utah"
   ],
-  "locn_geometry": "ENVELOPE(-111.8333,-111.5,40.6667,40.5)",
+  "locn_geometry": "POLYGON((-111.8333 40.6667, -111.5 40.6667, -111.5 40.5, -111.8333 40.5, -111.8333 40.6667))",
   "dcat_bbox": "ENVELOPE(-111.8333,-111.5,40.6667,40.5)",
   "dcat_centroid": "40.583349999999996,-111.66665",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/2508/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2508\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2508/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2508\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2508/manifest.json\"}",
   "id": "p16022coll230:2508",
   "dct_identifier_sm": [
     "UMN_ALMA:9974055207901701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:49Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

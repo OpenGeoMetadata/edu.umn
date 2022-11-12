@@ -1,12 +1,10 @@
 {
   "dct_title_s": "Plan commode des Paris, métropolitain et nord-sud",
-  "dct_alternative_sm": [
-    "Plan commode des Paris, métropolitain et nord-sud"
-  ],
   "dct_description_sm": [
     "Relief shown by hachures and spot heights.; Includes enlargement of Southern Norway, and 1 inset map of Svalbard.; \"E.S., K.G.\"",
     "52 x 68 centimeters",
-    "Scale 1:18,000"
+    "Scale 1:18,000",
+    "City Maps"
   ],
   "dct_language_sm": [
     "fre"
@@ -15,7 +13,7 @@
     "Dufrénoy, E"
   ],
   "dct_publisher_sm": [
-    "E. Dufrénoy  "
+    "E. Dufrénoy (Paris)"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -25,34 +23,29 @@
     "1909"
   ],
   "dct_issued_s": "1909?",
-  "gbl_indexYear_im": [
-    "1909"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1909 TO 1909]"
-  ],
   "dct_spatial_sm": [
     "Paris"
   ],
-  "locn_geometry": "ENVELOPE(2.2389,2.4342,48.9192,48.8133)",
+  "locn_geometry": "POLYGON((2.2389 48.9192, 2.4342 48.9192, 2.4342 48.8133, 2.2389 48.8133, 2.2389 48.9192))",
   "dcat_bbox": "ENVELOPE(2.2389,2.4342,48.9192,48.8133)",
   "dcat_centroid": "48.866249999999994,2.33655",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll205"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll205/id/709/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:709\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/709/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:709\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/709/manifest.json\"}",
   "id": "p16022coll205:709",
   "dct_identifier_sm": [
     "UMN_ALMA:9943457960001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:22Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

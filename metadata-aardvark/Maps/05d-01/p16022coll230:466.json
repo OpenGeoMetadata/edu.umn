@@ -1,10 +1,10 @@
 {
   "dct_title_s": "Faulk County, South Dakota",
-  "dct_alternative_sm": [
-    "Faulk County, South Dakota"
-  ],
   "dct_description_sm": [
-    "Townships shown in color; includes grid lines, cities, schools, churches, creameries, rural routes and bodies of water.   Alt. title from copyright statement: \"Faulk Co., S. D.\" Dimensions: 18 x 31 centimeters"
+    "Townships shown in color; includes grid lines, cities, schools, churches, creameries, rural routes and bodies of water.   Alt. title from copyright statement: \"Faulk Co., S. D.\"",
+    "18 x 31 centimeters",
+    "Scale not given.",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -30,34 +30,29 @@
     "1907"
   ],
   "dct_issued_s": "1907",
-  "gbl_indexYear_im": [
-    "1907"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1907 TO 1907]"
-  ],
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-99.56,-98.7001,45.2301,44.8801)",
+  "locn_geometry": "POLYGON((-99.56 45.2301, -98.7001 45.2301, -98.7001 44.8801, -99.56 44.8801, -99.56 45.2301))",
   "dcat_bbox": "ENVELOPE(-99.56,-98.7001,45.2301,44.8801)",
   "dcat_centroid": "45.055099999999996,-99.13005000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/466/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:466\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/466/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:466\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/466/manifest.json\"}",
   "id": "p16022coll230:466",
   "dct_identifier_sm": [
     "UMN_ALMA:9938584010001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:55Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

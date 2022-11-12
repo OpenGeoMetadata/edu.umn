@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Map of Wisconsin : with population and location of principal towns and cities according to the latest census",
-  "dct_alternative_sm": [
-    "Map of Wisconsin : with population and location of principal towns and cities according to the latest census"
+  "dct_description_sm": [
+    "Shows township and range lines in light blue, and interurban roads in dotted red lines [including ferry routes].; \"Copyrighted ... by The Kenyon Company, map makers, Des Moines, Iowa.\"; Index and key to Wisconsin auto routes on verso.; \"Wisconsin, a developing state.\"; Includes parcel post rates table with text and distance table.",
+    "59 x 55 centimeters",
+    "Scale approximately 1:950,400",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -23,23 +26,18 @@
     "1915"
   ],
   "dct_issued_s": "1915",
-  "gbl_indexYear_im": [
-    "1915"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1915 TO 1915]"
-  ],
   "dct_spatial_sm": [
     "Wisconsin"
   ],
-  "locn_geometry": "ENVELOPE(-92.8833,-86.2333,47.3,42.4833)",
+  "locn_geometry": "POLYGON((-92.8833 47.3, -86.2333 47.3, -86.2333 42.4833, -92.8833 42.4833, -92.8833 47.3))",
   "dcat_bbox": "ENVELOPE(-92.8833,-86.2333,47.3,42.4833)",
   "dcat_centroid": "44.89165,-89.5583",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -51,6 +49,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9974836506101701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:49Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

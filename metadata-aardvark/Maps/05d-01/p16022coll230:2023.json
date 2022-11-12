@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Map of military department of the Platte, Nebraska",
-  "dct_alternative_sm": [
-    "Map of military department of the Platte, Nebraska"
+  "dct_description_sm": [
+    "Relief shown by hachures.; In margin: \"Sheet no. 2\".",
+    "49 x 65 centimeters",
+    "Scale 1:1,200,000; 1 inch = 18.94 miles.",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -20,23 +23,18 @@
     "1872"
   ],
   "dct_issued_s": "1872",
-  "gbl_indexYear_im": [
-    "1872"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1872 TO 1872]"
-  ],
   "dct_spatial_sm": [
     "Nebraska"
   ],
-  "locn_geometry": "ENVELOPE(-104.05,-95.3,43.0,39.9833)",
+  "locn_geometry": "POLYGON((-104.05 43.0, -95.3 43.0, -95.3 39.9833, -104.05 39.9833, -104.05 43.0))",
   "dcat_bbox": "ENVELOPE(-104.05,-95.3,43.0,39.9833)",
   "dcat_centroid": "41.49165,-99.675",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -48,6 +46,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9921039530001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:07Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

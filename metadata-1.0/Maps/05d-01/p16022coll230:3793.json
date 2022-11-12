@@ -6,14 +6,18 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3793",
   "solr_geom": "ENVELOPE(-28.1667,-26.9167,39.1667,38.5333)",
-  "solr_year_i": "1873",
   "dc_creator_sm": [
     "Vidal, A. T. E. (Alexander Thomas Emeric), 1792-1863"
   ],
-  "dc_description_s": "Large corrections Mar. 73.; Relief shown by hachures, soundings, and spot heights.; Includes 6 cross sections and 6 insets: Caldeira of Graciosa -- [Gomez Bay] -- Praya of Graciosa -- [Monte Brazil, Cidade de Angra] -- Praya de Terceira -- [Cabras].; North oriented to the upper left.|37 x 44 centimeters and 17 x 19 centimeters, on sheet 49 x 65 centimeters|Scale not given.",
+  "dc_description_s": "Large corrections Mar. 73.; Relief shown by hachures, soundings, and spot heights.; Includes 6 cross sections and 6 insets: Caldeira of Graciosa -- [Gomez Bay] -- Praya of Graciosa -- [Monte Brazil, Cidade de Angra] -- Praya de Terceira -- [Cabras].; North oriented to the upper left.|37 x 44 centimeters and 17 x 19 centimeters, on sheet 49 x 65 centimeters|Scale not given.|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3793/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3793\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3793/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:24:49Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3793\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3793/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Portugal",
+    "Azores",
+    "Europe"
+  ],
+  "layer_modified_dt": "2022-09-28T02:14:41Z",
   "dc_language_sm": [
     "eng"
   ],

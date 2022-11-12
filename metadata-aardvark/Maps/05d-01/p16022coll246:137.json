@@ -1,13 +1,16 @@
 {
   "dct_title_s": "Kashmir route map",
   "dct_description_sm": [
-    "Cartographic Details: Scale 1:2,027,520. 32 miles = 1 in. ; (E 70°30'00\"--E 80°30'00\"/N 36°59'00\"--N 28°30'00\"). Relief shown by spot heights.\"Lithog'd. and printed by H. M. Smith. Surveyor General's Office, Calcutta, May 1863.\" Includes distance tables. Dimensions: 49 x 53 centimeters, on sheet 65 x 76 centimeters"
+    "Cartographic Details: Scale 1:2,027,520. 32 miles = 1 in. ; (E 70°30'00\"--E 80°30'00\"/N 36°59'00\"--N 28°30'00\"). Relief shown by spot heights.\"Lithog'd. and printed by H. M. Smith. Surveyor General's Office, Calcutta, May 1863.\" Includes distance tables.",
+    "49 x 53 centimeters, on sheet 65 x 76 centimeters",
+    "Scale 1:2,027,520; 32 miles = 1 inch",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_publisher_sm": [
-    "Surveyor General's Office"
+    "Surveyor General's Office; Calcutta"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -24,16 +27,11 @@
   "dct_temporal_sm": [
     "1863"
   ],
-  "gbl_indexYear_im": [
-    "1863"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1863 TO 1863]"
-  ],
+  "dct_issued_s": "1863",
   "dct_spatial_sm": [
     "India"
   ],
-  "locn_geometry": "ENVELOPE(70.5,80.5,36.98,28.5)",
+  "locn_geometry": "POLYGON((70.5 36.98, 80.5 36.98, 80.5 28.5, 70.5 28.5, 70.5 36.98))",
   "dcat_bbox": "ENVELOPE(70.5,80.5,36.98,28.5)",
   "dcat_centroid": "32.739999999999995,75.5",
   "pcdm_memberOf_sm": [
@@ -41,18 +39,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/228930\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/137/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:137\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/137/manifest.json\"}",
   "id": "p16022coll246:137",
   "dct_identifier_sm": [
-    "p16022coll246:137"
+    "UMN_ALMA:9973942600601701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:38Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

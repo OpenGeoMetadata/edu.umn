@@ -6,14 +6,17 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3606",
   "solr_geom": "ENVELOPE(34.25,39.25,33.25,29.5)",
-  "solr_year_i": "1916",
   "dc_creator_sm": [
     "American Geographical Society of New York"
   ],
-  "dc_description_s": "Date from previously assigned call number.; Relief shown by hachures and spot heights.; Shows railroad, locations of springs and wells, and valleys with names.|108 x 86 centimeters, sheets 101 x 66 centimeters|Scale 1:500,000",
+  "dc_description_s": "Date from previously assigned call number.; Relief shown by hachures and spot heights.; Shows railroad, locations of springs and wells, and valleys with names.|108 x 86 centimeters, sheets 101 x 66 centimeters|Scale 1:500,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3606/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3606\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3606/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:32:11Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3606\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3606/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Palestine",
+    "Asia"
+  ],
+  "layer_modified_dt": "2022-09-28T02:15:22Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Amerique septentrionalis~~carte d'un tres grand pays entre le Nouveau Mexique et la Mer Glaciale",
-  "dct_alternative_sm": [
-    "Amerique septentrionalis : carte d'un tres grand pays entre le Nouveau Mexique et la Mer Glaciale"
+  "dct_title_s": "Amerique septentrionalis : carte d'un tres grand pays entre le Nouveau Mexique et la Mer Glaciale",
+  "dct_description_sm": [
+    "Relief shown pictorially.; \"Dediée a Guiliaume IIIe, Roy de la Grand Brettagne.\"; \"J.V. Vianen, del et fecit.\"; State 3 according to McLaughlin.; Inset: [Mer de Iesso].; \"119\" handwritten in pen in lower right.",
+    "42 x 51 centimeters",
+    "Scale [ca. 1:19,500,000]",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "fre"
@@ -20,34 +23,29 @@
     "1698"
   ],
   "dct_issued_s": "1698",
-  "gbl_indexYear_im": [
-    "1698"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1698 TO 1698]"
-  ],
   "dct_spatial_sm": [
     "North America"
   ],
-  "locn_geometry": "ENVELOPE(-141.6667,-1.4,66.8167,-7.2667)",
+  "locn_geometry": "POLYGON((-141.6667 66.8167, -1.4 66.8167, -1.4 -7.2667, -141.6667 -7.2667, -141.6667 66.8167))",
   "dcat_bbox": "ENVELOPE(-141.6667,-1.4,66.8167,-7.2667)",
   "dcat_centroid": "29.775,-71.53335",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/716/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:716\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/716/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:716\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/716/manifest.json\"}",
   "id": "p16022coll230:716",
   "dct_identifier_sm": [
     "UMN_ALMA:9975244293901701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:53Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

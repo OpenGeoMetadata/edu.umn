@@ -1,13 +1,19 @@
 {
   "dct_title_s": "A general map of Saxony and Bohemia, with the adjacent countries, including all Silesia : being a specimen of a new Geographical and military atlas, to be continued occasionally",
-  "dct_alternative_sm": [
-    "A general map of Saxony and Bohemia, with the adjacent countries, including all Silesia : being a specimen of a new Geographical and military atlas, to be continued occasionally"
+  "dct_description_sm": [
+    "Geographic coverage complete in 40 sheets.; Relief shown pictorially.; Title from index map.; From the Gentleman's magazine, 1760.; Accompanied by index map at scale approximately 1:1,500,000. (1 map ; 22 x 36 cm.).",
+    "24 x 36 centimeters",
+    "Scale approximately 1:275,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
     "Gibson, J. (John), active 1750-1792"
+  ],
+  "dct_publisher_sm": [
+    "(London?)"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -16,32 +22,33 @@
   "dct_temporal_sm": [
     "1760"
   ],
-  "dct_issued_s": "1760",
-  "gbl_indexYear_im": [
-    "1760"
+  "dct_issued_s": "-1760",
+  "dct_spatial_sm": [
+    "Germany",
+    "Saxony",
+    "Bohemia",
+    "Europe"
   ],
-  "gbl_dateRange_drsim": [
-    "[1760 TO 1760]"
-  ],
-  "locn_geometry": "ENVELOPE(12.0,18.0,52.0,45.0)",
+  "locn_geometry": "POLYGON((12.0 52.0, 18.0 52.0, 18.0 45.0, 12.0 45.0, 12.0 52.0))",
   "dcat_bbox": "ENVELOPE(12.0,18.0,52.0,45.0)",
   "dcat_centroid": "48.5,15.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3266/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3266\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3266/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3266\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3266/manifest.json\"}",
   "id": "p16022coll230:3266",
   "dct_identifier_sm": [
     "UMN_ALMA:9940971540001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:04Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

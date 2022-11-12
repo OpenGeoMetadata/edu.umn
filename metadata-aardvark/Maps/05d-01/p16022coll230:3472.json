@@ -1,12 +1,10 @@
 {
   "dct_title_s": "A new map of Spain and Portugal, exhibiting the chains of mountains with their passes the principal & cross roads, with other detail requisite for the intelligence of military operations",
-  "dct_alternative_sm": [
-    "A new map of Spain and Portugal, exhibiting the chains of mountains with their passes the principal & cross roads, with other detail requisite for the intelligence of military operations"
-  ],
   "dct_description_sm": [
     "With an explanatory \"advertisement\" giving the sources of the map detail and a table setting out distances between major towns.",
     "112 x 156 centimeters",
-    "Scale approximately 1:870,000; 14 miles to 1 inch."
+    "Scale approximately 1:870,000; 14 miles to 1 inch.",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -15,7 +13,7 @@
     "Nantiat, Jasper"
   ],
   "dct_publisher_sm": [
-    "Published by W. Faden,  Geographer to His Majesty and to His Royal Highness the Prince of Wales,  Charing Cross "
+    "Published by W. Faden,  Geographer to His Majesty and to His Royal Highness the Prince of Wales,  Charing Cross (London)"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -29,31 +27,31 @@
     "1810"
   ],
   "dct_issued_s": "1810-01-01",
-  "gbl_indexYear_im": [
-    "1810"
+  "dct_spatial_sm": [
+    "Spain",
+    "Portugal",
+    "Europe"
   ],
-  "gbl_dateRange_drsim": [
-    "[1810 TO 1810]"
-  ],
-  "locn_geometry": "ENVELOPE(-9.5,4.0833,45.5667,36.0)",
+  "locn_geometry": "POLYGON((-9.5 45.5667, 4.0833 45.5667, 4.0833 36.0, -9.5 36.0, -9.5 45.5667))",
   "dcat_bbox": "ENVELOPE(-9.5,4.0833,45.5667,36.0)",
   "dcat_centroid": "40.78335,-2.70835",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3472/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3472\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3472/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3472\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3472/manifest.json\"}",
   "id": "p16022coll230:3472",
   "dct_identifier_sm": [
     "UMN_ALMA:9975440809201701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:42Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:17Z",
   "gbl_mdVersion_s": "Aardvark"
 }

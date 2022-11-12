@@ -1,12 +1,10 @@
 {
   "dct_title_s": "New Forest : tourist map",
-  "dct_alternative_sm": [
-    "New Forest : tourist map"
-  ],
   "dct_description_sm": [
     "Extent of forest boundary shown by a thick green dashed line.; First ed.: 1920.; Revised in 1893-4 and in 1901-3, 3rd revision 1913. Printed at the OSO. Magnetic declination date 1920. Minor corrections 1929. Roads revised to 10.25. Reprint 5000/23, 5000/26, 6000/30.; Layered and hachured, green/brown boundary 100ft contour.; Originally with cover.",
     "56 x 66 centimeters",
-    "Scale 1:63,360"
+    "Scale 1:63,360",
+    "City Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -15,7 +13,7 @@
     "Great Britain. Ordnance Survey"
   ],
   "dct_publisher_sm": [
-    "Ordnance Survey Office  "
+    "Ordnance Survey Office (Southampton)"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -25,34 +23,29 @@
     "1930"
   ],
   "dct_issued_s": "1930",
-  "gbl_indexYear_im": [
-    "1930"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1930 TO 1930]"
-  ],
   "dct_spatial_sm": [
     "England"
   ],
-  "locn_geometry": "ENVELOPE(-1.9167,-1.3333,51.0083,50.7)",
+  "locn_geometry": "POLYGON((-1.9167 51.0083, -1.3333 51.0083, -1.3333 50.7, -1.9167 50.7, -1.9167 51.0083))",
   "dcat_bbox": "ENVELOPE(-1.9167,-1.3333,51.0083,50.7)",
   "dcat_centroid": "50.854150000000004,-1.625",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll205"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll205/id/729/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:729\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/729/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:729\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/729/manifest.json\"}",
   "id": "p16022coll205:729",
   "dct_identifier_sm": [
     "UMN_ALMA:9975253002301701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:29Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:51Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,7 +1,9 @@
 {
-  "dct_title_s": "Pine region of Minnesota~~showing classification of lands",
-  "dct_alternative_sm": [
-    "Pine region of Minnesota : showing classification of lands"
+  "dct_title_s": "Pine region of Minnesota : showing classification of lands",
+  "dct_description_sm": [
+    "87 x 120 centimeters",
+    "Scale approximately 1:560,000",
+    "General Minnesota Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -25,31 +27,26 @@
     "1899"
   ],
   "dct_issued_s": "1899",
-  "gbl_indexYear_im": [
-    "1899"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1899 TO 1899]"
-  ],
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-96.83,-89.5,49.33,45.66)",
+  "locn_geometry": "POLYGON((-96.83 49.33, -89.5 49.33, -89.5 45.66, -96.83 45.66, -96.83 49.33))",
   "dcat_bbox": "ENVELOPE(-96.83,-89.5,49.33,45.66)",
   "dcat_centroid": "47.495,-93.16499999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll247"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll247/id/89/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:89\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/89/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:89\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/89/manifest.json\"}",
   "id": "p16022coll247:89",
   "dct_identifier_sm": [
-    "UMN_ALMA:9961966230001701"
+    "UMN_ALMA:9961966230001700"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:36Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

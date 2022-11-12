@@ -6,14 +6,17 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3707",
   "solr_geom": "ENVELOPE(66.6667,77.0,30.6667,14.6667)",
-  "solr_year_i": "1846",
   "dc_creator_sm": [
     "East India Company. Army. Bombay Army. Quarter Master General's Department"
   ],
-  "dc_description_s": "Prime meridian is Greenwich.; \"Published according to Act of Parliament by John Walker, geographer to the Honble. East India Company Oct. 20th 1846.\"; Relief shown by hachures.; Includes two distance tables.; Shows boundaries of British possessions and possessions of the Rajas of Sattarah, Guickwar, Kolapoor, Cutch, and the Nizam of Hyderabad.|146 x 86 centimeters|Scale 1:1,267,200; 20 miles to an inch",
+  "dc_description_s": "Prime meridian is Greenwich.; \"Published according to Act of Parliament by John Walker, geographer to the Honble. East India Company Oct. 20th 1846.\"; Relief shown by hachures.; Includes two distance tables.; Shows boundaries of British possessions and possessions of the Rajas of Sattarah, Guickwar, Kolapoor, Cutch, and the Nizam of Hyderabad.|146 x 86 centimeters|Scale 1:1,267,200; 20 miles to an inch|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3707/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3707\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3707/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:27:58Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3707\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3707/manifest.json\"}",
+  "dct_spatial_sm": [
+    "India",
+    "Asia"
+  ],
+  "layer_modified_dt": "2022-09-28T02:14:27Z",
   "dc_language_sm": [
     "eng"
   ],

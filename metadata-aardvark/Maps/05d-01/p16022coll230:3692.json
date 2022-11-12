@@ -1,12 +1,10 @@
 {
   "dct_title_s": "Carte de Tartarie : dressée sur les relations de plusieurs voyageurs de differentes nations et sur quelques observations qui ont été faites dans ce país la",
-  "dct_alternative_sm": [
-    "Carte de Tartarie : dressée sur les relations de plusieurs voyageurs de differentes nations et sur quelques observations qui ont été faites dans ce país la"
-  ],
   "dct_description_sm": [
     "Relief shown pictorially.; Shows forested areas, roads, the Great Wall, etc.; Reprint of L'Isle's map issued earlier by Ph. Buache.",
     "49 x 64 centimeters",
-    "Scale approximately 1:10,750,000"
+    "Scale approximately 1:10,750,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "fre"
@@ -25,31 +23,29 @@
     "1766"
   ],
   "dct_issued_s": "1766",
-  "gbl_indexYear_im": [
-    "1766"
+  "dct_spatial_sm": [
+    "Asia"
   ],
-  "gbl_dateRange_drsim": [
-    "[1766 TO 1766]"
-  ],
-  "locn_geometry": "ENVELOPE(19.4,-164.3667,82.05,-4.4667)",
+  "locn_geometry": "POLYGON((19.4 82.05, -164.3667 82.05, -164.3667 -4.4667, 19.4 -4.4667, 19.4 82.05))",
   "dcat_bbox": "ENVELOPE(19.4,-164.3667,82.05,-4.4667)",
   "dcat_centroid": "38.79165,-72.48335",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3692/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3692\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3692/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3692\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3692/manifest.json\"}",
   "id": "p16022coll230:3692",
   "dct_identifier_sm": [
     "UMN_ALMA:9960106860001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:15Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,5 +1,10 @@
 {
   "dct_title_s": "Inner-Asien & Indien: Südliches Blatt maassstab 1:7,500,000",
+  "dct_description_sm": [
+    "38 x 48 centimeters",
+    "Scale 1:7,500,000",
+    "Ames Library of South Asia Maps"
+  ],
   "dct_language_sm": [
     "eng"
   ],
@@ -7,29 +12,24 @@
     "Petermann, A. (August Heinrich), 1822-1878."
   ],
   "dct_publisher_sm": [
-    "Justus Perthes"
+    "Justus Perthes; Gotha"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "South Asia Maps",
-    "bbox-update-mar2020"
+    "Maps",
+    "South Asia Maps"
   ],
   "dct_temporal_sm": [
     "1892"
   ],
-  "gbl_indexYear_im": [
-    "1892"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1892 TO 1892]"
-  ],
+  "dct_issued_s": "1892",
   "dct_spatial_sm": [
     "India"
   ],
-  "locn_geometry": "ENVELOPE(68.11,97.4,35.67,5.34)",
+  "locn_geometry": "POLYGON((68.11 35.67, 97.4 35.67, 97.4 5.34, 68.11 5.34, 68.11 35.67))",
   "dcat_bbox": "ENVELOPE(68.11,97.4,35.67,5.34)",
   "dcat_centroid": "20.505000000000003,82.755",
   "pcdm_memberOf_sm": [
@@ -37,18 +37,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/246266\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/422/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:422\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/422/manifest.json\"}",
   "id": "p16022coll246:422",
   "dct_identifier_sm": [
-    "p16022coll246:422"
+    "UMN_ALMA:9974129681101700"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:55Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

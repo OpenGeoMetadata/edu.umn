@@ -1,7 +1,10 @@
 {
   "dct_title_s": "A new and accurate map of the Empire of the Great Mogul, together with India on both sides the Ganges and the adjacent countries",
   "dct_description_sm": [
-    "Map of India and Indochina with relief shown pictorially. Prime meridian: London. Plate 43 from: A complete atlas, or, Distinct view of the known world / by Emanuel Bowen. London : Printed for William Innys and Joseph Richardson [and others], 1752. Dimensions: 35 x 41 centimeters"
+    "Map of India and Indochina with relief shown pictorially. Prime meridian: London. Plate 43 from: A complete atlas, or, Distinct view of the known world / by Emanuel Bowen. London : Printed for William Innys and Joseph Richardson [and others], 1752.",
+    "35 x 41 centimeters",
+    "Scale 1:10,000,000",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Bowen, Emanuel, -1767"
   ],
   "dct_publisher_sm": [
-    "Printed for William Innys and Joseph Richardson et al."
+    "Printed for William Innys and Joseph Richardson ... et al.; London"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -23,13 +26,11 @@
   "dct_temporal_sm": [
     "1752"
   ],
-  "gbl_indexYear_im": [
-    "1752"
+  "dct_issued_s": "1752",
+  "dct_spatial_sm": [
+    "Asia"
   ],
-  "gbl_dateRange_drsim": [
-    "[1752 TO 1752]"
-  ],
-  "locn_geometry": "ENVELOPE(68.1,110,35.66,0.93)",
+  "locn_geometry": "POLYGON((68.1 35.66, 110 35.66, 110 0.93, 68.1 0.93, 68.1 35.66))",
   "dcat_bbox": "ENVELOPE(68.1,110,35.66,0.93)",
   "dcat_centroid": "18.294999999999998,89.05",
   "pcdm_memberOf_sm": [
@@ -37,18 +38,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/228803\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/386/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:386\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/386/manifest.json\"}",
   "id": "p16022coll246:386",
   "dct_identifier_sm": [
-    "p16022coll246:386"
+    "UMN_ALMA:9973941987201701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:31Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

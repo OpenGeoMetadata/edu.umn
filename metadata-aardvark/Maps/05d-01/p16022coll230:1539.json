@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Map of the State of Virginia",
-  "dct_alternative_sm": [
-    "Map of the State of Virginia"
+  "dct_description_sm": [
+    "General map of Virginia, West Virginia, Maryland, Delaware, and southern Pennsylvania showing cities and towns, roads, rivers, and relief by hachures. The map is overprinted in red to indicate railroads, the proposed state name \"West Virginia, ' and concentric circles centered on Richmond. Circles are at intervals of ten miles. A table of \"Distances by Rail Roads\" appears below the map title.\"; Description derived from published bibliography.",
+    "58 x 88 centimeters",
+    "Scale approximately 1;887,040",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -20,23 +23,18 @@
     "1862"
   ],
   "dct_issued_s": "1862",
-  "gbl_indexYear_im": [
-    "1862"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1862 TO 1862]"
-  ],
   "dct_spatial_sm": [
     "Virginia"
   ],
-  "locn_geometry": "ENVELOPE(-83.6667,-75.2333,39.45,36.5333)",
+  "locn_geometry": "POLYGON((-83.6667 39.45, -75.2333 39.45, -75.2333 36.5333, -83.6667 36.5333, -83.6667 39.45))",
   "dcat_bbox": "ENVELOPE(-83.6667,-75.2333,39.45,36.5333)",
   "dcat_centroid": "37.99165,-79.45",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -48,6 +46,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9974044606301701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:31Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

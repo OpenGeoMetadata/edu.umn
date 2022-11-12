@@ -1,7 +1,10 @@
 {
   "dct_title_s": "A new map of Denmark and Sweden : according to ye newest and most exact observations.",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:2,700,000 (W 0°04ʹ00ʺ--E 35°07ʹ00ʺ/N 71°21ʹ00ʺ--N 53°41ʹ00ʺ). Relief shown pictorially. Prime meridians: London and Ferro Island. Dedication: To His Excellency John Lord Bishop of Bristol Ld. Privy Seal and Her Majesty's first Plenipotentiary at the Treaty of Utrecht. This map is Humbly Dedicated by your Excellency's most humble Servant. H: Moll Geographer. Inset (upper left): The north part of Norway, Lapland and Greenland ... This Draught taken from J. Peterson ... Five b&w vignettes pertaining to Laplanders on right side, with caption below: The Laplanders being the most remarkable people in Europe; it will not be amiss to give a scheach of their manner of living ... Note (to upper left of title cartouche): The double line from Upsal to Torne shews ye rout King Charles ye XI, and his mathematicians took Anno 1694 in making their observations, which are carefully inserted here with many other remarks left to ye curious to observe. Dimensions: 1 map : color ; 60 x 100 centimeter on sheet 63 x 107 centimeter"
+    "Cartographic Details: Scale approximately 1:2,700,000 (W 0°04ʹ00ʺ--E 35°07ʹ00ʺ/N 71°21ʹ00ʺ--N 53°41ʹ00ʺ). Relief shown pictorially. Prime meridians: London and Ferro Island. Dedication: To His Excellency John Lord Bishop of Bristol Ld. Privy Seal and Her Majesty's first Plenipotentiary at the Treaty of Utrecht. This map is Humbly Dedicated by your Excellency's most humble Servant. H: Moll Geographer. Inset (upper left): The north part of Norway, Lapland and Greenland ... This Draught taken from J. Peterson ... Five b&w vignettes pertaining to Laplanders on right side, with caption below: The Laplanders being the most remarkable people in Europe; it will not be amiss to give a scheach of their manner of living ... Note (to upper left of title cartouche): The double line from Upsal to Torne shews ye rout King Charles ye XI, and his mathematicians took Anno 1694 in making their observations, which are carefully inserted here with many other remarks left to ye curious to observe.",
+    "1 map : color ; 60 x 100 centimeter on sheet 63 x 107 centimeter",
+    "Scale approximately 1:2,700,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -29,24 +32,20 @@
     "Scandinavia",
     "Sweden",
     "Early Works",
+    "Maps",
     "Thematic Maps"
   ],
   "dct_temporal_sm": [
     "1730"
   ],
-  "gbl_indexYear_im": [
-    "1730"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1730 TO 1730]"
-  ],
+  "dct_issued_s": "1730",
   "dct_spatial_sm": [
     "Denmark",
     "Finland",
     "Norway",
     "Sweden"
   ],
-  "locn_geometry": "ENVELOPE(4.6,31.67,71.28,54.95)",
+  "locn_geometry": "POLYGON((4.6 71.28, 31.67 71.28, 31.67 54.95, 4.6 54.95, 4.6 71.28))",
   "dcat_bbox": "ENVELOPE(4.6,31.67,71.28,54.95)",
   "dcat_centroid": "63.115,18.135",
   "pcdm_memberOf_sm": [
@@ -54,18 +53,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll230"
+    "p16022coll230"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:393\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/393/manifest.json\"}",
   "id": "p16022coll230:393",
   "dct_identifier_sm": [
-    "p16022coll230:393"
+    "UMN_ALMA:9976104002701701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:00Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

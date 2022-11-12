@@ -1,0 +1,48 @@
+{
+  "dct_title_s": "Average annual precipitation in inches",
+  "dct_description_sm": [
+    "Relief shown by shading and spot heights.; \"Based on records of about 1600 stations for the 20-year period 1895-1914, and 2000 additional records, from 5 to 19 years in length, uniformly adjusted to the same period.\"; Includes scale of shades, notes, chart: Period within which 50% of the annual precipitation occurs, and ancillary map: Percentage of annual precipitation occurring between Apr. 1 and Sept. 30.",
+    "40 x 60 Centimeters",
+    "Scale 1:8,000,000",
+    "General Map Collection"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Kincer, J. B. (Joseph Burton), 1874-1954"
+  ],
+  "dct_publisher_sm": [
+    "Weather Bureau (Washington)"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Precipitation (Meteorology)"
+  ],
+  "dct_issued_s": "1916",
+  "locn_geometry": "POLYGON((-125 47, -67 47, -67 23, -125 23, -125 47))",
+  "dcat_bbox": "ENVELOPE(-125,-67,47,23)",
+  "dcat_centroid": "35.0,-96.0",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-01",
+    "p16022coll230"
+  ],
+  "dct_rights_sm": [
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4086\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4086/manifest.json\"}",
+  "id": "p16022coll230:4086",
+  "dct_identifier_sm": [
+    "UMN_ALMA:9922113520001701"
+  ],
+  "gbl_mdModified_dt": "2022-09-28T02:16:24Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

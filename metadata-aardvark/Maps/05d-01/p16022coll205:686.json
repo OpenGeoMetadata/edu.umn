@@ -1,12 +1,10 @@
 {
   "dct_title_s": "Battles of Mexico : line of operations of the U.S. Army under the command of Major General Winfield Scott on the 19th and 20th of August, 1847",
-  "dct_alternative_sm": [
-    "Battles of Mexico : line of operations of the U.S. Army under the command of Major General Winfield Scott on the 19th and 20th of August, 1847"
-  ],
   "dct_description_sm": [
     "Relief shown by hachures.",
     "61 x 73 centimeters",
-    "Scale approximately 1:15,680"
+    "Scale approximately 1:15,680",
+    "City Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -15,7 +13,7 @@
     "Hardcastle, E. L. F. (Edmund Lafayette), 1824-1899"
   ],
   "dct_publisher_sm": [
-    "Lith. of P.S. Duval"
+    "Lith. of P.S. Duval (Phila. [i.e. Philadelphia)"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -31,34 +29,29 @@
     "1847"
   ],
   "dct_issued_s": "1847",
-  "gbl_indexYear_im": [
-    "1847"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1847 TO 1847]"
-  ],
   "dct_spatial_sm": [
     "Mexico City, Distrito Federal"
   ],
-  "locn_geometry": "ENVELOPE(-118.5833,-86.4833,32.7167,14.3833)",
+  "locn_geometry": "POLYGON((-118.5833 32.7167, -86.4833 32.7167, -86.4833 14.3833, -118.5833 14.3833, -118.5833 32.7167))",
   "dcat_bbox": "ENVELOPE(-118.5833,-86.4833,32.7167,14.3833)",
   "dcat_centroid": "23.55,-102.5333",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll205"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll205/id/686/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:686\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/686/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:686\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/686/manifest.json\"}",
   "id": "p16022coll205:686",
   "dct_identifier_sm": [
     "UMN_ALMA:9974055503301701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:52Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:28Z",
   "gbl_mdVersion_s": "Aardvark"
 }

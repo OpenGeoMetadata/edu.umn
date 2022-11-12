@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Rand, McNally & Co.'s Minnesota",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:1,013,760 (W 97‚Å∞15 π--W 89‚Å∞30 π/N 49‚Å∞23 π--N 43‚Å∞30 π).Red overprinting shows railroads with index.Title from upper margin.Title at right: Rand, McNally & Co.'s business atlas map of Minnesota.City index in left margin.Insets: N.E. corner of state of Minnesota -- Minneapolis, St. Paul and vicinity. Dimensions: 65 x 47 centimeters"
+    "Cartographic Details: Scale approximately 1:1,013,760 (W 97‚Å∞15 π--W 89‚Å∞30 π/N 49‚Å∞23 π--N 43‚Å∞30 π).Red overprinting shows railroads with index.Title from upper margin.Title at right: Rand, McNally & Co.'s business atlas map of Minnesota.City index in left margin.Insets: N.E. corner of state of Minnesota -- Minneapolis, St. Paul and vicinity.",
+    "65 x 47 centimeters",
+    "Scale approximately 1:1,013,760",
+    "Minnesota Transportation Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -16,26 +19,19 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "Railroads"
-  ],
   "dcat_keyword_sm": [
     "Railroads Minnesota Maps",
-    "Minnesota Maps"
+    "Minnesota Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1897"
   ],
-  "gbl_indexYear_im": [
-    "1897"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1897 TO 1897]"
-  ],
+  "dct_issued_s": "1897",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-97.25,-89.5,49.38,43.5)",
+  "locn_geometry": "POLYGON((-97.25 49.38, -89.5 49.38, -89.5 43.5, -97.25 43.5, -97.25 49.38))",
   "dcat_bbox": "ENVELOPE(-97.25,-89.5,49.38,43.5)",
   "dcat_centroid": "46.44,-93.375",
   "pcdm_memberOf_sm": [
@@ -43,18 +39,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll206"
+    "p16022coll206"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/191030\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll206/120/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll206:120\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll206/120/manifest.json\"}",
   "id": "p16022coll206:120",
   "dct_identifier_sm": [
-    "p16022coll206:120"
+    "UMN_ALMA:9951765520001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:03Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

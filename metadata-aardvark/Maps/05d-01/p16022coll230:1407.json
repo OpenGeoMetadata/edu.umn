@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "The Historic Hudson~~river of picturesque charm",
-  "dct_alternative_sm": [
-    "The Historic Hudson : river of picturesque charm"
+  "dct_title_s": "The Historic Hudson : river of picturesque charm",
+  "dct_description_sm": [
+    "Pictorial map.; Strip map showing Hudson River Day Line route and landings.; Text and black-and-white photographs of scenery and 7 passenger ships on verso.",
+    "51 x 16 centimeters",
+    "Scale not given.",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -23,32 +26,27 @@
   "dct_temporal_sm": [
     "1929-1930"
   ],
-  "dct_issued_s": "1929-1930?",
-  "gbl_indexYear_im": [
-    "1929"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1929 TO 1930]"
-  ],
-  "locn_geometry": "ENVELOPE(-74.2167,-73.55,44.1,40.6833)",
+  "dct_issued_s": "19291930?",
+  "locn_geometry": "POLYGON((-74.2167 44.1, -73.55 44.1, -73.55 40.6833, -74.2167 40.6833, -74.2167 44.1))",
   "dcat_bbox": "ENVELOPE(-74.2167,-73.55,44.1,40.6833)",
   "dcat_centroid": "42.39165,-73.88335000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/1407/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1407\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1407/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1407\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1407/manifest.json\"}",
   "id": "p16022coll230:1407",
   "dct_identifier_sm": [
     "UMN_ALMA:9975759308601701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:00Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

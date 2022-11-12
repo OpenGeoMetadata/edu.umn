@@ -1,16 +1,23 @@
 {
   "dct_title_s": "Map of the Mississippi River from the falls of St. Anthony to the junction of the Illinois River",
-  "dct_alternative_sm": [
-    "Map of the Mississippi River from the falls of St. Anthony to the junction of the Illinois River"
-  ],
   "dct_description_sm": [
-    "Cartographic Details: 1 in. to 1 mile. Title from title sheet. \"N. Peters, photo-lithographer, Washington, D.C.\" Includes index sheet. Relief shown pictorially. Dimensions: 38 x 60 centimeters"
+    "Cartographic Details: 1 in. to 1 mile. Title from title sheet. \"N. Peters, photo-lithographer, Washington, D.C.\" Includes index sheet. Relief shown pictorially.",
+    "38 x 60 centimeters",
+    "1:63,360",
+    "General Minnesota Maps"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "United States. Army. Corps of Engineers; Mackenzie, Alexander, 1844-1921; Farquhar, Francis Ulric; Warren, Gouverneur Kemble, 1830-1882; Macomb, John N., 1810 or 1811-1889; Bosse, H.; Stibott, A. J.; Peters, Norris"
+    "United States. Army. Corps of Engineers",
+    "Mackenzie, Alexander, 1844-1921",
+    "Farquhar, Francis Ulric",
+    "Warren, Gouverneur Kemble, 1830-1882",
+    "Macomb, John N., 1810 or 1811-1889",
+    "Bosse, H.",
+    "Stibott, A. J.",
+    "Peters, Norris"
   ],
   "dct_publisher_sm": [
     "The Corps?;  Washington, D.C."
@@ -27,31 +34,26 @@
     "1887-1888"
   ],
   "dct_issued_s": "1887 - 1888",
-  "gbl_indexYear_im": [
-    "1887"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1887 TO 1888]"
-  ],
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-93.63,-89.96,45.13,38.85)",
+  "locn_geometry": "POLYGON((-93.63 45.13, -89.96 45.13, -89.96 38.85, -93.63 38.85, -93.63 45.13))",
   "dcat_bbox": "ENVELOPE(-93.63,-89.96,45.13,38.85)",
   "dcat_centroid": "41.99,-91.79499999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll247"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll247/id/32/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:32\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/32/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:32\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/32/manifest.json\"}",
   "id": "p16022coll247:32",
   "dct_identifier_sm": [
     "UMN_ALMA:9956970230001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:05Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

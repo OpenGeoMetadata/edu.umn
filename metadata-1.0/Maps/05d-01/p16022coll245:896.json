@@ -1,27 +1,28 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "p16022coll245:896",
+  "dc_identifier_s": "UMN_ALMA:9950740430001701",
   "dc_rights_s": "Public",
   "dc_title_s": "Davisons [sic] map 25 miles around the Twin Cities : 1881 corrected to 1889",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll245:896",
   "solr_geom": "ENVELOPE(-93.7673,-92.7411,45.2867,44.6258)",
-  "solr_year_i": "1889",
   "dc_creator_sm": [
     "Cooley, George Washington"
   ],
+  "dc_description_s": "Also shows railroad lines, roads, Public Land Survey townships and sections, cemeteries, churches, and schools. Entered according to act of Congress in the Year 1881, by C. Wright Davison in the office of the Librarian of Congress at Washington D.C. Smith & Harrison, Minneapolis. On cover: Published by Minneapolis Directory Co., 1889. Irregularly-shaped circular map.|61 x 65 centimeters|Minneapolis and St. Paul Maps and Atlases",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/187172\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/896/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:896\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/896/manifest.json\"}",
   "dct_spatial_sm": [
     "Minneapolis, Minnesota",
     "Saint Paul, Minnesota",
     "Minnesota"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:28Z",
+  "layer_modified_dt": "2022-09-28T02:14:50Z",
   "dc_language_sm": [
     "eng"
   ],
   "dc_publisher_s": "C. Wright Davison, Minneapolis Directory Co (Minneapolis, Minn.?), 1881",
+  "dct_issued_s": "1889",
   "dct_temporal_sm": [
     "1889"
   ]

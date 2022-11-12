@@ -6,14 +6,17 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3781",
   "solr_geom": "ENVELOPE(70.0,145.0,45.0,20.0)",
-  "solr_year_i": "1897",
   "dc_creator_sm": [
     "Smith, Benjamin E"
   ],
-  "dc_description_s": "Relief shown by hachures and spot heights.; Includes 2 insets of HongKong (British) and vicinity of Peking and Tientsin.; At upper right corner: Number 107.|27 x 38 centimeters|Scale approximately 1:15,000,000",
+  "dc_description_s": "Relief shown by hachures and spot heights.; Includes 2 insets of HongKong (British) and vicinity of Peking and Tientsin.; At upper right corner: Number 107.|27 x 38 centimeters|Scale approximately 1:15,000,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3781/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3781\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3781/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:31:08Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3781\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3781/manifest.json\"}",
+  "dct_spatial_sm": [
+    "China",
+    "Asia"
+  ],
+  "layer_modified_dt": "2022-09-28T02:14:57Z",
   "dc_language_sm": [
     "eng"
   ],

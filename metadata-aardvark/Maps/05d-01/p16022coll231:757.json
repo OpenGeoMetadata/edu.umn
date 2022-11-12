@@ -1,10 +1,10 @@
 {
   "dct_title_s": "Plat Book of Goodhue County, Minnesota",
-  "dct_alternative_sm": [
-    "Plat Book of Goodhue County, Minnesota"
-  ],
   "dct_description_sm": [
-    "Plat book of Goodhue County, Minnesota, containing an outline map of the county and plats of all townships showing location of roads, schools, churches, railroads, streams, etc. Dimensions: 21 x 28 centimeters"
+    "Plat book of Goodhue County, Minnesota, containing an outline map of the county and plats of all townships showing location of roads, schools, churches, railroads, streams, etc.",
+    "21 x 28 centimeters",
+    "Scale approximately 1:50,688",
+    "Minnesota County Maps, Plat Books, and Atlases"
   ],
   "dct_language_sm": [
     "eng"
@@ -26,34 +26,29 @@
     "1921"
   ],
   "dct_issued_s": "1921?",
-  "gbl_indexYear_im": [
-    "1921"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1921 TO 1921]"
-  ],
   "dct_spatial_sm": [
     "Belle Creek Township; Belvidere Township; Canon Falls Township; Cherry Grove Township; Featherstone Township; Florence Township; Goodhue Township; Hay Creek Township; Holden Township; Kenyon Township; Leon Township; Minneola Township; Pine Island Township; Roscoe Township; Stanton Township; Vasa Township; Welch Township; Wacouta Township; Wanamingo Township; Warsaw Township; Zumbrota Township; Bellechester; Cannon Falls; Kenyon; Pine Island; Zumbrota; Red Wing; Frontenac, Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-93.03,-92.2301,44.7001,44.1801)",
+  "locn_geometry": "POLYGON((-93.03 44.7001, -92.2301 44.7001, -92.2301 44.1801, -93.03 44.1801, -93.03 44.7001))",
   "dcat_bbox": "ENVELOPE(-93.03,-92.2301,44.7001,44.1801)",
   "dcat_centroid": "44.4401,-92.63005",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll231"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll231/id/757/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:757\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/757/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:757\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/757/manifest.json\"}",
   "id": "p16022coll231:757",
   "dct_identifier_sm": [
     "UMN_ALMA:9921582150001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:21Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

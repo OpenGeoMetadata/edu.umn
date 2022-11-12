@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Province of Nova Scotia",
-  "dct_alternative_sm": [
-    "Province of Nova Scotia"
+  "dct_description_sm": [
+    "No. 637.",
+    "30 x 46 centimeters, on sheet 44 x 58 centimeters",
+    "Scale 1:63,360",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -24,34 +27,29 @@
     "1902"
   ],
   "dct_issued_s": "1902",
-  "gbl_indexYear_im": [
-    "1902"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1902 TO 1902]"
-  ],
   "dct_spatial_sm": [
     "Canada"
   ],
-  "locn_geometry": "ENVELOPE(-63.4333,-63.05,45.5833,45.4167)",
+  "locn_geometry": "POLYGON((-63.4333 45.5833, -63.05 45.5833, -63.05 45.4167, -63.4333 45.4167, -63.4333 45.5833))",
   "dcat_bbox": "ENVELOPE(-63.4333,-63.05,45.5833,45.4167)",
   "dcat_centroid": "45.5,-63.24165",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/730/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:730\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/730/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:730\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/730/manifest.json\"}",
   "id": "p16022coll230:730",
   "dct_identifier_sm": [
     "UMN_ALMA:9974847208401701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:45Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

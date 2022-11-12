@@ -1,24 +1,26 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "p16022coll246:179",
+  "dc_identifier_s": "UMN_ALMA:9916603790001701",
   "dc_rights_s": "Public",
   "dc_title_s": "Asia : ex magna Orbis terre descriptione Gerardi Mercatoris desumpta, studio & industria G.M. Iunioris.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:179",
   "solr_geom": "ENVELOPE(11.0742,-159.4336,81.5442,-16.8887)",
-  "solr_year_i": "1569",
   "dc_creator_sm": [
     "Mercator, Gerhard , 1512-1594"
   ],
-  "dc_description_s": "Cartographic Details: Scale approximately 3 cm. = 125 Miliaria Germanica communia quorum 15 gradum unum latitudinus constituant.\" Relief shown pictorially. Hand colored. Originally published in Mercator's Atlas sive Cosmographicae ..., 1595. Includes part of Northern Australia and North-West America and Japan on a kit-shaped outline taken from Mercator's Atlas, 1569 edition. Dimensions: 38 x 48 centimeters",
+  "dc_description_s": "Cartographic Details: Scale approximately 3 cm. = 125 Miliaria Germanica communia quorum 15 gradum unum latitudinus constituant.\" Relief shown pictorially. Hand colored. Originally published in Mercator's Atlas sive Cosmographicae ..., 1595. Includes part of Northern Australia and North-West America and Japan on a kit-shaped outline taken from Mercator's Atlas, 1569 edition.|38 x 48 centimeters|Scale approximately 3 centimeters = 125 Miliaria Germanica communia quorum 15 gradum unum latitudinus constituant.|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/200792\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/179/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:24:42Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:179\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/179/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Asia"
+  ],
+  "layer_modified_dt": "2022-09-28T02:16:10Z",
   "dc_language_sm": [
     "lat"
   ],
-  "dc_publisher_s": "G. Mercator Junior",
-  "dct_issued_s": "1628",
+  "dc_publisher_s": "G. Mercator Junior; Amstelodami?",
+  "dct_issued_s": "1628?",
   "dct_temporal_sm": [
     "approximately 1569"
   ]

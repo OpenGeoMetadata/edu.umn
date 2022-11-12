@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Nieuwe afteekening van Bombay : en omleggende Eylanden gelegen aan de kust van Decam",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:60,000. (E 72°47'17\"--E 72°57'07\"/N 18°59'18\"--N 18°49'31\"). Date from previous call number. Oriented with north to the left. Relief shown pictorially; depth shown by soundings. Dimensions: 42 x 52 centimeters"
+    "Cartographic Details: Scale approximately 1:60,000. (E 72°47'17\"--E 72°57'07\"/N 18°59'18\"--N 18°49'31\"). Date from previous call number. Oriented with north to the left. Relief shown pictorially; depth shown by soundings.",
+    "42 x 52 centimeters",
+    "Scale approximately 1:60,000",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "dut"
@@ -10,7 +13,7 @@
     "van Keulen, Johannes, 1654-1715."
   ],
   "dct_publisher_sm": [
-    "Ioannes van Keulen"
+    "Ioannes van Keulen; Amsterdam"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -28,16 +31,11 @@
   "dct_temporal_sm": [
     "1720?"
   ],
-  "gbl_indexYear_im": [
-    "1720"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1720 TO 1720]"
-  ],
+  "dct_issued_s": "1720?",
   "dct_spatial_sm": [
     "India"
   ],
-  "locn_geometry": "ENVELOPE(72.78,72.95,18.98,18.81)",
+  "locn_geometry": "POLYGON((72.78 18.98, 72.95 18.98, 72.95 18.81, 72.78 18.81, 72.78 18.98))",
   "dcat_bbox": "ENVELOPE(72.78,72.95,18.98,18.81)",
   "dcat_centroid": "18.895,72.86500000000001",
   "pcdm_memberOf_sm": [
@@ -45,18 +43,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/229448\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/250/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:250\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/250/manifest.json\"}",
   "id": "p16022coll246:250",
   "dct_identifier_sm": [
-    "p16022coll246:250"
+    "UMN_ALMA:9973939704401701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:23Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

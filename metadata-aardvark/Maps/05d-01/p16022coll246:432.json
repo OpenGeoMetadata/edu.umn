@@ -1,7 +1,10 @@
 {
   "dct_title_s": "India quae orientalis dicitur : et insulae adiacentes",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:20,000,000 (E 68°--E 137°/N 38°--S 10°). Coat of arms at head of dedication to Lavrentio Real from Guiljelmus Blaeu. From: Toonneel des Aerdrycks. Amsterdam : Apud Guiljelmum et Iohannem Blaeu, 1635. Map of south and southeast Asia. Northern coast line of New Guinea, southern coast line of Japan and tip of northern Australia is shown. Relief is shown pictorially. Scale in Milliaria Germanica. Dimensions: 39.5 x 48.3 centimeters"
+    "Cartographic Details: Scale approximately 1:20,000,000 (E 68°--E 137°/N 38°--S 10°). Coat of arms at head of dedication to Lavrentio Real from Guiljelmus Blaeu. From: Toonneel des Aerdrycks. Amsterdam : Apud Guiljelmum et Iohannem Blaeu, 1635. Map of south and southeast Asia. Northern coast line of New Guinea, southern coast line of Japan and tip of northern Australia is shown. Relief is shown pictorially. Scale in Milliaria Germanica.",
+    "39.5 x 48.3 centimeters",
+    "Scale approximately 1:20,000,000",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "lat"
@@ -10,7 +13,7 @@
     "Blaeu, Willem Janszoon, 1571-1638"
   ],
   "dct_publisher_sm": [
-    "Blaeu"
+    "Blaeu; Amsterdam"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -27,17 +30,13 @@
     "Burma Maps Early Works to 1800",
     "Vietnam Maps Early Works to 1800",
     "Indonesia Maps Early Works to 1800",
-    "India Maps Early Works to 1800"
+    "India Maps Early Works to 1800",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1635"
   ],
-  "gbl_indexYear_im": [
-    "1635"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1635 TO 1635]"
-  ],
+  "dct_issued_s": "1635",
   "dct_spatial_sm": [
     "Indonesia",
     "Cambodia",
@@ -48,7 +47,7 @@
     "Vietnam",
     "India"
   ],
-  "locn_geometry": "ENVELOPE(68,137,38,-10)",
+  "locn_geometry": "POLYGON((68 38, 137 38, 137 -10, 68 -10, 68 38))",
   "dcat_bbox": "ENVELOPE(68,137,38,-10)",
   "dcat_centroid": "14.0,102.5",
   "pcdm_memberOf_sm": [
@@ -56,18 +55,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/200848\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/432/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:432\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/432/manifest.json\"}",
   "id": "p16022coll246:432",
   "dct_identifier_sm": [
-    "p16022coll246:432"
+    "UMN_ALMA:9936787610001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:38Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

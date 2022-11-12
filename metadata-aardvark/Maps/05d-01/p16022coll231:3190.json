@@ -1,10 +1,11 @@
 {
   "dct_title_s": "Map of Hennepin County, Minnesota",
-  "dct_alternative_sm": [
-    "Map of Hennepin County, Minnesota"
-  ],
   "dct_description_sm": [
-    "Shows property owners outside of Minneapolis city limits. Dimensions: 76 x 79 centimeters or smaller"
+    "Shows property owners outside of Minneapolis city limits.",
+    "Blueprint.; Facsimile; location of original and date of reproduction unknown.; Engraved by Worley & Bracher; printed by F. Bourquin.; Includes directory.",
+    "76 x 79 centimeters or smaller",
+    "Scale [1:38,900]",
+    "Minnesota County Maps, Plat Books, and Atlases"
   ],
   "dct_language_sm": [
     "eng"
@@ -26,31 +27,26 @@
     "1879"
   ],
   "dct_issued_s": "1879",
-  "gbl_indexYear_im": [
-    "1879"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1879 TO 1879]"
-  ],
-  "locn_geometry": "ENVELOPE(-93.77,-93.1767,45.2464,44.7872)",
+  "locn_geometry": "POLYGON((-93.77 45.2464, -93.1767 45.2464, -93.1767 44.7872, -93.77 44.7872, -93.77 45.2464))",
   "dcat_bbox": "ENVELOPE(-93.77,-93.1767,45.2464,44.7872)",
   "dcat_centroid": "45.0168,-93.47335",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll231"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll231/id/3190/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:3190\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/3190/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:3190\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/3190/manifest.json\"}",
   "id": "p16022coll231:3190",
   "dct_identifier_sm": [
     "UMN_ALMA:9916313830001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:07Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:44Z",
   "gbl_mdVersion_s": "Aardvark"
 }

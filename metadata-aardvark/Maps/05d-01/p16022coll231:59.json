@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Standard map of Stearns county, Minnesota",
   "dct_description_sm": [
-    "Cartographic Details: Scale [1:84,480]. 0.75 in. = 1 mi. Shows trunk highways, roads and railroads, bodies of water, and county and township boundaries. Dimensions: 69 x 106 centimeters"
+    "Cartographic Details: Scale [1:84,480]. 0.75 in. = 1 mi. Shows trunk highways, roads and railroads, bodies of water, and county and township boundaries.",
+    "69 x 106 centimeters",
+    "Scale [1:84,480]. 0.75 inch = 1 mile",
+    "Minnesota County Maps, Plat Books, and Atlases"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "McGill-Warner Co."
   ],
   "dct_publisher_sm": [
-    "McGill-Warner (Saint Paul, Minnesota), 1922"
+    "McGill-Warner  (Saint Paul, Minnesota), 1922"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -19,28 +22,21 @@
   "gbl_resourceType_sm": [
     "Road maps"
   ],
-  "dct_subject_sm": [
-    "Railroads"
-  ],
   "dcat_keyword_sm": [
     "Roads Minnesota Stearns County Maps",
     "Railroads Minnesota Stearns County Maps",
-    "Stearns County (Minn.) Maps"
+    "Stearns County (Minn.) Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1922"
   ],
-  "gbl_indexYear_im": [
-    "1922"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1922 TO 1922]"
-  ],
+  "dct_issued_s": "1922",
   "dct_spatial_sm": [
     "Stearns County, Minnesota",
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-95.1399,-94.0485,45.7764,45.2852)",
+  "locn_geometry": "POLYGON((-95.1399 45.7764, -94.0485 45.7764, -94.0485 45.2852, -95.1399 45.2852, -95.1399 45.7764))",
   "dcat_bbox": "ENVELOPE(-95.1399,-94.0485,45.7764,45.2852)",
   "dcat_centroid": "45.5308,-94.5942",
   "pcdm_memberOf_sm": [
@@ -48,18 +44,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll231"
+    "p16022coll231"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/188772\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/59/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:59\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/59/manifest.json\"}",
   "id": "p16022coll231:59",
   "dct_identifier_sm": [
-    "p16022coll231:59"
+    "UMN_ALMA:9916175110001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:13Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

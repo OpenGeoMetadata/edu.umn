@@ -1,16 +1,17 @@
 {
-  "dct_title_s": "Map of the Island of Bombay~~index to progress",
-  "dct_alternative_sm": [
-    "Map of the Island of Bombay : index to progress"
-  ],
+  "dct_title_s": "Map of the Island of Bombay : index to progress",
   "dct_description_sm": [
-    "Cartographic Details: Scale [1:14,400]. 1 in. = 1200 ft. Relief shown by hachures and form lines. Index to cities with epidemic statistics. Includes script signature for\"chairman plague committee.\" Dimensions: 132 x 71 centimeters, on sheets each 68 x 75 centimeters"
+    "Cartographic Details: Scale [1:14,400]. 1 in. = 1200 ft. Relief shown by hachures and form lines. Index to cities with epidemic statistics. Includes script signature for\"chairman plague committee.\"",
+    "132 x 71 centimeters, on sheets each 68 x 75 centimeters",
+    "Scale [1:14,400]; 1 inch = 1200 feet",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Maharashtra (India). Government Photozinco Office; Bombay Plague Committee"
+    "Maharashtra (India). Government Photozinco Office",
+    "Bombay Plague Committee"
   ],
   "dct_publisher_sm": [
     "The Office; Poona, India"
@@ -29,34 +30,29 @@
     "1897"
   ],
   "dct_issued_s": "1897",
-  "gbl_indexYear_im": [
-    "1897"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1897 TO 1897]"
-  ],
   "dct_spatial_sm": [
     "India"
   ],
-  "locn_geometry": "ENVELOPE(72.76,72.9601,19.26,18.8801)",
+  "locn_geometry": "POLYGON((72.76 19.26, 72.9601 19.26, 72.9601 18.8801, 72.76 18.8801, 72.76 19.26))",
   "dcat_bbox": "ENVELOPE(72.76,72.9601,19.26,18.8801)",
   "dcat_centroid": "19.070050000000002,72.86005",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll246"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll246/id/75/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:75\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/75/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:75\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/75/manifest.json\"}",
   "id": "p16022coll246:75",
   "dct_identifier_sm": [
     "UMN_ALMA:9949555180001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:47Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

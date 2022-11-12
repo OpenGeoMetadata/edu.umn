@@ -2,20 +2,21 @@
   "geoblacklight_version": "1.0",
   "dc_identifier_s": "UMN_ALMA:9960102510001701",
   "dc_rights_s": "Public",
-  "dc_title_s": "Plan de Pondichery a la côte de Coromandel occupé par la Compagnie Royale des Indes Orientales",
+  "dc_title_s": "Plan de Pondichery a la côte de Coromandel occupé par la Compagnie Royale des Indes Orientales",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll205:279",
   "solr_geom": "ENVELOPE(77.46,81.68,16.7,7.73)",
-  "solr_year_i": "1705",
   "dc_creator_sm": [
-    "De Fer, Nicolas; Coquart, A."
+    "De Fer, Nicolas",
+    "Coquart, A."
   ],
+  "dc_description_s": "Cartographic Details: Approximately 190 Toises to an in.   Facsimile.   In: La Compagnie des Indes Orientales et François Martin ... par Paul Kaeppelin.|Scale not determined. Approximately \"190 Toises to an inch\"|City Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll205/id/279/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:279\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/279/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:279\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/279/manifest.json\"}",
   "dct_spatial_sm": [
     "India"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:05Z",
+  "layer_modified_dt": "2022-09-28T02:14:04Z",
   "dc_language_sm": [
     "fre"
   ],

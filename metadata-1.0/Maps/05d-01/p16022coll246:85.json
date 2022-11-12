@@ -1,21 +1,21 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "UMN_ALMA:9974089998801701",
+  "dc_identifier_s": "UMN_ALMA:9974089998801700",
   "dc_rights_s": "Public",
-  "dc_title_s": "A new map of Hindoostan",
+  "dc_title_s": "A new map of Hindoostan:",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:85",
   "solr_geom": "ENVELOPE(68.1,97.38,35.66,4.2)",
-  "solr_year_i": "1794",
   "dc_creator_sm": [
     "Rennell, James, 1742-1830"
   ],
+  "dc_description_s": "119 x 145 centimeters, sheets 64 x 73 centimeters|Scale approximately 1:2,500,000|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll246/id/85/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:85\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/85/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:85\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/85/manifest.json\"}",
   "dct_spatial_sm": [
     "Delhi, West Bengal"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:53Z",
+  "layer_modified_dt": "2022-09-28T02:14:14Z",
   "dc_language_sm": [
     "eng"
   ],

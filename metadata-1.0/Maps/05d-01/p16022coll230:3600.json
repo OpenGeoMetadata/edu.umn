@@ -6,14 +6,17 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3600",
   "solr_geom": "ENVELOPE(68.1,-140.9833,63.0667,-20.3833)",
-  "solr_year_i": "1592",
   "dc_creator_sm": [
     "Ortelius, Abraham, 1527-1598"
   ],
-  "dc_description_s": "Relief shown pictorially.; Includes title in cartouche, coat of arms and illustrations of ships, mermaids, and sea monsters.; Includes southwest section of North America (Americae).; Latin text on verso.; In lower right on verso: 48.; From: Theatrum orbis terrarum.; Double page map.; Publication year provided by dealer.|34.5 x 49.5 centimeters, on sheet 40 x 55 centimeters|Scale not given",
+  "dc_description_s": "Relief shown pictorially.; Includes title in cartouche, coat of arms and illustrations of ships, mermaids, and sea monsters.; Includes southwest section of North America (Americae).; Latin text on verso.; In lower right on verso: 48.; From: Theatrum orbis terrarum.; Double page map.; Publication year provided by dealer.|34.5 x 49.5 centimeters, on sheet 40 x 55 centimeters|Scale not given|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3600/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3600\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3600/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:29:00Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3600\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3600/manifest.json\"}",
+  "dct_spatial_sm": [
+    "India",
+    "Asia"
+  ],
+  "layer_modified_dt": "2022-09-28T02:13:59Z",
   "dc_language_sm": [
     "lat"
   ],

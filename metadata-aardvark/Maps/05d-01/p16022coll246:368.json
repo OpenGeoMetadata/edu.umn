@@ -1,7 +1,10 @@
 {
   "dct_title_s": "A map of the provinces of Delhi, Agrah, Oude, and Ellahabad : comprehending the countries lying between Delhi and the Bengal-pro",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:730,000. Map of the northern provinces of India showing roads, district and provincial boundaries. Relief shown pictorially.\"Published 12th May, 1794.\" Dimensions: 107 x 106 centimeters, sheet 56 x 55 centimeters"
+    "Cartographic Details: Scale approximately 1:730,000. Map of the northern provinces of India showing roads, district and provincial boundaries. Relief shown pictorially.\"Published 12th May, 1794.\"",
+    "107 x 106 centimeters, sheet 56 x 55 centimeters",
+    "Scale approximately 1:730,000",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -14,28 +17,24 @@
     "East India Company."
   ],
   "dct_publisher_sm": [
-    "Laurie & Whittle"
+    "Laurie & Whittle ‚Ä¶; London"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Uttar Pradesh (India) Maps Early Works to 1800"
+    "Uttar Pradesh (India) Maps Early Works to 1800",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1794"
   ],
-  "gbl_indexYear_im": [
-    "1794"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1794 TO 1794]"
-  ],
+  "dct_issued_s": "1794",
   "dct_spatial_sm": [
     "India"
   ],
-  "locn_geometry": "ENVELOPE(80.6685,84.8405,26.6536,23.0968)",
+  "locn_geometry": "POLYGON((80.6685 26.6536, 84.8405 26.6536, 84.8405 23.0968, 80.6685 23.0968, 80.6685 26.6536))",
   "dcat_bbox": "ENVELOPE(80.6685,84.8405,26.6536,23.0968)",
   "dcat_centroid": "24.8752,82.75450000000001",
   "pcdm_memberOf_sm": [
@@ -43,18 +42,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/228946\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/368/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:368\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/368/manifest.json\"}",
   "id": "p16022coll246:368",
   "dct_identifier_sm": [
-    "p16022coll246:368"
+    "UMN_ALMA:9918811320001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:40Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

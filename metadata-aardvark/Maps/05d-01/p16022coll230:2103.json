@@ -1,7 +1,9 @@
 {
   "dct_title_s": "Kansas",
-  "dct_alternative_sm": [
-    "Kansas"
+  "dct_description_sm": [
+    "Shows locations of school houses, churches, farms, and Bad River Indian Reservation; also shows Soo Line railroad and part of Chequamegon Bay.; \"Lands colored red are owned by the Soo Line (Wisconsin Central Ry. Land Grant lands.).\"; \"W.H. Killen, land and industrial commissioner, Soo Line.\"; Soo Line logo at head of title and in upper left margin of map.",
+    "Scale [1:1,013,760] 1 inch to 16 miles. 1 inch to 26 kilometers",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -20,23 +22,18 @@
     "1905"
   ],
   "dct_issued_s": "1905",
-  "gbl_indexYear_im": [
-    "1905"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1905 TO 1905]"
-  ],
   "dct_spatial_sm": [
     "Kansas"
   ],
-  "locn_geometry": "ENVELOPE(-102.0,-95.0,40.0,37.0)",
+  "locn_geometry": "POLYGON((-102.0 40.0, -95.0 40.0, -95.0 37.0, -102.0 37.0, -102.0 40.0))",
   "dcat_bbox": "ENVELOPE(-102.0,-95.0,40.0,37.0)",
   "dcat_centroid": "38.5,-98.5",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -48,6 +45,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9974050409601701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:28Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

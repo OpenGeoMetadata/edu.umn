@@ -1,7 +1,10 @@
 {
   "dct_title_s": "New township and railroad map of the state of Minnesota",
-  "dct_alternative_sm": [
-    "New township and railroad map of the state of Minnesota"
+  "dct_description_sm": [
+    "Shows completed and unfinished railroad lines, the extent of surveyed townships, county boundaries, towns, and post offices in Minnesota.; Source of date of probable publication from an identical copy of map that has descriptive text on verso entitled \"1882, Minnesota, the great agricultural, manufacturing and commercial state of the Northwest\" describing these three characteristics as well as educational opportunities and unoccupied lands in Minnesota.; Inset: Minnesota's continental position.",
+    "50 x 44 centimeters",
+    "Scale not given.",
+    "Minnesota Transportation Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -23,34 +26,29 @@
     "1882"
   ],
   "dct_issued_s": "1882?",
-  "gbl_indexYear_im": [
-    "1882"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1882 TO 1882]"
-  ],
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-97.2333,-89.4833,49.3833,43.4833)",
+  "locn_geometry": "POLYGON((-97.2333 49.3833, -89.4833 49.3833, -89.4833 43.4833, -97.2333 43.4833, -97.2333 49.3833))",
   "dcat_bbox": "ENVELOPE(-97.2333,-89.4833,49.3833,43.4833)",
   "dcat_centroid": "46.4333,-93.3583",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll206"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll206/id/159/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll206:159\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll206/159/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll206:159\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll206/159/manifest.json\"}",
   "id": "p16022coll206:159",
   "dct_identifier_sm": [
     "UMN_ALMA:9953336430001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:04Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

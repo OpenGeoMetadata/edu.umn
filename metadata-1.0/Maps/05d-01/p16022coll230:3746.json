@@ -6,14 +6,18 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3746",
   "solr_geom": "ENVELOPE(-26.0,-25.0,38.05,4.3944)",
-  "solr_year_i": "1892",
   "dc_creator_sm": [
     "Vidal, A. T. E. (Alexander Thomas Emeric), 1792-1863"
   ],
-  "dc_description_s": "Large corrections June 1873--center below neat line & \"Small corrections XII-82 ... VI-92\"--lower left.; \"London published ... \"; \"Sold by J.D. Potter, Agent for the Admiralty Charts, 145 Minories.\"; Relief shown by hachures, soundings, and spot heights.; Includes 3 cross sections and 3 insets: Caldeira das sete cidades, [scale approximately 1:32,000] -- Ponta Delgada, [scale approximately 1:10,000]-- Villa Franca road, [scale approximately 1:20,000].; North oriented to the upper left.|32 x 60 centimeters, on sheet 48 x 63 centimeters|Scale not given.",
+  "dc_description_s": "Large corrections June 1873--center below neat line & \"Small corrections XII-82 ... VI-92\"--lower left.; \"London published ... \"; \"Sold by J.D. Potter, Agent for the Admiralty Charts, 145 Minories.\"; Relief shown by hachures, soundings, and spot heights.; Includes 3 cross sections and 3 insets: Caldeira das sete cidades, [scale approximately 1:32,000] -- Ponta Delgada, [scale approximately 1:10,000]-- Villa Franca road, [scale approximately 1:20,000].; North oriented to the upper left.|32 x 60 centimeters, on sheet 48 x 63 centimeters|Scale not given.|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3746/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3746\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3746/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:28:25Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3746\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3746/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Portugal",
+    "Azores",
+    "Europe"
+  ],
+  "layer_modified_dt": "2022-09-28T02:14:53Z",
   "dc_language_sm": [
     "eng"
   ],

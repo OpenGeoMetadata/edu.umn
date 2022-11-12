@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Rand, McNally & Co.'s Minnesota",
   "dct_description_sm": [
-    "Cartographic Details: Scale 1:1,013,760 ;  Statute miles, 16 = 1 in. (W 97°15'--W 89°30'/N 49°23'--N 43°30'). Red overprinting shows railroads. Title from upper margin. Title near copyright: Rand, McNally & Co.'s business atlas map of Minnesota. On verso: Minnesota. Counties, creeks, Indian reservations, lakes, rivers, and towns. Index in left margin. Includes list of \"Minnesota Railroads.\" Insets: N.E. corner of state of Minnesota -- Minneapolis, St. Paul and vicinity. Dimensions: 66 x 48 centimeters"
+    "Cartographic Details: Scale 1:1,013,760 ;  Statute miles, 16 = 1 in. (W 97°15'--W 89°30'/N 49°23'--N 43°30'). Red overprinting shows railroads. Title from upper margin. Title near copyright: Rand, McNally & Co.'s business atlas map of Minnesota. On verso: Minnesota. Counties, creeks, Indian reservations, lakes, rivers, and towns. Index in left margin. Includes list of \"Minnesota Railroads.\" Insets: N.E. corner of state of Minnesota -- Minneapolis, St. Paul and vicinity.",
+    "66 x 48 centimeters",
+    "1:1,013,760",
+    "General Minnesota Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,32 +13,25 @@
     "Rand McNally and Company"
   ],
   "dct_publisher_sm": [
-    "Rand McNally & Co."
+    "Rand McNally & Co.;  Chicago, Illinois 1902"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "Railroads"
-  ],
   "dcat_keyword_sm": [
     "Railroads Minnesota Maps",
-    "Minnesota Maps"
+    "Minnesota Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1902"
   ],
-  "gbl_indexYear_im": [
-    "1902"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1902 TO 1902]"
-  ],
+  "dct_issued_s": "1902",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-97.25,-89.5,49.38,43.5)",
+  "locn_geometry": "POLYGON((-97.25 49.38, -89.5 49.38, -89.5 43.5, -97.25 43.5, -97.25 49.38))",
   "dcat_bbox": "ENVELOPE(-97.25,-89.5,49.38,43.5)",
   "dcat_centroid": "46.44,-93.375",
   "pcdm_memberOf_sm": [
@@ -43,18 +39,15 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll247"
-  ],
-  "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "p16022coll247"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/188655\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/183/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:183\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/183/manifest.json\"}",
   "id": "p16022coll247:183",
   "dct_identifier_sm": [
-    "p16022coll247:183"
+    "UMN_ALMA:9948651380001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:21Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Map of the city of Washington",
-  "dct_alternative_sm": [
-    "Map of the city of Washington"
+  "dct_description_sm": [
+    "Shows radial distances and block numbers.; In upper margin: General convention Protestant Episcopal Church, Washington, D.C., A.D. 1898.; Includes index to points of interest printed in red and table of \"Width of streets and avenues.\"",
+    "43 x 43 centimeters",
+    "Scale approximately 1:22,500",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -17,23 +20,18 @@
     "1898"
   ],
   "dct_issued_s": "1898",
-  "gbl_indexYear_im": [
-    "1898"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1898 TO 1898]"
-  ],
   "dct_spatial_sm": [
     "Washington, District of Columbia"
   ],
-  "locn_geometry": "ENVELOPE(-77.0667,-76.9667,38.9333,38.85)",
+  "locn_geometry": "POLYGON((-77.0667 38.9333, -76.9667 38.9333, -76.9667 38.85, -77.0667 38.85, -77.0667 38.9333))",
   "dcat_bbox": "ENVELOPE(-77.0667,-76.9667,38.9333,38.85)",
   "dcat_centroid": "38.89165,-77.0167",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -45,6 +43,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9974047609901701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:09Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

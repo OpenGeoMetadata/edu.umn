@@ -1,10 +1,10 @@
 {
   "dct_title_s": "Vicariati e prefetture apostoliche nell' Indostan",
-  "dct_alternative_sm": [
-    "Vicariati e prefetture apostoliche nell' Indostan"
-  ],
   "dct_description_sm": [
-    "Cartographic Details: Scale not given (E 60°--E 93°/N 33°--N 20°). Relief shown by hachures. Map showing the boundaries of Catholic dioceses in Northern India in the 1850s. Probably Tav. CIV from: L'orbe cattolico ossia Atlante geografico storico ecclesiastico / [opera del commendatore Girolamo Petri]. Roma : Tipografia della reverenda Camera apostolica, 1858-1859. Dimensions: 48 x 63 centimeters"
+    "Cartographic Details: Scale not given (E 60°--E 93°/N 33°--N 20°). Relief shown by hachures. Map showing the boundaries of Catholic dioceses in Northern India in the 1850s. Probably Tav. CIV from: L'orbe cattolico ossia Atlante geografico storico ecclesiastico / [opera del commendatore Girolamo Petri]. Roma : Tipografia della reverenda Camera apostolica, 1858-1859.",
+    "48 x 63 centimeters",
+    "Scale not given.",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "ita"
@@ -31,34 +31,29 @@
     "1858 - 1859"
   ],
   "dct_issued_s": "1858 - 1859",
-  "gbl_indexYear_im": [
-    "1858"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1858 TO 1859]"
-  ],
   "dct_spatial_sm": [
     "India"
   ],
-  "locn_geometry": "ENVELOPE(60,93,33,20)",
+  "locn_geometry": "POLYGON((60 33, 93 33, 93 20, 60 20, 60 33))",
   "dcat_bbox": "ENVELOPE(60,93,33,20)",
   "dcat_centroid": "26.5,76.5",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll246"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll246/id/93/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:93\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/93/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:93\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/93/manifest.json\"}",
   "id": "p16022coll246:93",
   "dct_identifier_sm": [
     "UMN_ALMA:9935136420001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:47Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

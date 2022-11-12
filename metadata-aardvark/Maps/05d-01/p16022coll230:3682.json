@@ -1,12 +1,10 @@
 {
   "dct_title_s": "Plan de Jérusalem",
-  "dct_alternative_sm": [
-    "Plan de Jérusalem"
-  ],
   "dct_description_sm": [
-    "Text on both sides of the map.; From: Atlas Historique Et Geographique : Par Buy De Mornas. Le Canut Sculp. Direxit Desnos. Prémier Volume ; 63.; jnul.huji.ac.il/dl/maps/jer/html/jer266.htm",
+    "Text on both sides of the map.; From: Atlas Historique Et Geographique : Par Buy De Mornas. Le Canut Sculp. Direxit Desnos. Prémier Volume ; 63.; jnul.huji.ac.il/dl/maps/jer/html/jer266.htm",
     "240x240 mm",
-    "Scale approximately 1:5,000"
+    "Scale approximately 1:5,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "fre"
@@ -25,34 +23,29 @@
     "1761"
   ],
   "dct_issued_s": "1761",
-  "gbl_indexYear_im": [
-    "1761"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1761 TO 1761]"
-  ],
   "dct_spatial_sm": [
     "Jerusalem"
   ],
-  "locn_geometry": "ENVELOPE(35.2247,35.2383,31.7839,31.7733)",
+  "locn_geometry": "POLYGON((35.2247 31.7839, 35.2383 31.7839, 35.2383 31.7733, 35.2247 31.7733, 35.2247 31.7839))",
   "dcat_bbox": "ENVELOPE(35.2247,35.2383,31.7839,31.7733)",
   "dcat_centroid": "31.778599999999997,35.2315",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3682/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3682\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3682/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3682\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3682/manifest.json\"}",
   "id": "p16022coll230:3682",
   "dct_identifier_sm": [
     "UMN_ALMA:9924331550001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:12Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

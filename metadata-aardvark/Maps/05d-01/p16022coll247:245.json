@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Sketch of the public surveys in the state of Minnesota",
   "dct_description_sm": [
-    "Cartographic Details: Scale [1:1,140,480]. 18 miles to an in. At head of title: (F). House ex. doc. Number 1, 37th Cong., 3d sess. (Serial 1160). Dimensions: 58 x 50 centimeters"
+    "Cartographic Details: Scale [1:1,140,480]. 18 miles to an in. At head of title: (F). House ex. doc. Number 1, 37th Cong., 3d sess. (Serial 1160).",
+    "58 x 50 centimeters",
+    "1:1,140,480",
+    "General Minnesota Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "United States. Surveyor General"
   ],
   "dct_publisher_sm": [
-    "GPO"
+    "GPO;  Washington, D.C. 1862"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -18,21 +21,17 @@
   ],
   "dcat_keyword_sm": [
     "Minnesota Maps",
-    "Minnesota Surveys Maps"
+    "Minnesota Surveys Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1862"
   ],
-  "gbl_indexYear_im": [
-    "1862"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1862 TO 1862]"
-  ],
+  "dct_issued_s": "1862",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-96.5259,-89.9011,47.9495,43.4908)",
+  "locn_geometry": "POLYGON((-96.5259 47.9495, -89.9011 47.9495, -89.9011 43.4908, -96.5259 43.4908, -96.5259 47.9495))",
   "dcat_bbox": "ENVELOPE(-96.5259,-89.9011,47.9495,43.4908)",
   "dcat_centroid": "45.720150000000004,-93.2135",
   "pcdm_memberOf_sm": [
@@ -40,18 +39,15 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll247"
-  ],
-  "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "p16022coll247"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/188728\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/245/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:245\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/245/manifest.json\"}",
   "id": "p16022coll247:245",
   "dct_identifier_sm": [
-    "p16022coll247:245"
+    "UMN_ALMA:9961493360001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:14Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

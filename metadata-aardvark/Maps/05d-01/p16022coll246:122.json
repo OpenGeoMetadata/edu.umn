@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Map showing the localities of the principal mineral and vegetable products of India and the course of the trunk railways",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:8,750,000 (E 70°--E 100°/N 35°--N 5°) Relief shown by hachures. In right upper margin: Report--Colonization and settlement (India). In right lower margin: Number 326. Ordered by the House of Commons to be printed 10. June 1858. On cover: Ordered by the House of Commons, to be printed, 6 May 1858. At head of cover title: Colonization, &c. (India). Errata included. Dimensions: 37 x 40 centimeters"
+    "Cartographic Details: Scale approximately 1:8,750,000 (E 70°--E 100°/N 35°--N 5°) Relief shown by hachures. In right upper margin: Report--Colonization and settlement (India). In right lower margin: Number 326. Ordered by the House of Commons to be printed 10. June 1858. On cover: Ordered by the House of Commons, to be printed, 6 May 1858. At head of cover title: Colonization, &c. (India). Errata included.",
+    "37 x 40 centimeters",
+    "Scale approximately 1:8,750,000",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "J. & C. Walker (Firm)"
   ],
   "dct_publisher_sm": [
-    "Ordered by the House of Commons to be printed"
+    "Ordered by the House of Commons to be printed ; London"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -20,9 +23,6 @@
   "gbl_resourceType_sm": [
     "Mine maps"
   ],
-  "dct_subject_sm": [
-    "Railroads"
-  ],
   "dcat_keyword_sm": [
     "Mines and Mineral Resources India Maps",
     "Plant Products India Maps",
@@ -30,21 +30,18 @@
     "Mines and Mineral Resources",
     "Plant Products",
     "Railroads",
-    "India"
+    "India",
+    "Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1858"
   ],
-  "gbl_indexYear_im": [
-    "1858"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1858 TO 1858]"
-  ],
+  "dct_issued_s": "1858",
   "dct_spatial_sm": [
     "India"
   ],
-  "locn_geometry": "ENVELOPE(70,100,35,5)",
+  "locn_geometry": "POLYGON((70 35, 100 35, 100 5, 70 5, 70 35))",
   "dcat_bbox": "ENVELOPE(70,100,35,5)",
   "dcat_centroid": "20.0,85.0",
   "pcdm_memberOf_sm": [
@@ -52,18 +49,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/225732\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/122/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:122\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/122/manifest.json\"}",
   "id": "p16022coll246:122",
   "dct_identifier_sm": [
-    "p16022coll246:122"
+    "UMN_ALMA:9973956191801701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:18Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

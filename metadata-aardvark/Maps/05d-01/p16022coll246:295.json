@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Hindoostan",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:4,5000,000 ; (E 67°--E 100°/N 36°--N 5°). Relief shown by hachures. Inset: The Burman Territories, Assam &c. Shows military stations, post office stations, political boundaries, and railways proposed. Dimensions: 63 x 82 centimeters"
+    "Cartographic Details: Scale approximately 1:4,5000,000 ; (E 67°--E 100°/N 36°--N 5°). Relief shown by hachures. Inset: The Burman Territories, Assam &c. Shows military stations, post office stations, political boundaries, and railways proposed.",
+    "63 x 82 centimeters",
+    "Scale approximately 1:4,5000,000",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,14 +13,11 @@
     "Arrowsmith, Aaron, 1750-1823."
   ],
   "dct_publisher_sm": [
-    "Laurie, R. H."
+    "Laurie, R. H.; London"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dct_subject_sm": [
-    "Railroads"
   ],
   "dcat_keyword_sm": [
     "Administrative and Political Divisions India Maps",
@@ -26,17 +26,13 @@
     "Bangladesh Maps",
     "Bhutan Maps",
     "Nepal Maps",
-    "Burma Maps"
+    "Burma Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1845"
   ],
-  "gbl_indexYear_im": [
-    "1845"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1845 TO 1845]"
-  ],
+  "dct_issued_s": "1845",
   "dct_spatial_sm": [
     "India",
     "Sri Lanka",
@@ -45,7 +41,7 @@
     "Nepal",
     "Burma, Myanmar [Burma]"
   ],
-  "locn_geometry": "ENVELOPE(67,100,36,5)",
+  "locn_geometry": "POLYGON((67 36, 100 36, 100 5, 67 5, 67 36))",
   "dcat_bbox": "ENVELOPE(67,100,36,5)",
   "dcat_centroid": "20.5,83.5",
   "pcdm_memberOf_sm": [
@@ -53,18 +49,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/202845\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/295/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:295\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/295/manifest.json\"}",
   "id": "p16022coll246:295",
   "dct_identifier_sm": [
-    "p16022coll246:295"
+    "UMN_ALMA:9973937979301701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:28Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

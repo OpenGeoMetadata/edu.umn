@@ -1,26 +1,26 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "p16022coll246:372",
+  "dc_identifier_s": "UMN_ALMA:9973944406401701",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of the Bombay presidency.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:372",
   "solr_geom": "ENVELOPE(66.56,76.26,28.63,13.93)",
-  "solr_year_i": "1897",
   "dc_creator_sm": [
     "Poona (India : District). Photozincographic Department"
   ],
-  "dc_description_s": "Cartographic Details: Scale 1:1,900,800. 30 miles to 1 in. (E 66°34'00\"--E 76°16'00\"/N 28°38'00\"--N 13°56'00\"). Shows part of west-central India.\"Drawn & Litho: Govt. Photozinco Office Poona, 1897.\"\"(Signed) W. Gatacre, Brig: Genl.\"\"Plan Number 7.\" Dimensions: 56 x 91 centimeters",
+  "dc_description_s": "Cartographic Details: Scale 1:1,900,800. 30 miles to 1 in. (E 66°34'00\"--E 76°16'00\"/N 28°38'00\"--N 13°56'00\"). Shows part of west-central India.\"Drawn & Litho: Govt. Photozinco Office Poona, 1897.\"\"(Signed) W. Gatacre, Brig: Genl.\"\"Plan Number 7.\"|56 x 91 centimeters|Scale 1:1,900,800; 30 miles to 1 inch|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/228920\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/372/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:372\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/372/manifest.json\"}",
   "dct_spatial_sm": [
     "India"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:06Z",
+  "layer_modified_dt": "2022-09-28T02:14:57Z",
   "dc_language_sm": [
     "eng"
   ],
-  "dc_publisher_s": "Government Photozincographic Department",
+  "dc_publisher_s": "Government Photozincographic Department; Pune, India",
+  "dct_issued_s": "1897",
   "dct_temporal_sm": [
     "1897"
   ]

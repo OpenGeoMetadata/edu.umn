@@ -1,10 +1,10 @@
 {
   "dct_title_s": "Topographical map of Peoria County, Illinois.",
-  "dct_alternative_sm": [
-    "Topographical map of Peoria County, Illinois."
-  ],
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:126,720 ; (W 89°59ʹ20ʺ--W 89°26ʹ45ʺ/N 40°58ʹ31ʺ--N 40°30ʹ49ʺ).   Shows rail roads, section lines, quarries, and roads by type.   Cover title: Topographical road map of Peoria County, Illinois. Dimensions: 40 x 52 centimeters"
+    "Cartographic Details: Scale approximately 1:126,720 ; (W 89°59ʹ20ʺ--W 89°26ʹ45ʺ/N 40°58ʹ31ʺ--N 40°30ʹ49ʺ).   Shows rail roads, section lines, quarries, and roads by type.   Cover title: Topographical road map of Peoria County, Illinois.",
+    "40 x 52 centimeters",
+    "Scale approximately 1:126,720",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -27,34 +27,29 @@
     "1908"
   ],
   "dct_issued_s": "1908",
-  "gbl_indexYear_im": [
-    "1908"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1908 TO 1908]"
-  ],
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-89.98,-89.4301,40.96,40.5001)",
+  "locn_geometry": "POLYGON((-89.98 40.96, -89.4301 40.96, -89.4301 40.5001, -89.98 40.5001, -89.98 40.96))",
   "dcat_bbox": "ENVELOPE(-89.98,-89.4301,40.96,40.5001)",
   "dcat_centroid": "40.730050000000006,-89.70505",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/446/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:446\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/446/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:446\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/446/manifest.json\"}",
   "id": "p16022coll230:446",
   "dct_identifier_sm": [
     "UMN_ALMA:9973941202701701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:11Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

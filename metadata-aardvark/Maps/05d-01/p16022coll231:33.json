@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Sibley County, Minnesota",
   "dct_description_sm": [
-    "Cartographic Details: Scale not given. Townships shown in color, includes grid lines, cities, schools, churches, creameries, \"rural routes,\" and bodies of water. Includes photograph of unidentified corner building. Alt. title from copyright statement: \"Sibley Co., Minn.\" Dimensions: 17 x 32 centimeters"
+    "Cartographic Details: Scale not given. Townships shown in color, includes grid lines, cities, schools, churches, creameries, \"rural routes,\" and bodies of water. Includes photograph of unidentified corner building. Alt. title from copyright statement: \"Sibley Co., Minn.\"",
+    "17 x 32 centimeters",
+    "Scale not given.",
+    "Minnesota County Maps, Plat Books, and Atlases"
   ],
   "dct_language_sm": [
     "eng"
@@ -21,22 +24,18 @@
     "Schools Minnesota Sibley County Maps",
     "Church Buildings Minnesota Sibley County Maps",
     "Rural Roads Minnesota Sibley County Maps",
-    "Sibley County (Minn.) Administrative and Political Divisions Maps"
+    "Sibley County (Minn.) Administrative and Political Divisions Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1907"
   ],
-  "gbl_indexYear_im": [
-    "1907"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1907 TO 1907]"
-  ],
+  "dct_issued_s": "1907",
   "dct_spatial_sm": [
     "Sibley County, Minnesota",
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-94.6298,-93.7638,44.7179,44.456)",
+  "locn_geometry": "POLYGON((-94.6298 44.7179, -93.7638 44.7179, -93.7638 44.456, -94.6298 44.456, -94.6298 44.7179))",
   "dcat_bbox": "ENVELOPE(-94.6298,-93.7638,44.7179,44.456)",
   "dcat_centroid": "44.58695,-94.1968",
   "pcdm_memberOf_sm": [
@@ -44,18 +43,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll231"
+    "p16022coll231"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/188751\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/33/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:33\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/33/manifest.json\"}",
   "id": "p16022coll231:33",
   "dct_identifier_sm": [
-    "p16022coll231:33"
+    "UMN_ALMA:9930458940001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:13Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

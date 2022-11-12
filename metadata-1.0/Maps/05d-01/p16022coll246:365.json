@@ -1,27 +1,27 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "p16022coll246:365",
+  "dc_identifier_s": "UMN_ALMA:9934922890001701",
   "dc_rights_s": "Public",
   "dc_title_s": "Eastern Islands : Birmah &c.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:365",
   "solr_geom": "ENVELOPE(92,127,32,-11)",
-  "solr_year_i": "1846",
   "dc_creator_sm": [
     "Hall, Sidney",
     "Adam and Charles Black (Firm),"
   ],
-  "dc_description_s": "Cartographic Details: Scale [1:15,000,000]. Imprint derived from the atlas in which the map was issued.\"Engraved by S. Hall.\" Numbered XL. Shows boundaries, rivers and settlements. Relief shown by hachures. Greenwich meridian. Dimensions: 37 x 26 centimeters",
+  "dc_description_s": "Cartographic Details: Scale [1:15,000,000]. Imprint derived from the atlas in which the map was issued.\"Engraved by S. Hall.\" Numbered XL. Shows boundaries, rivers and settlements. Relief shown by hachures. Greenwich meridian.|37 x 26 centimeters|Scale [1:15,000,000]|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/200855\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/365/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:365\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/365/manifest.json\"}",
   "dct_spatial_sm": [
     "Burma, Myanmar [Burma]"
   ],
-  "layer_modified_dt": "2022-04-01T15:33:20Z",
+  "layer_modified_dt": "2022-09-28T02:14:27Z",
   "dc_language_sm": [
     "eng"
   ],
-  "dc_publisher_s": "Adam & Charles Black, et al",
+  "dc_publisher_s": "Adam & Charles Black, et al ; Edinburgh",
+  "dct_issued_s": "1846",
   "dct_temporal_sm": [
     "1846"
   ]

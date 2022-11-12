@@ -6,17 +6,21 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3491",
   "solr_geom": "ENVELOPE(1.1333,4.3333,40.1,38.6)",
-  "solr_year_i": "1770",
   "dc_creator_sm": [
     "Santini, P"
   ],
-  "dc_description_s": "Insets: Plan du Port et de la Ville de Mahon et de fes forts -- Mer Mediterranee.|53 x 40 centimeters|Scale approximately 1:475,000",
+  "dc_description_s": "Insets: Plan du Port et de la Ville de Mahon et de fes forts -- Mer Mediterranee.|53 x 40 centimeters|Scale approximately 1:475,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3491/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3491\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3491/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:28:42Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3491\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3491/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Spain",
+    "Europe"
+  ],
+  "layer_modified_dt": "2022-09-28T02:15:59Z",
   "dc_language_sm": [
     "fre"
   ],
+  "dc_publisher_s": "(Venice)",
   "dct_issued_s": "1770 - 1780",
   "dct_temporal_sm": [
     "1770-1780"

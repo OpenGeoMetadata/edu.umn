@@ -1,16 +1,15 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "p16022coll245:962",
+  "dc_identifier_s": "UMN_ALMA:9953630580001701",
   "dc_rights_s": "Public",
   "dc_title_s": "Hudson's indexed map of Minneapolis",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll245:962",
   "solr_geom": "ENVELOPE(-93.3936,-92.9885,45.0948,44.8977)",
-  "solr_year_i": "1920",
   "dc_creator_sm": [
     "Hudson Map Company."
   ],
-  "dc_description_s": "Cartographic Details: Scale approximately 1:21,250. Scale incorrectly stated at 1/6000. Includes index. At lower right: C.L.H. & H.D.G., Del.. In lower margin: Copyright The Hudson Map Company. Dimensions: 82 x 52 centimeters",
+  "dc_description_s": "Cartographic Details: Scale approximately 1:21,250. Scale incorrectly stated at 1/6000. Includes index. At lower right: C.L.H. & H.D.G., Del.. In lower margin: Copyright The Hudson Map Company.|82 x 52 centimeters|Scale approximately 1:21,250|Minneapolis and St. Paul Maps and Atlases",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:962\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/962/manifest.json\"}",
   "dct_spatial_sm": [
@@ -18,11 +17,12 @@
     "Saint Paul, Minnesota",
     "Minnesota"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:19Z",
+  "layer_modified_dt": "2022-09-28T02:15:30Z",
   "dc_language_sm": [
     "eng"
   ],
   "dc_publisher_s": "Hudson Co., (Minneapolis)",
+  "dct_issued_s": "1920",
   "dct_temporal_sm": [
     "1920"
   ]

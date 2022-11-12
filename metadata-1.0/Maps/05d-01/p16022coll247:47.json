@@ -6,17 +6,17 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll247:47",
   "solr_geom": "ENVELOPE(-89.5,-97,49.5,43.5)",
-  "solr_year_i": "1906",
   "dc_creator_sm": [
-    "Geographical Publishing Co.; Farm, Stock, & Home (Minneapolis, Minn.)"
+    "Geographical Publishing Co.",
+    "Farm, Stock, & Home (Minneapolis, Minn.)"
   ],
-  "dc_description_s": "Cartographic Details: Scale [1:950,400]. 1 in. = 15 mi. (W 97°00°--W 89°30 ª/N 49°30 ª--N 43°30 ª). Index on verso. Insets: Minest in Saint Louis County -- [Cook County] -- Saint Paul, Minneapolis and vicinity. Sheet includes: ill. of state capitol, list of agricultural associations, and statistics. Dimensions: 89 x 71 centimeters",
+  "dc_description_s": "Cartographic Details: Scale [1:950,400]. 1 in. = 15 mi. (W 97°00°--W 89°30 ª/N 49°30 ª--N 43°30 ª). Index on verso. Insets: Minest in Saint Louis County -- [Cook County] -- Saint Paul, Minneapolis and vicinity. Sheet includes: ill. of state capitol, list of agricultural associations, and statistics.|89 x 71 centimeters|1:950,400|General Minnesota Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll247/id/47/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:47\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/47/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:47\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/47/manifest.json\"}",
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:15Z",
+  "layer_modified_dt": "2022-09-28T02:16:39Z",
   "dc_language_sm": [
     "eng"
   ],

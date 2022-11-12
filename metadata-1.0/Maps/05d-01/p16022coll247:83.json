@@ -2,21 +2,24 @@
   "geoblacklight_version": "1.0",
   "dc_identifier_s": "UMN_ALMA:9942809170001701",
   "dc_rights_s": "Public",
-  "dc_title_s": "Map of the Mississippi River~~from Lake Itasca to the Falls of Saint Anthony",
+  "dc_title_s": "Map of the Mississippi River : from Lake Itasca to the Falls of Saint Anthony",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll247:83",
   "solr_geom": "ENVELOPE(-95.38,-92.56,47.25,44.95)",
-  "solr_year_i": "1881",
   "dc_creator_sm": [
-    "Morris, C. J. A.; Parkinson, J. B.; Farquhar, Francis Ulric; Allen, Charles Julius, 1840-1915; United States. Army. Corps of Engineers."
+    "Morris, C. J. A.",
+    "Parkinson, J. B.",
+    "Farquhar, Francis Ulric",
+    "Allen, Charles Julius, 1840-1915",
+    "United States. Army. Corps of Engineers."
   ],
-  "dc_description_s": "Includes index sheet. Relief shown pictorially. Dimensions: 38 x 60 centimeters",
+  "dc_description_s": "Includes index sheet. Relief shown pictorially.|38 x 60 centimeters|1:63,360 (approximately)|General Minnesota Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll247/id/83/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:83\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/83/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:83\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/83/manifest.json\"}",
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:56Z",
+  "layer_modified_dt": "2022-09-28T02:16:38Z",
   "dc_language_sm": [
     "eng"
   ],

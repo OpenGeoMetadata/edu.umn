@@ -1,13 +1,16 @@
 {
   "dct_title_s": "Military map of India shewing the disposition of the armies of the Bengal, Madras, and Bombay presidencies and the present condition of the army of Bengal.",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:4,000,000 ; (E 65°57'00\"--E 99°27'00\"/N 37°17'00\"--N 7°41'00\"). Relief shown by hachures.\"Surveyor General's Office Calcutta 6th Oct. 1857.\" Dimensions: 78 x 88 centimeters"
+    "Cartographic Details: Scale approximately 1:4,000,000 ; (E 65°57'00\"--E 99°27'00\"/N 37°17'00\"--N 7°41'00\"). Relief shown by hachures.\"Surveyor General's Office Calcutta 6th Oct. 1857.\"",
+    "78 x 88 centimeters",
+    "Scale approximately 1:4,000,000",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_publisher_sm": [
-    "Smith, H.M."
+    "Smith, H.M. ; Calcutta"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -25,16 +28,11 @@
   "dct_temporal_sm": [
     "1857"
   ],
-  "gbl_indexYear_im": [
-    "1857"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1857 TO 1857]"
-  ],
+  "dct_issued_s": "1857",
   "dct_spatial_sm": [
     "India"
   ],
-  "locn_geometry": "ENVELOPE(65.95,99.45,37.28,7.68)",
+  "locn_geometry": "POLYGON((65.95 37.28, 99.45 37.28, 99.45 7.68, 65.95 7.68, 65.95 37.28))",
   "dcat_bbox": "ENVELOPE(65.95,99.45,37.28,7.68)",
   "dcat_centroid": "22.48,82.7",
   "pcdm_memberOf_sm": [
@@ -42,18 +40,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/202838\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/364/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:364\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/364/manifest.json\"}",
   "id": "p16022coll246:364",
   "dct_identifier_sm": [
-    "p16022coll246:364"
+    "UMN_ALMA:9973938305201701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:41Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

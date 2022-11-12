@@ -5,17 +5,18 @@
   "dc_title_s": "Atlas of the city of New York : from official records, private plans and actual surveys, volume 4",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll205:120",
-  "solr_year_i": "1884",
+  "solr_geom": "ENVELOPE(-74.01333333,-73.93333333,40.79083333,40.74638889)",
   "dc_creator_sm": [
     "Robinson, E."
   ],
-  "dc_description_s": "56 centimeters|Scales differ.",
+  "dc_description_s": "56 centimeters|Scales differ.|City Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll205/id/120/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:120\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/120/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:120\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/120/manifest.json\"}",
   "dct_spatial_sm": [
-    "New York, New York"
+    "New York, New York",
+    "New York"
   ],
-  "layer_modified_dt": "2022-02-27T01:40:07Z",
+  "layer_modified_dt": "2022-09-28T02:14:47Z",
   "dc_language_sm": [
     "eng"
   ],

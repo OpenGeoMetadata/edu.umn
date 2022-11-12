@@ -1,13 +1,20 @@
 {
   "dct_title_s": "The marches of the British armies in the peninsula of India : during the campaigns of 1790 and 1791",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:750,000 ; (E 75°02'00\"--E 80°18'00\"/N 13°20'00\"--N 9°59'00\"). Relief shown by hachures.\"Compiled from the original maps, drawn by Capt. A. Beatson and Capt. A. Allan : with some particulars added in explanation by J. Rennell.\"\"Publishd by J. Rennell Feb. 21, 1792.\"\"Plan work by I. Walker.\"\"Writing by T. Harmar.\" Dimensions: 53 x 78 centimeters"
+    "Cartographic Details: Scale approximately 1:750,000 ; (E 75°02'00\"--E 80°18'00\"/N 13°20'00\"--N 9°59'00\"). Relief shown by hachures.\"Compiled from the original maps, drawn by Capt. A. Beatson and Capt. A. Allan : with some particulars added in explanation by J. Rennell.\"\"Publishd by J. Rennell Feb. 21, 1792.\"\"Plan work by I. Walker.\"\"Writing by T. Harmar.\"",
+    "53 x 78 centimeters",
+    "Scale approximately 1:750,000",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Rennell, James, 1742-1830"
+    "Rennell, James, 1742-1830",
+    "Walker, I.",
+    "Harmar, T.",
+    "Beatson, A.",
+    "Allan, A."
   ],
   "dct_publisher_sm": [
     "Rennell, J.; London"
@@ -23,22 +30,18 @@
   "dcat_keyword_sm": [
     "Military Geography India, South Maps",
     "India, South Maps",
-    "Military Maps"
+    "Military Maps",
+    "Early Maps"
   ],
   "dct_temporal_sm": [
     "1792"
   ],
-  "gbl_indexYear_im": [
-    "1792"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1792 TO 1792]"
-  ],
+  "dct_issued_s": "1792",
   "dct_spatial_sm": [
     "India",
     "Asia"
   ],
-  "locn_geometry": "ENVELOPE(75.03,80.3,13.33,9.98)",
+  "locn_geometry": "POLYGON((75.03 13.33, 80.3 13.33, 80.3 9.98, 75.03 9.98, 75.03 13.33))",
   "dcat_bbox": "ENVELOPE(75.03,80.3,13.33,9.98)",
   "dcat_centroid": "11.655000000000001,77.66499999999999",
   "pcdm_memberOf_sm": [
@@ -46,18 +49,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/202843\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/315/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:315\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/315/manifest.json\"}",
   "id": "p16022coll246:315",
   "dct_identifier_sm": [
-    "p16022coll246:315"
+    "UMN_ALMA:9973937974301701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:12Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

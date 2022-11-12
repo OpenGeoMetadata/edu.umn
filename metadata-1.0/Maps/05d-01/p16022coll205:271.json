@@ -2,21 +2,22 @@
   "geoblacklight_version": "1.0",
   "dc_identifier_s": "UMN_ALMA:9960102570001701",
   "dc_rights_s": "Public",
-  "dc_title_s": "Nouveau plan itinéraire de la ville de Paris~~divisé en 12 arrondissements avec tous les édifices publics",
+  "dc_title_s": "Nouveau plan itinéraire de la ville de Paris : divisé en 12 arrondissements avec tous les édifices publics",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll205:271",
   "solr_geom": "ENVELOPE(2.21,2.46,48.9,48.8001)",
-  "solr_year_i": "1835",
   "dc_creator_sm": [
-    "Perrier, active 1760-1824; Simonneau, Charles active 1803-1838; Andriveau-Goujon, J."
+    "Perrier, active 1760-1824",
+    "Simonneau, Charles active 1803-1838",
+    "Andriveau-Goujon, J."
   ],
-  "dc_description_s": "Indexed.   Includes text and tables. Dimensions: 58 x 86 centimeters",
+  "dc_description_s": "Indexed.   Includes text and tables.|58 x 86 centimeters|Scale approximately 1:9,500|City Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll205/id/271/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:271\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/271/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:271\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/271/manifest.json\"}",
   "dct_spatial_sm": [
     "France"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:48Z",
+  "layer_modified_dt": "2022-09-28T02:14:24Z",
   "dc_language_sm": [
     "fre"
   ],

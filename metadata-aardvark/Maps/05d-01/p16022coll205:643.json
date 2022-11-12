@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Davenport, Ia. 1888",
-  "dct_alternative_sm": [
-    "Davenport, Ia. 1888"
+  "dct_description_sm": [
+    "Photocopy.; Bird's-eye-view, with relief shown pictorially.; Indexed.; Includes 4 illus.; \"Reproduced by persmission of the Putnam Museum, Davenport, Iowa.\"",
+    "30 x 59 centimeters, on sheet 43 x 70 centimeters",
+    "Perspective map not drawn to scale.",
+    "City Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -20,23 +23,18 @@
     "1888"
   ],
   "dct_issued_s": "1888",
-  "gbl_indexYear_im": [
-    "1888"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1888 TO 1888]"
-  ],
   "dct_spatial_sm": [
     "Davenport, Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-90.6878,-90.4906,41.6203,41.4603)",
+  "locn_geometry": "POLYGON((-90.6878 41.6203, -90.4906 41.6203, -90.4906 41.4603, -90.6878 41.4603, -90.6878 41.6203))",
   "dcat_bbox": "ENVELOPE(-90.6878,-90.4906,41.6203,41.4603)",
   "dcat_centroid": "41.5403,-90.5892",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll205"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -48,6 +46,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9924399950001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:34Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

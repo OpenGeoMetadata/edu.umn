@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Apostle Islands and Harbor of Bayfield and its surroundings",
-  "dct_alternative_sm": [
-    "Apostle Islands and Harbor of Bayfield and its surroundings"
+  "dct_description_sm": [
+    "Shows railroads and acreage of the Apostle Islands.; \"Bayfield, Wis., situated upon the largest and best protected Harbor on this Continent, and sheltered by 22 Islands, is rapidly becoming the most prominent Watering-place of this Country.\"; \"Apostle Islands, to be the fruit fields of the North West.\"",
+    "75 x 53 centimeters, on sheet 80 x 59 centimeters",
+    "Scale approximately 1:134,112.",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -20,23 +23,18 @@
     "1871"
   ],
   "dct_issued_s": "1871",
-  "gbl_indexYear_im": [
-    "1871"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1871 TO 1871]"
-  ],
   "dct_spatial_sm": [
     "Wisconsin"
   ],
-  "locn_geometry": "ENVELOPE(-91.1667,-90.3458,47.0944,46.4)",
+  "locn_geometry": "POLYGON((-91.1667 47.0944, -90.3458 47.0944, -90.3458 46.4, -91.1667 46.4, -91.1667 47.0944))",
   "dcat_bbox": "ENVELOPE(-91.1667,-90.3458,47.0944,46.4)",
   "dcat_centroid": "46.7472,-90.75625",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -48,6 +46,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9974002903601701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:31Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

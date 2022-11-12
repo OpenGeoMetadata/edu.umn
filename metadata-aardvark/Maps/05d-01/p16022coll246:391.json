@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Ins. Ceilan quae incolis Tenarisin dicitur",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:970,000 (E 79°22'00\"--E 82°04'00\"/N 10°02'00\"--N 5°43'00\"). Map of Ceylon (Sri Lanka) with relief shown pictorially. Oritented with north to the left.\"Ceilan hujus insulae descri ptionem aè Cypriano Sanchez cosmographo Hispano deline ; atam, huic nostro operi inse: rendam, dedit Clarissimus vir Petrus Plancius.\" From: Atlas sive cosmographicae meditationes de fabrica mundi et fabricati figura / Gerard Mercator and Jodocus Hondius. Amsterdam : Jodocus Hondius. French text on verso: L'Isle de Zeilan, ov Ceilon (2 pages). Page numbers on verso: 685 and 688. In Latin and French. Dimensions: 33 x 48 centimeters"
+    "Cartographic Details: Scale approximately 1:970,000 (E 79°22'00\"--E 82°04'00\"/N 10°02'00\"--N 5°43'00\"). Map of Ceylon (Sri Lanka) with relief shown pictorially. Oritented with north to the left.\"Ceilan hujus insulae descri ptionem aè Cypriano Sanchez cosmographo Hispano deline ; atam, huic nostro operi inse: rendam, dedit Clarissimus vir Petrus Plancius.\" From: Atlas sive cosmographicae meditationes de fabrica mundi et fabricati figura / Gerard Mercator and Jodocus Hondius. Amsterdam : Jodocus Hondius. French text on verso: L'Isle de Zeilan, ov Ceilon (2 pages). Page numbers on verso: 685 and 688. In Latin and French.",
+    "33 x 48 centimeters",
+    "Scale approximately 1:970,000",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "fre"
@@ -13,7 +16,7 @@
     "Mercator, Gerhard, 1512-1594"
   ],
   "dct_publisher_sm": [
-    "Jodocus Hondius"
+    "Jodocus Hondius; Amsterdam"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -26,16 +29,11 @@
   "dct_temporal_sm": [
     "1619"
   ],
-  "gbl_indexYear_im": [
-    "1619"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1619 TO 1619]"
-  ],
+  "dct_issued_s": "1619",
   "dct_spatial_sm": [
     "Sri Lanka"
   ],
-  "locn_geometry": "ENVELOPE(79.36,82.06,10.03,5.71)",
+  "locn_geometry": "POLYGON((79.36 10.03, 82.06 10.03, 82.06 5.71, 79.36 5.71, 79.36 10.03))",
   "dcat_bbox": "ENVELOPE(79.36,82.06,10.03,5.71)",
   "dcat_centroid": "7.869999999999999,80.71000000000001",
   "pcdm_memberOf_sm": [
@@ -43,18 +41,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/228992\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/391/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:391\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/391/manifest.json\"}",
   "id": "p16022coll246:391",
   "dct_identifier_sm": [
-    "p16022coll246:391"
+    "UMN_ALMA:9973944504601701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:36Z",
+  "gbl_mdModified_dt": "2022-09-28T02:13:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

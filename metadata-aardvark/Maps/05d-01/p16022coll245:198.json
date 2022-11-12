@@ -1,10 +1,10 @@
 {
   "dct_title_s": "General plan for the improvement of Minnehaha Parkway",
-  "dct_alternative_sm": [
-    "General plan for the improvement of Minnehaha Parkway"
-  ],
   "dct_description_sm": [
-    "Shows proposed re-routing of Minnehaha Creek, trees to be planted, proposed route of Minnehaha Parkway, and walking trails.\"January 1912.\"Oriented with north toward the upper right or upper left on some sheets.Includes index to sheet names and numbers. Contents: Sheet no. 1. From Lake Harriet to Lyndale Ave. -- Sheet no. 2. From Lyndale Ave. to Nicollet Ave. -- Sheet no. 3. From Nicollet Ave. to Portland Ave. -- Sheet no. 4. From Portland Ave. to 12th Ave. South -- Sheet no. 5. From 12th Ave. South to Cedar Avenue -- Sheet no. 6. From Cedar Avenue to 33d. Ave. South -- Sheet no. 7. From 33d. Ave. So. to Minnehaha Falls. Dimensions: 7 maps ; each 32 x 61 centimeters, sheets 35 x 63 centimeters"
+    "Shows proposed re-routing of Minnehaha Creek, trees to be planted, proposed route of Minnehaha Parkway, and walking trails.\"January 1912.\"Oriented with north toward the upper right or upper left on some sheets.Includes index to sheet names and numbers. Contents: Sheet no. 1. From Lake Harriet to Lyndale Ave. -- Sheet no. 2. From Lyndale Ave. to Nicollet Ave. -- Sheet no. 3. From Nicollet Ave. to Portland Ave. -- Sheet no. 4. From Portland Ave. to 12th Ave. South -- Sheet no. 5. From 12th Ave. South to Cedar Avenue -- Sheet no. 6. From Cedar Avenue to 33d. Ave. South -- Sheet no. 7. From 33d. Ave. So. to Minnehaha Falls.",
+    "7 maps ; each 32 x 61 centimeters, sheets 35 x 63 centimeters",
+    "Approximately 1:1,800",
+    "Minneapolis and St. Paul Maps and Atlases"
   ],
   "dct_language_sm": [
     "eng"
@@ -29,34 +29,29 @@
     "1912"
   ],
   "dct_issued_s": "1912",
-  "gbl_indexYear_im": [
-    "1912"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1912 TO 1912]"
-  ],
   "dct_spatial_sm": [
     "Minneapolis, Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-93.3,-93.2001,44.91,44.9)",
+  "locn_geometry": "POLYGON((-93.3 44.91, -93.2001 44.91, -93.2001 44.9, -93.3 44.9, -93.3 44.91))",
   "dcat_bbox": "ENVELOPE(-93.3,-93.2001,44.91,44.9)",
   "dcat_centroid": "44.905,-93.25005",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll245"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll245/id/198/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:198\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/198/manifest.json\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis5.uspatial.umn.edu/arcgis/rest/services/HistoricalMaps/HistoricalMaps_MinnehahaParkway1912/MapServer\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:198\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/198/manifest.json\"}",
   "id": "p16022coll245:198",
   "dct_identifier_sm": [
     "UMN_ALMA:9925924470001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:02Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

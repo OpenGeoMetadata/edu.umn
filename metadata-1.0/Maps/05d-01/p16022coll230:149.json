@@ -5,14 +5,17 @@
   "dc_title_s": "Preussen's See-Atlas : Geschichte; √úbersichtskarte; Leuchtth√ºrme; K√ºstenansichten",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:149",
-  "solr_year_i": "1841",
+  "solr_geom": "ENVELOPE(5.85,52.08333333,55.86666667,47.26666667)",
   "dc_creator_sm": [
     "Austria. Handels-Ministerium."
   ],
-  "dc_description_s": "14 maps ; on sheets 60 x 85 cm or smaller|Scale 1:100,000",
+  "dc_description_s": "14 maps ; on sheets 60 x 85 cm or smaller|Scale 1:100,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/149/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:149\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/149/manifest.json\"}",
-  "layer_modified_dt": "2022-02-27T01:40:33Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:149\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/149/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "layer_modified_dt": "2022-09-28T02:14:26Z",
   "dc_language_sm": [
     "ger"
   ],

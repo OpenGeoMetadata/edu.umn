@@ -1,0 +1,55 @@
+{
+  "dct_title_s": "Map of St. Paul",
+  "dct_description_sm": [
+    "Shows \"Season of 1918\" streets oiled and streets sprinkled with water.; \"Copyright 1919 by H.M. Smyth Printing Co.\"; \"Street sprinkling, plate no. 4\"--Verso.",
+    "42 x 58 Centimeters",
+    "Scale approximately 1:28,000",
+    "Minneapolis and St. Paul Maps and Atlases"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Saint Paul (Minn.). Department of Public Works"
+  ],
+  "dct_publisher_sm": [
+    ", 1919"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Streets",
+    "Maintenance and Repair",
+    "Roads",
+    "Maintenance and Repair"
+  ],
+  "dct_issued_s": "1919",
+  "dct_spatial_sm": [
+    "Saint Paul, Minnesota",
+    "Minnesota"
+  ],
+  "locn_geometry": "POLYGON((-93.20777778 44.99194444, -93.00416667 44.99194444, -93.00416667 44.88722222, -93.20777778 44.88722222, -93.20777778 44.99194444))",
+  "dcat_bbox": "ENVELOPE(-93.20777778,-93.00416667,44.99194444,44.88722222)",
+  "dcat_centroid": "44.93958333,-93.105972225",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-01",
+    "p16022coll245"
+  ],
+  "dct_rights_sm": [
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:1092\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/1092/manifest.json\"}",
+  "id": "p16022coll245:1092",
+  "dct_identifier_sm": [
+    "UMN_ALMA:9978418001001701"
+  ],
+  "gbl_mdModified_dt": "2022-09-28T02:16:26Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

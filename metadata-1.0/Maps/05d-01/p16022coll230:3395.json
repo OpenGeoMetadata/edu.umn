@@ -6,18 +6,21 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3395",
   "solr_geom": "ENVELOPE(11.2333,12.7167,46.4333,45.9)",
-  "solr_year_i": "1924",
   "dc_creator_sm": [
     "Hôtel Karersee"
   ],
-  "dc_description_s": "Relief shown pictorially and with spot heights.; Relief section shows Dolomite Alps in full color, surrounding area shown in black, red, and blue on white for approaching roads and nearby cities.; Folded verso includes hotel advertisements.|57 x 60 centimeters, folded to 20 x 13 centimeters|Scale not given",
+  "dc_description_s": "Relief shown pictorially and with spot heights.; Relief section shows Dolomite Alps in full color, surrounding area shown in black, red, and blue on white for approaching roads and nearby cities.; Folded verso includes hotel advertisements.|57 x 60 centimeters, folded to 20 x 13 centimeters|Scale not given|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3395/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3395\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3395/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:28:10Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3395\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3395/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Italy",
+    "Europe"
+  ],
+  "layer_modified_dt": "2022-09-28T02:15:37Z",
   "dc_language_sm": [
     "eng"
   ],
-  "dc_publisher_s": "A. Trúb & C. Aarau. ",
+  "dc_publisher_s": "A. Trúb & C. Aarau. (Lugano)",
   "dct_issued_s": "1924",
   "dct_temporal_sm": [
     "1924"

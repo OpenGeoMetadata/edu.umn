@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Map of Minnesota territory",
-  "dct_alternative_sm": [
-    "Map of Minnesota territory"
+  "dct_description_sm": [
+    "Relief shown by hachures.; Shows counties, roads, settlements, Indian villages, military posts, and the Dakota reservation.; Prime meridians: Greenwich and Washington.; In lower margin: Published by L[I?]edfield, 110 & 112 Nassau St. [New York].; 110 & 112 Nassau St., New York was address of publisher Justus Starr Redfield.; Date of publication based on county formation.",
+    "30 x 37 centimeters",
+    "Scale [ca. 1:2,410,000]",
+    "General Minnesota Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -26,34 +29,29 @@
     "1853"
   ],
   "dct_issued_s": "1853",
-  "gbl_indexYear_im": [
-    "1853"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1853 TO 1853]"
-  ],
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-102.8333,-90,49.3833,42.6667)",
+  "locn_geometry": "POLYGON((-102.8333 49.3833, -90 49.3833, -90 42.6667, -102.8333 42.6667, -102.8333 49.3833))",
   "dcat_bbox": "ENVELOPE(-102.8333,-90,49.3833,42.6667)",
   "dcat_centroid": "46.025,-96.41665",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll247"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll247/id/307/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:307\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/307/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:307\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/307/manifest.json\"}",
   "id": "p16022coll247:307",
   "dct_identifier_sm": [
     "UMN_ALMA:9975746300001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:19Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

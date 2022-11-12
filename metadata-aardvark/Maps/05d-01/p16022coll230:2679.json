@@ -1,12 +1,10 @@
 {
   "dct_title_s": "The Federal Aid Highway System progress map : [California]",
-  "dct_alternative_sm": [
-    "The Federal Aid Highway System progress map : [California]"
-  ],
   "dct_description_sm": [
     "Index on verso of each sheet.; Shows various types of federal roads, national forests, parks, monuments and military reservations. Pavement types shown by letters.; \"Base map from U.S. Geological Survey state map.\"; \"Approved federal aid mileage, California, 5,238.00.\"; \"Data corrected to July 1, 1929.\"",
     "on sheets 55 x 80 centimeters",
-    "Scale 1:760,320; 1 inch = 12 miles"
+    "Scale 1:760,320; 1 inch = 12 miles",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -15,7 +13,7 @@
     "United States. Bureau of Public Roads"
   ],
   "dct_publisher_sm": [
-    "Bureau of Public Roads"
+    "Bureau of Public Roads (Washington,  D.C)"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -30,34 +28,30 @@
   "dct_temporal_sm": [
     "1929"
   ],
-  "gbl_indexYear_im": [
-    "1929"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1929 TO 1929]"
-  ],
+  "dct_issued_s": "1929",
   "dct_spatial_sm": [
     "California"
   ],
-  "locn_geometry": "ENVELOPE(-124.4167,-114.1167,42.0,32.3333)",
+  "locn_geometry": "POLYGON((-124.4167 42.0, -114.1167 42.0, -114.1167 32.3333, -124.4167 32.3333, -124.4167 42.0))",
   "dcat_bbox": "ENVELOPE(-124.4167,-114.1167,42.0,32.3333)",
   "dcat_centroid": "37.166650000000004,-119.2667",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/2679/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2679\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2679/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2679\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2679/manifest.json\"}",
   "id": "p16022coll230:2679",
   "dct_identifier_sm": [
     "UMN_ALMA:9917838950001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:30Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,26 +1,27 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "p16022coll246:398",
+  "dc_identifier_s": "UMN_ALMA:9973943402101701",
   "dc_rights_s": "Public",
   "dc_title_s": "Carte particulieère de la Chine",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:398",
   "solr_geom": "ENVELOPE(94.93,130.46,43.01,17.65)",
-  "solr_year_i": "1834",
   "dc_creator_sm": [
     "de Saint-Martin, Louis Vivien, 1802-1897",
     "Bovinet, Giraldon"
   ],
+  "dc_description_s": "Map of China showing provinces, rivers, towns and with relief shown pictorially. Includes a table of chinese words translated into french. Plate 22 from: Atlas universel : pour servir a l'etude de la geographie et de l'histoire anciennes et modernes. Paris : Desenne & Menard, 1834. In French.|Scale not recorded.|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/229180\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/398/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:398\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/398/manifest.json\"}",
   "dct_spatial_sm": [
     "People's Republic of China, China"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:21Z",
+  "layer_modified_dt": "2022-09-28T02:14:23Z",
   "dc_language_sm": [
     "fre"
   ],
-  "dc_publisher_s": "Desenne & Menard",
+  "dc_publisher_s": "Desenne & Menard ; Paris",
+  "dct_issued_s": "1834",
   "dct_temporal_sm": [
     "1834"
   ]

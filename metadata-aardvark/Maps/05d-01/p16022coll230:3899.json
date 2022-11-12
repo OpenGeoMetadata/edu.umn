@@ -1,12 +1,10 @@
 {
   "dct_title_s": "Selangor : Federated Malay States 1926",
-  "dct_alternative_sm": [
-    "Selangor : Federated Malay States 1926"
-  ],
   "dct_description_sm": [
     "Map of Selangor showing state, district and town boundaries, transportation, water features, cultivation, vegetation, mining, populated places and public buildings. Relief shown by spot heights.; Inset: Malaya [location map].; Prime meridian: Greenwich.; \"F.M.S. Surveys No. 97-1926\".",
     "139 x 96 centimeters",
-    "Scale [1:126 720]; 2 miles to an inch"
+    "Scale [1:126 720]; 2 miles to an inch",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -25,31 +23,29 @@
     "1926"
   ],
   "dct_issued_s": "1926",
-  "gbl_indexYear_im": [
-    "1926"
+  "dct_spatial_sm": [
+    "Asia"
   ],
-  "gbl_dateRange_drsim": [
-    "[1926 TO 1926]"
-  ],
-  "locn_geometry": "ENVELOPE(100.9167,102.0,3.9167,2.3333)",
+  "locn_geometry": "POLYGON((100.9167 3.9167, 102.0 3.9167, 102.0 2.3333, 100.9167 2.3333, 100.9167 3.9167))",
   "dcat_bbox": "ENVELOPE(100.9167,102.0,3.9167,2.3333)",
   "dcat_centroid": "3.125,101.45835",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3899/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3899\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3899/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3899\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3899/manifest.json\"}",
   "id": "p16022coll230:3899",
   "dct_identifier_sm": [
     "UMN_ALMA:9917847900001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:40Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

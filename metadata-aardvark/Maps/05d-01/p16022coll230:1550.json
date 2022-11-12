@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Map of the southern and south-western states : engraved to accompany Appleton's traveller's guide",
-  "dct_alternative_sm": [
-    "Map of the southern and south-western states : engraved to accompany Appleton's traveller's guide"
+  "dct_description_sm": [
+    "Entered according to Act of Congress, 1849, by W. Williams in the Clerk's Office of the District Court of Eastern Pennsylvania.; Removed from: Appleton's southern and western travellers' guide / W. Williams (New York : D. Appleton & Co., 1850, c1849).; Prime meridians: Greenwich and Washington.; Insets: Map of the state of Texas -- Map of eastern Virginia &c.",
+    "30 x 44 centimeters",
+    "Scale approximately 1:4,130,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -24,23 +27,18 @@
     "1849"
   ],
   "dct_issued_s": "1849",
-  "gbl_indexYear_im": [
-    "1849"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1849 TO 1849]"
-  ],
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-95.0,-75.0,37.0,26.0)",
+  "locn_geometry": "POLYGON((-95.0 37.0, -75.0 37.0, -75.0 26.0, -95.0 26.0, -95.0 37.0))",
   "dcat_bbox": "ENVELOPE(-95.0,-75.0,37.0,26.0)",
   "dcat_centroid": "31.5,-85.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -52,6 +50,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9926875840001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:09Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:28Z",
   "gbl_mdVersion_s": "Aardvark"
 }

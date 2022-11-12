@@ -1,16 +1,20 @@
 {
   "dct_title_s": "Official highway map Minnesota",
-  "dct_alternative_sm": [
-    "Official highway map Minnesota"
-  ],
   "dct_description_sm": [
-    "Published by Dept. of Highways 1925-1964. Some sheets include distance chart, local route maps, index, and charts. Col. illus., distance chart, local route maps, index, and text on verso of some sheets. Dimensions: 94 x 79 centimeters"
+    "Published by Dept. of Highways 1925-1964. Some sheets include distance chart, local route maps, index, and charts. Col. illus., distance chart, local route maps, index, and text on verso of some sheets.",
+    "94 x 79 centimeters",
+    "Scale varies.",
+    "Minnesota Transportation Maps"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Minnesota. Department of Transportation; Minnesota. Department of Highways; Minnesota. Department of Highways. Planning and Programming Division; Minnesota. Transportation and Transit Planning and Programming Division; Minnesota. Transportation Planning and Programming Division."
+    "Minnesota. Department of Transportation",
+    "Minnesota. Department of Highways",
+    "Minnesota. Department of Highways. Planning and Programming Division",
+    "Minnesota. Transportation and Transit Planning and Programming Division",
+    "Minnesota. Transportation Planning and Programming Division."
   ],
   "dct_publisher_sm": [
     "Department of HIghways (St. Paul, Minnesota)"
@@ -27,34 +31,29 @@
     "1936"
   ],
   "dct_issued_s": "1936",
-  "gbl_indexYear_im": [
-    "1936"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1936 TO 1936]"
-  ],
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-97.23,-89.48,49.38,43.48)",
+  "locn_geometry": "POLYGON((-97.23 49.38, -89.48 49.38, -89.48 43.48, -97.23 43.48, -97.23 49.38))",
   "dcat_bbox": "ENVELOPE(-97.23,-89.48,49.38,43.48)",
   "dcat_centroid": "46.43,-93.355",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll206"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll206/id/95/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll206:95\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll206/95/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll206:95\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll206/95/manifest.json\"}",
   "id": "p16022coll206:95",
   "dct_identifier_sm": [
     "UMN_ALMA:9951303670001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:27Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

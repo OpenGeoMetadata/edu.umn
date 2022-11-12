@@ -1,12 +1,10 @@
 {
   "dct_title_s": "South Pacific, Fiji Islands",
-  "dct_alternative_sm": [
-    "South Pacific, Fiji Islands"
-  ],
   "dct_description_sm": [
     "Hydrographic chart of the Fijian Islands showing towns and geographical features; In lower left margin: \"Small corrections II.84, IX.84, ... 1918-835.\"; Relief shown by hachures and spot height. Depth shown by bathymetric soundings.; Oriented with north slightly to the right.; \"From the surveys of Captain H.M. Denham, R.N.; F.R.S. 1854-6. Lieutenants W.U. Moore and G.E. Richards, R.N. 1876-82 with additions from the works of Commander C. Wilkes, U.S.N. and various other authorities.\"; \"2691\"--lower right.",
     "63 x 96 centimeters",
-    "Scale approximately 1:740,000"
+    "Scale approximately 1:740,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -29,31 +27,29 @@
     "1918"
   ],
   "dct_issued_s": "1918",
-  "gbl_indexYear_im": [
-    "1918"
+  "dct_spatial_sm": [
+    "Fiji"
   ],
-  "gbl_dateRange_drsim": [
-    "[1918 TO 1918]"
-  ],
-  "locn_geometry": "ENVELOPE(176.0,178.0,-16.0,-20.0)",
+  "locn_geometry": "POLYGON((176.0 -16.0, 178.0 -16.0, 178.0 -20.0, 176.0 -20.0, 176.0 -16.0))",
   "dcat_bbox": "ENVELOPE(176.0,178.0,-16.0,-20.0)",
   "dcat_centroid": "-18.0,177.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3774/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3774\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3774/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3774\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3774/manifest.json\"}",
   "id": "p16022coll230:3774",
   "dct_identifier_sm": [
     "UMN_ALMA:9939513910001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:49Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,5 +1,11 @@
 {
   "dct_title_s": "Map of St. Paul. Plate no. 8, Showing proposed change of river channel",
+  "dct_description_sm": [
+    "Relief shown by hachures. Also shows parks, street car lines, and railroads. Oscar Claussen, Commissioner of Public Works.",
+    "42 x 60 centimeters",
+    "1:27,500",
+    "Minneapolis and St. Paul Maps and Atlases"
+  ],
   "dct_language_sm": [
     "eng"
   ],
@@ -7,36 +13,29 @@
     "Kirk, Fred W."
   ],
   "dct_publisher_sm": [
-    "H.M. Smyth Printing Co. (St. Paul, Minn.)"
+    "H.M. Smyth Printing Co.  (St. Paul, Minn.)"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dct_subject_sm": [
-    "Railroads"
   ],
   "dcat_keyword_sm": [
     "Hydraulic Engineering Minnesota Saint Paul Maps",
     "Hydraulic Engineering Mississippi River Maps",
     "Parks Minnesota Saint Paul Maps",
     "Street Railroads Minnesota Saint Paul Maps",
-    "Saint Paul (Minn.) Maps"
+    "Saint Paul (Minn.) Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1912"
   ],
-  "gbl_indexYear_im": [
-    "1912"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1912 TO 1912]"
-  ],
+  "dct_issued_s": "1912",
   "dct_spatial_sm": [
     "Saint Paul, Minnesota",
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-93.2078,-93.0043,44.992,44.8874)",
+  "locn_geometry": "POLYGON((-93.2078 44.992, -93.0043 44.992, -93.0043 44.8874, -93.2078 44.8874, -93.2078 44.992))",
   "dcat_bbox": "ENVELOPE(-93.2078,-93.0043,44.992,44.8874)",
   "dcat_centroid": "44.9397,-93.10605000000001",
   "pcdm_memberOf_sm": [
@@ -44,18 +43,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll245"
+    "p16022coll245"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/187158\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/872/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:872\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/872/manifest.json\"}",
   "id": "p16022coll245:872",
   "dct_identifier_sm": [
-    "p16022coll245:872"
+    "UMN_ALMA:9925800270001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:57Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

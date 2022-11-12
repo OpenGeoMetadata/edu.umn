@@ -6,14 +6,20 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:363",
   "solr_geom": "ENVELOPE(10.9667,17.1667,60.6667,55.3333)",
-  "solr_year_i": "1923",
   "dc_creator_sm": [
-    "Sveriges geologiska undersökning; Granlund, Erik, 1892-1938; von Post,Lennart, 1884-1951; Kartografiska institutet, AB."
+    "Sveriges geologiska undersökning",
+    "Granlund, Erik, 1892-1938",
+    "von Post,Lennart, 1884-1951",
+    "Kartografiska institutet, AB."
   ],
-  "dc_description_s": "artographic Details: Scale 1:500,000 (E 10°58ʹ--E 17°10ʹ/N 60°40ʹ--N 55°20ʹ). \"... efter de Geologiska kartbladen.” \"A.-B. Kartografiska Institutet\"--lower right margin. \"Sveriges Geologiska Undersökning Ser. Ba. Nr 11.\" Title and legend in Swedish and English. Contents: Norra bladet -- Södra bladet.||1 map on 2 sheets : color ; 56 x 100 centimeters and 73 x 100 centimeters|Scale 1:500,000",
+  "dc_description_s": "Cartographic Details: Scale 1:500,000 (E 10°58ʹ--E 17°10ʹ/N 60°40ʹ--N 55°20ʹ). \"... efter de Geologiska kartbladen.” \"A.-B. Kartografiska Institutet\"--lower right margin. \"Sveriges Geologiska Undersökning Ser. Ba. Nr 11.\" Title and legend in Swedish and English. Contents: Norra bladet -- Södra bladet.|1 map on 2 sheets : color ; 56 x 100 centimeters and 73 x 100 centimeters|Scale 1:500,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/363/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:363\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/363/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:33:18Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:363\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/363/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Sweden",
+    "Europe"
+  ],
+  "layer_modified_dt": "2022-09-28T02:15:35Z",
   "dc_language_sm": [
     "swe",
     "eng"

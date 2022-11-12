@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Dakota",
-  "dct_alternative_sm": [
-    "Dakota"
+  "dct_description_sm": [
+    "Page number in margin: 52.",
+    "52 x 41 centimeters",
+    "Scale approximately 1:1,520,640",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -23,24 +26,19 @@
     "1886"
   ],
   "dct_issued_s": "1886",
-  "gbl_indexYear_im": [
-    "1886"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1886 TO 1886]"
-  ],
   "dct_spatial_sm": [
     "North Dakota",
     "South Dakota"
   ],
-  "locn_geometry": "ENVELOPE(-104.05,-96.55,49.0,45.9333)",
+  "locn_geometry": "POLYGON((-104.05 49.0, -96.55 49.0, -96.55 45.9333, -104.05 45.9333, -104.05 49.0))",
   "dcat_bbox": "ENVELOPE(-104.05,-96.55,49.0,45.9333)",
   "dcat_centroid": "47.46665,-100.3",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -52,6 +50,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9974117635301701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:48Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

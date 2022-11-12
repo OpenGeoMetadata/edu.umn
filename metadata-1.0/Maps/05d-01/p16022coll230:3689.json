@@ -6,14 +6,17 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3689",
   "solr_geom": "ENVELOPE(30.6167,60.7333,33.95,7.7167)",
-  "solr_year_i": "1811",
   "dc_creator_sm": [
     "Cary, John, approximately 1754-1835"
   ],
-  "dc_description_s": "Relief shown pictorially.|44 x 49 centimeters|Scale approximately 1:6,500,000",
+  "dc_description_s": "Relief shown pictorially.|44 x 49 centimeters|Scale approximately 1:6,500,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3689/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3689\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3689/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:25:34Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3689\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3689/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Arabia",
+    "Asia"
+  ],
+  "layer_modified_dt": "2022-09-28T02:14:17Z",
   "dc_language_sm": [
     "eng"
   ],

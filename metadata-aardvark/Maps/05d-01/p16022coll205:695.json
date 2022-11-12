@@ -1,18 +1,19 @@
 {
   "dct_title_s": "Topographical map of Gettysburg - Antietam",
-  "dct_alternative_sm": [
-    "Topographical map of Gettysburg - Antietam"
-  ],
   "dct_description_sm": [
     "Relief shown pictorially.; Early 18th Century Dutch map of Russia with parts of Scandinavia, Poland, Germany and the Balkan States.",
     "116 x 91 centimeters",
-    "W0771447 W0771303 N0395037 N0394857; (W 77°14'47\"--W 77°13'03\"/N 39°50'37\"--N 39°48'57\"); Scale 1:21,120"
+    "W0771447 W0771303 N0395037 N0394857; (W 77°14'47\"--W 77°13'03\"/N 39°50'37\"--N 39°48'57\"); Scale 1:21,120",
+    "City Maps"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
     "Army Service Schools (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "(Fort Leavenworth,  Kan., )"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -22,34 +23,29 @@
     "1909"
   ],
   "dct_issued_s": "1909",
-  "gbl_indexYear_im": [
-    "1909"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1909 TO 1909]"
-  ],
   "dct_spatial_sm": [
     "Pennsylvania; Maryland"
   ],
-  "locn_geometry": "ENVELOPE(-77.2464,-77.2175,39.8436,39.8158)",
+  "locn_geometry": "POLYGON((-77.2464 39.8436, -77.2175 39.8436, -77.2175 39.8158, -77.2464 39.8158, -77.2464 39.8436))",
   "dcat_bbox": "ENVELOPE(-77.2464,-77.2175,39.8436,39.8158)",
   "dcat_centroid": "39.8297,-77.23195",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll205"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll205/id/695/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:695\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/695/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:695\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/695/manifest.json\"}",
   "id": "p16022coll205:695",
   "dct_identifier_sm": [
     "UMN_ALMA:9942864260001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:36Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

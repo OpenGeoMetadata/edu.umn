@@ -1,7 +1,9 @@
 {
   "dct_title_s": "Soil map of Minnesota : showing mean annual rainfall, temperature, and dates of killing frosts",
   "dct_description_sm": [
-    "Cartographic Details: Scale not given. Copyright: Hudson Publishing Co. \"Soil and rainfall data from Prof. N.H. Winchell's 'Atlas of the physical features of Minnesota' (by permission). Temperature from U.S. Govt. reports.\" Includes inset of northeast corner of Minnesota showing Cook County. Dimensions: 61 x 43 centimeters"
+    "Cartographic Details: Scale not given. Copyright: Hudson Publishing Co. \"Soil and rainfall data from Prof. N.H. Winchell's 'Atlas of the physical features of Minnesota' (by permission). Temperature from U.S. Govt. reports.\" Includes inset of northeast corner of Minnesota showing Cook County.",
+    "61 x 43 centimeters",
+    "General Minnesota Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -13,28 +15,24 @@
     "Hudson Publishing Co. (Minneapolis, Minn.)"
   ],
   "dct_publisher_sm": [
-    "A.E. Akerson"
+    "A.E. Akerson;  Lindstrom, Minnesota 1913"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Soils Minnesota Maps 1913"
+    "Soils Minnesota Maps 1913",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1913"
   ],
-  "gbl_indexYear_im": [
-    "1913"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1913 TO 1913]"
-  ],
+  "dct_issued_s": "1913",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-97.251,-89.6155,49.0054,43.4808)",
+  "locn_geometry": "POLYGON((-97.251 49.0054, -89.6155 49.0054, -89.6155 43.4808, -97.251 43.4808, -97.251 49.0054))",
   "dcat_bbox": "ENVELOPE(-97.251,-89.6155,49.0054,43.4808)",
   "dcat_centroid": "46.2431,-93.43325",
   "pcdm_memberOf_sm": [
@@ -42,18 +40,15 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll247"
-  ],
-  "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "p16022coll247"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/196925\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/226/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:226\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/226/manifest.json\"}",
   "id": "p16022coll247:226",
   "dct_identifier_sm": [
-    "p16022coll247:226"
+    "UMN_ALMA:9921037340001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:27Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

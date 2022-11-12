@@ -1,10 +1,10 @@
 {
   "dct_title_s": "General map of the soils of Northern Wisconsin",
-  "dct_alternative_sm": [
-    "General map of the soils of Northern Wisconsin"
-  ],
   "dct_description_sm": [
-    "6 mi. to 1 in. (W 92°52ʹ--W 86°45ʹ/N 47°07ʹ--N 44°30ʹ).   \"Based on the work of the Soils and Geological Divisions of the Wisconsin Geological and Natural History Survey in cooperation with the College of Agriculture and the Bureau of Soils of the United States Department of Agriculture, which has been published in previous maps and reports.\" Dimensions: 75 x 125 centimeters"
+    "6 mi. to 1 in. (W 92°52ʹ--W 86°45ʹ/N 47°07ʹ--N 44°30ʹ).   \"Based on the work of the Soils and Geological Divisions of the Wisconsin Geological and Natural History Survey in cooperation with the College of Agriculture and the Bureau of Soils of the United States Department of Agriculture, which has been published in previous maps and reports.\"",
+    "75 x 125 centimeters",
+    "Scale 1:380,160. 6 miles to 1 inch",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -30,34 +30,29 @@
     "1918"
   ],
   "dct_issued_s": "1918",
-  "gbl_indexYear_im": [
-    "1918"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1918 TO 1918]"
-  ],
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-92.86,-86.75,47.11,44.5)",
+  "locn_geometry": "POLYGON((-92.86 47.11, -86.75 47.11, -86.75 44.5, -92.86 44.5, -92.86 47.11))",
   "dcat_bbox": "ENVELOPE(-92.86,-86.75,47.11,44.5)",
   "dcat_centroid": "45.805,-89.805",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/617/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:617\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/617/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:617\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/617/manifest.json\"}",
   "id": "p16022coll230:617",
   "dct_identifier_sm": [
     "UMN_ALMA:9917200040001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:32Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

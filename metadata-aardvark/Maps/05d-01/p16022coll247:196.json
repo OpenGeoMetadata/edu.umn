@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Clason's guide map of Minnesota",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:1,050,000 (W 97°00'--W 89°0'/N 49°00'--N 43°00'). \"The green guide series\"--Cover. Includes inset of \"Cook County, n.e. corner of Minnesota,\" and \"Minnesota index, 1920.\" Dimensions: 66 x 47 centimeters"
+    "Cartographic Details: Scale approximately 1:1,050,000 (W 97°00'--W 89°0'/N 49°00'--N 43°00'). \"The green guide series\"--Cover. Includes inset of \"Cook County, n.e. corner of Minnesota,\" and \"Minnesota index, 1920.\"",
+    "66 x 47 centimeters",
+    "1:1,050,000",
+    "General Minnesota Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,28 +13,24 @@
     "Clason Map Co."
   ],
   "dct_publisher_sm": [
-    "Clason Map Co."
+    "Clason Map Co.;  Denver, Colorado 1920"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Minnesota Maps"
+    "Minnesota Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1920?"
   ],
-  "gbl_indexYear_im": [
-    "1920"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1920 TO 1920]"
-  ],
+  "dct_issued_s": "1920?",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-97,-89.66,49,43.5)",
+  "locn_geometry": "POLYGON((-97 49, -89.66 49, -89.66 43.5, -97 43.5, -97 49))",
   "dcat_bbox": "ENVELOPE(-97,-89.66,49,43.5)",
   "dcat_centroid": "46.25,-93.33",
   "pcdm_memberOf_sm": [
@@ -39,18 +38,15 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll247"
-  ],
-  "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "p16022coll247"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/188722\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/196/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:196\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/196/manifest.json\"}",
   "id": "p16022coll247:196",
   "dct_identifier_sm": [
-    "p16022coll247:196"
+    "UMN_ALMA:9917264840001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:13Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

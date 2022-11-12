@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Index map showing the principal river basins within the state",
-  "dct_alternative_sm": [
-    "Index map showing the principal river basins within the state"
+  "dct_description_sm": [
+    "Cut from their 6th annual report.",
+    "18 x 29 in",
+    "Scale (computed) 1:449,856;",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -24,31 +27,26 @@
     "1875"
   ],
   "dct_issued_s": "1875",
-  "gbl_indexYear_im": [
-    "1875"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1875 TO 1875]"
-  ],
-  "locn_geometry": "ENVELOPE(-73.5,-69.85,42.8833,41.1833)",
+  "locn_geometry": "POLYGON((-73.5 42.8833, -69.85 42.8833, -69.85 41.1833, -73.5 41.1833, -73.5 42.8833))",
   "dcat_bbox": "ENVELOPE(-73.5,-69.85,42.8833,41.1833)",
   "dcat_centroid": "42.0333,-71.675",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/1367/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1367\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1367/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1367\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1367/manifest.json\"}",
   "id": "p16022coll230:1367",
   "dct_identifier_sm": [
     "UMN_ALMA:9956465520001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:35Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

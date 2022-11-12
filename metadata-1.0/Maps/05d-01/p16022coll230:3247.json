@@ -6,15 +6,18 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3247",
   "solr_geom": "ENVELOPE(-5.55,9.65,51.1167,41.3167)",
-  "solr_year_i": "1769",
-  "dc_description_s": "Relief shown pictorially.; Cartouche with title and dedication in lower left corner of map.; Cartouche with scale bars in upper right corner of map.|63 x 66 centimeters|Scale approximately 1:1,600,000",
+  "dc_description_s": "Relief shown pictorially.; Cartouche with title and dedication in lower left corner of map.; Cartouche with scale bars in upper right corner of map.|63 x 66 centimeters|Scale approximately 1:1,600,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3247/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3247\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3247/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:31:16Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3247\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3247/manifest.json\"}",
+  "dct_spatial_sm": [
+    "France",
+    "Europe"
+  ],
+  "layer_modified_dt": "2022-09-28T02:14:09Z",
   "dc_language_sm": [
     "fre"
   ],
-  "dc_publisher_s": "Jaillot  ",
+  "dc_publisher_s": "Jaillot (Paris)",
   "dct_issued_s": "1769",
   "dct_temporal_sm": [
     "1769"

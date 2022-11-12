@@ -2,21 +2,21 @@
   "geoblacklight_version": "1.0",
   "dc_identifier_s": "UMN_ALMA:9945200700001701",
   "dc_rights_s": "Public",
-  "dc_title_s": "Railroad commissioners' map of Minnesota~~corrected to Feb. 1, 1913",
+  "dc_title_s": "Railroad commissioners' map of Minnesota : corrected to Feb. 1, 1913",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll206:35",
   "solr_geom": "ENVELOPE(-97.25,-89.5,50,43.5)",
-  "solr_year_i": "1913",
   "dc_creator_sm": [
-    "Minnesota. Office of Railroad Commissioners.; George F. Cram Company"
+    "Minnesota. Office of Railroad Commissioners.",
+    "George F. Cram Company"
   ],
-  "dc_description_s": "Cartographic Details: Scale approximately 1:633,600 (W 97¬∞15'--W 89¬∞30'/N 50¬∞00'--N 43¬∞ 30') Insets: Vicinity of Duluth & Superior, Wis. -- Vicinity of Saint Paul & Minneapolis -- Mesaba Range -- Cook County. Includes index on verso. Dimensions: 119 x 73 centimeters",
+  "dc_description_s": "Cartographic Details: Scale approximately 1:633,600 (W 97¬∞15'--W 89¬∞30'/N 50¬∞00'--N 43¬∞ 30') Insets: Vicinity of Duluth & Superior, Wis. -- Vicinity of Saint Paul & Minneapolis -- Mesaba Range -- Cook County. Includes index on verso.|119 x 73 centimeters|Scale approximately 1:633,600|Minnesota Transportation Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll206/id/35/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll206:35\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll206/35/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll206:35\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll206/35/manifest.json\"}",
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:31Z",
+  "layer_modified_dt": "2022-09-28T02:15:17Z",
   "dc_language_sm": [
     "eng"
   ],

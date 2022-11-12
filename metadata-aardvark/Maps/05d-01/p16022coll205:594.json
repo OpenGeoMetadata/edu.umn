@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Tampa, Fla",
-  "dct_alternative_sm": [
-    "Tampa, Fla"
+  "dct_description_sm": [
+    "November 1925.; Blueline print.; Cadastral map.",
+    "137 x 97 centimeters",
+    "Scale [1:9,600] 1 inch = 800 feet",
+    "City Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -20,20 +23,15 @@
     "1925"
   ],
   "dct_issued_s": "1925",
-  "gbl_indexYear_im": [
-    "1925"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1925 TO 1925]"
-  ],
-  "locn_geometry": "ENVELOPE(-82.575,-82.3411,28.0292,27.8172)",
+  "locn_geometry": "POLYGON((-82.575 28.0292, -82.3411 28.0292, -82.3411 27.8172, -82.575 27.8172, -82.575 28.0292))",
   "dcat_bbox": "ENVELOPE(-82.575,-82.3411,28.0292,27.8172)",
   "dcat_centroid": "27.9232,-82.45805",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll205"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -45,6 +43,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9958619080001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:22Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,10 +1,10 @@
 {
   "dct_title_s": "United States of North America (western states)",
-  "dct_alternative_sm": [
-    "United States of North America (western states)"
-  ],
   "dct_description_sm": [
-    "Relief shown by hachures and spot heights.  Boundaries hand col.; hydrography printed in blue.  \"Keith Johnston's general atlas.\"  Scanned raster image of original: 1 map : col. ; 46 x 56 cm.  Original in the David Rumsey Collection; scanned by Cartography Associates. Dimensions: 46 x 56 centimeters"
+    "Relief shown by hachures and spot heights.  Boundaries hand col.; hydrography printed in blue.  \"Keith Johnston's general atlas.\"  Scanned raster image of original: 1 map : col. ; 46 x 56 cm.  Original in the David Rumsey Collection; scanned by Cartography Associates.",
+    "46 x 56 centimeters",
+    "Scale 1:4,748,000. 75 miles to an inch",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -24,34 +24,29 @@
     "1861"
   ],
   "dct_issued_s": "1861",
-  "gbl_indexYear_im": [
-    "1861"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1861 TO 1861]"
-  ],
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-126,-88.81,49,25.83)",
+  "locn_geometry": "POLYGON((-126 49, -88.81 49, -88.81 25.83, -126 25.83, -126 49))",
   "dcat_bbox": "ENVELOPE(-126,-88.81,49,25.83)",
   "dcat_centroid": "37.415,-107.405",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/440/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:440\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/440/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:440\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/440/manifest.json\"}",
   "id": "p16022coll230:440",
   "dct_identifier_sm": [
     "UMN_ALMA:9961045090001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:35Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

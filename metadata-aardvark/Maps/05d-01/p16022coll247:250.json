@@ -1,34 +1,33 @@
 {
   "dct_title_s": "Nebraska and Kansas;  Minnesota",
+  "dct_description_sm": [
+    "Date of copyright registration 1858. Longitude west from Greenwich and Washington, D.C. Map of Minnesota contains inset map of \"Vicinity of the Falls of St. Anthony.\" Map may have been published in 1860.",
+    "10.5 x 12.5 inches",
+    "General Minnesota Maps"
+  ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_publisher_sm": [
-    "[ J.H. Colton & Co.?]"
+    "[ J.H. Colton & Co.?];  New York?"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Minnesota Maps",
-    "bbox-update-mar2020"
+    "Minnesota Maps"
   ],
   "dct_temporal_sm": [
     "1860"
   ],
-  "gbl_indexYear_im": [
-    "1860"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1860 TO 1860]"
-  ],
+  "dct_issued_s": "1860",
   "dct_spatial_sm": [
     "Minnesota",
     "Kansas",
     "Nebraska"
   ],
-  "locn_geometry": "ENVELOPE(-97.24,-89.48,49.38,36.38)",
+  "locn_geometry": "POLYGON((-97.24 49.38, -89.48 49.38, -89.48 36.38, -97.24 36.38, -97.24 49.38))",
   "dcat_bbox": "ENVELOPE(-97.24,-89.48,49.38,36.38)",
   "dcat_centroid": "42.88,-93.36",
   "pcdm_memberOf_sm": [
@@ -36,18 +35,15 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll247"
-  ],
-  "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "p16022coll247"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/89328\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/250/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:250\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/250/manifest.json\"}",
   "id": "p16022coll247:250",
   "dct_identifier_sm": [
-    "p16022coll247:250"
+    "UMN_ALMA:9965367810001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:17Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

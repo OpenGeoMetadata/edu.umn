@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Map of the country ... of Boston, 1896",
-  "dct_alternative_sm": [
-    "Map of the country ... of Boston, 1896"
+  "dct_description_sm": [
+    "Each map covers Boston and the vicinity either northwest, southwest, northeast, or southeast of city.; Relief shown by contours.; Northwest map has errata in upper margin.",
+    "31 x 48 centimeters or smaller",
+    "Scale 1:62,500",
+    "City Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -20,31 +23,26 @@
     "1896"
   ],
   "dct_issued_s": "1896",
-  "gbl_indexYear_im": [
-    "1896"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1896 TO 1896]"
-  ],
-  "locn_geometry": "ENVELOPE(-71.4,-70.5833,42.6167,42)",
+  "locn_geometry": "POLYGON((-71.4 42.6167, -70.5833 42.6167, -70.5833 42, -71.4 42, -71.4 42.6167))",
   "dcat_bbox": "ENVELOPE(-71.4,-70.5833,42.6167,42)",
   "dcat_centroid": "42.308350000000004,-70.99164999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll205"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll205/id/560/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:560\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/560/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:560\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/560/manifest.json\"}",
   "id": "p16022coll205:560",
   "dct_identifier_sm": [
     "UMN_ALMA:9956461860001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:32Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,27 +1,27 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "p16022coll246:227",
+  "dc_identifier_s": "UMN_ALMA:9973942709201701",
   "dc_rights_s": "Public",
   "dc_title_s": "Carte de L'Isle de Ceylan",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:227",
   "solr_geom": "ENVELOPE(78.5,82.5,10.5,5.5)",
-  "solr_year_i": "1722",
   "dc_creator_sm": [
     "de L'Isle, Guillaume, 1675-1726",
     "Berey, Nicolas, 1606-1665"
   ],
-  "dc_description_s": "Cartographic Details: Scale approximately 1:1,250,000 (E 78°30'--E 82°30'/N 10°30'--5°30'). Relief shown pictorially; depths shown by soundings. Primemeridian: Ferro. Bar scales given in\"lieues marines de France et d'Angleterre,\"\"lieues marines d'Espagne,\" and\"lieues communes d'Allemagne\". Watermark. Dimensions: 40.1 x 55 centimeters",
+  "dc_description_s": "Cartographic Details: Scale approximately 1:1,250,000 (E 78°30'--E 82°30'/N 10°30'--5°30'). Relief shown pictorially; depths shown by soundings. Primemeridian: Ferro. Bar scales given in\"lieues marines de France et d'Angleterre,\"\"lieues marines d'Espagne,\" and\"lieues communes d'Allemagne\". Watermark.|40.1 x 55 centimeters|Scale approximately 1:1,250,000|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/228996\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/227/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:227\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/227/manifest.json\"}",
   "dct_spatial_sm": [
     "Sri Lanka"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:11Z",
+  "layer_modified_dt": "2022-09-28T02:14:05Z",
   "dc_language_sm": [
     "fre"
   ],
-  "dc_publisher_s": "Chez l'Auteur",
+  "dc_publisher_s": "Chez l'Auteur ... ; Paris",
+  "dct_issued_s": "1722",
   "dct_temporal_sm": [
     "1722"
   ]

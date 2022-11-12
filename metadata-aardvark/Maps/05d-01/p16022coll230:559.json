@@ -1,10 +1,10 @@
 {
   "dct_title_s": "A township map of the State of Iowa",
-  "dct_alternative_sm": [
-    "A township map of the State of Iowa"
-  ],
   "dct_description_sm": [
-    "Showing the streams, roads, towns, post offices, county seats, works of internal improvements, &c., &c., &c.   Shows township and range, as well as railroads, common roads, dams, ferries and land offices.   \"Henn, Williams & Co.'s land, exchange & banking houses in Fairfield and Chariton, Iowa; Henn, Williams Hooton & Co. in Council Bluffs Iowa.\" Dimensions: 50 x 86 centimeters"
+    "Showing the streams, roads, towns, post offices, county seats, works of internal improvements, &c., &c., &c.   Shows township and range, as well as railroads, common roads, dams, ferries and land offices.   \"Henn, Williams & Co.'s land, exchange & banking houses in Fairfield and Chariton, Iowa; Henn, Williams Hooton & Co. in Council Bluffs Iowa.\"",
+    "50 x 86 centimeters",
+    "Scale approximately 1:130,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -30,34 +30,29 @@
     "1856"
   ],
   "dct_issued_s": "1856",
-  "gbl_indexYear_im": [
-    "1856"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1856 TO 1856]"
-  ],
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-96.61,-90.11,43.11,40.11)",
+  "locn_geometry": "POLYGON((-96.61 43.11, -90.11 43.11, -90.11 40.11, -96.61 40.11, -96.61 43.11))",
   "dcat_bbox": "ENVELOPE(-96.61,-90.11,43.11,40.11)",
   "dcat_centroid": "41.61,-93.36",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/559/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:559\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/559/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:559\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/559/manifest.json\"}",
   "id": "p16022coll230:559",
   "dct_identifier_sm": [
     "UMN_ALMA:9973519729301701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:37Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

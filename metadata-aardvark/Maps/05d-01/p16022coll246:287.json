@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Asia noviter delineata",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:30,000,000. Relief shown pictorially. From His Atlas maior, 1662-1665. Text on verso. Examples of different people's costumes in margins. Insets (all pictorial): Candy -- Calecuth -- Goa -- Damasco -- Ierusalem -- Ormus -- Bantam -- Aden -- Macao. Dimensions: 36 x 46 centimeters"
+    "Cartographic Details: Scale approximately 1:30,000,000. Relief shown pictorially. From His Atlas maior, 1662-1665. Text on verso. Examples of different people's costumes in margins. Insets (all pictorial): Candy -- Calecuth -- Goa -- Damasco -- Ierusalem -- Ormus -- Bantam -- Aden -- Macao.",
+    "36 x 46 centimeters",
+    "Scale approximately 1:30,000,000",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "lat"
@@ -10,25 +13,24 @@
     "Blaeu, Joan, 1596-1673"
   ],
   "dct_publisher_sm": [
-    "I. Blaeu"
+    "I. Blaeu; Amstelaedami"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Asia Maps Early Works to 1800"
+    "Asia Maps Early Works to 1800",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "approximately 1665"
   ],
-  "gbl_indexYear_im": [
-    "1665"
+  "dct_issued_s": "1665?",
+  "dct_spatial_sm": [
+    "Asia"
   ],
-  "gbl_dateRange_drsim": [
-    "[1665 TO 1665]"
-  ],
-  "locn_geometry": "ENVELOPE(27.2461,170.332,77.9341,-10.8765)",
+  "locn_geometry": "POLYGON((27.2461 77.9341, 170.332 77.9341, 170.332 -10.8765, 27.2461 -10.8765, 27.2461 77.9341))",
   "dcat_bbox": "ENVELOPE(27.2461,170.332,77.9341,-10.8765)",
   "dcat_centroid": "33.528800000000004,98.78905",
   "pcdm_memberOf_sm": [
@@ -36,18 +38,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/200796\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/287/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:287\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/287/manifest.json\"}",
   "id": "p16022coll246:287",
   "dct_identifier_sm": [
-    "p16022coll246:287"
+    "UMN_ALMA:9934659250001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:17Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,13 +1,18 @@
 {
   "dct_title_s": "The Manchester ship canal",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:35,000 February 1898--lower right. North oriented to the right of vertical. Includes note referencing Manchester Ship Canal Company signed W.H. Collier, Manager. Inset: Manchester docks. Ancillary maps: Distribution of population [along canal] -- canal Communications. Cross sections: Levels of tides ... -- Compartive cross sections [showing 4 canals] -- Plan of Eastham locks -- Warrington section of wharf -- Runcorn docks -- Section of the Haydock Colliery ... -- Planof Irlam locks -- Part section of Partington coal basin -- Section of quay, no. 8 dock on line G H.-- ... quay, dock no. 6, on line I J. -- ... of Manchester dock pier on line C. D. -- Three storied sheds ... -- Barton swing aqueduct -- ... Salford dock piers ... Henry Blacklock & Co. Colour Printers, Manchester--center lower margin. Signature of Chief Engineer in lower right: W. Henry H[...]. Dimensions: 1 map : color, dissected, mounted on cloth, and bound ; 34 x 150 cm, folded in cover 25 x 18 cm."
+    "Cartographic Details: Scale approximately 1:35,000 February 1898--lower right. North oriented to the right of vertical. Includes note referencing Manchester Ship Canal Company signed W.H. Collier, Manager. Inset: Manchester docks. Ancillary maps: Distribution of population [along canal] -- canal Communications. Cross sections: Levels of tides ... -- Compartive cross sections [showing 4 canals] -- Plan of Eastham locks -- Warrington section of wharf -- Runcorn docks -- Section of the Haydock Colliery ... -- Planof Irlam locks -- Part section of Partington coal basin -- Section of quay, no. 8 dock on line G H.-- ... quay, dock no. 6, on line I J. -- ... of Manchester dock pier on line C. D. -- Three storied sheds ... -- Barton swing aqueduct -- ... Salford dock piers ... Henry Blacklock & Co. Colour Printers, Manchester--center lower margin. Signature of Chief Engineer in lower right: W. Henry H[...].",
+    "1 map : color, dissected, mounted on cloth, and bound ; 34 x 150 cm, folded in cover 25 x 18 cm.",
+    "Scale approximately 1:35,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Berry, J. H. Lee"
+    "Berry, J. H. Lee",
+    "Henry Blacklock & Co.",
+    "Manchester Ship Canal Co."
   ],
   "dct_publisher_sm": [
     "The Company? (Manchester)"
@@ -24,19 +29,14 @@
   "dct_temporal_sm": [
     "1898"
   ],
-  "gbl_indexYear_im": [
-    "1898"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1898 TO 1898]"
-  ],
+  "dct_issued_s": "1898",
   "dct_spatial_sm": [
     "Manchester, England",
     "England",
     "United Kingdom",
     "Europe"
   ],
-  "locn_geometry": "ENVELOPE(-2.978,-2.2192,53.4931,53.2859)",
+  "locn_geometry": "POLYGON((-2.978 53.4931, -2.2192 53.4931, -2.2192 53.2859, -2.978 53.2859, -2.978 53.4931))",
   "dcat_bbox": "ENVELOPE(-2.978,-2.2192,53.4931,53.2859)",
   "dcat_centroid": "53.3895,-2.5986000000000002",
   "pcdm_memberOf_sm": [
@@ -44,18 +44,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll230"
+    "p16022coll230"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/210543\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/310/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:310\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/310/manifest.json\"}",
   "id": "p16022coll230:310",
   "dct_identifier_sm": [
-    "p16022coll230:310"
+    "UMN_ALMA:9954902450001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:03Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

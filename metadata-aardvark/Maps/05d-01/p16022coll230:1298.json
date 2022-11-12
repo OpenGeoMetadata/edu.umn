@@ -1,0 +1,54 @@
+{
+  "dct_title_s": "Map of Massachusetts, Connecticut and Rhode Island constructed from the latest authorities",
+  "dct_description_sm": [
+    "Longitude in degrees west from Greenwich and east from Washington, D.C.; latitude in degrees north from equator.; Colored by county; borders of states in red.; Bristol county colored yellow, Plymouth county colored pink.; Indicates roads, canals (actual and proposed) and railroads (actual and proposed).; Includes inset map of Boston, colored by ward, with its own scale and key.; Boston & Maine railroad not indicated in inset.; Includes the Hudson River Valley to the confluence of the Mohawk, and Long Island.",
+    "52 x 57 centimeters",
+    "Scale [1:630,000]",
+    "General Map Collection"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Mitchell, S. Augustus (Samuel Augustus), 1792-1868"
+  ],
+  "dct_publisher_sm": [
+    "S.A . Mitchell (Philadelphia,  Pa)"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Canals",
+    "Railroads"
+  ],
+  "dct_issued_s": "1847",
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Connecticut",
+    "Rhode Island"
+  ],
+  "locn_geometry": "POLYGON((-73.71666667 42.73333333, -69.66666667 42.73333333, -69.66666667 40.91666667, -73.71666667 40.91666667, -73.71666667 42.73333333))",
+  "dcat_bbox": "ENVELOPE(-73.71666667,-69.66666667,42.73333333,40.91666667)",
+  "dcat_centroid": "41.825,-71.69166666999999",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-01",
+    "p16022coll230"
+  ],
+  "dct_rights_sm": [
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1298\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1298/manifest.json\"}",
+  "id": "p16022coll230:1298",
+  "dct_identifier_sm": [
+    "UMN_ALMA:9962964950001701"
+  ],
+  "gbl_mdModified_dt": "2022-09-28T02:16:14Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Map of the route passed over by an expedition into the Indian country in 1832 to the source of the Mississippi",
-  "dct_alternative_sm": [
-    "Map of the route passed over by an expedition into the Indian country in 1832 to the source of the Mississippi"
+  "dct_description_sm": [
+    "Relief shown by hachures.; Shows the region between the Red River and Lake Superior, featuring the Mississippi River above Lake Pipin, the Sioux Villages and the Falls of St. Anthony. Originally appeared in Henry Schoolcraft and James Allen's \"Journal of an Expedition into the Indian Country to the Source of the Mississippi in 1832\".",
+    "38 x 48 centimeters",
+    "Scale approximately1:364,320; 5 3/4 miles to 1 inch",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -23,34 +26,29 @@
     "1832"
   ],
   "dct_issued_s": "1832",
-  "gbl_indexYear_im": [
-    "1832"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1832 TO 1832]"
-  ],
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-97,-91,48,45)",
+  "locn_geometry": "POLYGON((-97 48, -91 48, -91 45, -97 45, -97 48))",
   "dcat_bbox": "ENVELOPE(-97,-91,48,45)",
   "dcat_centroid": "46.5,-94.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/701/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:701\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/701/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:701\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/701/manifest.json\"}",
   "id": "p16022coll230:701",
   "dct_identifier_sm": [
     "UMN_ALMA:9975621198401701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:24Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

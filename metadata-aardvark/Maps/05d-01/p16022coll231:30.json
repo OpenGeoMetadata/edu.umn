@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Standard map of Mille Lacs County, Minnesota.",
   "dct_description_sm": [
-    "Cartographic Details: Scale [1:84,480] (W 93°50'--W 93°24'/N 46°16'--N 45°32'). State trunk highways and state aid roads shown in red. Dimensions: 106 x 43 centimeters"
+    "Cartographic Details: Scale [1:84,480] (W 93°50'--W 93°24'/N 46°16'--N 45°32'). State trunk highways and state aid roads shown in red.",
+    "106 x 43 centimeters",
+    "Scale [1:84,480]",
+    "Minnesota County Maps, Plat Books, and Atlases"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "McGill-Warner Co."
   ],
   "dct_publisher_sm": [
-    "McGill-Warner Co. (Saint Paul, Minnesota)"
+    "McGill-Warner Co.  (Saint Paul, Minnesota)"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -21,23 +24,18 @@
   ],
   "dcat_keyword_sm": [
     "Roads Minnesota Mille Lacs County Maps 1920 1929",
-    "Mille Lacs County (Minn.) Maps 1920 1929"
+    "Mille Lacs County (Minn.) Maps 1920 1929",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "between 1920 and 1929"
   ],
-  "dct_issued_s": "n.d.",
-  "gbl_indexYear_im": [
-    "1920"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1920 TO 1920]"
-  ],
+  "dct_issued_s": "1920 - 1929",
   "dct_spatial_sm": [
     "Mille Lacs County, Minnesota",
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-93.83,-93.4,46.26,45.53)",
+  "locn_geometry": "POLYGON((-93.83 46.26, -93.4 46.26, -93.4 45.53, -93.83 45.53, -93.83 46.26))",
   "dcat_bbox": "ENVELOPE(-93.83,-93.4,46.26,45.53)",
   "dcat_centroid": "45.894999999999996,-93.61500000000001",
   "pcdm_memberOf_sm": [
@@ -45,15 +43,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll231"
+    "p16022coll231"
+  ],
+  "dct_rights_sm": [
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/188759\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/30/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:30\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/30/manifest.json\"}",
   "id": "p16022coll231:30",
   "dct_identifier_sm": [
-    "p16022coll231:30"
+    "UMN_ALMA:9927487940001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:17Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }

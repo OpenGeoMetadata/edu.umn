@@ -1,10 +1,10 @@
 {
-  "dct_title_s": "La Floride françoise",
-  "dct_alternative_sm": [
-    "La Floride françoise"
-  ],
+  "dct_title_s": "La Floride françoise",
   "dct_description_sm": [
-    "Relief shown pictorially.  Mainly shows coast of South Carolina.  In lower margin: Reproduced for the Hon. William A. Courtenay, LL. D., of South Carolina, from the original map in the Public Records Office, London.  Originally from Du Val, P. Diverses cartes et tables. Paris, [1669?]. Dimensions: 15 x 22 centimeters"
+    "Relief shown pictorially.  Mainly shows coast of South Carolina.  In lower margin: Reproduced for the Hon. William A. Courtenay, LL. D., of South Carolina, from the original map in the Public Records Office, London.  Originally from Du Val, P. Diverses cartes et tables. Paris, [1669?].",
+    "15 x 22 centimeters",
+    "Scale approximately 1:4,200,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "fre"
@@ -28,34 +28,29 @@
     "1907"
   ],
   "dct_issued_s": "1907?",
-  "gbl_indexYear_im": [
-    "1907"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1907 TO 1907]"
-  ],
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-82,-78,35,31)",
+  "locn_geometry": "POLYGON((-82 35, -78 35, -78 31, -82 31, -82 35))",
   "dcat_bbox": "ENVELOPE(-82,-78,35,31)",
   "dcat_centroid": "33.0,-80.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/401/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:401\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/401/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:401\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/401/manifest.json\"}",
   "id": "p16022coll230:401",
   "dct_identifier_sm": [
     "UMN_ALMA:9928716330001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:36Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

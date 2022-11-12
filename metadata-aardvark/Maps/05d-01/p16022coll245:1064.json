@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Curtice's new pocket map of Saint Paul",
-  "dct_alternative_sm": [
-    "Curtice's new pocket map of Saint Paul"
+  "dct_description_sm": [
+    "Shows election district and city and ward boundaries.; Partially hand colored.",
+    "58 x 81 centimeters",
+    "No scale given",
+    "Minneapolis and St. Paul Maps and Atlases"
   ],
   "dct_language_sm": [
     "eng"
@@ -20,34 +23,29 @@
     "1888"
   ],
   "dct_issued_s": "1888",
-  "gbl_indexYear_im": [
-    "1888"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1888 TO 1888]"
-  ],
   "dct_spatial_sm": [
     "St. Paul, Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-93.2078,-93.0042,44.9917,44.8861)",
+  "locn_geometry": "POLYGON((-93.2078 44.9917, -93.0042 44.9917, -93.0042 44.8861, -93.2078 44.8861, -93.2078 44.9917))",
   "dcat_bbox": "ENVELOPE(-93.2078,-93.0042,44.9917,44.8861)",
   "dcat_centroid": "44.938900000000004,-93.106",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll245"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll245/id/1064/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:1064\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/1064/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:1064\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/1064/manifest.json\"}",
   "id": "p16022coll245:1064",
   "dct_identifier_sm": [
     "UMN_ALMA:9975244294101701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:10Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

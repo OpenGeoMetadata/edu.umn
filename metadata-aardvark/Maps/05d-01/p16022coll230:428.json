@@ -1,10 +1,10 @@
 {
-  "dct_title_s": "Rand McNally official 1922 auto trails map, district no. 8~~Wisconsin, northern Ill., northern Mich.",
-  "dct_alternative_sm": [
-    "Rand McNally official 1922 auto trails map, district no. 8 : Wisconsin, northern Ill., northern Mich."
-  ],
+  "dct_title_s": "Rand McNally official 1922 auto trails map, district no. 8 : Wisconsin, northern Ill., northern Mich.",
   "dct_description_sm": [
-    "Originally folded and pasted in cover.   Includes an explanation of state highway signs and trail markings.   Location of selected businesses are highlighted in red.   Covers Wisconsin and portions of Michigan's Upper Peninsula, nothern Illinois, northeastern Iowa, and southwestern Minnesota. Dimensions: 81 x 63 centimeters"
+    "Originally folded and pasted in cover.   Includes an explanation of state highway signs and trail markings.   Location of selected businesses are highlighted in red.   Covers Wisconsin and portions of Michigan's Upper Peninsula, nothern Illinois, northeastern Iowa, and southwestern Minnesota.",
+    "81 x 63 centimeters",
+    "Scale approximately 1:696,960",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -31,34 +31,29 @@
     "1922"
   ],
   "dct_issued_s": "1922",
-  "gbl_indexYear_im": [
-    "1922"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1922 TO 1922]"
-  ],
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-92.88,-86.23,47.3,41.71)",
+  "locn_geometry": "POLYGON((-92.88 47.3, -86.23 47.3, -86.23 41.71, -92.88 41.71, -92.88 47.3))",
   "dcat_bbox": "ENVELOPE(-92.88,-86.23,47.3,41.71)",
   "dcat_centroid": "44.504999999999995,-89.555",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/428/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:428\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/428/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:428\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/428/manifest.json\"}",
   "id": "p16022coll230:428",
   "dct_identifier_sm": [
     "UMN_ALMA:9954726110001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:56Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

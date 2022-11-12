@@ -1,7 +1,10 @@
 {
   "dct_title_s": "State of Alabama",
-  "dct_alternative_sm": [
-    "State of Alabama"
+  "dct_description_sm": [
+    "Relief shown by shading.; Prime meridians: Greenwich and Washington.; Insets: Birmingham-Bessemer and vicinity, Mobile, Chattanooga and vicinity, and Township diagram showing sections and quarter-sections.",
+    "80 x 52 centimeters",
+    "Scale approximately 1:760,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -20,23 +23,18 @@
     "1915"
   ],
   "dct_issued_s": "1915",
-  "gbl_indexYear_im": [
-    "1915"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1915 TO 1915]"
-  ],
   "dct_spatial_sm": [
     "Alabama"
   ],
-  "locn_geometry": "ENVELOPE(-88.4667,-84.8833,35.0,30.1333)",
+  "locn_geometry": "POLYGON((-88.4667 35.0, -84.8833 35.0, -84.8833 30.1333, -88.4667 30.1333, -88.4667 35.0))",
   "dcat_bbox": "ENVELOPE(-88.4667,-84.8833,35.0,30.1333)",
   "dcat_centroid": "32.566649999999996,-86.67500000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -48,6 +46,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9943469560001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:22Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

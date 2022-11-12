@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Territory of Dakota",
-  "dct_alternative_sm": [
-    "Territory of Dakota"
+  "dct_description_sm": [
+    "Relief shown by hachures.; Shows Indian and military reservations.; \"N.C. McFarland, Commissioner.\"",
+    "73 x 61 centimeters",
+    "Scale [1:1,140,480] 18 miles to 1 inch",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -20,24 +23,19 @@
     "1882"
   ],
   "dct_issued_s": "1882",
-  "gbl_indexYear_im": [
-    "1882"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1882 TO 1882]"
-  ],
   "dct_spatial_sm": [
     "North Dakota",
     "South Dakota"
   ],
-  "locn_geometry": "ENVELOPE(-104.0,-96.6333,49.0,42.5)",
+  "locn_geometry": "POLYGON((-104.0 49.0, -96.6333 49.0, -96.6333 42.5, -104.0 42.5, -104.0 49.0))",
   "dcat_bbox": "ENVELOPE(-104.0,-96.6333,49.0,42.5)",
   "dcat_centroid": "45.75,-100.31665000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -49,6 +47,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9975822805701701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:11Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

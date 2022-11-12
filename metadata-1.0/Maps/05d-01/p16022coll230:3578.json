@@ -6,14 +6,17 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3578",
   "solr_geom": "ENVELOPE(60.5167,74.8833,38.4833,29.3667)",
-  "solr_year_i": "1880",
   "dc_creator_sm": [
     "Edward Stanford Ltd"
   ],
-  "dc_description_s": "Relief shown by shading, hachures, and spot heights.; Shows colored boundaries and landforms in Afghanistan at the time of the Second Anglo-Afghan War.; Published September 1, 1880.; Includes inset: The country around Kandahar.; Publisher's list of Ordnance Survey maps on verso.|46 x 61 centimeters|Scale approximately 1:1,480,000",
+  "dc_description_s": "Relief shown by shading, hachures, and spot heights.; Shows colored boundaries and landforms in Afghanistan at the time of the Second Anglo-Afghan War.; Published September 1, 1880.; Includes inset: The country around Kandahar.; Publisher's list of Ordnance Survey maps on verso.|46 x 61 centimeters|Scale approximately 1:1,480,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3578/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3578\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3578/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:23:56Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3578\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3578/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Afghanistan",
+    "Asia"
+  ],
+  "layer_modified_dt": "2022-09-28T02:14:45Z",
   "dc_language_sm": [
     "eng"
   ],

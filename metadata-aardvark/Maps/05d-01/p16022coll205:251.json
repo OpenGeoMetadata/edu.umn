@@ -1,16 +1,22 @@
 {
   "dct_title_s": "Missouri-Illinois, Saint Louis special map",
-  "dct_alternative_sm": [
-    "Missouri-Illinois, Saint Louis special map"
-  ],
   "dct_description_sm": [
-    "(W 90⁰25ʹ--W 90⁰05ʹ/N 38⁰44ʹ--N 38⁰31ʹ).   Relief shwon by contours and spot heights.   Text and ill. on verso. Dimensions: 39 x 47 centimeters"
+    "(W 90⁰25ʹ--W 90⁰05ʹ/N 38⁰44ʹ--N 38⁰31ʹ).   Relief shwon by contours and spot heights.   Text and ill. on verso.",
+    "39 x 47 centimeters",
+    "Scale 1:62,500",
+    "City Maps"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Geological Survey (U.S.); Wilson, Herbert Michael, 1860-1920.; Cooke, Chas. E.; Tufts, Wm. O.; Young, Gilbert; Hawkins, Geo. T.; U.S. Coast and Geodetic Survey."
+    "Geological Survey (U.S.)",
+    "Wilson, Herbert Michael, 1860-1920.",
+    "Cooke, Chas. E.",
+    "Tufts, Wm. O.",
+    "Young, Gilbert",
+    "Hawkins, Geo. T.",
+    "U.S. Coast and Geodetic Survey."
   ],
   "dct_publisher_sm": [
     "The Survey (Washington, D.C)"
@@ -27,34 +33,29 @@
     "1904"
   ],
   "dct_issued_s": "1904",
-  "gbl_indexYear_im": [
-    "1904"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1904 TO 1904]"
-  ],
   "dct_spatial_sm": [
     "Saint Louis, Missouri; Illinois"
   ],
-  "locn_geometry": "ENVELOPE(-90.41,-90.08,38.73,38.51)",
+  "locn_geometry": "POLYGON((-90.41 38.73, -90.08 38.73, -90.08 38.51, -90.41 38.51, -90.41 38.73))",
   "dcat_bbox": "ENVELOPE(-90.41,-90.08,38.73,38.51)",
   "dcat_centroid": "38.62,-90.245",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll205"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll205/id/251/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:251\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/251/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:251\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/251/manifest.json\"}",
   "id": "p16022coll205:251",
   "dct_identifier_sm": [
     "UMN_ALMA:9912657320001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:34Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

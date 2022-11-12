@@ -1,10 +1,10 @@
 {
-  "dct_title_s": "Carte générale des découvertes de l'Amiral de Fonte, et autres navigateurs espagnols, anglois et russes pour la recherche du passage á la mer du sud",
-  "dct_alternative_sm": [
-    "Carte générale des découvertes de l'Amiral de Fonte, et autres navigateurs espagnols, anglois et russes pour la recherche du passage á la mer du sud"
-  ],
+  "dct_title_s": "Carte générale des découvertes de l'Amiral de Fonte, et autres navigateurs espagnols, anglois et russes pour la recherche du passage á la mer du sud",
   "dct_description_sm": [
-    "Pictorial relief.  \"Suppl. 7e. carte\" upper right hand corner of map.  This is one of ten maps which appeared in a supplement of the Encyclopedie ou dictionnaire raissoné des sciences, des arts et des métiers. The supplement was published by Charles-Joseph Panckouke.  Inset map: Carte dressée sur la lettre de l'Amiral de Fonte par l'Ecrivain de la Californie. Dimensions: 30 x 39 centimeters"
+    "Pictorial relief.  \"Suppl. 7e. carte\" upper right hand corner of map.  This is one of ten maps which appeared in a supplement of the Encyclopedie ou dictionnaire raissoné des sciences, des arts et des métiers. The supplement was published by Charles-Joseph Panckouke.  Inset map: Carte dressée sur la lettre de l'Amiral de Fonte par l'Ecrivain de la Californie.",
+    "30 x 39 centimeters",
+    "Scale approximately 1:22,000,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "fre"
@@ -30,34 +30,29 @@
     "1752-1772"
   ],
   "dct_issued_s": "1752 - 1772",
-  "gbl_indexYear_im": [
-    "1752"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1752 TO 1772]"
-  ],
   "dct_spatial_sm": [
     "Arctic"
   ],
-  "locn_geometry": "ENVELOPE(130,-10,85,30.35)",
+  "locn_geometry": "POLYGON((130 85, -10 85, -10 30.35, 130 30.35, 130 85))",
   "dcat_bbox": "ENVELOPE(130,-10,85,30.35)",
   "dcat_centroid": "57.675,60.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/478/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:478\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/478/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:478\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/478/manifest.json\"}",
   "id": "p16022coll230:478",
   "dct_identifier_sm": [
     "UMN_ALMA:9954588140001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:55Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

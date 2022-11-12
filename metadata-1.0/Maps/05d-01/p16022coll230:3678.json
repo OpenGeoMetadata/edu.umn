@@ -6,10 +6,14 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3678",
   "solr_geom": "ENVELOPE(68.15,91.9333,35.5,6.75)",
-  "dc_description_s": "Includes highway index.|35 x 29 centimeters, on sheet 42 x 34 centimeters|Scale 1:200",
+  "dc_description_s": "Includes highway index.|35 x 29 centimeters, on sheet 42 x 34 centimeters|Scale 1:200|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3678/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3678\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3678/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:22:25Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3678\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3678/manifest.json\"}",
+  "dct_spatial_sm": [
+    "India",
+    "Asia"
+  ],
+  "layer_modified_dt": "2022-09-28T02:16:34Z",
   "dc_language_sm": [
     "eng"
   ]

@@ -1,7 +1,11 @@
 {
   "dct_title_s": "A Chronological chart of ancient, modern and Biblical history",
   "dct_description_sm": [
-    "Cover title: Adams' synchronological chart or map of history. Includes illus., port., etc. Dimensions: Color table on sheet ; 70 x 677 cm, folded to 70 x 35 cm."
+    "Cover title: Adams' synchronological chart or map of history. Includes illus., port., etc.",
+    "3rd ed., carefully and critically rev. and brought down to 1878.",
+    "Color table on sheet ; 70 x 677 cm, folded to 70 x 35 cm.",
+    "Not drawn to scale.",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -20,20 +24,13 @@
     "Thematic maps"
   ],
   "dcat_keyword_sm": [
-    "Chronology, Historical Charts, Diagrams, Etc",
-    "bbox-update-mar2020"
+    "Chronology, Historical Charts, Diagrams, Etc"
   ],
   "dct_temporal_sm": [
     "1871-1878"
   ],
-  "dct_issued_s": "1878",
-  "gbl_indexYear_im": [
-    "1871"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1871 TO 1878]"
-  ],
-  "locn_geometry": "ENVELOPE(-13.5,65,71.8,10.6)",
+  "dct_issued_s": "1878?",
+  "locn_geometry": "POLYGON((-13.5 71.8, 65 71.8, 65 10.6, -13.5 10.6, -13.5 71.8))",
   "dcat_bbox": "ENVELOPE(-13.5,65,71.8,10.6)",
   "dcat_centroid": "41.199999999999996,25.75",
   "pcdm_memberOf_sm": [
@@ -41,18 +38,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll230"
+    "p16022coll230"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/210879\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/318/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:318\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/318/manifest.json\"}",
   "id": "p16022coll230:318",
   "dct_identifier_sm": [
-    "p16022coll230:318"
+    "UMN_ALMA:9917779970001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:26Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

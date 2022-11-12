@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Map of the state of Texas from the latest authorities",
-  "dct_alternative_sm": [
-    "Map of the state of Texas from the latest authorities"
+  "dct_description_sm": [
+    "Relief shown by hachures.; Includes the population, etc. of Texas according to the Census of 1850, and information on the Rio Grande, El Llano Estacado, Great Indian Crossing and railroads in Texas.; \"Entered according to act of Congress, in the year 1856, by Charles Desilver, in the Clerks office of the Eastern District of Pennsylvania.\"; Prime meridians: Greenwich and Washington.; Insets: Northern Texas--Map of the Vicinity of Galveston City.; In lower right margin: 25.",
+    "30 x 37 centimeters",
+    "Scale 1:3,400,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -20,23 +23,18 @@
     "1856"
   ],
   "dct_issued_s": "1856",
-  "gbl_indexYear_im": [
-    "1856"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1856 TO 1856]"
-  ],
   "dct_spatial_sm": [
     "Texas"
   ],
-  "locn_geometry": "ENVELOPE(-106.0,-94.0,36.0,26.0)",
+  "locn_geometry": "POLYGON((-106.0 36.0, -94.0 36.0, -94.0 26.0, -106.0 26.0, -106.0 36.0))",
   "dcat_bbox": "ENVELOPE(-106.0,-94.0,36.0,26.0)",
   "dcat_centroid": "31.0,-100.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -48,6 +46,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9923063720001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:56Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,5 +1,10 @@
 {
   "dct_title_s": "Map of the countries on the north west frontier of India : compiled Chiefly From The Surveys of Lieut. J. Wood, ..., Major R. Leech, ..., and from Surveyed Routes received by the Court Of Directors from the Government of Bombay",
+  "dct_description_sm": [
+    "Cartographic Details: Scale [1:1,400,000] Relief shown by hachures. Inset: Map of the Countries between Russia, Turkey and India.",
+    "Scale [1:1,400,000]",
+    "Ames Library of South Asia Maps"
+  ],
   "dct_language_sm": [
     "eng"
   ],
@@ -12,22 +17,18 @@
   ],
   "dcat_keyword_sm": [
     "Afghanistan Maps",
-    "Pakistan Maps"
+    "Pakistan Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1841"
   ],
-  "gbl_indexYear_im": [
-    "1841"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1841 TO 1841]"
-  ],
+  "dct_issued_s": "1841",
   "dct_spatial_sm": [
     "Afghanistan",
     "Pakistan"
   ],
-  "locn_geometry": "ENVELOPE(61.6113,75.0146,37.0472,22.723)",
+  "locn_geometry": "POLYGON((61.6113 37.0472, 75.0146 37.0472, 75.0146 22.723, 61.6113 22.723, 61.6113 37.0472))",
   "dcat_bbox": "ENVELOPE(61.6113,75.0146,37.0472,22.723)",
   "dcat_centroid": "29.885099999999998,68.31295",
   "pcdm_memberOf_sm": [
@@ -35,18 +36,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/200819\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/213/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:213\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/213/manifest.json\"}",
   "id": "p16022coll246:213",
   "dct_identifier_sm": [
-    "p16022coll246:213"
+    "UMN_ALMA:9931679280001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:44Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Insula Ceilon et Madura",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:960,000 (E 77°00'00\"--E 82°00'00\"/N 9°54'00\"--N 5°52'00\"). Relief shown pictorially. Date from previous call number. In Latin. Dimensions: 49 x 57 centimeters"
+    "Cartographic Details: Scale approximately 1:960,000 (E 77°00'00\"--E 82°00'00\"/N 9°54'00\"--N 5°52'00\"). Relief shown pictorially. Date from previous call number. In Latin.",
+    "49 x 57 centimeters",
+    "Scale approximately 1:960,000",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "lat"
@@ -10,7 +13,7 @@
     "de la Feuille, Jacques"
   ],
   "dct_publisher_sm": [
-    "Jacque de la Feuille"
+    "Jacque de la Feuille; Amsterdam"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -23,16 +26,11 @@
   "dct_temporal_sm": [
     "1690"
   ],
-  "gbl_indexYear_im": [
-    "1690"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1690 TO 1690]"
-  ],
+  "dct_issued_s": "1690",
   "dct_spatial_sm": [
     "Sri Lanka"
   ],
-  "locn_geometry": "ENVELOPE(77,82,9.9,5.86)",
+  "locn_geometry": "POLYGON((77 9.9, 82 9.9, 82 5.86, 77 5.86, 77 9.9))",
   "dcat_bbox": "ENVELOPE(77,82,9.9,5.86)",
   "dcat_centroid": "7.880000000000001,79.5",
   "pcdm_memberOf_sm": [
@@ -40,18 +38,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/228993\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/410/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:410\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/410/manifest.json\"}",
   "id": "p16022coll246:410",
   "dct_identifier_sm": [
-    "p16022coll246:410"
+    "UMN_ALMA:9973944385101701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:56Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

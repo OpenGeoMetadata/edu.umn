@@ -1,12 +1,10 @@
 {
   "dct_title_s": "The Daily Telegraph war map no. 21 : of the Belgian and British fronts",
-  "dct_alternative_sm": [
-    "The Daily Telegraph war map no. 21 : of the Belgian and British fronts"
-  ],
   "dct_description_sm": [
     "Relief shown by gradient tints.; Includes 1 inset map.; Supplement prefixed.",
     "100 x 47 centimeters, folded to 21 centimeters",
-    "Scale approximately 1:155,000"
+    "Scale approximately 1:155,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -15,7 +13,7 @@
     "Gross, Alexander, 1879-1958"
   ],
   "dct_publisher_sm": [
-    "Geographia Ltd  "
+    "Geographia Ltd (London)"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -29,31 +27,29 @@
     "1916"
   ],
   "dct_issued_s": "1916",
-  "gbl_indexYear_im": [
-    "1916"
+  "dct_spatial_sm": [
+    "Europe"
   ],
-  "gbl_dateRange_drsim": [
-    "[1916 TO 1916]"
-  ],
-  "locn_geometry": "ENVELOPE(2.3333,3.2167,51.1667,49.8833)",
+  "locn_geometry": "POLYGON((2.3333 51.1667, 3.2167 51.1667, 3.2167 49.8833, 2.3333 49.8833, 2.3333 51.1667))",
   "dcat_bbox": "ENVELOPE(2.3333,3.2167,51.1667,49.8833)",
   "dcat_centroid": "50.525,2.775",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/2904/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2904\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2904/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2904\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2904/manifest.json\"}",
   "id": "p16022coll230:2904",
   "dct_identifier_sm": [
     "UMN_ALMA:9918030740001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:10Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

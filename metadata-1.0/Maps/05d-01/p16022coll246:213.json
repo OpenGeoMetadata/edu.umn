@@ -1,25 +1,26 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "p16022coll246:213",
+  "dc_identifier_s": "UMN_ALMA:9931679280001701",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of the countries on the north west frontier of India : compiled Chiefly From The Surveys of Lieut. J. Wood, ..., Major R. Leech, ..., and from Surveyed Routes received by the Court Of Directors from the Government of Bombay",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:213",
   "solr_geom": "ENVELOPE(61.6113,75.0146,37.0472,22.723)",
-  "solr_year_i": "1841",
   "dc_creator_sm": [
     "Walker, John, 1786-1873"
   ],
+  "dc_description_s": "Cartographic Details: Scale [1:1,400,000] Relief shown by hachures. Inset: Map of the Countries between Russia, Turkey and India.|Scale [1:1,400,000]|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/200819\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/213/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:213\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/213/manifest.json\"}",
   "dct_spatial_sm": [
     "Afghanistan",
     "Pakistan"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:44Z",
+  "layer_modified_dt": "2022-09-28T02:14:26Z",
   "dc_language_sm": [
     "eng"
   ],
+  "dct_issued_s": "1841",
   "dct_temporal_sm": [
     "1841"
   ]

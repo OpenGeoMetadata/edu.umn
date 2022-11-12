@@ -1,24 +1,27 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "p16022coll246:197",
+  "dc_identifier_s": "UMN_ALMA:9973942709101701",
   "dc_rights_s": "Public",
   "dc_title_s": "Indiae orientalis nec non insularum adiacentium nova descriptio",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:197",
   "solr_geom": "ENVELOPE(70.18,150.23,40.01,-20.08)",
-  "solr_year_i": "1696",
   "dc_creator_sm": [
     "Visscher, Nicolaes, 1649-1702",
     "Allard, Carel, 1648-approximately 1709"
   ],
-  "dc_description_s": "Cartographic Details: Scale approximately 1:150,000. Relief shown pictorially.\"Cum privilegio ordinum Hollandia et Westfrisiæ.\" From: Atlas minor : seu universi terrarum orbis geographicum compendium recentiffimas, & a. / Carolus Allard. Amstelodami : ex officinaô Caroli Allard, [1696?]. Dimensions: 47 x 57 centimeters",
+  "dc_description_s": "Cartographic Details: Scale approximately 1:150,000. Relief shown pictorially.\"Cum privilegio ordinum Hollandia et Westfrisiæ.\" From: Atlas minor : seu universi terrarum orbis geographicum compendium recentiffimas, & a. / Carolus Allard. Amstelodami : ex officinaô Caroli Allard, [1696?].|47 x 57 centimeters|Scale approximately 1:150,000|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/225771\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/197/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:24:58Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:197\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/197/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Asia"
+  ],
+  "layer_modified_dt": "2022-09-28T02:15:58Z",
   "dc_language_sm": [
     "lat"
   ],
-  "dc_publisher_s": "Ex officinaô Caroli Allard",
+  "dc_publisher_s": "Ex officinaô Caroli Allard; Amstelodami",
+  "dct_issued_s": "1696?",
   "dct_temporal_sm": [
     "1696?"
   ]

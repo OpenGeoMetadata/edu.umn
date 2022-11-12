@@ -1,18 +1,16 @@
 {
   "dct_title_s": "Caraccas and Guiana",
-  "dct_alternative_sm": [
-    "Caraccas and Guiana"
-  ],
   "dct_description_sm": [
     "Detached from: A new general atlas / J. Thomson. Edinburgh, 1817.; Relief shown by shading.; \"British Statute Miles 69 1/2 to a Degree. Spanish Leagues 18 1/2 to a Degree.\"; Reference: Phillips 731.; Label mounted on margin: No. 70.",
     "48 x 59 centimeters",
-    "Scale approximately 1:4,400,000"
+    "Scale approximately 1:4,400,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_publisher_sm": [
-    "J. Thomson"
+    "J. Thomson (Edinburgh)"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -22,34 +20,29 @@
     "1817"
   ],
   "dct_issued_s": "1817",
-  "gbl_indexYear_im": [
-    "1817"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1817 TO 1817]"
-  ],
   "dct_spatial_sm": [
     "Venezuela (Bolivarian Republic); French Guiana"
   ],
-  "locn_geometry": "ENVELOPE(-74.0,-50.0,14.0,-5.0)",
+  "locn_geometry": "POLYGON((-74.0 14.0, -50.0 14.0, -50.0 -5.0, -74.0 -5.0, -74.0 14.0))",
   "dcat_bbox": "ENVELOPE(-74.0,-50.0,14.0,-5.0)",
   "dcat_centroid": "4.5,-62.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/2798/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2798\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2798/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2798\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2798/manifest.json\"}",
   "id": "p16022coll230:2798",
   "dct_identifier_sm": [
     "UMN_ALMA:9947620950001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:46Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

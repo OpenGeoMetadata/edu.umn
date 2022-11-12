@@ -2,21 +2,20 @@
   "geoblacklight_version": "1.0",
   "dc_identifier_s": "UMN_ALMA:9929824470001701",
   "dc_rights_s": "Public",
-  "dc_title_s": "Plan de Genève",
+  "dc_title_s": "Plan de Genève",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll205:315",
   "solr_geom": "ENVELOPE(6.1001,6.16,46.2101,46.1601)",
-  "solr_year_i": "1900",
   "dc_creator_sm": [
     "Association des intérêts de Genève."
   ],
-  "dc_description_s": "Indexed. Some buildings shown pictorially. Dimensions: 38 x 50 centimeters",
+  "dc_description_s": "Indexed. Some buildings shown pictorially.|38 x 50 centimeters|Scale not given.|City Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll205/id/315/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:315\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/315/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:315\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/315/manifest.json\"}",
   "dct_spatial_sm": [
     "Switzerland"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:56Z",
+  "layer_modified_dt": "2022-09-28T02:16:05Z",
   "dc_language_sm": [
     "fre"
   ],

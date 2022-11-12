@@ -1,12 +1,10 @@
 {
   "dct_title_s": "Le royaume de Siam, auec les royaumes qui luy sont tributaires, et les isles de Sumatra, Andemaon, etc., et les isles voisine : avec les observations des six Peres Jesuites envojez par le Roy en qualité de ses mathematiciens dans les Indes, et ä la Chine ou est aussi tracée la route qu'ils ont tenúe par le Destroit de la Sonde jusqu'ä Siam",
-  "dct_alternative_sm": [
-    "Le royaume de Siam, auec les royaumes qui luy sont tributaires, et les isles de Sumatra, Andemaon, etc., et les isles voisine : avec les observations des six Peres Jesuites envojez par le Roy en qualité de ses mathematiciens dans les Indes, et ä la Chine ou est aussi tracée la route qu'ils ont tenúe par le Destroit de la Sonde jusqu'ä Siam"
-  ],
   "dct_description_sm": [
     "Appears in:Atlas maior cum generales omnium totius orbis regnorum rerumpubl. atque insularum, tum particulares praecipuarum in iis Provinciarum, Ducatuum, Comitatuum ceterarumque minorum regionum ac divisionum tabulas geographicas continens / Collectus et ... dispositus ab Reinero Ottens. Amstelaedami : apud Viduam ac filios Ioachimi Ottens, 1719-1725. (7 v.).; Two sheets glued together, with \"162\" handwritten in upper left corner.",
     "sheets 58 x 69 centimeters",
-    "Scale approximately 1:4,500,000"
+    "Scale approximately 1:4,500,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "fre"
@@ -25,31 +23,30 @@
     "1715"
   ],
   "dct_issued_s": "1715?",
-  "gbl_indexYear_im": [
-    "1715"
+  "dct_spatial_sm": [
+    "Thailand",
+    "Asia"
   ],
-  "gbl_dateRange_drsim": [
-    "[1715 TO 1715]"
-  ],
-  "locn_geometry": "ENVELOPE(89.9167,120.1167,25.1,-10.15)",
+  "locn_geometry": "POLYGON((89.9167 25.1, 120.1167 25.1, 120.1167 -10.15, 89.9167 -10.15, 89.9167 25.1))",
   "dcat_bbox": "ENVELOPE(89.9167,120.1167,25.1,-10.15)",
   "dcat_centroid": "7.4750000000000005,105.0167",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3765/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3765\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3765/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3765\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3765/manifest.json\"}",
   "id": "p16022coll230:3765",
   "dct_identifier_sm": [
     "UMN_ALMA:9976156485601701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:59Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,10 +1,11 @@
 {
   "dct_title_s": "Map of the routes examined and surveyed for the Winchester and Potomac Rail Road, State of Virginia, under the direction of Capt. J.D. Graham, U.S. Top. Eng., 1831 and 1832; surveyed by Lts. A.D. Mackay and E. French, 1st Arty., assistants in 1831, and Lts. E. French and J.F. Izard, assistants in 1832; drawn from the original plot by Lt. Humphreys, 2d Artillery",
-  "dct_alternative_sm": [
-    "Map of the routes examined and surveyed for the Winchester and Potomac Rail Road, State of Virginia, under the direction of Capt. J.D. Graham, U.S. Top. Eng., 1831 and 1832; surveyed by Lts. A.D. Mackay and E. French, 1st Arty., assistants in 1831, and Lts. E. French and J.F. Izard, assistants in 1832; drawn from the original plot by Lt. Humphreys, 2d Artillery"
-  ],
   "dct_description_sm": [
-    "Topographic map surveyed in strips along the railroad routes. Shows property owners and covers an area between the Shenandoah and Potomac Rivers to Winchester. Includes table showing \"a summary of the routes surveyed for the Winchester and Potomac Rail Road, State of Virginia.\" Dimensions: 53 x 58 centimeters"
+    "Topographic map surveyed in strips along the railroad routes. Shows property owners and covers an area between the Shenandoah and Potomac Rivers to Winchester. Includes table showing \"a summary of the routes surveyed for the Winchester and Potomac Rail Road, State of Virginia.\"",
+    "From Documents Concerning Winchester and Potomac Railroad, 24th Congress, 2d session., House doc. 465, serial 331.; \"Submitted to the Bureau of Topographical Engineers, with reports dated March 31st & September 22d, 1832. James D. Graham, Captain, U.S. Topl. Engs.\"; Description derived from published bibliography.",
+    "53 x 58 centimeters",
+    "Scale 1:63,360",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -28,23 +29,18 @@
     "1832?"
   ],
   "dct_issued_s": "1832?",
-  "gbl_indexYear_im": [
-    "1832"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1832 TO 1832]"
-  ],
   "dct_spatial_sm": [
     "Virginia"
   ],
-  "locn_geometry": "ENVELOPE(-83.6667,-75.15,39.45,36.5333)",
+  "locn_geometry": "POLYGON((-83.6667 39.45, -75.15 39.45, -75.15 36.5333, -83.6667 36.5333, -83.6667 39.45))",
   "dcat_bbox": "ENVELOPE(-83.6667,-75.15,39.45,36.5333)",
   "dcat_centroid": "37.99165,-79.40835000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -56,6 +52,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9943444960001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:52Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

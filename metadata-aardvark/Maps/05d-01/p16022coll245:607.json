@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Election districts, city of St. Paul, 1920",
-  "dct_alternative_sm": [
-    "Election districts, city of St. Paul, 1920"
+  "dct_description_sm": [
+    "1 map on 2 sheets",
+    "83 x 113 centimeters",
+    "1:14,400",
+    "Minneapolis and St. Paul Maps and Atlases"
   ],
   "dct_language_sm": [
     "eng"
@@ -25,34 +28,29 @@
     "1920"
   ],
   "dct_issued_s": "1920",
-  "gbl_indexYear_im": [
-    "1920"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1920 TO 1920]"
-  ],
   "dct_spatial_sm": [
     "St. Paul, Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-93.2,-93,44.98,44.88)",
+  "locn_geometry": "POLYGON((-93.2 44.98, -93 44.98, -93 44.88, -93.2 44.88, -93.2 44.98))",
   "dcat_bbox": "ENVELOPE(-93.2,-93,44.98,44.88)",
   "dcat_centroid": "44.93,-93.1",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll245"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll245/id/607/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:607\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/607/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:607\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/607/manifest.json\"}",
   "id": "p16022coll245:607",
   "dct_identifier_sm": [
     "UMN_ALMA:9944603070001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:58Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

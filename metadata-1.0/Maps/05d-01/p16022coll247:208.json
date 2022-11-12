@@ -1,26 +1,26 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "p16022coll247:208",
+  "dc_identifier_s": "UMN_ALMA:9957675710001701",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of the White Earth Indian Reservation, Minnesota, 1910",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll247:208",
   "solr_geom": "ENVELOPE(-96.0681,-95.2966,47.5003,46.9761)",
-  "solr_year_i": "1910",
   "dc_creator_sm": [
     "United States. Office of Indian Affairs."
   ],
-  "dc_description_s": "Cartographic Details: Scale [1:79,000] Shows township, range and section lines, settlements, schools, mission, agency, sawmill, resettlement land, tribal lands. Dimensions: 79 x 106 centimeters",
+  "dc_description_s": "Cartographic Details: Scale [1:79,000] Shows township, range and section lines, settlements, schools, mission, agency, sawmill, resettlement land, tribal lands.|79 x 106 centimeters|1:79,000|General Minnesota Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/196952\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/208/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:208\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/208/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:45Z",
+  "layer_modified_dt": "2022-09-28T02:16:40Z",
   "dc_language_sm": [
     "eng"
   ],
-  "dc_publisher_s": "U.S. Geological Survey",
+  "dc_publisher_s": "U.S. Geological Survey ;  Washington, D.C.",
+  "dct_issued_s": "1910",
   "dct_temporal_sm": [
     "1910"
   ]

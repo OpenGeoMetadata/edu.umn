@@ -1,7 +1,10 @@
 {
   "dct_title_s": "America sive novvs orbis respectv Evropaeorvm inferior globi terrestris pars",
-  "dct_alternative_sm": [
-    "America sive novvs orbis respectv Evropaeorvm inferior globi terrestris pars"
+  "dct_description_sm": [
+    "Includes latitude and longitude.; Relief shown pictorially.; Four explorers support the circle enclosing the hemisphere in a maritime landscape. The explorers with dates of their discoveries are from top left: Christopher Columbus (1492) and Amerigo Vespucci (1497); from bottom left: Ferdinand Magellan (1519), and Francisco Pizarro (1526).; Includes illustrations of ships and a monstrous fish.; First map of America to show the White-le Moyne geography of Virginia and Florida.; Appears in Girolamo Benzoni's History of the new world, v. 3., which is part 6 of de Bry's Grands voyages.; Latin ed. published 1596, 1617, and 1624.",
+    "14 centimeters diameter, on sheet 33 x 41 centimeters",
+    "Scale approximately 1:30,000,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "lat"
@@ -20,34 +23,29 @@
     "1596"
   ],
   "dct_issued_s": "1596?",
-  "gbl_indexYear_im": [
-    "1596"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1596 TO 1596]"
-  ],
   "dct_spatial_sm": [
     "North America"
   ],
-  "locn_geometry": "ENVELOPE(-150.4667,-29.9667,84.9,-80.4833)",
+  "locn_geometry": "POLYGON((-150.4667 84.9, -29.9667 84.9, -29.9667 -80.4833, -150.4667 -80.4833, -150.4667 84.9))",
   "dcat_bbox": "ENVELOPE(-150.4667,-29.9667,84.9,-80.4833)",
   "dcat_centroid": "2.208350000000003,-90.2167",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/817/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:817\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/817/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:817\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/817/manifest.json\"}",
   "id": "p16022coll230:817",
   "dct_identifier_sm": [
     "UMN_ALMA:9976156486101701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:53Z",
+  "gbl_mdModified_dt": "2022-09-28T02:13:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

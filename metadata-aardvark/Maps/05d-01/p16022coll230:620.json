@@ -1,10 +1,10 @@
 {
   "dct_title_s": "Official railroad map of Wisconsin",
-  "dct_alternative_sm": [
-    "Official railroad map of Wisconsin"
-  ],
   "dct_description_sm": [
-    "Includes lists of railroads showing miles and gross earnings for year ending June 30, 1911. Also includes statistical tables and list of counties giving area, population (1910), county seat, distance from Madison, and distance from Milwaukee. Dimensions: 104 x 84 centimeters"
+    "Includes lists of railroads showing miles and gross earnings for year ending June 30, 1911. Also includes statistical tables and list of counties giving area, population (1910), county seat, distance from Madison, and distance from Milwaukee.",
+    "104 x 84 centimeters",
+    "Scale [1:633,600]. 1 inch = 10 miles",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -28,34 +28,29 @@
     "1912"
   ],
   "dct_issued_s": "1912",
-  "gbl_indexYear_im": [
-    "1912"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1912 TO 1912]"
-  ],
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-92.88,-86.23,47.3,42.48)",
+  "locn_geometry": "POLYGON((-92.88 47.3, -86.23 47.3, -86.23 42.48, -92.88 42.48, -92.88 47.3))",
   "dcat_bbox": "ENVELOPE(-92.88,-86.23,47.3,42.48)",
   "dcat_centroid": "44.89,-89.555",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/620/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:620\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/620/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:620\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/620/manifest.json\"}",
   "id": "p16022coll230:620",
   "dct_identifier_sm": [
     "UMN_ALMA:9917876860001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:41Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

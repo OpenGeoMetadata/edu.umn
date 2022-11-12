@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Map of Indian Territory : indicating the progress of survey to March 1, 1896",
-  "dct_alternative_sm": [
-    "Map of Indian Territory : indicating the progress of survey to March 1, 1896"
+  "dct_description_sm": [
+    "Covers eastern and south central Oklahoma.; Relief shown by shading.; Prime meridians: Greenwich and Washington.; 1891 edition \"compiled from the official records of the General Land Office and other sources.\"; \"S Doc 169 54 1\"--Lower right margin.",
+    "71 x 64 centimeters",
+    "Scale approximately 1:570,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -20,23 +23,18 @@
     "1896?"
   ],
   "dct_issued_s": "1896?",
-  "gbl_indexYear_im": [
-    "1896"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1896 TO 1896]"
-  ],
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-98.0,-94.5,38.0,33.5)",
+  "locn_geometry": "POLYGON((-98.0 38.0, -94.5 38.0, -94.5 33.5, -98.0 33.5, -98.0 38.0))",
   "dcat_bbox": "ENVELOPE(-98.0,-94.5,38.0,33.5)",
   "dcat_centroid": "35.75,-96.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -48,6 +46,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9917943100001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:43Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

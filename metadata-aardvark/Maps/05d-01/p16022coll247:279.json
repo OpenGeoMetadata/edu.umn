@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Lake regions of northern Minnesota : St. Louis, Lake and Cook counties reached by the D. & I.R.R.R. : map of canoe routes from E",
   "dct_description_sm": [
-    "Cartographic Details: Scale 1:190,080. Three miles to one in. (W 92°0'--W 90°/N 48°25'--N 47°5'). At head of title: Duluth & Iron Range Railroad Company. Dimensions: 36 x 80 centimeters"
+    "Cartographic Details: Scale 1:190,080. Three miles to one in. (W 92°0'--W 90°/N 48°25'--N 47°5'). At head of title: Duluth & Iron Range Railroad Company.",
+    "36 x 80 centimeters",
+    "1:190,080",
+    "General Minnesota Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -13,27 +16,20 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "Railroads"
-  ],
   "dcat_keyword_sm": [
     "Duluth & Iron Range Railroad Company Maps",
     "Canoes and Canoeing Minnesota Maps",
-    "Superior Quetico Area Maps"
+    "Superior Quetico Area Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1917?"
   ],
-  "gbl_indexYear_im": [
-    "1917"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1917 TO 1917]"
-  ],
+  "dct_issued_s": "1917?",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-92.66,-90,48.41,47.75)",
+  "locn_geometry": "POLYGON((-92.66 48.41, -90 48.41, -90 47.75, -92.66 47.75, -92.66 48.41))",
   "dcat_bbox": "ENVELOPE(-92.66,-90,48.41,47.75)",
   "dcat_centroid": "48.08,-91.33",
   "pcdm_memberOf_sm": [
@@ -41,18 +37,15 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll247"
-  ],
-  "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "p16022coll247"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/196940\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/279/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:279\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/279/manifest.json\"}",
   "id": "p16022coll247:279",
   "dct_identifier_sm": [
-    "p16022coll247:279"
+    "UMN_ALMA:9948172810001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:23Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

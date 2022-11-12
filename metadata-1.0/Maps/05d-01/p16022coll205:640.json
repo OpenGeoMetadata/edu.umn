@@ -5,16 +5,18 @@
   "dc_title_s": "Missouri-Illinois, Saint Louis special map",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll205:640",
-  "solr_year_i": "1904",
+  "solr_geom": "ENVELOPE(-90.41666667,-90.08333333,38.73333333,38.51666667)",
   "dc_creator_sm": [
     "Geological Survey (U.S.)"
   ],
+  "dc_description_s": "Blueline photocopy, date unknown.; Relief shwon by contours and spot heights.; Text and ill. on verso.|39 x 47 centimeters|City Maps",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:640\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/640/manifest.json\"}",
   "dct_spatial_sm": [
-    "St. Louis, Missouri"
+    "St. Louis, Missouri",
+    "Missouri"
   ],
-  "layer_modified_dt": "2022-02-27T01:38:13Z",
+  "layer_modified_dt": "2022-09-28T02:15:05Z",
   "dc_language_sm": [
     "eng"
   ],

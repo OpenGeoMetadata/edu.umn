@@ -6,14 +6,16 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3774",
   "solr_geom": "ENVELOPE(176.0,178.0,-16.0,-20.0)",
-  "solr_year_i": "1918",
   "dc_creator_sm": [
     "Great Britain. Hydrographic Office"
   ],
-  "dc_description_s": "Hydrographic chart of the Fijian Islands showing towns and geographical features; In lower left margin: \"Small corrections II.84, IX.84, ... 1918-835.\"; Relief shown by hachures and spot height. Depth shown by bathymetric soundings.; Oriented with north slightly to the right.; \"From the surveys of Captain H.M. Denham, R.N.; F.R.S. 1854-6. Lieutenants W.U. Moore and G.E. Richards, R.N. 1876-82 with additions from the works of Commander C. Wilkes, U.S.N. and various other authorities.\"; \"2691\"--lower right.|63 x 96 centimeters|Scale approximately 1:740,000",
+  "dc_description_s": "Hydrographic chart of the Fijian Islands showing towns and geographical features; In lower left margin: \"Small corrections II.84, IX.84, ... 1918-835.\"; Relief shown by hachures and spot height. Depth shown by bathymetric soundings.; Oriented with north slightly to the right.; \"From the surveys of Captain H.M. Denham, R.N.; F.R.S. 1854-6. Lieutenants W.U. Moore and G.E. Richards, R.N. 1876-82 with additions from the works of Commander C. Wilkes, U.S.N. and various other authorities.\"; \"2691\"--lower right.|63 x 96 centimeters|Scale approximately 1:740,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3774/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3774\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3774/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:29:49Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3774\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3774/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Fiji"
+  ],
+  "layer_modified_dt": "2022-09-28T02:15:27Z",
   "dc_language_sm": [
     "eng"
   ],

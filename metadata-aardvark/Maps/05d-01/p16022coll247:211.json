@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Canoe map of northeastern Minnesota.",
   "dct_description_sm": [
-    "Cartographic Details: Scale 1:253,440 ;  1 mile -- 1/4 in. (W 93°'--W 89°29'/N 47°3'--N 48°39'). Shows canoe routes in Superior National Forest and Burntside State Forest. \"W.T. Cox, State Forester.\" \"August, 1913.\" \"Quadrangle No 3.\" Dimensions: 44 x 111 centimeters"
+    "Cartographic Details: Scale 1:253,440 ;  1 mile -- 1/4 in. (W 93°'--W 89°29'/N 47°3'--N 48°39'). Shows canoe routes in Superior National Forest and Burntside State Forest. \"W.T. Cox, State Forester.\" \"August, 1913.\" \"Quadrangle No 3.\"",
+    "44 x 111 centimeters",
+    "1:253,440",
+    "General Minnesota Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Cox, William Thomas, 1878-1961"
   ],
   "dct_publisher_sm": [
-    "Forest Service"
+    "Forest Service;  Minnesota"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -20,21 +23,17 @@
   "dcat_keyword_sm": [
     "Canoes and Canoeing Minnesota Superior National Forest Maps",
     "Forest Reserves Minnesota Maps",
-    "Superior National Forest (Minn.) Maps"
+    "Superior National Forest (Minn.) Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1913"
   ],
-  "gbl_indexYear_im": [
-    "1913"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1913 TO 1913]"
-  ],
+  "dct_issued_s": "1913",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-93.08,-89.48,48.65,47.71)",
+  "locn_geometry": "POLYGON((-93.08 48.65, -89.48 48.65, -89.48 47.71, -93.08 47.71, -93.08 48.65))",
   "dcat_bbox": "ENVELOPE(-93.08,-89.48,48.65,47.71)",
   "dcat_centroid": "48.18,-91.28",
   "pcdm_memberOf_sm": [
@@ -42,18 +41,15 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll247"
-  ],
-  "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "p16022coll247"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/196939\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/211/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:211\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/211/manifest.json\"}",
   "id": "p16022coll247:211",
   "dct_identifier_sm": [
-    "p16022coll247:211"
+    "UMN_ALMA:9948644540001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:38Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

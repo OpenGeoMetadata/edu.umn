@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Map of Winnebago County",
-  "dct_alternative_sm": [
-    "Map of Winnebago County"
+  "dct_description_sm": [
+    "Relief shown by contours and pictorially.; References include improved farms, low land and slough, timber and school houses.0",
+    "32 x 36 centimeters",
+    "No scale given",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -17,23 +20,18 @@
     "1900"
   ],
   "dct_issued_s": "1900",
-  "gbl_indexYear_im": [
-    "1900"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1900 TO 1900]"
-  ],
   "dct_spatial_sm": [
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-93.9706,-93.4972,43.4997,43.255)",
+  "locn_geometry": "POLYGON((-93.9706 43.4997, -93.4972 43.4997, -93.4972 43.255, -93.9706 43.255, -93.9706 43.4997))",
   "dcat_bbox": "ENVELOPE(-93.9706,-93.4972,43.4997,43.255)",
   "dcat_centroid": "43.37735,-93.7339",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -45,6 +43,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9974837788801701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:42Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -6,14 +6,17 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3709",
   "solr_geom": "ENVELOPE(68.1,92.25,36.5,21.8333)",
-  "solr_year_i": "1882",
   "dc_creator_sm": [
     "Bartholomew, John, 1831-1893"
   ],
-  "dc_description_s": "Relief shown by hachures and spot heights.; In margin: 32.; Northern half of India to go with map plate 33 (southern half).; Shows countries, regions, and rivers of India.; From: Black's general atlas of the world. Edinburgh : Adam and Charles Black, 1882.; Plate 32.|41 x 59 centimeters, on sheet 44 x 60 centimeters|Scale [1:4,750,000]",
+  "dc_description_s": "Relief shown by hachures and spot heights.; In margin: 32.; Northern half of India to go with map plate 33 (southern half).; Shows countries, regions, and rivers of India.; From: Black's general atlas of the world. Edinburgh : Adam and Charles Black, 1882.; Plate 32.|41 x 59 centimeters, on sheet 44 x 60 centimeters|Scale [1:4,750,000]|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3709/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3709\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3709/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:32:24Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3709\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3709/manifest.json\"}",
+  "dct_spatial_sm": [
+    "India",
+    "Asia"
+  ],
+  "layer_modified_dt": "2022-09-28T02:14:46Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Hindostan",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:8,500,000 (E 600--E 1010/N 350--N 70).\"XLIX\" appears in upper left corner. From: The Edinburgh geographical and historical atlas, 1831. Dimensions: 38 x 49 centimeters"
+    "Cartographic Details: Scale approximately 1:8,500,000 (E 600--E 1010/N 350--N 70).\"XLIX\" appears in upper left corner. From: The Edinburgh geographical and historical atlas, 1831.",
+    "38 x 49 centimeters",
+    "Scale approximately 1:8,500,000",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Lizars, Daniel, 1760-1812"
   ],
   "dct_publisher_sm": [
-    "John Hamilton, successor to Daniel Lizars"
+    "John Hamilton, successor to Daniel Lizars; Edinburgh"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -18,21 +21,18 @@
   ],
   "dcat_keyword_sm": [
     "India Maps",
-    "India"
+    "India",
+    "Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1831"
   ],
-  "gbl_indexYear_im": [
-    "1831"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1831 TO 1831]"
-  ],
+  "dct_issued_s": "1831",
   "dct_spatial_sm": [
     "India"
   ],
-  "locn_geometry": "ENVELOPE(60,101,35,7)",
+  "locn_geometry": "POLYGON((60 35, 101 35, 101 7, 60 7, 60 35))",
   "dcat_bbox": "ENVELOPE(60,101,35,7)",
   "dcat_centroid": "21.0,80.5",
   "pcdm_memberOf_sm": [
@@ -40,18 +40,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/228890\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/379/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:379\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/379/manifest.json\"}",
   "id": "p16022coll246:379",
   "dct_identifier_sm": [
-    "p16022coll246:379"
+    "UMN_ALMA:9973944505501701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:26Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -6,14 +6,16 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3575",
   "solr_geom": "ENVELOPE(34.0,45.0,36.0,26.6667)",
-  "solr_year_i": "1926",
   "dc_creator_sm": [
     "Musil, Alois, 1868-1944"
   ],
-  "dc_description_s": "Published under the patronage of the Czech Academy of Sciences, Letters, and Arts, and of Charles R. Crane.; In portfolio.; To accompany American Geographical Society, Oriental explorations and studies, no. 2-5.; Scale 1:1000000.|each 63 x 61 centimeters|Scale 1:1000000",
+  "dc_description_s": "Published under the patronage of the Czech Academy of Sciences, Letters, and Arts, and of Charles R. Crane.; In portfolio.; To accompany American Geographical Society, Oriental explorations and studies, no. 2-5.; Scale 1:1000000.|each 63 x 61 centimeters|Scale 1:1000000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3575/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3575\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3575/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:29:15Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3575\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3575/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Asia"
+  ],
+  "layer_modified_dt": "2022-09-28T02:15:42Z",
   "dc_language_sm": [
     "eng"
   ],

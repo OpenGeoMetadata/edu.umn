@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Siege of Delhi. : Plan of the British position maintained from 8th June to 14th Sept. 1857.",
   "dct_description_sm": [
-    "Cartographic Details: Scale 1:6,000. 500 ft. - 1 in. (E 77°11'35\"--E 77°14'12\"/N 28°43'10\"--N 28°39'18\"). Relief shown as contours. Shows: roads, canals, position of British troops. Text and illustrated insets: Delhi Munity Monument -- Miniature embrasure built to mark the position of the batteries -- Siege battery memorials -- Cashmere Gate Memorial.\"Drawn in the Quarter Master General's Office, Simla, June 1876.\" Dimensions: 64 x 99 centimeters"
+    "Cartographic Details: Scale 1:6,000. 500 ft. - 1 in. (E 77°11'35\"--E 77°14'12\"/N 28°43'10\"--N 28°39'18\"). Relief shown as contours. Shows: roads, canals, position of British troops. Text and illustrated insets: Delhi Munity Monument -- Miniature embrasure built to mark the position of the batteries -- Siege battery memorials -- Cashmere Gate Memorial.\"Drawn in the Quarter Master General's Office, Simla, June 1876.\"",
+    "64 x 99 centimeters",
+    "Scale 1:6,000; 500 feet to 1 inch",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -24,21 +27,17 @@
     "Military Geography India Delhi Maps",
     "Delhi (India) Maps",
     "India Delhi",
+    "Maps",
     "Thematic Maps"
   ],
   "dct_temporal_sm": [
     "1876"
   ],
-  "gbl_indexYear_im": [
-    "1876"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1876 TO 1876]"
-  ],
+  "dct_issued_s": "1876",
   "dct_spatial_sm": [
     "India"
   ],
-  "locn_geometry": "ENVELOPE(77.18,77.23,28.71,28.65)",
+  "locn_geometry": "POLYGON((77.18 28.71, 77.23 28.71, 77.23 28.65, 77.18 28.65, 77.18 28.71))",
   "dcat_bbox": "ENVELOPE(77.18,77.23,28.71,28.65)",
   "dcat_centroid": "28.68,77.20500000000001",
   "pcdm_memberOf_sm": [
@@ -46,18 +45,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/202842\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/430/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:430\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/430/manifest.json\"}",
   "id": "p16022coll246:430",
   "dct_identifier_sm": [
-    "p16022coll246:430"
+    "UMN_ALMA:9973937889401701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:21Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

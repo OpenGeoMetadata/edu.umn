@@ -1,12 +1,10 @@
 {
   "dct_title_s": "Denmark",
-  "dct_alternative_sm": [
-    "Denmark"
-  ],
   "dct_description_sm": [
     "Insets: Iceland -- Faroe Islands -- Bornholm.; Index in margin.",
     "47 x 65 centimeters",
-    "Scale [1:1,457,280]; Statute miles 23 = 1 inch"
+    "Scale [1:1,457,280]; Statute miles 23 = 1 inch",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -15,7 +13,7 @@
     "Rand McNally and Company"
   ],
   "dct_publisher_sm": [
-    "Rand McNally & Co , 1910"
+    "Rand McNally & Co (Chicago), 1910"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -25,31 +23,30 @@
     "1910"
   ],
   "dct_issued_s": "1910",
-  "gbl_indexYear_im": [
-    "1910"
+  "dct_spatial_sm": [
+    "Denmark",
+    "Europe"
   ],
-  "gbl_dateRange_drsim": [
-    "[1910 TO 1910]"
-  ],
-  "locn_geometry": "ENVELOPE(7.7,15.55,57.95,54.45)",
+  "locn_geometry": "POLYGON((7.7 57.95, 15.55 57.95, 15.55 54.45, 7.7 54.45, 7.7 57.95))",
   "dcat_bbox": "ENVELOPE(7.7,15.55,57.95,54.45)",
   "dcat_centroid": "56.2,11.625",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3475/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3475\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3475/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3475\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3475/manifest.json\"}",
   "id": "p16022coll230:3475",
   "dct_identifier_sm": [
     "UMN_ALMA:9943968980001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:22Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

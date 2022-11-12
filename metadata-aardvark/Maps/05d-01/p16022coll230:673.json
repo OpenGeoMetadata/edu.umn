@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Map of part of the north west territory, including the Province of Manitoba~~exhibiting the several tracts of country ceded by the Indian treaties 1,2,3,4,5, and 6",
-  "dct_alternative_sm": [
-    "Map of part of the north west territory, including the Province of Manitoba : exhibiting the several tracts of country ceded by the Indian treaties 1,2,3,4,5, and 6"
+  "dct_title_s": "Map of part of the north west territory, including the Province of Manitoba : exhibiting the several tracts of country ceded by the Indian treaties 1,2,3,4,5, and 6",
+  "dct_description_sm": [
+    "Indian tribes named; Indian reservations.; To accompany: The report of the Minister of the Interior, Jan. 1877.",
+    "44 x 62 centimeters",
+    "Scale approximately 1:3,500,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -24,34 +27,29 @@
     "1877"
   ],
   "dct_issued_s": "1877",
-  "gbl_indexYear_im": [
-    "1877"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1877 TO 1877]"
-  ],
   "dct_spatial_sm": [
     "Canada"
   ],
-  "locn_geometry": "ENVELOPE(-121.5,-84,60,46)",
+  "locn_geometry": "POLYGON((-121.5 60, -84 60, -84 46, -121.5 46, -121.5 60))",
   "dcat_bbox": "ENVELOPE(-121.5,-84,60,46)",
   "dcat_centroid": "53.0,-102.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/673/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:673\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/673/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:673\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/673/manifest.json\"}",
   "id": "p16022coll230:673",
   "dct_identifier_sm": [
     "UMN_ALMA:9921041940001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:48Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

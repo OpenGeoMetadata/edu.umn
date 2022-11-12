@@ -1,27 +1,27 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "p16022coll246:239",
+  "dc_identifier_s": "UMN_ALMA:9930435980001701",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of the central province of Ceylon : exhibiting the situation of coffee estates",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:239",
   "solr_geom": "ENVELOPE(80.18,81.1101,7.6601,6.33)",
-  "solr_year_i": "1873",
   "dc_creator_sm": [
     "Van Cuylenburg, John",
     "Day & Son"
   ],
-  "dc_description_s": "Cartographic Details: Scale [1:170,000]. (E 80°11'01\"--E 81°07'53\"/N 7°40'50\"--N 6°20'17\"). Relief shown as hachures and heights. Shows: administrative boundaries, roads, coffee estates.\"June 1873.\" Inset:\"View of coffee plantation.\" Dimensions: 85 x 122 centimeters",
+  "dc_description_s": "Cartographic Details: Scale [1:170,000]. (E 80°11'01\"--E 81°07'53\"/N 7°40'50\"--N 6°20'17\"). Relief shown as hachures and heights. Shows: administrative boundaries, roads, coffee estates.\"June 1873.\" Inset:\"View of coffee plantation.\"|85 x 122 centimeters|Scale [1:170,000]|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/200777\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/239/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:239\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/239/manifest.json\"}",
   "dct_spatial_sm": [
     "Sri Lanka"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:45Z",
+  "layer_modified_dt": "2022-09-28T02:14:41Z",
   "dc_language_sm": [
     "eng"
   ],
-  "dc_publisher_s": "Day & Son",
+  "dc_publisher_s": "Day & Son ; London",
+  "dct_issued_s": "1873",
   "dct_temporal_sm": [
     "1873"
   ]

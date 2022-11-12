@@ -1,7 +1,10 @@
 {
   "dct_title_s": "To the Legislature and the Governor of Pennsylvania this map is respectfully inscribed",
-  "dct_alternative_sm": [
-    "To the Legislature and the Governor of Pennsylvania this map is respectfully inscribed"
+  "dct_description_sm": [
+    "Relief shown by hachures.; Shows minor civil divisions.; Dedicated to the Legislature and the Governor.; From: American State Papers, Class X, Misc 1, opp. p 830.; Wheat and Brun 443.",
+    "44 x 65 centimeters",
+    "Scale approximately 1:760,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -20,31 +23,26 @@
     "1834"
   ],
   "dct_issued_s": "1834",
-  "gbl_indexYear_im": [
-    "1834"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1834 TO 1834]"
-  ],
-  "locn_geometry": "ENVELOPE(-80.5167,-74.6833,42.25,39.7167)",
+  "locn_geometry": "POLYGON((-80.5167 42.25, -74.6833 42.25, -74.6833 39.7167, -80.5167 39.7167, -80.5167 42.25))",
   "dcat_bbox": "ENVELOPE(-80.5167,-74.6833,42.25,39.7167)",
   "dcat_centroid": "40.98335,-77.6",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/1373/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1373\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1373/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1373\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1373/manifest.json\"}",
   "id": "p16022coll230:1373",
   "dct_identifier_sm": [
     "UMN_ALMA:9920357800001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:31Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

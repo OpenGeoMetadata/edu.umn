@@ -6,14 +6,17 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3931",
   "solr_geom": "ENVELOPE(13.1667,33.8333,-21.8333,-34.6667)",
-  "solr_year_i": "1925",
   "dc_creator_sm": [
     "Geological Survey (South Africa)"
   ],
-  "dc_description_s": "In upper margin: Department of Mines and Industries, Geological Survey.; \"Cartographer, Eric H. Banks.\"|141 x 190 centimeters, on sheets 77 x 102 centimeters. or smaller|Scale 1:1,000,000; 15.77 miles = 1 inch",
+  "dc_description_s": "In upper margin: Department of Mines and Industries, Geological Survey.; \"Cartographer, Eric H. Banks.\"|141 x 190 centimeters, on sheets 77 x 102 centimeters. or smaller|Scale 1:1,000,000; 15.77 miles = 1 inch|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3931/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3931\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3931/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:31:18Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3931\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3931/manifest.json\"}",
+  "dct_spatial_sm": [
+    "South Africa",
+    "Africa"
+  ],
+  "layer_modified_dt": "2022-09-28T02:15:39Z",
   "dc_language_sm": [
     "afr"
   ],

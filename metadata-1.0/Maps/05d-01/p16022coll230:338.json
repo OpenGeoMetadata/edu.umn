@@ -1,16 +1,15 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "p16022coll230:338",
+  "dc_identifier_s": "UMN_ALMA:9957032940001701",
   "dc_rights_s": "Public",
   "dc_title_s": "A Map of Old Greenland or Øster Bygd & Wester Bygd : agreeable to Egede's late description of Greenland. ; A Map of the Islands of Ferro or Farro according to Jacobson Debes. ; An improved map of Iceland.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:338",
   "solr_geom": "ENVELOPE(-63.35,-17.73,72.02,59.52)",
-  "solr_year_i": "1750",
   "dc_creator_sm": [
     "Bowen, Emanuel, 1693 or 1694-1767"
   ],
-  "dc_description_s": "Cartographic Details: Scales differ. Inset diagram: \"A draught of the whirlpool on the south east of Sumbo Rocks w. the soundings.\" Numbered \"N⁰76.\" Relief shown pictorially. Map of Greenland has Teneriffe meridian. Dimensions: 3 maps on 1 sheet : diag. ; sheet 33 x 23 centimeters",
+  "dc_description_s": "Cartographic Details: Scales differ. Inset diagram: \"A draught of the whirlpool on the south east of Sumbo Rocks w. the soundings.\" Numbered \"N⁰76.\" Relief shown pictorially. Map of Greenland has Teneriffe meridian.|3 maps on 1 sheet : diag. ; sheet 33 x 23 centimeters|Scales differ.|General Map Collection",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:338\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/338/manifest.json\"}",
   "dct_spatial_sm": [
@@ -18,11 +17,12 @@
     "Faroe Islands",
     "Greenland"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:10Z",
+  "layer_modified_dt": "2022-09-28T02:14:07Z",
   "dc_language_sm": [
     "eng"
   ],
   "dc_publisher_s": "(London)",
+  "dct_issued_s": "1750",
   "dct_temporal_sm": [
     "1750"
   ]

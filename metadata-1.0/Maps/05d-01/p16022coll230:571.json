@@ -5,17 +5,17 @@
   "dc_title_s": "Wisconsin",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:571",
-  "solr_year_i": "1900",
+  "solr_geom": "ENVELOPE(-92.5,-87,47.5,42)",
   "dc_creator_sm": [
     "Cram, George Franklin, 1841-1928"
   ],
-  "dc_description_s": "Date based on index population total - 1900 census.   Indices to counties and towns include population figures, continues on verso.   Inset: Milwaukee and vicinity.   Shows county divisions and railroad lines. Dimensions: 65 x 58 centimeters",
+  "dc_description_s": "Date based on index population total - 1900 census.   Indices to counties and towns include population figures, continues on verso.   Inset: Milwaukee and vicinity.   Shows county divisions and railroad lines.|65 x 58 centimeters|Scale approximately 1:950,400|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/571/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:571\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/571/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:571\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/571/manifest.json\"}",
   "dct_spatial_sm": [
-    "United States"
+    "Wisconsin"
   ],
-  "layer_modified_dt": "2022-02-27T01:39:50Z",
+  "layer_modified_dt": "2022-09-28T02:16:05Z",
   "dc_language_sm": [
     "eng"
   ],

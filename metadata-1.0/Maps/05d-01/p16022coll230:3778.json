@@ -6,14 +6,17 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3778",
   "solr_geom": "ENVELOPE(112.9167,129.0,-13.6833,-35.1833)",
-  "solr_year_i": "1919",
   "dc_creator_sm": [
     "Geological Survey of Western Australia"
   ],
-  "dc_description_s": "Geological map of W.A. showing minerals, goldfields and other mining district boundaries, divisional boundaries and explorer's routes. Relief by hachures and spot heights.|81 x 55 centimeters|Scale approximately 1:3,168,000",
+  "dc_description_s": "Geological map of W.A. showing minerals, goldfields and other mining district boundaries, divisional boundaries and explorer's routes. Relief by hachures and spot heights.|81 x 55 centimeters|Scale approximately 1:3,168,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3778/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3778\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3778/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:22:36Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3778\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3778/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Australia",
+    "Australia"
+  ],
+  "layer_modified_dt": "2022-09-28T02:15:28Z",
   "dc_language_sm": [
     "eng"
   ],

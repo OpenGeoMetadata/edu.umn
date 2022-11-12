@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Map of India, shewing the British Territories and those of the Native States : chiefly compiled from trigonometrical surveys executed by order of the Honble Court of Directors of the East India Company",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:2,000,000 ; (E 67°53'00\"--E 99°32'00\"/N 37°17'00\"--N 5°35'00\"). Relief shown by hachures. Indicates British Territory and Independent States.\"Published by John Walker Geographer to the East India Company Dec 16th 1852.\"\"With corrections & additions as to British & Natives states, as far as practicable to August 1856.\" Dimensions: 166 x 166 centimeters"
+    "Cartographic Details: Scale approximately 1:2,000,000 ; (E 67°53'00\"--E 99°32'00\"/N 37°17'00\"--N 5°35'00\"). Relief shown by hachures. Indicates British Territory and Independent States.\"Published by John Walker Geographer to the East India Company Dec 16th 1852.\"\"With corrections & additions as to British & Natives states, as far as practicable to August 1856.\"",
+    "166 x 166 centimeters",
+    "Scale approximately 1:2,000,000",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -12,7 +15,7 @@
     "East India Company"
   ],
   "dct_publisher_sm": [
-    "Walker, John"
+    "Walker, John; London"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -24,17 +27,13 @@
     "Nepal Maps",
     "Bhutan Maps",
     "Burma Maps",
-    "Sri Lanka Maps"
+    "Sri Lanka Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1856"
   ],
-  "gbl_indexYear_im": [
-    "1856"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1856 TO 1856]"
-  ],
+  "dct_issued_s": "1856",
   "dct_spatial_sm": [
     "India",
     "Bangladesh",
@@ -43,7 +42,7 @@
     "Burma, Myanmar [Burma]",
     "Sri Lanka"
   ],
-  "locn_geometry": "ENVELOPE(67.88,99.53,37.28,5.58)",
+  "locn_geometry": "POLYGON((67.88 37.28, 99.53 37.28, 99.53 5.58, 67.88 5.58, 67.88 37.28))",
   "dcat_bbox": "ENVELOPE(67.88,99.53,37.28,5.58)",
   "dcat_centroid": "21.43,83.705",
   "pcdm_memberOf_sm": [
@@ -51,18 +50,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/202846\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/242/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:242\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/242/manifest.json\"}",
   "id": "p16022coll246:242",
   "dct_identifier_sm": [
-    "p16022coll246:242"
+    "UMN_ALMA:9973937893501701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:43Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

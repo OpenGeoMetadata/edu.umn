@@ -1,16 +1,17 @@
 {
-  "dct_title_s": "Railroad commissioners' map of Minnesota~~corrected to Feb. 1, 1911",
-  "dct_alternative_sm": [
-    "Railroad commissioners' map of Minnesota : corrected to Feb. 1, 1911"
-  ],
+  "dct_title_s": "Railroad commissioners' map of Minnesota : corrected to Feb. 1, 1911",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:633,600 (W 97¬∞15'--W 89¬∞30'/N 50¬∞00'--N 43¬∞ 30') Insets: Vicinity of Duluth & Superior, Wis. -- Vicinity of Saint Paul & Minneapolis -- Mesaba Range -- Cook County. Includes index on verso. Dimensions: 119 x 73 centimeters"
+    "Cartographic Details: Scale approximately 1:633,600 (W 97¬∞15'--W 89¬∞30'/N 50¬∞00'--N 43¬∞ 30') Insets: Vicinity of Duluth & Superior, Wis. -- Vicinity of Saint Paul & Minneapolis -- Mesaba Range -- Cook County. Includes index on verso.",
+    "119 x 73 centimeters",
+    "Scale approximately 1:633,600",
+    "Minnesota Transportation Maps"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Minnesota. Office of Railroad Commissioners.; George F. Cram Company"
+    "Minnesota. Office of Railroad Commissioners.",
+    "George F. Cram Company"
   ],
   "dct_publisher_sm": [
     "George F. Cram (Chicago, Ill.), 1909"
@@ -33,34 +34,29 @@
     "1911"
   ],
   "dct_issued_s": "1911",
-  "gbl_indexYear_im": [
-    "1911"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1911 TO 1911]"
-  ],
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-97.25,-89.5,50,43.5)",
+  "locn_geometry": "POLYGON((-97.25 50, -89.5 50, -89.5 43.5, -97.25 43.5, -97.25 50))",
   "dcat_bbox": "ENVELOPE(-97.25,-89.5,50,43.5)",
   "dcat_centroid": "46.75,-93.375",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll206"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll206/id/86/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll206:86\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll206/86/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll206:86\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll206/86/manifest.json\"}",
   "id": "p16022coll206:86",
   "dct_identifier_sm": [
     "UMN_ALMA:9930542440001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:44Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:13Z",
   "gbl_mdVersion_s": "Aardvark"
 }

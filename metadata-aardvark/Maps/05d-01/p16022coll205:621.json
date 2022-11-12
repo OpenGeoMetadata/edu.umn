@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Copy of plate of Kenosha harbor, Wisconsin",
-  "dct_alternative_sm": [
-    "Copy of plate of Kenosha harbor, Wisconsin"
+  "dct_description_sm": [
+    "Relief shown by hachures. Depths shown by soundings.",
+    "33 x 51 centimeters",
+    "Scale 1:1,200; 1 inch = 100 feet",
+    "City Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -23,23 +26,18 @@
     "1854"
   ],
   "dct_issued_s": "1854",
-  "gbl_indexYear_im": [
-    "1854"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1854 TO 1854]"
-  ],
   "dct_spatial_sm": [
     "Kenosha, Wisconsin"
   ],
-  "locn_geometry": "ENVELOPE(-87.8269,-87.7742,42.6103,42.5625)",
+  "locn_geometry": "POLYGON((-87.8269 42.6103, -87.7742 42.6103, -87.7742 42.5625, -87.8269 42.5625, -87.8269 42.6103))",
   "dcat_bbox": "ENVELOPE(-87.8269,-87.7742,42.6103,42.5625)",
   "dcat_centroid": "42.5864,-87.80054999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll205"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -51,6 +49,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9921050420001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:59Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

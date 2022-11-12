@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Map of Manitoba, Saskatchewan & Alberta~~showing the number of quarter sections available for homestead entry, also number of quarter sections privately owned and unoccupied",
-  "dct_alternative_sm": [
-    "Map of Manitoba, Saskatchewan & Alberta : showing the number of quarter sections available for homestead entry, also number of quarter sections privately owned and unoccupied"
+  "dct_title_s": "Map of Manitoba, Saskatchewan & Alberta : showing the number of quarter sections available for homestead entry, also number of quarter sections privately owned and unoccupied",
+  "dct_description_sm": [
+    "January 1929.",
+    "54 x 83 centimeters",
+    "Scale [1:2,217,600] 35 miles to 1 inch",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -24,34 +27,29 @@
     "1922"
   ],
   "dct_issued_s": "1922",
-  "gbl_indexYear_im": [
-    "1922"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1922 TO 1922]"
-  ],
   "dct_spatial_sm": [
     "Canada"
   ],
-  "locn_geometry": "ENVELOPE(-122,-92,59,49)",
+  "locn_geometry": "POLYGON((-122 59, -92 59, -92 49, -122 49, -122 59))",
   "dcat_bbox": "ENVELOPE(-122,-92,59,49)",
   "dcat_centroid": "54.0,-107.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/648/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:648\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/648/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:648\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/648/manifest.json\"}",
   "id": "p16022coll230:648",
   "dct_identifier_sm": [
     "UMN_ALMA:9973991197801701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:01Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

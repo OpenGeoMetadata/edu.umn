@@ -1,10 +1,11 @@
 {
   "dct_title_s": "Map of Kentucky & Tennessee : exhibiting the post offices, post roads, canals, rail roads, &c.",
-  "dct_alternative_sm": [
-    "Map of Kentucky & Tennessee : exhibiting the post offices, post roads, canals, rail roads, &c."
-  ],
   "dct_description_sm": [
-    "Detailed map showing relief by hachures, drainage, township and county boundaries, cities and towns, canals, roads, and railroads. Dimensions: 81 x 124 centimeters"
+    "Detailed map showing relief by hachures, drainage, township and county boundaries, cities and towns, canals, roads, and railroads.",
+    "From his The American Atlas (London, J. Arrowsmith, 1839).; Description derived from published bibliography.",
+    "81 x 124 centimeters",
+    "Scale approximately 1:650,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -23,24 +24,19 @@
     "1839"
   ],
   "dct_issued_s": "1839",
-  "gbl_indexYear_im": [
-    "1839"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1839 TO 1839]"
-  ],
   "dct_spatial_sm": [
     "Kentucky",
     "Tennessee"
   ],
-  "locn_geometry": "ENVELOPE(-90.3,-81.6333,39.1333,34.9667)",
+  "locn_geometry": "POLYGON((-90.3 39.1333, -81.6333 39.1333, -81.6333 34.9667, -90.3 34.9667, -90.3 39.1333))",
   "dcat_bbox": "ENVELOPE(-90.3,-81.6333,39.1333,34.9667)",
   "dcat_centroid": "37.05,-85.96665",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -52,6 +48,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9963434370001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:12Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

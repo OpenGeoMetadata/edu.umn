@@ -2,21 +2,21 @@
   "geoblacklight_version": "1.0",
   "dc_identifier_s": "UMN_ALMA:9949555180001701",
   "dc_rights_s": "Public",
-  "dc_title_s": "Map of the Island of Bombay~~index to progress",
+  "dc_title_s": "Map of the Island of Bombay : index to progress",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:75",
   "solr_geom": "ENVELOPE(72.76,72.9601,19.26,18.8801)",
-  "solr_year_i": "1897",
   "dc_creator_sm": [
-    "Maharashtra (India). Government Photozinco Office; Bombay Plague Committee"
+    "Maharashtra (India). Government Photozinco Office",
+    "Bombay Plague Committee"
   ],
-  "dc_description_s": "Cartographic Details: Scale [1:14,400]. 1 in. = 1200 ft. Relief shown by hachures and form lines. Index to cities with epidemic statistics. Includes script signature for\"chairman plague committee.\" Dimensions: 132 x 71 centimeters, on sheets each 68 x 75 centimeters",
+  "dc_description_s": "Cartographic Details: Scale [1:14,400]. 1 in. = 1200 ft. Relief shown by hachures and form lines. Index to cities with epidemic statistics. Includes script signature for\"chairman plague committee.\"|132 x 71 centimeters, on sheets each 68 x 75 centimeters|Scale [1:14,400]; 1 inch = 1200 feet|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll246/id/75/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:75\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/75/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:75\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/75/manifest.json\"}",
   "dct_spatial_sm": [
     "India"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:47Z",
+  "layer_modified_dt": "2022-09-28T02:14:57Z",
   "dc_language_sm": [
     "eng"
   ],

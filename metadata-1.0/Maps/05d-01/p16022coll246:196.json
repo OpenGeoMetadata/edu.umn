@@ -1,24 +1,25 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "p16022coll246:196",
+  "dc_identifier_s": "UMN_ALMA:9974756301501700",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of Ootacamund Taluk: Nilgiri distrcit, scale 1 inch = 1 mile. area 461.44 sq. miles (Sheet 1)",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:196",
   "solr_geom": "ENVELOPE(76.2256,77.0057,11.7056,11.1877)",
-  "solr_year_i": "1936",
+  "dc_description_s": "104 x 90 centimeters|Scale 1:1|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/246322\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/196/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:196\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/196/manifest.json\"}",
   "dct_spatial_sm": [
     "Coonoor, India",
     "Nīlgiri, India",
     "Tamil Nādu, India",
     "India"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:27Z",
+  "layer_modified_dt": "2022-09-28T02:15:52Z",
   "dc_language_sm": [
     "eng"
   ],
+  "dct_issued_s": "1936",
   "dct_temporal_sm": [
     "1936"
   ]

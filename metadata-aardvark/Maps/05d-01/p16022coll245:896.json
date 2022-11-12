@@ -1,5 +1,10 @@
 {
   "dct_title_s": "Davisons [sic] map 25 miles around the Twin Cities : 1881 corrected to 1889",
+  "dct_description_sm": [
+    "Also shows railroad lines, roads, Public Land Survey townships and sections, cemeteries, churches, and schools. Entered according to act of Congress in the Year 1881, by C. Wright Davison in the office of the Librarian of Congress at Washington D.C. Smith & Harrison, Minneapolis. On cover: Published by Minneapolis Directory Co., 1889. Irregularly-shaped circular map.",
+    "61 x 65 centimeters",
+    "Minneapolis and St. Paul Maps and Atlases"
+  ],
   "dct_language_sm": [
     "eng"
   ],
@@ -15,23 +20,19 @@
   ],
   "dcat_keyword_sm": [
     "Minneapolis Metropolitan Area (Minn.) Maps",
-    "Saint Paul Metropolitan Area (Minn.) Maps"
+    "Saint Paul Metropolitan Area (Minn.) Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1889"
   ],
-  "gbl_indexYear_im": [
-    "1889"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1889 TO 1889]"
-  ],
+  "dct_issued_s": "1889",
   "dct_spatial_sm": [
     "Minneapolis, Minnesota",
     "Saint Paul, Minnesota",
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-93.7673,-92.7411,45.2867,44.6258)",
+  "locn_geometry": "POLYGON((-93.7673 45.2867, -92.7411 45.2867, -92.7411 44.6258, -93.7673 44.6258, -93.7673 45.2867))",
   "dcat_bbox": "ENVELOPE(-93.7673,-92.7411,45.2867,44.6258)",
   "dcat_centroid": "44.95625,-93.2542",
   "pcdm_memberOf_sm": [
@@ -39,18 +40,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll245"
+    "p16022coll245"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/187172\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/896/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:896\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/896/manifest.json\"}",
   "id": "p16022coll245:896",
   "dct_identifier_sm": [
-    "p16022coll245:896"
+    "UMN_ALMA:9950740430001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:28Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

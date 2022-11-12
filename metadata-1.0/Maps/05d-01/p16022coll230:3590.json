@@ -6,14 +6,17 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3590",
   "solr_geom": "ENVELOPE(64.0,86.0,37.0,23.0)",
-  "solr_year_i": "1900",
   "dc_creator_sm": [
     "John Bartholomew and Son"
   ],
-  "dc_description_s": "Topographic map of north western India showing transportation, water features, place and area names and populated places. Relief shown by hypsometric and bathymetric tints and spot heights.; \"The Times Atlas ... Plate 56.\"|41 x 53 centimeters|Scale 1:4,000,000 English miles",
+  "dc_description_s": "Topographic map of north western India showing transportation, water features, place and area names and populated places. Relief shown by hypsometric and bathymetric tints and spot heights.; \"The Times Atlas ... Plate 56.\"|41 x 53 centimeters|Scale 1:4,000,000 English miles|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3590/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3590\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3590/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:32:31Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3590\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3590/manifest.json\"}",
+  "dct_spatial_sm": [
+    "India",
+    "Asia"
+  ],
+  "layer_modified_dt": "2022-09-28T02:16:05Z",
   "dc_language_sm": [
     "eng"
   ],

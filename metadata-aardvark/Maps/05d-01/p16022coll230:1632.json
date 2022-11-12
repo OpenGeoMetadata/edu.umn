@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Geologic map of Tennessee",
-  "dct_alternative_sm": [
-    "Geologic map of Tennessee"
+  "dct_description_sm": [
+    "Includes legend, 4 structure sections and \"map showing the sources of information from which the geologic map was compiled.\"",
+    "49 x 154 centimeters on sheet 77 x 160 centimeters",
+    "Scale 1:500,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Tennessee. State Geological Survey"
   ],
   "dct_publisher_sm": [
-    "The Survey (Nashvillé)"
+    "The Survey (Nashvillé)"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -23,23 +26,18 @@
     "1915"
   ],
   "dct_issued_s": "1915",
-  "gbl_indexYear_im": [
-    "1915"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1915 TO 1915]"
-  ],
   "dct_spatial_sm": [
     "Tennessee"
   ],
-  "locn_geometry": "ENVELOPE(-90.25,-81.75,36.75,35.0)",
+  "locn_geometry": "POLYGON((-90.25 36.75, -81.75 36.75, -81.75 35.0, -90.25 35.0, -90.25 36.75))",
   "dcat_bbox": "ENVELOPE(-90.25,-81.75,36.75,35.0)",
   "dcat_centroid": "35.875,-86.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -51,6 +49,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9955175560001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:03Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

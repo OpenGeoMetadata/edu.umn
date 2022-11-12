@@ -1,12 +1,10 @@
 {
   "dct_title_s": "Plan of the country bordering the great trunk road between Calcutta and Benares based on the great triangulation and revenue survey operations to 1857",
-  "dct_alternative_sm": [
-    "Plan of the country bordering the great trunk road between Calcutta and Benares based on the great triangulation and revenue survey operations to 1857"
-  ],
   "dct_description_sm": [
     "Shows counties, cities and towns, railroads, and Minnesota state population as of 1880.; \"113\" at base of Minnesota map and \"114\" to the left of Missouri map, likely atlas plate numbers.; Probably detached from Loomis T. Palmer's Gaskell's new and complete family atlas of the world, 1886.; Prime meridians: Greenwich and Washington, D.C.; Includes continuation of Cook County, Minnesota, as inset.",
     "81 x 124 centimeters",
-    "Scale 1:506,880; 8 miles = 1 inch"
+    "Scale 1:506,880; 8 miles = 1 inch",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -25,31 +23,30 @@
     "1857"
   ],
   "dct_issued_s": "1857?",
-  "gbl_indexYear_im": [
-    "1857"
+  "dct_spatial_sm": [
+    "India",
+    "Asia"
   ],
-  "gbl_dateRange_drsim": [
-    "[1857 TO 1857]"
-  ],
-  "locn_geometry": "ENVELOPE(83.0,89.0,26.0,22.0)",
+  "locn_geometry": "POLYGON((83.0 26.0, 89.0 26.0, 89.0 22.0, 83.0 22.0, 83.0 26.0))",
   "dcat_bbox": "ENVELOPE(83.0,89.0,26.0,22.0)",
   "dcat_centroid": "24.0,86.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3712/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3712\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3712/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3712\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3712/manifest.json\"}",
   "id": "p16022coll230:3712",
   "dct_identifier_sm": [
     "UMN_ALMA:9943062980001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:10Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

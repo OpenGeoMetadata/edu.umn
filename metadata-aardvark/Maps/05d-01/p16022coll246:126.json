@@ -1,7 +1,10 @@
 {
   "dct_title_s": "India",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:9,250,000 (E 66°--E 93°/N 35°--N 5°). Relief shown by hachures. Inset map: Delta of the Ganges. In upper margin: Tanner's universal atlas. In upper right corner:\"59.\" Likely removed from: A new universal atlas / H.S. Tanner / Philadelphia, 1836. Dimensions: 35 x 28 centimeters"
+    "Cartographic Details: Scale approximately 1:9,250,000 (E 66°--E 93°/N 35°--N 5°). Relief shown by hachures. Inset map: Delta of the Ganges. In upper margin: Tanner's universal atlas. In upper right corner:\"59.\" Likely removed from: A new universal atlas / H.S. Tanner / Philadelphia, 1836.",
+    "35 x 28 centimeters",
+    "Scale approximately 1:9,250,000",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,28 +13,24 @@
     "Tanner, Henry Schenck, 1786-1858"
   ],
   "dct_publisher_sm": [
-    "H.S. Tanner"
+    "H.S. Tanner; Philadelphia, Pennsylvania"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "India Maps"
+    "India Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1836"
   ],
-  "gbl_indexYear_im": [
-    "1836"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1836 TO 1836]"
-  ],
+  "dct_issued_s": "1836",
   "dct_spatial_sm": [
     "India"
   ],
-  "locn_geometry": "ENVELOPE(66,93,35,5)",
+  "locn_geometry": "POLYGON((66 35, 93 35, 93 5, 66 5, 66 35))",
   "dcat_bbox": "ENVELOPE(66,93,35,5)",
   "dcat_centroid": "20.0,79.5",
   "pcdm_memberOf_sm": [
@@ -39,18 +38,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/200835\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/126/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:126\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/126/manifest.json\"}",
   "id": "p16022coll246:126",
   "dct_identifier_sm": [
-    "p16022coll246:126"
+    "UMN_ALMA:9973345709001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:55Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

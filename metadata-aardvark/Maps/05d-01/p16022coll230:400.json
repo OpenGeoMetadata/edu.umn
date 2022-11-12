@@ -1,16 +1,17 @@
 {
   "dct_title_s": "Key-plan and index to the Royal Botanic Gardens, Kew.",
-  "dct_alternative_sm": [
-    "Key-plan and index to the Royal Botanic Gardens, Kew."
-  ],
   "dct_description_sm": [
-    "Some buildings and vegetation shown pictorially.   Panel title.   Indexes to buildings and collections of trees and shrubs on verso.   \"Heliozincographed at the Ordnance Survey Office, Southampton, 1904.\"   On panel: O.W. 400. Dimensions: 33 x 28 centimeters"
+    "Some buildings and vegetation shown pictorially.   Panel title.   Indexes to buildings and collections of trees and shrubs on verso.   \"Heliozincographed at the Ordnance Survey Office, Southampton, 1904.\"   On panel: O.W. 400.",
+    "33 x 28 centimeters",
+    "Scale approximately 1:6,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Royal Botanic Gardens, Kew.; Great Britain. Ordnance Survey."
+    "Royal Botanic Gardens, Kew.",
+    "Great Britain. Ordnance Survey."
   ],
   "dct_publisher_sm": [
     "Ordnance Survey Office (Richmond upon Thames, London?)"
@@ -27,34 +28,29 @@
     "1903"
   ],
   "dct_issued_s": "1903",
-  "gbl_indexYear_im": [
-    "1903"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1903 TO 1903]"
-  ],
   "dct_spatial_sm": [
     "United Kingdom"
   ],
-  "locn_geometry": "ENVELOPE(-0.3001,-0.28,51.48,51.46)",
+  "locn_geometry": "POLYGON((-0.3001 51.48, -0.28 51.48, -0.28 51.46, -0.3001 51.46, -0.3001 51.48))",
   "dcat_bbox": "ENVELOPE(-0.3001,-0.28,51.48,51.46)",
   "dcat_centroid": "51.47,-0.29005000000000003",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/400/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:400\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/400/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:400\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/400/manifest.json\"}",
   "id": "p16022coll230:400",
   "dct_identifier_sm": [
     "UMN_ALMA:9920612830001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:54Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

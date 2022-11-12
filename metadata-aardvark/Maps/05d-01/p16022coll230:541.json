@@ -1,10 +1,10 @@
 {
   "dct_title_s": "County map of Utah and Nevada",
-  "dct_alternative_sm": [
-    "County map of Utah and Nevada"
-  ],
   "dct_description_sm": [
-    "Shows roads, overland telegraph route, and other features.   Relief shown by hachures and spot heights.   Prime meridians: Greenwich and Washington.   In lower right corner: 49.   Appears to be from an atlas published by S. Augustus Mitchell, Jr., approximately 1867, page 49. Dimensions: 25 x 32 centimeters"
+    "Shows roads, overland telegraph route, and other features.   Relief shown by hachures and spot heights.   Prime meridians: Greenwich and Washington.   In lower right corner: 49.   Appears to be from an atlas published by S. Augustus Mitchell, Jr., approximately 1867, page 49.",
+    "25 x 32 centimeters",
+    "Scale approximately 1:2,900,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -30,34 +30,29 @@
     "1867"
   ],
   "dct_issued_s": "1867",
-  "gbl_indexYear_im": [
-    "1867"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1867 TO 1867]"
-  ],
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-120,-109.03,42.01,36.98)",
+  "locn_geometry": "POLYGON((-120 42.01, -109.03 42.01, -109.03 36.98, -120 36.98, -120 42.01))",
   "dcat_bbox": "ENVELOPE(-120,-109.03,42.01,36.98)",
   "dcat_centroid": "39.495,-114.515",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/541/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:541\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/541/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:541\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/541/manifest.json\"}",
   "id": "p16022coll230:541",
   "dct_identifier_sm": [
     "UMN_ALMA:9927564120001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:22Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

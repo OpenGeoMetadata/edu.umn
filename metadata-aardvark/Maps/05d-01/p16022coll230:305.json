@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Map of the Eastern Townships of the province of Quebec, and adjacent territory.",
   "dct_description_sm": [
-    "Cartographic Details: Scale [1:31,463]. Place names in French. Cover title: Map of the Eastern Township of Canada, 1884-85. Includes table of railway explanations and inset of Huntingdon County. Dimensions: 1 map : color ; 56 x 98 cm."
+    "Cartographic Details: Scale [1:31,463]. Place names in French. Cover title: Map of the Eastern Township of Canada, 1884-85. Includes table of railway explanations and inset of Huntingdon County.",
+    "1 map : color ; 56 x 98 cm.",
+    "Scale [1:31,463]",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -16,26 +19,19 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "Railroads"
-  ],
   "dcat_keyword_sm": [
-    "Eastern Townships (Qu√©bec) Maps"
+    "Eastern Townships (Qu√©bec) Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1884"
   ],
-  "gbl_indexYear_im": [
-    "1884"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1884 TO 1884]"
-  ],
+  "dct_issued_s": "1884",
   "dct_spatial_sm": [
     "Quebec, Canada",
     "Canada"
   ],
-  "locn_geometry": "ENVELOPE(-74.1996,-70.0681,47.129,44.887)",
+  "locn_geometry": "POLYGON((-74.1996 47.129, -70.0681 47.129, -70.0681 44.887, -74.1996 44.887, -74.1996 47.129))",
   "dcat_bbox": "ENVELOPE(-74.1996,-70.0681,47.129,44.887)",
   "dcat_centroid": "46.007999999999996,-72.13385",
   "pcdm_memberOf_sm": [
@@ -43,18 +39,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll230"
+    "p16022coll230"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/210558\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/305/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:305\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/305/manifest.json\"}",
   "id": "p16022coll230:305",
   "dct_identifier_sm": [
-    "p16022coll230:305"
+    "UMN_ALMA:9948993750001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:20Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }
