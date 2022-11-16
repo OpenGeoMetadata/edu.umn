@@ -1,7 +1,10 @@
 {
   "dct_title_s": "The Department of Agriculture and Immigration map of Louisiana : showing parishes, parish seats, cities, towns, villages, etc., railroads with distances between stations, the state highway system, improved and proposed improved roads",
-  "dct_alternative_sm": [
-    "The Department of Agriculture and Immigration map of Louisiana : showing parishes, parish seats, cities, towns, villages, etc., railroads with distances between stations, the state highway system, improved and proposed improved roads"
+  "dct_description_sm": [
+    "Shows location of oil, salt, and gas resources.; Includes text \"An agricultural and physiographical description of Louisiana\" on verso.",
+    "53 x 59 centimeters",
+    "Scale approximately 1:865,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -24,23 +27,18 @@
     "1926"
   ],
   "dct_issued_s": "1926",
-  "gbl_indexYear_im": [
-    "1926"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1926 TO 1926]"
-  ],
   "dct_spatial_sm": [
     "Louisiana"
   ],
-  "locn_geometry": "ENVELOPE(-94.0333,-88.8,33.0167,28.9167)",
+  "locn_geometry": "POLYGON((-94.0333 33.0167, -88.8 33.0167, -88.8 28.9167, -94.0333 28.9167, -94.0333 33.0167))",
   "dcat_bbox": "ENVELOPE(-94.0333,-88.8,33.0167,28.9167)",
   "dcat_centroid": "30.9667,-91.41665",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -52,6 +50,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9974058309601701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:57Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

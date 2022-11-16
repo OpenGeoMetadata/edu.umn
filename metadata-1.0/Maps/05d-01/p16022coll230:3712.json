@@ -6,14 +6,17 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3712",
   "solr_geom": "ENVELOPE(83.0,89.0,26.0,22.0)",
-  "solr_year_i": "1857",
   "dc_creator_sm": [
     "Survey of India"
   ],
-  "dc_description_s": "Shows counties, cities and towns, railroads, and Minnesota state population as of 1880.; \"113\" at base of Minnesota map and \"114\" to the left of Missouri map, likely atlas plate numbers.; Probably detached from Loomis T. Palmer's Gaskell's new and complete family atlas of the world, 1886.; Prime meridians: Greenwich and Washington, D.C.; Includes continuation of Cook County, Minnesota, as inset.|81 x 124 centimeters|Scale 1:506,880; 8 miles = 1 inch",
+  "dc_description_s": "Shows counties, cities and towns, railroads, and Minnesota state population as of 1880.; \"113\" at base of Minnesota map and \"114\" to the left of Missouri map, likely atlas plate numbers.; Probably detached from Loomis T. Palmer's Gaskell's new and complete family atlas of the world, 1886.; Prime meridians: Greenwich and Washington, D.C.; Includes continuation of Cook County, Minnesota, as inset.|81 x 124 centimeters|Scale 1:506,880; 8 miles = 1 inch|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3712/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3712\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3712/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:33:10Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3712\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3712/manifest.json\"}",
+  "dct_spatial_sm": [
+    "India",
+    "Asia"
+  ],
+  "layer_modified_dt": "2022-09-28T02:14:35Z",
   "dc_language_sm": [
     "eng"
   ],

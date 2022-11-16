@@ -1,25 +1,26 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "p16022coll245:884",
+  "dc_identifier_s": "UMN_ALMA:9913396070001701",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of St. Anthony and Minneapolis",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll245:884",
   "solr_geom": "ENVELOPE(-93.3374,-93.1982,45.0513,44.9052)",
-  "solr_year_i": "1861",
   "dc_creator_sm": [
     "Cook, R."
   ],
+  "dc_description_s": "47 x 31 inches|0.875|Minneapolis and St. Paul Maps and Atlases",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/91316\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/884/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:884\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/884/manifest.json\"}",
   "dct_spatial_sm": [
     "Minneapolis, Minnesota",
     "Minnesota"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:52Z",
+  "layer_modified_dt": "2022-09-28T02:14:37Z",
   "dc_language_sm": [
     "eng"
   ],
+  "dct_issued_s": "1861",
   "dct_temporal_sm": [
     "1861"
   ]

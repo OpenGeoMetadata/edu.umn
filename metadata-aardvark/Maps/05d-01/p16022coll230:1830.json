@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Northern Wisconsin lake region : Chicago, Milwaukee & St. Paul Railway to Puget Sound, electrified",
-  "dct_alternative_sm": [
-    "Northern Wisconsin lake region : Chicago, Milwaukee & St. Paul Railway to Puget Sound, electrified"
+  "dct_description_sm": [
+    "Copyright, 1925. by Geo. B. Haynes.; \"Geo. B. Haynes, General Passenger Agent, Chicago, Ill.\"; Various tourist information information on verso.",
+    "77 x 42 centimeters",
+    "Scale approximately 1:130,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -29,23 +32,18 @@
     "1925"
   ],
   "dct_issued_s": "1925",
-  "gbl_indexYear_im": [
-    "1925"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1925 TO 1925]"
-  ],
   "dct_spatial_sm": [
     "Wisconsin"
   ],
-  "locn_geometry": "ENVELOPE(-92.8833,-86.2333,47.3,42.4833)",
+  "locn_geometry": "POLYGON((-92.8833 47.3, -86.2333 47.3, -86.2333 42.4833, -92.8833 42.4833, -92.8833 47.3))",
   "dcat_bbox": "ENVELOPE(-92.8833,-86.2333,47.3,42.4833)",
   "dcat_centroid": "44.89165,-89.5583",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -57,6 +55,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9917194560001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:47Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

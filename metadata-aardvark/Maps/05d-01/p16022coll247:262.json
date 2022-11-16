@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Chart of Lake Minnetonka, Minnesota",
   "dct_description_sm": [
-    "Cartographic Details: Scale 1:20,000. \"Reproduced in colors in 1906 by ...\" Relief shown by contours and soundings. \"Soundings, in feet, are reduced to the plane of the crest of the outlet dam, 929.4 ft.\" \"Topography taken from a 1:48,000 scale map of the U.S. Geological Survey, made in 1905.\" Dimensions: 56 x 90 centimeters"
+    "Cartographic Details: Scale 1:20,000. \"Reproduced in colors in 1906 by ...\" Relief shown by contours and soundings. \"Soundings, in feet, are reduced to the plane of the crest of the outlet dam, 929.4 ft.\" \"Topography taken from a 1:48,000 scale map of the U.S. Geological Survey, made in 1905.\"",
+    "56 x 90 centimeters",
+    "1:20,000",
+    "General Minnesota Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -13,7 +16,7 @@
     "United States. Army. Corps of Engineers"
   ],
   "dct_publisher_sm": [
-    "U.S. Lake Survey"
+    "U.S. Lake Survey ;  Detroit, Michigan"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -24,21 +27,17 @@
   ],
   "dcat_keyword_sm": [
     "Nautical Charts Minnesota Minnetonka, Lake",
-    "Minnetonka, Lake (Minn.) Maps"
+    "Minnetonka, Lake (Minn.) Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1906"
   ],
-  "gbl_indexYear_im": [
-    "1906"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1906 TO 1906]"
-  ],
+  "dct_issued_s": "1906",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-93.7082,-93.4792,44.9777,44.88)",
+  "locn_geometry": "POLYGON((-93.7082 44.9777, -93.4792 44.9777, -93.4792 44.88, -93.7082 44.88, -93.7082 44.9777))",
   "dcat_bbox": "ENVELOPE(-93.7082,-93.4792,44.9777,44.88)",
   "dcat_centroid": "44.92885,-93.59370000000001",
   "pcdm_memberOf_sm": [
@@ -46,18 +45,15 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll247"
-  ],
-  "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "p16022coll247"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/196937\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/262/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:262\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/262/manifest.json\"}",
   "id": "p16022coll247:262",
   "dct_identifier_sm": [
-    "p16022coll247:262"
+    "UMN_ALMA:9948197150001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:36Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -2,21 +2,22 @@
   "geoblacklight_version": "1.0",
   "dc_identifier_s": "UMN_ALMA:9935012670001701",
   "dc_rights_s": "Public",
-  "dc_title_s": "India in eleven parts~~with an index map",
+  "dc_title_s": "India in eleven parts : with an index map",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:109",
   "solr_geom": "ENVELOPE(67,92,30,6)",
-  "solr_year_i": "1831",
   "dc_creator_sm": [
-    "Society for the Diffusion of Useful Knowledge (Great Britain); J. & C. Walker (Firm); Baldwin & Cradock."
+    "Society for the Diffusion of Useful Knowledge (Great Britain)",
+    "J. & C. Walker (Firm)",
+    "Baldwin & Cradock."
   ],
-  "dc_description_s": "Cartographic Details: Scale : approximately 1:2,200,000 Cover title.\"J. & C. Walker Sculpt.\" Relief shown by hachures. Prime meridian: Greenwich. Each map covers part of India. Dimensions: 32 x 44 centimeters",
+  "dc_description_s": "Cartographic Details: Scale : approximately 1:2,200,000 Cover title.\"J. & C. Walker Sculpt.\" Relief shown by hachures. Prime meridian: Greenwich. Each map covers part of India.|12 maps : hand colored|32 x 44 centimeters|Scale approximately 1:2,200,000|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll246/id/109/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:109\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/109/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:109\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/109/manifest.json\"}",
   "dct_spatial_sm": [
     "India"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:20Z",
+  "layer_modified_dt": "2022-09-28T02:16:01Z",
   "dc_language_sm": [
     "eng"
   ],

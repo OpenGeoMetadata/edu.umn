@@ -1,5 +1,10 @@
 {
   "dct_title_s": "Map of southern India",
+  "dct_description_sm": [
+    "48 x 58 centimeters",
+    "No scale given.",
+    "Ames Library of South Asia Maps"
+  ],
   "dct_language_sm": [
     "eng"
   ],
@@ -8,23 +13,18 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
+    "Maps",
     "India, South Maps",
-    "Roads India, South Maps",
-    "bbox-update-mar2020"
+    "Roads India, South Maps"
   ],
   "dct_temporal_sm": [
     "1761"
   ],
-  "gbl_indexYear_im": [
-    "1761"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1761 TO 1761]"
-  ],
+  "dct_issued_s": "1761",
   "dct_spatial_sm": [
     "India"
   ],
-  "locn_geometry": "ENVELOPE(76.0655,79.5702,10.2898,8.0285)",
+  "locn_geometry": "POLYGON((76.0655 10.2898, 79.5702 10.2898, 79.5702 8.0285, 76.0655 8.0285, 76.0655 10.2898))",
   "dcat_bbox": "ENVELOPE(76.0655,79.5702,10.2898,8.0285)",
   "dcat_centroid": "9.15915,77.81784999999999",
   "pcdm_memberOf_sm": [
@@ -32,18 +32,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/246296\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/226/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:226\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/226/manifest.json\"}",
   "id": "p16022coll246:226",
   "dct_identifier_sm": [
-    "p16022coll246:226"
+    "UMN_ALMA:9974756606001700"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:40Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

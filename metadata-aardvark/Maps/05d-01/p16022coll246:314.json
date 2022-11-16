@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Bokhara, Cabool, Beloochistan &c",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:4,400,000. (E 56°--E 72°/N 39°--N 23°). Shows Bokhara, Cabool, Afghanistan, Beloochistan and part of Persia. Relief shown by hachures.\"Aug. 15th 1838.\" Plate 94 taken from: Maps of the Society for the Diffusion of Useful Knowledge. Dimensions: 39 x 31 centimeters"
+    "Cartographic Details: Scale approximately 1:4,400,000. (E 56°--E 72°/N 39°--N 23°). Shows Bokhara, Cabool, Afghanistan, Beloochistan and part of Persia. Relief shown by hachures.\"Aug. 15th 1838.\" Plate 94 taken from: Maps of the Society for the Diffusion of Useful Knowledge.",
+    "39 x 31 centimeters",
+    "Scale approximately 1:4,400,000",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "J. & C. Walker (Firm)"
   ],
   "dct_publisher_sm": [
-    "Society for the Diffusion of Useful Knowledge"
+    "Society for the Diffusion of Useful Knowledge; London"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -27,18 +30,13 @@
   "dct_temporal_sm": [
     "1838"
   ],
-  "gbl_indexYear_im": [
-    "1838"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1838 TO 1838]"
-  ],
+  "dct_issued_s": "1838",
   "dct_spatial_sm": [
     "Afghanistan",
     "Pakistan",
     "Iran"
   ],
-  "locn_geometry": "ENVELOPE(56,72,39,23)",
+  "locn_geometry": "POLYGON((56 39, 72 39, 72 23, 56 23, 56 39))",
   "dcat_bbox": "ENVELOPE(56,72,39,23)",
   "dcat_centroid": "31.0,64.0",
   "pcdm_memberOf_sm": [
@@ -46,18 +44,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/200810\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/314/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:314\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/314/manifest.json\"}",
   "id": "p16022coll246:314",
   "dct_identifier_sm": [
-    "p16022coll246:314"
+    "UMN_ALMA:9934946340001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:39Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

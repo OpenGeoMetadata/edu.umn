@@ -1,7 +1,10 @@
 {
   "dct_title_s": "North Dakota : showing lines of the Northern Pacific Railway",
-  "dct_alternative_sm": [
-    "North Dakota : showing lines of the Northern Pacific Railway"
+  "dct_description_sm": [
+    "Relief shown by hachures.; Includes index to Northern Pacific stations in North Dakota.; \"66749.\"; Text, ill., list of publications, and agricultural statistics on verso.; \"Form 6287 25M 4-29\"--Verso.; Shows counties, cities, natural features, and rail lines.",
+    "40 x 64 centimeters, on sheet 46 x 71 centimeters",
+    "Scale approximately 1:2,600,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -25,23 +28,18 @@
     "1929"
   ],
   "dct_issued_s": "1929",
-  "gbl_indexYear_im": [
-    "1929"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1929 TO 1929]"
-  ],
   "dct_spatial_sm": [
     "North Dakota"
   ],
-  "locn_geometry": "ENVELOPE(-104.0,-96.0,49.0,46.0)",
+  "locn_geometry": "POLYGON((-104.0 49.0, -96.0 49.0, -96.0 46.0, -104.0 46.0, -104.0 49.0))",
   "dcat_bbox": "ENVELOPE(-104.0,-96.0,49.0,46.0)",
   "dcat_centroid": "47.5,-100.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -53,6 +51,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9974056907201701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:23Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -2,20 +2,20 @@
   "geoblacklight_version": "1.0",
   "dc_identifier_s": "UMN_ALMA:9931898720001701",
   "dc_rights_s": "Public",
-  "dc_title_s": "State of Illinois~~compiled from the official records of the General Land Office and other sources",
+  "dc_title_s": "State of Illinois : compiled from the official records of the General Land Office and other sources",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:563",
   "solr_geom": "ENVELOPE(-91.5,-87.01,42.5,36.96)",
-  "solr_year_i": "1911",
   "dc_creator_sm": [
     "United States. General Land Office"
   ],
+  "dc_description_s": "83 x 49 centimeters|Scale [1:760,320]. 1 inch = 12 miles|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/563/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:563\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/563/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:563\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/563/manifest.json\"}",
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:48Z",
+  "layer_modified_dt": "2022-09-28T02:15:13Z",
   "dc_language_sm": [
     "eng"
   ],

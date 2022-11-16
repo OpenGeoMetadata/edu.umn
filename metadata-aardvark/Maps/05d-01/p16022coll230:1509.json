@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Map of Maryland showing state road system and state aid roads : 1917",
-  "dct_alternative_sm": [
-    "Map of Maryland showing state road system and state aid roads : 1917"
+  "dct_description_sm": [
+    "Copyrighted by Maryland Geological Survey, 1910.; \"Based on surveys made in cooperation with the United States Geological Survey.\"; Insets: Elkton -- Belair -- Washington and vicinity -- Baltimore and vicinity -- Annapolis -- Hagerstown -- Cumberland -- Frederick -- Westminster -- Towson -- Easton -- Salisbury.",
+    "85 x 126 centimeters",
+    "Scale 1:312,500; 1 inch = 5 miles",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -23,23 +26,18 @@
     "1917"
   ],
   "dct_issued_s": "1917",
-  "gbl_indexYear_im": [
-    "1917"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1917 TO 1917]"
-  ],
   "dct_spatial_sm": [
     "Maryland"
   ],
-  "locn_geometry": "ENVELOPE(-79.5,-75.0,40.1667,37.8333)",
+  "locn_geometry": "POLYGON((-79.5 40.1667, -75.0 40.1667, -75.0 37.8333, -79.5 37.8333, -79.5 40.1667))",
   "dcat_bbox": "ENVELOPE(-79.5,-75.0,40.1667,37.8333)",
   "dcat_centroid": "39.0,-77.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -51,6 +49,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9933508400001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:27Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

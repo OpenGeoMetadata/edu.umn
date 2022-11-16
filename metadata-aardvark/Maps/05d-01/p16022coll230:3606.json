@@ -1,12 +1,10 @@
 {
   "dct_title_s": "Palestine",
-  "dct_alternative_sm": [
-    "Palestine"
-  ],
   "dct_description_sm": [
     "Date from previously assigned call number.; Relief shown by hachures and spot heights.; Shows railroad, locations of springs and wells, and valleys with names.",
     "108 x 86 centimeters, sheets 101 x 66 centimeters",
-    "Scale 1:500,000"
+    "Scale 1:500,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -25,31 +23,30 @@
     "1916"
   ],
   "dct_issued_s": "1916",
-  "gbl_indexYear_im": [
-    "1916"
+  "dct_spatial_sm": [
+    "Palestine",
+    "Asia"
   ],
-  "gbl_dateRange_drsim": [
-    "[1916 TO 1916]"
-  ],
-  "locn_geometry": "ENVELOPE(34.25,39.25,33.25,29.5)",
+  "locn_geometry": "POLYGON((34.25 33.25, 39.25 33.25, 39.25 29.5, 34.25 29.5, 34.25 33.25))",
   "dcat_bbox": "ENVELOPE(34.25,39.25,33.25,29.5)",
   "dcat_centroid": "31.375,36.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3606/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3606\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3606/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3606\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3606/manifest.json\"}",
   "id": "p16022coll230:3606",
   "dct_identifier_sm": [
     "UMN_ALMA:9937041840001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:11Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

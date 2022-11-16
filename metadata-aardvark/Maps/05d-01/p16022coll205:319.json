@@ -1,16 +1,22 @@
 {
   "dct_title_s": "Missouri-Illinois, Saint Louis quadrangle",
-  "dct_alternative_sm": [
-    "Missouri-Illinois, Saint Louis quadrangle"
-  ],
   "dct_description_sm": [
-    "(W 90⁰30ʹ--W 90⁰00ʹ/N 38⁰45ʹ--N 38⁰30ʹ).   Relief shown by contours and spot heights.   Contour interval 20 feet. Datum is mean sea level.   \"Surveyed in 1903.\" Dimensions: 51 x 84 centimeters"
+    "(W 90⁰30ʹ--W 90⁰00ʹ/N 38⁰45ʹ--N 38⁰30ʹ).   Relief shown by contours and spot heights.   Contour interval 20 feet. Datum is mean sea level.   \"Surveyed in 1903.\"",
+    "51 x 84 centimeters",
+    "Scale 1:62,500",
+    "City Maps"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Geological Survey (U.S.); Wilson, Herbert Michael, 1860-1920.; Cooke, Chas. E.; Tufts, Wm. O.; Young, Gilbert; Hawkins, Geo. T.; U.S. Coast and Geodetic Survey."
+    "Geological Survey (U.S.)",
+    "Wilson, Herbert Michael, 1860-1920.",
+    "Cooke, Chas. E.",
+    "Tufts, Wm. O.",
+    "Young, Gilbert",
+    "Hawkins, Geo. T.",
+    "U.S. Coast and Geodetic Survey."
   ],
   "dct_publisher_sm": [
     "The Survey (Washington, D.C)"
@@ -27,34 +33,29 @@
     "1912"
   ],
   "dct_issued_s": "1912",
-  "gbl_indexYear_im": [
-    "1912"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1912 TO 1912]"
-  ],
   "dct_spatial_sm": [
     "Saint Louis, Missouri; Illinois"
   ],
-  "locn_geometry": "ENVELOPE(-90.5,-90,38.75,38.5)",
+  "locn_geometry": "POLYGON((-90.5 38.75, -90 38.75, -90 38.5, -90.5 38.5, -90.5 38.75))",
   "dcat_bbox": "ENVELOPE(-90.5,-90,38.75,38.5)",
   "dcat_centroid": "38.625,-90.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll205"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll205/id/319/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:319\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/319/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:319\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/319/manifest.json\"}",
   "id": "p16022coll205:319",
   "dct_identifier_sm": [
     "UMN_ALMA:9912660010001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:13Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Rock Island Barracks, Ill",
-  "dct_alternative_sm": [
-    "Rock Island Barracks, Ill"
+  "dct_description_sm": [
+    "Includes points of interest.",
+    "35 x 47 centimeters on sheet 56 x 65 centimeters",
+    "Not drawn to scale",
+    "City Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -24,23 +27,18 @@
     "1864"
   ],
   "dct_issued_s": "1864",
-  "gbl_indexYear_im": [
-    "1864"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1864 TO 1864]"
-  ],
   "dct_spatial_sm": [
     "Rock Island, Illinois"
   ],
-  "locn_geometry": "ENVELOPE(-90.5894,-90.5136,41.5322,41.5017)",
+  "locn_geometry": "POLYGON((-90.5894 41.5322, -90.5136 41.5322, -90.5136 41.5017, -90.5894 41.5017, -90.5894 41.5322))",
   "dcat_bbox": "ENVELOPE(-90.5894,-90.5136,41.5322,41.5017)",
   "dcat_centroid": "41.51695,-90.5515",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll205"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -52,6 +50,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9956136830001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:05Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

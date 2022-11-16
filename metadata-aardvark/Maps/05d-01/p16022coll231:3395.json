@@ -1,0 +1,57 @@
+{
+  "dct_title_s": "Soil map, Hennepin County, Minnesota",
+  "dct_description_sm": [
+    "Base map in part from U.S. Geological Survey sheets.",
+    "83 x 78 Centimeters",
+    "Scale 1:62,500",
+    "Minnesota County Maps, Plat Books, and Atlases"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "United States. Bureau of Chemistry and Soils"
+  ],
+  "dct_publisher_sm": [
+    "Field Operations, Bureau of Chemistry and Soils (Washington, D.C.?)"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Soils",
+    "Maps",
+    "1929",
+    "Geology",
+    "Maps",
+    "1929"
+  ],
+  "dct_issued_s": "1929",
+  "dct_spatial_sm": [
+    "Hennepin County, Minnesota",
+    "Minnesota"
+  ],
+  "locn_geometry": "POLYGON((-93.78333333 45.26666667, -93.15 45.26666667, -93.15 44.75, -93.78333333 44.75, -93.78333333 45.26666667))",
+  "dcat_bbox": "ENVELOPE(-93.78333333,-93.15,45.26666667,44.75)",
+  "dcat_centroid": "45.008333335,-93.466666665",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-01",
+    "p16022coll231"
+  ],
+  "dct_rights_sm": [
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:3395\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/3395/manifest.json\"}",
+  "id": "p16022coll231:3395",
+  "dct_identifier_sm": [
+    "UMN_ALMA:9962718590001701"
+  ],
+  "gbl_mdModified_dt": "2022-09-28T02:16:33Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

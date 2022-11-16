@@ -1,5 +1,9 @@
 {
   "dct_title_s": "Map showing lands belonging to the St. Paul and Duluth Railroad Company, August 1st 1889",
+  "dct_description_sm": [
+    "89 x 78 centimeters",
+    "General Minnesota Maps"
+  ],
   "dct_language_sm": [
     "eng"
   ],
@@ -13,29 +17,20 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "Railroads"
-  ],
   "dcat_keyword_sm": [
     "St Paul and Duluth Railroad Company Maps",
     "Railroad Land Grants Minnesota Maps",
     "Real Property Minnesota Maps",
-    "Railroads Minnesota Maps",
-    "bbox-update-mar2020"
+    "Railroads Minnesota Maps"
   ],
   "dct_temporal_sm": [
     "1889"
   ],
-  "gbl_indexYear_im": [
-    "1889"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1889 TO 1889]"
-  ],
+  "dct_issued_s": "1889",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-94.486,-91.7614,47.3191,44.8197)",
+  "locn_geometry": "POLYGON((-94.486 47.3191, -91.7614 47.3191, -91.7614 44.8197, -94.486 44.8197, -94.486 47.3191))",
   "dcat_bbox": "ENVELOPE(-94.486,-91.7614,47.3191,44.8197)",
   "dcat_centroid": "46.0694,-93.1237",
   "pcdm_memberOf_sm": [
@@ -43,18 +38,15 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll247"
-  ],
-  "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "p16022coll247"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:193\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/193/manifest.json\"}",
   "id": "p16022coll247:193",
   "dct_identifier_sm": [
-    "p16022coll247:193"
+    "UMN_ALMA:9917396340001700"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:55Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

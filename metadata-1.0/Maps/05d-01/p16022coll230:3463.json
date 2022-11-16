@@ -6,18 +6,20 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3463",
   "solr_geom": "ENVELOPE(13.0,15.0,47.0,44.0)",
-  "solr_year_i": "1920",
   "dc_creator_sm": [
     "Dufrénoy (Firm)"
   ],
-  "dc_description_s": "Date from French catalog record.; Relief shown by shading.|43 x 38 centimeters, on sheet 59 x 43 centimeters|Scale 1:500,000",
+  "dc_description_s": "Date from French catalog record.; Relief shown by shading.|43 x 38 centimeters, on sheet 59 x 43 centimeters|Scale 1:500,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3463/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3463\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3463/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:32:55Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3463\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3463/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Europe"
+  ],
+  "layer_modified_dt": "2022-09-28T02:15:30Z",
   "dc_language_sm": [
     "fre"
   ],
-  "dc_publisher_s": "Wuhrer ",
+  "dc_publisher_s": "Wuhrer (Paris)",
   "dct_issued_s": "1920",
   "dct_temporal_sm": [
     "1920"

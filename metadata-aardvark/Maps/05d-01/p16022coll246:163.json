@@ -1,5 +1,11 @@
 {
   "dct_title_s": "Country bordering the Great Trunk Road between Benares and Dehli: complied from the Revenue Surveys, based on the Great Trigonom",
+  "dct_description_sm": [
+    "Scale 8 miles = 1 in.",
+    "104 x 135 centimeters",
+    "Scale 1:506,880; 8 miles = 1 inch",
+    "Ames Library of South Asia Maps"
+  ],
   "dct_language_sm": [
     "eng"
   ],
@@ -7,27 +13,21 @@
     "Survey of India."
   ],
   "dct_publisher_sm": [
-    "Surveyor General's Office"
+    "Surveyor General's Office; Calcutta"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
+    "Maps",
     "Grand Trunk Road (India and Pakistan) Maps",
-    "Benares, Uttar Pradesh, India (Environs) 1857 1858 (1857 1858)",
-    "sprint-mar2020"
+    "Benares, Uttar Pradesh, India (Environs) 1857 1858 (1857 1858)"
   ],
   "dct_temporal_sm": [
     "1857 - 1858"
   ],
-  "dct_issued_s": "1857",
-  "gbl_indexYear_im": [
-    "1857"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1857 TO 1857]"
-  ],
+  "dct_issued_s": "1857 - 1858",
   "dct_spatial_sm": [
     "Vārānasi, India",
     "Delhi, India",
@@ -35,7 +35,7 @@
     "India",
     "Pakistan"
   ],
-  "locn_geometry": "ENVELOPE(76.8296,83.2785,28.9013,24.8803)",
+  "locn_geometry": "POLYGON((76.8296 28.9013, 83.2785 28.9013, 83.2785 24.8803, 76.8296 24.8803, 76.8296 28.9013))",
   "dcat_bbox": "ENVELOPE(76.8296,83.2785,28.9013,24.8803)",
   "dcat_centroid": "26.8908,80.05404999999999",
   "pcdm_memberOf_sm": [
@@ -43,18 +43,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/246327\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/163/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:163\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/163/manifest.json\"}",
   "id": "p16022coll246:163",
   "dct_identifier_sm": [
-    "p16022coll246:163"
+    "UMN_ALMA:9974090072701700"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:26Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

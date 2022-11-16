@@ -1,29 +1,26 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "p16022coll246:140",
+  "dc_identifier_s": "UMN_ALMA:9973944493701701",
   "dc_rights_s": "Public",
   "dc_title_s": "Aracam",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:140",
   "solr_geom": "ENVELOPE(90.68,97.91,28,15)",
-  "solr_year_i": "1602",
   "dc_creator_sm": [
     "van den Keere, Pieter, 1571-approximately 1646."
   ],
-  "dc_description_s": "Cartographic Details: Scale 1:13,000,000 (E 90°41'00\"--E 97°55'00\"/N 28°00'00\"--N 15°00'00\"). Relief shown pictorially. Shows roads, railroads, lighthouses, passes, forts, and administrative divisions. On verso: French text, entitled: Description de Bengala. Oriented with north to the left. Page number in upper right: 69. Likely from: Thresor De Chartes, Contenant Les Tableaux De Tous Les Pays Du Monde / Barent Langenes. Amsterdam: Christoffle Guyot, 1602. Dimensions: 9 x 13 centimeters",
+  "dc_description_s": "Cartographic Details: Scale 1:13,000,000 (E 90°41'00\"--E 97°55'00\"/N 28°00'00\"--N 15°00'00\"). Relief shown pictorially. Shows roads, railroads, lighthouses, passes, forts, and administrative divisions. On verso: French text, entitled: Description de Bengala. Oriented with north to the left. Page number in upper right: 69. Likely from: Thresor De Chartes, Contenant Les Tableaux De Tous Les Pays Du Monde / Barent Langenes. Amsterdam: Christoffle Guyot, 1602.|9 x 13 centimeters|Scale 1:13,000,000|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dc_subject_sm": [
-    "Railroads"
-  ],
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/228911\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/140/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:140\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/140/manifest.json\"}",
   "dct_spatial_sm": [
     "Burma, Myanmar [Burma]"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:30Z",
+  "layer_modified_dt": "2022-09-28T02:13:59Z",
   "dc_language_sm": [
     "fre"
   ],
-  "dc_publisher_s": "Christoffle Guyot",
+  "dc_publisher_s": "Christoffle Guyot; Amsterdam",
+  "dct_issued_s": "1602",
   "dct_temporal_sm": [
     "1602"
   ]

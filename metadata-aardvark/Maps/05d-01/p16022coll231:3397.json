@@ -1,0 +1,55 @@
+{
+  "dct_title_s": "Soil map, reconnaissance survey, Lake of the Woods County, Minnesota",
+  "dct_description_sm": [
+    "Base map in part from International Joint Commission charts.",
+    "93 x 56 Centimeters",
+    "Scale [1:126,720]",
+    "Minnesota County Maps, Plat Books, and Atlases"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "United States. Bureau of Chemistry and Soils"
+  ],
+  "dct_publisher_sm": [
+    "Field Operations, Bureau of Soils (Washington, D.C.?)"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Soils",
+    "1926",
+    "Geology",
+    "1926"
+  ],
+  "dct_issued_s": "1926",
+  "dct_spatial_sm": [
+    "Lake of the Woods County, Minnesota",
+    "Minnesota"
+  ],
+  "locn_geometry": "POLYGON((-95.36666667 49.43333333, -94.43333333 49.43333333, -94.43333333 48.33333333, -95.36666667 48.33333333, -95.36666667 49.43333333))",
+  "dcat_bbox": "ENVELOPE(-95.36666667,-94.43333333,49.43333333,48.33333333)",
+  "dcat_centroid": "48.88333333,-94.9",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-01",
+    "p16022coll231"
+  ],
+  "dct_rights_sm": [
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:3397\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/3397/manifest.json\"}",
+  "id": "p16022coll231:3397",
+  "dct_identifier_sm": [
+    "UMN_ALMA:9976075791501701"
+  ],
+  "gbl_mdModified_dt": "2022-09-28T02:16:30Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Nieuwe kaart van India over de Ganges : of van Malakka, Siam, Cambodia, Chiampa, Kochinchina, Laos, Pegu, Ava, enz.",
   "dct_description_sm": [
-    "Cartographic Details: Scale 1° to 15 German miles. 1° to 60 English miles. 1° to 20 French miles (E 86°--E 120°/N 28°--N 1°). Hand-coloured. Limited coverage. Probably from his Nieuwe en beknopte hand-atlas, 1744-1769. Dimensions: 29 x 36 centimeters"
+    "Cartographic Details: Scale 1° to 15 German miles. 1° to 60 English miles. 1° to 20 French miles (E 86°--E 120°/N 28°--N 1°). Hand-coloured. Limited coverage. Probably from his Nieuwe en beknopte hand-atlas, 1744-1769.",
+    "29 x 36 centimeters",
+    "Scale 1° to 15 German miles. 1° to 60 English miles. 1° to 20 French miles",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Tirion, Isaak"
   ],
   "dct_publisher_sm": [
-    "Tirion"
+    "Tirion; Amsterdam"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -24,17 +27,13 @@
     "Thailand Maps Early Works to 1800",
     "Burma Maps Early Works to 1800",
     "Sumatra (Indonesia) Maps Early Works to 1800",
-    "Malaysia Maps Early Works to 1800"
+    "Malaysia Maps Early Works to 1800",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1750?"
   ],
-  "gbl_indexYear_im": [
-    "1750"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1750 TO 1750]"
-  ],
+  "dct_issued_s": "1750?",
   "dct_spatial_sm": [
     "Cambodia",
     "Laos",
@@ -43,7 +42,7 @@
     "Burma, Myanmar [Burma]",
     "Malaysia"
   ],
-  "locn_geometry": "ENVELOPE(86,120,28,1)",
+  "locn_geometry": "POLYGON((86 28, 120 28, 120 1, 86 1, 86 28))",
   "dcat_bbox": "ENVELOPE(86,120,28,1)",
   "dcat_centroid": "14.5,103.0",
   "pcdm_memberOf_sm": [
@@ -51,18 +50,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/200849\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/383/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:383\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/383/manifest.json\"}",
   "id": "p16022coll246:383",
   "dct_identifier_sm": [
-    "p16022coll246:383"
+    "UMN_ALMA:9936794090001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:59Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Railroad Commissioners' 1903 map of Minnesota : corrected to January 1, 1903.",
   "dct_description_sm": [
-    "Cartographic Details: Scale [1:760,320].Prime meridians: Greenwich and Washington.Inset: North east corner of Minnesota. Dimensions: 99 x 66 centimeters"
+    "Cartographic Details: Scale [1:760,320].Prime meridians: Greenwich and Washington.Inset: North east corner of Minnesota.",
+    "99 x 66 centimeters",
+    "Scale [1:760,320]",
+    "Minnesota Transportation Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -17,25 +20,18 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "Railroads"
-  ],
   "dcat_keyword_sm": [
-    "Railroads Minnesota Maps 1903"
+    "Railroads Minnesota Maps 1903",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1903"
   ],
-  "gbl_indexYear_im": [
-    "1903"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1903 TO 1903]"
-  ],
+  "dct_issued_s": "1903",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-97.2729,-89.6375,49.3752,43.3611)",
+  "locn_geometry": "POLYGON((-97.2729 49.3752, -89.6375 49.3752, -89.6375 43.3611, -97.2729 43.3611, -97.2729 49.3752))",
   "dcat_bbox": "ENVELOPE(-97.2729,-89.6375,49.3752,43.3611)",
   "dcat_centroid": "46.36815,-93.4552",
   "pcdm_memberOf_sm": [
@@ -43,18 +39,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll206"
+    "p16022coll206"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/191032\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll206/138/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll206:138\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll206/138/manifest.json\"}",
   "id": "p16022coll206:138",
   "dct_identifier_sm": [
-    "p16022coll206:138"
+    "UMN_ALMA:9921029810001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:27Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

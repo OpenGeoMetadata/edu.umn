@@ -6,11 +6,14 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3245",
   "solr_geom": "ENVELOPE(3.3833,8.2167,50.1667,47.4167)",
-  "solr_year_i": "1918",
-  "dc_description_s": "Facsimile.; Relief shown by contours and spot heights.; Date from legend items.; \"353rd Inf. sectors and objectives\"--legend heading.|57 x 34 centimeters|Scale not given.",
+  "dc_description_s": "Facsimile.; Relief shown by contours and spot heights.; Date from legend items.; \"353rd Inf. sectors and objectives\"--legend heading.|57 x 34 centimeters|Scale not given.|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3245/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3245\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3245/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:24:18Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3245\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3245/manifest.json\"}",
+  "dct_spatial_sm": [
+    "France",
+    "Europe"
+  ],
+  "layer_modified_dt": "2022-09-28T02:15:26Z",
   "dc_language_sm": [
     "eng"
   ],

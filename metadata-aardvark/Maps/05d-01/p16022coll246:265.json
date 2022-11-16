@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Map of the Sikh Territory : and of the protected Sikh States, in the neighbourhood of the Sutluj River",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:300,000 ; (E 73°45'--E 76°10'/N 31°35'--N 30°20'). Relief shown by hachures. Indicates Sikh Territory, British Territory, and protected Sikh State.\"Compiled chiefly from the surveys of Captain C. Wade and Mr. N Hodges, by order of the court of directors of the East India Company.\" Dimensions: 53 x 82 centimeters"
+    "Cartographic Details: Scale approximately 1:300,000 ; (E 73°45'--E 76°10'/N 31°35'--N 30°20'). Relief shown by hachures. Indicates Sikh Territory, British Territory, and protected Sikh State.\"Compiled chiefly from the surveys of Captain C. Wade and Mr. N Hodges, by order of the court of directors of the East India Company.\"",
+    "53 x 82 centimeters",
+    "Scale approximately 1:300,000",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -12,7 +15,7 @@
     "East India Company."
   ],
   "dct_publisher_sm": [
-    "Walker, John"
+    "Walker, John; London"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -20,22 +23,18 @@
   ],
   "dcat_keyword_sm": [
     "Punjab (India) Maps",
-    "Punjab (Pakistan) Maps"
+    "Punjab (Pakistan) Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1846"
   ],
-  "gbl_indexYear_im": [
-    "1846"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1846 TO 1846]"
-  ],
+  "dct_issued_s": "1846",
   "dct_spatial_sm": [
     "India",
     "Pakistan"
   ],
-  "locn_geometry": "ENVELOPE(73.75,76.16,31.58,30.33)",
+  "locn_geometry": "POLYGON((73.75 31.58, 76.16 31.58, 76.16 30.33, 73.75 30.33, 73.75 31.58))",
   "dcat_bbox": "ENVELOPE(73.75,76.16,31.58,30.33)",
   "dcat_centroid": "30.955,74.955",
   "pcdm_memberOf_sm": [
@@ -43,18 +42,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/202841\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/265/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:265\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/265/manifest.json\"}",
   "id": "p16022coll246:265",
   "dct_identifier_sm": [
-    "p16022coll246:265"
+    "UMN_ALMA:9973937894301701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:30Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

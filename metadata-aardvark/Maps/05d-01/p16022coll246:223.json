@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Asia concinnata secundum observationes Academiae Regalis Scientiarum et nonnullas alias, et juxta annotationes recentissimas",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:22,000,000 Date from previously assigned call number on verso. Relief shown pictorially. Dimensions: 44 x 57 centimeters"
+    "Cartographic Details: Scale approximately 1:22,000,000 Date from previously assigned call number on verso. Relief shown pictorially.",
+    "44 x 57 centimeters",
+    "Scale approximately 1:22,000,000",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "lat"
@@ -11,25 +14,24 @@
     "Lotter, Tobias Conrad, 1717-1777"
   ],
   "dct_publisher_sm": [
-    "Apud T.C. Lotter Geogr"
+    "Apud T.C. Lotter Geogr; Venalis nunc prostat Augustae Vindelicorum Augsburg"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Asia Maps Early Works to 1800"
+    "Asia Maps Early Works to 1800",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1741"
   ],
-  "gbl_indexYear_im": [
-    "1741"
+  "dct_issued_s": "1741",
+  "dct_spatial_sm": [
+    "Asia"
   ],
-  "gbl_dateRange_drsim": [
-    "[1741 TO 1741]"
-  ],
-  "locn_geometry": "ENVELOPE(25,-168.35,81.66,-12.93)",
+  "locn_geometry": "POLYGON((25 81.66, -168.35 81.66, -168.35 -12.93, 25 -12.93, 25 81.66))",
   "dcat_bbox": "ENVELOPE(25,-168.35,81.66,-12.93)",
   "dcat_centroid": "34.364999999999995,-71.675",
   "pcdm_memberOf_sm": [
@@ -37,18 +39,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/200802\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/223/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:223\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/223/manifest.json\"}",
   "id": "p16022coll246:223",
   "dct_identifier_sm": [
-    "p16022coll246:223"
+    "UMN_ALMA:9963116560001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:44Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

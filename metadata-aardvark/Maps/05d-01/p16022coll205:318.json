@@ -1,10 +1,10 @@
 {
-  "dct_title_s": "Map of the city of Detroit, Michigan",
-  "dct_alternative_sm": [
-    "Map of the city of Detroit, Michigan, 1899 : showing paved streets, public schools, police stations, fire engine and ladder houses"
-  ],
+  "dct_title_s": "Map of the city of Detroit, Michigan, 1899 : showing paved streets, public schools, police stations, fire engine and ladder houses",
   "dct_description_sm": [
-    "Includes indices to schools, fire stations, and police department.   Color indicates type of street: asphalt, brick, cedar on concrete, etc.   Also shows railways and street car lines. Dimensions: 62 x 80 centimeters"
+    "Includes indices to schools, fire stations, and police department.   Color indicates type of street: asphalt, brick, cedar on concrete, etc.   Also shows railways and street car lines.",
+    "62 x 80 centimeters",
+    "Scale not given.",
+    "City Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -30,34 +30,29 @@
     "1899"
   ],
   "dct_issued_s": "1899",
-  "gbl_indexYear_im": [
-    "1899"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1899 TO 1899]"
-  ],
   "dct_spatial_sm": [
     "Detroit, Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-83.1601,-82.9001,42.45,42.2801)",
+  "locn_geometry": "POLYGON((-83.1601 42.45, -82.9001 42.45, -82.9001 42.2801, -83.1601 42.2801, -83.1601 42.45))",
   "dcat_bbox": "ENVELOPE(-83.1601,-82.9001,42.45,42.2801)",
   "dcat_centroid": "42.36505,-83.0301",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll205"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll205/id/318/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:318\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/318/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:318\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/318/manifest.json\"}",
   "id": "p16022coll205:318",
   "dct_identifier_sm": [
     "UMN_ALMA:9912621090001701"
   ],
-  "gbl_mdModified_dt": "2022-06-24T02:43:11Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

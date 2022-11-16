@@ -1,10 +1,10 @@
 {
-  "dct_title_s": "Septemtrionaliora Americæ à Groenlandia, per Freta Davidis et Hudson, ad Terram Novam",
-  "dct_alternative_sm": [
-    "Septemtrionaliora Americæ à Groenlandia, per Freta Davidis et Hudson, ad Terram Novam"
-  ],
+  "dct_title_s": "Septemtrionaliora Americæ à Groenlandia, per Freta Davidis et Hudson, ad Terram Novam",
   "dct_description_sm": [
-    "Relief shown pictorially.   Inset map of Fish Bay, Disko Island and coast of Greenland.   The fourth state of a map originally published by Frederik de Wit in 1675.   From: Atlas van zeevaart en koophandel door de geheele weereldt ... / ... door den Heer Louis Renard ... Te Amsterdam : by Reinier en Iosua Ottens, 1745. Dimensions: 48 x 54 centimeters"
+    "Relief shown pictorially.   Inset map of Fish Bay, Disko Island and coast of Greenland.   The fourth state of a map originally published by Frederik de Wit in 1675.   From: Atlas van zeevaart en koophandel door de geheele weereldt ... / ... door den Heer Louis Renard ... Te Amsterdam : by Reinier en Iosua Ottens, 1745.",
+    "48 x 54 centimeters",
+    "Scale approximately 1:1,900,800",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "lat"
@@ -33,34 +33,29 @@
     "1745"
   ],
   "dct_issued_s": "1745",
-  "gbl_indexYear_im": [
-    "1745"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1745 TO 1745]"
-  ],
   "dct_spatial_sm": [
     "Canada"
   ],
-  "locn_geometry": "ENVELOPE(-98.33,-44.68,79.98,50.3)",
+  "locn_geometry": "POLYGON((-98.33 79.98, -44.68 79.98, -44.68 50.3, -98.33 50.3, -98.33 79.98))",
   "dcat_bbox": "ENVELOPE(-98.33,-44.68,79.98,50.3)",
   "dcat_centroid": "65.14,-71.505",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/596/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:596\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/596/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:596\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/596/manifest.json\"}",
   "id": "p16022coll230:596",
   "dct_identifier_sm": [
     "UMN_ALMA:9973344204401701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:52Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

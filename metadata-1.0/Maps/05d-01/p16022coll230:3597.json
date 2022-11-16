@@ -6,14 +6,16 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3597",
   "solr_geom": "ENVELOPE(45.0,179.8333,32.0,8.25)",
-  "solr_year_i": "1925",
   "dc_creator_sm": [
     "Soviet Union. Geologicheskiĭ komitet"
   ],
-  "dc_description_s": "Covers Soviet Union east of the Urals.|sheets 72 x 80 or smaller, forming a map 122 x 193 centimeters|Scale 1:4,200,000",
+  "dc_description_s": "Covers Soviet Union east of the Urals.|sheets 72 x 80 or smaller, forming a map 122 x 193 centimeters|Scale 1:4,200,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3597/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3597\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3597/manifest.json\"}",
-  "layer_modified_dt": "2022-05-31T13:50:47Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3597\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3597/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Asia"
+  ],
+  "layer_modified_dt": "2022-09-28T02:15:39Z",
   "dc_language_sm": [
     "rus"
   ],

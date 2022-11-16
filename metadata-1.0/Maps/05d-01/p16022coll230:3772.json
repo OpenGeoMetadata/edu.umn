@@ -6,14 +6,17 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3772",
   "solr_geom": "ENVELOPE(93.0,132.0,43.0,18.0)",
-  "solr_year_i": "1751",
   "dc_creator_sm": [
     "Robert de Vaugondy, Gilles, 1688-1766"
   ],
-  "dc_description_s": "Relief shown pictorially.; From His Atlas universel, 1749-1792.; On verso: Chine, 98.|47 x 51 centimeters|Scale approximately 1:6,000,000",
+  "dc_description_s": "Relief shown pictorially.; From His Atlas universel, 1749-1792.; On verso: Chine, 98.|47 x 51 centimeters|Scale approximately 1:6,000,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3772/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3772\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3772/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:27:53Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3772\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3772/manifest.json\"}",
+  "dct_spatial_sm": [
+    "China",
+    "Asia"
+  ],
+  "layer_modified_dt": "2022-09-28T02:14:08Z",
   "dc_language_sm": [
     "fre"
   ],

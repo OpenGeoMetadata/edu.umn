@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "The federal aid highway system progress map~~[New York]",
-  "dct_alternative_sm": [
-    "The federal aid highway system progress map : [New York]"
+  "dct_title_s": "The federal aid highway system progress map : [New York]",
+  "dct_description_sm": [
+    "Pavement types indicated.; \"Data corrected to Dec. 31, 1926.\"",
+    "sheets 55 x 79 centimeters",
+    "Scale 1:500,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -26,31 +29,26 @@
     "1926"
   ],
   "dct_issued_s": "1926",
-  "gbl_indexYear_im": [
-    "1926"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1926 TO 1926]"
-  ],
-  "locn_geometry": "ENVELOPE(-80,-72,45,41)",
+  "locn_geometry": "POLYGON((-80 45, -72 45, -72 41, -80 41, -80 45))",
   "dcat_bbox": "ENVELOPE(-80,-72,45,41)",
   "dcat_centroid": "43.0,-76.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/1437/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1437\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1437/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1437\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1437/manifest.json\"}",
   "id": "p16022coll230:1437",
   "dct_identifier_sm": [
     "UMN_ALMA:9949956690001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:04Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

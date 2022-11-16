@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "New map of Boston~~giving all points of interest, with every railway & steamboat terminus, prominent hotels, theatres & public buildings. Map of Boston and suburbs~~showing parks and automobile routes",
-  "dct_alternative_sm": [
-    "New map of Boston : giving all points of interest, with every railway & steamboat terminus, prominent hotels, theatres & public buildings. Map of Boston and suburbs : showing parks and automobile routes"
+  "dct_title_s": "New map of Boston : giving all points of interest, with every railway & steamboat terminus, prominent hotels, theatres & public buildings. Map of Boston and suburbs : showing parks and automobile routes",
+  "dct_description_sm": [
+    "New map of Boston: \"Copyright 1894, 1897, 1902, 1904 by Geo. H. Walker & Co., Boston. Copyright 1883 by Tilly Haynes, Boston.\"; Map of Boston and suburbs: \"Copyright 1904 by Geo. H. Walker & Co., Boston. Part of road maps of the Boston district, copyright 1884, 1897 & 1902 by Geo. H. Walker & Co., Boston.\"",
+    "35 x 34 centimeters and 34 x 34 centimeters",
+    "Scale not given.; Scale approximately 1:87,500",
+    "City Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -20,31 +23,26 @@
     "1904"
   ],
   "dct_issued_s": "1904",
-  "gbl_indexYear_im": [
-    "1904"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1904 TO 1904]"
-  ],
-  "locn_geometry": "ENVELOPE(-71.0792,-71.0292,42.3903,42.35)",
+  "locn_geometry": "POLYGON((-71.0792 42.3903, -71.0292 42.3903, -71.0292 42.35, -71.0792 42.35, -71.0792 42.3903))",
   "dcat_bbox": "ENVELOPE(-71.0792,-71.0292,42.3903,42.35)",
   "dcat_centroid": "42.37015,-71.05420000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll205"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll205/id/563/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:563\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/563/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:563\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/563/manifest.json\"}",
   "id": "p16022coll205:563",
   "dct_identifier_sm": [
     "UMN_ALMA:9975626401901701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:02Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

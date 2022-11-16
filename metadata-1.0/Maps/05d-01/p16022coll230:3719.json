@@ -6,14 +6,16 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3719",
   "solr_geom": "ENVELOPE(25.6167,44.8167,42.2833,35.8)",
-  "solr_year_i": "1915",
   "dc_creator_sm": [
     "Gross, Alexander, 1879-1958"
   ],
-  "dc_description_s": "Shows railroads, roads, and forts; does not show campaigns.; Relief shown pictorially and by spot heights.; Includes glossary and 5 inset maps.|76 x 101 centimeters|Scale approximately 1:350,000",
+  "dc_description_s": "Shows railroads, roads, and forts; does not show campaigns.; Relief shown pictorially and by spot heights.; Includes glossary and 5 inset maps.|76 x 101 centimeters|Scale approximately 1:350,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3719/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3719\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3719/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:29:36Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3719\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3719/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Asia"
+  ],
+  "layer_modified_dt": "2022-09-28T02:15:21Z",
   "dc_language_sm": [
     "eng"
   ],

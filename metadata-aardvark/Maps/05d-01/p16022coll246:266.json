@@ -1,7 +1,10 @@
 {
   "dct_title_s": "L'Asie :",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:22,000,000.\"Graveá par Le Tellier.\" Imprint: A Paris : Ches l'auteur, quai de l'Horloge du Palais proche la rue de Harlay, 1739. Relief shown pictorially. Hand colored in outline. Includes table outlining the physical and political geography of Asia. Dimensions: 48 x 62 centimeters, on sheet 55 x 74 centimeters"
+    "Cartographic Details: Scale approximately 1:22,000,000.\"Graveá par Le Tellier.\" Imprint: A Paris : Ches l'auteur, quai de l'Horloge du Palais proche la rue de Harlay, 1739. Relief shown pictorially. Hand colored in outline. Includes table outlining the physical and political geography of Asia.",
+    "48 x 62 centimeters, on sheet 55 x 74 centimeters",
+    "Scale approximately 1:22,000,000",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "fre"
@@ -17,18 +20,18 @@
     "Asia Maps Early Works to 1800",
     "Asia",
     "Maps Asia 1739",
-    "Early Works"
+    "Early Works",
+    "Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1739"
   ],
-  "gbl_indexYear_im": [
-    "1739"
+  "dct_issued_s": "1739",
+  "dct_spatial_sm": [
+    "Asia"
   ],
-  "gbl_dateRange_drsim": [
-    "[1739 TO 1739]"
-  ],
-  "locn_geometry": "ENVELOPE(24.65,-168.35,78.2,-12.93)",
+  "locn_geometry": "POLYGON((24.65 78.2, -168.35 78.2, -168.35 -12.93, 24.65 -12.93, 24.65 78.2))",
   "dcat_bbox": "ENVELOPE(24.65,-168.35,78.2,-12.93)",
   "dcat_centroid": "32.635000000000005,-71.85",
   "pcdm_memberOf_sm": [
@@ -36,18 +39,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/225773\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/266/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:266\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/266/manifest.json\"}",
   "id": "p16022coll246:266",
   "dct_identifier_sm": [
-    "p16022coll246:266"
+    "UMN_ALMA:9973942697701701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:27Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

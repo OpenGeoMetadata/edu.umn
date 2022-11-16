@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Exposition map of the city of New Orleans",
-  "dct_alternative_sm": [
-    "Exposition map of the city of New Orleans"
+  "dct_description_sm": [
+    "Cloth map.; Shows steam railroads, streetcar routes, ferries, parks, wharf numbers, and some block numbers.; Depths shown by soundings.; Inset: Perspective view of the buildings and grounds from the northeast.; Includes illustrations of fairground buildings: United States and state exhibits -- Main building -- Horticultural hall -- Art gallery -- Factories and mills -- Mexican headquarters -- Mexican exhibit.",
+    "63 x 68 centimeters",
+    "Scale indeterminable.",
+    "City Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -21,23 +24,18 @@
     "1884?"
   ],
   "dct_issued_s": "1884?",
-  "gbl_indexYear_im": [
-    "1884"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1884 TO 1884]"
-  ],
   "dct_spatial_sm": [
     "New Orleans, Louisiana"
   ],
-  "locn_geometry": "ENVELOPE(-90.15,-90.0194,30.0292,29.9)",
+  "locn_geometry": "POLYGON((-90.15 30.0292, -90.0194 30.0292, -90.0194 29.9, -90.15 29.9, -90.15 30.0292))",
   "dcat_bbox": "ENVELOPE(-90.15,-90.0194,30.0292,29.9)",
   "dcat_centroid": "29.964599999999997,-90.0847",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll205"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -49,6 +47,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9975844451701701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:23Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

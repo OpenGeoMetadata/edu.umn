@@ -1,12 +1,10 @@
 {
   "dct_title_s": "The Daily Telegraph map",
-  "dct_alternative_sm": [
-    "The Daily Telegraph map"
-  ],
   "dct_description_sm": [
     "Relief shown by spot heights.",
     "130 x 84 centimeters",
-    "Scale approximately 1:2,000,000"
+    "Scale approximately 1:2,000,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -15,7 +13,7 @@
     "Gross, Alexander, 1879-1958"
   ],
   "dct_publisher_sm": [
-    "Geographia Ltd "
+    "Geographia Ltd (London)"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -28,31 +26,29 @@
     "1918"
   ],
   "dct_issued_s": "1918?",
-  "gbl_indexYear_im": [
-    "1918"
+  "dct_spatial_sm": [
+    "Europe"
   ],
-  "gbl_dateRange_drsim": [
-    "[1918 TO 1918]"
-  ],
-  "locn_geometry": "ENVELOPE(11.0833,41.5333,65.5333,34.4833)",
+  "locn_geometry": "POLYGON((11.0833 65.5333, 41.5333 65.5333, 41.5333 34.4833, 11.0833 34.4833, 11.0833 65.5333))",
   "dcat_bbox": "ENVELOPE(11.0833,41.5333,65.5333,34.4833)",
   "dcat_centroid": "50.0083,26.3083",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3490/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3490\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3490/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3490\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3490/manifest.json\"}",
   "id": "p16022coll230:3490",
   "dct_identifier_sm": [
     "UMN_ALMA:9962816140001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:34:02Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:28Z",
   "gbl_mdVersion_s": "Aardvark"
 }

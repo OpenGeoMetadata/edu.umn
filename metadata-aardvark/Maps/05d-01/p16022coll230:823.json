@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Geological map of the United States and the British provinces of North America",
-  "dct_alternative_sm": [
-    "Geological map of the United States and the British provinces of North America"
+  "dct_description_sm": [
+    "Mounted on muslin.; Also issued with text of 92 pages under title: A geological map of the United States and the British provinces of North America with explanatory text, geological sections and plates of the fossils which characterize the formations.",
+    "58 x 84 centimeters",
+    "Scale approximately 1:5,000,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -24,34 +27,29 @@
     "1853"
   ],
   "dct_issued_s": "1853",
-  "gbl_indexYear_im": [
-    "1853"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1853 TO 1853]"
-  ],
   "dct_spatial_sm": [
     "Canada; United States"
   ],
-  "locn_geometry": "ENVELOPE(-101.85,-52.0833,49.4,24.5333)",
+  "locn_geometry": "POLYGON((-101.85 49.4, -52.0833 49.4, -52.0833 24.5333, -101.85 24.5333, -101.85 49.4))",
   "dcat_bbox": "ENVELOPE(-101.85,-52.0833,49.4,24.5333)",
   "dcat_centroid": "36.96665,-76.96665",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/823/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:823\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/823/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:823\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/823/manifest.json\"}",
   "id": "p16022coll230:823",
   "dct_identifier_sm": [
     "UMN_ALMA:9973346196601701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:49Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

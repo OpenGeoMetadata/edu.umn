@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Sectional map Cass and Crow Wing Counties, Minn : compiled from latest government surveys and other authentic sources.",
   "dct_description_sm": [
-    "Cartographic Details: Scale [1:142,560]. Distributor from label on recto. Dimensions: 107 x 66 centimeters"
+    "Cartographic Details: Scale [1:142,560]. Distributor from label on recto.",
+    "107 x 66 centimeters",
+    "Scale [1:142,560]",
+    "Minnesota County Maps, Plat Books, and Atlases"
   ],
   "dct_language_sm": [
     "eng"
@@ -19,23 +22,19 @@
   ],
   "dcat_keyword_sm": [
     "Cass County (Minn.) Maps 1901",
-    "Crow Wing County (Minn.) Maps 1901"
+    "Crow Wing County (Minn.) Maps 1901",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1901"
   ],
-  "gbl_indexYear_im": [
-    "1901"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1901 TO 1901]"
-  ],
+  "dct_issued_s": "1901",
   "dct_spatial_sm": [
     "Cass County, Minnesota",
     "Crow Wing County, Minnesota",
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-94.6802,-93.7739,47.4807,46.1552)",
+  "locn_geometry": "POLYGON((-94.6802 47.4807, -93.7739 47.4807, -93.7739 46.1552, -94.6802 46.1552, -94.6802 47.4807))",
   "dcat_bbox": "ENVELOPE(-94.6802,-93.7739,47.4807,46.1552)",
   "dcat_centroid": "46.817949999999996,-94.22704999999999",
   "pcdm_memberOf_sm": [
@@ -43,18 +42,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll231"
+    "p16022coll231"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/188813\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/36/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:36\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/36/manifest.json\"}",
   "id": "p16022coll231:36",
   "dct_identifier_sm": [
-    "p16022coll231:36"
+    "UMN_ALMA:9945432500001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:36Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,7 +1,10 @@
 {
   "dct_title_s": "India, Afghanistan, Beloochistan, Burmah and Siam",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:12,500,000 ; (E 60°01'00\"--E 105°10'00\"/N 37°11'00\"--N 5°38'00\"). Relief shown by hachures. Shows railways and telegraph cables. Date from previous call number. Indicates political divisions, presidencies, independent states, and states under British protection. Dimensions: 30 x 41 centimeters"
+    "Cartographic Details: Scale approximately 1:12,500,000 ; (E 60°01'00\"--E 105°10'00\"/N 37°11'00\"--N 5°38'00\"). Relief shown by hachures. Shows railways and telegraph cables. Date from previous call number. Indicates political divisions, presidencies, independent states, and states under British protection.",
+    "30 x 41 centimeters",
+    "Scale approximately 1:12,500,000",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,14 +13,11 @@
     "Bartholomew, John, 1831-1893"
   ],
   "dct_publisher_sm": [
-    "J. Bartholomew"
+    "J. Bartholomew ; London"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dct_subject_sm": [
-    "Railroads"
   ],
   "dcat_keyword_sm": [
     "Railroads India Maps",
@@ -34,13 +34,11 @@
   "dct_temporal_sm": [
     "1870"
   ],
-  "gbl_indexYear_im": [
-    "1870"
+  "dct_issued_s": "1870",
+  "dct_spatial_sm": [
+    "Asia"
   ],
-  "gbl_dateRange_drsim": [
-    "[1870 TO 1870]"
-  ],
-  "locn_geometry": "ENVELOPE(60.01,105.16,37.18,5.63)",
+  "locn_geometry": "POLYGON((60.01 37.18, 105.16 37.18, 105.16 5.63, 60.01 5.63, 60.01 37.18))",
   "dcat_bbox": "ENVELOPE(60.01,105.16,37.18,5.63)",
   "dcat_centroid": "21.405,82.585",
   "pcdm_memberOf_sm": [
@@ -48,18 +46,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/228810\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/420/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:420\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/420/manifest.json\"}",
   "id": "p16022coll246:420",
   "dct_identifier_sm": [
-    "p16022coll246:420"
+    "UMN_ALMA:9973942600301701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:20Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

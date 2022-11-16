@@ -1,18 +1,19 @@
 {
   "dct_title_s": "Plano del cantón de Tuxpan, estado de Veracruz",
-  "dct_alternative_sm": [
-    "Plano del cantón de Tuxpan, estado de Veracruz"
-  ],
   "dct_description_sm": [
     "Shows boundaries, railroads, water and gas pipe lines, and oil fields.; Relief shown by hachures.",
     "123 x 82 centimeters",
-    "Scale 1:100,000"
+    "Scale 1:100,000",
+    "City Maps"
   ],
   "dct_language_sm": [
     "spa"
   ],
   "dct_creator_sm": [
     "Mexico. Comisio?n Técnica del Petro?leo"
+  ],
+  "dct_publisher_sm": [
+    "(México)"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -25,34 +26,29 @@
     "1916"
   ],
   "dct_issued_s": "1916",
-  "gbl_indexYear_im": [
-    "1916"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1916 TO 1916]"
-  ],
   "dct_spatial_sm": [
     "Tuxpan, Veracruz"
   ],
-  "locn_geometry": "ENVELOPE(-97.4167,-97.3667,20.9667,20.9333)",
+  "locn_geometry": "POLYGON((-97.4167 20.9667, -97.3667 20.9667, -97.3667 20.9333, -97.4167 20.9333, -97.4167 20.9667))",
   "dcat_bbox": "ENVELOPE(-97.4167,-97.3667,20.9667,20.9333)",
   "dcat_centroid": "20.95,-97.3917",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll205"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll205/id/694/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:694\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/694/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:694\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/694/manifest.json\"}",
   "id": "p16022coll205:694",
   "dct_identifier_sm": [
     "UMN_ALMA:9923225490001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:13Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

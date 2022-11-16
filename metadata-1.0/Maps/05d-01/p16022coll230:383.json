@@ -5,17 +5,18 @@
   "dc_title_s": "Stockholms hamn : Stockholm harbour, skala 1:15000",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:383",
-  "solr_year_i": "1928",
+  "solr_geom": "ENVELOPE(17.94333333,36.21444444,59.36388889,59.29527778)",
   "dc_creator_sm": [
     "Sjofartsverket."
   ],
-  "dc_description_s": "Cartographic Details: Scale varies (E 17°56ʹ36ʺ--E 18°12ʹ52ʺ/N 59°21ʹ50ʺ--N 59°17ʹ43ʺ) In Swedish. \"\"NR 88\"\" \"\"Pris kr. 3\"\" \"\"Correct to 1928 VIII, 30IV, 31 VII\"\" Includes plan of Riddarfjärden-Strömmen, Värtahamnen, Frihamnen, Gasverkshamnen, and Hammarbyhamnen. Relief shown by soundings.||1 map on 2 sheets : color ; 75 x 123 centimeters, on sheets 75 x 61 centimeters|Scale varies",
+  "dc_description_s": "Cartographic Details: Scale varies (E 17°56'36\"--E 18°12'52\"/N 59°21'50\"--N 59°17'43\") In Swedish. \"\"NR 88\"\" \"\"Pris kr. 3\"\" \"\"Correct to 1928 VIII, 30IV, 31 VII\"\" Includes plan of Riddarfjärden-Strömmen, Värtahamnen, Frihamnen, Gasverkshamnen, and Hammarbyhamnen. Relief shown by soundings.|1 map on 2 sheets : color ; 75 x 123 centimeters, on sheets 75 x 61 centimeters|Scale varies|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/383/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:383\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/383/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:383\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/383/manifest.json\"}",
   "dct_spatial_sm": [
-    "Stockholm"
+    "Stockholm, Sweden",
+    "Sweden"
   ],
-  "layer_modified_dt": "2022-02-27T01:40:34Z",
+  "layer_modified_dt": "2022-09-28T02:15:47Z",
   "dc_language_sm": [
     "swe"
   ],

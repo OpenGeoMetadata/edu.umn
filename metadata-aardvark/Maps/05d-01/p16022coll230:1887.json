@@ -1,7 +1,10 @@
 {
   "dct_title_s": "1929 official road map, Wisconsin",
-  "dct_alternative_sm": [
-    "1929 official road map, Wisconsin"
+  "dct_description_sm": [
+    "Relief shown by hachures.; Also shows indications of \"cities and towns in which are located Service Stations of the Standard Oil Company (Indiana).\"; \"Copyrighted by the H.M Gousha Company, Chicago, Ill.\"; Indexed.; Ancillary highway map of region and text on verso.; Code in lower right corner: \"C-128 J.C.\"",
+    "59 x 39 centimeters",
+    "Scale approximately 1:1,238,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -23,23 +26,18 @@
     "1929"
   ],
   "dct_issued_s": "1929",
-  "gbl_indexYear_im": [
-    "1929"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1929 TO 1929]"
-  ],
   "dct_spatial_sm": [
     "Wisconsin"
   ],
-  "locn_geometry": "ENVELOPE(-92.8833,-86.2333,47.3,42.4833)",
+  "locn_geometry": "POLYGON((-92.8833 47.3, -86.2333 47.3, -86.2333 42.4833, -92.8833 42.4833, -92.8833 47.3))",
   "dcat_bbox": "ENVELOPE(-92.8833,-86.2333,47.3,42.4833)",
   "dcat_centroid": "44.89165,-89.5583",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -51,6 +49,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9946182190001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:13Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

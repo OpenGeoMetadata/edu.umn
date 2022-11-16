@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Map of the state of Oklahoma",
-  "dct_alternative_sm": [
-    "Map of the state of Oklahoma"
+  "dct_description_sm": [
+    "Shows rivers, county boundaries, county seats, roads and railway lines.",
+    "67 x 128 centimeters",
+    "Scale approximately 1:633,600",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -20,23 +23,18 @@
     "1914"
   ],
   "dct_issued_s": "1914",
-  "gbl_indexYear_im": [
-    "1914"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1914 TO 1914]"
-  ],
   "dct_spatial_sm": [
     "Oklahoma"
   ],
-  "locn_geometry": "ENVELOPE(-103.0,-94.4167,37.0,33.6)",
+  "locn_geometry": "POLYGON((-103.0 37.0, -94.4167 37.0, -94.4167 33.6, -103.0 33.6, -103.0 37.0))",
   "dcat_bbox": "ENVELOPE(-103.0,-94.4167,37.0,33.6)",
   "dcat_centroid": "35.3,-98.70835",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -48,6 +46,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9974083106401701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:28Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

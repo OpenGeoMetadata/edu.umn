@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Thacker's reduced survey map of India",
   "dct_description_sm": [
-    "Cartographic Details: Scale 1:4,435,200. 1 in. = 70 mi. (E 64°--E 100°/N 40°--N 4°). Shows international and administrative boundaries, railways, roads, steamer routes. Date on index 1907; date on map 1906. Relief shown by hachures and spot heights. Insets: [Madras] -- Calcutta -- Bombay -- [Nicobar Islands, on the same scale] -- Assam, Cachar and Sylhet -- Darjiling & Jalpaiguri -- Kangura -- Chittagong -- Dehra Dun and Kumaun -- Ceylon. Ancillary maps: [Egypt to Laos] -- India : [wheat, rice cotton] -- India : [sugar cane, indigo, coffee].\"The Edinburgh Geographical Institute\"--lower left.\"Copyright -- John Bartholomew & Co.\"--lower right. Accompanied by index ([64]p. ; 26 cm.). Map and index bound in blue cloth cover. Dimensions: 97 x 85 centimeters"
+    "Cartographic Details: Scale 1:4,435,200. 1 in. = 70 mi. (E 64°--E 100°/N 40°--N 4°). Shows international and administrative boundaries, railways, roads, steamer routes. Date on index 1907; date on map 1906. Relief shown by hachures and spot heights. Insets: [Madras] -- Calcutta -- Bombay -- [Nicobar Islands, on the same scale] -- Assam, Cachar and Sylhet -- Darjiling & Jalpaiguri -- Kangura -- Chittagong -- Dehra Dun and Kumaun -- Ceylon. Ancillary maps: [Egypt to Laos] -- India : [wheat, rice cotton] -- India : [sugar cane, indigo, coffee].\"The Edinburgh Geographical Institute\"--lower left.\"Copyright -- John Bartholomew & Co.\"--lower right. Accompanied by index ([64]p. ; 26 cm.). Map and index bound in blue cloth cover.",
+    "97 x 85 centimeters",
+    "Scale 1:4,435,200; 1 inch = 70 miles",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -12,33 +15,26 @@
     "Thacker, Spink & Co."
   ],
   "dct_publisher_sm": [
-    "Thacker, Spink & Co."
+    "Thacker, Spink & Co.; Calcutta"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "Railroads"
-  ],
   "dcat_keyword_sm": [
     "Railroads India Maps",
     "Cities and Towns India Maps",
-    "India Administrative and Political Divisions Maps"
+    "India Administrative and Political Divisions Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1907"
   ],
-  "gbl_indexYear_im": [
-    "1907"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1907 TO 1907]"
-  ],
+  "dct_issued_s": "1907",
   "dct_spatial_sm": [
     "India"
   ],
-  "locn_geometry": "ENVELOPE(64,100,40,4)",
+  "locn_geometry": "POLYGON((64 40, 100 40, 100 4, 64 4, 64 40))",
   "dcat_bbox": "ENVELOPE(64,100,40,4)",
   "dcat_centroid": "22.0,82.0",
   "pcdm_memberOf_sm": [
@@ -46,18 +42,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/202850\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/164/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:164\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/164/manifest.json\"}",
   "id": "p16022coll246:164",
   "dct_identifier_sm": [
-    "p16022coll246:164"
+    "UMN_ALMA:9935596130001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:25Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

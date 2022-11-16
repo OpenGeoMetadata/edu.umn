@@ -2,20 +2,20 @@
   "geoblacklight_version": "1.0",
   "dc_identifier_s": "UMN_ALMA:9974070408101701",
   "dc_rights_s": "Public",
-  "dc_title_s": "Map of Montreal and the Eastern Townships~~also showing the South Eastern portion of the Province of Quebec",
+  "dc_title_s": "Map of Montreal and the Eastern Townships : also showing the South Eastern portion of the Province of Quebec",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:773",
   "solr_geom": "ENVELOPE(-74.75,-70.75,46.5,44.75)",
-  "solr_year_i": "1897",
   "dc_creator_sm": [
     "Smith, E. R"
   ],
+  "dc_description_s": "Shows county and township boundaries, with survey pattern.|58 x 101 centimeters|Scale approximately 1:325,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/773/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:773\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/773/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:773\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/773/manifest.json\"}",
   "dct_spatial_sm": [
     "Canada"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:51Z",
+  "layer_modified_dt": "2022-09-28T02:14:57Z",
   "dc_language_sm": [
     "eng"
   ],

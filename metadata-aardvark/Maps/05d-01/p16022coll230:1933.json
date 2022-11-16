@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Lake Superior and the northern part of Michigan",
-  "dct_alternative_sm": [
-    "Lake Superior and the northern part of Michigan"
+  "dct_description_sm": [
+    "Relief shown by hachures.; Prime meridians: Greenwich and Washington.; \"Entered according to act of Congress in the year 1855 by J.H. Colton & Co. ...\"; From Colton's atlas of the world. New York: J.H. Colton & Co., 1855?. No. 43.",
+    "29 x 42 centimeters",
+    "Scale approximately 1:1,625,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -20,23 +23,18 @@
     "1855"
   ],
   "dct_issued_s": "1855",
-  "gbl_indexYear_im": [
-    "1855"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1855 TO 1855]"
-  ],
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-92.25,-83.4167,49.1667,45.0)",
+  "locn_geometry": "POLYGON((-92.25 49.1667, -83.4167 49.1667, -83.4167 45.0, -92.25 45.0, -92.25 49.1667))",
   "dcat_bbox": "ENVELOPE(-92.25,-83.4167,49.1667,45.0)",
   "dcat_centroid": "47.083349999999996,-87.83335",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -48,6 +46,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9920722310001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:06Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

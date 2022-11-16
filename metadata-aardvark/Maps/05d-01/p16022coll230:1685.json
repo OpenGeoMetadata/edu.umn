@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Arkansas",
-  "dct_alternative_sm": [
-    "Arkansas"
+  "dct_description_sm": [
+    "Map of the Arkansas Surveying district, shewing the extent of Public Surveys in said district on the 18th October 1855.; Upper margin: A, (1).",
+    "40 x 43 centimeters",
+    "Scale approximately 1:1,200,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -20,23 +23,18 @@
     "1856"
   ],
   "dct_issued_s": "1856",
-  "gbl_indexYear_im": [
-    "1856"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1856 TO 1856]"
-  ],
   "dct_spatial_sm": [
     "Arkansas"
   ],
-  "locn_geometry": "ENVELOPE(-95.0,-89.0,37.0,31.0)",
+  "locn_geometry": "POLYGON((-95.0 37.0, -89.0 37.0, -89.0 31.0, -95.0 31.0, -95.0 37.0))",
   "dcat_bbox": "ENVELOPE(-95.0,-89.0,37.0,31.0)",
   "dcat_centroid": "34.0,-92.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -48,6 +46,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9917955310001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:08Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

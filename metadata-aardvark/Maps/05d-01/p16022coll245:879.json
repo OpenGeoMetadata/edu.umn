@@ -1,5 +1,11 @@
 {
   "dct_title_s": "Handy guide maps : roads & lakes",
+  "dct_description_sm": [
+    "Relief shown by spot heights. Also shows railroads and streetcar lines. Title from cover. On cover: Compliments of New Business Department, First National Bank of Saint Paul. In upper margin: First National Bank, St. Paul, Minn.",
+    "57 x 55 centimeters",
+    "1:190,080",
+    "Minneapolis and St. Paul Maps and Atlases"
+  ],
   "dct_language_sm": [
     "eng"
   ],
@@ -20,23 +26,19 @@
     "Roads Minnesota Minneapolis Maps",
     "Roads Minnesota Saint Paul Maps",
     "Minneapolis Metropolitan Area (Minn.) Maps",
-    "Saint Paul Metropolitan Area (Minn.) Maps"
+    "Saint Paul Metropolitan Area (Minn.) Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1922"
   ],
-  "gbl_indexYear_im": [
-    "1922"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1922 TO 1922]"
-  ],
+  "dct_issued_s": "1922",
   "dct_spatial_sm": [
     "Minneapolis, Minnesota",
     "Saint Paul, Minnesota",
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-95.1677,-91.1199,46.4247,43.414)",
+  "locn_geometry": "POLYGON((-95.1677 46.4247, -91.1199 46.4247, -91.1199 43.414, -95.1677 43.414, -95.1677 46.4247))",
   "dcat_bbox": "ENVELOPE(-95.1677,-91.1199,46.4247,43.414)",
   "dcat_centroid": "44.91935,-93.1438",
   "pcdm_memberOf_sm": [
@@ -44,18 +46,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll245"
+    "p16022coll245"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/187178\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/879/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:879\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/879/manifest.json\"}",
   "id": "p16022coll245:879",
   "dct_identifier_sm": [
-    "p16022coll245:879"
+    "UMN_ALMA:9929037400001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:01Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

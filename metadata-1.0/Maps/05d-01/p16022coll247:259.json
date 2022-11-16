@@ -1,30 +1,27 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "p16022coll247:259",
+  "dc_identifier_s": "UMN_ALMA:9962147480001701",
   "dc_rights_s": "Public",
   "dc_title_s": "Burritt's sectional and township map of Minnesota",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll247:259",
   "solr_geom": "ENVELOPE(-97.2392,-89.5551,49.3844,43.4994)",
-  "solr_year_i": "1870",
   "dc_creator_sm": [
     "Burritt, Elijah Hinsdale, 1794-1838.",
     "Power, James Buel, 1833-1912.",
     "St. Paul Litho. & Engr. Co."
   ],
-  "dc_description_s": "Shows U.S. land offices and boundaries of land districts.Relief shown by hachures.Hand colored.Includes \"Table of distances by railroad and steamboat lines in Minnesota\" and 2 vignettes. Dimensions: 88 x 80 centimeters",
+  "dc_description_s": "Shows U.S. land offices and boundaries of land districts.Relief shown by hachures.Hand colored.Includes \"Table of distances by railroad and steamboat lines in Minnesota\" and 2 vignettes.|88 x 80 centimeters|1:760,000|General Minnesota Maps",
   "dc_format_s": "JPEG",
-  "dc_subject_sm": [
-    "Railroads"
-  ],
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/235593\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/259/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:259\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/259/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:35Z",
+  "layer_modified_dt": "2022-09-28T02:16:36Z",
   "dc_language_sm": [
     "eng"
   ],
+  "dct_issued_s": "1870",
   "dct_temporal_sm": [
     "1870"
   ]

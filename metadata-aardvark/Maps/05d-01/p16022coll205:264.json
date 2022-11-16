@@ -1,10 +1,10 @@
 {
-  "dct_title_s": "Plan of the city intended for the permanent seat of the government of t[he] United States~~projected agreeable to the direction of the President of the United States, in pursuance of an act of Congress passed the sixteenth day of July, MDCCXC, \"establishing the permanent seat on the bank of the Potowmac\"~~[Washington D.C.]",
-  "dct_alternative_sm": [
-    "Plan of the city intended for the permanent seat of the government of t[he] United States : projected agreeable to the direction of the President of the United States, in pursuance of an act of Congress passed the sixteenth day of July, MDCCXC, \"establishing the permanent seat on the bank of the Potowmac\" : [Washington D.C.]"
-  ],
+  "dct_title_s": "Plan of the city intended for the permanent seat of the government of t[he] United States : projected agreeable to the direction of the President of the United States, in pursuance of an act of Congress passed the sixteenth day of July, MDCCXC, \"establishing the permanent seat on the bank of the Potowmac\" : [Washington D.C.]",
   "dct_description_sm": [
-    "At upper right: Office, Commissioner of Public Buildings, D.C.  Lacks printer's statement.  Facsim. of ms. L'Enfant plan.  Includes texts containing letters dated \"Washington ... 1887,\" notes, descriptive index of \"References,\" and U.S.C. & G.S. insigne. Lacks text below \"N.I.\"  At lower right: N.I.  In right upper margin: No. 3035a price 50 cents. Some copies have: ... 75 cents. Dimensions: 81 x 121 centimeters"
+    "At upper right: Office, Commissioner of Public Buildings, D.C.  Lacks printer's statement.  Facsim. of ms. L'Enfant plan.  Includes texts containing letters dated \"Washington ... 1887,\" notes, descriptive index of \"References,\" and U.S.C. & G.S. insigne. Lacks text below \"N.I.\"  At lower right: N.I.  In right upper margin: No. 3035a price 50 cents. Some copies have: ... 75 cents.",
+    "81 x 121 centimeters",
+    "Scale approximately 1:16,000",
+    "City Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -27,34 +27,29 @@
     "1887"
   ],
   "dct_issued_s": "1887",
-  "gbl_indexYear_im": [
-    "1887"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1887 TO 1887]"
-  ],
   "dct_spatial_sm": [
     "Washington, District of Columbia"
   ],
-  "locn_geometry": "ENVELOPE(-77.06,-76.96,38.91,38.85)",
+  "locn_geometry": "POLYGON((-77.06 38.91, -76.96 38.91, -76.96 38.85, -77.06 38.85, -77.06 38.91))",
   "dcat_bbox": "ENVELOPE(-77.06,-76.96,38.91,38.85)",
   "dcat_centroid": "38.879999999999995,-77.00999999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll205"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll205/id/264/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:264\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/264/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:264\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/264/manifest.json\"}",
   "id": "p16022coll205:264",
   "dct_identifier_sm": [
     "UMN_ALMA:9931661430001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:02Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Railroad map of Georgia, 1925",
-  "dct_alternative_sm": [
-    "Railroad map of Georgia, 1925"
+  "dct_description_sm": [
+    "Inset of state showing Congressional districts.; Commissioners: Paul B. Trammell, Chairman, John T. Boifeuillet, Vice Chairman, James A. Perry, J.D. Price, and Walter R. McDonald. Secretaries, Albert Collier and Robert N. Springfield. E.M. Price, rate expert. W.E. Watkins, special attorney. J. Houston Johnston, con. engr.",
+    "68 x 54 centimeters on sheet 81 x 58 centimeters",
+    "Scale 1:823680; 13 miles to 1 inch",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -23,23 +26,18 @@
     "1925"
   ],
   "dct_issued_s": "1925",
-  "gbl_indexYear_im": [
-    "1925"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1925 TO 1925]"
-  ],
   "dct_spatial_sm": [
     "Georgia"
   ],
-  "locn_geometry": "ENVELOPE(-85.6,-80.8333,35.0,30.35)",
+  "locn_geometry": "POLYGON((-85.6 35.0, -80.8333 35.0, -80.8333 30.35, -85.6 30.35, -85.6 35.0))",
   "dcat_bbox": "ENVELOPE(-85.6,-80.8333,35.0,30.35)",
   "dcat_centroid": "32.675,-83.21664999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -51,6 +49,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9973974703601701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:31Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

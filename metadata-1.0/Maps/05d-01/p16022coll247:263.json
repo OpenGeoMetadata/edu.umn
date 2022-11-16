@@ -1,24 +1,24 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "p16022coll247:263",
   "dc_rights_s": "Public",
   "dc_title_s": "Minnesota, and Dacotah",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll247:263",
   "solr_geom": "ENVELOPE(-103,-90,49,42)",
-  "solr_year_i": "1861",
+  "dc_description_s": "Atlas plate 38. Date of copyright registration 1860. Longitude west from Greenwich and Washington, D.C.|10.8 x 13.2 inches|General Minnesota Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/89324\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/263/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:263\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/263/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota",
     "North Dakota",
     "South Dakota"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:13Z",
+  "layer_modified_dt": "2022-09-28T02:16:36Z",
   "dc_language_sm": [
     "eng"
   ],
-  "dc_publisher_s": "[S. Augustus Mitchell, Jr.?]",
+  "dc_publisher_s": "[S. Augustus Mitchell, Jr.?];  Philadelphia",
+  "dct_issued_s": "1861",
   "dct_temporal_sm": [
     "1861"
   ]

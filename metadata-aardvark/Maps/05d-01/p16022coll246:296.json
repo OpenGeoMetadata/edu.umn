@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Map of Afghaunistan, Caubul, the Punjab, Rajpootana, and the River Indus",
   "dct_description_sm": [
-    "Cartographic Details: Scale varies (E 57°--E 79°--N 36°-- N22°). Scale is given in geographic miles and British miles. Published April 4th, 1842 by James Wyld, Charing Cross East, London.\"For more minute reference see Wyld's Map of India.\" Dimensions: 58 x 80 centimeters"
+    "Cartographic Details: Scale varies (E 57°--E 79°--N 36°-- N22°). Scale is given in geographic miles and British miles. Published April 4th, 1842 by James Wyld, Charing Cross East, London.\"For more minute reference see Wyld's Map of India.\"",
+    "58 x 80 centimeters",
+    "Scale varies.",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Wyld, James, 1812-1887"
   ],
   "dct_publisher_sm": [
-    "James Wyld"
+    "James Wyld; London"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -21,22 +24,18 @@
     "Kabul (Afghanistan) Maps",
     "Punjab India Maps",
     "Rajasthan (India) India Maps",
-    "Indus River Watershed Maps"
+    "Indus River Watershed Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1842"
   ],
-  "gbl_indexYear_im": [
-    "1842"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1842 TO 1842]"
-  ],
+  "dct_issued_s": "1842",
   "dct_spatial_sm": [
     "Afghanistan",
     "India"
   ],
-  "locn_geometry": "ENVELOPE(58.5022,78.1018,35.2411,21.9736)",
+  "locn_geometry": "POLYGON((58.5022 35.2411, 78.1018 35.2411, 78.1018 21.9736, 58.5022 21.9736, 58.5022 35.2411))",
   "dcat_bbox": "ENVELOPE(58.5022,78.1018,35.2411,21.9736)",
   "dcat_centroid": "28.607350000000004,68.30199999999999",
   "pcdm_memberOf_sm": [
@@ -44,18 +43,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/200821\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/296/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:296\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/296/manifest.json\"}",
   "id": "p16022coll246:296",
   "dct_identifier_sm": [
-    "p16022coll246:296"
+    "UMN_ALMA:9931698640001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:23Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

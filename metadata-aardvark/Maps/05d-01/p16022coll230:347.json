@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Christiania, Norway",
   "dct_description_sm": [
-    "Cartographic Details: Scale not given. Date from previously assigned call number. Ancillary maps: Christiania and environs -- [location map]. Dimensions: 1 map ; 30 x 54 centimeters"
+    "Cartographic Details: Scale not given. Date from previously assigned call number. Ancillary maps: Christiania and environs -- [location map].",
+    "1 map ; 30 x 54 centimeters",
+    "Scale not given.",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -12,22 +15,17 @@
   ],
   "dcat_keyword_sm": [
     "Oslo (Norway) Maps",
-    "bbox-update-mar2020"
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1921"
   ],
-  "gbl_indexYear_im": [
-    "1921"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1921 TO 1921]"
-  ],
+  "dct_issued_s": "1921",
   "dct_spatial_sm": [
     "Oslo",
     "Norway"
   ],
-  "locn_geometry": "ENVELOPE(68.11,97.4,35.67,5.34)",
+  "locn_geometry": "POLYGON((68.11 35.67, 97.4 35.67, 97.4 5.34, 68.11 5.34, 68.11 35.67))",
   "dcat_bbox": "ENVELOPE(68.11,97.4,35.67,5.34)",
   "dcat_centroid": "20.505000000000003,82.755",
   "pcdm_memberOf_sm": [
@@ -35,18 +33,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll230"
+    "p16022coll230"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:347\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/347/manifest.json\"}",
   "id": "p16022coll230:347",
   "dct_identifier_sm": [
-    "p16022coll230:347"
+    "UMN_ALMA:9943528440001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:37Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

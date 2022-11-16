@@ -1,12 +1,10 @@
 {
   "dct_title_s": "Colombia & Guayana",
-  "dct_alternative_sm": [
-    "Colombia & Guayana"
-  ],
   "dct_description_sm": [
     "Relief is shown in hachures.; Plate 67 probably from: Edinburgh geographical and historical atlas : comprehending a sketch of the history of geography; a view of the principles of mathematical, physical, civil, and political geography; an account of the geography, statistics, and history of each continent, state and kingdom, delineated ... / D. Lizars. Edinburgh : John Hamilton, successor to D. Lizars, [1831?].",
     "38.2 x 47.4 centimeters",
-    "Scale approximately 1:3,700,000"
+    "Scale approximately 1:3,700,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -15,7 +13,7 @@
     "Lizars, Daniel, 1760-1812"
   ],
   "dct_publisher_sm": [
-    "John Hamilton"
+    "John Hamilton (Edinburgh)"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -25,34 +23,29 @@
     "1831"
   ],
   "dct_issued_s": "1831?",
-  "gbl_indexYear_im": [
-    "1831"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1831 TO 1831]"
-  ],
   "dct_spatial_sm": [
     "Colombia; Guyana"
   ],
-  "locn_geometry": "ENVELOPE(-84.0,-50.0,20.0,-7.0)",
+  "locn_geometry": "POLYGON((-84.0 20.0, -50.0 20.0, -50.0 -7.0, -84.0 -7.0, -84.0 20.0))",
   "dcat_bbox": "ENVELOPE(-84.0,-50.0,20.0,-7.0)",
   "dcat_centroid": "6.5,-67.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/2790/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2790\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2790/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2790\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2790/manifest.json\"}",
   "id": "p16022coll230:2790",
   "dct_identifier_sm": [
     "UMN_ALMA:9931696830001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:24Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

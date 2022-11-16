@@ -2,25 +2,26 @@
   "geoblacklight_version": "1.0",
   "dc_identifier_s": "UMN_ALMA:9964568890001701",
   "dc_rights_s": "Public",
-  "dc_title_s": "Le Marquisat et Eslectorat de Brandebourg divisé en ses pricipales parties: H. Iaillot, joignant les grands Augustins aux Deux Globes (Paris)",
+  "dc_title_s": "Le Marquisat et Eslectorat de Brandebourg divisé en ses pricipales parties",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:595",
-  "solr_year_i": "1676",
+  "solr_geom": "ENVELOPE(10.75,30.83333333,53.61666667,51.5)",
   "dc_creator_sm": [
     "Sanson, Guillaume"
   ],
-  "dc_description_s": "Relief shown pictorially  \"H. Iaillot, joignant les grands Augustins aux Deux Globes...1676.\"  \"Dressé sur les memoires les plus nouveaux, par le Sr. Sanson, geographe ordinaire du Roy, 1681.\" Dimensions: 54 x 89 centimeters",
+  "dc_description_s": "Relief shown pictorially  \"H. Iaillot, joignant les grands Augustins aux Deux Globes...1676.\"  \"Dressé sur les memoires les plus nouveaux, par le Sr. Sanson, geographe ordinaire du Roy, 1681.\"|54 x 89 centimeters|Scale [1:400,000]|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/595/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:595\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/595/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:595\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/595/manifest.json\"}",
   "dct_spatial_sm": [
-    "Germany; Poland"
+    "Germany",
+    "Poland"
   ],
-  "layer_modified_dt": "2022-02-27T01:36:07Z",
+  "layer_modified_dt": "2022-09-28T02:15:57Z",
   "dc_language_sm": [
     "French"
   ],
   "dc_publisher_s": "H. Iaillot, joignant les grands Augustins aux Deux Globes (Paris)",
-  "dct_issued_s": "1681",
+  "dct_issued_s": "16811676",
   "dct_temporal_sm": [
     "1676-1681"
   ]

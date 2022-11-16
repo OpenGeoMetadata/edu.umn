@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Karte von dem Königreiche Norwegen",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:1,500,000 (E 4°03ʹ00ʺ--E 31°21ʹ00ʺ/N 71°18ʹ00ʺ--N 57°48ʹ00ʺ). In lower right: \"Gestochen von Jos. Stöber. XXVIII.\" Inset: Der nördliche Theil des Stifts Drontheim welcher die Aemter Nordland und Finmark enthaelt. Dimensions: 1 map : color ; 72 x 56 centimeters"
+    "Cartographic Details: Scale approximately 1:1,500,000 (E 4°03ʹ00ʺ--E 31°21ʹ00ʺ/N 71°18ʹ00ʺ--N 57°48ʹ00ʺ). In lower right: \"Gestochen von Jos. Stöber. XXVIII.\" Inset: Der nördliche Theil des Stifts Drontheim welcher die Aemter Nordland und Finmark enthaelt.",
+    "1 map : color ; 72 x 56 centimeters",
+    "Scale approximately 1:1,500,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "ger"
@@ -26,16 +29,11 @@
   "dct_temporal_sm": [
     "1796"
   ],
-  "gbl_indexYear_im": [
-    "1796"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1796 TO 1796]"
-  ],
+  "dct_issued_s": "1796",
   "dct_spatial_sm": [
     "Norway"
   ],
-  "locn_geometry": "ENVELOPE(4.32,31.21,71.45,55.09)",
+  "locn_geometry": "POLYGON((4.32 71.45, 31.21 71.45, 31.21 55.09, 4.32 55.09, 4.32 71.45))",
   "dcat_bbox": "ENVELOPE(4.32,31.21,71.45,55.09)",
   "dcat_centroid": "63.27,17.765",
   "pcdm_memberOf_sm": [
@@ -43,18 +41,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll230"
+    "p16022coll230"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:352\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/352/manifest.json\"}",
   "id": "p16022coll230:352",
   "dct_identifier_sm": [
-    "p16022coll230:352"
+    "UMN_ALMA:9975637103801701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:29Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

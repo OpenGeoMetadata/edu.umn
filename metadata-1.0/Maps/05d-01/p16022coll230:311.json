@@ -1,23 +1,26 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "p16022coll230:311",
+  "dc_identifier_s": "UMN_ALMA:9936620080001701",
   "dc_rights_s": "Public",
   "dc_title_s": "Mitchell's travellers guide through the United States",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:311",
   "solr_geom": "ENVELOPE(-95.0098,-66.5991,46.6042,28.7099)",
-  "solr_year_i": "1832",
   "dc_creator_sm": [
     "Young, J. H."
   ],
-  "dc_description_s": "Includes a folded index featuring steamboat and canal routes, populations, lengths of canals and rivers, mountains in the United States.Inset maps of vicinities of the cities of Boston, Philadelphia, Baltimore and Washington, Charleston, New York, Cincinnati, Albany and New Orleans. Dimensions: 42 x 53 cm.",
+  "dc_description_s": "Includes a folded index featuring steamboat and canal routes, populations, lengths of canals and rivers, mountains in the United States.Inset maps of vicinities of the cities of Boston, Philadelphia, Baltimore and Washington, Charleston, New York, Cincinnati, Albany and New Orleans.|42 x 53 cm.|Scale approximately 1: 3,168,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/158522\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/311/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:31:16Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:311\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/311/manifest.json\"}",
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "layer_modified_dt": "2022-09-28T02:14:23Z",
   "dc_language_sm": [
     "eng"
   ],
   "dc_publisher_s": "S. Augustus Mitchell (Philadelphia)",
+  "dct_issued_s": "1832",
   "dct_temporal_sm": [
     "1832"
   ]

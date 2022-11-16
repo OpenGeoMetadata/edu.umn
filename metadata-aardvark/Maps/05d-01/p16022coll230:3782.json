@@ -1,12 +1,9 @@
 {
   "dct_title_s": "Cape Colony",
-  "dct_alternative_sm": [
-    "Cape Colony"
-  ],
   "dct_description_sm": [
     "Relief shown by hachures.; Includes ill.; Probably from: Illustrated atlas, and modern history of the world / Robert Martin (London ; New York : J. & F. Tallis, 1851).",
-    "",
-    "Scale [1:3,801,600]"
+    "Scale [1:3,801,600]",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -25,31 +22,30 @@
     "1851"
   ],
   "dct_issued_s": "1851",
-  "gbl_indexYear_im": [
-    "1851"
+  "dct_spatial_sm": [
+    "South Africa",
+    "Africa"
   ],
-  "gbl_dateRange_drsim": [
-    "[1851 TO 1851]"
-  ],
-  "locn_geometry": "ENVELOPE(16.0,28.0,-28.0,-35.0)",
+  "locn_geometry": "POLYGON((16.0 -28.0, 28.0 -28.0, 28.0 -35.0, 16.0 -35.0, 16.0 -28.0))",
   "dcat_bbox": "ENVELOPE(16.0,28.0,-28.0,-35.0)",
   "dcat_centroid": "-31.5,22.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3782/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3782\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3782/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3782\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3782/manifest.json\"}",
   "id": "p16022coll230:3782",
   "dct_identifier_sm": [
     "UMN_ALMA:9916251630001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:09Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,7 +1,10 @@
 {
   "dct_title_s": "A chart of the coast of Pegu : with the adjacent coast of Arakan and Tanasserim",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:1,100,000 (E 93°10'00\"--E 98°35'00\"/N 21°00'00\"--N 13°30'00\"). Relief shown pictorially. Depths shown by soundings. Insets: Plan of Martaban River -- Plan of Arakan River -- Plan of Sirian River -- Plan of the Entrance of Perseen River. In upper right: 38. Dimensions: 54 x 76 centimeters"
+    "Cartographic Details: Scale approximately 1:1,100,000 (E 93°10'00\"--E 98°35'00\"/N 21°00'00\"--N 13°30'00\"). Relief shown pictorially. Depths shown by soundings. Insets: Plan of Martaban River -- Plan of Arakan River -- Plan of Sirian River -- Plan of the Entrance of Perseen River. In upper right: 38.",
+    "54 x 76 centimeters",
+    "Scale approximately 1:1,100,000",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Robert Sayer and John Bennett (Firm)"
   ],
   "dct_publisher_sm": [
-    "Robert Sayer and John Bennet"
+    "Robert Sayer and John Bennet ; London"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -39,16 +42,11 @@
   "dct_temporal_sm": [
     "1783"
   ],
-  "gbl_indexYear_im": [
-    "1783"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1783 TO 1783]"
-  ],
+  "dct_issued_s": "1783",
   "dct_spatial_sm": [
     "Burma, Myanmar [Burma]"
   ],
-  "locn_geometry": "ENVELOPE(93.16,98.58,21,13.5)",
+  "locn_geometry": "POLYGON((93.16 21, 98.58 21, 98.58 13.5, 93.16 13.5, 93.16 21))",
   "dcat_bbox": "ENVELOPE(93.16,98.58,21,13.5)",
   "dcat_centroid": "17.25,95.87",
   "pcdm_memberOf_sm": [
@@ -56,18 +54,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/229466\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/344/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:344\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/344/manifest.json\"}",
   "id": "p16022coll246:344",
   "dct_identifier_sm": [
-    "p16022coll246:344"
+    "UMN_ALMA:9973944392701701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:27Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }

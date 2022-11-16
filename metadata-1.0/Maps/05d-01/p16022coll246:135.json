@@ -1,27 +1,27 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "p16022coll246:135",
+  "dc_identifier_s": "UMN_ALMA:9973943509401701",
   "dc_rights_s": "Public",
   "dc_title_s": "Carte des coôtes de Malabar et de Coromandel",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:135",
   "solr_geom": "ENVELOPE(69,88,23,8)",
-  "solr_year_i": "1723",
   "dc_creator_sm": [
     "de L'Isle, Guillaume, 1675-1726",
     "Schenk , Pieter, 1698-1775."
   ],
-  "dc_description_s": "Cartographic Details: Scale approximately 1:4,000,000 (E 69°--E 88°/N 23°--N 8°).Relief shown pictorially. Dimensions: 42 x 55 centimeters",
+  "dc_description_s": "Cartographic Details: Scale approximately 1:4,000,000 (E 69°--E 88°/N 23°--N 8°).Relief shown pictorially.|42 x 55 centimeters|Scale approximately 1:4,000,000|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/225781\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/135/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:135\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/135/manifest.json\"}",
   "dct_spatial_sm": [
     "India"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:43Z",
+  "layer_modified_dt": "2022-09-28T02:15:59Z",
   "dc_language_sm": [
     "fre"
   ],
-  "dc_publisher_s": "Chez Pierre Schenk",
+  "dc_publisher_s": "Chez Pierre Schenk ... ; Aè Amsterdam",
+  "dct_issued_s": "1723?",
   "dct_temporal_sm": [
     "1723?"
   ]

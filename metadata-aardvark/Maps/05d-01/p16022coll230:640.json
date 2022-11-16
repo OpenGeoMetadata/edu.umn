@@ -1,7 +1,10 @@
 {
   "dct_title_s": "New Brunswick Charlotte, St. John, Kings, Queens, Sunbury, York, Carleton, Victoria, Northumerland, Glouceater and portions of Albert, Westmorland, Kent, Restigouche and Madawaska counties",
-  "dct_alternative_sm": [
-    "New Brunswick Charlotte, St. John, Kings, Queens, Sunbury, York, Carleton, Victoria, Northumerland, Glouceater and portions of Albert, Westmorland, Kent, Restigouche and Madawaska counties"
+  "dct_description_sm": [
+    "Standard topographical map. Sheet 13 at head of map.; Depths shown in fathoms.",
+    "80 x 52 centimeters",
+    "Scale 1:500,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -20,34 +23,29 @@
     "1905"
   ],
   "dct_issued_s": "1905",
-  "gbl_indexYear_im": [
-    "1905"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1905 TO 1905]"
-  ],
   "dct_spatial_sm": [
     "Canada"
   ],
-  "locn_geometry": "ENVELOPE(-141,-52.3167,83.3333,41.6667)",
+  "locn_geometry": "POLYGON((-141 83.3333, -52.3167 83.3333, -52.3167 41.6667, -141 41.6667, -141 83.3333))",
   "dcat_bbox": "ENVELOPE(-141,-52.3167,83.3333,41.6667)",
   "dcat_centroid": "62.5,-96.65835",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/640/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:640\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/640/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:640\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/640/manifest.json\"}",
   "id": "p16022coll230:640",
   "dct_identifier_sm": [
     "UMN_ALMA:9922379820001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:30Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

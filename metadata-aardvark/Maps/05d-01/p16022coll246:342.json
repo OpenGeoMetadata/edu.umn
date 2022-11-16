@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Ceylon (Northwest Sheet)",
   "dct_description_sm": [
-    "Cartographic Details: Scale 1:253,440. 4 miles to an in. (E 79°22'00\"--E 82°04'00\"/N 9°55'00\"--N 5°43'00\"). Shows roads, telegraph lines, railways, administrative boundaries, and rest houses. In lower right: Number 138/09. Dimensions: 114 x 180 centimeters"
+    "Cartographic Details: Scale 1:253,440. 4 miles to an in. (E 79°22'00\"--E 82°04'00\"/N 9°55'00\"--N 5°43'00\"). Shows roads, telegraph lines, railways, administrative boundaries, and rest houses. In lower right: Number 138/09.",
+    "114 x 180 centimeters",
+    "Scale 1:253,440; 4 miles to an inch",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,31 +13,24 @@
     "Ceylon. Survey Department."
   ],
   "dct_publisher_sm": [
-    "Survey Department"
+    "Survey Department; Colombo"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "Railroads"
-  ],
   "dcat_keyword_sm": [
-    "Sri Lanka Maps"
+    "Sri Lanka Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1909"
   ],
-  "gbl_indexYear_im": [
-    "1909"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1909 TO 1909]"
-  ],
+  "dct_issued_s": "1909",
   "dct_spatial_sm": [
     "Sri Lanka"
   ],
-  "locn_geometry": "ENVELOPE(79.3999,80.6812,9.86,7.8391)",
+  "locn_geometry": "POLYGON((79.3999 9.86, 80.6812 9.86, 80.6812 7.8391, 79.3999 7.8391, 79.3999 9.86))",
   "dcat_bbox": "ENVELOPE(79.3999,80.6812,9.86,7.8391)",
   "dcat_centroid": "8.84955,80.04055",
   "pcdm_memberOf_sm": [
@@ -42,18 +38,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/229001\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/342/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:342\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/342/manifest.json\"}",
   "id": "p16022coll246:342",
   "dct_identifier_sm": [
-    "p16022coll246:342"
+    "UMN_ALMA:9973948404001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:18Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Map of timber land in Western Canada",
-  "dct_alternative_sm": [
-    "[Map of timber land in Western Canada] : to accompany paper on the timber belt of northern Alberta and Saskatchewan and the Northwest Territories west of Hudson Bay"
+  "dct_title_s": "[Map of timber land in Western Canada] : to accompany paper on the timber belt of northern Alberta and Saskatchewan and the Northwest Territories west of Hudson Bay",
+  "dct_description_sm": [
+    "Relief shown by spot heights.; Color coded for types of forest, numbers indicate average diameter of trees, includes grid lines, bodies of water, and railroads.",
+    "96 x 196 centimeters, folded to 33 x 23 centimeters",
+    "Scale 1:2,217,600; 1 inch = 35 miles",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -24,31 +27,26 @@
     "1908"
   ],
   "dct_issued_s": "1908",
-  "gbl_indexYear_im": [
-    "1908"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1908 TO 1908]"
-  ],
-  "locn_geometry": "ENVELOPE(-140,-81,72,48)",
+  "locn_geometry": "POLYGON((-140 72, -81 72, -81 48, -140 48, -140 72))",
   "dcat_bbox": "ENVELOPE(-140,-81,72,48)",
   "dcat_centroid": "60.0,-110.5",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/859/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:859\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/859/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:859\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/859/manifest.json\"}",
   "id": "p16022coll230:859",
   "dct_identifier_sm": [
     "UMN_ALMA:9964789080001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:19Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,7 +1,11 @@
 {
   "dct_title_s": "The Times map of British South Africa, the Transvaal and Orange Free State",
   "dct_description_sm": [
-    "Cartographic Details: Scale 1:2,500,000. 40 miles = 1 in. Map of South Africa showing British South Africa, South African Republic, Orange Free State, Portuguese and German territory, roads, railways, goldfields, telegraph lines, steamship routes and distances during the Boer War (1899-1902). Prime meridian: Greenwich. Cover title: The Times war map of South Africa. Dimensions: 98 x 72 centimeters"
+    "Cartographic Details: Scale 1:2,500,000. 40 miles = 1 in. Map of South Africa showing British South Africa, South African Republic, Orange Free State, Portuguese and German territory, roads, railways, goldfields, telegraph lines, steamship routes and distances during the Boer War (1899-1902). Prime meridian: Greenwich. Cover title: The Times war map of South Africa.",
+    "Insets Witwatersrand Scale [ca. 1:200,000] -- Mafeking district -- Southwestern frontier Scale [ca. 1:200,000] -- Map of Natal from Pietermaritzburg to Newcastle Scale [ca. 1:500,000] -- Wales on the same scale as the general map. ; Fourth edition.",
+    "98 x 72 centimeters",
+    "Scale 1:2,500,000; 40 miles = 1 inch",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -13,9 +17,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "Railroads"
-  ],
   "dcat_keyword_sm": [
     "South African War, 1899 1902 Maps",
     "South Africa Maps",
@@ -24,17 +25,11 @@
   "dct_temporal_sm": [
     "approximately 1901"
   ],
-  "dct_issued_s": "1900",
-  "gbl_indexYear_im": [
-    "1900"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1900 TO 1900]"
-  ],
+  "dct_issued_s": "1900?",
   "dct_spatial_sm": [
     "South Africa"
   ],
-  "locn_geometry": "ENVELOPE(15.9521,33.1567,-21.7187,-35.1154)",
+  "locn_geometry": "POLYGON((15.9521 -21.7187, 33.1567 -21.7187, 33.1567 -35.1154, 15.9521 -35.1154, 15.9521 -21.7187))",
   "dcat_bbox": "ENVELOPE(15.9521,33.1567,-21.7187,-35.1154)",
   "dcat_centroid": "-28.41705,24.5544",
   "pcdm_memberOf_sm": [
@@ -42,18 +37,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/200784\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/322/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:322\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/322/manifest.json\"}",
   "id": "p16022coll246:322",
   "dct_identifier_sm": [
-    "p16022coll246:322"
+    "UMN_ALMA:9935444530001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:06Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,12 +1,10 @@
 {
   "dct_title_s": "Indiae orientalis insvlarvmqve adiacientivm typvs",
-  "dct_alternative_sm": [
-    "Indiae orientalis insvlarvmqve adiacientivm typvs"
-  ],
   "dct_description_sm": [
     "Relief shown pictorially.; Includes title in cartouche, coat of arms and illustrations of ships, mermaids, and sea monsters.; Includes southwest section of North America (Americae).; Latin text on verso.; In lower right on verso: 48.; From: Theatrum orbis terrarum.; Double page map.; Publication year provided by dealer.",
     "34.5 x 49.5 centimeters, on sheet 40 x 55 centimeters",
-    "Scale not given"
+    "Scale not given",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "lat"
@@ -25,31 +23,30 @@
     "1592"
   ],
   "dct_issued_s": "1592",
-  "gbl_indexYear_im": [
-    "1592"
+  "dct_spatial_sm": [
+    "India",
+    "Asia"
   ],
-  "gbl_dateRange_drsim": [
-    "[1592 TO 1592]"
-  ],
-  "locn_geometry": "ENVELOPE(68.1,-140.9833,63.0667,-20.3833)",
+  "locn_geometry": "POLYGON((68.1 63.0667, -140.9833 63.0667, -140.9833 -20.3833, 68.1 -20.3833, 68.1 63.0667))",
   "dcat_bbox": "ENVELOPE(68.1,-140.9833,63.0667,-20.3833)",
   "dcat_centroid": "21.3417,-36.44165000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3600/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3600\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3600/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3600\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3600/manifest.json\"}",
   "id": "p16022coll230:3600",
   "dct_identifier_sm": [
     "UMN_ALMA:9976156485701701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:00Z",
+  "gbl_mdModified_dt": "2022-09-28T02:13:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

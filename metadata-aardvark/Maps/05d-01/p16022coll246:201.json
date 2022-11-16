@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Jamoo, Kashmir and adjacent districts",
   "dct_description_sm": [
-    "Cartographic Details: Scale 1:253,440. Inset: Srinagar or city of Kashmir and environs at 1:63,360. Relief shown as hachures and heights in feet. Shows: administrative boundaries, roads, tracks. Dimensions: 118 x 138 centimeters"
+    "Cartographic Details: Scale 1:253,440. Inset: Srinagar or city of Kashmir and environs at 1:63,360. Relief shown as hachures and heights in feet. Shows: administrative boundaries, roads, tracks.",
+    "118 x 138 centimeters",
+    "Scale 1:253,440",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,28 +13,24 @@
     "Scott, Andrew. Waugh. Survey of India."
   ],
   "dct_publisher_sm": [
-    "Survey of India"
+    "Survey of India; Calcutta"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Jammu and Kashmir (India) Maps"
+    "Jammu and Kashmir (India) Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1861"
   ],
-  "gbl_indexYear_im": [
-    "1861"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1861 TO 1861]"
-  ],
+  "dct_issued_s": "1861",
   "dct_spatial_sm": [
     "India"
   ],
-  "locn_geometry": "ENVELOPE(73.4052,76.4738,35.3958,32.2926)",
+  "locn_geometry": "POLYGON((73.4052 35.3958, 76.4738 35.3958, 76.4738 32.2926, 73.4052 32.2926, 73.4052 35.3958))",
   "dcat_bbox": "ENVELOPE(73.4052,76.4738,35.3958,32.2926)",
   "dcat_centroid": "33.8442,74.9395",
   "pcdm_memberOf_sm": [
@@ -39,18 +38,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/202840\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/201/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:201\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/201/manifest.json\"}",
   "id": "p16022coll246:201",
   "dct_identifier_sm": [
-    "p16022coll246:201"
+    "UMN_ALMA:9928981940001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:35Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

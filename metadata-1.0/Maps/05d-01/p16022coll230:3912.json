@@ -6,14 +6,16 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3912",
   "solr_geom": "ENVELOPE(-26.9,60.3667,36.6,-47.1667)",
-  "solr_year_i": "1877",
   "dc_creator_sm": [
     "Edward Stanford Ltd"
   ],
-  "dc_description_s": "Shows colonial possessions, indigenous populations, railways, and submarine telegraph cables.; Relief shown by hachures and spot heights.; \"Additions to April 1877.\"|sheets 74 x 84 centimeters|Scale 1:5,977,382; 1 inch = 94.34 miles.",
+  "dc_description_s": "Shows colonial possessions, indigenous populations, railways, and submarine telegraph cables.; Relief shown by hachures and spot heights.; \"Additions to April 1877.\"|sheets 74 x 84 centimeters|Scale 1:5,977,382; 1 inch = 94.34 miles.|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3912/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3912\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3912/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:22:21Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3912\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3912/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "layer_modified_dt": "2022-09-28T02:14:43Z",
   "dc_language_sm": [
     "eng"
   ],

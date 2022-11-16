@@ -2,21 +2,22 @@
   "geoblacklight_version": "1.0",
   "dc_identifier_s": "UMN_ALMA:9952563360001701",
   "dc_rights_s": "Public",
-  "dc_title_s": "Map of the Black Hills of Dakota~~from explorations made in 1875",
+  "dc_title_s": "Map of the Black Hills of Dakota : from explorations made in 1875",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:533",
   "solr_geom": "ENVELOPE(-103.96,-101.26,44.41,42.93)",
-  "solr_year_i": "1879",
   "dc_creator_sm": [
-    "Jenney, Walter Proctor, 1849-1921.; Mahlo, Emil, 1851-1904.; Geographical and Geological Survey of the Rocky Mountain Region (U.S.)"
+    "Jenney, Walter Proctor, 1849-1921.",
+    "Mahlo, Emil, 1851-1904.",
+    "Geographical and Geological Survey of the Rocky Mountain Region (U.S.)"
   ],
-  "dc_description_s": "1 in. = 4 miles.   Relief shown by hachures and spot heights.   \"Geology of the Black Hills by Henry Newton E.M.\"--Upper right. Dimensions: 74 x 89 centimeters",
+  "dc_description_s": "1 in. = 4 miles.   Relief shown by hachures and spot heights.   \"Geology of the Black Hills by Henry Newton E.M.\"--Upper right.|74 x 89 centimeters|Scale [1:253,440]. 1 inch = 4 miles|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/533/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:533\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/533/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:533\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/533/manifest.json\"}",
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:39Z",
+  "layer_modified_dt": "2022-09-28T02:14:44Z",
   "dc_language_sm": [
     "eng"
   ],

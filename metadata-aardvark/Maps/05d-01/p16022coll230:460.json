@@ -1,10 +1,10 @@
 {
   "dct_title_s": "The Rand McNally new library atlas map of the German Empire",
-  "dct_alternative_sm": [
-    "The Rand McNally new library atlas map of the German Empire"
-  ],
   "dct_description_sm": [
-    "Insets: Berlin, Potsdam and environs -- Rheinish-Westphalian Industry and Mining District -- [Memel and adjoining territory]. Dimensions: 65 x 83 centimeters"
+    "Insets: Berlin, Potsdam and environs -- Rheinish-Westphalian Industry and Mining District -- [Memel and adjoining territory].",
+    "65 x 83 centimeters",
+    "Scale 1:1,393,920. Statute miles, 22 = 1 inch",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -27,34 +27,29 @@
     "1912"
   ],
   "dct_issued_s": "1912",
-  "gbl_indexYear_im": [
-    "1912"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1912 TO 1912]"
-  ],
   "dct_spatial_sm": [
     "Germany"
   ],
-  "locn_geometry": "ENVELOPE(5.85,25.18,56.4,47.26)",
+  "locn_geometry": "POLYGON((5.85 56.4, 25.18 56.4, 25.18 47.26, 5.85 47.26, 5.85 56.4))",
   "dcat_bbox": "ENVELOPE(5.85,25.18,56.4,47.26)",
   "dcat_centroid": "51.83,15.515",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/460/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:460\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/460/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:460\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/460/manifest.json\"}",
   "id": "p16022coll230:460",
   "dct_identifier_sm": [
     "UMN_ALMA:9930983600001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:33Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,18 +1,16 @@
 {
   "dct_title_s": "La route des Alpes : service automobiles, Nice-évian en six étapes",
-  "dct_alternative_sm": [
-    "La route des Alpes : service automobiles, Nice-évian en six étapes"
-  ],
   "dct_description_sm": [
     "Relief shown by form lines and spot heights.; Envelope title.",
     "on sheets 25 x 120 centimeters and 25 x 96 centimeters",
-    "Scale of sheet 1 1:100,000; Scale of sheets 2-6 1:80,000"
+    "Scale of sheet 1 1:100,000; Scale of sheets 2-6 1:80,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "fre"
   ],
   "dct_publisher_sm": [
-    "Compagnie des Chemins de Fer,  Paris - Lyon - Méditerranée  "
+    "Compagnie des Chemins de Fer,  Paris - Lyon - Méditerranée (Paris)"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -25,31 +23,30 @@
     "1920-1929"
   ],
   "dct_issued_s": "1920 - 1929?",
-  "gbl_indexYear_im": [
-    "1920"
+  "dct_spatial_sm": [
+    "Alps",
+    "Europe"
   ],
-  "gbl_dateRange_drsim": [
-    "[1920 TO 1929]"
-  ],
-  "locn_geometry": "ENVELOPE(-5.8333,30.5833,55.1333,35.7)",
+  "locn_geometry": "POLYGON((-5.8333 55.1333, 30.5833 55.1333, 30.5833 35.7, -5.8333 35.7, -5.8333 55.1333))",
   "dcat_bbox": "ENVELOPE(-5.8333,30.5833,55.1333,35.7)",
   "dcat_centroid": "45.416650000000004,12.375",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3292/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3292\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3292/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3292\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3292/manifest.json\"}",
   "id": "p16022coll230:3292",
   "dct_identifier_sm": [
     "UMN_ALMA:9939396630001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:11Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

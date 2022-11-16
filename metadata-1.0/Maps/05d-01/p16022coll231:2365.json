@@ -6,17 +6,17 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll231:2365",
   "solr_geom": "ENVELOPE(-97.25,-89.5,49.38,43.5)",
-  "solr_year_i": "1936",
   "dc_creator_sm": [
-    "Minnesota. Department of Highways.; United States. Bureau of Public Roads."
+    "Minnesota. Department of Highways.",
+    "United States. Bureau of Public Roads."
   ],
-  "dc_description_s": "Cartographic Details: Scale 1:48,000 , Polyconic projection (W 97°15'--W 89°30'/N 49°23'--N 43°30'). Title supplied by cataloger. Blue line print. Includes index map of state. Some county maps issued on multiple sheets. Includes ancillary maps. Dimensions: On sheets 62 x 100 centimeters or smaller",
+  "dc_description_s": "Cartographic Details: Scale 1:48,000 , Polyconic projection (W 97°15'--W 89°30'/N 49°23'--N 43°30'). Title supplied by cataloger. Blue line print. Includes index map of state. Some county maps issued on multiple sheets. Includes ancillary maps.|Contents: 33. Kanabec County -- 34. Kandiyohi County -- 35. Kittson County -- 36. Koochiching County (1-4) -- 37. Lac Qui Parle County -- 38. Lake County (1-3) -- 39. Lake of the Woods County (1-3) -- 40. Le Sueur County -- 41. Lincoln County -- 42. Lyon County|On sheets 62 x 100 centimeters or smaller|1:48,000|Minnesota County Maps, Plat Books, and Atlases",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll231/id/2365/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:2365\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/2365/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:2365\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/2365/manifest.json\"}",
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:45Z",
+  "layer_modified_dt": "2022-09-28T02:15:51Z",
   "dc_language_sm": [
     "eng"
   ],

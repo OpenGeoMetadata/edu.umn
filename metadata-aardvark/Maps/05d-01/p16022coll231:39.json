@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Peat deposits of Beltrami County, Minnesota showing location of soundings and depth of peat and topography of the surface of the",
   "dct_description_sm": [
-    "Cartographic Details: Scale not given (W 95°36'00\"--W 94°24'00\"/N 48°59'00\"--N 47°24'00\"). Relief shown by contours. \"Plate II\" in upper right corner. \"Compiled from field notes, government and county maps, and data supplied by drainage commission.\" Dimensions: 65 x 31 centimeters"
+    "Cartographic Details: Scale not given (W 95°36'00\"--W 94°24'00\"/N 48°59'00\"--N 47°24'00\"). Relief shown by contours. \"Plate II\" in upper right corner. \"Compiled from field notes, government and county maps, and data supplied by drainage commission.\"",
+    "65 x 31 centimeters",
+    "Scale not given.",
+    "Minnesota County Maps, Plat Books, and Atlases"
   ],
   "dct_language_sm": [
     "eng"
@@ -28,17 +31,12 @@
   "dct_temporal_sm": [
     "1915"
   ],
-  "gbl_indexYear_im": [
-    "1915"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1915 TO 1915]"
-  ],
+  "dct_issued_s": "1915",
   "dct_spatial_sm": [
     "Beltrami County, Minnesota",
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-95.6,-94.4,48.98,47.4)",
+  "locn_geometry": "POLYGON((-95.6 48.98, -94.4 48.98, -94.4 47.4, -95.6 47.4, -95.6 48.98))",
   "dcat_bbox": "ENVELOPE(-95.6,-94.4,48.98,47.4)",
   "dcat_centroid": "48.19,-95.0",
   "pcdm_memberOf_sm": [
@@ -46,18 +44,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll231"
+    "p16022coll231"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/188788\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/39/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:39\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/39/manifest.json\"}",
   "id": "p16022coll231:39",
   "dct_identifier_sm": [
-    "p16022coll231:39"
+    "UMN_ALMA:9973346205801701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:46Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

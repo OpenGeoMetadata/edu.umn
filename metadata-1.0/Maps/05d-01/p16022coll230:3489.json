@@ -6,18 +6,21 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3489",
   "solr_geom": "ENVELOPE(6.9667,15.2167,59.9833,53.0)",
-  "solr_year_i": "1778",
   "dc_creator_sm": [
     "Jagen, Jan van"
   ],
-  "dc_description_s": "Lower left: \"J. van Jagen fecit, 1778.\"|30 x 20 centimeters|Scale approximately 1:2,400,000",
+  "dc_description_s": "Lower left: \"J. van Jagen fecit, 1778.\"|30 x 20 centimeters|Scale approximately 1:2,400,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3489/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3489\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3489/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:29:14Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3489\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3489/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Denmark",
+    "Europe"
+  ],
+  "layer_modified_dt": "2022-09-28T02:14:10Z",
   "dc_language_sm": [
     "dut"
   ],
-  "dc_publisher_s": "J. van Jagen ",
+  "dc_publisher_s": "J. van Jagen (Amsterdam)",
   "dct_issued_s": "1778",
   "dct_temporal_sm": [
     "1778"

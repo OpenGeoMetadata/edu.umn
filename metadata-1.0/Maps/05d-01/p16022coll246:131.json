@@ -1,28 +1,28 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "p16022coll246:131",
+  "dc_identifier_s": "UMN_ALMA:9927099830001701",
   "dc_rights_s": "Public",
   "dc_title_s": "Tabula Asiae X.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:131",
   "solr_geom": "ENVELOPE(68.15,92.95,25.45,6.73)",
-  "solr_year_i": "1540",
   "dc_creator_sm": [
     "M ünster, Sebastian, 1489-1552",
     "Ptolemy, active 2nd century"
   ],
-  "dc_description_s": "Cartographic Details: Scale not given. Relief shown pictorially. Appears in Ptolemy's Geographia universalis, 1540 edition, revised & edition by Sebastian M ünster. Latin text and page no. on verso: Asiae X. tabula ... 26. This map summarizes Ptolemaic cartography of India and part of Bangladesh. It was the tenth in a sequence of 12 maps of Asia as described by the 2nd century Egyptian cartographer, Claudius Ptolemy. Dimensions: 24 x 32 centimeters",
+  "dc_description_s": "Cartographic Details: Scale not given. Relief shown pictorially. Appears in Ptolemy's Geographia universalis, 1540 edition, revised & edition by Sebastian M ünster. Latin text and page no. on verso: Asiae X. tabula ... 26. This map summarizes Ptolemaic cartography of India and part of Bangladesh. It was the tenth in a sequence of 12 maps of Asia as described by the 2nd century Egyptian cartographer, Claudius Ptolemy.|24 x 32 centimeters|Scale not given.|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/200824\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/131/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:131\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/131/manifest.json\"}",
   "dct_spatial_sm": [
     "Bangladesh",
     "India"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:35Z",
+  "layer_modified_dt": "2022-09-28T02:13:59Z",
   "dc_language_sm": [
     "lat"
   ],
-  "dc_publisher_s": "Apud Henricum Petrum",
+  "dc_publisher_s": "Apud Henricum Petrum; Basiliae",
+  "dct_issued_s": "1540",
   "dct_temporal_sm": [
     "1540"
   ]

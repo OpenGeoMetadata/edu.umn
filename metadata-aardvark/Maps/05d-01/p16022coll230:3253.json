@@ -1,12 +1,10 @@
 {
   "dct_title_s": "See Ireland first : tourist map",
-  "dct_alternative_sm": [
-    "See Ireland first : tourist map"
-  ],
   "dct_description_sm": [
     "Panel title.; \"This map is based upon the Ordnance Survey Map, with the sanction of the Minister for Finance of Saorstat Eirann and the Controller of H.M. Stationery Office, and printed by Hely's Limited, Acme Works, Dublin, Ireland, and is issued free of charge by the Irish Tourist Association (incorporated).\"; Includes map key, \"General information,\" and \"List of approved roads, frontier posts, and customs stations, for motorists between the Irish Free State and Northern Ireland.\"; Text, ill., and advertisement on verso.",
     "47 x 50 centimeters",
-    "Scale 1:1,000,000"
+    "Scale 1:1,000,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -15,7 +13,7 @@
     "Irish Tourist Association"
   ],
   "dct_publisher_sm": [
-    "Irish Tourist Association  "
+    "Irish Tourist Association (Inc.) (Dublin)"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -25,31 +23,30 @@
     "1928"
   ],
   "dct_issued_s": "1928?",
-  "gbl_indexYear_im": [
-    "1928"
+  "dct_spatial_sm": [
+    "Ireland",
+    "Europe"
   ],
-  "gbl_dateRange_drsim": [
-    "[1928 TO 1928]"
-  ],
-  "locn_geometry": "ENVELOPE(-10.0,-5.0,55.0,52.0)",
+  "locn_geometry": "POLYGON((-10.0 55.0, -5.0 55.0, -5.0 52.0, -10.0 52.0, -10.0 55.0))",
   "dcat_bbox": "ENVELOPE(-10.0,-5.0,55.0,52.0)",
   "dcat_centroid": "53.5,-7.5",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3253/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3253\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3253/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3253\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3253/manifest.json\"}",
   "id": "p16022coll230:3253",
   "dct_identifier_sm": [
     "UMN_ALMA:9973723248401701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:14Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

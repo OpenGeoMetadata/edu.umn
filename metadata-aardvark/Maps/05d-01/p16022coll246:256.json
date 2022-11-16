@@ -1,7 +1,10 @@
 {
   "dct_title_s": "General sketch of the physical and geological features of British India (Southeast Sheet)",
   "dct_description_sm": [
-    "Cartographic Details: Scale not given.\"Engraved on stone by A. Petermann ... London.\" Hand-colored. Includes bibliographical references. Dimensions: 100.5 x 88 centimeters"
+    "Cartographic Details: Scale not given.\"Engraved on stone by A. Petermann ... London.\" Hand-colored. Includes bibliographical references.",
+    "100.5 x 88 centimeters",
+    "Scale not given.",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Greenough, George Bellas, 1778-1855"
   ],
   "dct_publisher_sm": [
-    "Edward Stanford"
+    "Edward Stanford ... ; London"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -22,21 +25,18 @@
   "dcat_keyword_sm": [
     "Geology India Maps",
     "Geology",
-    "India"
+    "India",
+    "Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1855"
   ],
-  "gbl_indexYear_im": [
-    "1855"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1855 TO 1855]"
-  ],
+  "dct_issued_s": "1855",
   "dct_spatial_sm": [
     "India"
   ],
-  "locn_geometry": "ENVELOPE(80.7042,94.845,21.064,5.9084)",
+  "locn_geometry": "POLYGON((80.7042 21.064, 94.845 21.064, 94.845 5.9084, 80.7042 5.9084, 80.7042 21.064))",
   "dcat_bbox": "ENVELOPE(80.7042,94.845,21.064,5.9084)",
   "dcat_centroid": "13.4862,87.77459999999999",
   "pcdm_memberOf_sm": [
@@ -44,18 +44,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/225721\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/256/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:256\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/256/manifest.json\"}",
   "id": "p16022coll246:256",
   "dct_identifier_sm": [
-    "p16022coll246:256"
+    "UMN_ALMA:9973958301201701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:56Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

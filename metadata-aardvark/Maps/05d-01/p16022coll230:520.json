@@ -1,10 +1,10 @@
 {
   "dct_title_s": "Upper Canada.",
-  "dct_alternative_sm": [
-    "Upper Canada."
-  ],
   "dct_description_sm": [
-    "Relief shown by hachures.  Inset: [Lake Superior].  Shows districts and natural features of Southern Ontario.  Publication date from title sheet of Tanner's universal atlas, No. 14.  In upper margin: Tanner's universal atlas.  In lower right margin: 3 1/2.  In: Tanner, Henry Schenck. Tanner's universal atlas ... Philadelphia, 1833-1836. Pt. 14, no. 4. Dimensions: 29.4 x 37.5 centimeters"
+    "Relief shown by hachures.  Inset: [Lake Superior].  Shows districts and natural features of Southern Ontario.  Publication date from title sheet of Tanner's universal atlas, No. 14.  In upper margin: Tanner's universal atlas.  In lower right margin: 3 1/2.  In: Tanner, Henry Schenck. Tanner's universal atlas ... Philadelphia, 1833-1836. Pt. 14, no. 4.",
+    "29.4 x 37.5 centimeters",
+    "Scale approximately 1:2,050,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -30,34 +30,29 @@
     "1836"
   ],
   "dct_issued_s": "1836",
-  "gbl_indexYear_im": [
-    "1836"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1836 TO 1836]"
-  ],
   "dct_spatial_sm": [
     "Canada"
   ],
-  "locn_geometry": "ENVELOPE(-84,-74,47,41)",
+  "locn_geometry": "POLYGON((-84 47, -74 47, -74 41, -84 41, -84 47))",
   "dcat_bbox": "ENVELOPE(-84,-74,47,41)",
   "dcat_centroid": "44.0,-79.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/520/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:520\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/520/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:520\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/520/manifest.json\"}",
   "id": "p16022coll230:520",
   "dct_identifier_sm": [
     "UMN_ALMA:9973518890701701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:22Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -5,14 +5,17 @@
   "dc_title_s": "Atlas till Sveriges historia",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll229:1819",
-  "solr_year_i": "1856",
   "dc_creator_sm": [
-    "Wiberg, Carl Frederik, 1813-1881; von Mentzer, Thure Alexander, 1807-1892."
+    "Wiberg, Carl Frederik, 1813-1881",
+    "von Mentzer, Thure Alexander, 1807-1892."
   ],
-  "dc_description_s": "1 atlas (22 pages) : color maps ; 32 centimeters",
+  "dc_description_s": "1 atlas (22 pages) : color maps ; 32 centimeters|Historical Atlases",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll229/id/1819/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll229:1819\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll229/1819/manifest.json\"}",
-  "layer_modified_dt": "2022-02-27T01:40:07Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll229:1819\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll229/1819/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Sweden"
+  ],
+  "layer_modified_dt": "2022-09-28T02:14:33Z",
   "dc_language_sm": [
     "swe"
   ],

@@ -1,7 +1,10 @@
 {
-  "dct_title_s": "Map of New York City~~places of interest and general information",
-  "dct_alternative_sm": [
-    "Map of New York City : places of interest and general information"
+  "dct_title_s": "Map of New York City : places of interest and general information",
+  "dct_description_sm": [
+    "Includes index of places of interest.; Title from panel.; On verso: ill., Pennsylvania Railroad advertisement, and directory to New York hotels and theatres.",
+    "42 x 20 centimeters, folded to 23 x 11 centimeters",
+    "Scale not given.",
+    "City Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -25,31 +28,26 @@
     "1925"
   ],
   "dct_issued_s": "1925",
-  "gbl_indexYear_im": [
-    "1925"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1925 TO 1925]"
-  ],
-  "locn_geometry": "ENVELOPE(-74.2589,-73.7,40.9161,40.4772)",
+  "locn_geometry": "POLYGON((-74.2589 40.9161, -73.7 40.9161, -73.7 40.4772, -74.2589 40.4772, -74.2589 40.9161))",
   "dcat_bbox": "ENVELOPE(-74.2589,-73.7,40.9161,40.4772)",
   "dcat_centroid": "40.696650000000005,-73.97945",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll205"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll205/id/532/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:532\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/532/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:532\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/532/manifest.json\"}",
   "id": "p16022coll205:532",
   "dct_identifier_sm": [
     "UMN_ALMA:9917172310001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:48Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

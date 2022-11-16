@@ -1,10 +1,10 @@
 {
-  "dct_title_s": "Bancroft's official guide map of City and County of San Francisco~~compiled from official maps in Surveyor's Office.",
-  "dct_alternative_sm": [
-    "Bancroft's official guide map of City and County of San Francisco : compiled from official maps in Surveyor's Office."
-  ],
+  "dct_title_s": "Bancroft's official guide map of City and County of San Francisco : compiled from official maps in Surveyor's Office.",
   "dct_description_sm": [
-    "Includes index to points of interest.   Shows drainage, wards, ranchos, flumes, etc.   Inset: Skeleton map showing relative position of San Francisco to the surrounding country (Scale [1:506,880]. 8 mi. to 1 in.).   In: LC G & M ward maps, no. 220.   Microfiche. [Washington : Library of Congress Photoduplication Service, 1984]. Dimensions: 60 x 74 centimeters"
+    "Includes index to points of interest.   Shows drainage, wards, ranchos, flumes, etc.   Inset: Skeleton map showing relative position of San Francisco to the surrounding country (Scale [1:506,880]. 8 mi. to 1 in.).   In: LC G & M ward maps, no. 220.   Microfiche. [Washington : Library of Congress Photoduplication Service, 1984].",
+    "60 x 74 centimeters",
+    "Scale approximately 1:22,000.",
+    "City Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -27,34 +27,29 @@
     "1877"
   ],
   "dct_issued_s": "1877",
-  "gbl_indexYear_im": [
-    "1877"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1877 TO 1877]"
-  ],
   "dct_spatial_sm": [
     "San Francisco, California"
   ],
-  "locn_geometry": "ENVELOPE(-122.53,-122.35,37.81,37.7)",
+  "locn_geometry": "POLYGON((-122.53 37.81, -122.35 37.81, -122.35 37.7, -122.53 37.7, -122.53 37.81))",
   "dcat_bbox": "ENVELOPE(-122.53,-122.35,37.81,37.7)",
   "dcat_centroid": "37.755,-122.44",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll205"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll205/id/267/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:267\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/267/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:267\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/267/manifest.json\"}",
   "id": "p16022coll205:267",
   "dct_identifier_sm": [
     "UMN_ALMA:9912652570001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:28Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

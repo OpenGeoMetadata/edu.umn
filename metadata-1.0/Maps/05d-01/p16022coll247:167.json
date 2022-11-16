@@ -1,30 +1,27 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "p16022coll247:167",
+  "dc_identifier_s": "UMN_ALMA:9956971640001701",
   "dc_rights_s": "Public",
   "dc_title_s": "Chapman's new sectional map of Minnesota",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll247:167",
   "solr_geom": "ENVELOPE(-97.25,-89.48,49.4,43.5)",
-  "solr_year_i": "1856",
   "dc_creator_sm": [
     "Chapman, Silas",
     "Ferd. Mayer & Co."
   ],
-  "dc_description_s": "Cartographic Details: Scale [1:633,600] Shows county boundaries as of 1855. Hand colored. Dimensions: 73 x 57 centimeters",
+  "dc_description_s": "Cartographic Details: Scale [1:633,600] Shows county boundaries as of 1855. Hand colored.|73 x 57 centimeters|1:633,600|General Minnesota Maps",
   "dc_format_s": "JPEG",
-  "dc_subject_sm": [
-    "County boundaries"
-  ],
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/188725\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/167/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:167\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/167/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:56Z",
+  "layer_modified_dt": "2022-09-28T02:16:35Z",
   "dc_language_sm": [
     "eng"
   ],
-  "dc_publisher_s": "Silas Chapman",
+  "dc_publisher_s": "Silas Chapman;  Milwaukee, Wisconsin 1856",
+  "dct_issued_s": "1856",
   "dct_temporal_sm": [
     "1856"
   ]

@@ -1,10 +1,10 @@
 {
-  "dct_title_s": "Map of Minnesota~~with population and location of principal towns and cities",
-  "dct_alternative_sm": [
-    "Map of Minnesota : with population and location of principal towns and cities"
-  ],
+  "dct_title_s": "Map of Minnesota : with population and location of principal towns and cities",
   "dct_description_sm": [
-    "Cartographic Details: Scale [1:1,287,000] (W 97°--W 90°/N 49°--N 43°). Congressional and township boundaries shown in red and blue respectively. On verso: index of cities and towns with location and population (1905 census). \"Our lands are located within a few miles of the richest Iron Mines in the world. Therefore the Farmer has the best markets. The country with in the circle [around Grand Rapids] is very rich and proserous. New mines are just beginning to open up\"--advertising text on recto. Dimensions: 54 x 45 centimeters"
+    "Cartographic Details: Scale [1:1,287,000] (W 97°--W 90°/N 49°--N 43°). Congressional and township boundaries shown in red and blue respectively. On verso: index of cities and towns with location and population (1905 census). \"Our lands are located within a few miles of the richest Iron Mines in the world. Therefore the Farmer has the best markets. The country with in the circle [around Grand Rapids] is very rich and proserous. New mines are just beginning to open up\"--advertising text on recto.",
+    "54 x 45 centimeters",
+    "Scale [1:1,287,000]",
+    "General Minnesota Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -28,31 +28,26 @@
     "1907"
   ],
   "dct_issued_s": "1907",
-  "gbl_indexYear_im": [
-    "1907"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1907 TO 1907]"
-  ],
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-97,-90,49,43)",
+  "locn_geometry": "POLYGON((-97 49, -90 49, -90 43, -97 43, -97 49))",
   "dcat_bbox": "ENVELOPE(-97,-90,49,43)",
   "dcat_centroid": "46.0,-93.5",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll247"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll247/id/107/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:107\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/107/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:107\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/107/manifest.json\"}",
   "id": "p16022coll247:107",
   "dct_identifier_sm": [
     "UMN_ALMA:9931892910001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:57Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

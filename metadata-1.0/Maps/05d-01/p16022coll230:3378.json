@@ -6,18 +6,21 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3378",
   "solr_geom": "ENVELOPE(9.5167,17.15,49.0167,46.3667)",
-  "solr_year_i": "1928",
   "dc_creator_sm": [
     "Bier, Adolf"
   ],
-  "dc_description_s": "Relief shown by hachures and spot heights.; On verso: advertisements, travel information, and city major road insets: Wr.-Neustadt -- Salzburg -- Linz -- Klagenfurt -- Graz -- Wien.|77 x 98 centimeters, folded to 20 x 15 centimeters|Scale 1:350,000",
+  "dc_description_s": "Relief shown by hachures and spot heights.; On verso: advertisements, travel information, and city major road insets: Wr.-Neustadt -- Salzburg -- Linz -- Klagenfurt -- Graz -- Wien.|77 x 98 centimeters, folded to 20 x 15 centimeters|Scale 1:350,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3378/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3378\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3378/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:23:34Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3378\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3378/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Austria",
+    "Europe"
+  ],
+  "layer_modified_dt": "2022-09-28T02:15:46Z",
   "dc_language_sm": [
     "ger"
   ],
-  "dc_publisher_s": "Universitäts-Verlag Wagner ",
+  "dc_publisher_s": "Universitäts-Verlag Wagner (Innsbruck)",
   "dct_issued_s": "1928",
   "dct_temporal_sm": [
     "1928"

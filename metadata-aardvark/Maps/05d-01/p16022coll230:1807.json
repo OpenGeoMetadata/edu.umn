@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Plat of the northern boundary line of the state of Indiana : surveyed in conformity to the Act of Congress",
-  "dct_alternative_sm": [
-    "Plat of the northern boundary line of the state of Indiana : surveyed in conformity to the Act of Congress"
+  "dct_description_sm": [
+    "A true copy of the original plat in this Office. Surveyor General's Office - Chillicothe, 24th November 1827. Edwa. Tiffin, Sur. Gen.; \"To authorize the President of the United States to ascertain and designate the northern boundary of the state of Indiana: passed March 2nd 1827.\"; Possibly from: Northern Boundary of Indiana: message from the president of the United States, 1828.",
+    "158 x 25 centimeters",
+    "Scale indeterminable",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -20,23 +23,18 @@
     "1827?"
   ],
   "dct_issued_s": "1827?",
-  "gbl_indexYear_im": [
-    "1827"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1827 TO 1827]"
-  ],
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-87.4,-84.7833,41.75,41.5333)",
+  "locn_geometry": "POLYGON((-87.4 41.75, -84.7833 41.75, -84.7833 41.5333, -87.4 41.5333, -87.4 41.75))",
   "dcat_bbox": "ENVELOPE(-87.4,-84.7833,41.75,41.5333)",
   "dcat_centroid": "41.64165,-86.09165",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -48,6 +46,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9935459250001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:11Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

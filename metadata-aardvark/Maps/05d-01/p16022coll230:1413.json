@@ -1,7 +1,10 @@
 {
   "dct_title_s": "General map Gettysburg",
-  "dct_alternative_sm": [
-    "General map Gettysburg"
+  "dct_description_sm": [
+    "Relief shown by hachures.; \"Control based on U.S. Geological Survey map 1:62,500.\"; Shows paved highways, proposed paved highways, and unpaved highways.; Inset: list of railroads.",
+    "48 x 55 centimeters",
+    "Scale approximately 1:316,800; 1 inch = 5 miles",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -26,31 +29,26 @@
     "1925"
   ],
   "dct_issued_s": "1925",
-  "gbl_indexYear_im": [
-    "1925"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1925 TO 1925]"
-  ],
-  "locn_geometry": "ENVELOPE(-77.9,-75.9972,40.4972,38.8667)",
+  "locn_geometry": "POLYGON((-77.9 40.4972, -75.9972 40.4972, -75.9972 38.8667, -77.9 38.8667, -77.9 40.4972))",
   "dcat_bbox": "ENVELOPE(-77.9,-75.9972,40.4972,38.8667)",
   "dcat_centroid": "39.68195,-76.9486",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/1413/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1413\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1413/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1413\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1413/manifest.json\"}",
   "id": "p16022coll230:1413",
   "dct_identifier_sm": [
     "UMN_ALMA:9976190196001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:42Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,16 +1,19 @@
 {
-  "dct_title_s": "India in eleven parts~~with an index map",
-  "dct_alternative_sm": [
-    "India in eleven parts : with an index map"
-  ],
+  "dct_title_s": "India in eleven parts : with an index map",
   "dct_description_sm": [
-    "Cartographic Details: Scale : approximately 1:2,200,000 Cover title.\"J. & C. Walker Sculpt.\" Relief shown by hachures. Prime meridian: Greenwich. Each map covers part of India. Dimensions: 32 x 44 centimeters"
+    "Cartographic Details: Scale : approximately 1:2,200,000 Cover title.\"J. & C. Walker Sculpt.\" Relief shown by hachures. Prime meridian: Greenwich. Each map covers part of India.",
+    "12 maps : hand colored",
+    "32 x 44 centimeters",
+    "Scale approximately 1:2,200,000",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Society for the Diffusion of Useful Knowledge (Great Britain); J. & C. Walker (Firm); Baldwin & Cradock."
+    "Society for the Diffusion of Useful Knowledge (Great Britain)",
+    "J. & C. Walker (Firm)",
+    "Baldwin & Cradock."
   ],
   "dct_publisher_sm": [
     "Baldwin & Cradock, 47 Paternoster Row; London"
@@ -27,34 +30,29 @@
     "1831 - 1835"
   ],
   "dct_issued_s": "1831 - 1835",
-  "gbl_indexYear_im": [
-    "1831"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1831 TO 1835]"
-  ],
   "dct_spatial_sm": [
     "India"
   ],
-  "locn_geometry": "ENVELOPE(67,92,30,6)",
+  "locn_geometry": "POLYGON((67 30, 92 30, 92 6, 67 6, 67 30))",
   "dcat_bbox": "ENVELOPE(67,92,30,6)",
   "dcat_centroid": "18.0,79.5",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll246"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll246/id/109/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:109\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/109/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:109\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/109/manifest.json\"}",
   "id": "p16022coll246:109",
   "dct_identifier_sm": [
     "UMN_ALMA:9935012670001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:20Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

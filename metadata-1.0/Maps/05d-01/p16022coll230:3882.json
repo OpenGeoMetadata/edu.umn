@@ -6,14 +6,18 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3882",
   "solr_geom": "ENVELOPE(8.75,9.25,6.0833,4.6667)",
-  "solr_year_i": "1906",
   "dc_creator_sm": [
     "Woodroffe, A. J"
   ],
-  "dc_description_s": "Includes inset continuation of main map.; Shows roads, railroads, settlements, hydrography, ranges, seigneuries.||Scale 1:100,000",
+  "dc_description_s": "Includes inset continuation of main map.; Shows roads, railroads, settlements, hydrography, ranges, seigneuries.|Scale 1:100,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3882/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3882\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3882/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:24:02Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3882\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3882/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Nigeria",
+    "Cameroon",
+    "Africa"
+  ],
+  "layer_modified_dt": "2022-09-28T02:15:06Z",
   "dc_language_sm": [
     "eng"
   ],

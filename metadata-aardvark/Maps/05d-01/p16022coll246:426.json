@@ -1,7 +1,10 @@
 {
   "dct_title_s": "A map of the north part of Hindostan or a geographical survey of the provinces of Bengal, Bahar, Awd, Ellahabad, Agra and Delhi",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:1,490,000 (E 73°38'00\"--E 97°23'00\"/N 28°09'00\"--N 22°05'00\"). Relief shown pictorially. Dimensions: 1 map : coloured ; 67 x 104 centimeters"
+    "Cartographic Details: Scale approximately 1:1,490,000 (E 73°38'00\"--E 97°23'00\"/N 28°09'00\"--N 22°05'00\"). Relief shown pictorially.",
+    "1 map : coloured ; 67 x 104 centimeters",
+    "Scale approximately 1:1,490,000",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Rennell, James, 1742-1830"
   ],
   "dct_publisher_sm": [
-    "by Laurie & Whittle, 53, Fleet Street"
+    "... by Laurie & Whittle, 53, Fleet Street ; London"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -29,22 +32,19 @@
     "India Oudh(princely State)",
     "India Uttar Pradesh",
     "Early Maps",
-    "Early Workds"
+    "Maps",
+    "Early Workds",
+    "Maps"
   ],
   "dct_temporal_sm": [
-    "1794-05-12"
-  ],
-  "gbl_indexYear_im": [
     "1794"
   ],
-  "gbl_dateRange_drsim": [
-    "[1794 TO 1794]"
-  ],
+  "dct_issued_s": "1794-05-12",
   "dct_spatial_sm": [
     "Bangladesh",
     "India"
   ],
-  "locn_geometry": "ENVELOPE(73.63,97.38,28.15,22.08)",
+  "locn_geometry": "POLYGON((73.63 28.15, 97.38 28.15, 97.38 22.08, 73.63 22.08, 73.63 28.15))",
   "dcat_bbox": "ENVELOPE(73.63,97.38,28.15,22.08)",
   "dcat_centroid": "25.115,85.505",
   "pcdm_memberOf_sm": [
@@ -52,18 +52,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/226163\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/426/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:426\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/426/manifest.json\"}",
   "id": "p16022coll246:426",
   "dct_identifier_sm": [
-    "p16022coll246:426"
+    "UMN_ALMA:9973943497401701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:50Z",
+  "gbl_mdModified_dt": "2022-09-28T02:13:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

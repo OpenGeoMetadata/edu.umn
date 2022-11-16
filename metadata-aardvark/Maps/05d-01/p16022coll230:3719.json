@@ -1,12 +1,10 @@
 {
   "dct_title_s": "The Daily telegraph war map no. 9 [pictorial relief map of European Turkey, the Dardanelles, the Sea of Marmara, and the Bosporus]",
-  "dct_alternative_sm": [
-    "The Daily telegraph war map no. 9 [pictorial relief map of European Turkey, the Dardanelles, the Sea of Marmara, and the Bosporus]"
-  ],
   "dct_description_sm": [
     "Shows railroads, roads, and forts; does not show campaigns.; Relief shown pictorially and by spot heights.; Includes glossary and 5 inset maps.",
     "76 x 101 centimeters",
-    "Scale approximately 1:350,000"
+    "Scale approximately 1:350,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -29,31 +27,29 @@
     "1915"
   ],
   "dct_issued_s": "1915?",
-  "gbl_indexYear_im": [
-    "1915"
+  "dct_spatial_sm": [
+    "Asia"
   ],
-  "gbl_dateRange_drsim": [
-    "[1915 TO 1915]"
-  ],
-  "locn_geometry": "ENVELOPE(25.6167,44.8167,42.2833,35.8)",
+  "locn_geometry": "POLYGON((25.6167 42.2833, 44.8167 42.2833, 44.8167 35.8, 25.6167 35.8, 25.6167 42.2833))",
   "dcat_bbox": "ENVELOPE(25.6167,44.8167,42.2833,35.8)",
   "dcat_centroid": "39.04165,35.2167",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3719/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3719\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3719/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3719\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3719/manifest.json\"}",
   "id": "p16022coll230:3719",
   "dct_identifier_sm": [
     "UMN_ALMA:9924297350001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:36Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

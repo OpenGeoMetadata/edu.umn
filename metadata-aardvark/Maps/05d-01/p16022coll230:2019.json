@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Location of large land holdings of timber owners in Upper Peninsula of Michigan",
-  "dct_alternative_sm": [
-    "Location of large land holdings of timber owners in Upper Peninsula of Michigan"
+  "dct_description_sm": [
+    "Accompanies Report of the Commissioner of Corporations on the lumber industry, pt. III.; Includes inset map: \"Region North of Township 52N.\"",
+    "45 x 126 centimeters",
+    "Scale [1:380,160] 1 inch = 6 miles",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -21,23 +24,18 @@
     "1924?"
   ],
   "dct_issued_s": "1924?",
-  "gbl_indexYear_im": [
-    "1924"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1924 TO 1924]"
-  ],
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-90.4167,-83.9833,47.75,45.1167)",
+  "locn_geometry": "POLYGON((-90.4167 47.75, -83.9833 47.75, -83.9833 45.1167, -90.4167 45.1167, -90.4167 47.75))",
   "dcat_bbox": "ENVELOPE(-90.4167,-83.9833,47.75,45.1167)",
   "dcat_centroid": "46.433350000000004,-87.2",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -49,6 +47,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9941245520001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:54Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

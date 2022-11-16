@@ -6,14 +6,17 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3714",
   "solr_geom": "ENVELOPE(79.3833,82.0667,10.0333,5.7167)",
-  "solr_year_i": "1925",
   "dc_creator_sm": [
     "Edward Stanford Ltd"
   ],
-  "dc_description_s": "Relief shown by hachures.; \"Provincial Boundaries 1925.\"|86 x 55 centimeters|Scale approximately 1:506,880",
+  "dc_description_s": "Relief shown by hachures.; \"Provincial Boundaries 1925.\"|86 x 55 centimeters|Scale approximately 1:506,880|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3714/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3714\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3714/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:24:05Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3714\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3714/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Sri Lanka",
+    "Asia"
+  ],
+  "layer_modified_dt": "2022-09-28T02:15:38Z",
   "dc_language_sm": [
     "eng"
   ],

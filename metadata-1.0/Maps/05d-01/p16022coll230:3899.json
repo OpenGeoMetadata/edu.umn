@@ -6,14 +6,16 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3899",
   "solr_geom": "ENVELOPE(100.9167,102.0,3.9167,2.3333)",
-  "solr_year_i": "1926",
   "dc_creator_sm": [
     "Malaya. Survey Department"
   ],
-  "dc_description_s": "Map of Selangor showing state, district and town boundaries, transportation, water features, cultivation, vegetation, mining, populated places and public buildings. Relief shown by spot heights.; Inset: Malaya [location map].; Prime meridian: Greenwich.; \"F.M.S. Surveys No. 97-1926\".|139 x 96 centimeters|Scale [1:126 720]; 2 miles to an inch",
+  "dc_description_s": "Map of Selangor showing state, district and town boundaries, transportation, water features, cultivation, vegetation, mining, populated places and public buildings. Relief shown by spot heights.; Inset: Malaya [location map].; Prime meridian: Greenwich.; \"F.M.S. Surveys No. 97-1926\".|139 x 96 centimeters|Scale [1:126 720]; 2 miles to an inch|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3899/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3899\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3899/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:32:40Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3899\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3899/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Asia"
+  ],
+  "layer_modified_dt": "2022-09-28T02:15:43Z",
   "dc_language_sm": [
     "eng"
   ],

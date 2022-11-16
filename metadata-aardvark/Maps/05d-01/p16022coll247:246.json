@@ -1,5 +1,10 @@
 {
   "dct_title_s": "Lake park region of Minnesota reached by the Great Northern Railway",
+  "dct_description_sm": [
+    "70 x 53 centimeters",
+    "Scale [1:760,320]. 1 in. = 12 mi.",
+    "General Minnesota Maps"
+  ],
   "dct_language_sm": [
     "eng"
   ],
@@ -13,27 +18,18 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "Railroads"
-  ],
   "dcat_keyword_sm": [
     "Great Northern Railway Company (Us) Maps",
-    "Railroads Minnesota Maps",
-    "bbox-update-mar2020"
+    "Railroads Minnesota Maps"
   ],
   "dct_temporal_sm": [
     "1909"
   ],
-  "gbl_indexYear_im": [
-    "1909"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1909 TO 1909]"
-  ],
+  "dct_issued_s": "1909",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-97.24,-89.48,49.38,44.46)",
+  "locn_geometry": "POLYGON((-97.24 49.38, -89.48 49.38, -89.48 44.46, -97.24 44.46, -97.24 49.38))",
   "dcat_bbox": "ENVELOPE(-97.24,-89.48,49.38,44.46)",
   "dcat_centroid": "46.92,-93.36",
   "pcdm_memberOf_sm": [
@@ -41,18 +37,15 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll247"
-  ],
-  "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "p16022coll247"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:246\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/246/manifest.json\"}",
   "id": "p16022coll247:246",
   "dct_identifier_sm": [
-    "p16022coll247:246"
+    "UMN_ALMA:9944594970001700"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:07Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

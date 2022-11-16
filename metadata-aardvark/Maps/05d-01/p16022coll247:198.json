@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Superior National Forest, Minnesota, fourth principal meridian, 1920",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:250,000. Below title: The playground of a nation. \"Henry S. Graves, forester.\" \"Minnesota Game and Fish Department, Carlos Avery, Commissioner, St. Paul, Minn.\" \"Before taking trips outlined obtain information from the secretary of the Ely CommercialClub or the U.S. Forest Service, Ely Minn.\" Relief shown by hachures. Shows canoe routes starting and ending at Ely and outline of Superior State Game Refuge. Dimensions: 42 x 82 centimeters"
+    "Cartographic Details: Scale approximately 1:250,000. Below title: The playground of a nation. \"Henry S. Graves, forester.\" \"Minnesota Game and Fish Department, Carlos Avery, Commissioner, St. Paul, Minn.\" \"Before taking trips outlined obtain information from the secretary of the Ely CommercialClub or the U.S. Forest Service, Ely Minn.\" Relief shown by hachures. Shows canoe routes starting and ending at Ely and outline of Superior State Game Refuge.",
+    "42 x 82 centimeters",
+    "1:250,000",
+    "General Minnesota Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -17,7 +20,7 @@
     "Ely Commercial Club (Ely, Minn.)"
   ],
   "dct_publisher_sm": [
-    "U.S. Dept. of Agriculture, Forest Service"
+    "U.S. Dept. of Agriculture, Forest Service ;  Washington, D.C.?"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -26,21 +29,17 @@
   "dcat_keyword_sm": [
     "Canoes and Canoeing Minnesota Superior National Forest Maps 1920",
     "Superior National Forest (Minn.) Maps 1920",
-    "Superior State Game Refuge (Minn.) Maps 1920"
+    "Superior State Game Refuge (Minn.) Maps 1920",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1920"
   ],
-  "gbl_indexYear_im": [
-    "1920"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1920 TO 1920]"
-  ],
+  "dct_issued_s": "1920",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-92.5866,-89.9808,48.4005,47.5362)",
+  "locn_geometry": "POLYGON((-92.5866 48.4005, -89.9808 48.4005, -89.9808 47.5362, -92.5866 47.5362, -92.5866 48.4005))",
   "dcat_bbox": "ENVELOPE(-92.5866,-89.9808,48.4005,47.5362)",
   "dcat_centroid": "47.96835,-91.28370000000001",
   "pcdm_memberOf_sm": [
@@ -48,18 +47,15 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll247"
-  ],
-  "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "p16022coll247"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/196941\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/198/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:198\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/198/manifest.json\"}",
   "id": "p16022coll247:198",
   "dct_identifier_sm": [
-    "p16022coll247:198"
+    "UMN_ALMA:9943130290001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:23Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

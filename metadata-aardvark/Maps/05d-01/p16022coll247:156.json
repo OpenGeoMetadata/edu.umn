@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Sectional map of the surveyed portion of Minnesota and the northwestern part of Wisconsin",
   "dct_description_sm": [
-    "Hand colored.\"Entered according to Act of Congress in the year 1857, by J.S. Sewall, in the Clerk's Office of the District Court for the Southern District of Minnesota.\"Includes view of Fuller House, St. Paul and advertisements for Caldwell, Whitney & Co., bankers, St. Paul and Henry Mckenty, realtor, St. Paul. Dimensions: 55 x 39 centimeters"
+    "Hand colored.\"Entered according to Act of Congress in the year 1857, by J.S. Sewall, in the Clerk's Office of the District Court for the Southern District of Minnesota.\"Includes view of Fuller House, St. Paul and advertisements for Caldwell, Whitney & Co., bankers, St. Paul and Henry Mckenty, realtor, St. Paul.",
+    "55 x 39 centimeters",
+    "1:760,320. Twelve miles to one inch",
+    "General Minnesota Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Hatch & Co."
   ],
   "dct_publisher_sm": [
-    "Hatch & Co."
+    "Hatch & Co. ;  New York"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -19,23 +22,17 @@
   ],
   "dcat_keyword_sm": [
     "Minnesota Maps",
-    "Wisconsin Maps",
-    "bbox-update-mar2020"
+    "Wisconsin Maps"
   ],
   "dct_temporal_sm": [
     "1857"
   ],
-  "gbl_indexYear_im": [
-    "1857"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1857 TO 1857]"
-  ],
+  "dct_issued_s": "1857",
   "dct_spatial_sm": [
     "Minnesota",
     "Wisconsin"
   ],
-  "locn_geometry": "ENVELOPE(-94.5784,-90.909,46.7538,43.5026)",
+  "locn_geometry": "POLYGON((-94.5784 46.7538, -90.909 46.7538, -90.909 43.5026, -94.5784 43.5026, -94.5784 46.7538))",
   "dcat_bbox": "ENVELOPE(-94.5784,-90.909,46.7538,43.5026)",
   "dcat_centroid": "45.1282,-92.7437",
   "pcdm_memberOf_sm": [
@@ -43,18 +40,15 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll247"
-  ],
-  "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "p16022coll247"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/255113\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/156/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:156\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/156/manifest.json\"}",
   "id": "p16022coll247:156",
   "dct_identifier_sm": [
-    "p16022coll247:156"
+    "UMN_ALMA:9974847394401701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:03Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

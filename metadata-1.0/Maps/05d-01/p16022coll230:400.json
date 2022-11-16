@@ -6,17 +6,17 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:400",
   "solr_geom": "ENVELOPE(-0.3001,-0.28,51.48,51.46)",
-  "solr_year_i": "1903",
   "dc_creator_sm": [
-    "Royal Botanic Gardens, Kew.; Great Britain. Ordnance Survey."
+    "Royal Botanic Gardens, Kew.",
+    "Great Britain. Ordnance Survey."
   ],
-  "dc_description_s": "Some buildings and vegetation shown pictorially.   Panel title.   Indexes to buildings and collections of trees and shrubs on verso.   \"Heliozincographed at the Ordnance Survey Office, Southampton, 1904.\"   On panel: O.W. 400. Dimensions: 33 x 28 centimeters",
+  "dc_description_s": "Some buildings and vegetation shown pictorially.   Panel title.   Indexes to buildings and collections of trees and shrubs on verso.   \"Heliozincographed at the Ordnance Survey Office, Southampton, 1904.\"   On panel: O.W. 400.|33 x 28 centimeters|Scale approximately 1:6,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/400/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:400\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/400/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:400\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/400/manifest.json\"}",
   "dct_spatial_sm": [
     "United Kingdom"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:54Z",
+  "layer_modified_dt": "2022-09-28T02:15:03Z",
   "dc_language_sm": [
     "eng"
   ],

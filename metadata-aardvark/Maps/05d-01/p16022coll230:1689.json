@@ -1,7 +1,9 @@
 {
   "dct_title_s": "Outline map of the lands known as Oklahoma, Indian T : opened to settlement by Executive Order March 23, 1889",
-  "dct_alternative_sm": [
-    "Outline map of the lands known as Oklahoma, Indian T : opened to settlement by Executive Order March 23, 1889"
+  "dct_description_sm": [
+    "Relief shown by contours and spot heights.; \"Datum is mean sea level.\"",
+    "Scale approximately 1:225,440. 1 inch = 4 miles",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -17,23 +19,18 @@
     "1889"
   ],
   "dct_issued_s": "1889",
-  "gbl_indexYear_im": [
-    "1889"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1889 TO 1889]"
-  ],
   "dct_spatial_sm": [
     "Oklahoma"
   ],
-  "locn_geometry": "ENVELOPE(-103.0,-94.4167,37.0,33.6167)",
+  "locn_geometry": "POLYGON((-103.0 37.0, -94.4167 37.0, -94.4167 33.6167, -103.0 33.6167, -103.0 37.0))",
   "dcat_bbox": "ENVELOPE(-103.0,-94.4167,37.0,33.6167)",
   "dcat_centroid": "35.308350000000004,-98.70835",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -45,6 +42,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9931958710001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:50Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

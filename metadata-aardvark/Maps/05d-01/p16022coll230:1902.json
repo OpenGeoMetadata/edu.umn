@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Sectional map of townships 41 and 42, ranges 5 and 6, west, Sawyer County, Wisconsin : showing colored lands owned and for sale by American Immigration Company",
-  "dct_alternative_sm": [
-    "Sectional map of townships 41 and 42, ranges 5 and 6, west, Sawyer County, Wisconsin : showing colored lands owned and for sale by American Immigration Company"
+  "dct_description_sm": [
+    "Copperplate.; Published after the author's death by his brother Joseph-Nicolas.; A copy identical to 1763 edition, with altered date Anno M. DCCLXXXII.; In: Bonne, Rigobert, Recueil des cartes sur la géographie ancienne. Paris, Lattré, 1783. Listed in index as plates 19 and 20, but labeled A35 and B35.; This map was probably included in Atlas moderne ou collection de cartes ... par plusieurs auteurs, Paris, Lattré, [1762-83], as plates A 35 and B 35.",
+    "41 x 41 centimeters, folded to 24 x 9 centimeters",
+    "Scale approximately 1:47,520",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -22,24 +25,19 @@
   "dct_temporal_sm": [
     "1920-1929?"
   ],
-  "dct_issued_s": "1920-1929?",
-  "gbl_indexYear_im": [
-    "1920"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1920 TO 1929]"
-  ],
+  "dct_issued_s": "1920 - 1929?",
   "dct_spatial_sm": [
     "Wisconsin"
   ],
-  "locn_geometry": "ENVELOPE(-91.55,-90.6667,46.15,45.6333)",
+  "locn_geometry": "POLYGON((-91.55 46.15, -90.6667 46.15, -90.6667 45.6333, -91.55 45.6333, -91.55 46.15))",
   "dcat_bbox": "ENVELOPE(-91.55,-90.6667,46.15,45.6333)",
   "dcat_centroid": "45.89165,-91.10835",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -51,6 +49,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9936399710001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:49Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

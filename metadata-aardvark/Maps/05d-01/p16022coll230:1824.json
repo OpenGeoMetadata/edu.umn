@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Railroad map of Ohio",
-  "dct_alternative_sm": [
-    "Railroad map of Ohio"
+  "dct_description_sm": [
+    "At head of title: \"State Commisioners of Public Printing, W.D. Fulton, Secretary of State, A.V. Donahey, Auditor of State, Joseph McGhee, Attorney General.\"; Map shows portions of adjoining states and longitude west from Greenwich.; Includes text, explanatory note, Ohio city maps and surrounding vicinities including Akron, Cleveland, Canton, Toledo, Youngstown, Cincinnati, Dayton and Columbus.; \"Copyright 1918 by W.D. Fulton for the State of Ohio.\"",
+    "82 x 107 centimeters",
+    "Scale 1:500,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -23,20 +26,15 @@
     "1918"
   ],
   "dct_issued_s": "1918",
-  "gbl_indexYear_im": [
-    "1918"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1918 TO 1918]"
-  ],
-  "locn_geometry": "ENVELOPE(-84.8167,-80.5167,41.9667,38.4)",
+  "locn_geometry": "POLYGON((-84.8167 41.9667, -80.5167 41.9667, -80.5167 38.4, -84.8167 38.4, -84.8167 41.9667))",
   "dcat_bbox": "ENVELOPE(-84.8167,-80.5167,41.9667,38.4)",
   "dcat_centroid": "40.183350000000004,-82.66669999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -48,6 +46,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9974088490301701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:28Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

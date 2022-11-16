@@ -1,7 +1,10 @@
 {
   "dct_title_s": "[British Indian Ocean Territory]",
   "dct_description_sm": [
-    "Cartographic Details: Scale not given (E 71°--E 73°/S 5°--S 7°). Relief shown by soundings. Title supplied by cataloger. Both maps include costal profiles. Possibly from: De Nieuwe Groote Lichtende Zee-Fakkel / by een gebragt en opgestelt door Jan de Marre ... in 't Licht gebragt door Joannes van Keulen. Amsterdam : by Joannes van Keulen, Boek-en Kaartverkoper aan de Nieuwe Brug in de gekroonde Lootsman, 1753. Dimensions: 23 x 26 centimeters"
+    "Cartographic Details: Scale not given (E 71°--E 73°/S 5°--S 7°). Relief shown by soundings. Title supplied by cataloger. Both maps include costal profiles. Possibly from: De Nieuwe Groote Lichtende Zee-Fakkel / by een gebragt en opgestelt door Jan de Marre ... in 't Licht gebragt door Joannes van Keulen. Amsterdam : by Joannes van Keulen, Boek-en Kaartverkoper aan de Nieuwe Brug in de gekroonde Lootsman, 1753.",
+    "23 x 26 centimeters",
+    "Scale not given.",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "dut"
@@ -10,7 +13,7 @@
     "van Keulen, Johannes, 1704-1755"
   ],
   "dct_publisher_sm": [
-    "Joannes van Keulen"
+    "Joannes van Keulen; Amsterdam"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -21,22 +24,18 @@
   ],
   "dcat_keyword_sm": [
     "British Indian Ocean Territory Maps Early Works to 1800",
+    "Maps",
     "Early Maps"
   ],
   "dct_temporal_sm": [
     "1753"
   ],
-  "gbl_indexYear_im": [
-    "1753"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1753 TO 1753]"
-  ],
+  "dct_issued_s": "1753",
   "dct_spatial_sm": [
     "Indian Ocean",
     "Asia"
   ],
-  "locn_geometry": "ENVELOPE(42,78,34,9)",
+  "locn_geometry": "POLYGON((42 34, 78 34, 78 9, 42 9, 42 34))",
   "dcat_bbox": "ENVELOPE(42,78,34,9)",
   "dcat_centroid": "21.5,60.0",
   "pcdm_memberOf_sm": [
@@ -44,18 +43,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/200861\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/316/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:316\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/316/manifest.json\"}",
   "id": "p16022coll246:316",
   "dct_identifier_sm": [
-    "p16022coll246:316"
+    "UMN_ALMA:9935106580001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:46Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

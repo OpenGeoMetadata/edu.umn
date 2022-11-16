@@ -1,19 +1,20 @@
 {
   "dct_title_s": "Map of the United States of North America with parts of the adjacent countries",
-  "dct_alternative_sm": [
-    "Map of the United States of North America with parts of the adjacent countries"
-  ],
   "dct_description_sm": [
     "Map of the continental United States showing relief by hachures, drainage, state boundaries, cities and towns, roads, trails, canals, and railroads.",
     "From his The American Atlas (London, J. Arrowsmith, 1839); Description derived from published bibliography.",
     "91 x 124 centimeters",
-    "Scale approximately 1:4,000,000."
+    "Scale approximately 1:4,000,000.",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
     "Burr, David H., 1803-1875"
+  ],
+  "dct_publisher_sm": [
+    "(London], )"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -23,28 +24,30 @@
     "1839"
   ],
   "dct_issued_s": "1839",
-  "gbl_indexYear_im": [
-    "1839"
+  "dct_spatial_sm": [
+    "United States",
+    "North America"
   ],
-  "gbl_dateRange_drsim": [
-    "[1839 TO 1839]"
-  ],
+  "locn_geometry": "POLYGON((-127.8666667 52.33333333, -64.45 52.33333333, -64.45 16.41666667, -127.8666667 16.41666667, -127.8666667 52.33333333))",
+  "dcat_bbox": "ENVELOPE(-127.8666667,-64.45,52.33333333,16.41666667)",
+  "dcat_centroid": "34.375,-96.15833334999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/2902/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2902\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2902/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2902\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2902/manifest.json\"}",
   "id": "p16022coll230:2902",
   "dct_identifier_sm": [
     "UMN_ALMA:9963416160001701"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:37:55Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

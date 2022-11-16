@@ -1,5 +1,10 @@
 {
   "dct_title_s": "Condition map of Minnesota Trunk Highways : a 7,000 mile primary system showing national and state markings",
+  "dct_description_sm": [
+    "Cartographic Details: Scale approximately 1:1,530,000. Description based on: 1932 sheet. Each sheet lists the Commissioner of highways and the Chief Engineer. On verso: Distance tables for various cities in Minnesota.",
+    "Scale approximately 1:1,530,000.",
+    "Minnesota Transportation Maps"
+  ],
   "dct_language_sm": [
     "eng"
   ],
@@ -19,21 +24,17 @@
   "dcat_keyword_sm": [
     "Roads Minnesota Maps",
     "Minnesota Distances Tables",
-    "Minnesota Maps"
+    "Minnesota Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1942"
   ],
-  "gbl_indexYear_im": [
-    "1942"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1942 TO 1942]"
-  ],
+  "dct_issued_s": "1942",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-97.251,-90.9229,49.3788,43.4649)",
+  "locn_geometry": "POLYGON((-97.251 49.3788, -90.9229 49.3788, -90.9229 43.4649, -97.251 43.4649, -97.251 49.3788))",
   "dcat_bbox": "ENVELOPE(-97.251,-90.9229,49.3788,43.4649)",
   "dcat_centroid": "46.42185,-94.08695",
   "pcdm_memberOf_sm": [
@@ -41,18 +42,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll206"
+    "p16022coll206"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/231294\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll206/133/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll206:133\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll206/133/manifest.json\"}",
   "id": "p16022coll206:133",
   "dct_identifier_sm": [
-    "p16022coll206:133"
+    "UMN_ALMA:9921564190001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:56Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

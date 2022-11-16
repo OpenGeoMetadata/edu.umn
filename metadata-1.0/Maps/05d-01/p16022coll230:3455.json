@@ -6,11 +6,13 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3455",
   "solr_geom": "ENVELOPE(19.4,-168.9667,82.05,41.1833)",
-  "solr_year_i": "1926",
-  "dc_description_s": "Width of traffic line indicates tons of shipping along route.; \"Friedr. Vieweg u. Sohn, Brunswick\"--lower right.||Scale 1:4,200,000",
+  "dc_description_s": "Width of traffic line indicates tons of shipping along route.; \"Friedr. Vieweg u. Sohn, Brunswick\"--lower right.|Scale 1:4,200,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3455/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3455\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3455/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:32:14Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3455\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3455/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Asia"
+  ],
+  "layer_modified_dt": "2022-09-28T02:15:43Z",
   "dc_language_sm": [
     "rus"
   ],

@@ -1,12 +1,9 @@
 {
   "dct_title_s": "The Kaibar, Karkatcha and Kurram passes",
-  "dct_alternative_sm": [
-    "The Kaibar, Karkatcha and Kurram passes"
-  ],
   "dct_description_sm": [
     "Relief shown by shading.; Shows: international boundaries, roads.",
-    "",
-    "Scale approximately 1:1,000,000"
+    "Scale approximately 1:1,000,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -25,31 +22,29 @@
     "1878"
   ],
   "dct_issued_s": "1878",
-  "gbl_indexYear_im": [
-    "1878"
+  "dct_spatial_sm": [
+    "Asia"
   ],
-  "gbl_dateRange_drsim": [
-    "[1878 TO 1878]"
-  ],
-  "locn_geometry": "ENVELOPE(68.0,72.5,35.0,33.0)",
+  "locn_geometry": "POLYGON((68.0 35.0, 72.5 35.0, 72.5 33.0, 68.0 33.0, 68.0 35.0))",
   "dcat_bbox": "ENVELOPE(68.0,72.5,35.0,33.0)",
   "dcat_centroid": "34.0,70.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3661/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3661\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3661/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3661\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3661/manifest.json\"}",
   "id": "p16022coll230:3661",
   "dct_identifier_sm": [
     "UMN_ALMA:9918452990001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:20Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

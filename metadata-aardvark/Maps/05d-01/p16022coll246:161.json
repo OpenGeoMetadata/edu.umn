@@ -1,5 +1,10 @@
 {
   "dct_title_s": "Map of the Indian Empire including Ceylon and the Straits Settlements.",
+  "dct_description_sm": [
+    "Cartographic Details: Scale 1:5,000,000 ; conic proj. Accompanied by index. Inset: India showing military stations and railways, languages, religions -- town plans of Bombay, Calcutta, Madras, etc. Relief shown as hachures and heights in feet. Shows: international and administrative boundaries, railways, canals.",
+    "Scale 1:5,000,000",
+    "Ames Library of South Asia Maps"
+  ],
   "dct_language_sm": [
     "eng"
   ],
@@ -7,32 +12,26 @@
     "Ravenstein, Ernst George, 1834-1913. George Philip & Son."
   ],
   "dct_publisher_sm": [
-    "George Philip & Son"
+    "George Philip & Son; London"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "Railroads"
-  ],
   "dcat_keyword_sm": [
     "India Maps",
-    "India"
+    "India",
+    "Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1900"
   ],
-  "gbl_indexYear_im": [
-    "1900"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1900 TO 1900]"
-  ],
+  "dct_issued_s": "1900",
   "dct_spatial_sm": [
     "India"
   ],
-  "locn_geometry": "ENVELOPE(65.95,103.23,40.23,4.01)",
+  "locn_geometry": "POLYGON((65.95 40.23, 103.23 40.23, 103.23 4.01, 65.95 4.01, 65.95 40.23))",
   "dcat_bbox": "ENVELOPE(65.95,103.23,40.23,4.01)",
   "dcat_centroid": "22.119999999999997,84.59",
   "pcdm_memberOf_sm": [
@@ -40,18 +39,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/202849\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/161/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:161\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/161/manifest.json\"}",
   "id": "p16022coll246:161",
   "dct_identifier_sm": [
-    "p16022coll246:161"
+    "UMN_ALMA:9973938305301701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:34:01Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -6,13 +6,16 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3665",
   "solr_geom": "ENVELOPE(11.6667,37.6,43.0,30.0)",
-  "solr_year_i": "1897",
   "dc_creator_sm": [
     "Arnold, C. E. (Charles Edward), 1866-1902"
   ],
+  "dc_description_s": "Has map for each journey with outline of chronology and relevant Scripture passages.|Relief shown by shading and spot heights.|48x30 centimeters|Scale not given|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3665/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3665\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3665/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:33:25Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3665\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3665/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Asia"
+  ],
+  "layer_modified_dt": "2022-09-28T02:14:56Z",
   "dc_language_sm": [
     "eng"
   ],

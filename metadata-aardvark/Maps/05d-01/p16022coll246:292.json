@@ -1,5 +1,10 @@
 {
   "dct_title_s": "Skeleton map of the Panjab and surrounding countries: to accompany the administration report for 1879-80",
+  "dct_description_sm": [
+    "60 x 67 centimeters, on sheet 69 x 80 centimeters",
+    "Scale 1:2,027,520",
+    "Ames Library of South Asia Maps"
+  ],
   "dct_language_sm": [
     "eng"
   ],
@@ -7,30 +12,25 @@
     "Survey of India."
   ],
   "dct_publisher_sm": [
-    "Surveyor General's Office"
+    "Surveyor General's Office; Calcutta"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Punjab (India) Maps",
-    "bbox-update-mar2020"
+    "Maps",
+    "Punjab (India) Maps"
   ],
   "dct_temporal_sm": [
     "1880"
   ],
-  "gbl_indexYear_im": [
-    "1880"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1880 TO 1880]"
-  ],
+  "dct_issued_s": "1880",
   "dct_spatial_sm": [
     "Punjab, India",
     "India"
   ],
-  "locn_geometry": "ENVELOPE(73.1,77.58,33.58,28.31)",
+  "locn_geometry": "POLYGON((73.1 33.58, 77.58 33.58, 77.58 28.31, 73.1 28.31, 73.1 33.58))",
   "dcat_bbox": "ENVELOPE(73.1,77.58,33.58,28.31)",
   "dcat_centroid": "30.945,75.34",
   "pcdm_memberOf_sm": [
@@ -38,18 +38,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/246323\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/292/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:292\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/292/manifest.json\"}",
   "id": "p16022coll246:292",
   "dct_identifier_sm": [
-    "p16022coll246:292"
+    "UMN_ALMA:9974347703101700"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:20Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

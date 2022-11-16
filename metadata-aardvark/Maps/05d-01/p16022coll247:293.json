@@ -1,7 +1,10 @@
 {
   "dct_title_s": "County map of Minnesota",
-  "dct_alternative_sm": [
-    "County map of Minnesota"
+  "dct_description_sm": [
+    "Relief shown by hachures and spot heights.; Shows Minnesota counties as of 1873, cities and towns, railroads, and natural features.; At base of map: \"Entered according to Act of Congress in the year 1875 by S. Augustus Mitchell in the Office of the Librarian of Congress at Washington.\"; In upper right corner: 77.; Probably detached from an atlas in which the map occupies plate no. 77.; Prime meridians: Greenwich and Washington, D.C.",
+    "32 x 28 centimeters",
+    "Scale approximately 1:2,100,000",
+    "General Minnesota Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -20,34 +23,29 @@
     "1875"
   ],
   "dct_issued_s": "1875",
-  "gbl_indexYear_im": [
-    "1875"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1875 TO 1875]"
-  ],
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-97.25,-89.5,49.25,43.25)",
+  "locn_geometry": "POLYGON((-97.25 49.25, -89.5 49.25, -89.5 43.25, -97.25 43.25, -97.25 49.25))",
   "dcat_bbox": "ENVELOPE(-97.25,-89.5,49.25,43.25)",
   "dcat_centroid": "46.25,-93.375",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll247"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll247/id/293/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:293\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/293/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:293\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/293/manifest.json\"}",
   "id": "p16022coll247:293",
   "dct_identifier_sm": [
     "UMN_ALMA:9915624570001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:59Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

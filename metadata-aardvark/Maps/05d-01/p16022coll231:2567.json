@@ -1,7 +1,9 @@
 {
   "dct_title_s": "Atlas of the environs of St. Paul including the whole of Ramsey County, Minnesota.",
-  "dct_alternative_sm": [
-    "Atlas of the environs of St. Paul including the whole of Ramsey County, Minnesota."
+  "dct_description_sm": [
+    "43 centimeters",
+    "Scales differ.",
+    "Minnesota County Maps, Plat Books, and Atlases"
   ],
   "dct_language_sm": [
     "eng"
@@ -22,38 +24,31 @@
     "Ramsey County (Minn.) Maps",
     "Saint Paul (Minn.) Maps"
   ],
-  "dct_temporal_sm": [
-    "1886"
-  ],
   "dct_issued_s": "1886",
-  "gbl_indexYear_im": [
-    "1886"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1886 TO 1886]"
-  ],
   "dct_spatial_sm": [
-    "St. Paul, Minnesota"
+    "Saint Paul, Minnesota",
+    "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-93.25,-92.96,45.15,44.86)",
-  "dcat_bbox": "ENVELOPE(-93.25,-92.96,45.15,44.86)",
-  "dcat_centroid": "45.004999999999995,-93.10499999999999",
+  "locn_geometry": "POLYGON((-93.25 45.15, -92.96666667 45.15, -92.96666667 44.86666667, -93.25 44.86666667, -93.25 45.15))",
+  "dcat_bbox": "ENVELOPE(-93.25,-92.96666667,45.15,44.86666667)",
+  "dcat_centroid": "45.008333335,-93.108333335",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll231"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll231/id/2567/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:2567\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/2567/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:2567\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/2567/manifest.json\"}",
   "id": "p16022coll231:2567",
   "dct_identifier_sm": [
     "UMN_ALMA:9959435570001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:49Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

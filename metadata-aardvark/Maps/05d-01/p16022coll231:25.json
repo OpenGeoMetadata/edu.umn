@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Geologic Map of Pigeon Point, Minnesota",
   "dct_description_sm": [
-    "Cartographic Details: Scale 1:22500. \"By W.S. Bayley, 1890.\" Relief shown by contours. Includes 2 cross section insets and legend of rock types. \"Monograph LII Plate XII.\" Dimensions: 16 x 47 centimeters"
+    "Cartographic Details: Scale 1:22500. \"By W.S. Bayley, 1890.\" Relief shown by contours. Includes 2 cross section insets and legend of rock types. \"Monograph LII Plate XII.\"",
+    "16 x 47 centimeters",
+    "Scale 1:22,500",
+    "Minnesota County Maps, Plat Books, and Atlases"
   ],
   "dct_language_sm": [
     "eng"
@@ -12,7 +15,7 @@
     "U.S. Lake Survey."
   ],
   "dct_publisher_sm": [
-    "U.S. Geological Survey (Washington, D.C.), 1910"
+    "U.S. Geological Survey  (Washington, D.C.), 1910"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -24,22 +27,18 @@
   "dcat_keyword_sm": [
     "Geology Minnesota Cook County Maps",
     "Cook County (Minn.) Maps",
-    "Topographic Maps"
+    "Topographic Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1910"
   ],
-  "gbl_indexYear_im": [
-    "1910"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1910 TO 1910]"
-  ],
+  "dct_issued_s": "1910",
   "dct_spatial_sm": [
     "Cook County, Minnesota",
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-89.6194,-89.4888,48.008,47.9776)",
+  "locn_geometry": "POLYGON((-89.6194 48.008, -89.4888 48.008, -89.4888 47.9776, -89.6194 47.9776, -89.6194 48.008))",
   "dcat_bbox": "ENVELOPE(-89.6194,-89.4888,48.008,47.9776)",
   "dcat_centroid": "47.9928,-89.5541",
   "pcdm_memberOf_sm": [
@@ -47,18 +46,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll231"
+    "p16022coll231"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/188763\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/25/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:25\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/25/manifest.json\"}",
   "id": "p16022coll231:25",
   "dct_identifier_sm": [
-    "p16022coll231:25"
+    "UMN_ALMA:9926720120001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:56Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

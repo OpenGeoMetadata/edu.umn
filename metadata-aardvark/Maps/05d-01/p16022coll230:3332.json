@@ -1,12 +1,10 @@
 {
   "dct_title_s": "New railway map of central Europe : Neue Eisenbahnkarte von Zentraleuropa = Nouvelle Carte des chemins de fer de l'Europe centrale",
-  "dct_alternative_sm": [
-    "New railway map of central Europe : Neue Eisenbahnkarte von Zentraleuropa = Nouvelle Carte des chemins de fer de l'Europe centrale"
-  ],
   "dct_description_sm": [
     "Relief shown by contours and spot heights.; At head of title: Department of the Interior.; \"Surveyed in 1893-94, 1896, 1898-99, and 1905.\"; Contour interval 100 feet. Datum is mean sea level.; U.S. township and section lines and section corners are shown.; Shows park limits established by various Acts of Congress.",
     "116 x 166 centimeters",
-    "Scale 1:1,500,000"
+    "Scale 1:1,500,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -15,7 +13,7 @@
     "Freissler, Max"
   ],
   "dct_publisher_sm": [
-    "Max Freissler  "
+    "Max Freissler (Vienna)"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -28,31 +26,29 @@
     "1923"
   ],
   "dct_issued_s": "1923",
-  "gbl_indexYear_im": [
-    "1923"
+  "dct_spatial_sm": [
+    "Europe"
   ],
-  "gbl_dateRange_drsim": [
-    "[1923 TO 1923]"
-  ],
-  "locn_geometry": "ENVELOPE(-8.0,33.0,52.0,40.0)",
+  "locn_geometry": "POLYGON((-8.0 52.0, 33.0 52.0, 33.0 40.0, -8.0 40.0, -8.0 52.0))",
   "dcat_bbox": "ENVELOPE(-8.0,33.0,52.0,40.0)",
   "dcat_centroid": "46.0,12.5",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3332/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3332\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3332/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3332\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3332/manifest.json\"}",
   "id": "p16022coll230:3332",
   "dct_identifier_sm": [
     "UMN_ALMA:9951847050001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:19Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

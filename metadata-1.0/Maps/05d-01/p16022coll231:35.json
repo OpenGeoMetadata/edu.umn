@@ -1,26 +1,23 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "p16022coll231:35",
+  "dc_identifier_s": "UMN_ALMA:9930452020001701",
   "dc_rights_s": "Public",
   "dc_title_s": "Hennepin County, Minn : road map.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll231:35",
   "solr_geom": "ENVELOPE(-93.7678,-92.9447,45.248,44.7611)",
-  "solr_year_i": "1910",
-  "dc_description_s": "Cartographic Details: Scale not given. Date from pencil note on verso. Indexed. Shows roads, railroads, townships, selected points of interest, school houses, and bodies of water, includes some portions of Ramsey County. Dimensions: 43 x 53 centimeters",
+  "dc_description_s": "Cartographic Details: Scale not given. Date from pencil note on verso. Indexed. Shows roads, railroads, townships, selected points of interest, school houses, and bodies of water, includes some portions of Ramsey County.|43 x 53 centimeters|Scale not given.|Minnesota County Maps, Plat Books, and Atlases",
   "dc_format_s": "JPEG",
-  "dc_subject_sm": [
-    "Railroads"
-  ],
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/188765\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/35/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:35\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/35/manifest.json\"}",
   "dct_spatial_sm": [
     "Hennepin County, Minnesota",
     "Minnesota"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:09Z",
+  "layer_modified_dt": "2022-09-28T02:15:11Z",
   "dc_language_sm": [
     "eng"
   ],
+  "dct_issued_s": "1910",
   "dct_temporal_sm": [
     "1910"
   ]

@@ -6,14 +6,17 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3767",
   "solr_geom": "ENVELOPE(89.6333,113.7167,25.0167,-1.4833)",
-  "solr_year_i": "1683",
   "dc_creator_sm": [
     "Cantelli, Giacomo, 1643-1695"
   ],
-  "dc_description_s": "Relief shown pictorially.; Hand colored outlines indicate geographic borders.|50 x 38 centimeters|Scale approximately 1:6,000,000",
+  "dc_description_s": "Relief shown pictorially.; Hand colored outlines indicate geographic borders.|50 x 38 centimeters|Scale approximately 1:6,000,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3767/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3767\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3767/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:28:37Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3767\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3767/manifest.json\"}",
+  "dct_spatial_sm": [
+    "India",
+    "Asia"
+  ],
+  "layer_modified_dt": "2022-09-28T02:14:02Z",
   "dc_language_sm": [
     "ita"
   ],

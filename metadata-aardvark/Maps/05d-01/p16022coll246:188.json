@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Calcutta",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:21,500. Oriented with north toward the left. Appears in: General atlas. London: published under the superintendence of the Society for the Diffusion of Useful Knowledge [by] George Cox, [1853]. Views below map: Writers buildings -- Government house -- Esplanade Row. Includes list of references to public buildings, churches and chapels. 170 Dimensions: 24 x 41 centimeters, on sheet 37 x 43 centimeters"
+    "Cartographic Details: Scale approximately 1:21,500. Oriented with north toward the left. Appears in: General atlas. London: published under the superintendence of the Society for the Diffusion of Useful Knowledge [by] George Cox, [1853]. Views below map: Writers buildings -- Government house -- Esplanade Row. Includes list of references to public buildings, churches and chapels. 170",
+    "24 x 41 centimeters, on sheet 37 x 43 centimeters",
+    "Scale approximately 1:21,500",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Society for the Diffusion of Useful Knowledge (Great Britain)"
   ],
   "dct_publisher_sm": [
-    "published under the superintendence of the Society for the Diffusion of Useful Knowledge by George Cox"
+    "published under the superintendence of the Society for the Diffusion of Useful Knowledge by George Cox ; London"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -23,22 +26,18 @@
     "Buildings India Kolkata Aerial Views",
     "Kolkata (India) Maps",
     "Kolkata (India) Aerial Views",
+    "Maps",
     "Aerial Views"
   ],
   "dct_temporal_sm": [
-    "1852-01-01"
-  ],
-  "gbl_indexYear_im": [
     "1852"
   ],
-  "gbl_dateRange_drsim": [
-    "[1852 TO 1852]"
-  ],
+  "dct_issued_s": "1852-01-01",
   "dct_spatial_sm": [
     "Calcutta, West Bengal, India",
     "Kolkata, West Bengal, India"
   ],
-  "locn_geometry": "ENVELOPE(88.3187,88.3848,22.6089,22.5351)",
+  "locn_geometry": "POLYGON((88.3187 22.6089, 88.3848 22.6089, 88.3848 22.5351, 88.3187 22.5351, 88.3187 22.6089))",
   "dcat_bbox": "ENVELOPE(88.3187,88.3848,22.6089,22.5351)",
   "dcat_centroid": "22.572,88.35175000000001",
   "pcdm_memberOf_sm": [
@@ -46,18 +45,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/200767\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/188/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:188\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/188/manifest.json\"}",
   "id": "p16022coll246:188",
   "dct_identifier_sm": [
-    "p16022coll246:188"
+    "UMN_ALMA:9924324700001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:05Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

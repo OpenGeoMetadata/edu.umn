@@ -1,18 +1,16 @@
 {
   "dct_title_s": "Map of Alaska showing the route of the Alaska Central Railway : with proposed branches ; also, water connections with Seattle, Portland, San Francisco, Honolulu, and the Orient",
-  "dct_alternative_sm": [
-    "Map of Alaska showing the route of the Alaska Central Railway : with proposed branches ; also, water connections with Seattle, Portland, San Francisco, Honolulu, and the Orient"
-  ],
   "dct_description_sm": [
     "Inset showing route from Seward to Fairbanks.; Route of Alaska Central Railway main line and branches shown in red.; Relief shown by hachures.",
     "54 x 72 centimeters",
-    "No scale given"
+    "No scale given",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_publisher_sm": [
-    "Rand McNally & Co"
+    "Rand McNally & Co (Chicago)"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -27,34 +25,29 @@
     "1922"
   ],
   "dct_issued_s": "1922",
-  "gbl_indexYear_im": [
-    "1922"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1922 TO 1922]"
-  ],
   "dct_spatial_sm": [
     "Alaska"
   ],
-  "locn_geometry": "ENVELOPE(-179.0,-120.0,72.0,46.0)",
+  "locn_geometry": "POLYGON((-179.0 72.0, -120.0 72.0, -120.0 46.0, -179.0 46.0, -179.0 72.0))",
   "dcat_bbox": "ENVELOPE(-179.0,-120.0,72.0,46.0)",
   "dcat_centroid": "59.0,-149.5",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/2532/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2532\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2532/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2532\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2532/manifest.json\"}",
   "id": "p16022coll230:2532",
   "dct_identifier_sm": [
     "UMN_ALMA:9974839699501701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:15Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

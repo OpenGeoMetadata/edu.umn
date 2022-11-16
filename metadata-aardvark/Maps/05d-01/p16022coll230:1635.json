@@ -1,7 +1,10 @@
 {
   "dct_title_s": "State of Florida",
-  "dct_alternative_sm": [
-    "State of Florida"
+  "dct_description_sm": [
+    "Relief shown by shading.; Compiled from the official records of the General Land Office and other sources under supervision of A.F. Dinsmore, principal draughtsman, G.L.O.; drawn and compiled by A.F. Dinsmore; traced and lettered by M. Hendges, I.P. Berthrong and F.E. Mahony.; Shows county seats, cities and towns, completed railroads, government reservations, military installations, lighthouses, and private grants.",
+    "each 51 x 100 centimeters on sheets 59 x 111 centimeters",
+    "Scale approximately 1:633,600",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -17,23 +20,18 @@
     "1893"
   ],
   "dct_issued_s": "1893",
-  "gbl_indexYear_im": [
-    "1893"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1893 TO 1893]"
-  ],
   "dct_spatial_sm": [
     "Florida"
   ],
-  "locn_geometry": "ENVELOPE(-87.6667,-79.75,31.0833,24.3333)",
+  "locn_geometry": "POLYGON((-87.6667 31.0833, -79.75 31.0833, -79.75 24.3333, -87.6667 24.3333, -87.6667 31.0833))",
   "dcat_bbox": "ENVELOPE(-87.6667,-79.75,31.0833,24.3333)",
   "dcat_centroid": "27.7083,-83.70835",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -45,6 +43,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9973986408401701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:57Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Eastern Islands : Birmah &c.",
   "dct_description_sm": [
-    "Cartographic Details: Scale [1:15,000,000]. Imprint derived from the atlas in which the map was issued.\"Engraved by S. Hall.\" Numbered XL. Shows boundaries, rivers and settlements. Relief shown by hachures. Greenwich meridian. Dimensions: 37 x 26 centimeters"
+    "Cartographic Details: Scale [1:15,000,000]. Imprint derived from the atlas in which the map was issued.\"Engraved by S. Hall.\" Numbered XL. Shows boundaries, rivers and settlements. Relief shown by hachures. Greenwich meridian.",
+    "37 x 26 centimeters",
+    "Scale [1:15,000,000]",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Adam and Charles Black (Firm),"
   ],
   "dct_publisher_sm": [
-    "Adam & Charles Black, et al"
+    "Adam & Charles Black, et al ; Edinburgh"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -19,21 +22,17 @@
   ],
   "dcat_keyword_sm": [
     "Southeast Asia Maps",
-    "Burma Maps"
+    "Burma Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1846"
   ],
-  "gbl_indexYear_im": [
-    "1846"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1846 TO 1846]"
-  ],
+  "dct_issued_s": "1846",
   "dct_spatial_sm": [
     "Burma, Myanmar [Burma]"
   ],
-  "locn_geometry": "ENVELOPE(92,127,32,-11)",
+  "locn_geometry": "POLYGON((92 32, 127 32, 127 -11, 92 -11, 92 32))",
   "dcat_bbox": "ENVELOPE(92,127,32,-11)",
   "dcat_centroid": "10.5,109.5",
   "pcdm_memberOf_sm": [
@@ -41,18 +40,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/200855\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/365/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:365\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/365/manifest.json\"}",
   "id": "p16022coll246:365",
   "dct_identifier_sm": [
-    "p16022coll246:365"
+    "UMN_ALMA:9934922890001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:20Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

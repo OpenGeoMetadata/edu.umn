@@ -1,16 +1,17 @@
 {
   "dct_title_s": "Premier series map of Minnesota",
-  "dct_alternative_sm": [
-    "Premier series map of Minnesota"
-  ],
   "dct_description_sm": [
-    "Cartographic Details: Scale [1:950,400]. 1 in. = 15 mi. (W 97°00°--W 89°30 ª/N 49°30 ª--N 43°30 ª). Index on verso. Insets: Minest in Saint Louis County -- [Cook County] -- Saint Paul, Minneapolis and vicinity. Sheet includes: ill. of state capitol, list of agricultural associations, and statistics. Dimensions: 89 x 71 centimeters"
+    "Cartographic Details: Scale [1:950,400]. 1 in. = 15 mi. (W 97°00°--W 89°30 ª/N 49°30 ª--N 43°30 ª). Index on verso. Insets: Minest in Saint Louis County -- [Cook County] -- Saint Paul, Minneapolis and vicinity. Sheet includes: ill. of state capitol, list of agricultural associations, and statistics.",
+    "89 x 71 centimeters",
+    "1:950,400",
+    "General Minnesota Maps"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Geographical Publishing Co.; Farm, Stock, & Home (Minneapolis, Minn.)"
+    "Geographical Publishing Co.",
+    "Farm, Stock, & Home (Minneapolis, Minn.)"
   ],
   "dct_publisher_sm": [
     "Geographical Publishing Co.;  Chicago, Illinois 1906"
@@ -29,31 +30,26 @@
     "1906"
   ],
   "dct_issued_s": "1906",
-  "gbl_indexYear_im": [
-    "1906"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1906 TO 1906]"
-  ],
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-89.5,-97,49.5,43.5)",
+  "locn_geometry": "POLYGON((-89.5 49.5, -97 49.5, -97 43.5, -89.5 43.5, -89.5 49.5))",
   "dcat_bbox": "ENVELOPE(-89.5,-97,49.5,43.5)",
   "dcat_centroid": "46.5,-93.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll247"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll247/id/47/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:47\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/47/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:47\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/47/manifest.json\"}",
   "id": "p16022coll247:47",
   "dct_identifier_sm": [
     "UMN_ALMA:9928975030001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:15Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

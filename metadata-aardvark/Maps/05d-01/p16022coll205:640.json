@@ -1,7 +1,9 @@
 {
   "dct_title_s": "Missouri-Illinois, Saint Louis special map",
-  "dct_alternative_sm": [
-    "Missouri-Illinois, Saint Louis special map"
+  "dct_description_sm": [
+    "Blueline photocopy, date unknown.; Relief shwon by contours and spot heights.; Text and ill. on verso.",
+    "39 x 47 centimeters",
+    "City Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -20,20 +22,19 @@
     "1904"
   ],
   "dct_issued_s": "1904",
-  "gbl_indexYear_im": [
-    "1904"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1904 TO 1904]"
-  ],
   "dct_spatial_sm": [
-    "St. Louis, Missouri"
+    "St. Louis, Missouri",
+    "Missouri"
   ],
+  "locn_geometry": "POLYGON((-90.41666667 38.73333333, -90.08333333 38.73333333, -90.08333333 38.51666667, -90.41666667 38.51666667, -90.41666667 38.73333333))",
+  "dcat_bbox": "ENVELOPE(-90.41666667,-90.08333333,38.73333333,38.51666667)",
+  "dcat_centroid": "38.625,-90.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll205"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -45,6 +46,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9928925340001701"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:38:13Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

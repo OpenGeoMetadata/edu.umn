@@ -1,13 +1,16 @@
 {
   "dct_title_s": "Insula Ceylon",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:1,450,000 (E 79°15'00\"--E 82°11'00\"/N 9°59'00\"--N 5°47'00\"). Relief shown pictorially. Likely from: Samuelis Fabri, Rect. Gymn. Norib. Atlas Scholastichodoeporicus oder immer staÃàrcker anwachsender Schul- und Reisen-Atlas / Samuel Faber. N ürnberg: Christoph Weigel, 1720. In Latin. Dimensions: 30 x 38 centimeters"
+    "Cartographic Details: Scale approximately 1:1,450,000 (E 79°15'00\"--E 82°11'00\"/N 9°59'00\"--N 5°47'00\"). Relief shown pictorially. Likely from: Samuelis Fabri, Rect. Gymn. Norib. Atlas Scholastichodoeporicus oder immer staÃàrcker anwachsender Schul- und Reisen-Atlas / Samuel Faber. N ürnberg: Christoph Weigel, 1720. In Latin.",
+    "30 x 38 centimeters",
+    "Scale approximately 1:1,450,000",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "lat"
   ],
   "dct_publisher_sm": [
-    "Christoph Weigel"
+    "Christoph Weigel ; N ürnberg"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -20,16 +23,11 @@
   "dct_temporal_sm": [
     "1720"
   ],
-  "gbl_indexYear_im": [
-    "1720"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1720 TO 1720]"
-  ],
+  "dct_issued_s": "1720",
   "dct_spatial_sm": [
     "Sri Lanka"
   ],
-  "locn_geometry": "ENVELOPE(79.25,82.18,9.98,5.78)",
+  "locn_geometry": "POLYGON((79.25 9.98, 82.18 9.98, 82.18 5.78, 79.25 5.78, 79.25 9.98))",
   "dcat_bbox": "ENVELOPE(79.25,82.18,9.98,5.78)",
   "dcat_centroid": "7.880000000000001,80.715",
   "pcdm_memberOf_sm": [
@@ -37,18 +35,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/228995\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/346/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:346\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/346/manifest.json\"}",
   "id": "p16022coll246:346",
   "dct_identifier_sm": [
-    "p16022coll246:346"
+    "UMN_ALMA:9973944384501701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:47Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

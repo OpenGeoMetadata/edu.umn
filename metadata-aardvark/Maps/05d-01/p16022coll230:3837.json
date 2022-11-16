@@ -1,12 +1,10 @@
 {
   "dct_title_s": "Map of the Malay Peninsula",
-  "dct_alternative_sm": [
-    "Map of the Malay Peninsula"
-  ],
   "dct_description_sm": [
     "Relief shown by hachures.; Insets: Singapore Town -- Juncture with the main map on half the scale.; \"London; Edward Stanford, 12, 13 & 14. Long Acre, W.C., March 1, 1911.\"",
     "each sheet 63 x 71 centimeters",
-    "Scale approximately 1:506,880; 8 English statute miles to one inch"
+    "Scale approximately 1:506,880; 8 English statute miles to one inch",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -25,31 +23,30 @@
     "1911"
   ],
   "dct_issued_s": "1911",
-  "gbl_indexYear_im": [
-    "1911"
+  "dct_spatial_sm": [
+    "Malay Peninsula",
+    "Asia"
   ],
-  "gbl_dateRange_drsim": [
-    "[1911 TO 1911]"
-  ],
-  "locn_geometry": "ENVELOPE(99.0,104.5,8.0,0.6667)",
+  "locn_geometry": "POLYGON((99.0 8.0, 104.5 8.0, 104.5 0.6667, 99.0 0.6667, 99.0 8.0))",
   "dcat_bbox": "ENVELOPE(99.0,104.5,8.0,0.6667)",
   "dcat_centroid": "4.33335,101.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3837/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3837\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3837/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3837\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3837/manifest.json\"}",
   "id": "p16022coll230:3837",
   "dct_identifier_sm": [
     "UMN_ALMA:9975609190701701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:36Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:13Z",
   "gbl_mdVersion_s": "Aardvark"
 }

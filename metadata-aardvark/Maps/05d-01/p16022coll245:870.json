@@ -1,7 +1,9 @@
 {
   "dct_title_s": "The city of St. Paul, Minnesota",
   "dct_description_sm": [
-    "Cartographic Details: Scale not given. (W 93¬∞08 π11 ∫--W 93¬∞02 π46 ∫/N 44¬∞57 π42 ∫--N 44¬∞55 π12 ∫). Shows sewers built during and prior to 1886 and boundaries of sand rock district. From: Annual reports of city officers and city boards of the City of Saint Paul / Saint Paul (Minn.). 1886. Dimensions: 41 x 59 centimeters"
+    "Cartographic Details: Scale not given. (W 93¬∞08 π11 ∫--W 93¬∞02 π46 ∫/N 44¬∞57 π42 ∫--N 44¬∞55 π12 ∫). Shows sewers built during and prior to 1886 and boundaries of sand rock district. From: Annual reports of city officers and city boards of the City of Saint Paul / Saint Paul (Minn.). 1886.",
+    "41 x 59 centimeters",
+    "Minneapolis and St. Paul Maps and Atlases"
   ],
   "dct_language_sm": [
     "eng"
@@ -24,17 +26,12 @@
   "dct_temporal_sm": [
     "1886"
   ],
-  "gbl_indexYear_im": [
-    "1886"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1886 TO 1886]"
-  ],
+  "dct_issued_s": "1886",
   "dct_spatial_sm": [
     "Saint Paul, Minnesota",
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-93.1365,-93.0479,44.9631,44.9195)",
+  "locn_geometry": "POLYGON((-93.1365 44.9631, -93.0479 44.9631, -93.0479 44.9195, -93.1365 44.9195, -93.1365 44.9631))",
   "dcat_bbox": "ENVELOPE(-93.1365,-93.0479,44.9631,44.9195)",
   "dcat_centroid": "44.9413,-93.09219999999999",
   "pcdm_memberOf_sm": [
@@ -42,18 +39,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll245"
+    "p16022coll245"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/188657\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/870/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:870\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/870/manifest.json\"}",
   "id": "p16022coll245:870",
   "dct_identifier_sm": [
-    "p16022coll245:870"
+    "UMN_ALMA:9919888740001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:52Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

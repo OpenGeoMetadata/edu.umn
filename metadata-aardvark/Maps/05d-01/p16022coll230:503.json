@@ -1,10 +1,10 @@
 {
-  "dct_title_s": "National Highways map of the State of Alabama~~showing eighteen hundred miles of national highways proposed by the National Highways Association",
-  "dct_alternative_sm": [
-    "National Highways map of the State of Alabama : showing eighteen hundred miles of national highways proposed by the National Highways Association"
-  ],
+  "dct_title_s": "National Highways map of the State of Alabama : showing eighteen hundred miles of national highways proposed by the National Highways Association",
   "dct_description_sm": [
-    "Relief shown by shading and contour lines.   Includes text describing the population to be served by proposed highways at bottom of sheet.   \"November 1913.\"   \"Copyrighted October 1915 by the National Highways Association ...\"   At head of sheet: \"Good Roads Everywhere, four-fold system.\" Dimensions: 35 x 20 centimeters"
+    "Relief shown by shading and contour lines.   Includes text describing the population to be served by proposed highways at bottom of sheet.   \"November 1913.\"   \"Copyrighted October 1915 by the National Highways Association ...\"   At head of sheet: \"Good Roads Everywhere, four-fold system.\"",
+    "35 x 20 centimeters",
+    "Scale 1:2,500,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -34,34 +34,29 @@
     "1915"
   ],
   "dct_issued_s": "1915",
-  "gbl_indexYear_im": [
-    "1915"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1915 TO 1915]"
-  ],
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-88.46,-84.88,35,30.13)",
+  "locn_geometry": "POLYGON((-88.46 35, -84.88 35, -84.88 30.13, -88.46 30.13, -88.46 35))",
   "dcat_bbox": "ENVELOPE(-88.46,-84.88,35,30.13)",
   "dcat_centroid": "32.565,-86.66999999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/503/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:503\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/503/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:503\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/503/manifest.json\"}",
   "id": "p16022coll230:503",
   "dct_identifier_sm": [
     "UMN_ALMA:9973519882601701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:57Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

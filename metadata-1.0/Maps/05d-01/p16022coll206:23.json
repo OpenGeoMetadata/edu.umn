@@ -2,21 +2,27 @@
   "geoblacklight_version": "1.0",
   "dc_identifier_s": "UMN_ALMA:9915899560001701",
   "dc_rights_s": "Public",
-  "dc_title_s": "Railroad commissioners' map of Minnesota~~corrected to May 1, 1914",
+  "dc_title_s": "Railroad commissioners' map of Minnesota : corrected to May 1, 1914",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll206:23",
   "solr_geom": "ENVELOPE(-97.23,-89.48,49.38,43.48)",
-  "solr_year_i": "1914",
   "dc_creator_sm": [
-    "Railroad and Warehouse Commission of the State of Minnesota.; Cram, George Franklin (1841-1928); Mills, Ira B.; Elmquist, Charles Emil (1873-1948); Jacobson, Ole P.B.; Clausen, A. C.; Yapp, Thomas; George F. Cram Company"
+    "Railroad and Warehouse Commission of the State of Minnesota.",
+    "Cram, George Franklin (1841-1928)",
+    "Mills, Ira B.",
+    "Elmquist, Charles Emil (1873-1948)",
+    "Jacobson, Ole P.B.",
+    "Clausen, A. C.",
+    "Yapp, Thomas",
+    "George F. Cram Company"
   ],
-  "dc_description_s": "Cartographic Details: Scale approximately 1:633,600. Also shows congressional districts. \"Ira B. Mills, Chas. E. Elmquist, O.P.B. Jacobson, Railroad and Warehouse Commissioners; A.C. Clausen, Secretary; Thos. Yapp, Ass't. Sec'y.\" Insets: Vicinity of Duluth & Superior, Wis. Scale [1:506,880] -- Vicinity of Saint Paul & Minneapolis. Scale [1:316,800] -- Mesaba Range. Scale [1:506,880] -- Cook County. Scale [1:663,600]. Index on verso. Dimensions: 120 x 74 centimeters",
+  "dc_description_s": "Cartographic Details: Scale approximately 1:633,600. Also shows congressional districts. \"Ira B. Mills, Chas. E. Elmquist, O.P.B. Jacobson, Railroad and Warehouse Commissioners; A.C. Clausen, Secretary; Thos. Yapp, Ass't. Sec'y.\" Insets: Vicinity of Duluth & Superior, Wis. Scale [1:506,880] -- Vicinity of Saint Paul & Minneapolis. Scale [1:316,800] -- Mesaba Range. Scale [1:506,880] -- Cook County. Scale [1:663,600]. Index on verso.|120 x 74 centimeters|Scale approximately 1:633,600|Minnesota Transportation Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll206/id/23/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll206:23\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll206/23/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll206:23\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll206/23/manifest.json\"}",
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:27Z",
+  "layer_modified_dt": "2022-09-28T02:15:19Z",
   "dc_language_sm": [
     "eng"
   ],

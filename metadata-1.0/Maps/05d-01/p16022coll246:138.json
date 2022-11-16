@@ -1,27 +1,27 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "p16022coll246:138",
+  "dc_identifier_s": "UMN_ALMA:9938270230001701",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of the Panjab, Kashmir, Iskardu & Ladhak : comprising the dominions of Ranjeet Singh",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:138",
   "solr_geom": "ENVELOPE(73.86,76.91,32.48,29.53)",
-  "solr_year_i": "1847",
   "dc_creator_sm": [
     "Arrowsmith, John, 1790-1873",
     "Hügel Freiherr von, Karl Alexander, 1795 or 1796-1870."
   ],
-  "dc_description_s": "Cartographic Details: Scale approximately 1:1,267,200. Relief shown by hachures.\"Baron H ügel's route is coloured red ...\" Inset: Continuation from Bussowl to Kabul, on half the scale of the map. Dimensions: 66 x 68 centimeters",
+  "dc_description_s": "Cartographic Details: Scale approximately 1:1,267,200. Relief shown by hachures.\"Baron H ügel's route is coloured red ...\" Inset: Continuation from Bussowl to Kabul, on half the scale of the map.|66 x 68 centimeters|Scale approximately 1:1,267,200|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/229453\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/138/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:138\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/138/manifest.json\"}",
   "dct_spatial_sm": [
     "India"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:09Z",
+  "layer_modified_dt": "2022-09-28T02:14:28Z",
   "dc_language_sm": [
     "eng"
   ],
-  "dc_publisher_s": "J. Arrowsmith",
+  "dc_publisher_s": "J. Arrowsmith ; London",
+  "dct_issued_s": "1847",
   "dct_temporal_sm": [
     "1847"
   ]

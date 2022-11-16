@@ -6,14 +6,17 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3584",
   "solr_geom": "ENVELOPE(79.3333,82.0,10.0,5.8333)",
-  "solr_year_i": "1922",
   "dc_creator_sm": [
     "Ceylon. Survey Department"
   ],
-  "dc_description_s": "Date from pencil mark on cover and map code: \"29-4-22\"--lower right.; Relief shown by hachures and spot heights.; Includes distance charts.; Insets with statistical information: Colombo -- Trincomalee -- Batticaloa -- Badula -- Nuwara Eliya -- Hambantota -- Tangalle -- Matara -- Galle -- Ratnapura -- Kalutara -- Kegalle -- Negombo -- Kurunegala -- Kandy -- Chilaw -- Puttalam -- Anuradhapura -- Mannar -- Jaffna -- Mullaittivu.|89 x 56 centimeters, folded to 19 x 11 centimeters|Scale 1:506,880; 1 inch = 8 miles",
+  "dc_description_s": "Date from pencil mark on cover and map code: \"29-4-22\"--lower right.; Relief shown by hachures and spot heights.; Includes distance charts.; Insets with statistical information: Colombo -- Trincomalee -- Batticaloa -- Badula -- Nuwara Eliya -- Hambantota -- Tangalle -- Matara -- Galle -- Ratnapura -- Kalutara -- Kegalle -- Negombo -- Kurunegala -- Kandy -- Chilaw -- Puttalam -- Anuradhapura -- Mannar -- Jaffna -- Mullaittivu.|89 x 56 centimeters, folded to 19 x 11 centimeters|Scale 1:506,880; 1 inch = 8 miles|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3584/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3584\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3584/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:27:06Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3584\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3584/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Sri Lanka",
+    "Asia"
+  ],
+  "layer_modified_dt": "2022-09-28T02:15:34Z",
   "dc_language_sm": [
     "eng"
   ],

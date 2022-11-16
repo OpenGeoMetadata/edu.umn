@@ -1,18 +1,19 @@
 {
   "dct_title_s": "Carte topographique du cours du Rhin depuis Basle jusqua Mayence : dans laquelle sont compris le Sundgau, la Haute et Basse Alsace, les Evéchés de Vorms et de Spire, une partie du Palatinat et de l'Archevéché de Mayence, le Bas Comté de Catzenellenbogen, le Territoire de Francfort, le Landgraviat de Hesse-Darmstadt, le Marquisat de Bade, le Territoire d'Hanau, l'Ortenau, le Brisgau, etc.... Sur laquelle on a tracé les Mouvements et les Positions des Armées F[ran]coises et Allem des Pendant les Campagnes de 1674, 1675",
-  "dct_alternative_sm": [
-    "Carte topographique du cours du Rhin depuis Basle jusqua Mayence : dans laquelle sont compris le Sundgau, la Haute et Basse Alsace, les Evéchés de Vorms et de Spire, une partie du Palatinat et de l'Archevéché de Mayence, le Bas Comté de Catzenellenbogen, le Territoire de Francfort, le Landgraviat de Hesse-Darmstadt, le Marquisat de Bade, le Territoire d'Hanau, l'Ortenau, le Brisgau, etc.... Sur laquelle on a tracé les Mouvements et les Positions des Armées F[ran]coises et Allem des Pendant les Campagnes de 1674, 1675"
-  ],
   "dct_description_sm": [
     "Relief shown pictorially.; Shows locations of French and German troops during the campaigns of 1674 and 1675.; Publication date from previous call number.",
     "sheets 66 x 113 centimeters or smaller",
-    "Scale not given"
+    "Scale not given",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "fre"
   ],
   "dct_creator_sm": [
     "Beaurain, Jean de, 1696-1771"
+  ],
+  "dct_publisher_sm": [
+    "(Berlin)"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -27,31 +28,26 @@
     "1781"
   ],
   "dct_issued_s": "1781?",
-  "gbl_indexYear_im": [
-    "1781"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1781 TO 1781]"
-  ],
-  "locn_geometry": "ENVELOPE(7.2,9.2833,50.1667,47.4833)",
+  "locn_geometry": "POLYGON((7.2 50.1667, 9.2833 50.1667, 9.2833 47.4833, 7.2 47.4833, 7.2 50.1667))",
   "dcat_bbox": "ENVELOPE(7.2,9.2833,50.1667,47.4833)",
   "dcat_centroid": "48.825,8.24165",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/2988/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2988\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2988/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2988\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2988/manifest.json\"}",
   "id": "p16022coll230:2988",
   "dct_identifier_sm": [
     "UMN_ALMA:9922673530001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:34Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }

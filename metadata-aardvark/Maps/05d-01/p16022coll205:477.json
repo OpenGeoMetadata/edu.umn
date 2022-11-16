@@ -1,10 +1,11 @@
 {
-  "dct_title_s": "Shawmut 1630--Boston 1930~~Three hundred years of progress. Boston ancient and modern in picture and story",
-  "dct_alternative_sm": [
-    "Shawmut 1630--Boston 1930 : Three hundred years of progress. Boston ancient and modern in picture and story"
-  ],
+  "dct_title_s": "Shawmut 1630--Boston 1930 : Three hundred years of progress. Boston ancient and modern in picture and story",
   "dct_description_sm": [
-    "This map is altogether a personal and private contribution. Anything of historical interest to Bostonians is looked upon by the author as appropriate material. Dimensions: 40 x 50 centimeters, on sheet 43 x 56 centimeters"
+    "This map is altogether a personal and private contribution. Anything of historical interest to Bostonians is looked upon by the author as appropriate material.",
+    "Prime meridians: Washington, D.C. & Greenwich.; Below lower left margin: Entered according to Act of Congress in the year 1849 by W. Williams in the Clerks Office of the District Court of the Eastern District of Pennsylvania.; Removed from: Williams, Wellington. Appleton's southern and western travellers' guide. New York: D. Appleton & Co., 1850.",
+    "40 x 50 centimeters, on sheet 43 x 56 centimeters",
+    "Scale approximately 1:5,600 Approximately 468 feet to 1 inch",
+    "City Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -23,31 +24,26 @@
     "1928"
   ],
   "dct_issued_s": "1928",
-  "gbl_indexYear_im": [
-    "1928"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1928 TO 1928]"
-  ],
-  "locn_geometry": "ENVELOPE(-71.1167,-70.9333,42.3833,42.3167)",
+  "locn_geometry": "POLYGON((-71.1167 42.3833, -70.9333 42.3833, -70.9333 42.3167, -71.1167 42.3167, -71.1167 42.3833))",
   "dcat_bbox": "ENVELOPE(-71.1167,-70.9333,42.3833,42.3167)",
   "dcat_centroid": "42.349999999999994,-71.025",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll205"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll205/id/477/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:477\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/477/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:477\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/477/manifest.json\"}",
   "id": "p16022coll205:477",
   "dct_identifier_sm": [
     "UMN_ALMA:9928730790001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:50Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

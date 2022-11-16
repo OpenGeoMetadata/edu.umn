@@ -1,5 +1,11 @@
 {
   "dct_title_s": "Rice's map of Minneapolis, Minnesota.",
+  "dct_description_sm": [
+    "1 mile circles from court house square. Map shows street car lines.",
+    "83 x 64 centimeters",
+    "1:19,495",
+    "Minneapolis and St. Paul Maps and Atlases"
+  ],
   "dct_language_sm": [
     "eng"
   ],
@@ -15,22 +21,18 @@
   ],
   "dcat_keyword_sm": [
     "Cable Cars (Streetcars) Minnesota Minneapolis Maps",
-    "Minneapolis (Minn.) Maps"
+    "Minneapolis (Minn.) Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1895?"
   ],
-  "gbl_indexYear_im": [
-    "1895"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1895 TO 1895]"
-  ],
+  "dct_issued_s": "1895?",
   "dct_spatial_sm": [
     "Minneapolis, Minnesota",
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-93.3374,-93.1982,45.0513,44.9052)",
+  "locn_geometry": "POLYGON((-93.3374 45.0513, -93.1982 45.0513, -93.1982 44.9052, -93.3374 44.9052, -93.3374 45.0513))",
   "dcat_bbox": "ENVELOPE(-93.3374,-93.1982,45.0513,44.9052)",
   "dcat_centroid": "44.97825,-93.2678",
   "pcdm_memberOf_sm": [
@@ -38,18 +40,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll245"
+    "p16022coll245"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/188071\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/909/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:909\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/909/manifest.json\"}",
   "id": "p16022coll245:909",
   "dct_identifier_sm": [
-    "p16022coll245:909"
+    "UMN_ALMA:9964144830001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:11Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

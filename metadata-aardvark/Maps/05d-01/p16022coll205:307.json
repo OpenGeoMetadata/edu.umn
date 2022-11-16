@@ -1,10 +1,10 @@
 {
-  "dct_title_s": "Mogg's London and its environs~~drawn from the latest surveys",
-  "dct_alternative_sm": [
-    "Mogg's London and its environs : drawn from the latest surveys"
-  ],
+  "dct_title_s": "Mogg's London and its environs : drawn from the latest surveys",
   "dct_description_sm": [
-    "Accompanied by: Index to the streets, squares, and cab stands, comprised in Mogg's new cab fare, distance map, and guide to London. (34 pages ; 15 cm.). Dimensions: 52 x 70 centimeters"
+    "Accompanied by: Index to the streets, squares, and cab stands, comprised in Mogg's new cab fare, distance map, and guide to London. (34 pages ; 15 cm.).",
+    "52 x 70 centimeters",
+    "Scale approximately 21,000",
+    "City Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -27,34 +27,29 @@
     "1845"
   ],
   "dct_issued_s": "1845?",
-  "gbl_indexYear_im": [
-    "1845"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1845 TO 1845]"
-  ],
   "dct_spatial_sm": [
     "United Kingdom"
   ],
-  "locn_geometry": "ENVELOPE(-0.5001,0.33,51.68,51.28)",
+  "locn_geometry": "POLYGON((-0.5001 51.68, 0.33 51.68, 0.33 51.28, -0.5001 51.28, -0.5001 51.68))",
   "dcat_bbox": "ENVELOPE(-0.5001,0.33,51.68,51.28)",
   "dcat_centroid": "51.480000000000004,-0.08504999999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll205"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll205/id/307/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:307\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/307/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:307\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/307/manifest.json\"}",
   "id": "p16022coll205:307",
   "dct_identifier_sm": [
     "UMN_ALMA:9937042440001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:43Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

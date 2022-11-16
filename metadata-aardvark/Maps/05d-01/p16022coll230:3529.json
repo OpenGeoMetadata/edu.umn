@@ -1,12 +1,10 @@
 {
   "dct_title_s": "La Russie Blanche ou Moscovie, divisée suivant l'estendue des royaumes, duchés, principautés, provinces et peuples qui sont presentement sous la dominiation du czar de la Russie cognu sous le nom de Grand Duc de Moscovie",
-  "dct_alternative_sm": [
-    "La Russie Blanche ou Moscovie, divisée suivant l'estendue des royaumes, duchés, principautés, provinces et peuples qui sont presentement sous la dominiation du czar de la Russie cognu sous le nom de Grand Duc de Moscovie"
-  ],
   "dct_description_sm": [
     "Relief shown pictorially.; Presentée a monseigneur le Dauphin par ... H. Iaillot.; Title above the neat line: Les estats du Czaar de la Russie Blanche ou Grand Duc de Moscovie, ou sont les duchés de Moskow, Wolodimer Rezansky, Worotin, Nowgorod Sewiersky, Czernihow--; Appears in: Atlas nouveau contenant toutes les parties du monde / par Sanson.",
     "53 x 86 centimeters +",
-    "Scale [ca. 1:7,000,000]"
+    "Scale [ca. 1:7,000,000]",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "fre"
@@ -15,7 +13,7 @@
     "Sanson, Nicolas, 1600-1667"
   ],
   "dct_publisher_sm": [
-    "Chez H. Iaillot "
+    "Chez H. Iaillot (A Paris)"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -25,31 +23,30 @@
     "1692"
   ],
   "dct_issued_s": "1692",
-  "gbl_indexYear_im": [
-    "1692"
+  "dct_spatial_sm": [
+    "Russia",
+    "Europe"
   ],
-  "gbl_dateRange_drsim": [
-    "[1692 TO 1692]"
-  ],
-  "locn_geometry": "ENVELOPE(19.6,68.6167,71.3333,45.3)",
+  "locn_geometry": "POLYGON((19.6 71.3333, 68.6167 71.3333, 68.6167 45.3, 19.6 45.3, 19.6 71.3333))",
   "dcat_bbox": "ENVELOPE(19.6,68.6167,71.3333,45.3)",
   "dcat_centroid": "58.316649999999996,44.10835",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3529/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3529\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3529/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3529\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3529/manifest.json\"}",
   "id": "p16022coll230:3529",
   "dct_identifier_sm": [
     "UMN_ALMA:9965863920001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:32Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

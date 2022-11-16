@@ -6,14 +6,17 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3773",
   "solr_geom": "ENVELOPE(176.0,-170.0,-13.0,-21.0)",
-  "solr_year_i": "1910",
   "dc_creator_sm": [
     "Great Britain. Hydrographic Office"
   ],
-  "dc_description_s": "In lower left margin: \"Small corrections II.97, IX.97, ... VI.10.\"; Relief shown by hachures and spot height. Depth shown by bathymetric soundings.; Oriented with north slightly to the right.; \"1829\"--lower right.|64 x 96 centimeters|Scale not given.",
+  "dc_description_s": "In lower left margin: \"Small corrections II.97, IX.97, ... VI.10.\"; Relief shown by hachures and spot height. Depth shown by bathymetric soundings.; Oriented with north slightly to the right.; \"1829\"--lower right.|64 x 96 centimeters|Scale not given.|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3773/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3773\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3773/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:30:16Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3773\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3773/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Fiji",
+    "Samoa"
+  ],
+  "layer_modified_dt": "2022-09-28T02:15:12Z",
   "dc_language_sm": [
     "eng"
   ],

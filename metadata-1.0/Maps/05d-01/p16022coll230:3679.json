@@ -6,14 +6,17 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3679",
   "solr_geom": "ENVELOPE(68.05,93.2333,23.9833,5.6)",
-  "solr_year_i": "1795",
   "dc_creator_sm": [
     "Bellin, Jacques Nicolas, 1703-1772"
   ],
-  "dc_description_s": "Relief shown pictorially.; Additional text in cartouche.; Lower left: \"Croisey Sculp. Rché par Hérault en Praial 1795.\"; Lower right: \"Prix. Cinquante Sols.\"|58 x 83 centimeters|Scale approximately 1:3,400,000",
+  "dc_description_s": "Relief shown pictorially.; Additional text in cartouche.; Lower left: \"Croisey Sculp. Rché par Hérault en Praial 1795.\"; Lower right: \"Prix. Cinquante Sols.\"|58 x 83 centimeters|Scale approximately 1:3,400,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3679/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3679\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3679/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:28:43Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3679\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3679/manifest.json\"}",
+  "dct_spatial_sm": [
+    "India",
+    "Asia"
+  ],
+  "layer_modified_dt": "2022-09-28T02:14:15Z",
   "dc_language_sm": [
     "fre"
   ],

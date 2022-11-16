@@ -1,5 +1,10 @@
 {
   "dct_title_s": "Railroads commissioners' map of Minnesota",
+  "dct_description_sm": [
+    "Longitude west from Greenwich and Washington, D.C.",
+    "27 x 40 inches",
+    "General Minnesota Maps"
+  ],
   "dct_language_sm": [
     "eng"
   ],
@@ -7,14 +12,11 @@
     "Rand McNally and Company"
   ],
   "dct_publisher_sm": [
-    "Rand McNally & Co."
+    "Rand McNally & Co.;  Chicago"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dct_subject_sm": [
-    "Railroads"
   ],
   "dcat_keyword_sm": [
     "Minnesota Maps"
@@ -22,16 +24,11 @@
   "dct_temporal_sm": [
     "1899"
   ],
-  "gbl_indexYear_im": [
-    "1899"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1899 TO 1899]"
-  ],
+  "dct_issued_s": "1899",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-97.3512,-90.699,50.0077,43.2872)",
+  "locn_geometry": "POLYGON((-97.3512 50.0077, -90.699 50.0077, -90.699 43.2872, -97.3512 43.2872, -97.3512 50.0077))",
   "dcat_bbox": "ENVELOPE(-97.3512,-90.699,50.0077,43.2872)",
   "dcat_centroid": "46.64745,-94.02510000000001",
   "pcdm_memberOf_sm": [
@@ -39,18 +36,15 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll247"
-  ],
-  "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "p16022coll247"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/89346\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/144/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:144\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/144/manifest.json\"}",
   "id": "p16022coll247:144",
   "dct_identifier_sm": [
-    "p16022coll247:144"
+    "UMN_ALMA:9930194240001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:18Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,7 +1,10 @@
 {
   "dct_title_s": "A compleat map of the East Indies : exhibiting the English territorial acquisitions",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:14,000,000 (E 58°--E 118°/N 36°--N 00°) Map of South East Asia and India. Relief shown pictorially. Prime meridian: Ferro. Plate 27. Likely originally from: A new atlas of the mundane system, or, of geography and cosmography ... /S. Dunn. London : R. Sayer, 1774. Dimensions: 31 x 43 centimeters"
+    "Cartographic Details: Scale approximately 1:14,000,000 (E 58°--E 118°/N 36°--N 00°) Map of South East Asia and India. Relief shown pictorially. Prime meridian: Ferro. Plate 27. Likely originally from: A new atlas of the mundane system, or, of geography and cosmography ... /S. Dunn. London : R. Sayer, 1774.",
+    "31 x 43 centimeters",
+    "Scale approximately 1:14,000,000",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Dunn, Samuel, -1794"
   ],
   "dct_publisher_sm": [
-    "Printed by R. Sayer, 53 Fleet Street"
+    "Printed by R. Sayer, 53 Fleet Street ; London"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -19,18 +22,17 @@
   "dcat_keyword_sm": [
     "South Asia Maps",
     "East Indies Maps",
-    "Southeast Asia Maps"
+    "Southeast Asia Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1786?"
   ],
-  "gbl_indexYear_im": [
-    "1786"
+  "dct_issued_s": "1786?",
+  "dct_spatial_sm": [
+    "Asia"
   ],
-  "gbl_dateRange_drsim": [
-    "[1786 TO 1786]"
-  ],
-  "locn_geometry": "ENVELOPE(58,118,36,0)",
+  "locn_geometry": "POLYGON((58 36, 118 36, 118 0, 58 0, 58 36))",
   "dcat_bbox": "ENVELOPE(58,118,36,0)",
   "dcat_centroid": "18.0,88.0",
   "pcdm_memberOf_sm": [
@@ -38,18 +40,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/200816\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/143/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:143\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/143/manifest.json\"}",
   "id": "p16022coll246:143",
   "dct_identifier_sm": [
-    "p16022coll246:143"
+    "UMN_ALMA:9920996580001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:39Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

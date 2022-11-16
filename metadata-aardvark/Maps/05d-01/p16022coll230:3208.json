@@ -1,12 +1,10 @@
 {
   "dct_title_s": "Lyonnais, Savoie et Dauphiné",
-  "dct_alternative_sm": [
-    "Lyonnais, Savoie et Dauphiné"
-  ],
   "dct_description_sm": [
-    "Note de l'editeur - l'editeur recevra avec reconnaissance toutes les communications ou renseignements qui lui seront adressés dans le but d'améliorer et de tenir ä jour sa collection de cartes routiéres.; \"Avis important. - dans le massif de la Grande Charireuse les routes sont souvent assez étroites, construites en corniche et demandent des précautions dans la conduite des voitures.\"",
+    "Note de l'editeur - l'editeur recevra avec reconnaissance toutes les communications ou renseignements qui lui seront adressés dans le but d'améliorer et de tenir ä jour sa collection de cartes routiéres.; \"Avis important. - dans le massif de la Grande Charireuse les routes sont souvent assez étroites, construites en corniche et demandent des précautions dans la conduite des voitures.\"",
     "83 x 61 centimeters",
-    "Scale 1:250000"
+    "Scale 1:250000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "fre"
@@ -15,7 +13,7 @@
     "Cartes Taride (Firm)"
   ],
   "dct_publisher_sm": [
-    "A. Taride  "
+    "A. Taride (Paris)"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -25,34 +23,29 @@
     "1922"
   ],
   "dct_issued_s": "1922",
-  "gbl_indexYear_im": [
-    "1922"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1922 TO 1922]"
-  ],
   "dct_spatial_sm": [
     "Lyon"
   ],
-  "locn_geometry": "ENVELOPE(-5.4833,8.3167,51.4,42.2667)",
+  "locn_geometry": "POLYGON((-5.4833 51.4, 8.3167 51.4, 8.3167 42.2667, -5.4833 42.2667, -5.4833 51.4))",
   "dcat_bbox": "ENVELOPE(-5.4833,8.3167,51.4,42.2667)",
   "dcat_centroid": "46.833349999999996,1.4167000000000005",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3208/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3208\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3208/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3208\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3208/manifest.json\"}",
   "id": "p16022coll230:3208",
   "dct_identifier_sm": [
     "UMN_ALMA:9943096420001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:28Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

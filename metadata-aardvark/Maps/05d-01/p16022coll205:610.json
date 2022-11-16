@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Rand McNally pocket map of Chicago Loop district",
-  "dct_alternative_sm": [
-    "Rand McNally pocket map of Chicago Loop district"
+  "dct_description_sm": [
+    "Presented to the bankers attending the 50th [1924?] annual convention of the American Bankers Association ... ; Shows area from Grand Ave. to 13th St. and Desplaines St. to St. Clair St.; Includes index to streets.; Verso includes index to Chicago Loop District that covers buildings, business houses, hotels, newspaper offices, railroad stations, theaters.; \"11R23\"--lower right.",
+    "47 x 31 centimeters, on sheet 57 x 34 centimeters",
+    "Scale not given",
+    "City Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -26,23 +29,18 @@
     "1924?"
   ],
   "dct_issued_s": "1924?",
-  "gbl_indexYear_im": [
-    "1924"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1924 TO 1924]"
-  ],
   "dct_spatial_sm": [
     "Chicago, Illinois"
   ],
-  "locn_geometry": "ENVELOPE(-87.6522,-87.5994,41.9011,41.8481)",
+  "locn_geometry": "POLYGON((-87.6522 41.9011, -87.5994 41.9011, -87.5994 41.8481, -87.6522 41.8481, -87.6522 41.9011))",
   "dcat_bbox": "ENVELOPE(-87.6522,-87.5994,41.9011,41.8481)",
   "dcat_centroid": "41.8746,-87.6258",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll205"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -54,6 +52,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9954584210001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:21Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

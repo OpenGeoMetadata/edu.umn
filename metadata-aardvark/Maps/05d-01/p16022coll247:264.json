@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Chapman's new sectional map of Minnesota",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:630,000. Shows county boundaries as of 1856-1857. Entered by Silas Chapman. Hand colored. Dimensions: 73 x 57 centimeters"
+    "Cartographic Details: Scale approximately 1:630,000. Shows county boundaries as of 1856-1857. Entered by Silas Chapman. Hand colored.",
+    "73 x 57 centimeters",
+    "1:633,600",
+    "General Minnesota Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -13,31 +16,24 @@
     "J.B. Lippincott & Co."
   ],
   "dct_publisher_sm": [
-    "Dyer & Pasmore"
+    "Dyer & Pasmore;  Milwaukee, Wisconsin 1857"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "County boundaries"
-  ],
   "dcat_keyword_sm": [
-    "Minnesota Surveys Maps"
+    "Minnesota Surveys Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1857"
   ],
-  "gbl_indexYear_im": [
-    "1857"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1857 TO 1857]"
-  ],
+  "dct_issued_s": "1857",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-95,-91.51,47.1,43.48)",
+  "locn_geometry": "POLYGON((-95 47.1, -91.51 47.1, -91.51 43.48, -95 43.48, -95 47.1))",
   "dcat_bbox": "ENVELOPE(-95,-91.51,47.1,43.48)",
   "dcat_centroid": "45.29,-93.255",
   "pcdm_memberOf_sm": [
@@ -45,18 +41,15 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll247"
-  ],
-  "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "p16022coll247"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/188727\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/264/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:264\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/264/manifest.json\"}",
   "id": "p16022coll247:264",
   "dct_identifier_sm": [
-    "p16022coll247:264"
+    "UMN_ALMA:9944520750001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:28Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

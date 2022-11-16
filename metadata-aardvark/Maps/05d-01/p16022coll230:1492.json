@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Relief map, State of Kentucky",
-  "dct_alternative_sm": [
-    "Relief map, State of Kentucky"
+  "dct_description_sm": [
+    "Relief shown by shading and spot heights.; \"1924.\"; \"Base from U.S. Geological Survey map of the State.\"; \"Elevations of county seats are shown by figures adjacent to names. Vertical figures show elevations instrumentally determined and slanting figures show elevations estimated.\"",
+    "61 x 137 centimeters, on sheet 71 x 152 centimeters",
+    "Scale 1:500,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -16,20 +19,18 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "gbl_dateRange_drsim": [
-    "[* TO *]"
-  ],
   "dct_spatial_sm": [
     "Kentucky"
   ],
-  "locn_geometry": "ENVELOPE(-89.5667,-81.95,39.1333,36.4833)",
+  "locn_geometry": "POLYGON((-89.5667 39.1333, -81.95 39.1333, -81.95 36.4833, -89.5667 36.4833, -89.5667 39.1333))",
   "dcat_bbox": "ENVELOPE(-89.5667,-81.95,39.1333,36.4833)",
   "dcat_centroid": "37.8083,-85.75835000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -41,6 +42,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9974064409501701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:56Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,7 +1,10 @@
 {
   "dct_title_s": "National cemetery, Andersonville, Ga",
-  "dct_alternative_sm": [
-    "National cemetery, Andersonville, Ga"
+  "dct_description_sm": [
+    "Negative blueprint photocopy.; \"...Aug. 27, 1892. Revised May 4, 1912.\"; Includes location map of area including train depot, hospital, fort, prison, and cemetery.; \"3\"--upper right.",
+    "25 x 44 centimeters, on sheet 60 x 65 centimeters",
+    "Scale approximately 1:945",
+    "City Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "United States. Army. Office of the Quarter Master General"
   ],
   "dct_publisher_sm": [
-    "(Georgiä)"
+    "(Georgiä)"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -23,20 +26,15 @@
     "1912"
   ],
   "dct_issued_s": "1912",
-  "gbl_indexYear_im": [
-    "1912"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1912 TO 1912]"
-  ],
-  "locn_geometry": "ENVELOPE(-84.1336,-84.1289,32.2058,32.2011)",
+  "locn_geometry": "POLYGON((-84.1336 32.2058, -84.1289 32.2058, -84.1289 32.2011, -84.1336 32.2011, -84.1336 32.2058))",
   "dcat_bbox": "ENVELOPE(-84.1336,-84.1289,32.2058,32.2011)",
   "dcat_centroid": "32.203450000000004,-84.13125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll205"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -48,6 +46,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9912907380001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:55Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

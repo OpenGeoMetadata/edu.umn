@@ -6,14 +6,18 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3794",
   "solr_geom": "ENVELOPE(-25.25,-24.5833,37.5,36.8333)",
-  "solr_year_i": "1905",
   "dc_creator_sm": [
     "Vidal, A. T. E. (Alexander Thomas Emeric), 1792-1863"
   ],
-  "dc_description_s": "Large corrections Mar. 1873--center below neat line & \"Small corrections III-98, X-05.\"; \"Sold by J.D. Potter, Agent for the Admiralty Charts, 145 Minories.\"; Relief shown by hachures, soundings, and spot heights.; Includes 2 cross sections and 4 insets: Formigas -- Dollabarat -- [San Lourenco] -- [Villa do Porto Bay].; North oriented to the upper left.|61 x 45 centimeters, on sheet 66 x 48 centimeters|Scale not given.",
+  "dc_description_s": "Large corrections Mar. 1873--center below neat line & \"Small corrections III-98, X-05.\"; \"Sold by J.D. Potter, Agent for the Admiralty Charts, 145 Minories.\"; Relief shown by hachures, soundings, and spot heights.; Includes 2 cross sections and 4 insets: Formigas -- Dollabarat -- [San Lourenco] -- [Villa do Porto Bay].; North oriented to the upper left.|61 x 45 centimeters, on sheet 66 x 48 centimeters|Scale not given.|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3794/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3794\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3794/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:25:37Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3794\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3794/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Portugal",
+    "Azores",
+    "Europe"
+  ],
+  "layer_modified_dt": "2022-09-28T02:15:05Z",
   "dc_language_sm": [
     "eng"
   ],

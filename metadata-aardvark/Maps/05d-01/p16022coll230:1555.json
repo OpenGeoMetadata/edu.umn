@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Perrine's new topographical war map of the southern states : taken from the latest government surveys and official reports",
-  "dct_alternative_sm": [
-    "Perrine's new topographical war map of the southern states : taken from the latest government surveys and official reports"
+  "dct_description_sm": [
+    "Shows Missouri, Kentucky, West Virginia, Virginia, North Carolina, South Carolina, Georgia, Florida, Alabama, Mississippi, Louisiana, Arkansas, and Tennessee.; \"Entered according to Act of Congress, in the year 1863, by C. O. Perrine, in the Clerk's Office of the District of the U.S. for the State of Indiana.\"; From: A concise history of the war by John S. Bishop. Indianapolis, index : C.O. Perrine, 1864.; Inset: Southern part of Florida.",
+    "72 x 95 centimeters",
+    "Scale approximately 1:1,950,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -20,23 +23,18 @@
     "1863"
   ],
   "dct_issued_s": "1863",
-  "gbl_indexYear_im": [
-    "1863"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1863 TO 1863]"
-  ],
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-94.8667,-75.2,39.8333,25.1833)",
+  "locn_geometry": "POLYGON((-94.8667 39.8333, -75.2 39.8333, -75.2 25.1833, -94.8667 25.1833, -94.8667 39.8333))",
   "dcat_bbox": "ENVELOPE(-94.8667,-75.2,39.8333,25.1833)",
   "dcat_centroid": "32.5083,-85.03335",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -48,6 +46,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9962986510001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:33Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

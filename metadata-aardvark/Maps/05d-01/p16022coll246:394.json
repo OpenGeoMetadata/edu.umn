@@ -1,7 +1,10 @@
 {
   "dct_title_s": "L'Asie diviseáe en ses principaux Empires et Royaumes",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:20,000,000. Text in right margin. Dimensions: 49 x 54 centimeters"
+    "Cartographic Details: Scale approximately 1:20,000,000. Text in right margin.",
+    "49 x 54 centimeters",
+    "Scale approximately 1:20,000,000",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "fre"
@@ -11,7 +14,7 @@
     "Sanson, Nicolas, 1600-1667"
   ],
   "dct_publisher_sm": [
-    "Chez l'Auteur"
+    "Chez l'Auteur; Paris"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -24,13 +27,11 @@
   "dct_temporal_sm": [
     "1749"
   ],
-  "gbl_indexYear_im": [
-    "1749"
+  "dct_issued_s": "1749",
+  "dct_spatial_sm": [
+    "Asia"
   ],
-  "gbl_dateRange_drsim": [
-    "[1749 TO 1749]"
-  ],
-  "locn_geometry": "ENVELOPE(25.01,-168.66,77.05,-9.8)",
+  "locn_geometry": "POLYGON((25.01 77.05, -168.66 77.05, -168.66 -9.8, 25.01 -9.8, 25.01 77.05))",
   "dcat_bbox": "ENVELOPE(25.01,-168.66,77.05,-9.8)",
   "dcat_centroid": "33.625,-71.825",
   "pcdm_memberOf_sm": [
@@ -38,18 +39,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/200803\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/394/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:394\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/394/manifest.json\"}",
   "id": "p16022coll246:394",
   "dct_identifier_sm": [
-    "p16022coll246:394"
+    "UMN_ALMA:9936568240001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:23Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

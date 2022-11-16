@@ -1,10 +1,15 @@
 {
   "dct_title_s": "Sketch map shewing the principal roads through the Punjab.",
+  "dct_description_sm": [
+    "Cartographic Details: Scale 1:1,013,760. 1 in. = 16 miles. Initial publication, 1854. Improvements and corrections, 1859.",
+    "Scale 1:1,013,760; 1 inch = 16 miles.",
+    "Ames Library of South Asia Maps"
+  ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_publisher_sm": [
-    "Surveyor General's Office"
+    "Surveyor General's Office; Calcutta"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -20,16 +25,11 @@
   "dct_temporal_sm": [
     "1859"
   ],
-  "gbl_indexYear_im": [
-    "1859"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1859 TO 1859]"
-  ],
+  "dct_issued_s": "1859",
   "dct_spatial_sm": [
     "India"
   ],
-  "locn_geometry": "ENVELOPE(73.86,76.91,32.48,29.53)",
+  "locn_geometry": "POLYGON((73.86 32.48, 76.91 32.48, 76.91 29.53, 73.86 29.53, 73.86 32.48))",
   "dcat_bbox": "ENVELOPE(73.86,76.91,32.48,29.53)",
   "dcat_centroid": "31.005,75.38499999999999",
   "pcdm_memberOf_sm": [
@@ -37,18 +37,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/229461\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/373/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:373\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/373/manifest.json\"}",
   "id": "p16022coll246:373",
   "dct_identifier_sm": [
-    "p16022coll246:373"
+    "UMN_ALMA:9931710470001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:41Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Partie occidentale du Canada contenant les cinqs grands lac [sic], avec les pays criconvoisins [sic]",
-  "dct_alternative_sm": [
-    "Partie occidentale du Canada contenant les cinqs grands lac [sic], avec les pays criconvoisins [sic]"
+  "dct_description_sm": [
+    "Two misspellings in title differ from copy described by Kershaw, so this is presumably an earlier, uncorrected state.; Above neat line at left: Liv. XV, XVI et XVII.; Above neat line at right: No. 45.; Below neat line at center: \"Long. du Meri. de Paris.\"",
+    "20.9 x 31.7 centimeters",
+    "Scale 1:7,500,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "fre"
@@ -20,34 +23,29 @@
     "1780"
   ],
   "dct_issued_s": "1780",
-  "gbl_indexYear_im": [
-    "1780"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1780 TO 1780]"
-  ],
   "dct_spatial_sm": [
     "Canada"
   ],
-  "locn_geometry": "ENVELOPE(-92.1,-75.5333,49.0167,41.15)",
+  "locn_geometry": "POLYGON((-92.1 49.0167, -75.5333 49.0167, -75.5333 41.15, -92.1 41.15, -92.1 49.0167))",
   "dcat_bbox": "ENVELOPE(-92.1,-75.5333,49.0167,41.15)",
   "dcat_centroid": "45.083349999999996,-83.81665",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/833/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:833\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/833/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:833\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/833/manifest.json\"}",
   "id": "p16022coll230:833",
   "dct_identifier_sm": [
     "UMN_ALMA:9975246598601701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:55Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

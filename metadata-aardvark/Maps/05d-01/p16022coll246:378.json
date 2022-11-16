@@ -1,7 +1,10 @@
 {
   "dct_title_s": "An accurate map of Hindostan or India, from the best authorities",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:9,180,000 (E 64°--E 102°/N 36°--N 4°).Relief shown pictorially. Appears in the author's Carey's general atlas, improved and enlarged. 1817. Name burnished out below title, probably J.T. Scott, sculp. In top right margin: 53. Dimensions: 38 x 40 centimeters"
+    "Cartographic Details: Scale approximately 1:9,180,000 (E 64°--E 102°/N 36°--N 4°).Relief shown pictorially. Appears in the author's Carey's general atlas, improved and enlarged. 1817. Name burnished out below title, probably J.T. Scott, sculp. In top right margin: 53.",
+    "38 x 40 centimeters",
+    "Scale approximately 1:9,180,000",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "M. Carey & Sons."
   ],
   "dct_publisher_sm": [
-    "M. Carey & Son"
+    "M. Carey & Son; Philadelphia, Pennsylvania"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -19,21 +22,17 @@
   ],
   "dcat_keyword_sm": [
     "South Asia Maps Early Works to 1800",
-    "India Maps Early Works to 1800"
+    "India Maps Early Works to 1800",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1817"
   ],
-  "gbl_indexYear_im": [
-    "1817"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1817 TO 1817]"
-  ],
+  "dct_issued_s": "1817",
   "dct_spatial_sm": [
     "India"
   ],
-  "locn_geometry": "ENVELOPE(64,102,36,4)",
+  "locn_geometry": "POLYGON((64 36, 102 36, 102 4, 64 4, 64 36))",
   "dcat_bbox": "ENVELOPE(64,102,36,4)",
   "dcat_centroid": "20.0,83.0",
   "pcdm_memberOf_sm": [
@@ -41,18 +40,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/200818\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/378/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:378\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/378/manifest.json\"}",
   "id": "p16022coll246:378",
   "dct_identifier_sm": [
-    "p16022coll246:378"
+    "UMN_ALMA:9957000740001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:25Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

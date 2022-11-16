@@ -1,12 +1,10 @@
 {
   "dct_title_s": "Baja California ...",
-  "dct_alternative_sm": [
-    "Baja California ..."
-  ],
   "dct_description_sm": [
     "Relief shown by contours, form lines and spot heights; depths by isolines and soundings.; \"North America 1:1,000,000,\" \"South [sic] America 1:1,000,000.\"; Each sheet includes \"Synoptical index,\" reliability diagram and index to adjoining sheets.",
     "57 x 71 centimeters and 56 x 63 centimeters",
-    "Scale 1:1,000,000"
+    "Scale 1:1,000,000",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -15,7 +13,7 @@
     "American Geographical Society of New York"
   ],
   "dct_publisher_sm": [
-    "American Geographical Society of New York"
+    "American Geographical Society of New York (New York), 1924"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -24,35 +22,30 @@
   "dct_temporal_sm": [
     "1924-1928"
   ],
-  "dct_issued_s": "1924-1928",
-  "gbl_indexYear_im": [
-    "1924"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1924 TO 1928]"
-  ],
+  "dct_issued_s": "1924 - 1928",
   "dct_spatial_sm": [
     "Baja California"
   ],
-  "locn_geometry": "ENVELOPE(-118.5,-108.0,33.0,22.6667)",
+  "locn_geometry": "POLYGON((-118.5 33.0, -108.0 33.0, -108.0 22.6667, -118.5 22.6667, -118.5 33.0))",
   "dcat_bbox": "ENVELOPE(-118.5,-108.0,33.0,22.6667)",
   "dcat_centroid": "27.83335,-113.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/2894/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2894\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2894/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2894\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2894/manifest.json\"}",
   "id": "p16022coll230:2894",
   "dct_identifier_sm": [
     "UMN_ALMA:9973979307101701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:41Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

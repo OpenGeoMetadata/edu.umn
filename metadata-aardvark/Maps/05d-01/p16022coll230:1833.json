@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Official highway service map of Wisconsin, 1928",
-  "dct_alternative_sm": [
-    "Official highway service map of Wisconsin, 1928"
+  "dct_description_sm": [
+    "Includes distance finding table and explanation of its use.; \"This map issued weekly during the construction season by the Wisconsin Highway Commission.\"; Lacking color overprints.; 17 city insets.",
+    "111 x 95 centimeters",
+    "Scale [approximately 1:506,880] 1 inch= 8 miles",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -19,20 +22,18 @@
   "dcat_keyword_sm": [
     "Roads"
   ],
-  "gbl_dateRange_drsim": [
-    "[* TO *]"
-  ],
   "dct_spatial_sm": [
     "Wisconsin"
   ],
-  "locn_geometry": "ENVELOPE(-92.9,-86.75,47.1167,42.5)",
+  "locn_geometry": "POLYGON((-92.9 47.1167, -86.75 47.1167, -86.75 42.5, -92.9 42.5, -92.9 47.1167))",
   "dcat_bbox": "ENVELOPE(-92.9,-86.75,47.1167,42.5)",
   "dcat_centroid": "44.808350000000004,-89.825",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -44,6 +45,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9974757604201701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:44Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

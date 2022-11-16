@@ -6,11 +6,14 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3549",
   "solr_geom": "ENVELOPE(46.4833,87.3,55.4333,29.1667)",
-  "solr_year_i": "1885",
-  "dc_description_s": "Includes legend, 4 structure sections and \"map showing the sources of information from which the geologic map was compiled.\"||1:4,752,000; Scale, circa 75 statute miles = 1 inch.",
+  "dc_description_s": "Includes legend, 4 structure sections and \"map showing the sources of information from which the geologic map was compiled.\"|1:4,752,000; Scale, circa 75 statute miles = 1 inch.|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3549/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3549\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3549/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:32:09Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3549\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3549/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Afghanistan",
+    "Asia"
+  ],
+  "layer_modified_dt": "2022-09-28T02:14:48Z",
   "dc_language_sm": [
     "eng"
   ],

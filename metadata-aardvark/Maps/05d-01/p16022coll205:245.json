@@ -1,10 +1,10 @@
 {
   "dct_title_s": "Watson's new map of New York and adjacent cities.",
-  "dct_alternative_sm": [
-    "Watson's new map of New York and adjacent cities."
-  ],
   "dct_description_sm": [
-    "Relief shown by hachures.  Shows radial distances from City Hall.  Also shows wards and elevated rail lines.  Includes text, street index, directories, inset of northwestern Bronx, and ill. Dimensions: 144 x 93 centimeters"
+    "Relief shown by hachures.  Shows radial distances from City Hall.  Also shows wards and elevated rail lines.  Includes text, street index, directories, inset of northwestern Bronx, and ill.",
+    "144 x 93 centimeters",
+    "Scale approximately 1:18,400",
+    "City Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -30,34 +30,29 @@
     "1889"
   ],
   "dct_issued_s": "1889",
-  "gbl_indexYear_im": [
-    "1889"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1889 TO 1889]"
-  ],
   "dct_spatial_sm": [
     "New York, New York"
   ],
-  "locn_geometry": "ENVELOPE(-74.01,-73.8,40.88,40.68)",
+  "locn_geometry": "POLYGON((-74.01 40.88, -73.8 40.88, -73.8 40.68, -74.01 40.68, -74.01 40.88))",
   "dcat_bbox": "ENVELOPE(-74.01,-73.8,40.88,40.68)",
   "dcat_centroid": "40.78,-73.905",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll205"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll205/id/245/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:245\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/245/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:245\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/245/manifest.json\"}",
   "id": "p16022coll205:245",
   "dct_identifier_sm": [
     "UMN_ALMA:9931905980001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:52Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

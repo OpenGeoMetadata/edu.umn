@@ -1,7 +1,10 @@
 {
   "dct_title_s": "A plan of Madras and Fort St George.",
   "dct_description_sm": [
-    "Cartographic Details: Scale [1:12,000] Town plan of Madras and Fort St George with references for a few locations throughout the city. Cartouche title. Plate 33 from: Plans of the principal cities in the world / by John Andrews. London : Published by John Stockdale, Ppiccadilly [i.e. Piccadilly], [1792?]. Dimensions: 16 x 23 centimeters"
+    "Cartographic Details: Scale [1:12,000] Town plan of Madras and Fort St George with references for a few locations throughout the city. Cartouche title. Plate 33 from: Plans of the principal cities in the world / by John Andrews. London : Published by John Stockdale, Ppiccadilly [i.e. Piccadilly], [1792?].",
+    "16 x 23 centimeters",
+    "Scale [1:12,000]",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,7 +13,7 @@
     "Andrews, John, 1736-1809"
   ],
   "dct_publisher_sm": [
-    "John Stockdale, Ppiccadilly i.e. Piccadilly"
+    "John Stockdale, Ppiccadilly i.e. Piccadilly ; London"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -24,17 +27,12 @@
   "dct_temporal_sm": [
     "1792?"
   ],
-  "gbl_indexYear_im": [
-    "1792"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1792 TO 1792]"
-  ],
+  "dct_issued_s": "1792?",
   "dct_spatial_sm": [
     "Chennai, Tamil Nadu, India",
     "India"
   ],
-  "locn_geometry": "ENVELOPE(80.2776,80.3001,13.0863,13.064)",
+  "locn_geometry": "POLYGON((80.2776 13.0863, 80.3001 13.0863, 80.3001 13.064, 80.2776 13.064, 80.2776 13.0863))",
   "dcat_bbox": "ENVELOPE(80.2776,80.3001,13.0863,13.064)",
   "dcat_centroid": "13.07515,80.28885",
   "pcdm_memberOf_sm": [
@@ -42,18 +40,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/200773\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/403/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:403\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/403/manifest.json\"}",
   "id": "p16022coll246:403",
   "dct_identifier_sm": [
-    "p16022coll246:403"
+    "UMN_ALMA:9928901790001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:41Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

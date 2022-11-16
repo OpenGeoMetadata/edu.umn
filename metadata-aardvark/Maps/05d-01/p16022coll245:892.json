@@ -1,7 +1,9 @@
 {
   "dct_title_s": "St. Paul, Minn. Plate no. 1, Ward boundaries, 1912",
   "dct_description_sm": [
-    "Cartographic Details: Scale not given. Also shows parks, cemeteries, railroads, and Public Land Survey grid. Dimensions: 19 x 26 centimeters"
+    "Cartographic Details: Scale not given. Also shows parks, cemeteries, railroads, and Public Land Survey grid.",
+    "19 x 26 centimeters",
+    "Minneapolis and St. Paul Maps and Atlases"
   ],
   "dct_language_sm": [
     "eng"
@@ -10,30 +12,20 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_subject_sm": [
-    "Election districts",
-    "Railroads"
-  ],
   "dcat_keyword_sm": [
     "Election Districts Minnesota Saint Paul Maps",
     "Saint Paul (Minn.) Maps",
-    "sprint-mar2020"
+    "Maps"
   ],
   "dct_temporal_sm": [
     "approximately 1912"
   ],
-  "dct_issued_s": "9999",
-  "gbl_indexYear_im": [
-    "1912"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1912 TO 1912]"
-  ],
+  "dct_issued_s": "1912?",
   "dct_spatial_sm": [
     "Saint Paul, Minnesota",
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-93.2084,-93.0044,44.9919,44.8872)",
+  "locn_geometry": "POLYGON((-93.2084 44.9919, -93.0044 44.9919, -93.0044 44.8872, -93.2084 44.8872, -93.2084 44.9919))",
   "dcat_bbox": "ENVELOPE(-93.2084,-93.0044,44.9919,44.8872)",
   "dcat_centroid": "44.93955,-93.10640000000001",
   "pcdm_memberOf_sm": [
@@ -41,18 +33,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll245"
+    "p16022coll245"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/188645\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/892/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:892\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/892/manifest.json\"}",
   "id": "p16022coll245:892",
   "dct_identifier_sm": [
-    "p16022coll245:892"
+    "UMN_ALMA:9919086280001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:58Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

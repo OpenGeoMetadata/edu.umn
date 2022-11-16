@@ -1,7 +1,9 @@
 {
   "dct_title_s": "Mons comme il est aujourdhuy.",
-  "dct_alternative_sm": [
-    "Mons comme il est aujourdhuy."
+  "dct_description_sm": [
+    "18 x 28 centimeters",
+    "Scale not given.",
+    "City Maps"
   ],
   "dct_language_sm": [
     "fre"
@@ -24,34 +26,29 @@
     "1695"
   ],
   "dct_issued_s": "1695",
-  "gbl_indexYear_im": [
-    "1695"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1695 TO 1695]"
-  ],
   "dct_spatial_sm": [
     "Belgium"
   ],
-  "locn_geometry": "ENVELOPE(3.85,4.08,50.5001,50.3601)",
+  "locn_geometry": "POLYGON((3.85 50.5001, 4.08 50.5001, 4.08 50.3601, 3.85 50.3601, 3.85 50.5001))",
   "dcat_bbox": "ENVELOPE(3.85,4.08,50.5001,50.3601)",
   "dcat_centroid": "50.4301,3.965",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll205"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll205/id/322/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:322\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/322/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:322\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/322/manifest.json\"}",
   "id": "p16022coll205:322",
   "dct_identifier_sm": [
     "UMN_ALMA:9947500320001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:11Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

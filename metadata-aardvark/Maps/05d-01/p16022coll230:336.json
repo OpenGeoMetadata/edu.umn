@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Lands wagarne genom sodra delen af Swerige",
   "dct_description_sm": [
-    "Cartographic Details: Scale[ 1:1,100,000] Shows road distances between populated places. Backed on linen. Dimensions: 1 map : color ; 48 x 61 centimeters"
+    "Cartographic Details: Scale[ 1:1,100,000] Shows road distances between populated places. Backed on linen.",
+    "1 map : color ; 48 x 61 centimeters",
+    "Scale [1:1,100,000]",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "swe"
@@ -11,22 +14,16 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Sweden Maps",
-    "bbox-update-mar2020"
+    "Sweden Maps"
   ],
   "dct_temporal_sm": [
     "1792"
   ],
-  "gbl_indexYear_im": [
-    "1792"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1792 TO 1792]"
-  ],
+  "dct_issued_s": "1792",
   "dct_spatial_sm": [
     "Sweden"
   ],
-  "locn_geometry": "ENVELOPE(10.87,19.46,61.38,55.12)",
+  "locn_geometry": "POLYGON((10.87 61.38, 19.46 61.38, 19.46 55.12, 10.87 55.12, 10.87 61.38))",
   "dcat_bbox": "ENVELOPE(10.87,19.46,61.38,55.12)",
   "dcat_centroid": "58.25,15.165",
   "pcdm_memberOf_sm": [
@@ -34,18 +31,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll230"
+    "p16022coll230"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:336\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/336/manifest.json\"}",
   "id": "p16022coll230:336",
   "dct_identifier_sm": [
-    "p16022coll230:336"
+    "UMN_ALMA:9915091500001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:57Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

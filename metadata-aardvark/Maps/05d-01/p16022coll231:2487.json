@@ -1,7 +1,9 @@
 {
   "dct_title_s": "Plat book of Chisago County, Minnesota",
-  "dct_alternative_sm": [
-    "Plat book of Chisago County, Minnesota"
+  "dct_description_sm": [
+    "45 centimeters",
+    "Scales vary.",
+    "Minnesota County Maps, Plat Books, and Atlases"
   ],
   "dct_language_sm": [
     "eng"
@@ -26,34 +28,29 @@
     "1888"
   ],
   "dct_issued_s": "1888",
-  "gbl_indexYear_im": [
-    "1888"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1888 TO 1888]"
-  ],
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-92.16,-92.61,45.75,45.26)",
+  "locn_geometry": "POLYGON((-92.16 45.75, -92.61 45.75, -92.61 45.26, -92.16 45.26, -92.16 45.75))",
   "dcat_bbox": "ENVELOPE(-92.16,-92.61,45.75,45.26)",
   "dcat_centroid": "45.504999999999995,-92.38499999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll231"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll231/id/2487/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:2487\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/2487/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:2487\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/2487/manifest.json\"}",
   "id": "p16022coll231:2487",
   "dct_identifier_sm": [
     "UMN_ALMA:9942076230001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:39Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

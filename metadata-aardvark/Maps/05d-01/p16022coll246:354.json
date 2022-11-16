@@ -1,13 +1,17 @@
 {
   "dct_title_s": "Arabia, Egypt, Abyssinia, Red Sea &c.",
   "dct_description_sm": [
-    "Cartographic Details: Scale [1: 7,000,000]. Imprint derived from the atlas in which this state of the map was issued. Previous state issued in the 1817 edition of\"A New General Atlas\"; engraver's name removed and number added. Numbered 46.\"Drawn and engraved for Thomson's New General Atlas.\" Shows boundaries, rivers, deserts, caravan routes and principal settlements. Relief shown by hachures and shading. Greenwich meridian. Dimensions: 51 x 60 centimeters"
+    "Cartographic Details: Scale [1: 7,000,000]. Imprint derived from the atlas in which this state of the map was issued. Previous state issued in the 1817 edition of\"A New General Atlas\"; engraver's name removed and number added. Numbered 46.\"Drawn and engraved for Thomson's New General Atlas.\" Shows boundaries, rivers, deserts, caravan routes and principal settlements. Relief shown by hachures and shading. Greenwich meridian.",
+    "Is Part Of: New general atlas ...",
+    "51 x 60 centimeters",
+    "Scale [1: 7,000,000]",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_publisher_sm": [
-    "John Thomson & Co."
+    "John Thomson & Co.; Edingurgh"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -17,18 +21,18 @@
     "Arabian Peninsula Maps",
     "Red Sea Region Maps",
     "Arabian Peninsula",
-    "Red Sea Region"
+    "Red Sea Region",
+    "Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1829"
   ],
-  "gbl_indexYear_im": [
-    "1829"
+  "dct_issued_s": "1829",
+  "dct_spatial_sm": [
+    "Asia; Africa"
   ],
-  "gbl_dateRange_drsim": [
-    "[1829 TO 1829]"
-  ],
-  "locn_geometry": "ENVELOPE(23.13,65.75,35.11,5.01)",
+  "locn_geometry": "POLYGON((23.13 35.11, 65.75 35.11, 65.75 5.01, 23.13 5.01, 23.13 35.11))",
   "dcat_bbox": "ENVELOPE(23.13,65.75,35.11,5.01)",
   "dcat_centroid": "20.06,44.44",
   "pcdm_memberOf_sm": [
@@ -36,18 +40,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/229476\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/354/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:354\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/354/manifest.json\"}",
   "id": "p16022coll246:354",
   "dct_identifier_sm": [
-    "p16022coll246:354"
+    "UMN_ALMA:9973943492001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:11Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

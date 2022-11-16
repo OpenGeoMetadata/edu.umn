@@ -1,7 +1,10 @@
 {
   "dct_title_s": "A plan of the north half of the township of Woodstock [Conn.]",
-  "dct_alternative_sm": [
-    "A plan of the north half of the township of Woodstock [Conn.]"
+  "dct_description_sm": [
+    "Cadastral map showing lot numbers, areas, boundaries, and names of property owners.; Facsim. of ms. map.; In lower margin: Those lots contained within [wavy] lines are First Division lands surveyed by Mr. Jno. Butcher, about 1695. The lots contained within [crossed] lines are Second Division lands, surveyed by Mr. Ebenezer Woodward, in the year 1715. And all lines within the [broken rule] lines are Third Division lands surveyed Anno 1738 by Capt. William Chandler. The [diagonal] lines are cross roads from range to range. Delineated by a scale of 80 parts to an inch. May 1st Anno Domini 1772 by Messrs. Nathaniel Child [and others].; In right margin: Note: this is a fac-simile of the original duplicate plot on parchment placed on file with the archives of Woodstock, Conn. ... G.C. Williams.; From: Clarence Winthrop Bowen's The history of Woodstock, Connecticut, 1926-1943.",
+    "50 x 81 centimeters",
+    "Scale approximately 1:18,100",
+    "City Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -26,31 +29,26 @@
     "1926-1943"
   ],
   "dct_issued_s": "1926 - 1943",
-  "gbl_indexYear_im": [
-    "1926"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1926 TO 1943]"
-  ],
-  "locn_geometry": "ENVELOPE(-71.97391,-71.9739,41.94831,41.9483)",
+  "locn_geometry": "POLYGON((-71.97391 41.94831, -71.9739 41.94831, -71.9739 41.9483, -71.97391 41.9483, -71.97391 41.94831))",
   "dcat_bbox": "ENVELOPE(-71.97391,-71.9739,41.94831,41.9483)",
   "dcat_centroid": "41.948305000000005,-71.973905",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll205"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll205/id/486/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:486\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/486/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:486\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/486/manifest.json\"}",
   "id": "p16022coll205:486",
   "dct_identifier_sm": [
     "UMN_ALMA:9917320590001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:53Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

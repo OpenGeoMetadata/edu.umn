@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Post route map of the states of Michigan and Wisconsin : showing post offices with the intermediate distances on mail routes in operation on the 1st of January, 1919",
-  "dct_alternative_sm": [
-    "Post route map of the states of Michigan and Wisconsin : showing post offices with the intermediate distances on mail routes in operation on the 1st of January, 1919"
+  "dct_description_sm": [
+    "Includes indexes to counties in Michigan and Wisconsin, and insets of Isle Royal and Grand Rapids and vicinity.",
+    "sheets 121 x 81 centimeters",
+    "Scale [approximately 1:570,000]",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -24,24 +27,19 @@
     "1919"
   ],
   "dct_issued_s": "1919",
-  "gbl_indexYear_im": [
-    "1919"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1919 TO 1919]"
-  ],
   "dct_spatial_sm": [
     "Michigan",
     "Wisconsin"
   ],
-  "locn_geometry": "ENVELOPE(-92.8833,-82.1333,47.0667,41.55)",
+  "locn_geometry": "POLYGON((-92.8833 47.0667, -82.1333 47.0667, -82.1333 41.55, -92.8833 41.55, -92.8833 47.0667))",
   "dcat_bbox": "ENVELOPE(-92.8833,-82.1333,47.0667,41.55)",
   "dcat_centroid": "44.30835,-87.5083",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
@@ -53,6 +51,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9974759205001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:35Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -6,14 +6,16 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3787",
   "solr_geom": "ENVELOPE(85.0,95.0,23.0,19.0)",
-  "solr_year_i": "1772",
   "dc_creator_sm": [
     "Dalrymple, Alexander, 1737-1808"
   ],
-  "dc_description_s": "Nautical map of northern part of Bengal Bay showing locations and depth by soundings.; Includes notes on tides, high water levels and soundings.; East longitude from Greenwich.; \"Published according to Act of Parliament the 15th September by Alexander Dalrymple, 1772.\"|47 x 61 centimeters|Scale not given",
+  "dc_description_s": "Nautical map of northern part of Bengal Bay showing locations and depth by soundings.; Includes notes on tides, high water levels and soundings.; East longitude from Greenwich.; \"Published according to Act of Parliament the 15th September by Alexander Dalrymple, 1772.\"|47 x 61 centimeters|Scale not given|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3787/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3787\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3787/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:27:46Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3787\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3787/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Asia"
+  ],
+  "layer_modified_dt": "2022-09-28T02:14:09Z",
   "dc_language_sm": [
     "eng"
   ],

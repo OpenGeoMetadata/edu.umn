@@ -6,14 +6,16 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3791",
   "solr_geom": "ENVELOPE(-75.0333,-45.3167,70.4167,62.3)",
-  "solr_year_i": "1892",
   "dc_creator_sm": [
     "National Geographic Society (U.S.)"
   ],
-  "dc_description_s": "Depths shown by soundings.; On verso: \"Peary's north Greenland expedition of 1891-92 : illustrated lecture by civil engineer R.E. Peary, U.S. Navy. Introduction by engineer-in-chief Geo. W. Melville, U.S. Navy. under the auspices of the National Geographic Society, Academy of Music, Washington, D.C., Friday April 17, at 8 pagesm.\" Includes text with ills. of Peary in excavation garb and of his sailing vessel.|39 x 44 centimeters, on sheet 62 x 49 centimeters|Scale approximately 1:56,000,000",
+  "dc_description_s": "Depths shown by soundings.; On verso: \"Peary's north Greenland expedition of 1891-92 : illustrated lecture by civil engineer R.E. Peary, U.S. Navy. Introduction by engineer-in-chief Geo. W. Melville, U.S. Navy. under the auspices of the National Geographic Society, Academy of Music, Washington, D.C., Friday April 17, at 8 pagesm.\" Includes text with ills. of Peary in excavation garb and of his sailing vessel.|39 x 44 centimeters, on sheet 62 x 49 centimeters|Scale approximately 1:56,000,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3791/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3791\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3791/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:23:41Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3791\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3791/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Arctic Ocian"
+  ],
+  "layer_modified_dt": "2022-09-28T02:14:53Z",
   "dc_language_sm": [
     "eng"
   ],

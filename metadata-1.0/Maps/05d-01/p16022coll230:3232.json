@@ -6,18 +6,20 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3232",
   "solr_geom": "ENVELOPE(-4.0,18.0333,52.9833,42.9)",
-  "solr_year_i": "1890",
   "dc_creator_sm": [
     "Henry Gaze & Sons (Firm)"
   ],
-  "dc_description_s": "In lower right: \"John Bartholomew & Co. Edin.\"; Geographic area covered extends east from England to Austria and south from northern Germany to northern Italy.|38 x 46 centimeters|Scale approximately 1:3,300,000",
+  "dc_description_s": "In lower right: \"John Bartholomew & Co. Edin.\"; Geographic area covered extends east from England to Austria and south from northern Germany to northern Italy.|38 x 46 centimeters|Scale approximately 1:3,300,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3232/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3232\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3232/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:26:20Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3232\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3232/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Europe"
+  ],
+  "layer_modified_dt": "2022-09-28T02:16:03Z",
   "dc_language_sm": [
     "eng"
   ],
-  "dc_publisher_s": "H. Gaze & Sons  ",
+  "dc_publisher_s": "H. Gaze & Sons (London)",
   "dct_issued_s": "1890 - 1900",
   "dct_temporal_sm": [
     "1890-1900"

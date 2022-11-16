@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Itasca County, Minnesota : the land 'o' lakes",
   "dct_description_sm": [
-    "Cartographic Details: Scale [1:95,040]. 1 in. = 1 1/2 miles. Dimensions: 57 x 59 centimeters"
+    "Cartographic Details: Scale [1:95,040]. 1 in. = 1 1/2 miles.",
+    "57 x 59 centimeters",
+    "Scale [1:95,040]. 1 inch = 1 1/2 miles.",
+    "Minnesota County Maps, Plat Books, and Atlases"
   ],
   "dct_language_sm": [
     "eng"
@@ -11,7 +14,7 @@
     "Warner, P. C."
   ],
   "dct_publisher_sm": [
-    "General Map Drafting Co. (Indianapolis, Indiana)"
+    "General Map Drafting Co.  (Indianapolis, Indiana)"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -21,23 +24,18 @@
     "Index maps"
   ],
   "dcat_keyword_sm": [
-    "Itasca County (Minn.) Maps"
+    "Itasca County (Minn.) Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1920 - 1929"
   ],
-  "dct_issued_s": "1920",
-  "gbl_indexYear_im": [
-    "1920"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1920 TO 1929]"
-  ],
+  "dct_issued_s": "1920 - 1929",
   "dct_spatial_sm": [
     "Itasca County, Minnesota",
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-94.4165,-93.06,47.899,47.0349)",
+  "locn_geometry": "POLYGON((-94.4165 47.899, -93.06 47.899, -93.06 47.0349, -94.4165 47.0349, -94.4165 47.899))",
   "dcat_bbox": "ENVELOPE(-94.4165,-93.06,47.899,47.0349)",
   "dcat_centroid": "47.46695,-93.73825",
   "pcdm_memberOf_sm": [
@@ -45,15 +43,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll231"
+    "p16022coll231"
+  ],
+  "dct_rights_sm": [
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/188816\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/44/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:44\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/44/manifest.json\"}",
   "id": "p16022coll231:44",
   "dct_identifier_sm": [
-    "p16022coll231:44"
+    "UMN_ALMA:9927495380001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:27Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,27 +1,27 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "p16022coll245:881",
+  "dc_identifier_s": "UMN_ALMA:9932749480001701",
   "dc_rights_s": "Public",
   "dc_title_s": "Map of Minneapolis, 1909. Plate no. 55, Water mains",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll245:881",
   "solr_geom": "ENVELOPE(-93.3286,-93.1998,45.0513,44.9049)",
-  "solr_year_i": "1909",
   "dc_creator_sm": [
     "Minneapolis (Minn.). City Engineers Office",
     "Kirk, Fred W."
   ],
-  "dc_description_s": "Cartographic Details: Scale approximately 1:28,000. \"Copyright, 1906, by Fred W. Kirk.\" \"City Engineers Office, Andrew Rinker, City Engineer.\" On verso: Plate no. 55, water mains. Dimensions: 61 x 40 centimeters",
+  "dc_description_s": "Cartographic Details: Scale approximately 1:28,000. \"Copyright, 1906, by Fred W. Kirk.\" \"City Engineers Office, Andrew Rinker, City Engineer.\" On verso: Plate no. 55, water mains.|61 x 40 centimeters|1:28,000|Minneapolis and St. Paul Maps and Atlases",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/188676\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/881/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:881\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/881/manifest.json\"}",
   "dct_spatial_sm": [
     "Minneapolis, Minnesota",
     "Minnesota"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:34Z",
+  "layer_modified_dt": "2022-09-28T02:15:10Z",
   "dc_language_sm": [
     "eng"
   ],
+  "dct_issued_s": "1909",
   "dct_temporal_sm": [
     "1909"
   ]

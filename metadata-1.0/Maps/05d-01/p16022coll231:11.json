@@ -6,17 +6,18 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll231:11",
   "solr_geom": "ENVELOPE(-95.13,-94.03,45.76,45.28)",
-  "solr_year_i": "1880",
   "dc_creator_sm": [
-    "Warner & Foote; Bracher, William; Bourquin, Frederick, 1808-"
+    "Warner & Foote",
+    "Bracher, William",
+    "Bourquin, Frederick, 1808-"
   ],
-  "dc_description_s": "Cartographic Details: Scale approximately 1:57,000. Facsimile: location of original and date of reproduction unknown. Scale of original [1:45,258], engraved by William Bracher and printed by F. Bourquin, Philadelphia, hand colored by C. Kaufmann and mounted by Smith & Stroup. Summary: Shows land ownership. Dimensions: 101 x 160 centimeters",
+  "dc_description_s": "Cartographic Details: Scale approximately 1:57,000. Facsimile: location of original and date of reproduction unknown. Scale of original [1:45,258], engraved by William Bracher and printed by F. Bourquin, Philadelphia, hand colored by C. Kaufmann and mounted by Smith & Stroup. Summary: Shows land ownership.|1 map on 2 sheets; east sheet and west sheet.|101 x 160 centimeters|Scale approximately 1:57,000|Minnesota County Maps, Plat Books, and Atlases",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll231/id/11/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:11\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/11/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:11\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/11/manifest.json\"}",
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:22Z",
+  "layer_modified_dt": "2022-09-28T02:14:45Z",
   "dc_language_sm": [
     "eng"
   ],

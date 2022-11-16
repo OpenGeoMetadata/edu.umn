@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Map of a portion of the Yukon district North-West Territory with the adjacent northern part of British Columbia to accompany Report of George M. Dawson ... corrected to January 1898",
-  "dct_alternative_sm": [
-    "Map of a portion of the Yukon district North-West Territory with the adjacent northern part of British Columbia to accompany Report of George M. Dawson ... corrected to January 1898"
+  "dct_description_sm": [
+    "Relief shown by contours.; Trails; Indian villages; posts; topography; notes; etc.; First edition, 1889; to accompany report number 629.; Contents: Sheet 1 (275) [Cassiar District] W 132∞ 30' - W 128∞ 30' / N 59∞ 30' - N 56∞ 30' ; 74 x 51 cm.; Sheet 2 (276) [Southern Yukon: Lower Post to Pelly Lakes] W 132∞ 30' - W 128∞ / N 63∞ - N 60∞ ; 74 x 50 cm.; Sheet 3 (277) [Klondike region: Chilkoot Inlet to Upper Pelly River] W 137∞ 30' - W 133∞ / N 63∞ - 59∞ ; 93 x 51 cm.",
+    "93 x 51 centimeters to 74 x 50 centimeters",
+    "Scale 1:506,880",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -20,34 +23,29 @@
     "1898"
   ],
   "dct_issued_s": "1898",
-  "gbl_indexYear_im": [
-    "1898"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1898 TO 1898]"
-  ],
   "dct_spatial_sm": [
     "Canada"
   ],
-  "locn_geometry": "ENVELOPE(-141,-123.8,69.6333,59.9833)",
+  "locn_geometry": "POLYGON((-141 69.6333, -123.8 69.6333, -123.8 59.9833, -141 59.9833, -141 69.6333))",
   "dcat_bbox": "ENVELOPE(-141,-123.8,69.6333,59.9833)",
   "dcat_centroid": "64.8083,-132.4",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/804/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:804\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/804/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:804\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/804/manifest.json\"}",
   "id": "p16022coll230:804",
   "dct_identifier_sm": [
     "UMN_ALMA:9974002885001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:06Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

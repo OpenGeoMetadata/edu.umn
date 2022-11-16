@@ -1,10 +1,10 @@
 {
   "dct_title_s": "The Dermott or tin case map of the city of Washington 1797-8.",
-  "dct_alternative_sm": [
-    "The Dermott or tin case map of the city of Washington 1797-8."
-  ],
   "dct_description_sm": [
-    "Photolithographic reproduction of 1797-8 map.  Publisher from Phillips, P.L. List of maps and views of Washington and District of Columbia, page 23.  Depths shown by soundings.  Shows lot numbers and some street names.  Tracing for photolithography done by H.J. Schneider. -- Cf. Ehrenberg, R.E. Mapping the nation's capital : the Surveyor's Office, 1797-1818. In Quarterly journal of the Library of Congress.--Volume 36, no. 3 (Summer 1979).  Insets: Facsimile within red border, of written statement of Joseph Elgar, March 30, 1854, attesting to the removal of letters signed by George Washington and John Adams -- Printed texts of letters mentioned above, from George Washington, March 2, 1797, and John Adams, July 23, 1798 -- Printed text of approval for publication of the map, May 4 1888, from F.M. Thorn, Superintendent of Coast and Geodetic Survey. Dimensions: 168 x 145 centimeters"
+    "Photolithographic reproduction of 1797-8 map.  Publisher from Phillips, P.L. List of maps and views of Washington and District of Columbia, page 23.  Depths shown by soundings.  Shows lot numbers and some street names.  Tracing for photolithography done by H.J. Schneider. -- Cf. Ehrenberg, R.E. Mapping the nation's capital : the Surveyor's Office, 1797-1818. In Quarterly journal of the Library of Congress.--Volume 36, no. 3 (Summer 1979).  Insets: Facsimile within red border, of written statement of Joseph Elgar, March 30, 1854, attesting to the removal of letters signed by George Washington and John Adams -- Printed texts of letters mentioned above, from George Washington, March 2, 1797, and John Adams, July 23, 1798 -- Printed text of approval for publication of the map, May 4 1888, from F.M. Thorn, Superintendent of Coast and Geodetic Survey.",
+    "168 x 145 centimeters",
+    "Scale approximately 1:7200",
+    "City Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -27,34 +27,29 @@
     "1888"
   ],
   "dct_issued_s": "1888?",
-  "gbl_indexYear_im": [
-    "1888"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1888 TO 1888]"
-  ],
   "dct_spatial_sm": [
     "Washington, District of Columbia"
   ],
-  "locn_geometry": "ENVELOPE(-77.06,-76.96,38.91,38.85)",
+  "locn_geometry": "POLYGON((-77.06 38.91, -76.96 38.91, -76.96 38.85, -77.06 38.85, -77.06 38.91))",
   "dcat_bbox": "ENVELOPE(-77.06,-76.96,38.91,38.85)",
   "dcat_centroid": "38.879999999999995,-77.00999999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll205"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll205/id/393/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:393\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/393/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:393\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/393/manifest.json\"}",
   "id": "p16022coll205:393",
   "dct_identifier_sm": [
     "UMN_ALMA:9931673830001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:34Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

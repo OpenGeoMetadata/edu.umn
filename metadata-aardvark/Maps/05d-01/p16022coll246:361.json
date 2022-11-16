@@ -1,13 +1,17 @@
 {
   "dct_title_s": "A Map of the Peninsula of India from the 19th Degree North Latitude to Cape Comorin MDCCXCII (North Sheet)",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:1,341,000. 90 British Miles 69 1/2 to a Degree = 10.8 cm. Dimensions: 102 x 83 centimeters"
+    "Cartographic Details: Scale approximately 1:1,341,000. 90 British Miles 69 1/2 to a Degree = 10.8 cm.",
+    "Third edition.",
+    "102 x 83 centimeters",
+    "Scale approximately 1:1,341,000; 90 British Miles 69 1/2 to a Degree = 108 centimeters",
+    "Ames Library of South Asia Maps"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_publisher_sm": [
-    "Printed for W. Faden, Geographer to the King and to the Prince of Wales, Charing Cross"
+    "Printed for W. Faden, Geographer to the King and to the Prince of Wales, Charing Cross; London"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -15,21 +19,18 @@
   ],
   "dcat_keyword_sm": [
     "Administrative and Political Divisions Maps",
-    "Administrative and Political Divisions"
+    "Administrative and Political Divisions",
+    "Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
-    "1800-05-10"
-  ],
-  "gbl_indexYear_im": [
     "1800"
   ],
-  "gbl_dateRange_drsim": [
-    "[1800 TO 1800]"
-  ],
+  "dct_issued_s": "1800-05-10",
   "dct_spatial_sm": [
     "India"
   ],
-  "locn_geometry": "ENVELOPE(72,82.06,13.83,7.83)",
+  "locn_geometry": "POLYGON((72 13.83, 82.06 13.83, 82.06 7.83, 72 7.83, 72 13.83))",
   "dcat_bbox": "ENVELOPE(72,82.06,13.83,7.83)",
   "dcat_centroid": "10.83,77.03",
   "pcdm_memberOf_sm": [
@@ -37,18 +38,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll246"
+    "p16022coll246"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/228881\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/361/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:361\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/361/manifest.json\"}",
   "id": "p16022coll246:361",
   "dct_identifier_sm": [
-    "p16022coll246:361"
+    "UMN_ALMA:9973941681201701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:04Z",
+  "gbl_mdModified_dt": "2022-09-28T02:13:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

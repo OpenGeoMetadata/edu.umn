@@ -6,14 +6,16 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3668",
   "solr_geom": "ENVELOPE(24.85,75.0167,42.2167,10.1833)",
-  "solr_year_i": "1779",
   "dc_creator_sm": [
     "Anville, Jean Baptiste Bourguignon d', 1697-1782"
   ],
-  "dc_description_s": "Map 38 from volume 2 of Atlas Universel by P. Santini.|47 x 59 centimeters|Scale [1:5,000,000]",
+  "dc_description_s": "Map 38 from volume 2 of Atlas Universel by P. Santini.|47 x 59 centimeters|Scale [1:5,000,000]|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3668/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3668\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3668/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:30:10Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3668\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3668/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Asia"
+  ],
+  "layer_modified_dt": "2022-09-28T02:14:11Z",
   "dc_language_sm": [
     "fre"
   ],

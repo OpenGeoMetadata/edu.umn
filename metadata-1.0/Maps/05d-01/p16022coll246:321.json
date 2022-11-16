@@ -1,23 +1,26 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "p16022coll246:321",
+  "dc_identifier_s": "UMN_ALMA:9927082250001701",
   "dc_rights_s": "Public",
   "dc_title_s": "Accuratissima totius Asiae tabula : in omnes partes divisa, de nova correcta, ac in lucem edita",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:321",
   "solr_geom": "ENVELOPE(25,-169.31,79.98,-20)",
-  "solr_year_i": "1688",
   "dc_creator_sm": [
     "de Wit, Frederik"
   ],
-  "dc_description_s": "Cartographic Details: Scale not given. Map of Asia from Saudi Arabia, Russia, India, China, Japan to Southeast Asia with relief shown pictorially. Title from decorative cartouche surrounded by figures with camel. Plate from: Atlas sive descriptio terrarum orbis cum indicibus alphabeticis ... / Frederik de Wit. Amsterdam : Frederik de Wit, [1688?]. Dimensions: 46.9 x 55.6 centimeters",
+  "dc_description_s": "Cartographic Details: Scale not given. Map of Asia from Saudi Arabia, Russia, India, China, Japan to Southeast Asia with relief shown pictorially. Title from decorative cartouche surrounded by figures with camel. Plate from: Atlas sive descriptio terrarum orbis cum indicibus alphabeticis ... / Frederik de Wit. Amsterdam : Frederik de Wit, [1688?].|46.9 x 55.6 centimeters|Scale not given.|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/200798\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/321/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:31:24Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:321\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/321/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Asia"
+  ],
+  "layer_modified_dt": "2022-09-28T02:15:57Z",
   "dc_language_sm": [
     "lat"
   ],
-  "dc_publisher_s": "Frederik de Wit",
+  "dc_publisher_s": "Frederik de Wit; Amserdam",
+  "dct_issued_s": "1688?",
   "dct_temporal_sm": [
     "1688?"
   ]

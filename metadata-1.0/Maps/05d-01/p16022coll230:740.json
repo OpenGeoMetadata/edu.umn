@@ -2,20 +2,20 @@
   "geoblacklight_version": "1.0",
   "dc_identifier_s": "UMN_ALMA:9922361840001701",
   "dc_rights_s": "Public",
-  "dc_title_s": "Map of the United States~~compiled from the most authentic sources",
+  "dc_title_s": "Map of the United States : compiled from the most authentic sources",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:740",
   "solr_geom": "ENVELOPE(-125,-67,49,25)",
-  "solr_year_i": "1828",
   "dc_creator_sm": [
     "Thrall, Willis"
   ],
+  "dc_description_s": "Relief shown by hachures.|51 x 68 centimeters|Scale [1:7,500,000]|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/740/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:740\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/740/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:740\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/740/manifest.json\"}",
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:22Z",
+  "layer_modified_dt": "2022-09-28T02:14:22Z",
   "dc_language_sm": [
     "eng"
   ],

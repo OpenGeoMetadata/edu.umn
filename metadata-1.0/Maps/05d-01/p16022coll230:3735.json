@@ -6,14 +6,18 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3735",
   "solr_geom": "ENVELOPE(-28.8333,-27.7,38.8333,38.25)",
-  "solr_year_i": "1905",
   "dc_creator_sm": [
     "Vidal, A. T. E. (Alexander Thomas Emeric), 1792-1863"
   ],
-  "dc_description_s": "Large corrections July 1864--center below neat line & \"Small corrections III-82 ... IX-05\"--lower left.; \"Sold by J.D. Potter, Agent for the Admiralty Charts, 145 Minories.\"; Relief shown by hachures, soundings, and spot heights.; Includes 8 cross sections.; North oriented to the upper left.|46 x 61 centimeters, on sheet 49 x 65 centimeters|Scale not given.",
+  "dc_description_s": "Large corrections July 1864--center below neat line & \"Small corrections III-82 ... IX-05\"--lower left.; \"Sold by J.D. Potter, Agent for the Admiralty Charts, 145 Minories.\"; Relief shown by hachures, soundings, and spot heights.; Includes 8 cross sections.; North oriented to the upper left.|46 x 61 centimeters, on sheet 49 x 65 centimeters|Scale not given.|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/3735/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3735\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3735/manifest.json\"}",
-  "layer_modified_dt": "2022-04-01T15:30:06Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3735\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3735/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Portugal",
+    "Azores",
+    "Europe"
+  ],
+  "layer_modified_dt": "2022-09-28T02:15:05Z",
   "dc_language_sm": [
     "eng"
   ],

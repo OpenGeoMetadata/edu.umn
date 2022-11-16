@@ -1,5 +1,10 @@
 {
   "dct_title_s": "Minneapolis, Saint Paul and vicinity",
+  "dct_description_sm": [
+    "Shows the Minnesota Belt Line & Transfer Railway in red.",
+    "62 x 89 centimeters",
+    "Minneapolis and St. Paul Maps and Atlases"
+  ],
   "dct_language_sm": [
     "eng"
   ],
@@ -14,23 +19,19 @@
     "Real Property Minnesota Minneapolis Suburban Area Maps",
     "Real Property Minnesota Saint Paul Suburban Area Maps",
     "Minneapolis Suburban Area (Minn.) Maps",
-    "Saint Paul Suburban Area (Minn.) Maps"
+    "Saint Paul Suburban Area (Minn.) Maps",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1888?"
   ],
-  "gbl_indexYear_im": [
-    "1888"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1888 TO 1888]"
-  ],
+  "dct_issued_s": "1888?",
   "dct_spatial_sm": [
     "Minneapolis, Minnesota",
     "Saint Paul, Minnesota",
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-93.3936,-92.9885,45.0948,44.8977)",
+  "locn_geometry": "POLYGON((-93.3936 45.0948, -92.9885 45.0948, -92.9885 44.8977, -93.3936 44.8977, -93.3936 45.0948))",
   "dcat_bbox": "ENVELOPE(-93.3936,-92.9885,45.0948,44.8977)",
   "dcat_centroid": "44.99625,-93.19105",
   "pcdm_memberOf_sm": [
@@ -38,18 +39,18 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll245"
+    "p16022coll245"
   ],
   "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/187180\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/898/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:898\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/898/manifest.json\"}",
   "id": "p16022coll245:898",
   "dct_identifier_sm": [
-    "p16022coll245:898"
+    "UMN_ALMA:9937001270001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:58Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,10 +1,10 @@
 {
-  "dct_title_s": "Plan of Portland",
-  "dct_alternative_sm": [
-    "Plan of Portland 1858"
-  ],
+  "dct_title_s": "Plan of Portland 1858",
   "dct_description_sm": [
-    "Relief shown by hachures.  Bar scale in rods.  Streets, wharves, and piers labeled. Dimensions: 31 x 43 centimeters"
+    "Relief shown by hachures.  Bar scale in rods.  Streets, wharves, and piers labeled.",
+    "31 x 43 centimeters",
+    "Scale approximately 1:10,000",
+    "City Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -30,34 +30,29 @@
     "1858"
   ],
   "dct_issued_s": "1858",
-  "gbl_indexYear_im": [
-    "1858"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1858 TO 1858]"
-  ],
   "dct_spatial_sm": [
     "Portland, Maine"
   ],
-  "locn_geometry": "ENVELOPE(-70.28,-70.23,43.66,43.63)",
+  "locn_geometry": "POLYGON((-70.28 43.66, -70.23 43.66, -70.23 43.63, -70.28 43.63, -70.28 43.66))",
   "dcat_bbox": "ENVELOPE(-70.28,-70.23,43.66,43.63)",
   "dcat_centroid": "43.644999999999996,-70.255",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll205"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll205/id/290/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:290\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/290/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:290\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/290/manifest.json\"}",
   "id": "p16022coll205:290",
   "dct_identifier_sm": [
     "UMN_ALMA:9962951340001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:13Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,19 +1,20 @@
 {
   "dct_title_s": "A map of Scotland : divided into counties, shewing the principal roads, railways, rivers, canals, lochs, mountains, islands, &c",
-  "dct_alternative_sm": [
-    "A map of Scotland : divided into counties, shewing the principal roads, railways, rivers, canals, lochs, mountains, islands, &c"
-  ],
   "dct_description_sm": [
     "Cartographic Details: Scale [1:316,800]. 1 in. = 5 mi. (W 8°--W 2°N 60°--N 54°).Relief shown by hachures. Illustration: View of Melrose Abbey / drawn by T. Allom, engraved by H. Griffiths.Originally published in 1 sheet (?).",
-    "",
     "color, dissected, mounted on cloth, and bound in 3 volumes ; 179 x 124 cm.; sheet",
-    "Scale [1:316,800]. 1 inch = 5 miles"
+    "Scale [1:316,800]. 1 inch = 5 miles",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Carrington, E. A.; Carrington, G. W.; Dower, John, active 1838-1846?; Harwood, T.; S. Lewis and Co. (London, England)"
+    "Carrington, E. A.",
+    "Carrington, G. W.",
+    "Dower, John, active 1838-1846?",
+    "Harwood, T.",
+    "S. Lewis and Co. (London, England)"
   ],
   "dct_publisher_sm": [
     "S. Lewis & Co. (London)"
@@ -32,31 +33,30 @@
     "1841"
   ],
   "dct_issued_s": "1841",
-  "gbl_indexYear_im": [
-    "1841"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1841 TO 1841]"
-  ],
   "dct_spatial_sm": [
-    "Scotland"
+    "Scotland",
+    "United Kingdom"
   ],
+  "locn_geometry": "POLYGON((-8 60, -2 60, -2 54, -8 54, -8 60))",
+  "dcat_bbox": "ENVELOPE(-8,-2,60,54)",
+  "dcat_centroid": "57.0,-5.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/74/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:74\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/74/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:74\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/74/manifest.json\"}",
   "id": "p16022coll230:74",
   "dct_identifier_sm": [
     "UMN_ALMA:9921027760001701"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:39:53Z",
+  "gbl_mdModified_dt": "2022-09-28T02:14:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

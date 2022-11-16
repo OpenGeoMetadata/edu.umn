@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Superior National Forest, Minnesota, 4th principal meridian, 1934",
   "dct_description_sm": [
-    "Cartographic Details: Scale approximately 1:250,000. \"F.A. Silcox, forester.\" Dimensions: 50 x 81 centimeters"
+    "Cartographic Details: Scale approximately 1:250,000. \"F.A. Silcox, forester.\"",
+    "50 x 81 centimeters",
+    "1:250,000",
+    "General Minnesota Maps"
   ],
   "dct_language_sm": [
     "eng"
@@ -16,28 +19,24 @@
     "Silcox, Ferdinand Augustus, 1882-1939"
   ],
   "dct_publisher_sm": [
-    "U.S. Dept. of Agriculture, Forest Service"
+    "U.S. Dept. of Agriculture, Forest Service;  United States"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Superior National Forest (Minn.) Maps 1934"
+    "Superior National Forest (Minn.) Maps 1934",
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1934"
   ],
-  "gbl_indexYear_im": [
-    "1934"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1934 TO 1934]"
-  ],
+  "dct_issued_s": "1934",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-92.5725,-89.9863,48.1631,47.34)",
+  "locn_geometry": "POLYGON((-92.5725 48.1631, -89.9863 48.1631, -89.9863 47.34, -92.5725 47.34, -92.5725 48.1631))",
   "dcat_bbox": "ENVELOPE(-92.5725,-89.9863,48.1631,47.34)",
   "dcat_centroid": "47.75155,-91.27940000000001",
   "pcdm_memberOf_sm": [
@@ -45,18 +44,15 @@
   ],
   "dct_isPartOf_sm": [
     "05d-01",
-    "05d-p16022coll247"
-  ],
-  "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization: University of Minnesota Libraries, John R. Borchert Map Library. S-76 Wilson Library, 309 19th Ave S, Minneapolis, MN 55455; https://www.lib.umn.edu/borchert"
+    "p16022coll247"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/196948\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/146/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:146\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/146/manifest.json\"}",
   "id": "p16022coll247:146",
   "dct_identifier_sm": [
-    "p16022coll247:146"
+    "UMN_ALMA:9937509630001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:21Z",
+  "gbl_mdModified_dt": "2022-09-28T02:16:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

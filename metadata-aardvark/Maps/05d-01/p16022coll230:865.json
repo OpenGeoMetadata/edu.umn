@@ -1,7 +1,10 @@
 {
   "dct_title_s": "Map showing some of the canoe routes and portages in Quetico Forest Reserve, Ontario, Canada and Superior National Forest, Ely, Minnesota reached via the Duluth & Iron Range Rail Road",
-  "dct_alternative_sm": [
-    "Map showing some of the canoe routes and portages in Quetico Forest Reserve, Ontario, Canada and Superior National Forest, Ely, Minnesota reached via the Duluth & Iron Range Rail Road"
+  "dct_description_sm": [
+    "At top of map: From the Wilderness Outfitters, Complete Outfitting Service, at Ely, Minnesota--\"Where the Wilderness Begins\".; Includes text and inset of \"Duluth & Iron Range Railroad Company, Vermilion route.\"; Textual route descriptions on verso with title: Some of the American canoe trips starting and ending at Ely--Gateway to Superior National Forest and Canadian Wilderness.; On verso: Before taking any of the trips outlined, obtain information from the Wilderness Outfitters, the secretary of the Ely Commercial Club, or the U.S. Forest Service, Ely, Minnesota.; \"27M 4-29-Wafco\".",
+    "46 x 84 centimeters",
+    "Scale approximately 1:206,300",
+    "General Map Collection"
   ],
   "dct_language_sm": [
     "eng"
@@ -22,31 +25,26 @@
     "1929"
   ],
   "dct_issued_s": "1929?",
-  "gbl_indexYear_im": [
-    "1929"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1929 TO 1929]"
-  ],
-  "locn_geometry": "ENVELOPE(-92.5833,-90.7333,48.7667,47.7333)",
+  "locn_geometry": "POLYGON((-92.5833 48.7667, -90.7333 48.7667, -90.7333 47.7333, -92.5833 47.7333, -92.5833 48.7667))",
   "dcat_bbox": "ENVELOPE(-92.5833,-90.7333,48.7667,47.7333)",
   "dcat_centroid": "48.25,-91.6583",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "05d-01"
+    "05d-01",
+    "p16022coll230"
   ],
   "dct_rights_sm": [
     "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll230/id/865/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:865\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/865/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:865\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/865/manifest.json\"}",
   "id": "p16022coll230:865",
   "dct_identifier_sm": [
     "UMN_ALMA:9965565520001701"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:43Z",
+  "gbl_mdModified_dt": "2022-09-28T02:15:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }
