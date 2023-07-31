@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Frémont, John Charles, 1813-1890"
+    "Frémont, John Charles, 1813-1890"
   ],
   "dct_publisher_sm": [
     "Gales and Seaton? (Washington,  D.C.?)"
@@ -21,12 +21,19 @@
   ],
   "dcat_keyword_sm": [
     "Discoveries in Geography",
-    "American"
+    "American",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1845?"
   ],
   "dct_issued_s": "1845?",
+  "gbl_indexYear_im": [
+    "1845"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1845 TO 1845]"
+  ],
   "dct_spatial_sm": [
     "United States"
   ],
@@ -50,6 +57,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9960715960001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:01Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

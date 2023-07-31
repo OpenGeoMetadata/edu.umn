@@ -22,12 +22,19 @@
   "dcat_keyword_sm": [
     "Military Reservations",
     "Indian Reservations",
-    "Railroads"
+    "Railroads",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1879"
   ],
   "dct_issued_s": "1879",
+  "gbl_indexYear_im": [
+    "1879"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1879 TO 1879]"
+  ],
   "dct_spatial_sm": [
     "Nevada"
   ],
@@ -51,6 +58,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9973999689701701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:44Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

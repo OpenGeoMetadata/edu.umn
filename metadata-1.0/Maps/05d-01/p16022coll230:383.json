@@ -5,7 +5,8 @@
   "dc_title_s": "Stockholms hamn : Stockholm harbour, skala 1:15000",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:383",
-  "solr_geom": "ENVELOPE(17.94333333,36.21444444,59.36388889,59.29527778)",
+  "solr_geom": "ENVELOPE(18.027375,18.224855,59.3939,59.301902)",
+  "solr_year_i": "1928",
   "dc_creator_sm": [
     "Sjofartsverket."
   ],
@@ -13,10 +14,10 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:383\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/383/manifest.json\"}",
   "dct_spatial_sm": [
-    "Stockholm, Sweden",
+    "Sweden--Stockholm",
     "Sweden"
   ],
-  "layer_modified_dt": "2022-09-28T02:15:47Z",
+  "layer_modified_dt": "2023-06-23T18:47:36Z",
   "dc_language_sm": [
     "swe"
   ],

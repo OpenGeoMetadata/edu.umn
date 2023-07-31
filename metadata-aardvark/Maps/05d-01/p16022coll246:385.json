@@ -10,8 +10,7 @@
     "fre"
   ],
   "dct_creator_sm": [
-    "A Leide",
-    "Acadeámie royale des sciences (France)"
+    "Académie royale des sciences (France)"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -23,12 +22,19 @@
     "India",
     "South Asia",
     "Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1800 - 1899"
   ],
   "dct_issued_s": "1800 - 1899",
+  "gbl_indexYear_im": [
+    "1800"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1800 TO 1899]"
+  ],
   "dct_spatial_sm": [
     "Asia"
   ],
@@ -52,6 +58,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9934915010001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:00Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:13Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -10,9 +10,9 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "W.A. Fisher Company",
-    "Architects & Engineers Supply Company",
-    "Ely Commercial Club (Ely, Minn.)"
+    "Architects and Engineers Supply Company",
+    "Ely Commercial Club (Ely, Minn.)",
+    "W.A. Fisher Company"
   ],
   "dct_publisher_sm": [
     "W.A. Fisher Co. ;  Virginia, Minnesota 1930"
@@ -26,15 +26,22 @@
     "Canoes and Canoeing Ontario Quetico Provincial Park Maps 1930",
     "Superior National Forest (Minn.) Maps 1930",
     "Quetico Provincial Park (Ont.) Maps 1930",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1930"
   ],
   "dct_issued_s": "1930",
+  "gbl_indexYear_im": [
+    "1930"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1930 TO 1930]"
+  ],
   "dct_spatial_sm": [
     "Minnesota",
-    "Ontario, Canada"
+    "Canada--Ontario"
   ],
   "locn_geometry": "POLYGON((-92.6003 48.8112, -90.162 48.8112, -90.162 47.709, -92.6003 47.709, -92.6003 48.8112))",
   "dcat_bbox": "ENVELOPE(-92.6003,-90.162,48.8112,47.709)",
@@ -53,6 +60,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9936993460001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:42Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

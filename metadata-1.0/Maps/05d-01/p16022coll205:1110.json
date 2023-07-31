@@ -5,7 +5,8 @@
   "dc_title_s": "Plan de Paris, Métropolitain et Nord-Sud",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll205:1110",
-  "solr_geom": "ENVELOPE(2.223888889,4.469722222,48.90194444,48.81555556)",
+  "solr_geom": "ENVELOPE(2.224122,2.469757,48.902156,48.815576)",
+  "solr_year_i": "1924",
   "dc_creator_sm": [
     "L. Guilmin"
   ],
@@ -13,10 +14,10 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:1110\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/1110/manifest.json\"}",
   "dct_spatial_sm": [
-    "Paris, France",
+    "France--Paris",
     "France"
   ],
-  "layer_modified_dt": "2022-09-28T02:16:28Z",
+  "layer_modified_dt": "2023-06-23T18:47:34Z",
   "dc_language_sm": [
     "fre"
   ],

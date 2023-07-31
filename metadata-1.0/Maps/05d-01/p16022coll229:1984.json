@@ -5,6 +5,8 @@
   "dc_title_s": "Svenska turistföreningens Atlas över Sverige : 48 kartor och 7 profiler samt fullständigt alfabetiskt namnregister.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll229:1984",
+  "solr_geom": "ENVELOPE(3.94,31.18,71.24,55.33)",
+  "solr_year_i": "1923",
   "dc_creator_sm": [
     "Svenska turistföreningen"
   ],
@@ -12,10 +14,10 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll229:1984\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll229/1984/manifest.json\"}",
   "dct_spatial_sm": [
-    "Sweden, Sweden",
+    "Sweden--Sweden",
     "Sweden"
   ],
-  "layer_modified_dt": "2022-09-28T02:16:27Z",
+  "layer_modified_dt": "2023-02-07T18:35:15Z",
   "dc_language_sm": [
     "swe"
   ],

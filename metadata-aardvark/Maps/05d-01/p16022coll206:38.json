@@ -10,8 +10,8 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Minnesota. Office of Railroad Commissioners.",
-    "McGill-Warner Co."
+    "McGill-Warner Co.",
+    "Minnesota. Office of Railroad and Warehouse Commissioners"
   ],
   "dct_publisher_sm": [
     "McGill-Warner Co.  (St. Paul, Minnesota)"
@@ -28,12 +28,19 @@
     "Railroads Minnesota Duluth Maps",
     "Railroads Wisconsin Superior Maps",
     "Election Districts Minnesota Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1916"
   ],
   "dct_issued_s": "1916",
+  "gbl_indexYear_im": [
+    "1916"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1916 TO 1916]"
+  ],
   "dct_spatial_sm": [
     "United States"
   ],
@@ -57,6 +64,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9923468710001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:23Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

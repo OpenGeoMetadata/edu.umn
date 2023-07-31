@@ -1,58 +1,30 @@
 {
-  "dct_title_s": "Bedrock geologic and topographic maps of the seven-county Twin Cities Metropolitan Area, Minnesota, M-55, Plate 1",
-  "dct_description_sm": [
-    "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Twin Cities, seven-county metropolitan area, scale 1:125,000."
-  ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "dc8e4cef-f8fa-444c-8528-b7451e0a7201",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Bedrock geologic and topographic maps of the seven-county Twin Cities Metropolitan Area, Minnesota, M-55, Plate 1",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "dc8e4cef-f8fa-444c-8528-b7451e0a7201",
+  "solr_geom": "ENVELOPE(-93.5138,-93.0186,45.4163,45.0373)",
+  "solr_year_i": "1986",
+  "dc_creator_sm": [
+    "Bloomgren, Bruce A.",
     "Jirsa, Mark A.",
-    "Olsen, Bruce M.",
-    "Bloomgren, Bruce A."
+    "Olsen, Bruce M."
   ],
-  "dct_publisher_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "dcat_theme_sm": [
-    "Environment"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "dct_temporal_sm": [
-    "1986"
-  ],
-  "dct_issued_s": "1986",
-  "gbl_indexYear_im": [
-    "1986"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1986 TO 1986]"
-  ],
+  "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Twin Cities, seven-county metropolitan area, scale 1:125,000.",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22442.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1109/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1109\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-93.5138,-93.0186,45.4163,45.0373)",
-  "dcat_bbox": "ENVELOPE(-93.5138,-93.0186,45.4163,45.0373)",
-  "dcat_centroid": "45.2268,-93.2662",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:16:46Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_isPartOf_sm": [
-    "05d-05"
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22442.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1109/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1109\"}",
-  "id": "dc8e4cef-f8fa-444c-8528-b7451e0a7201",
-  "dct_identifier_sm": [
-    "dc8e4cef-f8fa-444c-8528-b7451e0a7201"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:54Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Minnesota Geological Survey",
+  "dct_issued_s": "1986",
+  "dct_temporal_sm": [
+    "1986"
+  ]
 }

@@ -1,57 +1,29 @@
 {
-  "dct_title_s": "Ground-water geochemical atlas for parts of east-central Minnesota, M-58, Plate 1",
-  "dct_description_sm": [
-    "Generalized bedrock geologic map and distribution and concentrations of Arsenic, and Selenium, and Silver, and Aluminum in bedrock water wells, scale 1:600,000."
-  ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
-    "Lively, R.S",
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "27306079-d1ba-4cb8-b409-98ce8d943ba1",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Ground-water geochemical atlas for parts of east-central Minnesota, M-58, Plate 1",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "27306079-d1ba-4cb8-b409-98ce8d943ba1",
+  "solr_geom": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
+  "solr_year_i": "1985",
+  "dc_creator_sm": [
+    "Lively, R. S.",
     "Morey, G.B."
   ],
-  "dct_publisher_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "dcat_theme_sm": [
-    "Environment"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "dct_temporal_sm": [
-    "1985"
-  ],
-  "dct_issued_s": "1985",
-  "gbl_indexYear_im": [
-    "1985"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1985 TO 1985]"
-  ],
+  "dc_description_s": "Generalized bedrock geologic map and distribution and concentrations of Arsenic, and Selenium, and Silver, and Aluminum in bedrock water wells, scale 1:600,000.",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22447.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/938/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:938\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
-  "dcat_bbox": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
-  "dcat_centroid": "46.441900000000004,-93.3613",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:19:19Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_isPartOf_sm": [
-    "05d-05"
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22447.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/938/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:938\"}",
-  "id": "27306079-d1ba-4cb8-b409-98ce8d943ba1",
-  "dct_identifier_sm": [
-    "27306079-d1ba-4cb8-b409-98ce8d943ba1"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:26Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Minnesota Geological Survey",
+  "dct_issued_s": "1985",
+  "dct_temporal_sm": [
+    "1985"
+  ]
 }

@@ -5,14 +5,18 @@
   "dc_title_s": "[Mapa-mundi] : Juan de la Cosa la fizo en el puerto de S.M. en el año de 1500",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:897",
-  "solr_geom": "ENVELOPE(-180,180,84.9833,-85)",
+  "solr_geom": "ENVELOPE(-12.3,36.1,61.8,31.4)",
+  "solr_year_i": "1892",
   "dc_creator_sm": [
     "Cosa, Juan de la, -1510"
   ],
   "dc_description_s": "Reproduction in facsimile of the original in the Museo naval de Madrid.|40 x 80|Scale not indicated.|General Map Collection",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:897\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/897/manifest.json\"}",
-  "layer_modified_dt": "2022-09-28T02:14:53Z",
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "layer_modified_dt": "2023-07-07T18:44:14Z",
   "dc_language_sm": [
     "spa"
   ],

@@ -6,13 +6,15 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:2773",
   "solr_geom": "ENVELOPE(-107.3167,30.5167,73.45,-56.85)",
+  "solr_year_i": "1748",
   "dc_description_s": "Includes text.; Covers the Atlantic Ocean between N 55∞ and S 10∞.|46 x 57 centimeters|Scale approximately 1:20,000,000|General Map Collection",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2773\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2773/manifest.json\"}",
   "dct_spatial_sm": [
-    "North America; South America"
+    "North America",
+    "South America"
   ],
-  "layer_modified_dt": "2022-09-28T02:14:07Z",
+  "layer_modified_dt": "2023-02-07T18:33:02Z",
   "dc_language_sm": [
     "eng"
   ],

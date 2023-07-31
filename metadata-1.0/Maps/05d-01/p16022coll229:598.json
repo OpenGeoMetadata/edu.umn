@@ -5,6 +5,8 @@
   "dc_title_s": "Atlas adminisratif [i.e. administratif] de la ville de Paris",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll229:598",
+  "solr_geom": "ENVELOPE(2.224169,2.469757,48.902156,48.815576)",
+  "solr_year_i": "1821",
   "dc_creator_sm": [
     "Maire, N-M"
   ],
@@ -12,10 +14,10 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll229:598\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll229/598/manifest.json\"}",
   "dct_spatial_sm": [
-    "Paris, France",
+    "France--Paris",
     "France"
   ],
-  "layer_modified_dt": "2022-09-28T02:14:20Z",
+  "layer_modified_dt": "2023-02-07T18:33:18Z",
   "dc_language_sm": [
     "fre"
   ],

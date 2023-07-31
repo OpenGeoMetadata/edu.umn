@@ -19,14 +19,24 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "dcat_keyword_sm": [
+    "FixedBBoxes",
+    "bboxSprintJune2023"
+  ],
   "dct_issued_s": "1876",
+  "gbl_indexYear_im": [
+    "1876"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1876 TO 1876]"
+  ],
   "dct_spatial_sm": [
-    "Dresden, Germany",
+    "Germany--Dresden",
     "Germany"
   ],
-  "locn_geometry": "POLYGON((13.69027778 51.08888889, 26.79583333 51.08888889, 26.79583333 51.02222222, 13.69027778 51.02222222, 13.69027778 51.08888889))",
-  "dcat_bbox": "ENVELOPE(13.69027778,26.79583333,51.08888889,51.02222222)",
-  "dcat_centroid": "51.055555555,20.243055555",
+  "locn_geometry": "POLYGON((13.680683 51.098622, 13.800159 51.098622, 13.800159 51.019699, 13.680683 51.019699, 13.680683 51.098622))",
+  "dcat_bbox": "ENVELOPE(13.680683,13.800159,51.098622,51.019699)",
+  "dcat_centroid": "51.059160500000004,13.740421000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -44,6 +54,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9976470803001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:17Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

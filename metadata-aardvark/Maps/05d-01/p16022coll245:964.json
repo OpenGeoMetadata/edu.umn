@@ -9,7 +9,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Curtice, D. L.(David L.),1828-1902."
+    "Curtice, D. L. (David L.), 1828-1902"
   ],
   "dct_publisher_sm": [
     "David L. Curtice, (Saint Paul, Minn.)"
@@ -18,12 +18,22 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "dcat_keyword_sm": [
+    "",
+    "2022-creator-sprint"
+  ],
   "dct_temporal_sm": [
     "1896"
   ],
   "dct_issued_s": "1896",
+  "gbl_indexYear_im": [
+    "1896"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1896 TO 1896]"
+  ],
   "dct_spatial_sm": [
-    "Saint Paul, Minnesota",
+    "Minnesota--Saint Paul",
     "Minnesota"
   ],
   "locn_geometry": "POLYGON((-93.2 44.98, -93 44.98, -93 44.88, -93.2 44.88, -93.2 44.98))",
@@ -46,6 +56,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9945029810001700"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:55Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

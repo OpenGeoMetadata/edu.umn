@@ -25,6 +25,12 @@
     "Literary Landmarks"
   ],
   "dct_issued_s": "1926",
+  "gbl_indexYear_im": [
+    "1926"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1926 TO 1926]"
+  ],
   "locn_geometry": "POLYGON((-129.0166667 51.4, -59.06666667 51.4, -59.06666667 18.9, -129.0166667 18.9, -129.0166667 51.4))",
   "dcat_bbox": "ENVELOPE(-129.0166667,-59.06666667,51.4,18.9)",
   "dcat_centroid": "35.15,-94.041666685",
@@ -45,6 +51,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9973974698001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:30Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

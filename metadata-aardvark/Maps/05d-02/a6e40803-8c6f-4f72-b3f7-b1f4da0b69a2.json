@@ -1,64 +1,30 @@
 {
-  "dct_title_s": "Map of Minnesota - Southern Half",
-  "dct_description_sm": [
-    "Atlas and farmers' directory of Anoka County and eleven northern townships of Hennepin County, Minnesota, 1914"
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "a6e40803-8c6f-4f72-b3f7-b1f4da0b69a2",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Minnesota - Southern Half",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "a6e40803-8c6f-4f72-b3f7-b1f4da0b69a2",
+  "solr_geom": "ENVELOPE(-93.5127,-93.0195,45.4147,44.805)",
+  "solr_year_i": "1914",
+  "dc_creator_sm": [
+    "Farmer (Saint Paul, Minn.)"
   ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
-    "The Farmer"
-  ],
-  "dct_publisher_sm": [
-    "Webb Publishing Company"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "gbl_resourceType_sm": [
-    "Atlases"
-  ],
-  "dcat_keyword_sm": [
-    "Real property -- Minnesota -- Anoka County -- Maps",
-    "Real property -- Minnesota -- Hennepin County -- Maps",
-    "Anoka County (Minn.) -- Maps",
-    "Anoka County (Minn.) -- Directories",
-    "Hennepin County (Minn.) -- Maps",
-    "Hennepin County (Minn.) -- Directories",
-    "John R. Borchert Map Library"
-  ],
-  "dct_temporal_sm": [
-    "1914"
-  ],
-  "dct_issued_s": "1914",
-  "gbl_indexYear_im": [
-    "1914"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1914 TO 1914]"
-  ],
+  "dc_description_s": "Atlas and farmers' directory of Anoka County and eleven northern townships of Hennepin County, Minnesota, 1914",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/212/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/193104\"}",
   "dct_spatial_sm": [
-    "Anoka County, Minnesota",
-    "Hennepin County, Minnesota",
+    "Minnesota--Anoka County",
+    "Minnesota--Hennepin County",
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-93.5127,-93.0195,45.4147,44.805)",
-  "dcat_bbox": "ENVELOPE(-93.5127,-93.0195,45.4147,44.805)",
-  "dcat_centroid": "45.10985,-93.2661",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:27:07Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/212/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/193104\"}",
-  "id": "a6e40803-8c6f-4f72-b3f7-b1f4da0b69a2",
-  "dct_identifier_sm": [
-    "a6e40803-8c6f-4f72-b3f7-b1f4da0b69a2"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:22Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Webb Publishing Company",
+  "dct_issued_s": "1914",
+  "dct_temporal_sm": [
+    "1914"
+  ]
 }

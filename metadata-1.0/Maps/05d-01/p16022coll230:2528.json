@@ -5,7 +5,8 @@
   "dc_title_s": "North Western America : showing the territory ceded by Russia to the United States",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:2528",
-  "solr_geom": "ENVELOPE(160.0,-130.0,75.0,50.0)",
+  "solr_geom": "ENVELOPE(-179.9,-130.0,75.0,50.0)",
+  "solr_year_i": "1867",
   "dc_creator_sm": [
     "United States Coast Survey"
   ],
@@ -15,7 +16,7 @@
   "dct_spatial_sm": [
     "Alaska"
   ],
-  "layer_modified_dt": "2022-09-28T02:14:39Z",
+  "layer_modified_dt": "2023-02-07T18:33:46Z",
   "dc_language_sm": [
     "eng"
   ],

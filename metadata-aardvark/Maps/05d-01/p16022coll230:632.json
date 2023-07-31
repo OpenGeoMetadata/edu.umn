@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Blackmore, Nathaniel, -1796"
+    "Blackmore, Nathaniel, -1797"
   ],
   "dct_publisher_sm": [
     "H. Moll (London)"
@@ -20,12 +20,19 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Nautical Charts"
+    "Nautical Charts",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1729"
   ],
   "dct_issued_s": "1729",
+  "gbl_indexYear_im": [
+    "1729"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1729 TO 1729]"
+  ],
   "dct_spatial_sm": [
     "Canada"
   ],
@@ -49,6 +56,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9974797100201701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:06Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -21,14 +21,21 @@
   ],
   "dcat_keyword_sm": [
     "Göteborg (Sweden) Maps",
-    "Tourist Maps"
+    "Tourist Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1923"
   ],
   "dct_issued_s": "1923",
+  "gbl_indexYear_im": [
+    "1923"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1923 TO 1923]"
+  ],
   "dct_spatial_sm": [
-    "Göteborg, Sweden",
+    "Sweden--Göteborg",
     "Sweden"
   ],
   "locn_geometry": "POLYGON((11.8868 57.747, 12.0385 57.747, 12.0385 57.6737, 11.8868 57.6737, 11.8868 57.747))",
@@ -51,6 +58,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9941836000001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:36Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

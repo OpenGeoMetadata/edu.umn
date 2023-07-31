@@ -20,12 +20,19 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Geology"
+    "Geology",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1912"
   ],
   "dct_issued_s": "1912",
+  "gbl_indexYear_im": [
+    "1912"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1912 TO 1912]"
+  ],
   "locn_geometry": "POLYGON((-75.55 41.35, -73.9 41.35, -73.9 38.9167, -75.55 38.9167, -75.55 41.35))",
   "dcat_bbox": "ENVELOPE(-75.55,-73.9,41.35,38.9167)",
   "dcat_centroid": "40.13335,-74.725",
@@ -46,6 +53,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9974771582801701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:14Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:44Z",
   "gbl_mdVersion_s": "Aardvark"
 }

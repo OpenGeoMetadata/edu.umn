@@ -21,16 +21,24 @@
   ],
   "dcat_keyword_sm": [
     "Forest Reserves",
-    "Forests and Forestry"
+    "Forests and Forestry",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
   ],
   "dct_issued_s": "1917",
+  "gbl_indexYear_im": [
+    "1917"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1917 TO 1917]"
+  ],
   "dct_spatial_sm": [
     "Idaho",
     "Boise National Forest"
   ],
-  "locn_geometry": "POLYGON((-115.62 44.09694444, -115.6172222 44.09694444, -115.6172222 44.09416667, -115.62 44.09416667, -115.62 44.09694444))",
-  "dcat_bbox": "ENVELOPE(-115.62,-115.6172222,44.09694444,44.09416667)",
-  "dcat_centroid": "44.095555555000004,-115.61861110000001",
+  "locn_geometry": "POLYGON((-116.282 44.4383, -114.9672 44.4383, -114.9672 43.4894, -116.282 43.4894, -116.282 44.4383))",
+  "dcat_bbox": "ENVELOPE(-116.282,-114.9672,44.4383,43.4894)",
+  "dcat_centroid": "43.96385,-115.6246",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -48,6 +56,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9974836504501701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:25Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

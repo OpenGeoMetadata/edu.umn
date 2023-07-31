@@ -1,57 +1,29 @@
 {
-  "dct_title_s": "Bedrock geology of the Judson quadrangle, Blue Earth and Nicollet Counties, Minnesota, M-145",
-  "dct_description_sm": [
-    "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Judson quadrangle, scale 1:24,000."
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "4ab2cb1f-4c96-4a1c-8a55-c7bb9ac3f2ff",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Bedrock geology of the Judson quadrangle, Blue Earth and Nicollet Counties, Minnesota, M-145",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "4ab2cb1f-4c96-4a1c-8a55-c7bb9ac3f2ff",
+  "solr_geom": "ENVELOPE(-94.3711,-93.7679,44.2643,43.85)",
+  "solr_year_i": "2004",
+  "dc_creator_sm": [
+    "Mossler, John H.",
+    "Runkel, Anthony C."
   ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
-    "Runkel, Anthony C.",
-    "Mossler, John H."
-  ],
-  "dct_publisher_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "dcat_theme_sm": [
-    "Environment"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "dct_temporal_sm": [
-    "2004"
-  ],
-  "dct_issued_s": "2004",
-  "gbl_indexYear_im": [
-    "2004"
-  ],
-  "gbl_dateRange_drsim": [
-    "[2004 TO 2004]"
-  ],
+  "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Judson quadrangle, scale 1:24,000.",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22559.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/862/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:862\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-94.3711,-93.7679,44.2643,43.85)",
-  "dcat_bbox": "ENVELOPE(-94.3711,-93.7679,44.2643,43.85)",
-  "dcat_centroid": "44.05715,-94.0695",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:16:48Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_isPartOf_sm": [
-    "05d-05"
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22559.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/862/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:862\"}",
-  "id": "4ab2cb1f-4c96-4a1c-8a55-c7bb9ac3f2ff",
-  "dct_identifier_sm": [
-    "4ab2cb1f-4c96-4a1c-8a55-c7bb9ac3f2ff"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:19Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Minnesota Geological Survey",
+  "dct_issued_s": "2004",
+  "dct_temporal_sm": [
+    "2004"
+  ]
 }

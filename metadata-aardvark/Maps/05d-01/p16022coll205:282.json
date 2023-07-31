@@ -25,8 +25,14 @@
   "dct_temporal_sm": [
     "Approximately 1900"
   ],
+  "gbl_indexYear_im": [
+    "1900"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1900]"
+  ],
   "dct_spatial_sm": [
-    "Boston, Massachusetts"
+    "Massachusetts--Boston"
   ],
   "locn_geometry": "POLYGON((-71.18 42.38, -70.8 42.38, -70.8 42.21, -71.18 42.21, -71.18 42.38))",
   "dcat_bbox": "ENVELOPE(-71.18,-70.8,42.38,42.21)",
@@ -48,6 +54,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9926873610001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:11Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

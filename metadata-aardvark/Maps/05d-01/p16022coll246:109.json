@@ -11,9 +11,9 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Society for the Diffusion of Useful Knowledge (Great Britain)",
+    "Baldwin & Cradock",
     "J. & C. Walker (Firm)",
-    "Baldwin & Cradock."
+    "Society for the Diffusion of Useful Knowledge (Great Britain)"
   ],
   "dct_publisher_sm": [
     "Baldwin & Cradock, 47 Paternoster Row; London"
@@ -24,12 +24,19 @@
   ],
   "dcat_keyword_sm": [
     "India Maps",
-    "maps"
+    "maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1831 - 1835"
   ],
   "dct_issued_s": "1831 - 1835",
+  "gbl_indexYear_im": [
+    "1831"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1831 TO 1835]"
+  ],
   "dct_spatial_sm": [
     "India"
   ],
@@ -53,6 +60,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9935012670001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:01Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

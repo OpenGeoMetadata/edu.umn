@@ -6,13 +6,17 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:1034",
   "solr_geom": "ENVELOPE(-180,180,90,50)",
+  "solr_year_i": "1645",
   "dc_creator_sm": [
     "Blaeu, Willem Janszoon, 1571-1638"
   ],
   "dc_description_s": "includes a decorative cartouche, decorative scale of miles, coat of arms and dedication to Guilielmo Backer de Corneliis by Joh. Blaeu.; French text on verso.; From: Appendice de la I & II partie du Theatre du monde ou Nouvel atlas ... Amsterdami : Apud G. et I. Blaue, 1638-1640.|40 x 52 centimeters, on sheet 51 x 60 centimeters|Scale approximately 1:15,000,000|General Map Collection",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1034\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1034/manifest.json\"}",
-  "layer_modified_dt": "2022-09-28T02:14:00Z",
+  "dct_spatial_sm": [
+    "Arctic Regions"
+  ],
+  "layer_modified_dt": "2023-06-23T22:00:59Z",
   "dc_language_sm": [
     "lat"
   ],

@@ -26,6 +26,12 @@
     "Forest Reserves"
   ],
   "dct_issued_s": "1924",
+  "gbl_indexYear_im": [
+    "1924"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1924 TO 1924]"
+  ],
   "locn_geometry": "POLYGON((-127 49, -65 49, -65 25, -127 25, -127 49))",
   "dcat_bbox": "ENVELOPE(-127,-65,49,25)",
   "dcat_centroid": "37.0,-96.0",
@@ -46,6 +52,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9973980802201701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:28Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

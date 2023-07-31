@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Survey of India."
+    "Survey of India"
   ],
   "dct_publisher_sm": [
     "Survey of India; Calcutta"
@@ -23,16 +23,23 @@
     "Maps",
     "India Maps",
     "Delhi (India) Maps",
-    "Agra (India) Maps"
+    "Agra (India) Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1857"
   ],
   "dct_issued_s": "1857",
+  "gbl_indexYear_im": [
+    "1857"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1857 TO 1857]"
+  ],
   "dct_spatial_sm": [
-    "Agra, India",
-    "Ambala, India",
-    "Delhi, India",
+    "India--Agra",
+    "India--Ambala",
+    "India--Delhi",
     "India"
   ],
   "locn_geometry": "POLYGON((76.5309 30.5913, 78.1404 30.5913, 78.1404 27.0647, 76.5309 27.0647, 76.5309 30.5913))",
@@ -55,6 +62,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9974129690101700"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:35Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

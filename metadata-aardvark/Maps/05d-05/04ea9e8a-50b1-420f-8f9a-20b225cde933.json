@@ -1,58 +1,30 @@
 {
-  "dct_title_s": "Geologic atlas of Dakota County, Minnesota, C-6, Plate 2, Bedrock Geology",
-  "dct_description_sm": [
-    "Map showing interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) with cross section diagrams, scale 1:100,000, Dakota County."
-  ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
-    "Balaban, N.H.",
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "04ea9e8a-50b1-420f-8f9a-20b225cde933",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Geologic atlas of Dakota County, Minnesota, C-6, Plate 2, Bedrock Geology",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "04ea9e8a-50b1-420f-8f9a-20b225cde933",
+  "solr_geom": "ENVELOPE(-93.3285,-92.7339,44.9252,44.4729)",
+  "solr_year_i": "1990",
+  "dc_creator_sm": [
+    "Balaban, Nancy",
     "Hobbs, Howard C.",
     "Mossler, John H."
   ],
-  "dct_publisher_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "dcat_theme_sm": [
-    "Environment"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "dct_temporal_sm": [
-    "1990"
-  ],
-  "dct_issued_s": "1990",
-  "gbl_indexYear_im": [
-    "1990"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1990 TO 1990]"
-  ],
+  "dc_description_s": "Map showing interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) with cross section diagrams, scale 1:100,000, Dakota County.",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22258.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/659/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:659\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-93.3285,-92.7339,44.9252,44.4729)",
-  "dcat_bbox": "ENVELOPE(-93.3285,-92.7339,44.9252,44.4729)",
-  "dcat_centroid": "44.69905,-93.03120000000001",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:18:49Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_isPartOf_sm": [
-    "05d-05"
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22258.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/659/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:659\"}",
-  "id": "04ea9e8a-50b1-420f-8f9a-20b225cde933",
-  "dct_identifier_sm": [
-    "04ea9e8a-50b1-420f-8f9a-20b225cde933"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:29Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Minnesota Geological Survey",
+  "dct_issued_s": "1990",
+  "dct_temporal_sm": [
+    "1990"
+  ]
 }

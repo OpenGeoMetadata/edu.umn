@@ -5,9 +5,10 @@
   "dc_title_s": "Map of Alaska",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:2523",
-  "solr_geom": "ENVELOPE(170.0,-120.0,68.0,48.0)",
+  "solr_geom": "ENVELOPE(-179.9,-129.97,71.6,51.02)",
+  "solr_year_i": "1898",
   "dc_creator_sm": [
-    "Hendges, M"
+    "Hendges, M."
   ],
   "dc_description_s": "Relief shown by hachures and spot heights.; Shows land offices and reservations, transportation routes, mineral deposits, reported gold regions, and missions.; Includes insets of \"From Juneau to Forty Mile Creek\" and Aleutian Islands and distance table.|64 x 93 centimeters|Scale 1:4,560,000; 1 inch = 72 miles|General Map Collection",
   "dc_format_s": "JPEG",
@@ -15,7 +16,7 @@
   "dct_spatial_sm": [
     "Alaska"
   ],
-  "layer_modified_dt": "2022-09-28T02:14:57Z",
+  "layer_modified_dt": "2023-02-07T18:34:23Z",
   "dc_language_sm": [
     "eng"
   ],

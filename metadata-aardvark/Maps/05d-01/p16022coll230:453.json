@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Warren, Gouverneur Kemble, 1830-1882"
+    "Warren, G. K. (Gouverneur Kemble), 1830-1882"
   ],
   "dct_publisher_sm": [
     "(Washington, D.C.)"
@@ -25,12 +25,19 @@
     "Nebraska Maps",
     "Dakota Territory Maps",
     "United States Discovery and Exploration Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1858"
   ],
   "dct_issued_s": "1858",
+  "gbl_indexYear_im": [
+    "1858"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1858 TO 1858]"
+  ],
   "dct_spatial_sm": [
     "United States"
   ],
@@ -54,6 +61,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9921021580001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:35Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

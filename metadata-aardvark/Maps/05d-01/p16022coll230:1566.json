@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "United States. Bureau of Soils"
+    "United States. Bureau of Chemistry and Soils"
   ],
   "dct_publisher_sm": [
     "A. Hoen & Co. Lith (Baltimore)"
@@ -20,12 +20,19 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Soils"
+    "Soils",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1915"
   ],
   "dct_issued_s": "1915",
+  "gbl_indexYear_im": [
+    "1915"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1915 TO 1915]"
+  ],
   "dct_spatial_sm": [
     "Georgia"
   ],
@@ -49,6 +56,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9973986362601701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:21Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

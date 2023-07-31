@@ -10,8 +10,8 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Laurie & Whittle",
-    "East India Company"
+    "East India Company",
+    "Laurie & Whittle"
   ],
   "dct_publisher_sm": [
     "Laurie & Whittle; London"
@@ -22,12 +22,19 @@
   ],
   "dcat_keyword_sm": [
     "Tamil Nadu (India) Maps Early Works to 1800",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1794"
   ],
   "dct_issued_s": "1794",
+  "gbl_indexYear_im": [
+    "1794"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1794 TO 1794]"
+  ],
   "dct_spatial_sm": [
     "India"
   ],
@@ -51,6 +58,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9934939630001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:14Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

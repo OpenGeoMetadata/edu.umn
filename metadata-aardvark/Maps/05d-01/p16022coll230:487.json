@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Dunn, Samuel"
+    "Dunn, Samuel, -1794"
   ],
   "dct_publisher_sm": [
     "Robert Sayer (London)"
@@ -26,12 +26,19 @@
     "Ukraine Maps Early Works to 1800",
     "Europe, Eastern Maps Early Works to 1800",
     "Poland History Partition Period, 1763 1796 Maps Early Works to 1800",
-    "Early Maps"
+    "Early Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1774"
   ],
   "dct_issued_s": "1774",
+  "gbl_indexYear_im": [
+    "1774"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1774 TO 1774]"
+  ],
   "dct_spatial_sm": [
     "Poland"
   ],
@@ -55,6 +62,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9916463790001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:10Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

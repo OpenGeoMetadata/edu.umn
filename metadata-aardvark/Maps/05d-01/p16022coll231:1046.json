@@ -18,15 +18,25 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "gbl_resourceType_sm": [
+    "Atlases"
+  ],
   "dcat_keyword_sm": [
     "Real Property Minnesota Clay County Maps",
     "Clay County (Minn.) Maps",
-    "Clay County (Minn.) Directories"
+    "Clay County (Minn.) Directories",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1909"
   ],
   "dct_issued_s": "1909",
+  "gbl_indexYear_im": [
+    "1909"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1909 TO 1909]"
+  ],
   "dct_spatial_sm": [
     "United States"
   ],
@@ -50,6 +60,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9938499060001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:10Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

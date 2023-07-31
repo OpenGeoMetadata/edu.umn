@@ -21,10 +21,11 @@
   ],
   "dcat_keyword_sm": [
     "Railroads",
-    "Real Property"
+    "Real Property",
+    "2022-creator-sprint"
   ],
   "dct_spatial_sm": [
-    "Tacoma, Washington         "
+    "Washington--Tacoma"
   ],
   "locn_geometry": "POLYGON((-122.5653 47.3319, -122.3481 47.3319, -122.3481 47.1664, -122.5653 47.1664, -122.5653 47.3319))",
   "dcat_bbox": "ENVELOPE(-122.5653,-122.3481,47.3319,47.1664)",
@@ -46,6 +47,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9974047608201701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:34Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

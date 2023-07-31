@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Weller, Edward"
+    "Weller, Edward, 1819-1884"
   ],
   "dct_publisher_sm": [
     "Weekly Dispatch Atlas 139 Fleet Street; London"
@@ -27,14 +27,21 @@
     "Burma",
     "Thailand",
     "Malaysia",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "approximately 1858"
   ],
   "dct_issued_s": "1858?",
+  "gbl_indexYear_im": [
+    "1858"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1858 TO 1858]"
+  ],
   "dct_spatial_sm": [
-    "Burma, Myanmar [Burma]",
+    "Myanmar [Burma]--Burma",
     "Thailand",
     "Malaysia"
   ],
@@ -58,6 +65,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9931041180001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:11Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

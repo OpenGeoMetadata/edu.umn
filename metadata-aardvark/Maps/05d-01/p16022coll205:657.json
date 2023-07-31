@@ -19,12 +19,22 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "dcat_keyword_sm": [
+    "",
+    "2022-creator-sprint"
+  ],
   "dct_temporal_sm": [
     "1908"
   ],
   "dct_issued_s": "1908",
+  "gbl_indexYear_im": [
+    "1908"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1908 TO 1908]"
+  ],
   "dct_spatial_sm": [
-    "Portland, Oregon           "
+    "Oregon --Portland"
   ],
   "locn_geometry": "POLYGON((-123.4167 45.6667, -122.3333 45.6667, -122.3333 45.0833, -123.4167 45.0833, -123.4167 45.6667))",
   "dcat_bbox": "ENVELOPE(-123.4167,-122.3333,45.6667,45.0833)",
@@ -46,6 +56,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9927566950001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:09Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

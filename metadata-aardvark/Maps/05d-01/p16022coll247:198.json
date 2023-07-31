@@ -10,14 +10,14 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Sealing, H. E.",
-    "Dennee, Phyllis",
-    "Graves, Henry Solon, 1871-1951",
-    "Avery, Carlos, 1868-1930",
-    "Minnesota. Game and Fish Department",
-    "United States. Forest Service",
+    "Avery, Carlos, 1868-1931",
     "Columbia Planograph Co.",
-    "Ely Commercial Club (Ely, Minn.)"
+    "Dennee, Phyllis",
+    "Ely Commercial Club (Ely, Minn.)",
+    "Graves, Henry Solon, 1871-1951",
+    "Minnesota. Division of Game and Fish",
+    "Sealing, H. E.",
+    "United States. Forest Service"
   ],
   "dct_publisher_sm": [
     "U.S. Dept. of Agriculture, Forest Service ;  Washington, D.C.?"
@@ -30,12 +30,19 @@
     "Canoes and Canoeing Minnesota Superior National Forest Maps 1920",
     "Superior National Forest (Minn.) Maps 1920",
     "Superior State Game Refuge (Minn.) Maps 1920",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1920"
   ],
   "dct_issued_s": "1920",
+  "gbl_indexYear_im": [
+    "1920"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1920 TO 1920]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
@@ -56,6 +63,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9943130290001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:41Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

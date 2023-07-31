@@ -15,12 +15,21 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "dcat_keyword_sm": [
+    "2022-creator-sprint"
+  ],
   "dct_temporal_sm": [
     "1861"
   ],
   "dct_issued_s": "1861",
+  "gbl_indexYear_im": [
+    "1861"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1861]"
+  ],
   "dct_spatial_sm": [
-    "Minneapolis, Minnesota",
+    "Minnesota--Minneapolis",
     "Minnesota"
   ],
   "locn_geometry": "POLYGON((-93.3374 45.0513, -93.1982 45.0513, -93.1982 44.9052, -93.3374 44.9052, -93.3374 45.0513))",
@@ -38,11 +47,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:884\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/884/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:1125\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/1125/manifest.json\"}",
   "id": "p16022coll245:884",
   "dct_identifier_sm": [
     "UMN_ALMA:9913396070001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:37Z",
+  "gbl_mdModified_dt": "2023-05-23T17:56:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

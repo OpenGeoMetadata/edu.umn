@@ -10,21 +10,61 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Geo. A. Ogle & Co."
+    "Geo. A. Ogle & Company"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "gbl_resourceType_sm": [
+    "Atlases"
+  ],
   "dcat_keyword_sm": [
-    "Real Property Minnesota Wabasha County Maps"
+    "Real Property Minnesota Wabasha County Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1896"
   ],
   "dct_issued_s": "1896",
+  "gbl_indexYear_im": [
+    "1896"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1896 TO 1896]"
+  ],
   "dct_spatial_sm": [
-    "Chester Township; Elgin Township; Gillford Township; Glasgow Township; Greenfield Township; Highland Township; Hyde Park Township; Lake Township; Mazeppa Township; Minneiska Township; Mount Pleasant Township; Oakwood Township; Pepin Township; Plainview Township; Watopa Township; West Albany Township; Zumbro Township; Lake City; Reads Landing; Bellechester; Wabasha; Kellogg; Zumbro Falls; Mazeppa; Elgin; Hammond; Jarrets; Millville; Weaver; Minneiska; Plainview, Minnesota"
+    "Chester Township",
+    "Elgin Township",
+    "Gillford Township",
+    "Glasgow Township",
+    "Greenfield Township",
+    "Highland Township",
+    "Hyde Park Township",
+    "Lake Township",
+    "Mazeppa Township",
+    "Minneiska Township",
+    "Mount Pleasant Township",
+    "Oakwood Township",
+    "Pepin Township",
+    "Plainview Township",
+    "Watopa Township",
+    "West Albany Township",
+    "Zumbro Township",
+    "Lake City",
+    "Reads Landing",
+    "Bellechester",
+    "Wabasha",
+    "Kellogg",
+    "Zumbro Falls",
+    "Mazeppa",
+    "Elgin",
+    "Hammond",
+    "Jarrets",
+    "Millville",
+    "Weaver",
+    "Minneiska",
+    "Minnesota--Plainview"
   ],
   "locn_geometry": "POLYGON((-92.55 44.45, -91.8501 44.45, -91.8501 44.1, -92.55 44.1, -92.55 44.45))",
   "dcat_bbox": "ENVELOPE(-92.55,-91.8501,44.45,44.1)",
@@ -46,6 +86,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9950196440001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:56Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

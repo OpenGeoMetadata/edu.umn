@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Mississippi River Commission"
+    "United States. Mississippi River Commission"
   ],
   "dct_publisher_sm": [
     "Mississippi River Commission"
@@ -21,12 +21,19 @@
   ],
   "dcat_keyword_sm": [
     "Mississippi River Maps",
-    "Nautical Charts Mississippi River"
+    "Nautical Charts Mississippi River",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1898-1904"
   ],
   "dct_issued_s": "1898 - 1904",
+  "gbl_indexYear_im": [
+    "1898"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1898 TO 1904]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
@@ -50,6 +57,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9951634410001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:04Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -10,7 +10,7 @@
     "fre"
   ],
   "dct_creator_sm": [
-    "de L'Isle, Joseph Nicolas, 1688-1768"
+    "L'Isle, Joseph Nicolas de, 1688-1768"
   ],
   "dct_publisher_sm": [
     "(Paris)"
@@ -24,18 +24,27 @@
     "Northwest Passage Maps Early Works to 1800",
     "North Pacific Ocean Maps Early Works to 1800",
     "Arctic Regions Maps Early Works to 1800",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1752-1772"
   ],
   "dct_issued_s": "1752 - 1772",
+  "gbl_indexYear_im": [
+    "1752"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1752 TO 1772]"
+  ],
   "dct_spatial_sm": [
     "Arctic"
   ],
-  "locn_geometry": "POLYGON((130 85, -10 85, -10 30.35, 130 30.35, 130 85))",
-  "dcat_bbox": "ENVELOPE(130,-10,85,30.35)",
-  "dcat_centroid": "57.675,60.0",
+  "locn_geometry": "POLYGON((135.3 74.3, -111.2 74.3, -111.2 38.4, 135.3 38.4, 135.3 74.3))",
+  "dcat_bbox": "ENVELOPE(135.3,-111.2,74.3,38.4)",
+  "dcat_centroid": "56.349999999999994,12.050000000000004",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,6 +62,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9954588140001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:59Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:28Z",
   "gbl_mdVersion_s": "Aardvark"
 }

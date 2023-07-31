@@ -23,14 +23,21 @@
     "United States History Civil War, 1861 1865 Maps",
     "North Carolina History Civil War, 1861 1865 Maps",
     "Fort Fisher (n.c.) Maps",
-    "Military Maps"
+    "Military Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1865"
   ],
   "dct_issued_s": "1865",
+  "gbl_indexYear_im": [
+    "1865"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1865 TO 1865]"
+  ],
   "dct_spatial_sm": [
-    "Fort Fisher, North Carolina"
+    "North Carolina--Fort Fisher"
   ],
   "locn_geometry": "POLYGON((-77.9301 33.98, -77.9 33.98, -77.9 33.95, -77.9301 33.95, -77.9301 33.98))",
   "dcat_bbox": "ENVELOPE(-77.9301,-77.9,33.98,33.95)",
@@ -52,6 +59,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9963825820001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:38Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

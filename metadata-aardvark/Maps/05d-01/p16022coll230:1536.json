@@ -20,8 +20,14 @@
     "1898"
   ],
   "dct_issued_s": "1898",
+  "gbl_indexYear_im": [
+    "1898"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1898 TO 1898]"
+  ],
   "dct_spatial_sm": [
-    "Washington, District of Columbia"
+    "District of Columbia--Washington"
   ],
   "locn_geometry": "POLYGON((-77.0667 38.9333, -76.9667 38.9333, -76.9667 38.85, -77.0667 38.85, -77.0667 38.9333))",
   "dcat_bbox": "ENVELOPE(-77.0667,-76.9667,38.9333,38.85)",
@@ -43,6 +49,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9974047609901701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:57Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

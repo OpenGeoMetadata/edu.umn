@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Clason Map Co"
+    "Clason Map Co."
   ],
   "dct_publisher_sm": [
     "Clason Map Co (Denver,  Colo)"
@@ -20,12 +20,19 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Roads"
+    "Roads",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1920"
   ],
   "dct_issued_s": "1920",
+  "gbl_indexYear_im": [
+    "1920"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1920 TO 1920]"
+  ],
   "dct_spatial_sm": [
     "Montana"
   ],
@@ -49,6 +56,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9923985530001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:30Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,56 +1,28 @@
 {
-  "dct_title_s": "Bedrock geologic and topographic maps of the Minneapolis-St. Paul urban area, Minnesota, M-57, Plate 1",
-  "dct_description_sm": [
-    "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Minneapolis and St. Paul urban area, scale 1:48,000."
-  ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "374b0d40-e441-476d-afcf-80e330184f77",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Bedrock geologic and topographic maps of the Minneapolis-St. Paul urban area, Minnesota, M-57, Plate 1",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "374b0d40-e441-476d-afcf-80e330184f77",
+  "solr_geom": "ENVELOPE(-93.3292,-93.194,45.0513,44.8898)",
+  "solr_year_i": "1985",
+  "dc_creator_sm": [
     "Bloomgren, Bruce A."
   ],
-  "dct_publisher_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "dcat_theme_sm": [
-    "Environment"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "dct_temporal_sm": [
-    "1985"
-  ],
-  "dct_issued_s": "1985",
-  "gbl_indexYear_im": [
-    "1985"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1985 TO 1985]"
-  ],
+  "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Minneapolis and St. Paul urban area, scale 1:48,000.",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22445.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1160/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1160\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-93.3292,-93.194,45.0513,44.8898)",
-  "dcat_bbox": "ENVELOPE(-93.3292,-93.194,45.0513,44.8898)",
-  "dcat_centroid": "44.97055,-93.2616",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:16:46Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_isPartOf_sm": [
-    "05d-05"
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22445.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1160/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1160\"}",
-  "id": "374b0d40-e441-476d-afcf-80e330184f77",
-  "dct_identifier_sm": [
-    "374b0d40-e441-476d-afcf-80e330184f77"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:40Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Minnesota Geological Survey",
+  "dct_issued_s": "1985",
+  "dct_temporal_sm": [
+    "1985"
+  ]
 }

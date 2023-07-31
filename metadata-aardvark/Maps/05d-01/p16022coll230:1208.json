@@ -23,6 +23,12 @@
     "Gettysburg, Battle Of, Gettysburg, Pa., 1863"
   ],
   "dct_issued_s": "1876",
+  "gbl_indexYear_im": [
+    "1876"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1876 TO 1876]"
+  ],
   "locn_geometry": "POLYGON((-77.28972222 39.86444444, -77.19472222 39.86444444, -77.19472222 39.78222222, -77.28972222 39.78222222, -77.28972222 39.86444444))",
   "dcat_bbox": "ENVELOPE(-77.28972222,-77.19472222,39.86444444,39.78222222)",
   "dcat_centroid": "39.82333333,-77.24222222",
@@ -43,6 +49,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9940801530001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:17Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

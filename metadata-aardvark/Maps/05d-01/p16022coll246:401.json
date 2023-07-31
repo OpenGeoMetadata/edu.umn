@@ -26,19 +26,26 @@
     "Bhutan Maps",
     "Nepal Maps",
     "Tibet Autonomous Region (China) Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1840"
   ],
   "dct_issued_s": "1840",
+  "gbl_indexYear_im": [
+    "1840"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1840 TO 1840]"
+  ],
   "dct_spatial_sm": [
     "India",
-    "Burma, Myanmar [Burma]",
+    "Myanmar [Burma]--Burma",
     "Bangladesh",
     "Bhutan",
     "Nepal",
-    "People's Republic of China, China"
+    "China--People's Republic of China"
   ],
   "locn_geometry": "POLYGON((68.15 37.23, 97.38 37.23, 97.38 5.13, 68.15 5.13, 68.15 37.23))",
   "dcat_bbox": "ENVELOPE(68.15,97.38,37.23,5.13)",
@@ -60,6 +67,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9973317370601701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:25Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

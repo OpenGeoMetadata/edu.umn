@@ -6,13 +6,17 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:1037",
   "solr_geom": "ENVELOPE(-180,180,90,-90)",
+  "solr_year_i": "1579",
   "dc_creator_sm": [
     "Ortelius, Abraham, 1527-1598"
   ],
   "dc_description_s": "Oval map within illustrated border, showing clouds.; Appears in Latin edition of Ortelius's Theatrum orbis terrarum.; Hand colored.; Includes illustrations.; Latin text on verso.; In lower left: cum privilegio.; Has a crack and re-engraved clouds in lower left corner, which, according to Shirley, dates the map to 1579 or later.|25 x 50 centimeters, on sheet 41 x 53|Scale approximately 1:82,000,000 At equator|General Map Collection",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1037\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1037/manifest.json\"}",
-  "layer_modified_dt": "2022-09-28T02:13:59Z",
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "layer_modified_dt": "2023-06-23T22:01:00Z",
   "dc_language_sm": [
     "lat"
   ],

@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Rand McNally and Company."
+    "Rand McNally and Company"
   ],
   "dct_publisher_sm": [
     "Rand, McNally and Co. (Chicago, Ill.), 1895"
@@ -22,12 +22,19 @@
   "dcat_keyword_sm": [
     "Railroads Minnesota Maps",
     "Minnesota Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1897"
   ],
   "dct_issued_s": "1897",
+  "gbl_indexYear_im": [
+    "1897"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1897 TO 1897]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
@@ -51,6 +58,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9951765520001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:57Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

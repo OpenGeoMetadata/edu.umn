@@ -20,6 +20,12 @@
     "1853"
   ],
   "dct_issued_s": "1853",
+  "gbl_indexYear_im": [
+    "1853"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1853 TO 1853]"
+  ],
   "locn_geometry": "POLYGON((-71.0994 42.3836, -70.9903 42.3836, -70.9903 42.3108, -71.0994 42.3108, -71.0994 42.3836))",
   "dcat_bbox": "ENVELOPE(-71.0994,-70.9903,42.3836,42.3108)",
   "dcat_centroid": "42.3472,-71.04485",
@@ -40,6 +46,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9927877990001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:32Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

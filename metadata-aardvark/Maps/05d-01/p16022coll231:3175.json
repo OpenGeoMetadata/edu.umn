@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Smith, William G"
+    "Smith, William G. (Surveyor)"
   ],
   "dct_publisher_sm": [
     "G.P.O (Washington)"
@@ -21,12 +21,19 @@
   ],
   "dcat_keyword_sm": [
     "Soils",
-    "Soil Surveys"
+    "Soil Surveys",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1916"
   ],
   "dct_issued_s": "1916",
+  "gbl_indexYear_im": [
+    "1916"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1916 TO 1916]"
+  ],
   "locn_geometry": "POLYGON((-96.505 48.1742, -95.5817 48.1742, -95.5817 47.9333, -96.505 47.9333, -96.505 48.1742))",
   "dcat_bbox": "ENVELOPE(-96.505,-95.5817,48.1742,47.9333)",
   "dcat_centroid": "48.05375,-96.04335",
@@ -47,6 +54,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9924218890001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:23Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

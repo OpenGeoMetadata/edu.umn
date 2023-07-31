@@ -5,7 +5,8 @@
   "dc_title_s": "Route map of the Bombay Presidency",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:449",
-  "solr_geom": "ENVELOPE(72.77583333,144.9863889,19.27138889,18.89277778)",
+  "solr_geom": "ENVELOPE(65.833333,76.5,31,14.166667)",
+  "solr_year_i": "1852",
   "dc_creator_sm": [
     "East India Company. Army. Bombay Army"
   ],
@@ -13,10 +14,10 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:449\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/449/manifest.json\"}",
   "dct_spatial_sm": [
-    "Bombay, India",
+    "India--Bombay",
     "India"
   ],
-  "layer_modified_dt": "2022-09-28T02:16:14Z",
+  "layer_modified_dt": "2023-06-23T18:47:35Z",
   "dc_language_sm": [
     "eng"
   ],

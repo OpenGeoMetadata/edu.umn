@@ -9,21 +9,31 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Geo. A. Ogle & Co."
+    "Geo. A. Ogle & Company"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "gbl_resourceType_sm": [
+    "Atlases"
+  ],
   "dcat_keyword_sm": [
     "Real Property Minnesota Kittson County Maps",
     "Kittson County (Minn.) Maps",
-    "Kittson County (Minn.) Directories"
+    "Kittson County (Minn.) Directories",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1912"
   ],
   "dct_issued_s": "1912",
+  "gbl_indexYear_im": [
+    "1912"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1912 TO 1912]"
+  ],
   "dct_spatial_sm": [
     "United States"
   ],
@@ -47,6 +57,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9964147180001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:15Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

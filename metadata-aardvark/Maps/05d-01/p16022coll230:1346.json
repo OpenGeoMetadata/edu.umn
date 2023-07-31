@@ -22,12 +22,19 @@
   "dcat_keyword_sm": [
     "Nautical Charts",
     "Nautical Charts",
-    "Harbors"
+    "Harbors",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1881"
   ],
   "dct_issued_s": "1881",
+  "gbl_indexYear_im": [
+    "1881"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1881 TO 1881]"
+  ],
   "locn_geometry": "POLYGON((-73.5 42.8833, -69.85 42.8833, -69.85 41.1833, -73.5 41.1833, -73.5 42.8833))",
   "dcat_bbox": "ENVELOPE(-73.5,-69.85,42.8833,41.1833)",
   "dcat_centroid": "42.0333,-71.675",
@@ -48,6 +55,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9914745140001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:45Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Cooley, George W"
+    "Cooley, George W."
   ],
   "dct_publisher_sm": [
     "George W. Cooley (Minneapolis)"
@@ -20,12 +20,19 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Real Property"
+    "Real Property",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1896"
   ],
   "dct_issued_s": "1896",
+  "gbl_indexYear_im": [
+    "1896"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1896 TO 1896]"
+  ],
   "dct_spatial_sm": [
     "United States"
   ],
@@ -49,6 +56,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9954052650001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:55Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

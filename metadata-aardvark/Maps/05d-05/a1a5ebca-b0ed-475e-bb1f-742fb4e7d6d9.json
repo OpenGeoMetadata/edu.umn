@@ -1,58 +1,30 @@
 {
-  "dct_title_s": "Land-surface topography of the eastern half of the Mesabi Iron Range, northern Minnesota 1899 and 1999, M-157, Plate 3",
-  "dct_description_sm": [
-    "Shaded-relief (psuedo 3d) map showing elevation changes as a result of mining between 1899 and 1999 eastern half of Mesabi Iron range, scale 1:100,000."
-  ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
-    "Lively, R.S.",
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "a1a5ebca-b0ed-475e-bb1f-742fb4e7d6d9",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Land-surface topography of the eastern half of the Mesabi Iron Range, northern Minnesota 1899 and 1999, M-157, Plate 3",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "a1a5ebca-b0ed-475e-bb1f-742fb4e7d6d9",
+  "solr_geom": "ENVELOPE(-97.24,-89.48,49.46,43.5)",
+  "solr_year_i": "2005",
+  "dc_creator_sm": [
     "Bauer, Emily J.",
-    "Jirsa, Mark A."
+    "Jirsa, Mark A.",
+    "Lively, R. S."
   ],
-  "dct_publisher_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "dcat_theme_sm": [
-    "Environment"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "dct_temporal_sm": [
-    "2005"
-  ],
-  "dct_issued_s": "2005",
-  "gbl_indexYear_im": [
-    "2005"
-  ],
-  "gbl_dateRange_drsim": [
-    "[2005 TO 2005]"
-  ],
+  "dc_description_s": "Shaded-relief (psuedo 3d) map showing elevation changes as a result of mining between 1899 and 1999 eastern half of Mesabi Iron range, scale 1:100,000.",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22573.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/874/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:874\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-97.24,-89.48,49.46,43.5)",
-  "dcat_bbox": "ENVELOPE(-97.24,-89.48,49.46,43.5)",
-  "dcat_centroid": "46.480000000000004,-93.36",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:20:21Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_isPartOf_sm": [
-    "05d-05"
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22573.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/874/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:874\"}",
-  "id": "a1a5ebca-b0ed-475e-bb1f-742fb4e7d6d9",
-  "dct_identifier_sm": [
-    "a1a5ebca-b0ed-475e-bb1f-742fb4e7d6d9"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:34:02Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Minnesota Geological Survey",
+  "dct_issued_s": "2005",
+  "dct_temporal_sm": [
+    "2005"
+  ]
 }

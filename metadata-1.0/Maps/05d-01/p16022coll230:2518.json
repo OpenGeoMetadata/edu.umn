@@ -5,7 +5,8 @@
   "dc_title_s": "Map of Alaska",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:2518",
-  "solr_geom": "ENVELOPE(173.0,-126.0,72.0,51.0)",
+  "solr_geom": "ENVELOPE(-179.9,-129.97,71.6,51.02)",
+  "solr_year_i": "1925",
   "dc_creator_sm": [
     "Geological Survey (U.S.)"
   ],
@@ -15,7 +16,7 @@
   "dct_spatial_sm": [
     "Alaska"
   ],
-  "layer_modified_dt": "2022-09-28T02:15:39Z",
+  "layer_modified_dt": "2023-02-07T18:35:19Z",
   "dc_language_sm": [
     "eng"
   ],

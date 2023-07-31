@@ -10,8 +10,8 @@
     "fre"
   ],
   "dct_creator_sm": [
-    "de L'Isle, Guillaume, 1675-1726",
-    "Coávens et Mortier"
+    "Coávens et Mortier",
+    "L'Isle, Guillaume de, 1675-1726"
   ],
   "dct_publisher_sm": [
     "Chez Iean Coávens et Corneille Mortier, geographes; Amsteldam"
@@ -25,12 +25,19 @@
   ],
   "dcat_keyword_sm": [
     "Sri Lanka Maps Early Works to 1800",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "between 1750 and 1759"
   ],
   "dct_issued_s": "1750 - 1759?",
+  "gbl_indexYear_im": [
+    "1750"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1750 TO 1759]"
+  ],
   "dct_spatial_sm": [
     "Sri Lanka"
   ],
@@ -54,6 +61,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9938947780001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:11Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -21,16 +21,23 @@
     "Thematic maps"
   ],
   "dcat_keyword_sm": [
-    "Thematic Map"
+    "Thematic Map",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1970"
   ],
   "dct_issued_s": "1970-06",
+  "gbl_indexYear_im": [
+    "1970"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1970 TO 1970]"
+  ],
   "dct_spatial_sm": [
-    "Hennepin County, Minnesota",
-    "Ramsey County, Minnesota",
-    "Minneapolis-St.Paul-Bloomington, Minnesota",
+    "Minnesota--Hennepin County",
+    "Minnesota--Ramsey County",
+    "Minnesota--Minneapolis-St.Paul-Bloomington",
     "Minnesota"
   ],
   "locn_geometry": "POLYGON((-93.9791 45.361, -92.8021 45.361, -92.8021 44.4981, -93.9791 44.4981, -93.9791 45.361))",
@@ -50,6 +57,6 @@
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll289:33\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll289/33/manifest.json\"}",
   "id": "p16022coll289:33",
-  "gbl_mdModified_dt": "2022-09-28T02:15:56Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

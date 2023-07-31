@@ -20,8 +20,14 @@
     "Maps"
   ],
   "dct_issued_s": "1924",
+  "gbl_indexYear_im": [
+    "1924"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1924 TO 1924]"
+  ],
   "dct_spatial_sm": [
-    "Houston, Texas",
+    "Texas--Houston",
     "Texas"
   ],
   "locn_geometry": "POLYGON((-95.90972222 30.11027778, -95.01194444 30.11027778, -95.01194444 29.53694444, -95.90972222 29.53694444, -95.90972222 30.11027778))",
@@ -44,6 +50,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9936932520001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:28Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

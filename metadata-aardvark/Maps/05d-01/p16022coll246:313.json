@@ -10,9 +10,9 @@
     "dut"
   ],
   "dct_creator_sm": [
-    "van der Aa, Pieter, 1659-1733",
-    "de Lavanha, I. B.",
-    "da Cunha, Nuno, 1664-1750."
+    "Aa, Pieter van der, 1659-1733",
+    "Cunha, Nuno da, 1664-1750",
+    "de Lavanha, I. B."
   ],
   "dct_publisher_sm": [
     "Pieter van der Aa; Leiden, Netherlands"
@@ -24,12 +24,19 @@
   "dcat_keyword_sm": [
     "West Bengal (India) Maps Early Works to 1800",
     "Bangladesh Maps Early Works to 1800",
-    "Early Maps"
+    "Early Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1717"
   ],
   "dct_issued_s": "1717",
+  "gbl_indexYear_im": [
+    "1717"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1717 TO 1717]"
+  ],
   "dct_spatial_sm": [
     "India"
   ],
@@ -53,6 +60,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9973944401901701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:05Z",
+  "gbl_mdModified_dt": "2023-02-07T18:32:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

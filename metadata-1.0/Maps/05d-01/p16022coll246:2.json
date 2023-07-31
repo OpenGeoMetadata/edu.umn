@@ -6,17 +6,19 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:2",
   "solr_geom": "ENVELOPE(72.16,82,19.25,7.8)",
+  "solr_year_i": "1799",
   "dc_creator_sm": [
-    "Faden, William, 1749-1836",
-    "Baker, Benjamin"
+    "Baker, B. (Benjamin), active 1766-1824",
+    "Faden, William, 1749-1836"
   ],
   "dc_description_s": "Cartographic Details: Scale [1:1,300,000] (E 73°00'--E 82°00'/N 19°15'--N 7°48'). Coverage includes northern Sri Lanka. Relief shown by hachures.\"Printed for W. Faden, geographer to the King and to the Prince of Wales, Charing Cross, Jan'y 1st, 1799.\"|Second edition.|99 x 79 centimeters|Scale [1:1,300,000]|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:2\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/2/manifest.json\"}",
   "dct_spatial_sm": [
-    "India; Sri Lanka"
+    "India",
+    "Sri Lanka"
   ],
-  "layer_modified_dt": "2022-09-28T02:14:16Z",
+  "layer_modified_dt": "2023-02-07T18:33:13Z",
   "dc_language_sm": [
     "eng"
   ],

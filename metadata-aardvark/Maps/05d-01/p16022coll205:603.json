@@ -20,18 +20,27 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Central Business Districts"
+    "Central Business Districts",
+    "2022-creator-sprint",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1891"
   ],
   "dct_issued_s": "1891",
-  "dct_spatial_sm": [
-    "Cincinnati, Ohio"
+  "gbl_indexYear_im": [
+    "1891"
   ],
-  "locn_geometry": "POLYGON((-84.451 39.151, -84.45 39.151, -84.45 39.15, -84.451 39.15, -84.451 39.151))",
-  "dcat_bbox": "ENVELOPE(-84.451,-84.45,39.151,39.15)",
-  "dcat_centroid": "39.1505,-84.4505",
+  "gbl_dateRange_drsim": [
+    "[1891 TO 1891]"
+  ],
+  "dct_spatial_sm": [
+    "Ohio--Cincinnati"
+  ],
+  "locn_geometry": "POLYGON((-84.71239 39.221037, -84.369578 39.221037, -84.369578 39.052057, -84.71239 39.052057, -84.71239 39.221037))",
+  "dcat_bbox": "ENVELOPE(-84.71239,-84.369578,39.221037,39.052057)",
+  "dcat_centroid": "39.136547,-84.54098400000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,6 +58,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9973999677901701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:52Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

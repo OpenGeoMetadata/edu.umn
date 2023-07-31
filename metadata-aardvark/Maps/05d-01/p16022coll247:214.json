@@ -9,8 +9,8 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Minnesota Forest Service",
-    "Cox, William Thomas, 1878-1961"
+    "Cox, William T. (William Thomas), 1878-1961",
+    "Minnesota Forest Service"
   ],
   "dct_publisher_sm": [
     "Forest Service;  Minnesota"
@@ -22,12 +22,19 @@
   "dcat_keyword_sm": [
     "Outdoor Recreation Minnesota Itasca State Park Maps",
     "Itasca State Park (Minn.) Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1914"
   ],
   "dct_issued_s": "1914",
+  "gbl_indexYear_im": [
+    "1914"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1914 TO 1914]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
@@ -48,6 +55,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9954726030001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:40Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

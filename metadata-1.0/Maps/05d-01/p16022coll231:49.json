@@ -6,23 +6,24 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll231:49",
   "solr_geom": "ENVELOPE(-97.16,-95.58,48.61,48.1)",
+  "solr_year_i": "1906",
   "dc_creator_sm": [
-    "Minn State Bank of Warren",
-    "Taralseth, O. H.",
-    "Melgaard, H. L.",
-    "Nelson, C. A.",
-    "Matson, H. C.",
     "Marshall County Land Co. (Warren, Minn.)",
-    "Register Print (Warren, Minn.)"
+    "Matson, H. C.",
+    "Melgaard, H. L.",
+    "Minn State Bank of Warren",
+    "Nelson, Carl A. (Cashier of the State Bank of Warren)",
+    "Register Print (Warren, Minn.)",
+    "Taralseth, O. H."
   ],
   "dc_description_s": "Cartographic Details: Scale approximately 1:150,000 (W 97°10'--W 95°35'/N 48°37'--N 48°06'). Also shows portions of Pennington and Polk Counties, Minnesota. \"O.H. Taralseth, president, M.L. Melgaard, vice pres., C.A. Nelson, cashier, H.C. Matson, ass't cashier.\" Includes location map.|56 x 86 centimeters|Scale approximately 1:150,000|Minnesota County Maps, Plat Books, and Atlases",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:49\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/49/manifest.json\"}",
   "dct_spatial_sm": [
-    "Marshall County, Minnesota",
+    "Minnesota--Marshall County",
     "Minnesota"
   ],
-  "layer_modified_dt": "2022-09-28T02:15:06Z",
+  "layer_modified_dt": "2023-02-07T18:34:34Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -10,10 +10,10 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Adams, capt. Henry",
-    "Hall, Sidney",
+    "Adams, Henry, Captain",
     "Duff, James Grant, 1789-1858",
-    "Longman, Rees, Orme, Brown, Green, and Longman."
+    "Hall, Sidney",
+    "Longman, Rees, Orme, Brown, and Green"
   ],
   "dct_publisher_sm": [
     "Longman, Rees, Orme, Browne & Green, Paternoster Row ; London"
@@ -24,12 +24,19 @@
   ],
   "dcat_keyword_sm": [
     "Maharashtra (India) Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1826"
   ],
   "dct_issued_s": "1826",
+  "gbl_indexYear_im": [
+    "1826"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1826 TO 1826]"
+  ],
   "dct_spatial_sm": [
     "India"
   ],
@@ -53,6 +60,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9917728120001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:21Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

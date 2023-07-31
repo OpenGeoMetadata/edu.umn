@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Mitchell, Samuel Augustus, 1792-1868"
+    "Mitchell, S. Augustus (Samuel Augustus), 1792-1868"
   ],
   "dct_publisher_sm": [
     "S. Augustus Mitchell (Philadelphia), 1860"
@@ -21,12 +21,19 @@
   ],
   "dcat_keyword_sm": [
     "Northwest, Pacific Historical Geography Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1860"
   ],
   "dct_issued_s": "1860",
+  "gbl_indexYear_im": [
+    "1860"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1860 TO 1860]"
+  ],
   "dct_spatial_sm": [
     "United States"
   ],
@@ -50,6 +57,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9961046500001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:37Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

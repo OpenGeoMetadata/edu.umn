@@ -21,14 +21,22 @@
   ],
   "dcat_keyword_sm": [
     "London (England) Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1832"
   ],
   "dct_issued_s": "1832?",
+  "gbl_indexYear_im": [
+    "1832"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1832 TO 1832]"
+  ],
   "dct_spatial_sm": [
-    "United Kingdom"
+    "England--London",
+    "England"
   ],
   "locn_geometry": "POLYGON((-0.1001 51.51, -0.06 51.51, -0.06 51.5, -0.1001 51.5, -0.1001 51.51))",
   "dcat_bbox": "ENVELOPE(-0.1001,-0.06,51.51,51.5)",
@@ -50,6 +58,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9951772950001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:23Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

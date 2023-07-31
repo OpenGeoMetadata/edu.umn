@@ -21,12 +21,19 @@
   ],
   "dcat_keyword_sm": [
     "Royal Canadian Mounted Police",
-    "Police Stations"
+    "Police Stations",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1904"
   ],
   "dct_issued_s": "1904",
+  "gbl_indexYear_im": [
+    "1904"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1904 TO 1904]"
+  ],
   "locn_geometry": "POLYGON((-141 71, -85 71, -85 52, -141 52, -141 71))",
   "dcat_bbox": "ENVELOPE(-141,-85,71,52)",
   "dcat_centroid": "61.5,-113.0",
@@ -47,6 +54,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9940787940001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:04Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

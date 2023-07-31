@@ -19,10 +19,20 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "dcat_keyword_sm": [
+    "",
+    "2022-creator-sprint"
+  ],
   "dct_temporal_sm": [
     "1795"
   ],
   "dct_issued_s": "1795",
+  "gbl_indexYear_im": [
+    "1795"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1795 TO 1795]"
+  ],
   "locn_geometry": "POLYGON((-71.9 42.0167, -71.0833 42.0167, -71.0833 41.0833, -71.9 41.0833, -71.9 42.0167))",
   "dcat_bbox": "ENVELOPE(-71.9,-71.0833,42.0167,41.0833)",
   "dcat_centroid": "41.55,-71.49164999999999",
@@ -43,6 +53,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9956453510001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:15Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }

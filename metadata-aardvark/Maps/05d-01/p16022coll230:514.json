@@ -9,7 +9,7 @@
     "fre"
   ],
   "dct_creator_sm": [
-    "de Vaugondy, Gilles Robert, 1688-1766"
+    "Robert de Vaugondy, Gilles, 1688-1766"
   ],
   "dct_publisher_sm": [
     "P. Santini (Venice)"
@@ -25,12 +25,19 @@
     "Romania Maps Early Works to 1800",
     "Europe, Central Maps Early Works to 1800",
     "Balkan Peninsula Maps Early Works to 1800",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1770-1779"
   ],
   "dct_issued_s": "1770 - 1779",
+  "gbl_indexYear_im": [
+    "1770"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1770 TO 1779]"
+  ],
   "dct_spatial_sm": [
     "Hungary"
   ],
@@ -54,6 +61,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9940099260001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:59Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

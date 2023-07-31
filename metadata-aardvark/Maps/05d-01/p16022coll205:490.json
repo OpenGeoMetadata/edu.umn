@@ -22,12 +22,19 @@
   ],
   "dcat_keyword_sm": [
     "Pan American Exposition",
-    "Exhibitions"
+    "Exhibitions",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
-    "190-19001"
+    "1900-1901"
   ],
-  "dct_issued_s": "19011900",
+  "dct_issued_s": "1901",
+  "gbl_indexYear_im": [
+    "1900"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1901]"
+  ],
   "locn_geometry": "POLYGON((-78.9194 42.9664, -78.795 42.9664, -78.795 42.8258, -78.9194 42.8258, -78.9194 42.9664))",
   "dcat_bbox": "ENVELOPE(-78.9194,-78.795,42.9664,42.8258)",
   "dcat_centroid": "42.896100000000004,-78.8572",
@@ -48,6 +55,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9923711400001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:04Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

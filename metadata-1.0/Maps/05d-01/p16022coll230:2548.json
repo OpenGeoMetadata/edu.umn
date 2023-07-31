@@ -5,7 +5,8 @@
   "dc_title_s": "Tongass National Forest, Alaska : Copper River meridian",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:2548",
-  "solr_geom": "ENVELOPE(138.0,130.0,60.0,54.0)",
+  "solr_geom": "ENVELOPE(-135,-130.0,60.0,54.0)",
+  "solr_year_i": "1929",
   "dc_creator_sm": [
     "United States. Forest Service"
   ],
@@ -15,7 +16,7 @@
   "dct_spatial_sm": [
     "Alaska"
   ],
-  "layer_modified_dt": "2022-09-28T02:15:50Z",
+  "layer_modified_dt": "2023-02-07T18:35:32Z",
   "dc_language_sm": [
     "eng"
   ],

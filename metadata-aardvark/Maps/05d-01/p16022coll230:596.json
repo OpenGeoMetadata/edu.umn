@@ -10,7 +10,7 @@
     "lat"
   ],
   "dct_creator_sm": [
-    "Ottens, Reinier, 1698-1750"
+    "Ottens, R. (Reinier), 1698-1750"
   ],
   "dct_publisher_sm": [
     "Apud R. & I. Ottens (Amsterdam)"
@@ -27,12 +27,19 @@
     "Maps Hudson Bay 1745",
     "Maps Labrador 1745",
     "Nautical Charts Hudson Bay 1745",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1745"
   ],
   "dct_issued_s": "1745",
+  "gbl_indexYear_im": [
+    "1745"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1745 TO 1745]"
+  ],
   "dct_spatial_sm": [
     "Canada"
   ],
@@ -56,6 +63,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9973344204401701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:07Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

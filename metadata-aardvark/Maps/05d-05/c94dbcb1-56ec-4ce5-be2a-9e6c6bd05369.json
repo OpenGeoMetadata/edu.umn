@@ -1,60 +1,32 @@
 {
-  "dct_title_s": "Geologic atlas of Washington County, Minnesota, C-5, Plate 1, Data Base",
-  "dct_description_sm": [
-    "Map showing locations of water wells, soil borings, outcrops and cuttings samples collected during water well drilling.  Distribution and sources of primary information tthat guide the geologic interpretations used to make the geologic maps in the series,  scale 1:100,000, Washington County."
-  ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
-    "Balaban, N.H.",
-    "Cleland, Jane M.",
-    "Tipping, Robert G.",
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "c94dbcb1-56ec-4ce5-be2a-9e6c6bd05369",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Geologic atlas of Washington County, Minnesota, C-5, Plate 1, Data Base",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "c94dbcb1-56ec-4ce5-be2a-9e6c6bd05369",
+  "solr_geom": "ENVELOPE(-93.0294,-92.7415,45.2984,44.7381)",
+  "solr_year_i": "1990",
+  "dc_creator_sm": [
+    "Balaban, Nancy",
     "Bloomgren, Bruce A.",
-    "Meints, Joyce"
+    "Cleland, Jane M.",
+    "Meints, Joyce",
+    "Tipping, Robert G."
   ],
-  "dct_publisher_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "dcat_theme_sm": [
-    "Environment"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "dct_temporal_sm": [
-    "1990"
-  ],
-  "dct_issued_s": "1990",
-  "gbl_indexYear_im": [
-    "1990"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1990 TO 1990]"
-  ],
+  "dc_description_s": "Map showing locations of water wells, soil borings, outcrops and cuttings samples collected during water well drilling.  Distribution and sources of primary information tthat guide the geologic interpretations used to make the geologic maps in the series,  scale 1:100,000, Washington County.",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22250.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/651/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:651\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-93.0294,-92.7415,45.2984,44.7381)",
-  "dcat_bbox": "ENVELOPE(-93.0294,-92.7415,45.2984,44.7381)",
-  "dcat_centroid": "45.01825,-92.88544999999999",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:18:57Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_isPartOf_sm": [
-    "05d-05"
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22250.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/651/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:651\"}",
-  "id": "c94dbcb1-56ec-4ce5-be2a-9e6c6bd05369",
-  "dct_identifier_sm": [
-    "c94dbcb1-56ec-4ce5-be2a-9e6c6bd05369"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:12Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Minnesota Geological Survey",
+  "dct_issued_s": "1990",
+  "dct_temporal_sm": [
+    "1990"
+  ]
 }

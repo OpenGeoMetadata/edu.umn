@@ -10,14 +10,14 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Railroad and Warehouse Commission of the State of Minnesota.",
-    "Cram, George Franklin (1841-1928)",
-    "Mills, Ira B.",
-    "Elmquist, Charles Emil (1873-1948)",
-    "Jacobson, Ole P.B.",
     "Clausen, A. C.",
-    "Yapp, Thomas",
-    "George F. Cram Company"
+    "Cram, George Franklin, 1841-1928",
+    "Elmquist, Charles Emil (1873-1948)",
+    "George F. Cram Company",
+    "Jacobson, Ole P.B.",
+    "Mills, Ira B.",
+    "Railroad and Warehouse Commission of the State of Minnesota",
+    "Yapp, Thomas"
   ],
   "dct_publisher_sm": [
     "George F. Cram (Chicago, Ill.), 1909"
@@ -34,12 +34,19 @@
     "Railroads Minnesota Duluth Maps 1914",
     "Railroads Wisconsin Superior Maps 1914",
     "Election Districts Minnesota Maps 1914",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1914"
   ],
   "dct_issued_s": "1914",
+  "gbl_indexYear_im": [
+    "1914"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1914 TO 1914]"
+  ],
   "dct_spatial_sm": [
     "United States"
   ],
@@ -63,6 +70,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9915899560001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:19Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "George F. Cram Company."
+    "George F. Cram Company"
   ],
   "dct_publisher_sm": [
     "George F. Cram (Chicago, Ill.), 1909"
@@ -23,14 +23,21 @@
     "Election Districts Illinois Chicago Maps",
     "Chicago (Ill.) Administrative and Political Divisions Maps",
     "Chicago (Ill.) Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1909"
   ],
   "dct_issued_s": "1909",
+  "gbl_indexYear_im": [
+    "1909"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1909 TO 1909]"
+  ],
   "dct_spatial_sm": [
-    "Chicago, Illinois"
+    "Illinois--Chicago"
   ],
   "locn_geometry": "POLYGON((-87.93 42.01, -87.51 42.01, -87.51 41.6301, -87.93 41.6301, -87.93 42.01))",
   "dcat_bbox": "ENVELOPE(-87.93,-87.51,42.01,41.6301)",
@@ -52,6 +59,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9940295060001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:09Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

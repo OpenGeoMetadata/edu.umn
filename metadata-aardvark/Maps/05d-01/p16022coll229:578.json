@@ -16,16 +16,28 @@
   ],
   "dcat_keyword_sm": [
     "Atlases, British",
-    "Historical Geography Maps"
+    "Historical Geography Maps",
+    "202212bbox",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1851?"
   ],
   "dct_issued_s": "1851?",
+  "gbl_indexYear_im": [
+    "1851"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1851 TO 1851]"
+  ],
   "dct_spatial_sm": [
-    "Edinburgh, Scotland",
+    "Scotland--Edinburgh",
     "United Kingdom"
   ],
+  "locn_geometry": "POLYGON((-3.449533 56.004084, -3.074951 56.004084, -3.074951 55.818792, -3.449533 55.818792, -3.449533 56.004084))",
+  "dcat_bbox": "ENVELOPE(-3.449533,-3.074951,56.004084,55.818792)",
+  "dcat_centroid": "55.911438000000004,-3.262242",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -43,6 +55,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9954146930001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:01Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

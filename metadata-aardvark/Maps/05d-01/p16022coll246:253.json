@@ -10,8 +10,8 @@
     "dut"
   ],
   "dct_creator_sm": [
-    "van Keulen, Johannes, active 1726-1753",
-    "Trÿsz, A."
+    "Trÿsz, A.",
+    "van Keulen, Johannes, active 1726-1753"
   ],
   "dct_publisher_sm": [
     "Ioannes van Keulen; Amsterdam"
@@ -27,12 +27,19 @@
     "Nautical Charts Bengal, Bay of Early Works to 1800",
     "Bengal, Bay of Maps Early Works to 1800",
     "Early Maps",
-    "Nautical Charts"
+    "Nautical Charts",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1742"
   ],
   "dct_issued_s": "1742",
+  "gbl_indexYear_im": [
+    "1742"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1742 TO 1742]"
+  ],
   "dct_spatial_sm": [
     "Asia"
   ],
@@ -56,6 +63,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9973944508801701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:07Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

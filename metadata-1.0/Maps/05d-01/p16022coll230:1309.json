@@ -5,14 +5,18 @@
   "dc_title_s": "The American Union Telegraph Company : lessee of the Dominion Telegraph Company of Canada, connecting with the French Atlantic cable : [map of the United States and eastern Canada showing completed and projected lines]",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:1309",
-  "solr_geom": "ENVELOPE(144.4,-64.35,71.6,-14.75)",
+  "solr_geom": "ENVELOPE(-126.7,-60.7,49.8,27.5)",
+  "solr_year_i": "1874",
   "dc_creator_sm": [
     "American Union Telegraph Company"
   ],
   "dc_description_s": "Text includes reference to Act of Congress July 2nd, 1874.; Includes directory to offices of the American Union Telegraph Co. and text.|40 x 79 centimeters|Scale not given|General Map Collection",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1309\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1309/manifest.json\"}",
-  "layer_modified_dt": "2022-09-28T02:16:17Z",
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "layer_modified_dt": "2023-06-23T18:47:36Z",
   "dc_language_sm": [
     "eng"
   ],

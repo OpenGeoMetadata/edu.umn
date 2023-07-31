@@ -1,56 +1,28 @@
 {
-  "dct_title_s": "Bedrock geology of the Hastings quadrangle, Dakota, Goodhue and Washington Counties, Minnesota, M-168",
-  "dct_description_sm": [
-    "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Hastings quadrangle, scale 1:24,000."
-  ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "bcfe0636-1b86-47f9-b0c3-eb0a78e2eb4a",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Bedrock geology of the Hastings quadrangle, Dakota, Goodhue and Washington Counties, Minnesota, M-168",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "bcfe0636-1b86-47f9-b0c3-eb0a78e2eb4a",
+  "solr_geom": "ENVELOPE(-93.3285,-92.7339,44.9252,44.4729)",
+  "solr_year_i": "2006",
+  "dc_creator_sm": [
     "Mossler, John H."
   ],
-  "dct_publisher_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "dcat_theme_sm": [
-    "Environment"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "dct_temporal_sm": [
-    "2006"
-  ],
-  "dct_issued_s": "2006",
-  "gbl_indexYear_im": [
-    "2006"
-  ],
-  "gbl_dateRange_drsim": [
-    "[2006 TO 2006]"
-  ],
+  "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Hastings quadrangle, scale 1:24,000.",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22587.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/888/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:888\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-93.3285,-92.7339,44.9252,44.4729)",
-  "dcat_bbox": "ENVELOPE(-93.3285,-92.7339,44.9252,44.4729)",
-  "dcat_centroid": "44.69905,-93.03120000000001",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:16:48Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_isPartOf_sm": [
-    "05d-05"
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22587.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/888/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:888\"}",
-  "id": "bcfe0636-1b86-47f9-b0c3-eb0a78e2eb4a",
-  "dct_identifier_sm": [
-    "bcfe0636-1b86-47f9-b0c3-eb0a78e2eb4a"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:08Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Minnesota Geological Survey",
+  "dct_issued_s": "2006",
+  "dct_temporal_sm": [
+    "2006"
+  ]
 }

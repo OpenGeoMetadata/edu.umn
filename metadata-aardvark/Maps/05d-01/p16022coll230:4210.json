@@ -21,12 +21,22 @@
   ],
   "dcat_keyword_sm": [
     "Roads",
-    "Nautical Charts"
+    "Nautical Charts",
+    "202212bbox"
   ],
   "dct_issued_s": "1786",
+  "gbl_indexYear_im": [
+    "1786"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1786 TO 1786]"
+  ],
   "dct_spatial_sm": [
     "India"
   ],
+  "locn_geometry": "POLYGON((67.95 35.67, 97.4 35.67, 97.4 6.55, 67.95 6.55, 67.95 35.67))",
+  "dcat_bbox": "ENVELOPE(67.95,97.4,35.67,6.55)",
+  "dcat_centroid": "21.11,82.67500000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -44,6 +54,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9977801691601701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:12Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

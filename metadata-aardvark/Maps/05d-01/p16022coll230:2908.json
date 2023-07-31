@@ -19,12 +19,23 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "dcat_keyword_sm": [
+    "",
+    "2022-creator-sprint"
+  ],
   "dct_temporal_sm": [
     "1695-1772"
   ],
   "dct_issued_s": "1695 - 1772",
+  "gbl_indexYear_im": [
+    "1695"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1695 TO 1772]"
+  ],
   "dct_spatial_sm": [
-    "Europe"
+    "England--Worcestershire",
+    "England"
   ],
   "locn_geometry": "POLYGON((-2.6333 52.4333, -1.7667 52.4333, -1.7667 51.95, -2.6333 51.95, -2.6333 52.4333))",
   "dcat_bbox": "ENVELOPE(-2.6333,-1.7667,52.4333,51.95)",
@@ -46,6 +57,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9944913890001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:58Z",
+  "gbl_mdModified_dt": "2023-02-07T18:32:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

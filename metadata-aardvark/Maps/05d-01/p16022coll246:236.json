@@ -10,7 +10,7 @@
     "fre"
   ],
   "dct_creator_sm": [
-    "Bellin, Jacques Nicolas, 1703-1772"
+    "Bellin, Jacques Nicolas, 1703-1773"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -18,12 +18,19 @@
   ],
   "dcat_keyword_sm": [
     "Sri Lanka Maps Early Works to 1800",
-    "Early Maps"
+    "Early Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1750"
   ],
   "dct_issued_s": "1750",
+  "gbl_indexYear_im": [
+    "1750"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1750 TO 1750]"
+  ],
   "dct_spatial_sm": [
     "Sri Lanka"
   ],
@@ -47,6 +54,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9973943608901701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:07Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

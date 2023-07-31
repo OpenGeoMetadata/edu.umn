@@ -6,13 +6,17 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3010",
   "solr_geom": "ENVELOPE(-2.0,0.1167,52.5,51.4167)",
+  "solr_year_i": "1835",
   "dc_creator_sm": [
-    "Stephenson, Robert"
+    "Stephenson, Robert, 1803-1859"
   ],
   "dc_description_s": "Relief shown by hachures.; \"Section shewing the inclinations\" in lower margin.; Insets: Birmingham Depot approximately 1:16,200.--London Depot at Chalk Farm and Euston Grove approximately 1:10,750.|74 x 153 centimeters|Scale 1:126,720|General Map Collection",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3010\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3010/manifest.json\"}",
-  "layer_modified_dt": "2022-09-28T02:14:24Z",
+  "dct_spatial_sm": [
+    "England"
+  ],
+  "layer_modified_dt": "2023-02-07T18:33:23Z",
   "dc_language_sm": [
     "eng"
   ],

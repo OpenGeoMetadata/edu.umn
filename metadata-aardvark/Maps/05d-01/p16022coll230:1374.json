@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Geo. H. Walker & Co"
+    "Geo. H. Walker & Co."
   ],
   "dct_publisher_sm": [
     "Geo. H. Walker & Co (Boston,  Mass), 1903"
@@ -19,10 +19,20 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "dcat_keyword_sm": [
+    "",
+    "2022-creator-sprint"
+  ],
   "dct_temporal_sm": [
     "1903"
   ],
   "dct_issued_s": "1903",
+  "gbl_indexYear_im": [
+    "1903"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1903 TO 1903]"
+  ],
   "locn_geometry": "POLYGON((-71.6111 42.4, -70.55 42.4, -70.55 41.9278, -71.6111 41.9278, -71.6111 42.4))",
   "dcat_bbox": "ENVELOPE(-71.6111,-70.55,42.4,41.9278)",
   "dcat_centroid": "42.1639,-71.08054999999999",
@@ -43,6 +53,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9974077253401701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:03Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

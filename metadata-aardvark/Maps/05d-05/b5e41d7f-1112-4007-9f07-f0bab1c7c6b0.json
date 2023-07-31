@@ -1,57 +1,29 @@
 {
-  "dct_title_s": "Geologic atlas of Scott County, Minnesota, C-17, Plate 1, Data Base",
-  "dct_description_sm": [
-    "Map showing locations of water wells, soil borings, outcrops and cuttings samples collected during water well drilling.  Distribution and sources of primary information tthat guide the geologic interpretations used to make the geologic maps in the series,  scale 1:100,000, Scott County."
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b5e41d7f-1112-4007-9f07-f0bab1c7c6b0",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Geologic atlas of Scott County, Minnesota, C-17, Plate 1, Data Base",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "b5e41d7f-1112-4007-9f07-f0bab1c7c6b0",
+  "solr_geom": "ENVELOPE(-93.9117,-93.2782,44.8139,44.5446)",
+  "solr_year_i": "2006",
+  "dc_creator_sm": [
+    "Bauer, Emily J.",
+    "Setterholm, Dale R."
   ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
-    "Setterholm, Dale R.",
-    "Bauer, Emily J."
-  ],
-  "dct_publisher_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "dcat_theme_sm": [
-    "Environment"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "dct_temporal_sm": [
-    "2006"
-  ],
-  "dct_issued_s": "2006",
-  "gbl_indexYear_im": [
-    "2006"
-  ],
-  "gbl_dateRange_drsim": [
-    "[2006 TO 2006]"
-  ],
+  "dc_description_s": "Map showing locations of water wells, soil borings, outcrops and cuttings samples collected during water well drilling.  Distribution and sources of primary information tthat guide the geologic interpretations used to make the geologic maps in the series,  scale 1:100,000, Scott County.",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22360.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/760/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:760\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-93.9117,-93.2782,44.8139,44.5446)",
-  "dcat_bbox": "ENVELOPE(-93.9117,-93.2782,44.8139,44.5446)",
-  "dcat_centroid": "44.679249999999996,-93.59495",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:18:55Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_isPartOf_sm": [
-    "05d-05"
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22360.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/760/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:760\"}",
-  "id": "b5e41d7f-1112-4007-9f07-f0bab1c7c6b0",
-  "dct_identifier_sm": [
-    "b5e41d7f-1112-4007-9f07-f0bab1c7c6b0"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:33Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Minnesota Geological Survey",
+  "dct_issued_s": "2006",
+  "dct_temporal_sm": [
+    "2006"
+  ]
 }

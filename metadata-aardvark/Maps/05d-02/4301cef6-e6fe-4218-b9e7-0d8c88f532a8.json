@@ -1,58 +1,29 @@
 {
-  "dct_title_s": "Map of Minnesota - South",
-  "dct_description_sm": [
-    "Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915"
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "4301cef6-e6fe-4218-b9e7-0d8c88f532a8",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Minnesota - South",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "4301cef6-e6fe-4218-b9e7-0d8c88f532a8",
+  "solr_geom": "ENVELOPE(-96.4528,-96.0747,44.6317,44.1984)",
+  "solr_year_i": "1915",
+  "dc_creator_sm": [
+    "Webb Publishing Co."
   ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
-    "Webb Publishing Company"
-  ],
-  "dct_publisher_sm": [
-    "Webb Publishing Company"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "gbl_resourceType_sm": [
-    "Atlases"
-  ],
-  "dcat_keyword_sm": [
-    "Real property -- Minnesota -- Lincoln County -- Maps",
-    "John R. Borchert Map Library"
-  ],
-  "dct_temporal_sm": [
-    "1915"
-  ],
-  "dct_issued_s": "1915",
-  "gbl_indexYear_im": [
-    "1915"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1915 TO 1915]"
-  ],
+  "dc_description_s": "Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{}",
   "dct_spatial_sm": [
-    "Lincoln County, Minnesota",
+    "Minnesota--Lincoln County",
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-96.4528,-96.0747,44.6317,44.1984)",
-  "dcat_bbox": "ENVELOPE(-96.4528,-96.0747,44.6317,44.1984)",
-  "dcat_centroid": "44.41505,-96.26375",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:27:07Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "JPEG",
-  "dct_references_s": "{}",
-  "id": "4301cef6-e6fe-4218-b9e7-0d8c88f532a8",
-  "dct_identifier_sm": [
-    "4301cef6-e6fe-4218-b9e7-0d8c88f532a8"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:31Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Webb Publishing Company",
+  "dct_issued_s": "1915",
+  "dct_temporal_sm": [
+    "1915"
+  ]
 }

@@ -1,58 +1,30 @@
 {
-  "dct_title_s": "Bedrock geology of the Castle Danger quadrangle, Lake County, Minnesota, M-140",
-  "dct_description_sm": [
-    "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Castle Danger quadrangle, scale 1:24,000."
-  ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b4557f07-c63d-4985-ba1e-fe16155c5803",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Bedrock geology of the Castle Danger quadrangle, Lake County, Minnesota, M-140",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "b4557f07-c63d-4985-ba1e-fe16155c5803",
+  "solr_geom": "ENVELOPE(-91.8026,-91.0246,48.2049,46.9311)",
+  "solr_year_i": "2003",
+  "dc_creator_sm": [
     "Boerboom, Terrence J.",
-    "Green, John C.",
+    "Green, John C., 1932-",
     "Miller, James D., Jr."
   ],
-  "dct_publisher_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "dcat_theme_sm": [
-    "Environment"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "dct_temporal_sm": [
-    "2003"
-  ],
-  "dct_issued_s": "2003",
-  "gbl_indexYear_im": [
-    "2003"
-  ],
-  "gbl_dateRange_drsim": [
-    "[2003 TO 2003]"
-  ],
+  "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Castle Danger quadrangle, scale 1:24,000.",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22554.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/857/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:857\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-91.8026,-91.0246,48.2049,46.9311)",
-  "dcat_bbox": "ENVELOPE(-91.8026,-91.0246,48.2049,46.9311)",
-  "dcat_centroid": "47.568,-91.4136",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:16:47Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_isPartOf_sm": [
-    "05d-05"
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22554.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/857/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:857\"}",
-  "id": "b4557f07-c63d-4985-ba1e-fe16155c5803",
-  "dct_identifier_sm": [
-    "b4557f07-c63d-4985-ba1e-fe16155c5803"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:02Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Minnesota Geological Survey",
+  "dct_issued_s": "2003",
+  "dct_temporal_sm": [
+    "2003"
+  ]
 }

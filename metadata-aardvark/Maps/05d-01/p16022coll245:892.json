@@ -21,8 +21,14 @@
     "approximately 1912"
   ],
   "dct_issued_s": "1912?",
+  "gbl_indexYear_im": [
+    "1912"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1912 TO 1912]"
+  ],
   "dct_spatial_sm": [
-    "Saint Paul, Minnesota",
+    "Minnesota--Saint Paul",
     "Minnesota"
   ],
   "locn_geometry": "POLYGON((-93.2084 44.9919, -93.0044 44.9919, -93.0044 44.8872, -93.2084 44.8872, -93.2084 44.9919))",
@@ -45,6 +51,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9919086280001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:11Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

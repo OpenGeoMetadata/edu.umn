@@ -1,57 +1,29 @@
 {
-  "dct_title_s": "Distribution of iron-formation in the main Cuyuna range, east-central Minnesota, M-60",
-  "dct_description_sm": [
-    "Map showing the distribution of iron-formation rocks along the main Cuyuna iron range, scale 1:48,000."
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "6b6d6f54-0d5c-404f-8d54-dd710ddf807a",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Distribution of iron-formation in the main Cuyuna range, east-central Minnesota, M-60",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "6b6d6f54-0d5c-404f-8d54-dd710ddf807a",
+  "solr_geom": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
+  "solr_year_i": "1986",
+  "dc_creator_sm": [
+    "Morey, Daryl D.",
+    "Morey, G.B."
   ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
-    "Morey, G.B.",
-    "Morey, D.D."
-  ],
-  "dct_publisher_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "dcat_theme_sm": [
-    "Environment"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "dct_temporal_sm": [
-    "1986"
-  ],
-  "dct_issued_s": "1986",
-  "gbl_indexYear_im": [
-    "1986"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1986 TO 1986]"
-  ],
+  "dc_description_s": "Map showing the distribution of iron-formation rocks along the main Cuyuna iron range, scale 1:48,000.",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22453.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1162/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1162\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
-  "dcat_bbox": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
-  "dcat_centroid": "46.441900000000004,-93.3613",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:18:08Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_isPartOf_sm": [
-    "05d-05"
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22453.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1162/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1162\"}",
-  "id": "6b6d6f54-0d5c-404f-8d54-dd710ddf807a",
-  "dct_identifier_sm": [
-    "6b6d6f54-0d5c-404f-8d54-dd710ddf807a"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:37Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Minnesota Geological Survey",
+  "dct_issued_s": "1986",
+  "dct_temporal_sm": [
+    "1986"
+  ]
 }

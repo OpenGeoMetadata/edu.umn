@@ -1,57 +1,29 @@
 {
-  "dct_title_s": "Ground-water geochemical atlas for parts of east-central Minnesota, M-58, Plate 2",
-  "dct_description_sm": [
-    "Distribution and concentrations of Boron, and Barium, and Beryllium, and Calcium, and Cobalt, and Chromium in bedrock water wells, scale 1:600,000."
-  ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
-    "Lively, R.S",
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "d07a433b-0bc9-47ff-b84d-7a5d9e6d3b94",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Ground-water geochemical atlas for parts of east-central Minnesota, M-58, Plate 2",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "d07a433b-0bc9-47ff-b84d-7a5d9e6d3b94",
+  "solr_geom": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
+  "solr_year_i": "1985",
+  "dc_creator_sm": [
+    "Lively, R. S.",
     "Morey, G.B."
   ],
-  "dct_publisher_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "dcat_theme_sm": [
-    "Environment"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "dct_temporal_sm": [
-    "1985"
-  ],
-  "dct_issued_s": "1985",
-  "gbl_indexYear_im": [
-    "1985"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1985 TO 1985]"
-  ],
+  "dc_description_s": "Distribution and concentrations of Boron, and Barium, and Beryllium, and Calcium, and Cobalt, and Chromium in bedrock water wells, scale 1:600,000.",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22448.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/939/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:939\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
-  "dcat_bbox": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
-  "dcat_centroid": "46.441900000000004,-93.3613",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:19:19Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_isPartOf_sm": [
-    "05d-05"
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22448.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/939/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:939\"}",
-  "id": "d07a433b-0bc9-47ff-b84d-7a5d9e6d3b94",
-  "dct_identifier_sm": [
-    "d07a433b-0bc9-47ff-b84d-7a5d9e6d3b94"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:01Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Minnesota Geological Survey",
+  "dct_issued_s": "1985",
+  "dct_temporal_sm": [
+    "1985"
+  ]
 }

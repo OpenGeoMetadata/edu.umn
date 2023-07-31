@@ -6,22 +6,23 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll205:251",
   "solr_geom": "ENVELOPE(-90.41,-90.08,38.73,38.51)",
+  "solr_year_i": "1904",
   "dc_creator_sm": [
-    "Geological Survey (U.S.)",
-    "Wilson, Herbert Michael, 1860-1920.",
     "Cooke, Chas. E.",
-    "Tufts, Wm. O.",
-    "Young, Gilbert",
+    "Geological Survey (U.S.)",
     "Hawkins, Geo. T.",
-    "U.S. Coast and Geodetic Survey."
+    "Tufts, Wm. O.",
+    "U.S. Coast and Geodetic Survey",
+    "Wilson, Herbert M. (Herbert Michael), 1860-1920",
+    "Young, Gilbert"
   ],
   "dc_description_s": "(W 90⁰25ʹ--W 90⁰05ʹ/N 38⁰44ʹ--N 38⁰31ʹ).   Relief shwon by contours and spot heights.   Text and ill. on verso.|39 x 47 centimeters|Scale 1:62,500|City Maps",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:251\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/251/manifest.json\"}",
   "dct_spatial_sm": [
-    "Saint Louis, Missouri; Illinois"
+    "Missouri; Illinois--Saint Louis"
   ],
-  "layer_modified_dt": "2022-09-28T02:15:04Z",
+  "layer_modified_dt": "2023-02-07T18:34:32Z",
   "dc_language_sm": [
     "eng"
   ],

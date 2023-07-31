@@ -10,9 +10,9 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Wright, George Burdick, 1832-1882",
+    "Johnson, Smith & Harrison.",
     "Wright, Charles J., -1913)",
-    "Johnson, Smith & Harrison."
+    "Wright, George Burdick, 1832-1882"
   ],
   "dct_publisher_sm": [
     "Geo. B. Wright  (Minneapolis, Minnesota), 1880"
@@ -29,15 +29,22 @@
     "Grant County (Minn.) Maps",
     "Douglas County (Minn.) Maps",
     "Fergus Falls Region (Minn.) Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1880"
   ],
   "dct_issued_s": "1880",
+  "gbl_indexYear_im": [
+    "1880"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1880 TO 1880]"
+  ],
   "dct_spatial_sm": [
-    "Otter Tail County, Minnesota",
-    "Wilkin County, Minnesota",
+    "Minnesota--Otter Tail County",
+    "Minnesota--Wilkin County",
     "Minnesota"
   ],
   "locn_geometry": "POLYGON((-96.8047 46.7209, -95.1457 46.7209, -95.1457 45.8082, -96.8047 45.8082, -96.8047 46.7209))",
@@ -60,6 +67,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9927409610001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:45Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

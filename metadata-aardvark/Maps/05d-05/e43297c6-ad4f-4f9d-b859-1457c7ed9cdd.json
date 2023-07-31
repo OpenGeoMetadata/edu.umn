@@ -1,56 +1,28 @@
 {
-  "dct_title_s": "Geology of the Root River State Trail area, southeastern Minnesota, Educational Series-10, Plate 2",
-  "dct_description_sm": [
-    "Back, Sites of geologic interest along the Root River State Trail, southeastern Minnesota, Eest half, scale 1 inch = 1/2 mile."
-  ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "e43297c6-ad4f-4f9d-b859-1457c7ed9cdd",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Geology of the Root River State Trail area, southeastern Minnesota, Educational Series-10, Plate 2",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "e43297c6-ad4f-4f9d-b859-1457c7ed9cdd",
+  "solr_geom": "ENVELOPE(-97.24,-89.48,49.51,43.5)",
+  "solr_year_i": "1999",
+  "dc_creator_sm": [
     "Mossler, John H."
   ],
-  "dct_publisher_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "dcat_theme_sm": [
-    "Environment"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "dct_temporal_sm": [
-    "1999"
-  ],
-  "dct_issued_s": "1999",
-  "gbl_indexYear_im": [
-    "1999"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1999 TO 1999]"
-  ],
+  "dc_description_s": "Back, Sites of geologic interest along the Root River State Trail, southeastern Minnesota, Eest half, scale 1 inch = 1/2 mile.",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23361b.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1061/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1061\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-97.24,-89.48,49.51,43.5)",
-  "dcat_bbox": "ENVELOPE(-97.24,-89.48,49.51,43.5)",
-  "dcat_centroid": "46.504999999999995,-93.36",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:19:08Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_isPartOf_sm": [
-    "05d-05"
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23361b.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1061/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1061\"}",
-  "id": "e43297c6-ad4f-4f9d-b859-1457c7ed9cdd",
-  "dct_identifier_sm": [
-    "e43297c6-ad4f-4f9d-b859-1457c7ed9cdd"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:29Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Minnesota Geological Survey",
+  "dct_issued_s": "1999",
+  "dct_temporal_sm": [
+    "1999"
+  ]
 }

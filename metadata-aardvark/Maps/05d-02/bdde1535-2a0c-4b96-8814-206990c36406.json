@@ -1,60 +1,32 @@
 {
-  "dct_title_s": "Index Map: Atlas and farmers' directory of Sibley County, Minnesota, 1914",
-  "dct_description_sm": [
-    "This index map is a finding aid for the Atlas and farmers' directory of Sibley County, Minnesota, 1914. Click on a feature to locate a page from the atlas"
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "bdde1535-2a0c-4b96-8814-206990c36406",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Index Map: Atlas and farmers' directory of Sibley County, Minnesota, 1914",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "bdde1535-2a0c-4b96-8814-206990c36406",
+  "solr_geom": "ENVELOPE(-94.6278,-93.7665,44.7194,44.4566)",
+  "solr_year_i": "1914",
+  "dc_creator_sm": [
+    "Webb Publishing Co."
   ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
-    "Webb Publishing Company"
-  ],
-  "dct_publisher_sm": [
-    "Webb Publishing Company"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "gbl_resourceType_sm": [
-    "Atlases",
-    "Index maps"
-  ],
-  "dcat_keyword_sm": [
-    "mnhs-p",
-    "John R. Borchert Map Library",
-    "OpenIndexMaps"
-  ],
-  "dct_temporal_sm": [
-    "1914"
-  ],
-  "dct_issued_s": "1914",
-  "gbl_indexYear_im": [
-    "1914"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1914 TO 1914]"
-  ],
+  "dc_description_s": "This index map is a finding aid for the Atlas and farmers' directory of Sibley County, Minnesota, 1914. Click on a feature to locate a page from the atlas",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/147064\",\"https://openindexmaps.org\":\"https://raw.githubusercontent.com/geobtaa/openindexmaps/main/05d-02/sibley.geojson\"}",
   "dct_spatial_sm": [
-    "Sibley County, Minnesota",
+    "Minnesota--Sibley County",
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-94.6278,-93.7665,44.7194,44.4566)",
-  "dcat_bbox": "ENVELOPE(-94.6278,-93.7665,44.7194,44.4566)",
-  "dcat_centroid": "44.588,-94.19715",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:19:52Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
+  "dc_publisher_s": "Webb Publishing Company",
+  "dc_source_sm": [
+    "p16022coll231:2182"
   ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/147064\",\"https://openindexmaps.org\":\"https://raw.githubusercontent.com/geobtaa/openindexmaps/main/05d-02/sibley.geojson\"}",
-  "id": "bdde1535-2a0c-4b96-8814-206990c36406",
-  "dct_identifier_sm": [
-    "bdde1535-2a0c-4b96-8814-206990c36406"
-  ],
-  "gbl_mdModified_dt": "2022-05-09T18:06:07Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dct_issued_s": "1914",
+  "dct_temporal_sm": [
+    "1914"
+  ]
 }

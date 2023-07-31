@@ -21,7 +21,8 @@
   ],
   "dcat_keyword_sm": [
     "Hydrology",
-    "Irrigation"
+    "Irrigation",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1855"
@@ -37,9 +38,9 @@
     "Egypt",
     "Africa"
   ],
-  "locn_geometry": "POLYGON((29.0 27.0, 29.0 27.0, 29.0 26.0, 29.0 26.0, 29.0 27.0))",
-  "dcat_bbox": "ENVELOPE(29.0,29.0,27.0,26.0)",
-  "dcat_centroid": "26.5,29.0",
+  "locn_geometry": "POLYGON((30.6672 27.9508, 32.4231 27.9508, 32.4231 25.9668, 30.6672 25.9668, 30.6672 27.9508))",
+  "dcat_bbox": "ENVELOPE(30.6672,32.4231,27.9508,25.9668)",
+  "dcat_centroid": "26.9588,31.54515",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -57,6 +58,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9974084179801701"
   ],
-  "gbl_mdModified_dt": "2022-09-27T02:59:02Z",
+  "gbl_mdModified_dt": "2023-06-29T18:33:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

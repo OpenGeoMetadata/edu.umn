@@ -19,16 +19,27 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "dcat_keyword_sm": [
+    "2022-creator-sprint",
+    "BBoxButFlagged",
+    "bboxSprintJune2023"
+  ],
   "dct_temporal_sm": [
     "1880"
   ],
   "dct_issued_s": "1880",
+  "gbl_indexYear_im": [
+    "1880"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1880 TO 1880]"
+  ],
   "dct_spatial_sm": [
     "Africa"
   ],
-  "locn_geometry": "POLYGON((39.4167 14.7001, 39.4168 14.7001, 39.4168 14.7, 39.4167 14.7, 39.4167 14.7001))",
-  "dcat_bbox": "ENVELOPE(39.4167,39.4168,14.7001,14.7)",
-  "dcat_centroid": "14.700050000000001,39.41675",
+  "locn_geometry": "POLYGON((39.103802 15.039321, 39.743756 15.039321, 39.743756 14.432373, 39.103802 14.432373, 39.103802 15.039321))",
+  "dcat_bbox": "ENVELOPE(39.103802,39.743756,15.039321,14.432373)",
+  "dcat_centroid": "14.735847,39.423778999999996",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -46,6 +57,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9935018450001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:45Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

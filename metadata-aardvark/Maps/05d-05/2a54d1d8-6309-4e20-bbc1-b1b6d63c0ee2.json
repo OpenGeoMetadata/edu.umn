@@ -1,59 +1,31 @@
 {
-  "dct_title_s": "Geologic atlas of Rice County, Minnesota, C-9, Part A, Plate 6, Geologic Resources",
-  "dct_description_sm": [
-    "Maps showing locations and types of bedrock aggregate and sand and gravel resources, scale 1:100,000, Rice County."
-  ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "2a54d1d8-6309-4e20-bbc1-b1b6d63c0ee2",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Geologic atlas of Rice County, Minnesota, C-9, Part A, Plate 6, Geologic Resources",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "2a54d1d8-6309-4e20-bbc1-b1b6d63c0ee2",
+  "solr_geom": "ENVELOPE(-93.5259,-93.0406,44.5466,44.1978)",
+  "solr_year_i": "1995",
+  "dc_creator_sm": [
+    "Balaban, Nancy",
     "Hobbs, Howard C.",
-    "Balaban, N.H.",
-    "Wahl, Timothy E.",
-    "Mossler, John H."
+    "Mossler, John H.",
+    "Wahl, Timothy E."
   ],
-  "dct_publisher_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "dcat_theme_sm": [
-    "Environment"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "dct_temporal_sm": [
-    "1995"
-  ],
-  "dct_issued_s": "1995",
-  "gbl_indexYear_im": [
-    "1995"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1995 TO 1995]"
-  ],
+  "dc_description_s": "Maps showing locations and types of bedrock aggregate and sand and gravel resources, scale 1:100,000, Rice County.",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22290.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/690/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:690\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-93.5259,-93.0406,44.5466,44.1978)",
-  "dcat_bbox": "ENVELOPE(-93.5259,-93.0406,44.5466,44.1978)",
-  "dcat_centroid": "44.3722,-93.28325",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:18:53Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_isPartOf_sm": [
-    "05d-05"
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22290.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/690/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:690\"}",
-  "id": "2a54d1d8-6309-4e20-bbc1-b1b6d63c0ee2",
-  "dct_identifier_sm": [
-    "2a54d1d8-6309-4e20-bbc1-b1b6d63c0ee2"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:27Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Minnesota Geological Survey",
+  "dct_issued_s": "1995",
+  "dct_temporal_sm": [
+    "1995"
+  ]
 }

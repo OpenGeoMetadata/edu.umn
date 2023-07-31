@@ -11,7 +11,7 @@
   ],
   "dct_creator_sm": [
     "Faden, William, 1749-1836",
-    "Neele, Samuel John, 1758-1824,"
+    "Neele, Samuel John, 1758-1824"
   ],
   "dct_publisher_sm": [
     "W. Faden (London), 1803"
@@ -31,12 +31,19 @@
     "Bothnia, Gulf of Maps",
     "Finland, Gulf of Maps",
     "Nautical Charts",
-    "Thematic Maps"
+    "Thematic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1803"
   ],
   "dct_issued_s": "1803",
+  "gbl_indexYear_im": [
+    "1803"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1803 TO 1803]"
+  ],
   "dct_spatial_sm": [
     "Finland"
   ],
@@ -60,6 +67,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9975271998001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:17Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

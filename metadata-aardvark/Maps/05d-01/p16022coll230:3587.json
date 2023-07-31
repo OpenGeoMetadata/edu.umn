@@ -19,16 +19,27 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "dcat_keyword_sm": [
+    "2022-creator-sprint",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
+  ],
   "dct_temporal_sm": [
     "1720"
   ],
   "dct_issued_s": "1720?",
+  "gbl_indexYear_im": [
+    "1720"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1720 TO 1720]"
+  ],
   "dct_spatial_sm": [
     "Asia"
   ],
-  "locn_geometry": "POLYGON((32.8833 78.4833, -167.7667 78.4833, -167.7667 -11.9833, 32.8833 -11.9833, 32.8833 78.4833))",
-  "dcat_bbox": "ENVELOPE(32.8833,-167.7667,78.4833,-11.9833)",
-  "dcat_centroid": "33.25,-67.4417",
+  "locn_geometry": "POLYGON((4.9 77.0, 178.2 77.0, 178.2 -10.0, 4.9 -10.0, 4.9 77.0))",
+  "dcat_bbox": "ENVELOPE(4.9,178.2,77.0,-10.0)",
+  "dcat_centroid": "33.5,91.55",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -46,6 +57,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9948346790001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:05Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

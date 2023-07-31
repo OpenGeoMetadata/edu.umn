@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Minnesota Geological Survey."
+    "Minnesota Geological Survey"
   ],
   "dct_publisher_sm": [
     "The Survey (Minnesota), 1915"
@@ -26,14 +26,21 @@
     "Peat Minnesota Beltrami County Maps",
     "Soils Minnesota Beltrami County Maps",
     "Beltrami County (Minn.) Maps",
-    "Thematic Maps"
+    "Thematic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1915"
   ],
   "dct_issued_s": "1915",
+  "gbl_indexYear_im": [
+    "1915"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1915 TO 1915]"
+  ],
   "dct_spatial_sm": [
-    "Beltrami County, Minnesota",
+    "Minnesota--Beltrami County",
     "Minnesota"
   ],
   "locn_geometry": "POLYGON((-95.6 48.98, -94.4 48.98, -94.4 47.4, -95.6 47.4, -95.6 48.98))",
@@ -56,6 +63,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9973346205801701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:20Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

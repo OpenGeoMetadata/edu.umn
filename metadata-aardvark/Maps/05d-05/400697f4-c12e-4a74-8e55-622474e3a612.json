@@ -1,58 +1,30 @@
 {
-  "dct_title_s": "Distribution of arsenic in ground water and rocks, southwestern Minnesota, M-70",
-  "dct_description_sm": [
-    "Map showing the distribution of Arsenic in ground water and rocks in southwestern Minnesota, scale 1 inch = 7.5 miles."
-  ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "400697f4-c12e-4a74-8e55-622474e3a612",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Distribution of arsenic in ground water and rocks, southwestern Minnesota, M-70",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "400697f4-c12e-4a74-8e55-622474e3a612",
+  "solr_geom": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
+  "solr_year_i": "1990",
+  "dc_creator_sm": [
+    "Kanivetsky, Roman",
     "Morey, G.B.",
-    "Setterholm, Dale R.",
-    "Kanivetsky, Roman"
+    "Setterholm, Dale R."
   ],
-  "dct_publisher_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "dcat_theme_sm": [
-    "Environment"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "dct_temporal_sm": [
-    "1990"
-  ],
-  "dct_issued_s": "1990",
-  "gbl_indexYear_im": [
-    "1990"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1990 TO 1990]"
-  ],
+  "dc_description_s": "Map showing the distribution of Arsenic in ground water and rocks in southwestern Minnesota, scale 1 inch = 7.5 miles.",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22465.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/953/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:953\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
-  "dcat_bbox": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
-  "dcat_centroid": "46.441900000000004,-93.3613",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:18:08Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_isPartOf_sm": [
-    "05d-05"
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22465.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/953/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:953\"}",
-  "id": "400697f4-c12e-4a74-8e55-622474e3a612",
-  "dct_identifier_sm": [
-    "400697f4-c12e-4a74-8e55-622474e3a612"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:22Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Minnesota Geological Survey",
+  "dct_issued_s": "1990",
+  "dct_temporal_sm": [
+    "1990"
+  ]
 }

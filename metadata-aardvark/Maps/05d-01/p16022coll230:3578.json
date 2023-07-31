@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Edward Stanford Ltd"
+    "Edward Stanford Ltd."
   ],
   "dct_publisher_sm": [
     "Published by Edward Stanford,  55,  Charing Cross (London)"
@@ -20,12 +20,19 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Afghan Wars"
+    "Afghan Wars",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1880"
   ],
   "dct_issued_s": "1880",
+  "gbl_indexYear_im": [
+    "1880"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1880 TO 1880]"
+  ],
   "dct_spatial_sm": [
     "Afghanistan",
     "Asia"
@@ -50,6 +57,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9931259270001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:45Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

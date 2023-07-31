@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Edwards, Bryan"
+    "Edwards, Bryan, 1743-1800"
   ],
   "dct_publisher_sm": [
     "I. Stockdale (London)"
@@ -21,14 +21,22 @@
   ],
   "dcat_keyword_sm": [
     "Colonies",
-    "British"
+    "British",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1793"
   ],
   "dct_issued_s": "1793",
+  "gbl_indexYear_im": [
+    "1793"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1793 TO 1793]"
+  ],
   "dct_spatial_sm": [
-    "North America; South America"
+    "North America",
+    "South America"
   ],
   "locn_geometry": "POLYGON((-92.0 28.0, -57.0 28.0, -57.0 8.0, -92.0 8.0, -92.0 28.0))",
   "dcat_bbox": "ENVELOPE(-92.0,-57.0,28.0,8.0)",
@@ -50,6 +58,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9975522877401701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:14Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -9,10 +9,10 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Russell, E. S.",
     "Akerson, E. A",
-    "Winchell, Newton Horace, 1839-1914",
-    "Hudson Publishing Co. (Minneapolis, Minn.)"
+    "Hudson Publishing Co. (Minneapolis, Minn.)",
+    "Russell, E. S. (Delineator)",
+    "Winchell, N. H. (Newton Horace), 1839-1914"
   ],
   "dct_publisher_sm": [
     "A.E. Akerson;  Lindstrom, Minnesota 1913"
@@ -23,12 +23,19 @@
   ],
   "dcat_keyword_sm": [
     "Soils Minnesota Maps 1913",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1913"
   ],
   "dct_issued_s": "1913",
+  "gbl_indexYear_im": [
+    "1913"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1913 TO 1913]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
@@ -49,6 +56,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9921037340001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:40Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Molitor, E"
+    "Molitor, E."
   ],
   "dct_publisher_sm": [
     "Mississippi River Commission (Washington,  D.C)"
@@ -19,10 +19,20 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "dcat_keyword_sm": [
+    "",
+    "2022-creator-sprint"
+  ],
   "dct_temporal_sm": [
     "1900"
   ],
   "dct_issued_s": "1900",
+  "gbl_indexYear_im": [
+    "1900"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1900]"
+  ],
   "dct_spatial_sm": [
     "United States"
   ],
@@ -46,6 +56,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9955440640001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:59Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

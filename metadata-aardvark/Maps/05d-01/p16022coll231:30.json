@@ -25,14 +25,21 @@
   "dcat_keyword_sm": [
     "Roads Minnesota Mille Lacs County Maps 1920 1929",
     "Mille Lacs County (Minn.) Maps 1920 1929",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "between 1920 and 1929"
   ],
   "dct_issued_s": "1920 - 1929",
+  "gbl_indexYear_im": [
+    "1920"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1920 TO 1929]"
+  ],
   "dct_spatial_sm": [
-    "Mille Lacs County, Minnesota",
+    "Minnesota--Mille Lacs County",
     "Minnesota"
   ],
   "locn_geometry": "POLYGON((-93.83 46.26, -93.4 46.26, -93.4 45.53, -93.83 45.53, -93.83 46.26))",
@@ -55,6 +62,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9927487940001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:12Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -19,15 +19,26 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Atlases, French"
+    "Atlases, French",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "1904"
   ],
   "dct_issued_s": "1904",
+  "gbl_indexYear_im": [
+    "1904"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1904 TO 1904]"
+  ],
   "dct_spatial_sm": [
     "France"
   ],
+  "locn_geometry": "POLYGON((-4.947 51.253, 8.2256 51.253, 8.2256 43.2908, -4.947 43.2908, -4.947 51.253))",
+  "dcat_bbox": "ENVELOPE(-4.947,8.2256,51.253,43.2908)",
+  "dcat_centroid": "47.2719,1.6393",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,6 +56,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9941331140001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:04Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

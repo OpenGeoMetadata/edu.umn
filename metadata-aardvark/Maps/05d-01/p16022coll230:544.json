@@ -20,7 +20,10 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "World Maps"
+    "World Maps",
+    "2022-creator-sprint",
+    "BBoxVerified",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1922"
@@ -35,9 +38,9 @@
   "dct_spatial_sm": [
     "World"
   ],
-  "locn_geometry": "POLYGON((90 85, 90 85, 90 -70, 90 -70, 90 85))",
-  "dcat_bbox": "ENVELOPE(90,90,85,-70)",
-  "dcat_centroid": "7.5,90.0",
+  "locn_geometry": "POLYGON((90.1 85, 90 85, 90 -70, 90.1 -70, 90.1 85))",
+  "dcat_bbox": "ENVELOPE(90.1,90,85,-70)",
+  "dcat_centroid": "7.5,90.05",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -55,6 +58,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9919054810001701"
   ],
-  "gbl_mdModified_dt": "2022-09-27T02:58:39Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Sargent, R. H."
+    "Sargent, Rufus Harvey, 1875-1951"
   ],
   "dct_publisher_sm": [
     "U.S. Geological Survey (Washington, D.C.)"
@@ -22,12 +22,19 @@
   "dcat_keyword_sm": [
     "Copper Mountain (Alaska) Maps",
     "Prince of Wales Island (Alaska) Maps",
-    "Topographic Maps"
+    "Topographic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1909"
   ],
   "dct_issued_s": "1909?",
+  "gbl_indexYear_im": [
+    "1909"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1909 TO 1909]"
+  ],
   "dct_spatial_sm": [
     "United States"
   ],
@@ -51,6 +58,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9927566030001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:09Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

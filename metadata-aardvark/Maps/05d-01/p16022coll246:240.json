@@ -11,7 +11,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Faden, William 1749-1836",
+    "Faden, William, 1749-1836",
     "Palmer, William, 1739-1812"
   ],
   "dct_publisher_sm": [
@@ -32,12 +32,19 @@
     "Early Works",
     "History",
     "Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1800"
   ],
   "dct_issued_s": "1800",
+  "gbl_indexYear_im": [
+    "1800"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1800 TO 1800]"
+  ],
   "dct_spatial_sm": [
     "India"
   ],
@@ -61,6 +68,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9973942696901701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:16Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:13Z",
   "gbl_mdVersion_s": "Aardvark"
 }

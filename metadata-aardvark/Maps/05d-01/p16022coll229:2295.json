@@ -32,6 +32,9 @@
   "dct_spatial_sm": [
     "Finland"
   ],
+  "locn_geometry": "POLYGON((19.08 70.09, 31.59 70.09, 31.59 59.45, 19.08 59.45, 19.08 70.09))",
+  "dcat_bbox": "ENVELOPE(19.08,31.59,70.09,59.45)",
+  "dcat_centroid": "64.77000000000001,25.335",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -48,6 +51,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9959456160001701"
   ],
-  "gbl_mdModified_dt": "2022-08-20T00:25:45Z",
+  "gbl_mdModified_dt": "2023-02-28T04:15:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -23,6 +23,12 @@
     "1869"
   ],
   "dct_issued_s": "1869",
+  "gbl_indexYear_im": [
+    "1869"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1869 TO 1869]"
+  ],
   "locn_geometry": "POLYGON((-79.75 45, -71.5333 45, -71.5333 38.7667, -79.75 38.7667, -79.75 45))",
   "dcat_bbox": "ENVELOPE(-79.75,-71.5333,45,38.7667)",
   "dcat_centroid": "41.88335,-75.64165",
@@ -43,6 +49,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9929845060001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:39Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

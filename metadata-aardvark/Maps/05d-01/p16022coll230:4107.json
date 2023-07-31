@@ -29,6 +29,12 @@
     "Indian Reservations"
   ],
   "dct_issued_s": "1898",
+  "gbl_indexYear_im": [
+    "1898"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1898 TO 1898]"
+  ],
   "locn_geometry": "POLYGON((-101.5166667 48, -88.5 48, -88.5 39, -101.5166667 39, -101.5166667 48))",
   "dcat_bbox": "ENVELOPE(-101.5166667,-88.5,48,39)",
   "dcat_centroid": "43.5,-95.00833335",
@@ -49,6 +55,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9978263609901701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:20Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

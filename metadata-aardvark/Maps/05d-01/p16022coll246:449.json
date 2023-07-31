@@ -20,16 +20,24 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Roads"
+    "Roads",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
   ],
   "dct_issued_s": "1852",
+  "gbl_indexYear_im": [
+    "1852"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1852 TO 1852]"
+  ],
   "dct_spatial_sm": [
-    "Bombay, India",
+    "India--Bombay",
     "India"
   ],
-  "locn_geometry": "POLYGON((72.77583333 19.27138889, 144.9863889 19.27138889, 144.9863889 18.89277778, 72.77583333 18.89277778, 72.77583333 19.27138889))",
-  "dcat_bbox": "ENVELOPE(72.77583333,144.9863889,19.27138889,18.89277778)",
-  "dcat_centroid": "19.082083335,108.88111111500001",
+  "locn_geometry": "POLYGON((65.833333 31, 76.5 31, 76.5 14.166667, 65.833333 14.166667, 65.833333 31))",
+  "dcat_bbox": "ENVELOPE(65.833333,76.5,31,14.166667)",
+  "dcat_centroid": "22.583333500000002,71.16666649999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -47,6 +55,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9974490676901701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:14Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

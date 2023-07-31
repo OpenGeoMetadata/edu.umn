@@ -26,14 +26,21 @@
     "Piedmont (Calif.) Maps",
     "Emeryville (Calif.) Maps",
     "Alameda (Calif.) Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1922"
   ],
   "dct_issued_s": "1922",
+  "gbl_indexYear_im": [
+    "1922"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1922 TO 1922]"
+  ],
   "dct_spatial_sm": [
-    "Oakland; Berkeley, California"
+    "California--Oakland; Berkeley"
   ],
   "locn_geometry": "POLYGON((-122.35 37.91, -122.0601 37.91, -122.0601 37.6101, -122.35 37.6101, -122.35 37.91))",
   "dcat_bbox": "ENVELOPE(-122.35,-122.0601,37.91,37.6101)",
@@ -55,6 +62,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9943118640001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:33Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

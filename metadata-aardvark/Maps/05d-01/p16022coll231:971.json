@@ -19,15 +19,60 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "gbl_resourceType_sm": [
+    "Atlases"
+  ],
   "dcat_keyword_sm": [
-    "Real Property Minnesota Renville County Maps"
+    "Real Property Minnesota Renville County Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1913"
   ],
   "dct_issued_s": "1913",
+  "gbl_indexYear_im": [
+    "1913"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1913 TO 1913]"
+  ],
   "dct_spatial_sm": [
-    "Bandon Township; Beaver Falls Township; Birch Cooley Township; Bird Island Township; Boon Lake Township; Brookfield Township; Cairo Township; Camp Township; Crooks Township; Emmet Township; Ericson Township; Flora Township; Hawk Creek Township; Hector Township; Henryville Township; Kingman Township; Martinsburg Township; Melville Township; Norfolk Township; Osceola Township; Palmyra Township; Preston Lake Township; Sacred Heart Township; Troy Township; Wang Township; Wellington Township; Winfield Township; Sacred Heart; Renville; Danube; Olivia; Bird Island; Buffalo Lake; Morton; Franklin; Fairfax, Minnesota"
+    "Bandon Township",
+    "Beaver Falls Township",
+    "Birch Cooley Township",
+    "Bird Island Township",
+    "Boon Lake Township",
+    "Brookfield Township",
+    "Cairo Township",
+    "Camp Township",
+    "Crooks Township",
+    "Emmet Township",
+    "Ericson Township",
+    "Flora Township",
+    "Hawk Creek Township",
+    "Hector Township",
+    "Henryville Township",
+    "Kingman Township",
+    "Martinsburg Township",
+    "Melville Township",
+    "Norfolk Township",
+    "Osceola Township",
+    "Palmyra Township",
+    "Preston Lake Township",
+    "Sacred Heart Township",
+    "Troy Township",
+    "Wang Township",
+    "Wellington Township",
+    "Winfield Township",
+    "Sacred Heart",
+    "Renville",
+    "Danube",
+    "Olivia",
+    "Bird Island",
+    "Buffalo Lake",
+    "Morton",
+    "Franklin",
+    "Minnesota--Fairfax"
   ],
   "locn_geometry": "POLYGON((-95.5 44.93, -94.46 44.93, -94.46 44.41, -95.5 44.41, -95.5 44.93))",
   "dcat_bbox": "ENVELOPE(-95.5,-94.46,44.93,44.41)",
@@ -49,6 +94,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9933226250001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:16Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

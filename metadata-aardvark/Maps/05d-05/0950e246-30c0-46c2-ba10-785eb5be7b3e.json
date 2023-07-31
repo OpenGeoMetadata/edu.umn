@@ -1,56 +1,28 @@
 {
-  "dct_title_s": "Peat deposits of Minnesota, Bulletin 16, Plate 2",
-  "dct_description_sm": [
-    "Peat Deposits of Beltrami County, Minnesota, showing location of soundings and depth of peat and topography of the surface of the bogs north of Red Lake, scale 1 inch = about 4 miles."
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "0950e246-30c0-46c2-ba10-785eb5be7b3e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Peat deposits of Minnesota, Bulletin 16, Plate 2",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "0950e246-30c0-46c2-ba10-785eb5be7b3e",
+  "solr_geom": "ENVELOPE(-95.6027,-94.416,48.5423,47.4103)",
+  "solr_year_i": "1919",
+  "dc_creator_sm": [
+    "Soper, Edgar Kirke, 1886-"
   ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
-    "Soper, E.K."
-  ],
-  "dct_publisher_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "dcat_theme_sm": [
-    "Environment"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "dct_temporal_sm": [
-    "1919"
-  ],
-  "dct_issued_s": "1919",
-  "gbl_indexYear_im": [
-    "1919"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1919 TO 1919]"
-  ],
+  "dc_description_s": "Peat Deposits of Beltrami County, Minnesota, showing location of soundings and depth of peat and topography of the surface of the bogs north of Red Lake, scale 1 inch = about 4 miles.",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23275.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/981/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:981\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-95.6027,-94.416,48.5423,47.4103)",
-  "dcat_bbox": "ENVELOPE(-95.6027,-94.416,48.5423,47.4103)",
-  "dcat_centroid": "47.976299999999995,-95.00935",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:23:19Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_isPartOf_sm": [
-    "05d-05"
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23275.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/981/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:981\"}",
-  "id": "0950e246-30c0-46c2-ba10-785eb5be7b3e",
-  "dct_identifier_sm": [
-    "0950e246-30c0-46c2-ba10-785eb5be7b3e"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:25Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Minnesota Geological Survey",
+  "dct_issued_s": "1919",
+  "dct_temporal_sm": [
+    "1919"
+  ]
 }

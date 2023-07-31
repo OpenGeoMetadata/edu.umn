@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "McGill-Warner Co"
+    "McGill-Warner Co."
   ],
   "dct_publisher_sm": [
     "McGill-Warner Co (St. Paul), 1926"
@@ -19,12 +19,22 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "dcat_keyword_sm": [
+    "",
+    "2022-creator-sprint"
+  ],
   "dct_temporal_sm": [
     "1926"
   ],
   "dct_issued_s": "1926",
+  "gbl_indexYear_im": [
+    "1926"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1926 TO 1926]"
+  ],
   "dct_spatial_sm": [
-    "St. Paul, Minnesota"
+    "Minnesota--St. Paul"
   ],
   "locn_geometry": "POLYGON((-93.3289 45.0511, -93.0378 45.0511, -93.0378 44.8819, -93.3289 44.8819, -93.3289 45.0511))",
   "dcat_bbox": "ENVELOPE(-93.3289,-93.0378,45.0511,44.8819)",
@@ -46,6 +56,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9916340390001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:41Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

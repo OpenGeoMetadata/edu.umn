@@ -6,6 +6,7 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3196",
   "solr_geom": "ENVELOPE(-2.4667,-1.5833,53.2167,52.4167)",
+  "solr_year_i": "1695",
   "dc_creator_sm": [
     "Morden, Robert, approximately 1650-1703"
   ],
@@ -13,9 +14,10 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3196\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3196/manifest.json\"}",
   "dct_spatial_sm": [
-    "Europe"
+    "England--Staffordshire",
+    "England"
   ],
-  "layer_modified_dt": "2022-09-28T02:14:03Z",
+  "layer_modified_dt": "2023-02-07T18:32:56Z",
   "dc_language_sm": [
     "eng"
   ],

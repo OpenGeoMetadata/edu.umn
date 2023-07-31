@@ -20,15 +20,23 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Roads"
+    "Roads",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1790"
   ],
   "dct_issued_s": "1790",
+  "gbl_indexYear_im": [
+    "1790"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1790 TO 1790]"
+  ],
   "dct_spatial_sm": [
-    "United Kingdom",
-    "Europe"
+    "England",
+    "Wales",
+    "Scotland"
   ],
   "locn_geometry": "POLYGON((-7.0 59.0, 2.0 59.0, 2.0 50.0, -7.0 50.0, -7.0 59.0))",
   "dcat_bbox": "ENVELOPE(-7.0,2.0,59.0,50.0)",
@@ -50,6 +58,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9951772010001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:14Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

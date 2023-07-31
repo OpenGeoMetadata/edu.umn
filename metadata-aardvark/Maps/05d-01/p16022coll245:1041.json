@@ -23,8 +23,14 @@
     "1891"
   ],
   "dct_issued_s": "1891",
+  "gbl_indexYear_im": [
+    "1891"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1891 TO 1891]"
+  ],
   "dct_spatial_sm": [
-    "Minneapolis; Omaha, Minnesota; Nebraska"
+    "Minnesota; Nebraska--Minneapolis; Omaha"
   ],
   "locn_geometry": "POLYGON((-93.3101 45.05, -93.1801 45.05, -93.1801 44.88, -93.3101 44.88, -93.3101 45.05))",
   "dcat_bbox": "ENVELOPE(-93.3101,-93.1801,45.05,44.88)",
@@ -46,6 +52,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9961493640001700"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:52Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:16Z",
   "gbl_mdVersion_s": "Aardvark"
 }

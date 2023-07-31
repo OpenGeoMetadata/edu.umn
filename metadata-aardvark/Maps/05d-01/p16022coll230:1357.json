@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Fleming, Th"
+    "Fleming, Thomas (Colonel)"
   ],
   "dct_publisher_sm": [
     "Photo Eng. Co (New York)"
@@ -19,10 +19,20 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "dcat_keyword_sm": [
+    "",
+    "2022-creator-sprint"
+  ],
   "dct_temporal_sm": [
     "1778"
   ],
   "dct_issued_s": "1778",
+  "gbl_indexYear_im": [
+    "1778"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1778 TO 1778]"
+  ],
   "locn_geometry": "POLYGON((-76.0103 41.3456, -75.7875 41.3456, -75.7875 41.1989, -76.0103 41.1989, -76.0103 41.3456))",
   "dcat_bbox": "ENVELOPE(-76.0103,-75.7875,41.3456,41.1989)",
   "dcat_centroid": "41.27225,-75.8989",
@@ -43,6 +53,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9960714240001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:11Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

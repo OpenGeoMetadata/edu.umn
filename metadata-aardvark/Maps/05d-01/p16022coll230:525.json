@@ -21,13 +21,20 @@
   ],
   "dcat_keyword_sm": [
     "Central Falls (r.i.) Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1900"
   ],
+  "gbl_indexYear_im": [
+    "1900"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1900]"
+  ],
   "dct_spatial_sm": [
-    "Central Falls, Rhode Island"
+    "Rhode Island--Central Falls"
   ],
   "locn_geometry": "POLYGON((-71.4 41.8801, -71.3601 41.8801, -71.3601 41.8601, -71.4 41.8601, -71.4 41.8801))",
   "dcat_bbox": "ENVELOPE(-71.4,-71.3601,41.8801,41.8601)",
@@ -49,6 +56,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9937520670001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:00Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

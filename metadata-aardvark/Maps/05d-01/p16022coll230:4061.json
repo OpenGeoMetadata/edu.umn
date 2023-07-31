@@ -23,8 +23,14 @@
     "Coasts"
   ],
   "dct_issued_s": "1879",
+  "gbl_indexYear_im": [
+    "1879"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1879 TO 1879]"
+  ],
   "dct_spatial_sm": [
-    "Boston, Massachusetts",
+    "Massachusetts--Boston",
     "Massachusetts"
   ],
   "locn_geometry": "POLYGON((-71.06194444 42.36027778, -70.95 42.36027778, -70.95 42.31944444, -71.06194444 42.31944444, -71.06194444 42.36027778))",
@@ -47,6 +53,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9921004130001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:18Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

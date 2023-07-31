@@ -10,9 +10,9 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Walker, J.",
-    "Walker, C.",
-    "W.H. Allen & Co."
+    "W.H. Allen & Co.",
+    "Walker, C. (Charles), 1799?-1872",
+    "Walker, John, 1786-1873"
   ],
   "dct_publisher_sm": [
     "W.H. Allen & Co.; London"
@@ -29,17 +29,24 @@
     "Sri Lanka Maps",
     "Bangladesh Maps",
     "South Asia Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1845"
   ],
   "dct_issued_s": "1845",
+  "gbl_indexYear_im": [
+    "1845"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1845 TO 1845]"
+  ],
   "dct_spatial_sm": [
     "India",
     "Bhutan",
     "Nepal",
-    "Burma, Myanmar [Burma]",
+    "Myanmar [Burma]--Burma",
     "Sri Lanka",
     "Bangladesh"
   ],
@@ -63,6 +70,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9927909170001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:27Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

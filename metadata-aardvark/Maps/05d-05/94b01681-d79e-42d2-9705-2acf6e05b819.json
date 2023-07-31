@@ -1,58 +1,30 @@
 {
-  "dct_title_s": "Bedrock geology of the Island View quadrangle, Koochiching County, north-central Minnesota, M-105, Plate 2",
-  "dct_description_sm": [
-    "Bedrock outcrop map (location of rocks exposed at the land surface) of the Island View quadrangle, scale 1:24,000."
-  ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "94b01681-d79e-42d2-9705-2acf6e05b819",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Bedrock geology of the Island View quadrangle, Koochiching County, north-central Minnesota, M-105, Plate 2",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "94b01681-d79e-42d2-9705-2acf6e05b819",
+  "solr_geom": "ENVELOPE(-94.4317,-93.0804,48.7118,47.846)",
+  "solr_year_i": "2000",
+  "dc_creator_sm": [
     "Hemstad, Chris B.",
     "Ojakangas, Richard W.",
     "Southwick, David L."
   ],
-  "dct_publisher_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "dcat_theme_sm": [
-    "Environment"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "dct_temporal_sm": [
-    "2000"
-  ],
-  "dct_issued_s": "2000",
-  "gbl_indexYear_im": [
-    "2000"
-  ],
-  "gbl_dateRange_drsim": [
-    "[2000 TO 2000]"
-  ],
+  "dc_description_s": "Bedrock outcrop map (location of rocks exposed at the land surface) of the Island View quadrangle, scale 1:24,000.",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22508.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/837/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:837\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-94.4317,-93.0804,48.7118,47.846)",
-  "dcat_bbox": "ENVELOPE(-94.4317,-93.0804,48.7118,47.846)",
-  "dcat_centroid": "48.27889999999999,-93.75605",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:16:48Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_isPartOf_sm": [
-    "05d-05"
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22508.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/837/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:837\"}",
-  "id": "94b01681-d79e-42d2-9705-2acf6e05b819",
-  "dct_identifier_sm": [
-    "94b01681-d79e-42d2-9705-2acf6e05b819"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:35Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Minnesota Geological Survey",
+  "dct_issued_s": "2000",
+  "dct_temporal_sm": [
+    "2000"
+  ]
 }

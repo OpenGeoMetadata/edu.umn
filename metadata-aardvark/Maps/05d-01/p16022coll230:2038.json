@@ -18,18 +18,26 @@
   ],
   "dcat_keyword_sm": [
     "Military Reservations",
-    "Military Geography"
+    "Military Geography",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1883"
   ],
   "dct_issued_s": "1883",
+  "gbl_indexYear_im": [
+    "1883"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1883 TO 1883]"
+  ],
   "dct_spatial_sm": [
     "Montana"
   ],
-  "locn_geometry": "POLYGON((-114.04751 46.8451, -114.0475 46.8451, -114.0475 46.845, -114.04751 46.845, -114.04751 46.8451))",
-  "dcat_bbox": "ENVELOPE(-114.04751,-114.0475,46.8451,46.845)",
-  "dcat_centroid": "46.84505,-114.047505",
+  "locn_geometry": "POLYGON((-114.067799 46.847101, -114.044384 46.847101, -114.044384 46.83456, -114.067799 46.83456, -114.067799 46.847101))",
+  "dcat_bbox": "ENVELOPE(-114.067799,-114.044384,46.847101,46.83456)",
+  "dcat_centroid": "46.8408305,-114.0560915",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -47,6 +55,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9974837900801701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:47Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

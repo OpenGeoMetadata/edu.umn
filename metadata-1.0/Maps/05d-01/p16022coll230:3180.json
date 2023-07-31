@@ -6,13 +6,18 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3180",
   "solr_geom": "ENVELOPE(-2.6833,-1.1833,55.8,54.7833)",
+  "solr_year_i": "1920",
   "dc_creator_sm": [
     "Bartholomew, John, 1890-1962"
   ],
   "dc_description_s": "Panel title.; Shows Northumberland and a portion of southeast Scotland.; Back panel includes index map to sheets.; Relief shown by hachures.; In lower right: \"Drawn & engraved by John Bartholomew F.R.G.S.\"|45 x 65 centimeters|Scale 1:253,440; 4 miles to one inch|General Map Collection",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3180\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3180/manifest.json\"}",
-  "layer_modified_dt": "2022-09-28T02:16:08Z",
+  "dct_spatial_sm": [
+    "England",
+    "Wales"
+  ],
+  "layer_modified_dt": "2023-02-07T18:35:08Z",
   "dc_language_sm": [
     "eng"
   ],

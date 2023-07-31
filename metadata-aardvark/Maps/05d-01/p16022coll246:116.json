@@ -24,8 +24,14 @@
     "1779"
   ],
   "dct_issued_s": "1779",
+  "gbl_indexYear_im": [
+    "1779"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1779 TO 1779]"
+  ],
   "dct_spatial_sm": [
-    "Pondicherri, Pondicherry, India",
+    "India-- Pondicherry--Pondicherri",
     "India"
   ],
   "locn_geometry": "POLYGON((79.7839 11.9796, 79.8499 11.9796, 79.8499 11.9031, 79.7839 11.9031, 79.7839 11.9796))",
@@ -48,6 +54,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9926855250001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:11Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -28,21 +28,28 @@
     "Burma Maps",
     "Sri Lanka Maps",
     "Tibet Autonomous Region (China) Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1890"
   ],
   "dct_issued_s": "1890",
+  "gbl_indexYear_im": [
+    "1890"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1890 TO 1890]"
+  ],
   "dct_spatial_sm": [
     "India",
     "Pakistan",
     "Nepal",
     "Bhutan",
     "Bangladesh",
-    "Burma, Myanmar [Burma]",
+    "Myanmar [Burma]--Burma",
     "Sri Lanka",
-    "People's Republic of China, China"
+    "China--People's Republic of China"
   ],
   "locn_geometry": "POLYGON((65 38, 100 38, 100 1, 65 1, 65 38))",
   "dcat_bbox": "ENVELOPE(65,100,38,1)",
@@ -64,6 +71,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9917658800001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:51Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

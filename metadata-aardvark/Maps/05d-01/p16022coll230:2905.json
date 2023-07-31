@@ -20,6 +20,12 @@
     "1758"
   ],
   "dct_issued_s": "1758",
+  "gbl_indexYear_im": [
+    "1758"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1758 TO 1758]"
+  ],
   "locn_geometry": "POLYGON((15.9667 66.0167, 25.9833 66.0167, 25.9833 60.0167, 15.9667 60.0167, 15.9667 66.0167))",
   "dcat_bbox": "ENVELOPE(15.9667,25.9833,66.0167,60.0167)",
   "dcat_centroid": "63.0167,20.975",
@@ -40,6 +46,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9975282009101701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:09Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

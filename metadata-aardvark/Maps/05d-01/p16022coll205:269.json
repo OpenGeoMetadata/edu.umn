@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Massachusetts. Metropolitan Park Commission."
+    "Massachusetts. Metropolitan Park Commission"
   ],
   "dct_publisher_sm": [
     "Board of the Metropolitan Park Commissioners (Boston)"
@@ -20,14 +20,21 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Open Spaces Massachusetts Boston Metropolitan Area"
+    "Open Spaces Massachusetts Boston Metropolitan Area",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1899"
   ],
   "dct_issued_s": "1899",
+  "gbl_indexYear_im": [
+    "1899"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1899 TO 1899]"
+  ],
   "dct_spatial_sm": [
-    "Boston, Massachusetts"
+    "Massachusetts--Boston"
   ],
   "locn_geometry": "POLYGON((-71.1833 42.3833, -70.8 42.3833, -70.8 42.2167, -71.1833 42.2167, -71.1833 42.3833))",
   "dcat_bbox": "ENVELOPE(-71.1833,-70.8,42.3833,42.2167)",
@@ -49,6 +56,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9942217730001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:58Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

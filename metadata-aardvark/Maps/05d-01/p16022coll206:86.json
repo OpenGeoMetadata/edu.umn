@@ -10,8 +10,8 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Minnesota. Office of Railroad Commissioners.",
-    "George F. Cram Company"
+    "George F. Cram Company",
+    "Minnesota. Office of Railroad and Warehouse Commissioners"
   ],
   "dct_publisher_sm": [
     "George F. Cram (Chicago, Ill.), 1909"
@@ -28,12 +28,19 @@
     "Railroads Minnesota Duluth Maps",
     "Railroads Wisconsin Superior Maps",
     "Election Districts Minnesota Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1911"
   ],
   "dct_issued_s": "1911",
+  "gbl_indexYear_im": [
+    "1911"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1911 TO 1911]"
+  ],
   "dct_spatial_sm": [
     "United States"
   ],
@@ -57,6 +64,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9930542440001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:13Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,60 +1,29 @@
 {
-  "dct_title_s": "Map of Oakport Township: Township 140 N, Range 48 & 49 W of the 5th PM.",
-  "dct_description_sm": [
-    "Page 61: Standard Atlas of Clay County, 1909"
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "8237c4ae-a112-4969-8c93-d53cd895117c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Oakport Township: Township 140 N, Range 48 & 49 W of the 5th PM.",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "8237c4ae-a112-4969-8c93-d53cd895117c",
+  "solr_geom": "ENVELOPE(-96.8412,-96.1729,47.1522,46.6287)",
+  "solr_year_i": "1909",
+  "dc_creator_sm": [
+    "Alden Publishing Co."
   ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
-    "Alden Publishing Company"
-  ],
-  "dct_publisher_sm": [
-    "The Company"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "gbl_resourceType_sm": [
-    "Atlases"
-  ],
-  "dcat_keyword_sm": [
-    "Real property -- Minnesota -- Clay County -- Maps",
-    "Clay County (Minn.) -- Maps",
-    "Clay County (Minn.) -- Directories",
-    "John R. Borchert Map Library"
-  ],
-  "dct_temporal_sm": [
-    "1909"
-  ],
-  "dct_issued_s": "1909",
-  "gbl_indexYear_im": [
-    "1909"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1909 TO 1909]"
-  ],
+  "dc_description_s": "Page 61: Standard Atlas of Clay County, 1909",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/998/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/193095\"}",
   "dct_spatial_sm": [
-    "Clay County, Minnesota",
+    "Minnesota--Clay County",
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-96.8412,-96.1729,47.1522,46.6287)",
-  "dcat_bbox": "ENVELOPE(-96.8412,-96.1729,47.1522,46.6287)",
-  "dcat_centroid": "46.89045,-96.50704999999999",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:27:09Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/998/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/193095\"}",
-  "id": "8237c4ae-a112-4969-8c93-d53cd895117c",
-  "dct_identifier_sm": [
-    "8237c4ae-a112-4969-8c93-d53cd895117c"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:33Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "The Company",
+  "dct_issued_s": "1909",
+  "dct_temporal_sm": [
+    "1909"
+  ]
 }

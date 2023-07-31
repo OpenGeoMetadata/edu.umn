@@ -23,14 +23,22 @@
     "London (England) Maps",
     "Westminster (London, England) Maps",
     "Southwark (London, England) Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1844"
   ],
   "dct_issued_s": "1844",
+  "gbl_indexYear_im": [
+    "1844"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1844 TO 1844]"
+  ],
   "dct_spatial_sm": [
-    "United Kingdom"
+    "England--London",
+    "England"
   ],
   "locn_geometry": "POLYGON((-0.5001 51.68, 0.33 51.68, 0.33 51.28, -0.5001 51.28, -0.5001 51.68))",
   "dcat_bbox": "ENVELOPE(-0.5001,0.33,51.68,51.28)",
@@ -52,6 +60,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9960093550001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:26Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

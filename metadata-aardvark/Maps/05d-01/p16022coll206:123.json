@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Minnesota. State Board of Immigration."
+    "Minnesota State Board of Immigration"
   ],
   "dct_publisher_sm": [
     "State Board of Immigration  (St. Paul, Minnesota)"
@@ -24,12 +24,19 @@
   ],
   "dcat_keyword_sm": [
     "Railroads Minnesota Maps",
-    "Thematic Maps"
+    "Thematic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1880?"
   ],
   "dct_issued_s": "1880?",
+  "gbl_indexYear_im": [
+    "1880"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1880 TO 1880]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
@@ -53,6 +60,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9965651350001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:03Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

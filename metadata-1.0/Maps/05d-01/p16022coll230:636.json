@@ -5,14 +5,18 @@
   "dc_title_s": "Chart of the world on Mercator's projection",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:636",
-  "solr_geom": "ENVELOPE(-180,180,84.9833,-85)",
+  "solr_geom": "ENVELOPE(-180,180,90,-90)",
+  "solr_year_i": "1867",
   "dc_creator_sm": [
     "Berghaus, Hermann, 1828-1890"
   ],
   "dc_description_s": "Shows various types of federal roads. Pavement types shown by letters.; \"Data corrected to Dec. 31, 1927.\"|90 x 143 centimeters|Scale, Mercator's.|General Map Collection",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:636\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/636/manifest.json\"}",
-  "layer_modified_dt": "2022-09-28T02:14:39Z",
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "layer_modified_dt": "2023-06-23T22:01:01Z",
   "dc_language_sm": [
     "eng"
   ],
