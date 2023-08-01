@@ -10,14 +10,14 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Railroad and Warehouse Commission of the State of Minnesota.",
-    "Cram, George Franklin (1841-1928)",
-    "Mills, Ira B.",
-    "Staples, Chas. F.",
-    "Young, Wm. E.",
     "Clausen, A. C.",
+    "Cram, George Franklin, 1841-1928",
+    "George F. Cram Company",
+    "Mills, Ira B.",
+    "Railroad and Warehouse Commission of the State of Minnesota",
+    "Staples, Chas. F.",
     "Yapp, Thomas",
-    "George F. Cram Company"
+    "Young, Wm. E."
   ],
   "dct_publisher_sm": [
     "George F. Cram (Chicago, Ill.), 1908"
@@ -34,12 +34,19 @@
     "Railroads Minnesota Duluth Maps 1908",
     "Railroads Wisconsin Superior Maps 1908",
     "Election Districts Minnesota Maps 1908",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1908"
   ],
   "dct_issued_s": "1908",
+  "gbl_indexYear_im": [
+    "1908"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1908 TO 1908]"
+  ],
   "dct_spatial_sm": [
     "United States"
   ],
@@ -63,6 +70,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9915894890001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:09Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -17,14 +17,33 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "gbl_resourceType_sm": [
+    "World maps"
+  ],
   "dcat_keyword_sm": [
     "Ecclesiastical Geography Maps",
-    "Historical Geography Maps"
+    "Historical Geography Maps",
+    "2022-creator-sprint",
+    "BBoxVerified",
+    "bboxSprintJune2023",
+    "-180TO180"
   ],
   "dct_temporal_sm": [
     "1919"
   ],
   "dct_issued_s": "1919",
+  "gbl_indexYear_im": [
+    "1919"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1919 TO 1919]"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180,180,90,-90)",
+  "dcat_bbox": "ENVELOPE(-180,180,90,-90)",
+  "dcat_centroid": "0.0,0.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -42,6 +61,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9940484200001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:28Z",
+  "gbl_mdModified_dt": "2023-06-23T22:01:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

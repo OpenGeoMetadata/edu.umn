@@ -10,9 +10,9 @@
     "lat"
   ],
   "dct_creator_sm": [
-    "Valck, Gerard, 1651 or 1652-1726",
-    "Visscher, Nicolaes , 1649-1702",
-    "Schen, Peter, 1661-1715"
+    "Schen, Peter, 1661-1715",
+    "Valck, G. (Gerard), 1651 or 1652-1726.",
+    "Visscher, Nicolaes, 1649-1702"
   ],
   "dct_publisher_sm": [
     "Vischer; Amstelodami"
@@ -26,12 +26,19 @@
   ],
   "dcat_keyword_sm": [
     "Bengal, Bay of Maps Early Works to 1800",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "approximately 1717"
   ],
   "dct_issued_s": "1717?",
+  "gbl_indexYear_im": [
+    "1717"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1717 TO 1717]"
+  ],
   "dct_spatial_sm": [
     "Bay of Bengal"
   ],
@@ -55,6 +62,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9956973830001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:10Z",
+  "gbl_mdModified_dt": "2023-02-07T18:32:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

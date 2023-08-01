@@ -11,8 +11,8 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Faden, William, 1749-1836",
-    "Baker, Benjamin"
+    "Baker, B. (Benjamin), active 1766-1824",
+    "Faden, William, 1749-1836"
   ],
   "dct_publisher_sm": [
     "Wm. Faden; London"
@@ -24,14 +24,22 @@
   "dcat_keyword_sm": [
     "India Maps Early Works to 1800",
     "sri Lanka Maps Early Works to 1800",
-    "early Maps"
+    "early Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1799"
   ],
   "dct_issued_s": "1799",
+  "gbl_indexYear_im": [
+    "1799"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1799 TO 1799]"
+  ],
   "dct_spatial_sm": [
-    "India; Sri Lanka"
+    "India",
+    "Sri Lanka"
   ],
   "locn_geometry": "POLYGON((72.16 19.25, 82 19.25, 82 7.8, 72.16 7.8, 72.16 19.25))",
   "dcat_bbox": "ENVELOPE(72.16,82,19.25,7.8)",
@@ -53,6 +61,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9946970010001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:16Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:13Z",
   "gbl_mdVersion_s": "Aardvark"
 }

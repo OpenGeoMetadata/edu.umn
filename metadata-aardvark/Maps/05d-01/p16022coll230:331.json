@@ -29,12 +29,19 @@
     "Norway Maps",
     "Finland Maps",
     "Denmark Maps",
-    "Thematic Maps"
+    "Thematic Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1834"
   ],
   "dct_issued_s": "1834",
+  "gbl_indexYear_im": [
+    "1834"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1834 TO 1834]"
+  ],
   "dct_spatial_sm": [
     "Sweden",
     "Norway",
@@ -61,6 +68,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9975421199601701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:23Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

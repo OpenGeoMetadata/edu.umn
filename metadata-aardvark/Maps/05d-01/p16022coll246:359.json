@@ -12,7 +12,7 @@
   "dct_creator_sm": [
     "Godwin-Austen, Henry Haversham, 1834-1923",
     "H.M Smith Munneeroddeen.",
-    "India. Surveyor General."
+    "India. Surveyor General"
   ],
   "dct_publisher_sm": [
     "H.M. Smith ; Calcutta"
@@ -23,12 +23,19 @@
   ],
   "dcat_keyword_sm": [
     "Kurram Agency (Pakistan) Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1857"
   ],
   "dct_issued_s": "1857",
+  "gbl_indexYear_im": [
+    "1857"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1857 TO 1857]"
+  ],
   "dct_spatial_sm": [
     "India",
     "Pakistan"
@@ -53,6 +60,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9973937978601701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:35Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

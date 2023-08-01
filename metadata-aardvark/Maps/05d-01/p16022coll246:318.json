@@ -10,7 +10,7 @@
     "fre"
   ],
   "dct_creator_sm": [
-    "Preávost, abbeá, 1697-1763."
+    "Preávost, abbeá, 1697-1763"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -22,12 +22,19 @@
   "dcat_keyword_sm": [
     "Trincomalee (Sri Lanka) Maps Early Works to 1800",
     "Early Maps",
-    "Nautical Charts"
+    "Nautical Charts",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1760?"
   ],
   "dct_issued_s": "1760?",
+  "gbl_indexYear_im": [
+    "1760"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1760 TO 1760]"
+  ],
   "dct_spatial_sm": [
     "Sri Lanka"
   ],
@@ -51,6 +58,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9973944604701701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:59Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

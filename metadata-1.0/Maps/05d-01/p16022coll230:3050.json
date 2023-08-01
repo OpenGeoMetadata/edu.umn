@@ -6,13 +6,17 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3050",
   "solr_geom": "ENVELOPE(-6.7,2.0833,55.9167,49.6667)",
+  "solr_year_i": "1834",
   "dc_creator_sm": [
     "Greenwood, Charles"
   ],
   "dc_description_s": "Each map has a view of a notable county edifice in the corner.; 42 maps of English counties; 4 plates containing the counties of Wales.; Map of England and Wales on engr. title page.; Most maps engraved by J. and C. Walker. Other engravers are J. and J. Neele, J. Dower, and H. Frost.|66 centimeters|Scale approximately 1:190,080|General Map Collection",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3050\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3050/manifest.json\"}",
-  "layer_modified_dt": "2022-09-28T02:14:23Z",
+  "dct_spatial_sm": [
+    "England"
+  ],
+  "layer_modified_dt": "2023-02-07T18:33:23Z",
   "dc_language_sm": [
     "eng"
   ],

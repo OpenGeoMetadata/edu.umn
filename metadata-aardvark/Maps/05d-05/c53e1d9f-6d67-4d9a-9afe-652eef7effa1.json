@@ -1,58 +1,30 @@
 {
-  "dct_title_s": "Geologic atlas of Fillmore County, Minnesota, C-8, Part A, Plate 2, Bedrock Geology",
-  "dct_description_sm": [
-    "Map showing interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) with cross section diagrams, scale 1:100,000, Fillmore County."
-  ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "c53e1d9f-6d67-4d9a-9afe-652eef7effa1",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Geologic atlas of Fillmore County, Minnesota, C-8, Part A, Plate 2, Bedrock Geology",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "c53e1d9f-6d67-4d9a-9afe-652eef7effa1",
+  "solr_geom": "ENVELOPE(-92.4507,-91.7305,43.8508,43.5021)",
+  "solr_year_i": "1995",
+  "dc_creator_sm": [
     "Mossler, John H.",
-    "Swanson, L.",
+    "Swanson, Lynn",
     "Wahl, Timothy E."
   ],
-  "dct_publisher_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "dcat_theme_sm": [
-    "Environment"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "dct_temporal_sm": [
-    "1995"
-  ],
-  "dct_issued_s": "1995",
-  "gbl_indexYear_im": [
-    "1995"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1995 TO 1995]"
-  ],
+  "dc_description_s": "Map showing interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) with cross section diagrams, scale 1:100,000, Fillmore County.",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22277.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/677/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:677\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-92.4507,-91.7305,43.8508,43.5021)",
-  "dcat_bbox": "ENVELOPE(-92.4507,-91.7305,43.8508,43.5021)",
-  "dcat_centroid": "43.67645,-92.0906",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:18:49Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_isPartOf_sm": [
-    "05d-05"
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22277.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/677/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:677\"}",
-  "id": "c53e1d9f-6d67-4d9a-9afe-652eef7effa1",
-  "dct_identifier_sm": [
-    "c53e1d9f-6d67-4d9a-9afe-652eef7effa1"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:38Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Minnesota Geological Survey",
+  "dct_issued_s": "1995",
+  "dct_temporal_sm": [
+    "1995"
+  ]
 }

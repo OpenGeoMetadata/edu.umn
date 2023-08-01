@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "United States. Bureau of Soils."
+    "United States. Bureau of Chemistry and Soils"
   ],
   "dct_publisher_sm": [
     "U.S. Bureau of Soils (Washington, D.C.)"
@@ -24,12 +24,19 @@
     "Soils Wisconsin Marinette County Maps",
     "Florence County (Wis.) Maps",
     "Marinette County (Wis.) Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1920"
   ],
   "dct_issued_s": "1920?",
+  "gbl_indexYear_im": [
+    "1920"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1920 TO 1920]"
+  ],
   "dct_spatial_sm": [
     "United States"
   ],
@@ -53,6 +60,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9935221140001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:31Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

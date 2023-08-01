@@ -20,12 +20,19 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Roads"
+    "Roads",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1926"
   ],
   "dct_issued_s": "1926",
+  "gbl_indexYear_im": [
+    "1926"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1926 TO 1926]"
+  ],
   "locn_geometry": "POLYGON((-73.75 42.0833, -71.75 42.0833, -71.75 41, -73.75 41, -73.75 42.0833))",
   "dcat_bbox": "ENVELOPE(-73.75,-71.75,42.0833,41)",
   "dcat_centroid": "41.541650000000004,-72.75",
@@ -46,6 +53,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9916468690001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:42Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

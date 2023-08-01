@@ -6,6 +6,7 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:4102",
   "solr_geom": "ENVELOPE(-97,-73,53,42)",
+  "solr_year_i": "1927",
   "dc_creator_sm": [
     "Canada. Natural Resources Intelligence Branch"
   ],
@@ -13,11 +14,11 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4102\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4102/manifest.json\"}",
   "dct_spatial_sm": [
-    "Ontario, Canada",
-    "Quebec, Canada",
+    "Canada--Ontario",
+    "Canada--Quebec",
     "Canada"
   ],
-  "layer_modified_dt": "2022-09-28T02:16:31Z",
+  "layer_modified_dt": "2023-02-07T18:35:26Z",
   "dc_language_sm": [
     "eng"
   ],

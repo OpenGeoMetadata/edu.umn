@@ -10,8 +10,8 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Williams, Wellington",
-    "Mitchell, Samuel Augustus, 1792-1868"
+    "Mitchell, S. Augustus (Samuel Augustus), 1792-1868",
+    "Williams, W. (Wellington)"
   ],
   "dct_publisher_sm": [
     "S. Augustus Mitchell ; Philadelphia, Pennsylvania"
@@ -22,15 +22,22 @@
   ],
   "dcat_keyword_sm": [
     "Asia Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1879"
   ],
   "dct_issued_s": "1879",
+  "gbl_indexYear_im": [
+    "1879"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1879 TO 1879]"
+  ],
   "dct_spatial_sm": [
     "India",
-    "People's Republic of China, China"
+    "China--People's Republic of China"
   ],
   "locn_geometry": "POLYGON((66 42, 124 42, 124 -1, 66 -1, 66 42))",
   "dcat_bbox": "ENVELOPE(66,124,42,-1)",
@@ -52,6 +59,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9973345808801701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:44Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

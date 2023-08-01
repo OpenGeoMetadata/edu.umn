@@ -23,12 +23,18 @@
     "Coal"
   ],
   "dct_issued_s": "1904",
+  "gbl_indexYear_im": [
+    "1904"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1904 TO 1904]"
+  ],
   "dct_spatial_sm": [
     "Alaska"
   ],
-  "locn_geometry": "POLYGON((172 72, -126 72, -126 52, 172 52, 172 72))",
-  "dcat_bbox": "ENVELOPE(172,-126,72,52)",
-  "dcat_centroid": "62.0,23.0",
+  "locn_geometry": "POLYGON((-179.9 71.6, -129.97 71.6, -129.97 51.02, -179.9 51.02, -179.9 71.6))",
+  "dcat_bbox": "ENVELOPE(-179.9,-129.97,71.6,51.02)",
+  "dcat_centroid": "61.31,-154.935",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -46,6 +52,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9978376328601701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:21Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

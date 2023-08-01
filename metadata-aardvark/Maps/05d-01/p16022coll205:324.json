@@ -24,14 +24,21 @@
     "Roads Colorado Colorado Springs Maps",
     "Colorado Springs (Colo.) Maps",
     "Tourist Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1900"
   ],
   "dct_issued_s": "1900",
+  "gbl_indexYear_im": [
+    "1900"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1900]"
+  ],
   "dct_spatial_sm": [
-    "Colorado Springs, Colorado"
+    "Colorado--Colorado Springs"
   ],
   "locn_geometry": "POLYGON((-104.91 39.03, -104.5801 39.03, -104.5801 38.7001, -104.91 38.7001, -104.91 39.03))",
   "dcat_bbox": "ENVELOPE(-104.91,-104.5801,39.03,38.7001)",
@@ -53,6 +60,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9926943810001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:00Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,58 +1,29 @@
 {
-  "dct_title_s": "Map of Mount Vernon Township: Township 108 N, Range 9 W of the 5th PM.",
-  "dct_description_sm": [
-    "Page 7: Atlas and farmers' directory of Winona County, Minnesota, 1914"
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "3885569c-5edc-44a4-abb8-d87b9de38636",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Mount Vernon Township: Township 108 N, Range 9 W of the 5th PM.",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "3885569c-5edc-44a4-abb8-d87b9de38636",
+  "solr_geom": "ENVELOPE(-92.0805,-91.2882,44.1948,43.8471)",
+  "solr_year_i": "1914",
+  "dc_creator_sm": [
+    "Webb Publishing Co."
   ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
-    "Webb Publishing Company"
-  ],
-  "dct_publisher_sm": [
-    "Webb Publishing Company"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "gbl_resourceType_sm": [
-    "Atlases"
-  ],
-  "dcat_keyword_sm": [
-    "Real property -- Minnesota -- Winona County -- Maps",
-    "John R. Borchert Map Library"
-  ],
-  "dct_temporal_sm": [
-    "1914"
-  ],
-  "dct_issued_s": "1914",
-  "gbl_indexYear_im": [
-    "1914"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1914 TO 1914]"
-  ],
+  "dc_description_s": "Page 7: Atlas and farmers' directory of Winona County, Minnesota, 1914",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/389/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/147066\"}",
   "dct_spatial_sm": [
-    "Winona County, Minnesota",
+    "Minnesota--Winona County",
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-92.0805,-91.2882,44.1948,43.8471)",
-  "dcat_bbox": "ENVELOPE(-92.0805,-91.2882,44.1948,43.8471)",
-  "dcat_centroid": "44.02095,-91.68435",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:27:08Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/389/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/147066\"}",
-  "id": "3885569c-5edc-44a4-abb8-d87b9de38636",
-  "dct_identifier_sm": [
-    "3885569c-5edc-44a4-abb8-d87b9de38636"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:36Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Webb Publishing Company",
+  "dct_issued_s": "1914",
+  "dct_temporal_sm": [
+    "1914"
+  ]
 }

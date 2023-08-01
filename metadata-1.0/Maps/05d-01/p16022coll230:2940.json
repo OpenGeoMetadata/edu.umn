@@ -6,13 +6,19 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:2940",
   "solr_geom": "ENVELOPE(-4.0,14.0333,61.1167,50.0167)",
+  "solr_year_i": "1760",
   "dc_description_s": "Cover title: Jewett's sectional map of Minnesota.; Hand colored.; Publisher's advertising inside front cover.|46 x 36 centimeters|Scale not given|General Map Collection",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2940\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2940/manifest.json\"}",
   "dct_spatial_sm": [
-    "Europe"
+    "Scotland",
+    "England",
+    "France",
+    "Germany",
+    "Sweden",
+    "Norway"
   ],
-  "layer_modified_dt": "2022-09-28T02:15:59Z",
+  "layer_modified_dt": "2023-02-07T18:33:04Z",
   "dc_language_sm": [
     "eng"
   ],

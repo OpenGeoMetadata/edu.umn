@@ -25,6 +25,12 @@
     "1929"
   ],
   "dct_issued_s": "1929?",
+  "gbl_indexYear_im": [
+    "1929"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1929 TO 1929]"
+  ],
   "locn_geometry": "POLYGON((-92.5833 48.7667, -90.7333 48.7667, -90.7333 47.7333, -92.5833 47.7333, -92.5833 48.7667))",
   "dcat_bbox": "ENVELOPE(-92.5833,-90.7333,48.7667,47.7333)",
   "dcat_centroid": "48.25,-91.6583",
@@ -45,6 +51,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9965565520001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:49Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -6,13 +6,17 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:641",
   "solr_geom": "ENVELOPE(-180,180,83.9667,42.0167)",
+  "solr_year_i": "1846",
   "dc_creator_sm": [
     "Stieler, Adolf, 1775-1836"
   ],
   "dc_description_s": "In upper right: Ausg. in 63 Bl. No. VIII. Stieler's Hand-Atlas (No. 41b).; Below title: \"Revidirt, nachgetragen u. neu gestochen 1846.\"|36 x 30 centimeters|Scale not given|General Map Collection",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:641\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/641/manifest.json\"}",
-  "layer_modified_dt": "2022-09-28T02:14:28Z",
+  "dct_spatial_sm": [
+    "Arctic Regions"
+  ],
+  "layer_modified_dt": "2023-06-23T22:00:59Z",
   "dc_language_sm": [
     "ger"
   ],

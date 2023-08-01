@@ -10,10 +10,10 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "United States. Army. Corps of Topographical Engineers.",
-    "Simpson, James Henry (1813-1883)",
     "Sewall, Joseph S. (1827-1917)",
-    "Wagner & M'Guigan."
+    "Simpson, James Henry (1813-1883)",
+    "United States. Army. Corps of Topographical Engineers",
+    "Wagner & M'Guigan"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -24,12 +24,19 @@
   ],
   "dcat_keyword_sm": [
     "Roads Minnesota Maps 1854",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1854"
   ],
   "dct_issued_s": "1854",
+  "gbl_indexYear_im": [
+    "1854"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1854 TO 1854]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
@@ -53,6 +60,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9919858290001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:32Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

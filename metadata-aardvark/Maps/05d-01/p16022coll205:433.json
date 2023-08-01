@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "New Ulm (Minn.)"
+    "Minnesota--New Ulm"
   ],
   "dct_publisher_sm": [
     "Engineering Dept., ) ((New Ulm)"
@@ -20,18 +20,27 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Real Property"
+    "Real Property",
+    "2022-creator-sprint",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1929"
   ],
   "dct_issued_s": "1929",
-  "dct_spatial_sm": [
-    "New Ulm, Minnesota"
+  "gbl_indexYear_im": [
+    "1929"
   ],
-  "locn_geometry": "POLYGON((-94.46671 44.31671, -94.4667 44.31671, -94.4667 44.3167, -94.46671 44.3167, -94.46671 44.31671))",
-  "dcat_bbox": "ENVELOPE(-94.46671,-94.4667,44.31671,44.3167)",
-  "dcat_centroid": "44.316705,-94.466705",
+  "gbl_dateRange_drsim": [
+    "[1929 TO 1929]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota--New Ulm"
+  ],
+  "locn_geometry": "POLYGON((-94.51677 44.352475, -94.41397 44.352475, -94.41397 44.275803, -94.51677 44.275803, -94.51677 44.352475))",
+  "dcat_bbox": "ENVELOPE(-94.51677,-94.41397,44.352475,44.275803)",
+  "dcat_centroid": "44.314139,-94.46537000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,6 +58,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9952734120001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:49Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

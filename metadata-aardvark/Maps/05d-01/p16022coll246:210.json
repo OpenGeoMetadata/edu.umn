@@ -9,9 +9,8 @@
     "ita"
   ],
   "dct_creator_sm": [
-    "Robert Dudley Sir, 1574-1649.",
-    "A. F Lucini (Antonio Francesco), 1610-",
-    "Robert Dudley Sir, 1574-1649."
+    "Dudley, Robert, Sir, 1574-1649",
+    "Lucini, Antonio Francesco, 1605-"
   ],
   "dct_publisher_sm": [
     "Nella nuova stamperia per Guiseppe Cocchini all'insegnia della stella; Ind. Fiorenza"
@@ -27,12 +26,19 @@
     "Aceh (Indonesia) Maps",
     "Sumatra (Indonesia) Maps",
     "Islands of the Indian Ocean Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1661"
   ],
   "dct_issued_s": "1661",
+  "gbl_indexYear_im": [
+    "1661"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1661 TO 1661]"
+  ],
   "dct_spatial_sm": [
     "Asia"
   ],
@@ -56,6 +62,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9939513630001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:01Z",
+  "gbl_mdModified_dt": "2023-02-07T18:32:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

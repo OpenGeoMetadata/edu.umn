@@ -24,8 +24,14 @@
     "Soils"
   ],
   "dct_issued_s": "1906",
+  "gbl_indexYear_im": [
+    "1906"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1906 TO 1906]"
+  ],
   "dct_spatial_sm": [
-    "Crookston, Minnesota",
+    "Minnesota--Crookston",
     "Minnesota"
   ],
   "locn_geometry": "POLYGON((-97.03333333 47.93333333, -96.38333333 47.93333333, -96.38333333 47.5, -97.03333333 47.5, -97.03333333 47.93333333))",
@@ -48,6 +54,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9978376615801701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:21Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

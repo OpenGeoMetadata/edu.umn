@@ -1,56 +1,28 @@
 {
-  "dct_title_s": "Geology of the Duluth metropolitan area, Bulletin 33, Plate 1",
-  "dct_description_sm": [
-    "Maps showing sequence of geologic units (beds) alongshore from Mesaba Avenue to Beyond Lakewood, scale 1 inch = about 1,800 feet."
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ebfedda8-f735-456b-abae-022e344d4021",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Geology of the Duluth metropolitan area, Bulletin 33, Plate 1",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "ebfedda8-f735-456b-abae-022e344d4021",
+  "solr_geom": "ENVELOPE(-93.0966,-91.7893,48.63,46.6507)",
+  "solr_year_i": "1949",
+  "dc_creator_sm": [
+    "Schwartz, George M. (George Melvin), 1892-1980"
   ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
-    "Schwartz, George M."
-  ],
-  "dct_publisher_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "dcat_theme_sm": [
-    "Environment"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "dct_temporal_sm": [
-    "1949"
-  ],
-  "dct_issued_s": "1949",
-  "gbl_indexYear_im": [
-    "1949"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1949 TO 1949]"
-  ],
+  "dc_description_s": "Maps showing sequence of geologic units (beds) alongshore from Mesaba Avenue to Beyond Lakewood, scale 1 inch = about 1,800 feet.",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23294.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1027/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1027\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-93.0966,-91.7893,48.63,46.6507)",
-  "dcat_bbox": "ENVELOPE(-93.0966,-91.7893,48.63,46.6507)",
-  "dcat_centroid": "47.64035,-92.44295",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:19:07Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_isPartOf_sm": [
-    "05d-05"
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23294.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1027/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1027\"}",
-  "id": "ebfedda8-f735-456b-abae-022e344d4021",
-  "dct_identifier_sm": [
-    "ebfedda8-f735-456b-abae-022e344d4021"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:02Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Minnesota Geological Survey",
+  "dct_issued_s": "1949",
+  "dct_temporal_sm": [
+    "1949"
+  ]
 }

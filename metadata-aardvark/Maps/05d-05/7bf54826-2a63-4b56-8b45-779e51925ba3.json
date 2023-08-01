@@ -1,57 +1,29 @@
 {
-  "dct_title_s": "Geologic atlas of Pope County, Minnesota, C-15, Part A, Plate 5, Mineral Endowment",
-  "dct_description_sm": [
-    "Maps showing locations and types of bedrock aggregate and sand and gravel resources, scale 1:100,000, Pope County."
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "7bf54826-2a63-4b56-8b45-779e51925ba3",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Geologic atlas of Pope County, Minnesota, C-15, Part A, Plate 5, Mineral Endowment",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "7bf54826-2a63-4b56-8b45-779e51925ba3",
+  "solr_geom": "ENVELOPE(-95.7594,-95.1319,45.7602,45.4122)",
+  "solr_year_i": "2003",
+  "dc_creator_sm": [
+    "Boerboom, Terrence J.",
+    "Harris, Kenneth L."
   ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
-    "Harris, Kenneth L.",
-    "Boerboom, Terrence J."
-  ],
-  "dct_publisher_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "dcat_theme_sm": [
-    "Environment"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "dct_temporal_sm": [
-    "2003"
-  ],
-  "dct_issued_s": "2003",
-  "gbl_indexYear_im": [
-    "2003"
-  ],
-  "gbl_dateRange_drsim": [
-    "[2003 TO 2003]"
-  ],
+  "dc_description_s": "Maps showing locations and types of bedrock aggregate and sand and gravel resources, scale 1:100,000, Pope County.",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22349.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/749/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:749\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-95.7594,-95.1319,45.7602,45.4122)",
-  "dcat_bbox": "ENVELOPE(-95.7594,-95.1319,45.7602,45.4122)",
-  "dcat_centroid": "45.5862,-95.44565",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:18:52Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_isPartOf_sm": [
-    "05d-05"
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22349.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/749/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:749\"}",
-  "id": "7bf54826-2a63-4b56-8b45-779e51925ba3",
-  "dct_identifier_sm": [
-    "7bf54826-2a63-4b56-8b45-779e51925ba3"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:02Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Minnesota Geological Survey",
+  "dct_issued_s": "2003",
+  "dct_temporal_sm": [
+    "2003"
+  ]
 }

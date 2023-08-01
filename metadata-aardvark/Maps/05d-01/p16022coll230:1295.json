@@ -23,6 +23,12 @@
     "Mexico"
   ],
   "dct_issued_s": "1930",
+  "gbl_indexYear_im": [
+    "1930"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1930 TO 1930]"
+  ],
   "locn_geometry": "POLYGON((-126 41, -100 41, -100 26, -126 26, -126 41))",
   "dcat_bbox": "ENVELOPE(-126,-100,41,26)",
   "dcat_centroid": "33.5,-113.0",
@@ -43,6 +49,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9973355267701701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:34Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

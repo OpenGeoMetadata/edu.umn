@@ -19,12 +19,19 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Minnesota Maps"
+    "Minnesota Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1856"
   ],
   "dct_issued_s": "1856",
+  "gbl_indexYear_im": [
+    "1856"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1856 TO 1856]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
@@ -42,6 +49,6 @@
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:180\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/180/manifest.json\"}",
   "id": "p16022coll247:180",
-  "gbl_mdModified_dt": "2022-09-28T02:16:35Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

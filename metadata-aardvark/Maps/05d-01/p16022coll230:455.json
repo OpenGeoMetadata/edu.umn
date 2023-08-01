@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Mitchell, Samuel Augustus, 1792-1868"
+    "Mitchell, S. Augustus (Samuel Augustus), 1792-1868"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -19,12 +19,19 @@
   "dcat_keyword_sm": [
     "Iowa Maps",
     "Missouri Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1867"
   ],
   "dct_issued_s": "1867",
+  "gbl_indexYear_im": [
+    "1867"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1867 TO 1867]"
+  ],
   "dct_spatial_sm": [
     "United States"
   ],
@@ -48,6 +55,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9927568550001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:38Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

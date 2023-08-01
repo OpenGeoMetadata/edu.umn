@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Delarochette, Louis, 1731-1802"
+    "Delarochette, L. (Louis), 1731-1802"
   ],
   "dct_publisher_sm": [
     "Wm. Faden (London)"
@@ -37,14 +37,22 @@
     "Maps Africa, North 1780",
     "Maps Portugal 1780",
     "Maps Spain 1780",
-    "Armorial Bookplates (Provenance)"
+    "Armorial Bookplates (Provenance)",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1780"
   ],
   "dct_issued_s": "1780",
+  "gbl_indexYear_im": [
+    "1780"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1780 TO 1780]"
+  ],
   "dct_spatial_sm": [
-    "Portugal; Spain"
+    "Portugal",
+    "Spain"
   ],
   "locn_geometry": "POLYGON((-12 45, 9 45, 9 33, -12 33, -12 45))",
   "dcat_bbox": "ENVELOPE(-12,9,45,33)",
@@ -66,6 +74,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9942214880001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:11Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

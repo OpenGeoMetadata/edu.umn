@@ -23,6 +23,12 @@
     "Railroads"
   ],
   "dct_issued_s": "1853?",
+  "gbl_indexYear_im": [
+    "1853"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1853 TO 1853]"
+  ],
   "locn_geometry": "POLYGON((-97.41666667 49.7, -66.5 49.7, -66.5 24.83333333, -97.41666667 24.83333333, -97.41666667 49.7))",
   "dcat_bbox": "ENVELOPE(-97.41666667,-66.5,49.7,24.83333333)",
   "dcat_centroid": "37.266666665,-81.95833333499999",
@@ -43,6 +49,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9952697650001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:14Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

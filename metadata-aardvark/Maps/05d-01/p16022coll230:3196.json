@@ -20,14 +20,22 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Early Maps"
+    "Early Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1695"
   ],
   "dct_issued_s": "1695",
+  "gbl_indexYear_im": [
+    "1695"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1695 TO 1695]"
+  ],
   "dct_spatial_sm": [
-    "Europe"
+    "England--Staffordshire",
+    "England"
   ],
   "locn_geometry": "POLYGON((-2.4667 53.2167, -1.5833 53.2167, -1.5833 52.4167, -2.4667 52.4167, -2.4667 53.2167))",
   "dcat_bbox": "ENVELOPE(-2.4667,-1.5833,53.2167,52.4167)",
@@ -49,6 +57,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9944906160001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:03Z",
+  "gbl_mdModified_dt": "2023-02-07T18:32:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

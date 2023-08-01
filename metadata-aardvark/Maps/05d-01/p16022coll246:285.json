@@ -10,7 +10,7 @@
     "dut"
   ],
   "dct_creator_sm": [
-    "van Keulen, Johannes, 1654-1715."
+    "van Keulen, Johannes, 1654-1715"
   ],
   "dct_publisher_sm": [
     "Joannes van Keulen; Amsterdam"
@@ -26,12 +26,19 @@
     "Nautical Charts Maldives Early Works to 1800",
     "Maldives Maps Early Works to 1800",
     "Early Maps",
-    "Nautical Charts"
+    "Nautical Charts",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1720?"
   ],
   "dct_issued_s": "1720?",
+  "gbl_indexYear_im": [
+    "1720"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1720 TO 1720]"
+  ],
   "dct_spatial_sm": [
     "Maldives"
   ],
@@ -55,6 +62,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9973941998201701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:58Z",
+  "gbl_mdModified_dt": "2023-02-07T18:32:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

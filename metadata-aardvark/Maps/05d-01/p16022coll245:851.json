@@ -24,8 +24,14 @@
     "1886"
   ],
   "dct_issued_s": "1886",
+  "gbl_indexYear_im": [
+    "1886"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1886 TO 1886]"
+  ],
   "dct_spatial_sm": [
-    "Saint Paul, Minnesota",
+    "Minnesota--Saint Paul",
     "Minnesota"
   ],
   "locn_geometry": "POLYGON((-93.1933 44.9882, -93.0408 44.9882, -93.0408 44.9194, -93.1933 44.9194, -93.1933 44.9882))",
@@ -48,6 +54,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9930955050001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:48Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -20,8 +20,14 @@
     "Maps"
   ],
   "dct_issued_s": "1917",
+  "gbl_indexYear_im": [
+    "1917"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1917 TO 1917]"
+  ],
   "dct_spatial_sm": [
-    "New York, New York",
+    "New York--New York",
     "New York"
   ],
   "locn_geometry": "POLYGON((-74.25888889 40.91611111, -73.7 40.91611111, -73.7 40.47722222, -74.25888889 40.47722222, -74.25888889 40.91611111))",
@@ -44,6 +50,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9923707840001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:25Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

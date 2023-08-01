@@ -10,7 +10,7 @@
     "lat"
   ],
   "dct_creator_sm": [
-    "de Wit, Frederik"
+    "Wit, Frederik de"
   ],
   "dct_publisher_sm": [
     "Frederik de Wit; Amserdam"
@@ -21,12 +21,19 @@
   ],
   "dcat_keyword_sm": [
     "Asia Maps Early Works to 1800",
-    "Early Maps"
+    "Early Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1660"
   ],
   "dct_issued_s": "1660",
+  "gbl_indexYear_im": [
+    "1660"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1660 TO 1660]"
+  ],
   "dct_spatial_sm": [
     "Asia"
   ],
@@ -50,6 +57,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9936564360001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:01Z",
+  "gbl_mdModified_dt": "2023-02-07T18:32:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -10,13 +10,13 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "United States. Forest Service",
-    "McConnell, H. P.",
-    "Washburn, F. E.",
     "Burrus, R. F.",
+    "McConnell, H. P.",
+    "Silcox, F. A. (Ferdinand Augustus), 1882-1939",
     "Simerl, R. A.",
-    "Winkler, E. C.",
-    "Silcox, Ferdinand Augustus, 1882-1939"
+    "United States. Forest Service",
+    "Washburn, F. E.",
+    "Winkler, E. C."
   ],
   "dct_publisher_sm": [
     "U.S. Dept. of Agriculture, Forest Service;  United States"
@@ -27,12 +27,19 @@
   ],
   "dcat_keyword_sm": [
     "Superior National Forest (Minn.) Maps 1934",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1934"
   ],
   "dct_issued_s": "1934",
+  "gbl_indexYear_im": [
+    "1934"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1934 TO 1934]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
@@ -53,6 +60,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9937509630001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:42Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

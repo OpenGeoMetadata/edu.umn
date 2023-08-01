@@ -1,57 +1,29 @@
 {
-  "dct_title_s": "Geologic atlas of Mower County, Minnesota, C-11, Part B, Plate 7, Bedrock Hydrogeology",
-  "dct_description_sm": [
-    "Maps showing ground water resources and aquifer characteristics in the bedrock, including the age of the water (how long since the water entered the ground), scale 1:100,000, Mower County."
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "976fec2e-177c-4bf5-9d54-66dada3d191f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Geologic atlas of Mower County, Minnesota, C-11, Part B, Plate 7, Bedrock Hydrogeology",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "976fec2e-177c-4bf5-9d54-66dada3d191f",
+  "solr_geom": "ENVELOPE(-93.0505,-92.4507,43.8518,43.5026)",
+  "solr_year_i": "2002",
+  "dc_creator_sm": [
+    "Campion, Moira",
+    "Falteisek, Jan"
   ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
-    "Falteisek, Jan",
-    "Campion, Moira"
-  ],
-  "dct_publisher_sm": [
-    "Minnesota Department of Natural Resources, Division of Waters"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "dcat_theme_sm": [
-    "Environment"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "dct_temporal_sm": [
-    "2002"
-  ],
-  "dct_issued_s": "2002",
-  "gbl_indexYear_im": [
-    "2002"
-  ],
-  "gbl_dateRange_drsim": [
-    "[2002 TO 2002]"
-  ],
+  "dc_description_s": "Maps showing ground water resources and aquifer characteristics in the bedrock, including the age of the water (how long since the water entered the ground), scale 1:100,000, Mower County.",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22311.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/711/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:711\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-93.0505,-92.4507,43.8518,43.5026)",
-  "dcat_bbox": "ENVELOPE(-93.0505,-92.4507,43.8518,43.5026)",
-  "dcat_centroid": "43.6772,-92.75059999999999",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:18:51Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_isPartOf_sm": [
-    "05d-05"
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22311.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/711/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:711\"}",
-  "id": "976fec2e-177c-4bf5-9d54-66dada3d191f",
-  "dct_identifier_sm": [
-    "976fec2e-177c-4bf5-9d54-66dada3d191f"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:34:04Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Minnesota Department of Natural Resources, Division of Waters",
+  "dct_issued_s": "2002",
+  "dct_temporal_sm": [
+    "2002"
+  ]
 }

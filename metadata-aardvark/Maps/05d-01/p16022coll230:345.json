@@ -9,10 +9,10 @@
     "swe"
   ],
   "dct_creator_sm": [
-    "Hermelin friherre, Samuel Gustaf Benzelstierna, 1744-1820",
-    "Akrel, Fredrik, 1748-1804",
+    "Akrel, Fredrik,1748-1804",
+    "Generalstabens litografiska anstalt",
     "Hällström, Carl Peter, 1774-1836",
-    "Generalstabens litografiska anstalt"
+    "Hermelin friherre, Samuel Gustaf Benzelstierna, 1744-1820"
   ],
   "dct_publisher_sm": [
     "Generalstabens Litografiska Anstalt (Stockholm), 1972"
@@ -24,12 +24,19 @@
   "dcat_keyword_sm": [
     "Dalarna (Sweden) Maps",
     "Siljan (Sweden) Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1972"
   ],
   "dct_issued_s": "1972",
+  "gbl_indexYear_im": [
+    "1972"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1972 TO 1972]"
+  ],
   "dct_spatial_sm": [
     "Sweden"
   ],
@@ -53,6 +60,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9918185150001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:56Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

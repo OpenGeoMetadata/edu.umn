@@ -19,18 +19,29 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "dcat_keyword_sm": [
+    "2022-creator-sprint",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
+  ],
   "dct_temporal_sm": [
     "1791"
   ],
   "dct_issued_s": "1791",
+  "gbl_indexYear_im": [
+    "1791"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1791 TO 1791]"
+  ],
   "dct_spatial_sm": [
     "Poland",
     "Russia",
     "Europe"
   ],
-  "locn_geometry": "POLYGON((19.4 82.05, -168.9667 82.05, -168.9667 41.1833, 19.4 41.1833, 19.4 82.05))",
-  "dcat_bbox": "ENVELOPE(19.4,-168.9667,82.05,41.1833)",
-  "dcat_centroid": "61.61665,-74.78335",
+  "locn_geometry": "POLYGON((13.56 56.93, 25.3 56.93, 25.3 51.9, 13.56 51.9, 13.56 56.93))",
+  "dcat_bbox": "ENVELOPE(13.56,25.3,56.93,51.9)",
+  "dcat_centroid": "54.415,19.43",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -48,6 +59,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9931541890001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:14Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

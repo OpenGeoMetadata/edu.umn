@@ -19,12 +19,23 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "dcat_keyword_sm": [
+    "",
+    "2022-creator-sprint"
+  ],
   "dct_temporal_sm": [
     "1572"
   ],
   "dct_issued_s": "1572",
+  "gbl_indexYear_im": [
+    "1572"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1572 TO 1572]"
+  ],
   "dct_spatial_sm": [
-    "London, England"
+    "England--London",
+    "England"
   ],
   "locn_geometry": "POLYGON((-0.1278 51.5167, -0.0889 51.5167, -0.0889 51.5, -0.1278 51.5, -0.1278 51.5167))",
   "dcat_bbox": "ENVELOPE(-0.1278,-0.0889,51.5167,51.5)",
@@ -46,6 +57,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9976156484701701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:13:59Z",
+  "gbl_mdModified_dt": "2023-02-07T18:32:51Z",
   "gbl_mdVersion_s": "Aardvark"
 }

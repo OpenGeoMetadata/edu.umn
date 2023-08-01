@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Cram, George Franklin (1841-1928)"
+    "Cram, George Franklin, 1841-1928"
   ],
   "dct_publisher_sm": [
     "Geo. F. Cram, proprietor of the Western Map Depot  (Chicago, Ill.), 1876"
@@ -23,12 +23,19 @@
     "Railroads Minnesota Maps",
     "Surveying Public Lands Minnesota Maps",
     "Minnesota Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1877"
   ],
   "dct_issued_s": "1877",
+  "gbl_indexYear_im": [
+    "1877"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1877 TO 1877]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
@@ -52,6 +59,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9915611370001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:43Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

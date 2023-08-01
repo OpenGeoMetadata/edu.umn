@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Arrowsmith, John, 1790-1873."
+    "Arrowsmith, John, 1790-1873"
   ],
   "dct_publisher_sm": [
     "Pubd. 14 Feby. 1832, by J. Arrowsmith, 35 Essex Street Strand ; London"
@@ -26,15 +26,22 @@
     "Burma",
     "Indochina",
     "Thailand",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1832"
   ],
   "dct_issued_s": "1832",
+  "gbl_indexYear_im": [
+    "1832"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1832 TO 1832]"
+  ],
   "dct_spatial_sm": [
     "Thailand",
-    "Burma, Myanmar [Burma]"
+    "Myanmar [Burma]--Burma"
   ],
   "locn_geometry": "POLYGON((89.5496 28.6978, 110.4153 28.6978, 110.4153 5.0547, 89.5496 5.0547, 89.5496 28.6978))",
   "dcat_bbox": "ENVELOPE(89.5496,110.4153,28.6978,5.0547)",
@@ -56,6 +63,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9973942203001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:23Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

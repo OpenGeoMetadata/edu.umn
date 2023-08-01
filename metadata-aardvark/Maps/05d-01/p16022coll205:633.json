@@ -24,8 +24,14 @@
     "1910-1919?"
   ],
   "dct_issued_s": "1910 - 1919?",
+  "gbl_indexYear_im": [
+    "1910"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1910 TO 1919]"
+  ],
   "dct_spatial_sm": [
-    "Stevens Point, Wisconsin"
+    "Wisconsin--Stevens Point"
   ],
   "locn_geometry": "POLYGON((-89.6072 44.5675, -89.4939 44.5675, -89.4939 44.4928, -89.6072 44.4928, -89.6072 44.5675))",
   "dcat_bbox": "ENVELOPE(-89.6072,-89.4939,44.5675,44.4928)",
@@ -47,6 +53,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9923719910001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:06Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

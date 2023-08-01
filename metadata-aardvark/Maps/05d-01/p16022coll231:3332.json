@@ -27,12 +27,19 @@
     "Real Property",
     "Real Property",
     "Real Property",
-    "Real Property"
+    "Real Property",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1886"
   ],
   "dct_issued_s": "1886",
+  "gbl_indexYear_im": [
+    "1886"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1886 TO 1886]"
+  ],
   "locn_geometry": "POLYGON((-93.4667 45.2667, -92.65 45.2667, -92.65 44.8, -93.4667 44.8, -93.4667 45.2667))",
   "dcat_bbox": "ENVELOPE(-93.4667,-92.65,45.2667,44.8)",
   "dcat_centroid": "45.03335,-93.05835",
@@ -53,6 +60,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9936988120001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:48Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }

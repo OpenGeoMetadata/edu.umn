@@ -1,58 +1,29 @@
 {
-  "dct_title_s": "Map of Cornish Township: Township 112 N, Range 30 W of the 5th PM.",
-  "dct_description_sm": [
-    "Page 35: Atlas and farmers' directory of Sibley County, Minnesota, 1914"
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "0abe759f-44d2-4d2c-9cc6-dd56a45c7349",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Cornish Township: Township 112 N, Range 30 W of the 5th PM.",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "0abe759f-44d2-4d2c-9cc6-dd56a45c7349",
+  "solr_geom": "ENVELOPE(-94.6278,-93.7665,44.7194,44.4566)",
+  "solr_year_i": "1914",
+  "dc_creator_sm": [
+    "Webb Publishing Co."
   ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
-    "Webb Publishing Company"
-  ],
-  "dct_publisher_sm": [
-    "Webb Publishing Company"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "gbl_resourceType_sm": [
-    "Atlases"
-  ],
-  "dcat_keyword_sm": [
-    "Real property -- Minnesota -- Sibley County -- Maps",
-    "John R. Borchert Map Library"
-  ],
-  "dct_temporal_sm": [
-    "1914"
-  ],
-  "dct_issued_s": "1914",
-  "gbl_indexYear_im": [
-    "1914"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1914 TO 1914]"
-  ],
+  "dc_description_s": "Page 35: Atlas and farmers' directory of Sibley County, Minnesota, 1914",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2170/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/147064\"}",
   "dct_spatial_sm": [
-    "Sibley County, Minnesota",
+    "Minnesota--Sibley County",
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-94.6278,-93.7665,44.7194,44.4566)",
-  "dcat_bbox": "ENVELOPE(-94.6278,-93.7665,44.7194,44.4566)",
-  "dcat_centroid": "44.588,-94.19715",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:27:01Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2170/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/147064\"}",
-  "id": "0abe759f-44d2-4d2c-9cc6-dd56a45c7349",
-  "dct_identifier_sm": [
-    "0abe759f-44d2-4d2c-9cc6-dd56a45c7349"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:59Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Webb Publishing Company",
+  "dct_issued_s": "1914",
+  "dct_temporal_sm": [
+    "1914"
+  ]
 }

@@ -9,7 +9,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Curtice, D. L.(David L.),1828-1902."
+    "Curtice, D. L. (David L.), 1828-1902"
   ],
   "dct_publisher_sm": [
     "D.L. Curtice, Civil Engineer, (St. Paul), 1888"
@@ -18,12 +18,22 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "dcat_keyword_sm": [
+    "",
+    "2022-creator-sprint"
+  ],
   "dct_temporal_sm": [
     "1889"
   ],
   "dct_issued_s": "1889",
+  "gbl_indexYear_im": [
+    "1889"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1889 TO 1889]"
+  ],
   "dct_spatial_sm": [
-    "Saint Paul, Minnesota",
+    "Minnesota--Saint Paul",
     "Minnesota"
   ],
   "locn_geometry": "POLYGON((-93.2 44.98, -93 44.98, -93 44.88, -93.2 44.88, -93.2 44.98))",
@@ -46,6 +56,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9939886250001700"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:50Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

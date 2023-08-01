@@ -1,56 +1,28 @@
 {
-  "dct_title_s": "Outcrop map of southern part of Duluth Complex and associated Keweenawan rocks, St Louis and Lake Counties, Minnesota, M-11 Outcrop map of southern part of Duluth Complex and associated Keweenawan rocks, St Louis and Lake Counties, Minnesota, M-11 Outcrop map of southern part of Duluth Complex and associated Keweenawan rocks, St Louis and Lake Counties, Minnesota, M-11",
-  "dct_description_sm": [
-    "Map showing locations of bedrock outcrops (rock exposed at the land surface), scale 1:125,000."
-  ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "31f89bd0-6a59-4c80-94fc-66cc71a14084",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Outcrop map of southern part of Duluth Complex and associated Keweenawan rocks, St Louis and Lake Counties, Minnesota, M-11 Outcrop map of southern part of Duluth Complex and associated Keweenawan rocks, St Louis and Lake Counties, Minnesota, M-11 Outcrop map of southern part of Duluth Complex and associated Keweenawan rocks, St Louis and Lake Counties, Minnesota, M-11",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "31f89bd0-6a59-4c80-94fc-66cc71a14084",
+  "solr_geom": "ENVELOPE(-93.0966,-91.7893,48.63,46.6507)",
+  "solr_year_i": "1971",
+  "dc_creator_sm": [
     "Bonnichsen, Bill"
   ],
-  "dct_publisher_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "dcat_theme_sm": [
-    "Environment"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "dct_temporal_sm": [
-    "1971"
-  ],
-  "dct_issued_s": "1971",
-  "gbl_indexYear_im": [
-    "1971"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1971 TO 1971]"
-  ],
+  "dc_description_s": "Map showing locations of bedrock outcrops (rock exposed at the land surface), scale 1:125,000.",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22390.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1255/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1255\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-93.0966,-91.7893,48.63,46.6507)",
-  "dcat_bbox": "ENVELOPE(-93.0966,-91.7893,48.63,46.6507)",
-  "dcat_centroid": "47.64035,-92.44295",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:23:07Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_isPartOf_sm": [
-    "05d-05"
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22390.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1255/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1255\"}",
-  "id": "31f89bd0-6a59-4c80-94fc-66cc71a14084",
-  "dct_identifier_sm": [
-    "31f89bd0-6a59-4c80-94fc-66cc71a14084"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:34:01Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Minnesota Geological Survey",
+  "dct_issued_s": "1971",
+  "dct_temporal_sm": [
+    "1971"
+  ]
 }

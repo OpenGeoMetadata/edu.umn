@@ -26,6 +26,12 @@
     "Indian Reservations"
   ],
   "dct_issued_s": "1923",
+  "gbl_indexYear_im": [
+    "1923"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1923 TO 1923]"
+  ],
   "locn_geometry": "POLYGON((-125 52, -67 52, -67 19, -125 19, -125 52))",
   "dcat_bbox": "ENVELOPE(-125,-67,52,19)",
   "dcat_centroid": "35.5,-96.0",
@@ -46,6 +52,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9952808100001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:27Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

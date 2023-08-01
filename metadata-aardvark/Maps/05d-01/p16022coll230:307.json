@@ -11,7 +11,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Canada. Natural Resources Intelligence Branch."
+    "Canada. Natural Resources Intelligence Branch"
   ],
   "dct_publisher_sm": [
     "The Branch (Ottawa)"
@@ -23,14 +23,21 @@
   "dcat_keyword_sm": [
     "Land Use Saskatchewan Maps",
     "Saskatchewan Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1918"
   ],
   "dct_issued_s": "1918",
+  "gbl_indexYear_im": [
+    "1918"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1918 TO 1918]"
+  ],
   "dct_spatial_sm": [
-    "Saskatchewan, Canada",
+    "Canada--Saskatchewan",
     "Canada"
   ],
   "locn_geometry": "POLYGON((-110 55.5, -102 55.5, -102 49, -110 49, -110 55.5))",
@@ -53,6 +60,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9948976260001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:27Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -10,8 +10,8 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Wells, Edward, 1667-1727",
-    "Burghers, M"
+    "Burghers, M",
+    "Wells, Edward, 1667-1727"
   ],
   "dct_publisher_sm": [
     "Printed by T.W. for R. Bonwicke et al ; London"
@@ -29,12 +29,19 @@
     "Middle East Maps Early Works to 1800",
     "South Asia Maps Early Works to 1800",
     "Southeast Asia Maps Early Works to 1800",
-    "Early Maps"
+    "Early Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1719"
   ],
   "dct_issued_s": "1719",
+  "gbl_indexYear_im": [
+    "1719"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1719 TO 1719]"
+  ],
   "dct_spatial_sm": [
     "Asia"
   ],
@@ -58,6 +65,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9946964640001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:05Z",
+  "gbl_mdModified_dt": "2023-02-07T18:32:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

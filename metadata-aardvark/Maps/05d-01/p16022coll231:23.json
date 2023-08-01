@@ -10,8 +10,8 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Ogaard, Louis A.",
-    "E.C. Bridgman Maps (Firm)"
+    "E.C. Bridgman Maps (Firm)",
+    "Ogaard, Louis A."
   ],
   "dct_publisher_sm": [
     "E.C. Bridgman, Maps  (New York)"
@@ -22,14 +22,21 @@
   ],
   "dcat_keyword_sm": [
     "Koochiching County (Minn.) Maps 1912",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1912"
   ],
   "dct_issued_s": "1912",
+  "gbl_indexYear_im": [
+    "1912"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1912 TO 1912]"
+  ],
   "dct_spatial_sm": [
-    "Koochiching County, Minnesota",
+    "Minnesota--Koochiching County",
     "Minnesota"
   ],
   "locn_geometry": "POLYGON((-94.45 48.75, -93.05 48.75, -93.05 47.81, -94.45 47.81, -94.45 48.75))",
@@ -52,6 +59,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9917849500001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:15Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

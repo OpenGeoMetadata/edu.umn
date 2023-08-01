@@ -20,12 +20,19 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Counties"
+    "Counties",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1832"
   ],
   "dct_issued_s": "1832-02-15",
+  "gbl_indexYear_im": [
+    "1832"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1832 TO 1832]"
+  ],
   "dct_spatial_sm": [
     "Australia",
     "Australia"
@@ -50,6 +57,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9973295141501701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:23Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

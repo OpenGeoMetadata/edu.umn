@@ -6,13 +6,17 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:745",
   "solr_geom": "ENVELOPE(-180,180,90,50)",
+  "solr_year_i": "1676",
   "dc_creator_sm": [
     "Wit, Frederik de"
   ],
   "dc_description_s": "Relief shown pictorially.; Publication date from Burden.; Includes decorative cartouches and illustrations of whaling in margins.; \"55\" in ink in upper right border.; Historic Maps copy varies slightly from copy described by Kershaw.; From: Atlas [Zeekarten]. Tot Amsterdam : bij Frederick de Wit in de Calverstraet bij den Dam inde Witte Paskaert, [1676?].|42 centimeters in diam., on sheet 53 x 62 centimeters|Scale approximately 1:21,000,000|General Map Collection",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:745\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/745/manifest.json\"}",
-  "layer_modified_dt": "2022-09-28T02:14:02Z",
+  "dct_spatial_sm": [
+    "Arctic Regions"
+  ],
+  "layer_modified_dt": "2023-06-23T22:01:00Z",
   "dc_language_sm": [
     "lat"
   ],

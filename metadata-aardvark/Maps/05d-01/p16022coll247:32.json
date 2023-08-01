@@ -10,14 +10,14 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "United States. Army. Corps of Engineers",
-    "Mackenzie, Alexander, 1844-1921",
-    "Farquhar, Francis Ulric",
-    "Warren, Gouverneur Kemble, 1830-1882",
-    "Macomb, John N., 1810 or 1811-1889",
     "Bosse, H.",
+    "Farquhar, Francis Ulric",
+    "Mackenzie, Alexander, 1844-1921",
+    "Macomb, J. N. (John N.), 1810 or 1811-1889",
+    "Peters, Norris",
     "Stibott, A. J.",
-    "Peters, Norris"
+    "United States. Army. Corps of Engineers",
+    "Warren, G. K. (Gouverneur Kemble), 1830-1882"
   ],
   "dct_publisher_sm": [
     "The Corps?;  Washington, D.C."
@@ -28,12 +28,19 @@
   ],
   "dcat_keyword_sm": [
     "Mississippi River Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1887-1888"
   ],
   "dct_issued_s": "1887 - 1888",
+  "gbl_indexYear_im": [
+    "1887"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1888]"
+  ],
   "dct_spatial_sm": [
     "United States"
   ],
@@ -54,6 +61,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9956970230001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:42Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:13Z",
   "gbl_mdVersion_s": "Aardvark"
 }

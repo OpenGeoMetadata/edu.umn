@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Finley, Anthony"
+    "Finley, A. (Anthony)"
   ],
   "dct_publisher_sm": [
     "A. Finley (Philadelphia)"
@@ -20,12 +20,19 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Canada Maps"
+    "Canada Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1830"
   ],
   "dct_issued_s": "1830",
+  "gbl_indexYear_im": [
+    "1830"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1830 TO 1830]"
+  ],
   "dct_spatial_sm": [
     "Canada"
   ],
@@ -49,6 +56,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9931949460001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:22Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

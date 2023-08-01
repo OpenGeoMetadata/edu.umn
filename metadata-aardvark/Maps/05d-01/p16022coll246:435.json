@@ -10,8 +10,8 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "J. Haddon and Co.",
-    "Ferguson, A. M."
+    "Ferguson, A. M. (Alastair Mackenzie)",
+    "J. Haddon and Co."
   ],
   "dct_publisher_sm": [
     "A. M. Ferguson ; Colombo, Sri Lanka"
@@ -24,12 +24,19 @@
     "Railroads Sri Lanka Maps",
     "Roads Sri Lanka Maps",
     "Sri Lanka Administrative and Political Divisions Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1868"
   ],
   "dct_issued_s": "1868",
+  "gbl_indexYear_im": [
+    "1868"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1868 TO 1868]"
+  ],
   "dct_spatial_sm": [
     "Sri Lanka"
   ],
@@ -53,6 +60,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9916224500001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:39Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

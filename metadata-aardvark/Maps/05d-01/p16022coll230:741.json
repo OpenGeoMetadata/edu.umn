@@ -19,16 +19,27 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "dcat_keyword_sm": [
+    "2022-creator-sprint",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
+  ],
   "dct_temporal_sm": [
     "1892"
   ],
   "dct_issued_s": "1892",
+  "gbl_indexYear_im": [
+    "1892"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1892 TO 1892]"
+  ],
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "POLYGON((-95.20171 47.19751, -95.2017 47.19751, -95.2017 47.1975, -95.20171 47.1975, -95.20171 47.19751))",
-  "dcat_bbox": "ENVELOPE(-95.20171,-95.2017,47.19751,47.1975)",
-  "dcat_centroid": "47.197505,-95.201705",
+  "locn_geometry": "POLYGON((-95.29737 47.250199, -95.141412 47.250199, -95.141412 47.135625, -95.29737 47.135625, -95.29737 47.250199))",
+  "dcat_bbox": "ENVELOPE(-95.29737,-95.141412,47.250199,47.135625)",
+  "dcat_centroid": "47.192912,-95.219391",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -46,6 +57,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9917403520001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:53Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

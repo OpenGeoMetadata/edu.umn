@@ -25,14 +25,21 @@
     "Church Buildings Minnesota Sibley County Maps",
     "Rural Roads Minnesota Sibley County Maps",
     "Sibley County (Minn.) Administrative and Political Divisions Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1907"
   ],
   "dct_issued_s": "1907",
+  "gbl_indexYear_im": [
+    "1907"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1907 TO 1907]"
+  ],
   "dct_spatial_sm": [
-    "Sibley County, Minnesota",
+    "Minnesota--Sibley County",
     "Minnesota"
   ],
   "locn_geometry": "POLYGON((-94.6298 44.7179, -93.7638 44.7179, -93.7638 44.456, -94.6298 44.456, -94.6298 44.7179))",
@@ -55,6 +62,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9930458940001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:08Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

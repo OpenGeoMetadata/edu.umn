@@ -19,14 +19,21 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Street Railroads Minnesota Saint Paul Maps 1915"
+    "Street Railroads Minnesota Saint Paul Maps 1915",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1915"
   ],
   "dct_issued_s": "1915",
+  "gbl_indexYear_im": [
+    "1915"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1915 TO 1915]"
+  ],
   "dct_spatial_sm": [
-    "Saint Paul, Minnesota",
+    "Minnesota--Saint Paul",
     "Minnesota"
   ],
   "locn_geometry": "POLYGON((-93.2 44.98, -93 44.98, -93 44.88, -93.2 44.88, -93.2 44.98))",
@@ -49,6 +56,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9944609360001700"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:20Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

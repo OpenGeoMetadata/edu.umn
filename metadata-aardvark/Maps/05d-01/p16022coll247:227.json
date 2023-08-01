@@ -10,8 +10,8 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "W.A. Fisher Company",
-    "Canoe Country Outfitters"
+    "Canoe Country Outfitters",
+    "W.A. Fisher Company"
   ],
   "dct_publisher_sm": [
     "W.A. Fisher Co. ;  Virginia, Minnesota 1944"
@@ -25,12 +25,19 @@
     "Canoes and Canoeing Ontario Quetico Provincial Park Maps",
     "Superior National Forest (Minn.) Maps",
     "Quetico Provincial Park (Ont.) Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1944"
   ],
   "dct_issued_s": "1944",
+  "gbl_indexYear_im": [
+    "1944"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1944 TO 1944]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
@@ -51,6 +58,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9927483190001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:42Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

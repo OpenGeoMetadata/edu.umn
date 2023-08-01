@@ -1,59 +1,31 @@
 {
-  "dct_title_s": "Geologic atlas of Dakota County, Minnesota, C-6, Plate 3, Quaternary Geology",
-  "dct_description_sm": [
-    "Map showing interpretations of Quaternary (Pleistocene [glacial] and Holocene [post-glacial]) surficial geology (distribution and type of materials at the land surface), scale 1:100,000, Dakota County."
-  ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
-    "Balaban, N.H.",
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ff6a4702-7db8-439f-b602-ccd0aff4c3ff",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Geologic atlas of Dakota County, Minnesota, C-6, Plate 3, Quaternary Geology",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "ff6a4702-7db8-439f-b602-ccd0aff4c3ff",
+  "solr_geom": "ENVELOPE(-93.3285,-92.7339,44.9252,44.4729)",
+  "solr_year_i": "1990",
+  "dc_creator_sm": [
+    "Aronow, Saul, 1923-",
+    "Balaban, Nancy",
     "Hobbs, Howard C.",
-    "Aronow, Saul",
     "Patterson, Carrie J."
   ],
-  "dct_publisher_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "dcat_theme_sm": [
-    "Environment"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "dct_temporal_sm": [
-    "1990"
-  ],
-  "dct_issued_s": "1990",
-  "gbl_indexYear_im": [
-    "1990"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1990 TO 1990]"
-  ],
+  "dc_description_s": "Map showing interpretations of Quaternary (Pleistocene [glacial] and Holocene [post-glacial]) surficial geology (distribution and type of materials at the land surface), scale 1:100,000, Dakota County.",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22259.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/660/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:660\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-93.3285,-92.7339,44.9252,44.4729)",
-  "dcat_bbox": "ENVELOPE(-93.3285,-92.7339,44.9252,44.4729)",
-  "dcat_centroid": "44.69905,-93.03120000000001",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:18:49Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_isPartOf_sm": [
-    "05d-05"
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22259.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/660/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:660\"}",
-  "id": "ff6a4702-7db8-439f-b602-ccd0aff4c3ff",
-  "dct_identifier_sm": [
-    "ff6a4702-7db8-439f-b602-ccd0aff4c3ff"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:10Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Minnesota Geological Survey",
+  "dct_issued_s": "1990",
+  "dct_temporal_sm": [
+    "1990"
+  ]
 }

@@ -20,12 +20,19 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Real Property"
+    "Real Property",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1881"
   ],
   "dct_issued_s": "1881",
+  "gbl_indexYear_im": [
+    "1881"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1881 TO 1881]"
+  ],
   "locn_geometry": "POLYGON((-71.0872 42.3811, -71.0222 42.3811, -71.0222 42.3419, -71.0872 42.3419, -71.0872 42.3811))",
   "dcat_bbox": "ENVELOPE(-71.0872,-71.0222,42.3811,42.3419)",
   "dcat_centroid": "42.36150000000001,-71.0547",
@@ -46,6 +53,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9939516880001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:46Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

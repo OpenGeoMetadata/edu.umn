@@ -1,57 +1,29 @@
 {
-  "dct_title_s": "Geologic atlas of Scott County, Minnesota, C-17, Plate 6, Subsurface Recharge and Surface Infiltration",
-  "dct_description_sm": [
-    "Maps showing recharge rates (how quickly new water replaces water removed by pumping) and hydrologic models (how and when water enters and moves throught an aquifer) for water entering aquifers at the surface and aquifers in the subsurface, scale 1:200,000; mixed, Scott County."
-  ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f2adbe3d-2411-44c2-8db8-f2cf27c4fceb",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Geologic atlas of Scott County, Minnesota, C-17, Plate 6, Subsurface Recharge and Surface Infiltration",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "f2adbe3d-2411-44c2-8db8-f2cf27c4fceb",
+  "solr_geom": "ENVELOPE(-93.9117,-93.2782,44.8139,44.5446)",
+  "solr_year_i": "2006",
+  "dc_creator_sm": [
     "Setterholm, Dale R.",
     "Tipping, Robert G."
   ],
-  "dct_publisher_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "dcat_theme_sm": [
-    "Environment"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "dct_temporal_sm": [
-    "2006"
-  ],
-  "dct_issued_s": "2006",
-  "gbl_indexYear_im": [
-    "2006"
-  ],
-  "gbl_dateRange_drsim": [
-    "[2006 TO 2006]"
-  ],
+  "dc_description_s": "Maps showing recharge rates (how quickly new water replaces water removed by pumping) and hydrologic models (how and when water enters and moves throught an aquifer) for water entering aquifers at the surface and aquifers in the subsurface, scale 1:200,000; mixed, Scott County.",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22365.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/765/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:765\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-93.9117,-93.2782,44.8139,44.5446)",
-  "dcat_bbox": "ENVELOPE(-93.9117,-93.2782,44.8139,44.5446)",
-  "dcat_centroid": "44.679249999999996,-93.59495",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:18:56Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_isPartOf_sm": [
-    "05d-05"
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22365.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/765/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:765\"}",
-  "id": "f2adbe3d-2411-44c2-8db8-f2cf27c4fceb",
-  "dct_identifier_sm": [
-    "f2adbe3d-2411-44c2-8db8-f2cf27c4fceb"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:02Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Minnesota Geological Survey",
+  "dct_issued_s": "2006",
+  "dct_temporal_sm": [
+    "2006"
+  ]
 }

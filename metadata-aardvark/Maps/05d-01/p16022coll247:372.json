@@ -20,12 +20,18 @@
     "Maps"
   ],
   "dct_issued_s": "1911",
+  "gbl_indexYear_im": [
+    "1911"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1911 TO 1911]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "POLYGON((-0.75 47.41666667, -93.66666667 47.41666667, -93.66666667 46.91666667, -0.75 46.91666667, -0.75 47.41666667))",
-  "dcat_bbox": "ENVELOPE(-0.75,-93.66666667,47.41666667,46.91666667)",
-  "dcat_centroid": "47.16666667,-47.208333335",
+  "locn_geometry": "POLYGON((-94.75 47.42, -93.67 47.42, -93.67 46.92, -94.75 46.92, -94.75 47.42))",
+  "dcat_bbox": "ENVELOPE(-94.75,-93.67,47.42,46.92)",
+  "dcat_centroid": "47.17,-94.21000000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -43,6 +49,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9974044605001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:23Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:44Z",
   "gbl_mdVersion_s": "Aardvark"
 }

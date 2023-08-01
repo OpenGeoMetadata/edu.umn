@@ -8,7 +8,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Cram, George Franklin,1841-1928."
+    "Cram, George Franklin, 1841-1928"
   ],
   "dct_publisher_sm": [
     "[G.F. Cram], (Chicago, Ill.)"
@@ -17,12 +17,22 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "dcat_keyword_sm": [
+    "",
+    "2022-creator-sprint"
+  ],
   "dct_temporal_sm": [
     "1889"
   ],
   "dct_issued_s": "1889",
+  "gbl_indexYear_im": [
+    "1889"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1889 TO 1889]"
+  ],
   "dct_spatial_sm": [
-    "Minneapolis; Saint Paul, Minnesota"
+    "Minnesota--Minneapolis; Saint Paul"
   ],
   "locn_geometry": "POLYGON((-93.36 45.03, -93 45.03, -93 44.88, -93.36 44.88, -93.36 45.03))",
   "dcat_bbox": "ENVELOPE(-93.36,-93,45.03,44.88)",
@@ -44,6 +54,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9950433400001700"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:50Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

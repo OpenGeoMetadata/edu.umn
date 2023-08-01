@@ -20,8 +20,14 @@
     "1926"
   ],
   "dct_issued_s": "1926",
+  "gbl_indexYear_im": [
+    "1926"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1926 TO 1926]"
+  ],
   "dct_spatial_sm": [
-    "Toronto, Ontario"
+    "Ontario--Toronto"
   ],
   "locn_geometry": "POLYGON((-79.6333 43.85, -79.1 43.85, -79.1 43.5667, -79.6333 43.5667, -79.6333 43.85))",
   "dcat_bbox": "ENVELOPE(-79.6333,-79.1,43.85,43.5667)",
@@ -43,6 +49,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9962957420001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:41Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

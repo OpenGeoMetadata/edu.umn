@@ -22,14 +22,21 @@
     "Buildings Height Restrictions New York (State) New York Maps",
     "City Planning New York (State) New York Maps",
     "Queens (New York, n.y.) Administrative and Political Divisions Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1916"
   ],
   "dct_issued_s": "1916",
+  "gbl_indexYear_im": [
+    "1916"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1916 TO 1916]"
+  ],
   "dct_spatial_sm": [
-    "New York, New York"
+    "New York--New York"
   ],
   "locn_geometry": "POLYGON((-73.96 40.81, -73.7 40.81, -73.7 40.53, -73.96 40.53, -73.96 40.81))",
   "dcat_bbox": "ENVELOPE(-73.96,-73.7,40.81,40.53)",
@@ -51,6 +58,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9929823620001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:22Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -23,8 +23,14 @@
     "1924-1930"
   ],
   "dct_issued_s": "1924 - 1930?",
+  "gbl_indexYear_im": [
+    "1924"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1924 TO 1930]"
+  ],
   "dct_spatial_sm": [
-    "Minneapolis, Minnesota"
+    "Minnesota--Minneapolis"
   ],
   "locn_geometry": "POLYGON((-93.2386 44.9764, -93.2228 44.9764, -93.2228 44.9703, -93.2386 44.9703, -93.2386 44.9764))",
   "dcat_bbox": "ENVELOPE(-93.2386,-93.2228,44.9764,44.9703)",
@@ -46,6 +52,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9939135000001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:09Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

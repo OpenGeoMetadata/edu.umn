@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Pettibone, Darwin A., 1827-1894"
+    "Pettibone, Darwin A., 1827-1894"
   ],
   "dct_publisher_sm": [
     "D.A. Pettibone (Ann Arbor)"
@@ -22,14 +22,21 @@
   "dcat_keyword_sm": [
     "Real Property Michigan Ann Arbor Maps",
     "Ann Arbor (Mich.) Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1854"
   ],
   "dct_issued_s": "1854",
+  "gbl_indexYear_im": [
+    "1854"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1854 TO 1854]"
+  ],
   "dct_spatial_sm": [
-    "Ann Arbor, Michigan"
+    "Michigan--Ann Arbor"
   ],
   "locn_geometry": "POLYGON((-83.751 42.31, -83.75 42.31, -83.75 42.3, -83.751 42.3, -83.751 42.31))",
   "dcat_bbox": "ENVELOPE(-83.751,-83.75,42.31,42.3)",
@@ -51,6 +58,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9935440990001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:32Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

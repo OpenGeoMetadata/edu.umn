@@ -24,8 +24,14 @@
     "Roads"
   ],
   "dct_issued_s": "1923",
+  "gbl_indexYear_im": [
+    "1923"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1923 TO 1923]"
+  ],
   "dct_spatial_sm": [
-    "Minneapolis, Saint Paul, Minnesota",
+    "Minnesota-- Saint Paul--Minneapolis",
     "Minnesota"
   ],
   "locn_geometry": "POLYGON((-95 45.98333333, -91.5 45.98333333, -91.5 43.98333333, -95 43.98333333, -95 45.98333333))",
@@ -48,6 +54,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9929048570001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:27Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

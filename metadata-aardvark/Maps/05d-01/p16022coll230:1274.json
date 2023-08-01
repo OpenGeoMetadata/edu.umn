@@ -20,6 +20,12 @@
     "Maps"
   ],
   "dct_issued_s": "1854",
+  "gbl_indexYear_im": [
+    "1854"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1854 TO 1854]"
+  ],
   "locn_geometry": "POLYGON((-125.4 49.16666667, -66.48333333 49.16666667, -66.48333333 4.216666667, -125.4 4.216666667, -125.4 49.16666667))",
   "dcat_bbox": "ENVELOPE(-125.4,-66.48333333,49.16666667,4.216666667)",
   "dcat_centroid": "26.691666668499998,-95.941666665",
@@ -40,6 +46,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9952813450001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:14Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

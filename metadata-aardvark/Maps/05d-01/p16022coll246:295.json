@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Arrowsmith, Aaron, 1750-1823."
+    "Arrowsmith, Aaron, 1750-1823"
   ],
   "dct_publisher_sm": [
     "Laurie, R. H.; London"
@@ -27,19 +27,26 @@
     "Bhutan Maps",
     "Nepal Maps",
     "Burma Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1845"
   ],
   "dct_issued_s": "1845",
+  "gbl_indexYear_im": [
+    "1845"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1845 TO 1845]"
+  ],
   "dct_spatial_sm": [
     "India",
     "Sri Lanka",
     "Bangladesh",
     "Bhutan",
     "Nepal",
-    "Burma, Myanmar [Burma]"
+    "Myanmar [Burma]--Burma"
   ],
   "locn_geometry": "POLYGON((67 36, 100 36, 100 5, 67 5, 67 36))",
   "dcat_bbox": "ENVELOPE(67,100,36,5)",
@@ -61,6 +68,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9973937979301701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:27Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

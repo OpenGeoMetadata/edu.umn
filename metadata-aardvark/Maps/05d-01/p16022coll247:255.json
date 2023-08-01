@@ -19,12 +19,19 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Minnesota Maps"
+    "Minnesota Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1850"
   ],
   "dct_issued_s": "1850",
+  "gbl_indexYear_im": [
+    "1850"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1850 TO 1850]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
@@ -45,6 +52,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9931621900001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:35Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

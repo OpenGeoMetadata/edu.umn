@@ -11,7 +11,7 @@
     "fre"
   ],
   "dct_creator_sm": [
-    "Brower, Jacob Vradenberg, 1844-1905",
+    "Brower, J. V. (Jacob Vradenberg), 1844-1905",
     "Drapeyron, Ludovic , 1839-1901"
   ],
   "schema_provider_s": "University of Minnesota",
@@ -22,12 +22,19 @@
     "Hydrography Minnesota Itasca State Park Maps",
     "Itasca State Park (Minn.) Maps",
     "Mississippi River Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1895"
   ],
   "dct_issued_s": "1895",
+  "gbl_indexYear_im": [
+    "1895"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1895 TO 1895]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
@@ -48,6 +55,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9944474380001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:38Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

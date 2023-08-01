@@ -8,7 +8,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Jefferys, Thomas"
+    "Jefferys, Thomas, 1755-"
   ],
   "dct_publisher_sm": [
     "Thomas Jefferys; London"
@@ -19,12 +19,19 @@
   ],
   "dcat_keyword_sm": [
     "Coromandel Coast (India) Maps",
-    "Early Maps"
+    "Early Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1780?"
   ],
   "dct_issued_s": "1780?",
+  "gbl_indexYear_im": [
+    "1780"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1780 TO 1780]"
+  ],
   "dct_spatial_sm": [
     "India"
   ],
@@ -48,6 +55,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9936935010001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:59Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

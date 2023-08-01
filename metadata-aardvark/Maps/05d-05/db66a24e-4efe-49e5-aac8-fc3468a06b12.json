@@ -1,57 +1,29 @@
 {
-  "dct_title_s": "Surface formations and agricultural conditions of northeastern Minnesota, Bulletin 13, Plate 1",
-  "dct_description_sm": [
-    "Sheet 2, Map of the Surface (glacial landforms) Formations and agricultural conditions of northeastern Minnesota, scale 1:500,000."
-  ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
-    "Leverett, Frank.",
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "db66a24e-4efe-49e5-aac8-fc3468a06b12",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Surface formations and agricultural conditions of northeastern Minnesota, Bulletin 13, Plate 1",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "db66a24e-4efe-49e5-aac8-fc3468a06b12",
+  "solr_geom": "ENVELOPE(-94.4317,-93.0804,48.7118,47.846)",
+  "solr_year_i": "1917",
+  "dc_creator_sm": [
+    "Leverett, Frank, 1859-1943",
     "Sardeson, Frederik W."
   ],
-  "dct_publisher_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "dcat_theme_sm": [
-    "Environment"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "dct_temporal_sm": [
-    "1917"
-  ],
-  "dct_issued_s": "1917",
-  "gbl_indexYear_im": [
-    "1917"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1917 TO 1917]"
-  ],
+  "dc_description_s": "Sheet 2, Map of the Surface (glacial landforms) Formations and agricultural conditions of northeastern Minnesota, scale 1:500,000.",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23267.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/974/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:974\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-94.4317,-93.0804,48.7118,47.846)",
-  "dcat_bbox": "ENVELOPE(-94.4317,-93.0804,48.7118,47.846)",
-  "dcat_centroid": "48.27889999999999,-93.75605",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:25:57Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_isPartOf_sm": [
-    "05d-05"
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23267.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/974/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:974\"}",
-  "id": "db66a24e-4efe-49e5-aac8-fc3468a06b12",
-  "dct_identifier_sm": [
-    "db66a24e-4efe-49e5-aac8-fc3468a06b12"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:17Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Minnesota Geological Survey",
+  "dct_issued_s": "1917",
+  "dct_temporal_sm": [
+    "1917"
+  ]
 }

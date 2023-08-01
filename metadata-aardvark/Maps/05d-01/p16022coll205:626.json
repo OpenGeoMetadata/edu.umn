@@ -20,14 +20,21 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Gangs"
+    "Gangs",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1926?"
   ],
   "dct_issued_s": "1926?",
+  "gbl_indexYear_im": [
+    "1926"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1926 TO 1926]"
+  ],
   "dct_spatial_sm": [
-    "Chicago, Illinois"
+    "Illinois--Chicago"
   ],
   "locn_geometry": "POLYGON((-87.7833 41.95, -87.5833 41.95, -87.5833 41.7833, -87.7833 41.7833, -87.7833 41.95))",
   "dcat_bbox": "ENVELOPE(-87.7833,-87.5833,41.95,41.7833)",
@@ -49,6 +56,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9912650150001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:09Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

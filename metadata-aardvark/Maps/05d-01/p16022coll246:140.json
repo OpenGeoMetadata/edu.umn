@@ -10,7 +10,7 @@
     "fre"
   ],
   "dct_creator_sm": [
-    "van den Keere, Pieter, 1571-approximately 1646."
+    "Keere, Pieter van den, 1571-approximately 1646"
   ],
   "dct_publisher_sm": [
     "Christoffle Guyot; Amsterdam"
@@ -21,14 +21,21 @@
   ],
   "dcat_keyword_sm": [
     "Burma Maps Early Works to 1800",
-    "Early Maps"
+    "Early Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1602"
   ],
   "dct_issued_s": "1602",
+  "gbl_indexYear_im": [
+    "1602"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1602 TO 1602]"
+  ],
   "dct_spatial_sm": [
-    "Burma, Myanmar [Burma]"
+    "Myanmar [Burma]--Burma"
   ],
   "locn_geometry": "POLYGON((90.68 28, 97.91 28, 97.91 15, 90.68 15, 90.68 28))",
   "dcat_bbox": "ENVELOPE(90.68,97.91,28,15)",
@@ -50,6 +57,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9973944493701701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:13:59Z",
+  "gbl_mdModified_dt": "2023-02-07T18:32:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

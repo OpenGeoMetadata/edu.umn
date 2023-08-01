@@ -16,14 +16,24 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "dcat_keyword_sm": [
+    "FixedBBoxes",
+    "bboxSprintJune2023"
+  ],
   "dct_issued_s": "1736",
+  "gbl_indexYear_im": [
+    "1736"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1736 TO 1736]"
+  ],
   "dct_spatial_sm": [
-    "Colombo, Sri Lanka",
+    "Sri Lanka--Colombo",
     "Sri Lanka"
   ],
-  "locn_geometry": "POLYGON((79.82222222 6.981111111, 158.89 6.981111111, 158.89 6.8625, 79.82222222 6.8625, 79.82222222 6.981111111))",
-  "dcat_bbox": "ENVELOPE(79.82222222,158.89,6.981111111,6.8625)",
-  "dcat_centroid": "6.9218055555,119.35611111",
+  "locn_geometry": "POLYGON((79.818322 7.050135, 79.878317 7.050135, 79.878317 6.850086, 79.818322 6.850086, 79.818322 7.050135))",
+  "dcat_bbox": "ENVELOPE(79.818322,79.878317,7.050135,6.850086)",
+  "dcat_centroid": "6.9501105,79.8483195",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -41,6 +51,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9977801691501701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:12Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

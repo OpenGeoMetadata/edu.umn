@@ -5,7 +5,8 @@
   "dc_title_s": "Map of Alaska in relief",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:2645",
-  "solr_geom": "ENVELOPE(172.1,-53.1833,71.6,18.2167)",
+  "solr_geom": "ENVELOPE(-179.9,-129.97,71.6,51.02)",
+  "solr_year_i": "1923",
   "dc_creator_sm": [
     "Geological Survey (U.S.)"
   ],
@@ -15,7 +16,7 @@
   "dct_spatial_sm": [
     "Alaska"
   ],
-  "layer_modified_dt": "2022-09-28T02:15:35Z",
+  "layer_modified_dt": "2023-02-07T18:35:13Z",
   "dc_language_sm": [
     "eng"
   ],

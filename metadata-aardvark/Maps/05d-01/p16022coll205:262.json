@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Williams, Wellington"
+    "Williams, W. (Wellington)"
   ],
   "dct_publisher_sm": [
     "W. Williams (Philadelphia)"
@@ -22,14 +22,21 @@
   "dcat_keyword_sm": [
     "Central Business Districts Ohio Cincinnati Maps",
     "Cincinnati (Ohio) Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1849"
   ],
   "dct_issued_s": "1849",
+  "gbl_indexYear_im": [
+    "1849"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1849 TO 1849]"
+  ],
   "dct_spatial_sm": [
-    "Cincinnati, Ohio"
+    "Ohio--Cincinnati"
   ],
   "locn_geometry": "POLYGON((-84.55 39.11, -84.46 39.11, -84.46 39.0601, -84.55 39.0601, -84.55 39.11))",
   "dcat_bbox": "ENVELOPE(-84.55,-84.46,39.11,39.0601)",
@@ -51,6 +58,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9929845810001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:29Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

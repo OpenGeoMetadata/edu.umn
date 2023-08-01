@@ -10,8 +10,8 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Zeese, Paul",
-    "O'Hara and Zeese Civil engineers and Surveyors"
+    "O'Hara and Zeese Civil engineers and Surveyors",
+    "Zeese, Paul"
   ],
   "dct_publisher_sm": [
     "O'Hara & Zeese Civil Engineers and Surveyors (Aitkin, Minnesota; The Dept. (Minnesota)"
@@ -22,14 +22,21 @@
   ],
   "dcat_keyword_sm": [
     "Aitkin County (Minn.) Maps 1920",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1920"
   ],
   "dct_issued_s": "1920",
+  "gbl_indexYear_im": [
+    "1920"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1920 TO 1920]"
+  ],
   "dct_spatial_sm": [
-    "Aitkin County, Minnesota",
+    "Minnesota--Aitkin County",
     "Minnesota"
   ],
   "locn_geometry": "POLYGON((-93.81 47.03, -93.03 47.03, -93.03 46.13, -93.81 46.13, -93.81 47.03))",
@@ -52,6 +59,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9917870610001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:30Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

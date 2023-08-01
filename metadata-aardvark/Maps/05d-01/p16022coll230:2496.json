@@ -20,18 +20,25 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Nautical Charts"
+    "Nautical Charts",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1873"
   ],
   "dct_issued_s": "1873",
+  "gbl_indexYear_im": [
+    "1873"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1873 TO 1873]"
+  ],
   "dct_spatial_sm": [
     "Alaska"
   ],
-  "locn_geometry": "POLYGON((172.1 71.6, -129.9667 71.6, -129.9667 51.0167, 172.1 51.0167, 172.1 71.6))",
-  "dcat_bbox": "ENVELOPE(172.1,-129.9667,71.6,51.0167)",
-  "dcat_centroid": "61.30835,21.066649999999996",
+  "locn_geometry": "POLYGON((-179.9 71.6, -129.97 71.6, -129.97 51.02, -179.9 51.02, -179.9 71.6))",
+  "dcat_bbox": "ENVELOPE(-179.9,-129.97,71.6,51.02)",
+  "dcat_centroid": "61.31,-154.935",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,6 +56,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9927569560001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:41Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:51Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Dalrymple, A."
+    "Dalrymple, A. (Publisher)"
   ],
   "dct_publisher_sm": [
     "A. Dalrymple"
@@ -24,14 +24,21 @@
   ],
   "dcat_keyword_sm": [
     "Nautical Charts Indonesia Buru Island (Maluku)",
-    "Nautical Charts"
+    "Nautical Charts",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1805"
   ],
   "dct_issued_s": "1805",
+  "gbl_indexYear_im": [
+    "1805"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1805 TO 1805]"
+  ],
   "dct_spatial_sm": [
-    "Buru island, Maluku, Indonesia",
+    "Indonesia-- Maluku--Buru island",
     "Indonesia"
   ],
   "locn_geometry": "POLYGON((126.96 -3.2101, 127.2101 -3.2101, 127.2101 -3.4, 126.96 -3.4, 126.96 -3.2101))",
@@ -54,6 +61,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9973344890801701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:17Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -20,8 +20,14 @@
     "Maps"
   ],
   "dct_issued_s": "1876?",
+  "gbl_indexYear_im": [
+    "1876"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1876 TO 1876]"
+  ],
   "dct_spatial_sm": [
-    "Washington, District of Columbia"
+    "District of Columbia--Washington"
   ],
   "locn_geometry": "POLYGON((-107.95 38.11666667, -107.25 38.11666667, -107.25 37.7, -107.95 37.7, -107.95 38.11666667))",
   "dcat_bbox": "ENVELOPE(-107.95,-107.25,38.11666667,37.7)",
@@ -43,6 +49,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9931968370001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:17Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

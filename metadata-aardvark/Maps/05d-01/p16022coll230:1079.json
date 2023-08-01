@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Canada. Privy Council"
+    "Canada. Privy Council Office"
   ],
   "dct_publisher_sm": [
     "By authority of Wilfred Laurier,  President of the Privy Council (Ottawa,  Ont)"
@@ -24,12 +24,19 @@
     "Royal Canadian Mounted Police",
     "Police Stations",
     "Indian Reservations",
-    "Railroads"
+    "Railroads",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1904"
   ],
   "dct_issued_s": "1904",
+  "gbl_indexYear_im": [
+    "1904"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1904 TO 1904]"
+  ],
   "locn_geometry": "POLYGON((-116 54.8333, -100.5 54.8333, -100.5 49, -116 49, -116 54.8333))",
   "dcat_bbox": "ENVELOPE(-116,-100.5,54.8333,49)",
   "dcat_centroid": "51.916650000000004,-108.25",
@@ -50,6 +57,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9973355305901701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:04Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

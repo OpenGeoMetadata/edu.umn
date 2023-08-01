@@ -10,8 +10,8 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Hall, Sidney",
-    "Adam and Charles Black (Firm),"
+    "Adam and Charles Black (Firm)",
+    "Hall, Sidney"
   ],
   "dct_publisher_sm": [
     "Adam & Charles Black, et al ; Edinburgh"
@@ -23,14 +23,21 @@
   "dcat_keyword_sm": [
     "Southeast Asia Maps",
     "Burma Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1846"
   ],
   "dct_issued_s": "1846",
+  "gbl_indexYear_im": [
+    "1846"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1846 TO 1846]"
+  ],
   "dct_spatial_sm": [
-    "Burma, Myanmar [Burma]"
+    "Myanmar [Burma]--Burma"
   ],
   "locn_geometry": "POLYGON((92 32, 127 32, 127 -11, 92 -11, 92 32))",
   "dcat_bbox": "ENVELOPE(92,127,32,-11)",
@@ -52,6 +59,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9934922890001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:27Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

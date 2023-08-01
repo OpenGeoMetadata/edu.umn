@@ -20,12 +20,19 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Rain and Rainfall"
+    "Rain and Rainfall",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1880"
   ],
   "dct_issued_s": "1880",
+  "gbl_indexYear_im": [
+    "1880"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1880 TO 1880]"
+  ],
   "locn_geometry": "POLYGON((-125 49, -65 49, -65 25, -125 25, -125 49))",
   "dcat_bbox": "ENVELOPE(-125,-65,49,25)",
   "dcat_centroid": "37.0,-95.0",
@@ -46,6 +53,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9963868300001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:45Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

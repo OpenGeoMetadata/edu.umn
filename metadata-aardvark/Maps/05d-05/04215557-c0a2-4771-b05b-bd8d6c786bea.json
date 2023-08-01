@@ -1,56 +1,28 @@
 {
-  "dct_title_s": "Paleozoic lithostratigraphy of southeastern Minnesota, M-51, Plate 7",
-  "dct_description_sm": [
-    "Lithostratigraphy (rock type and stratigraphic position on the landscape) of the Mt. Simon and Hinckley Sandstones, scale 1:500,000."
-  ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "04215557-c0a2-4771-b05b-bd8d6c786bea",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Paleozoic lithostratigraphy of southeastern Minnesota, M-51, Plate 7",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "04215557-c0a2-4771-b05b-bd8d6c786bea",
+  "solr_geom": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
+  "solr_year_i": "1983",
+  "dc_creator_sm": [
     "Mossler, John H."
   ],
-  "dct_publisher_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "dcat_theme_sm": [
-    "Environment"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "dct_temporal_sm": [
-    "1983"
-  ],
-  "dct_issued_s": "1983",
-  "gbl_indexYear_im": [
-    "1983"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1983 TO 1983]"
-  ],
+  "dc_description_s": "Lithostratigraphy (rock type and stratigraphic position on the landscape) of the Mt. Simon and Hinckley Sandstones, scale 1:500,000.",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22436.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/932/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:932\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
-  "dcat_bbox": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
-  "dcat_centroid": "46.441900000000004,-93.3613",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:23:08Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_isPartOf_sm": [
-    "05d-05"
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22436.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/932/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:932\"}",
-  "id": "04215557-c0a2-4771-b05b-bd8d6c786bea",
-  "dct_identifier_sm": [
-    "04215557-c0a2-4771-b05b-bd8d6c786bea"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:54Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Minnesota Geological Survey",
+  "dct_issued_s": "1983",
+  "dct_temporal_sm": [
+    "1983"
+  ]
 }

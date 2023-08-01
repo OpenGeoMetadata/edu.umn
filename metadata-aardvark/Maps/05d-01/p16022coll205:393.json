@@ -21,14 +21,21 @@
   ],
   "dcat_keyword_sm": [
     "Washington (d.c.) Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1888"
   ],
   "dct_issued_s": "1888?",
+  "gbl_indexYear_im": [
+    "1888"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1888 TO 1888]"
+  ],
   "dct_spatial_sm": [
-    "Washington, District of Columbia"
+    "District of Columbia--Washington"
   ],
   "locn_geometry": "POLYGON((-77.06 38.91, -76.96 38.91, -76.96 38.85, -77.06 38.85, -77.06 38.91))",
   "dcat_bbox": "ENVELOPE(-77.06,-76.96,38.91,38.85)",
@@ -50,6 +57,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9931673830001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:50Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

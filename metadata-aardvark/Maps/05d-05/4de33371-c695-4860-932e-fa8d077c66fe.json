@@ -1,58 +1,30 @@
 {
-  "dct_title_s": "Bedrock geologic map of northwestern Minnesota, M-80",
-  "dct_description_sm": [
-    "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of northwestern Minnesota, scale 1:250,000."
-  ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "4de33371-c695-4860-932e-fa8d077c66fe",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Bedrock geologic map of northwestern Minnesota, M-80",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "4de33371-c695-4860-932e-fa8d077c66fe",
+  "solr_geom": "ENVELOPE(-97.239,-96.387,49.001,48.5438)",
+  "solr_year_i": "1994",
+  "dc_creator_sm": [
+    "Chandler, Val W.",
     "Jirsa, Mark A.",
-    "Runkel, Anthony C.",
-    "Chandler, Val W."
+    "Runkel, Anthony C."
   ],
-  "dct_publisher_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "dcat_theme_sm": [
-    "Environment"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "dct_temporal_sm": [
-    "1994"
-  ],
-  "dct_issued_s": "1994",
-  "gbl_indexYear_im": [
-    "1994"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1994 TO 1994]"
-  ],
+  "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of northwestern Minnesota, scale 1:250,000.",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22477.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1111/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1111\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-97.239,-96.387,49.001,48.5438)",
-  "dcat_bbox": "ENVELOPE(-97.239,-96.387,49.001,48.5438)",
-  "dcat_centroid": "48.7724,-96.813",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:16:46Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_isPartOf_sm": [
-    "05d-05"
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22477.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1111/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1111\"}",
-  "id": "4de33371-c695-4860-932e-fa8d077c66fe",
-  "dct_identifier_sm": [
-    "4de33371-c695-4860-932e-fa8d077c66fe"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:00Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Minnesota Geological Survey",
+  "dct_issued_s": "1994",
+  "dct_temporal_sm": [
+    "1994"
+  ]
 }

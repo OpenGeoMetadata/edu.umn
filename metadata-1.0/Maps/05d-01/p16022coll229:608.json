@@ -5,13 +5,18 @@
   "dc_title_s": "Six ethnographical maps illustrative of \"The Natural History of Man\" and \"Researches into the Physical History of Mankind\"",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll229:608",
+  "solr_geom": "ENVELOPE(-180,180,90,-90)",
+  "solr_year_i": "1861",
   "dc_creator_sm": [
     "Prichard, James Cowles, 1786-1848"
   ],
   "dc_description_s": "Cartographic Details: Scales vary.|Second ed.|6 maps : hand color ; on sheets 58 x 81 cm, or smaller + text (3 pages).;|Scales vary.|Historical Atlases",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll229:608\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll229/608/manifest.json\"}",
-  "layer_modified_dt": "2022-09-28T02:14:37Z",
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "layer_modified_dt": "2023-06-23T22:01:02Z",
   "dc_language_sm": [
     "eng"
   ],

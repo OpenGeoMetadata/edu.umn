@@ -10,8 +10,8 @@
     "fre"
   ],
   "dct_creator_sm": [
-    "Bellin, Jacques Nicolas, 1703-1772.",
-    "Preávost, abbeá, 1697-1763."
+    "Bellin, Jacques Nicolas, 1703-1773",
+    "Preávost, abbeá, 1697-1763"
   ],
   "dct_publisher_sm": [
     "Didot; Paris"
@@ -23,12 +23,19 @@
   "dcat_keyword_sm": [
     "India Maps",
     "Sri Lanka Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1780"
   ],
   "dct_issued_s": "1780",
+  "gbl_indexYear_im": [
+    "1780"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1780 TO 1780]"
+  ],
   "dct_spatial_sm": [
     "India",
     "Sri Lanka"
@@ -53,6 +60,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9934946560001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:12Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

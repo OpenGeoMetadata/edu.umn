@@ -8,7 +8,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Cram, George Franklin,1841-1928."
+    "Cram, George Franklin, 1841-1928"
   ],
   "dct_publisher_sm": [
     "Geo. F. Cram, (Chicago), 1906"
@@ -20,14 +20,21 @@
   "dcat_keyword_sm": [
     "Street Railroads Minnesota Minneapolis Maps",
     "Railroads Minnesota Minneapolis Maps",
-    "Rain and Rainfall United States Maps"
+    "Rain and Rainfall United States Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1906"
   ],
   "dct_issued_s": "1906",
+  "gbl_indexYear_im": [
+    "1906"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1906 TO 1906]"
+  ],
   "dct_spatial_sm": [
-    "Minneapolis, Minnesota",
+    "Minnesota--Minneapolis",
     "Minnesota"
   ],
   "locn_geometry": "POLYGON((-93.3292 45.0513, -93.1939 45.0513, -93.1939 44.8902, -93.3292 44.8902, -93.3292 45.0513))",
@@ -50,6 +57,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9965645720001700"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:06Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

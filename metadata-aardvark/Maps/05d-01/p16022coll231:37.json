@@ -27,19 +27,26 @@
     "Roads Minnesota Brown County Maps 1913",
     "Brown County (Minn.) Maps 1913",
     "Nicollet County (Minn.) Maps 1913",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1913"
   ],
   "dct_issued_s": "1913",
+  "gbl_indexYear_im": [
+    "1913"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1913 TO 1913]"
+  ],
   "dct_spatial_sm": [
-    "Nicollet County, Minnesota",
+    "Minnesota--Nicollet County",
     "Minnesota"
   ],
-  "locn_geometry": "POLYGON((94.8 44.48, 93.9 44.48, 93.9 44.11, 94.8 44.11, 94.8 44.48))",
-  "dcat_bbox": "ENVELOPE(94.8,93.9,44.48,44.11)",
-  "dcat_centroid": "44.295,94.35",
+  "locn_geometry": "POLYGON((-94.8 44.48, -93.9 44.48, -93.9 44.11, -94.8 44.11, -94.8 44.48))",
+  "dcat_bbox": "ENVELOPE(-94.8,-93.9,44.48,44.11)",
+  "dcat_centroid": "44.295,-94.35",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -57,6 +64,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9948182900001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:17Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

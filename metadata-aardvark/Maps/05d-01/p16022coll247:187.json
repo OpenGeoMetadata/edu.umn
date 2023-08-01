@@ -9,7 +9,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "George F. Cram Company."
+    "George F. Cram Company"
   ],
   "dct_publisher_sm": [
     "G.F. Cram, (Chicago)"
@@ -20,12 +20,19 @@
   ],
   "dcat_keyword_sm": [
     "Cities and Towns Minnesota Maps",
-    "Railroads Minnesota Maps"
+    "Railroads Minnesota Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1917"
   ],
   "dct_issued_s": "1917",
+  "gbl_indexYear_im": [
+    "1917"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1917 TO 1917]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
@@ -46,6 +53,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9931907750001700"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:41Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

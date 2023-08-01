@@ -1,0 +1,64 @@
+{
+  "dct_title_s": "Prince Georges County, Maryland",
+  "dct_alternative_sm": [
+    "Prince Georges County, Maryland"
+  ],
+  "dct_description_sm": [
+    "Base source: USGS 1:100,000 county base dated 1977; interpretations derived from soil map constructed 1967.; \"Projection and 10,000-meter grid ticks, zone 18: Universal Transverse Mercator. 25,000-foot grid ticks based on Maryland coordinate system.\"; June 1980.; Includes location map.",
+    "66 x 51 centimeters",
+    "Scale 1:100,000; 1 cm. = 1 kilometer"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_creator_sm": [
+    "United States. Soil Conservation Service"
+  ],
+  "dct_publisher_sm": [
+    "Dept. of Agriculture, Soil Conservation Service (Lanham, Md.)"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dct_subject_sm": [
+    "Agriculture"
+  ],
+  "dcat_keyword_sm": [
+    "Agricultural Resources",
+    "Land Use, Rural"
+  ],
+  "dct_issued_s": "1980",
+  "gbl_indexYear_im": [
+    "1980"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1980]"
+  ],
+  "dct_spatial_sm": [
+    "Maryland--Prince George's County",
+    "Maryland"
+  ],
+  "locn_geometry": "POLYGON((-77.086391 39.131354, -76.669515 39.131354, -76.669515 38.535372, -77.086391 38.535372, -77.086391 39.131354))",
+  "dcat_bbox": "ENVELOPE(-77.086391,-76.669515,39.131354,38.535372)",
+  "dcat_centroid": "38.833363000000006,-76.877953",
+  "pcdm_memberOf_sm": [
+    "2787a9e8-0bef-452e-9e5f-e83042c193b4",
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-01"
+  ],
+  "dct_rights_sm": [
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/485/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:485\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/485/manifest.json\"}",
+  "id": "p16022coll624:485",
+  "dct_identifier_sm": [
+    "UMN_ALMA:9915405980001701"
+  ],
+  "gbl_mdModified_dt": "2023-06-16T21:58:10Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -11,8 +11,8 @@
   ],
   "dct_creator_sm": [
     "Chauchard, Captain",
-    "Neele, Samuel John, 1758-1824",
-    "John Stockdale (Firm),"
+    "John Stockdale (Firm),",
+    "Neele, Samuel John, 1758-1824"
   ],
   "dct_publisher_sm": [
     "Printed for John Stockdale (London)"
@@ -23,12 +23,19 @@
   ],
   "dcat_keyword_sm": [
     "Europe Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1800"
   ],
   "dct_issued_s": "1800",
+  "gbl_indexYear_im": [
+    "1800"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1800 TO 1800]"
+  ],
   "locn_geometry": "POLYGON((1.283333333 55.08333333, 38.21666667 55.08333333, 38.21666667 36.56666667, 1.283333333 36.56666667, 1.283333333 55.08333333))",
   "dcat_bbox": "ENVELOPE(1.283333333,38.21666667,55.08333333,36.56666667)",
   "dcat_centroid": "45.825,19.750000001500002",
@@ -49,6 +56,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9963418430001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:16Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:13Z",
   "gbl_mdVersion_s": "Aardvark"
 }

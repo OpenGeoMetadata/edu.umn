@@ -10,8 +10,8 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "L.T. Felland & Co.",
-    "Crosby, John Q. A"
+    "Crosby, John Q. A",
+    "L.T. Felland & Co."
   ],
   "dct_publisher_sm": [
     "L.T. Felland & Co.  (Minneapolis, Minnesota)"
@@ -25,14 +25,21 @@
   ],
   "dcat_keyword_sm": [
     "Saint Louis County (Minn.) Maps 1910 1919",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "between 1910 and 1919"
   ],
   "dct_issued_s": "1910 - 1919",
+  "gbl_indexYear_im": [
+    "1910"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1910 TO 1919]"
+  ],
   "dct_spatial_sm": [
-    "Saint Louis County, Minnesota",
+    "Minnesota--Saint Louis County",
     "Minnesota"
   ],
   "locn_geometry": "POLYGON((-93.0977 48.6315, -91.8024 48.6315, -91.8024 46.6492, -93.0977 46.6492, -93.0977 48.6315))",
@@ -55,6 +62,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9948189480001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:12Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

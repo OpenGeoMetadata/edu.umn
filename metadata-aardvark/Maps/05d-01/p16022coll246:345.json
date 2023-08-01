@@ -10,9 +10,9 @@
     "fre"
   ],
   "dct_creator_sm": [
-    "de Vaugondy, Gilles Robert, 1688-1766",
-    "de Vaugondy, Didier Robert 1723-1786",
-    "Guillaume Nicholas Delahaye 1725-1802"
+    "Guillaume Nicholas Delahaye 1725-1802",
+    "Robert de Vaugondy, Didier, 1723-1786",
+    "Robert de Vaugondy, Gilles, 1688-1766"
   ],
   "dct_publisher_sm": [
     "Chez Delamarche; Paris"
@@ -31,12 +31,19 @@
     "Southeast Asia",
     "Early Maps",
     "Early Works",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1751"
   ],
   "dct_issued_s": "1751",
+  "gbl_indexYear_im": [
+    "1751"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1751 TO 1751]"
+  ],
   "dct_spatial_sm": [
     "Asia"
   ],
@@ -60,6 +67,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9973941987101701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:08Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

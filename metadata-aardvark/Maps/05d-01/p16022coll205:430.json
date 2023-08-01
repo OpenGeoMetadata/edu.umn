@@ -20,14 +20,21 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Election Districts"
+    "Election Districts",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1920"
   ],
   "dct_issued_s": "1920",
+  "gbl_indexYear_im": [
+    "1920"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1920 TO 1920]"
+  ],
   "dct_spatial_sm": [
-    "Duluth, Minnesota"
+    "Minnesota--Duluth"
   ],
   "locn_geometry": "POLYGON((-92.2 46.8, -92.05 46.8, -92.05 46.6931, -92.2 46.6931, -92.2 46.8))",
   "dcat_bbox": "ENVELOPE(-92.2,-92.05,46.8,46.6931)",
@@ -49,6 +56,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9975812780201701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:30Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

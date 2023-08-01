@@ -1,0 +1,64 @@
+{
+  "dct_title_s": "Orange County, Vermont",
+  "dct_alternative_sm": [
+    "Orange County, Vermont"
+  ],
+  "dct_description_sm": [
+    "Base source: USGS 1:100,000 county base map compiled in 1977 from USGS 1:24,000 topographic maps dated 1970-1973; interpretations derived from soil map constructed 1971.; \"Projection and 10,000-metre grid ticks, zone 18: Universal Transverse Mercator ... 25,000 foot grid ticks based on Virginia [sic] coordinate system.\"; May 1979.; Includes vicinity map.",
+    "51 x 66 centimeters",
+    "Scale 1:100,000; 1 cm. = 1 kilometer"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_creator_sm": [
+    "United States. Soil Conservation Service"
+  ],
+  "dct_publisher_sm": [
+    "Dept. of Agriculture, Soil Conservation Service (Washington.)"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dct_subject_sm": [
+    "Agriculture"
+  ],
+  "dcat_keyword_sm": [
+    "Agricultural Resources",
+    "Land Use, Rural"
+  ],
+  "dct_issued_s": "1979",
+  "gbl_indexYear_im": [
+    "1979"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1979 TO 1979]"
+  ],
+  "dct_spatial_sm": [
+    "Vermont--Orange County",
+    "Vermont"
+  ],
+  "locn_geometry": "POLYGON((-72.791775 44.220781, -72.03065 44.220781, -72.03065 43.771261, -72.791775 43.771261, -72.791775 44.220781))",
+  "dcat_bbox": "ENVELOPE(-72.791775,-72.03065,44.220781,43.771261)",
+  "dcat_centroid": "43.996021,-72.4112125",
+  "pcdm_memberOf_sm": [
+    "2787a9e8-0bef-452e-9e5f-e83042c193b4",
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-01"
+  ],
+  "dct_rights_sm": [
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/271/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:271\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/271/manifest.json\"}",
+  "id": "p16022coll624:271",
+  "dct_identifier_sm": [
+    "UMN_ALMA:9933215210001701"
+  ],
+  "gbl_mdModified_dt": "2023-06-16T21:58:10Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

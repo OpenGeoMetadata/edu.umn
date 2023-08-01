@@ -19,13 +19,23 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "dcat_keyword_sm": [
+    "FixedBBoxes",
+    "bboxSprintJune2023"
+  ],
   "dct_issued_s": "1878",
+  "gbl_indexYear_im": [
+    "1878"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1878 TO 1878]"
+  ],
   "dct_spatial_sm": [
     "Cyprus"
   ],
-  "locn_geometry": "POLYGON((32.26666667 35.7, 68.6 35.7, 68.6 34.61666667, 32.26666667 34.61666667, 32.26666667 35.7))",
-  "dcat_bbox": "ENVELOPE(32.26666667,68.6,35.7,34.61666667)",
-  "dcat_centroid": "35.158333335,50.433333335",
+  "locn_geometry": "POLYGON((32.2525 35.7741, 34.5926 35.7741, 34.5926 34.521, 32.2525 34.521, 32.2525 35.7741))",
+  "dcat_bbox": "ENVELOPE(32.2525,34.5926,35.7741,34.521)",
+  "dcat_centroid": "35.147549999999995,33.42255",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -43,6 +53,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9956053600001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:17Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

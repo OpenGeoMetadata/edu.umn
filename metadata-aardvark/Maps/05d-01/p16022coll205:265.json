@@ -24,14 +24,21 @@
     "Manhattan (New York, n.y.) History Colonial Period, Ca. 1600 1775 Maps",
     "New York (n.y.) Maps",
     "Maps",
-    "Physical Maps"
+    "Physical Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1909"
   ],
   "dct_issued_s": "1909",
+  "gbl_indexYear_im": [
+    "1909"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1909 TO 1909]"
+  ],
   "dct_spatial_sm": [
-    "New York, New York"
+    "New York--New York"
   ],
   "locn_geometry": "POLYGON((-74.0101 40.75, -73.95 40.75, -73.95 40.6801, -74.0101 40.6801, -74.0101 40.75))",
   "dcat_bbox": "ENVELOPE(-74.0101,-73.95,40.75,40.6801)",
@@ -53,6 +60,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9928691240001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:09Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

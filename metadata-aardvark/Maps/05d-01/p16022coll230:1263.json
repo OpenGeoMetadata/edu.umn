@@ -26,6 +26,12 @@
     "Federal Aid to Transportation"
   ],
   "dct_issued_s": "1926",
+  "gbl_indexYear_im": [
+    "1926"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1926 TO 1926]"
+  ],
   "locn_geometry": "POLYGON((-73 45, -71 45, -71 43, -73 43, -73 45))",
   "dcat_bbox": "ENVELOPE(-73,-71,45,43)",
   "dcat_centroid": "44.0,-72.0",
@@ -46,6 +52,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9949956290001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:30Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

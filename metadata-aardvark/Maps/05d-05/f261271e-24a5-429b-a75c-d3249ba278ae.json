@@ -1,56 +1,28 @@
 {
-  "dct_title_s": "Surficial geology of the Buffalo West quadrangle, Wright County, Minnesota, M-152",
-  "dct_description_sm": [
-    "Quaternary geology map showing interpretations of Quaternary (Pleistocene [glacial] and Holocene [post-glacial]) surficial geology (distribution and type of materials at the land surface), of the Buffalo West quadrangle, scale 1:24,000."
-  ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f261271e-24a5-429b-a75c-d3249ba278ae",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Surficial geology of the Buffalo West quadrangle, Wright County, Minnesota, M-152",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "f261271e-24a5-429b-a75c-d3249ba278ae",
+  "solr_geom": "ENVELOPE(-94.2615,-93.5158,45.4275,44.9789)",
+  "solr_year_i": "2005",
+  "dc_creator_sm": [
     "Lusardi, Barbara A."
   ],
-  "dct_publisher_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "dcat_theme_sm": [
-    "Environment"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Geological Survey"
-  ],
-  "dct_temporal_sm": [
-    "2005"
-  ],
-  "dct_issued_s": "2005",
-  "gbl_indexYear_im": [
-    "2005"
-  ],
-  "gbl_dateRange_drsim": [
-    "[2005 TO 2005]"
-  ],
+  "dc_description_s": "Quaternary geology map showing interpretations of Quaternary (Pleistocene [glacial] and Holocene [post-glacial]) surficial geology (distribution and type of materials at the land surface), of the Buffalo West quadrangle, scale 1:24,000.",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22566.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/868/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:868\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-94.2615,-93.5158,45.4275,44.9789)",
-  "dcat_bbox": "ENVELOPE(-94.2615,-93.5158,45.4275,44.9789)",
-  "dcat_centroid": "45.2032,-93.88865",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:25:58Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_isPartOf_sm": [
-    "05d-05"
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22566.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/868/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:868\"}",
-  "id": "f261271e-24a5-429b-a75c-d3249ba278ae",
-  "dct_identifier_sm": [
-    "f261271e-24a5-429b-a75c-d3249ba278ae"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:15Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Minnesota Geological Survey",
+  "dct_issued_s": "2005",
+  "dct_temporal_sm": [
+    "2005"
+  ]
 }

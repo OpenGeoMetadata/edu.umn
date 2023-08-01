@@ -10,7 +10,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Survey of India."
+    "Survey of India"
   ],
   "dct_publisher_sm": [
     "Survey of India; Dehra Dun, India"
@@ -22,12 +22,19 @@
   "dcat_keyword_sm": [
     "Gwalior (India) Maps",
     "Lashkar (India) Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1929"
   ],
   "dct_issued_s": "1929",
+  "gbl_indexYear_im": [
+    "1929"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1929 TO 1929]"
+  ],
   "dct_spatial_sm": [
     "India"
   ],
@@ -51,6 +58,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9924340870001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:49Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

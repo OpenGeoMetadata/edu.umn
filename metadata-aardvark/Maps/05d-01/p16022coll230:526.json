@@ -32,12 +32,19 @@
     "Czech Republic Maps Early Works to 1800",
     "Switzerland Maps Early Works to 1800",
     "Poland Maps Early Works to 1800",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1786"
   ],
   "dct_issued_s": "1786",
+  "gbl_indexYear_im": [
+    "1786"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1786 TO 1786]"
+  ],
   "dct_spatial_sm": [
     "Germany"
   ],
@@ -61,6 +68,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9922654830001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:12Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

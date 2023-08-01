@@ -10,8 +10,8 @@
     "lat"
   ],
   "dct_creator_sm": [
-    "Frederik de Wit, Frederik",
-    "Coávens et Mortier."
+    "Coávens et Mortier",
+    "Wit, Frederik de"
   ],
   "dct_publisher_sm": [
     "Ex officina I. Covens et C. Mortier; Amsterdam"
@@ -25,12 +25,19 @@
     "South Asia",
     "Maps",
     "Early Works",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1750?"
   ],
   "dct_issued_s": "1750?",
+  "gbl_indexYear_im": [
+    "1750"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1750 TO 1750]"
+  ],
   "dct_spatial_sm": [
     "Asia"
   ],
@@ -54,6 +61,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9973942698401701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:59Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

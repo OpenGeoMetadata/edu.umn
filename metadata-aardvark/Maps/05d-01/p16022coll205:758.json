@@ -23,12 +23,18 @@
     "1921"
   ],
   "dct_issued_s": "1921",
+  "gbl_indexYear_im": [
+    "1921"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1921 TO 1921]"
+  ],
   "dct_spatial_sm": [
     "Yoshioka"
   ],
-  "locn_geometry": "POLYGON((133.45 36.8722, 133.4833 36.8722, 133.4833 34.8444, 133.45 34.8444, 133.45 36.8722))",
-  "dcat_bbox": "ENVELOPE(133.45,133.4833,36.8722,34.8444)",
-  "dcat_centroid": "35.8583,133.46665000000002",
+  "locn_geometry": "POLYGON((138.929104 36.474281, 139.041492 36.474281, 139.041492 36.417183, 138.929104 36.417183, 138.929104 36.474281))",
+  "dcat_bbox": "ENVELOPE(138.929104,139.041492,36.474281,36.417183)",
+  "dcat_centroid": "36.445732,138.985298",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -46,6 +52,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9923657180001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:33Z",
+  "gbl_mdModified_dt": "2023-06-27T16:54:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

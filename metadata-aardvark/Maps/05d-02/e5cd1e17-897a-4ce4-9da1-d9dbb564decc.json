@@ -1,58 +1,29 @@
 {
-  "dct_title_s": "Map of Emmet Township: Township 115 N, Range 36 W of the 5th PM.",
-  "dct_description_sm": [
-    "Page 27: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913"
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "e5cd1e17-897a-4ce4-9da1-d9dbb564decc",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Emmet Township: Township 115 N, Range 36 W of the 5th PM.",
+  "dct_provenance_s": "University of Minnesota",
+  "layer_slug_s": "e5cd1e17-897a-4ce4-9da1-d9dbb564decc",
+  "solr_geom": "ENVELOPE(-95.4831,-94.4948,44.8942,44.4566)",
+  "solr_year_i": "1913",
+  "dc_creator_sm": [
+    "Webb Publishing Co."
   ],
-  "dct_language_sm": [
-    "eng"
-  ],
-  "dct_creator_sm": [
-    "Webb Publishing Company"
-  ],
-  "dct_publisher_sm": [
-    "Webb Publishing Company"
-  ],
-  "schema_provider_s": "University of Minnesota",
-  "gbl_resourceClass_sm": [
-    "Maps"
-  ],
-  "gbl_resourceType_sm": [
-    "Atlases"
-  ],
-  "dcat_keyword_sm": [
-    "Real property -- Minnesota -- Renville County -- Maps",
-    "John R. Borchert Map Library"
-  ],
-  "dct_temporal_sm": [
-    "1913"
-  ],
-  "dct_issued_s": "1913",
-  "gbl_indexYear_im": [
-    "1913"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1913 TO 1913]"
-  ],
+  "dc_description_s": "Page 27: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/929/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/147063\"}",
   "dct_spatial_sm": [
-    "Renville County, Minnesota",
+    "Minnesota--Renville County",
     "Minnesota"
   ],
-  "locn_geometry": "ENVELOPE(-95.4831,-94.4948,44.8942,44.4566)",
-  "dcat_bbox": "ENVELOPE(-95.4831,-94.4948,44.8942,44.4566)",
-  "dcat_centroid": "44.675399999999996,-94.98894999999999",
-  "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  "layer_modified_dt": "2023-02-03T21:27:03Z",
+  "dc_language_sm": [
+    "eng"
   ],
-  "dct_rights_sm": [
-    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
-  ],
-  "dct_accessRights_s": "Public",
-  "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/929/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/147063\"}",
-  "id": "e5cd1e17-897a-4ce4-9da1-d9dbb564decc",
-  "dct_identifier_sm": [
-    "e5cd1e17-897a-4ce4-9da1-d9dbb564decc"
-  ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:20Z",
-  "gbl_mdVersion_s": "Aardvark"
+  "dc_publisher_s": "Webb Publishing Company",
+  "dct_issued_s": "1913",
+  "dct_temporal_sm": [
+    "1913"
+  ]
 }

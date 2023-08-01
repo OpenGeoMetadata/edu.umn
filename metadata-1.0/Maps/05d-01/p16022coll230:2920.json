@@ -5,7 +5,8 @@
   "dc_title_s": "Cary's reduction of his large map of England and Wales, with part of Scotland : comprehending the whole of the turnpike roads, with the great rivers, and the course of the different navigable canals: also the market and borough towns, and principal places adjoining the road, to which is added the actual distance from one market town to another, with the exact admeasurement prefixed to each from the metropolis.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:2920",
-  "solr_geom": "ENVELOPE(-12.1,2.0833,62.45,49.4167)",
+  "solr_geom": "ENVELOPE(-6.4167,1.75,55.8,49.85)",
+  "solr_year_i": "1796",
   "dc_creator_sm": [
     "Cary, John, approximately 1754-1835"
   ],
@@ -13,9 +14,11 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2920\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2920/manifest.json\"}",
   "dct_spatial_sm": [
-    "England; Wales; Scotland"
+    "England",
+    "Wales",
+    "Scotland"
   ],
-  "layer_modified_dt": "2022-09-28T02:14:15Z",
+  "layer_modified_dt": "2023-02-07T18:33:12Z",
   "dc_language_sm": [
     "eng"
   ],

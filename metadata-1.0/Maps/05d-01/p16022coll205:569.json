@@ -5,14 +5,19 @@
   "dc_title_s": "A Plan of the town of Warren with the out lots",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll205:569",
-  "solr_geom": "ENVELOPE(-79.151,-79.15,41.86671,41.8667)",
+  "solr_geom": "ENVELOPE(-79.176522,-79.111687,41.86488,41.82502)",
+  "solr_year_i": "1795",
   "dc_creator_sm": [
     "Irvine, William, 1741-1804"
   ],
   "dc_description_s": "Photostats of original manuscript map done approximately 1795 located in the Pennsylvania State Archives.; Includes legend.; Relief shown by shading.; Alternate title: A correct Plan of the Town of Warren and the Out Lots.|72 x 53 centimeters|Scale approximately 1:4,800|City Maps",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:569\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/569/manifest.json\"}",
-  "layer_modified_dt": "2022-09-28T02:14:15Z",
+  "dct_spatial_sm": [
+    "Pennsylvania--Warren County",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2023-06-23T18:47:26Z",
   "dc_language_sm": [
     "eng"
   ],

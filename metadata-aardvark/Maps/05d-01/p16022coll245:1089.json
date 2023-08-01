@@ -26,8 +26,14 @@
     "Street Railroads"
   ],
   "dct_issued_s": "1926?",
+  "gbl_indexYear_im": [
+    "1926"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1926 TO 1926]"
+  ],
   "dct_spatial_sm": [
-    "Minneapolis, Minnesota",
+    "Minnesota--Minneapolis",
     "Minnesota"
   ],
   "locn_geometry": "POLYGON((-93.32888889 45.05111111, -93.19361111 45.05111111, -93.19361111 44.89, -93.32888889 44.89, -93.32888889 45.05111111))",
@@ -50,6 +56,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9960616150001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:29Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

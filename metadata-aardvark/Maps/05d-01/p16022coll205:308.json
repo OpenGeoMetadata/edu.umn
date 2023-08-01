@@ -23,8 +23,15 @@
     "1787"
   ],
   "dct_issued_s": "1787",
+  "gbl_indexYear_im": [
+    "1787"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1787 TO 1787]"
+  ],
   "dct_spatial_sm": [
-    "United Kingdom"
+    "England--London",
+    "England"
   ],
   "locn_geometry": "POLYGON((-0.15 51.5101, -0.03 51.5101, -0.03 51.4801, -0.15 51.4801, -0.15 51.5101))",
   "dcat_bbox": "ENVELOPE(-0.15,-0.03,51.5101,51.4801)",
@@ -46,6 +53,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9960092040001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:13Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

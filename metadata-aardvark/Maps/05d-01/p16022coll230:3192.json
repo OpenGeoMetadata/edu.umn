@@ -21,12 +21,19 @@
   ],
   "dcat_keyword_sm": [
     "Roads",
-    "Roads"
+    "Roads",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1920-1929"
   ],
   "dct_issued_s": "1920 - 1929",
+  "gbl_indexYear_im": [
+    "1920"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1920 TO 1929]"
+  ],
   "locn_geometry": "POLYGON((-13.75 59.15, 21.1667 59.15, 21.1667 32.6167, -13.75 32.6167, -13.75 59.15))",
   "dcat_bbox": "ENVELOPE(-13.75,21.1667,59.15,32.6167)",
   "dcat_centroid": "45.88335,3.7083499999999994",
@@ -47,6 +54,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9974762091601701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:08Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

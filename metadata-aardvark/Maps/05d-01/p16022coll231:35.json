@@ -29,8 +29,14 @@
     "1910"
   ],
   "dct_issued_s": "1910",
+  "gbl_indexYear_im": [
+    "1910"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1910 TO 1910]"
+  ],
   "dct_spatial_sm": [
-    "Hennepin County, Minnesota",
+    "Minnesota--Hennepin County",
     "Minnesota"
   ],
   "locn_geometry": "POLYGON((-93.7678 45.248, -92.9447 45.248, -92.9447 44.7611, -93.7678 44.7611, -93.7678 45.248))",
@@ -53,6 +59,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9930452020001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:11Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

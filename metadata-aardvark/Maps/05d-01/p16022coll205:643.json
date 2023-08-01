@@ -19,12 +19,22 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "dcat_keyword_sm": [
+    "",
+    "2022-creator-sprint"
+  ],
   "dct_temporal_sm": [
     "1888"
   ],
   "dct_issued_s": "1888",
+  "gbl_indexYear_im": [
+    "1888"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1888 TO 1888]"
+  ],
   "dct_spatial_sm": [
-    "Davenport, Iowa"
+    "Iowa--Davenport"
   ],
   "locn_geometry": "POLYGON((-90.6878 41.6203, -90.4906 41.6203, -90.4906 41.4603, -90.6878 41.4603, -90.6878 41.6203))",
   "dcat_bbox": "ENVELOPE(-90.6878,-90.4906,41.6203,41.4603)",
@@ -46,6 +56,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9924399950001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:50Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:13Z",
   "gbl_mdVersion_s": "Aardvark"
 }

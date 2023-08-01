@@ -19,6 +19,11 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "dcat_keyword_sm": [
+    "2022-creator-sprint",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
+  ],
   "dct_temporal_sm": [
     "1908"
   ],
@@ -32,9 +37,9 @@
   "dct_spatial_sm": [
     "Peru"
   ],
-  "locn_geometry": "POLYGON((-75.0 -9.0, -75.0 -9.0, -75.0 -11.0, -75.0 -11.0, -75.0 -9.0))",
-  "dcat_bbox": "ENVELOPE(-75.0,-75.0,-9.0,-11.0)",
-  "dcat_centroid": "-10.0,-75.0",
+  "locn_geometry": "POLYGON((-74.68 -8.69, -72.87 -8.69, -72.87 -11.65, -74.68 -11.65, -74.68 -8.69))",
+  "dcat_bbox": "ENVELOPE(-74.68,-72.87,-8.69,-11.65)",
+  "dcat_centroid": "-10.17,-73.775",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,6 +57,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9973950087501701"
   ],
-  "gbl_mdModified_dt": "2022-09-27T02:58:07Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

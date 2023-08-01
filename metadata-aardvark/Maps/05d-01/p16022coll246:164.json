@@ -10,8 +10,9 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Bartholomew, J.G. (John George), 1860-1920. John Bartholomew & Co",
+    "Bartholomew, J. G. (John George), 1860-1920",
     "Edinburgh Geographical Institute.",
+    "John Bartholomew & Co",
     "Thacker, Spink & Co."
   ],
   "dct_publisher_sm": [
@@ -25,12 +26,19 @@
     "Railroads India Maps",
     "Cities and Towns India Maps",
     "India Administrative and Political Divisions Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1907"
   ],
   "dct_issued_s": "1907",
+  "gbl_indexYear_im": [
+    "1907"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1907 TO 1907]"
+  ],
   "dct_spatial_sm": [
     "India"
   ],
@@ -54,6 +62,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9935596130001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:08Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

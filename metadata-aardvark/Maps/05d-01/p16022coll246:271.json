@@ -21,9 +21,15 @@
     "1865?"
   ],
   "dct_issued_s": "1865?",
+  "gbl_indexYear_im": [
+    "1865"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1865 TO 1865]"
+  ],
   "dct_spatial_sm": [
     "India",
-    "People's Republic of China, China"
+    "China--People's Republic of China"
   ],
   "locn_geometry": "POLYGON((65 40, 130 40, 130 1, 65 1, 65 40))",
   "dcat_bbox": "ENVELOPE(65,130,40,1)",
@@ -45,6 +51,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9935137450001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:02Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

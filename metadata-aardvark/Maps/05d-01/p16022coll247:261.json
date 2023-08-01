@@ -10,10 +10,10 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "United States. General Land Office",
     "Bond, Frank, 1856-1940",
+    "Dinsmore, A. F.",
     "Helm, Charles J.",
-    "Dinsmore, A. F."
+    "United States. General Land Office"
   ],
   "dct_publisher_sm": [
     "General Land Office;  Washington, D.C. 1905"
@@ -24,12 +24,19 @@
   ],
   "dcat_keyword_sm": [
     "Minnesota Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1905"
   ],
   "dct_issued_s": "1905",
+  "gbl_indexYear_im": [
+    "1905"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1905 TO 1905]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
@@ -50,6 +57,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9918986490001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:39Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

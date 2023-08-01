@@ -9,7 +9,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Bowen, Emanuel, -1767"
+    "Bowen, Emanuel, 1693 or 1694-1767"
   ],
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
@@ -20,14 +20,21 @@
     "Afghanistan Maps Early Works to 1800",
     "Middle East Maps Early Works to 1800",
     "Asia, Central Maps Early Works to 1800",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1747"
   ],
   "dct_issued_s": "1747",
+  "gbl_indexYear_im": [
+    "1747"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1747 TO 1747]"
+  ],
   "dct_spatial_sm": [
-    "Iran, Islamic Republic of"
+    "Iran"
   ],
   "locn_geometry": "POLYGON((40 44, 71 44, 71 24, 40 24, 40 44))",
   "dcat_bbox": "ENVELOPE(40,71,44,24)",
@@ -49,6 +56,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9956983500001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:14:07Z",
+  "gbl_mdModified_dt": "2023-02-07T18:33:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

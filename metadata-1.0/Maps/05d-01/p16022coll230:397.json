@@ -6,6 +6,7 @@
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:397",
   "solr_geom": "ENVELOPE(-0.5102777778,-0.3338888889,51.69166667,51.28666667)",
+  "solr_year_i": "1874",
   "dc_creator_sm": [
     "Agas, Radulph, 1540?-1621"
   ],
@@ -13,10 +14,10 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:397\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/397/manifest.json\"}",
   "dct_spatial_sm": [
-    "London, England",
-    "United Kingdom"
+    "England--London",
+    "England"
   ],
-  "layer_modified_dt": "2022-09-28T02:14:41Z",
+  "layer_modified_dt": "2023-02-07T18:33:52Z",
   "dc_language_sm": [
     "lat"
   ],

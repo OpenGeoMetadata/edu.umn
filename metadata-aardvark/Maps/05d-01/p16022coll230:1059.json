@@ -23,6 +23,12 @@
     "Mines and Mineral Resources"
   ],
   "dct_issued_s": "1897",
+  "gbl_indexYear_im": [
+    "1897"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1897 TO 1897]"
+  ],
   "locn_geometry": "POLYGON((-119 52.25, -115.25 52.25, -115.25 49, -119 49, -119 52.25))",
   "dcat_bbox": "ENVELOPE(-119,-115.25,52.25,49)",
   "dcat_centroid": "50.625,-117.125",
@@ -43,6 +49,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9943458900001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:20Z",
+  "gbl_mdModified_dt": "2023-02-07T18:34:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -19,16 +19,27 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "dcat_keyword_sm": [
+    "2022-creator-sprint",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
+  ],
   "dct_temporal_sm": [
     "1912"
   ],
   "dct_issued_s": "1912",
+  "gbl_indexYear_im": [
+    "1912"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1912 TO 1912]"
+  ],
   "dct_spatial_sm": [
     "North America"
   ],
-  "locn_geometry": "POLYGON((172 84, -15 84, -15 5, 172 5, 172 84))",
-  "dcat_bbox": "ENVELOPE(172,-15,84,5)",
-  "dcat_centroid": "44.5,78.5",
+  "locn_geometry": "POLYGON((-169.2 81.2, -41.5 81.2, -41.5 4.0, -169.2 4.0, -169.2 81.2))",
+  "dcat_bbox": "ENVELOPE(-169.2,-41.5,81.2,4.0)",
+  "dcat_centroid": "42.6,-105.35",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -46,6 +57,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9973354202001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:15:14Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

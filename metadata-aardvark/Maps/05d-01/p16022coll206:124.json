@@ -11,7 +11,7 @@
   ],
   "dct_creator_sm": [
     "Geological Survey (U.S.)",
-    "United States. Bureau of Public Roads."
+    "United States. Bureau of Public Roads"
   ],
   "dct_publisher_sm": [
     "Geological Survey (Washington D.C.)"
@@ -26,12 +26,19 @@
   "dcat_keyword_sm": [
     "Roads Minnesota Maps",
     "Minnesota Maps",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1924?"
   ],
   "dct_issued_s": "1924?",
+  "gbl_indexYear_im": [
+    "1924"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1924 TO 1924]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
@@ -55,6 +62,6 @@
   "dct_identifier_sm": [
     "UMN_ALMA:9961091100001701"
   ],
-  "gbl_mdModified_dt": "2022-09-28T02:16:09Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }
