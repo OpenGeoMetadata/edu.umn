@@ -12,17 +12,17 @@
   ],
   "dc_description_s": "1:1,000,000 Air Operations Map in collaboration with SCAGI. See the SCAR Map Catalogue (https://data.aad.gov.au/aadc/mapcat/) for the rest of the map series.; Series: PGC 1:1,000,000 Air Operations Planning Map Series",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/pgc/17/geo/Map 16 Victoria Land Ed 2.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/2356\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/pgc/17/geo/Map 16 Victoria Land Ed 2.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/2356\"}",
   "dct_spatial_sm": [
-    "Victoria Land, Antarctica",
-    "Ross Island, Antarctica",
-    "McMurdo Sound, Antarctica",
-    "Prince Albert Mountains, Antarctica",
-    "Mario Zucchelli, Antarctica",
-    "Jang Bogo, Antarctica",
+    "Antarctica--Victoria Land",
+    "Antarctica--Ross Island",
+    "Antarctica--McMurdo Sound",
+    "Antarctica--Prince Albert Mountains",
+    "Antarctica--Mario Zucchelli",
+    "Antarctica--Jang Bogo",
     "Antarctica"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:04Z",
+  "layer_modified_dt": "2023-02-03T22:44:26Z",
   "dc_language_sm": [
     "eng"
   ],

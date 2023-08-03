@@ -32,7 +32,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(-125,-142,-73,-78)",
+  "locn_geometry": "POLYGON((-125 -73, -142 -73, -142 -78, -125 -78, -125 -73))",
   "dcat_bbox": "ENVELOPE(-125,-142,-73,-78)",
   "dcat_centroid": "-75.5,-133.5",
   "pcdm_memberOf_sm": [
@@ -43,11 +43,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/08/geo/Hobbs Coast to Marie Byrd Land.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/110\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/08/geo/Hobbs Coast to Marie Byrd Land.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/110\"}",
   "id": "ANT-REF-MK2508-004",
   "dct_identifier_sm": [
     "ANT-REF-MK2508-004"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:51Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

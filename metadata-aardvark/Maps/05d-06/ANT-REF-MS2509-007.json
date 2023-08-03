@@ -20,7 +20,8 @@
     "Satellite maps"
   ],
   "dcat_keyword_sm": [
-    "Polar Geospatial Center"
+    "Polar Geospatial Center",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "2002"
@@ -35,7 +36,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(163.33,152,-78.75,-80.25)",
+  "locn_geometry": "POLYGON((163.33 -78.75, 152 -78.75, 152 -80.25, 163.33 -80.25, 163.33 -78.75))",
   "dcat_bbox": "ENVELOPE(163.33,152,-78.75,-80.25)",
   "dcat_centroid": "-79.5,157.66500000000002",
   "pcdm_memberOf_sm": [
@@ -46,11 +47,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/09/geo/Darwin Mountains.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/197\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/09/geo/Darwin Mountains.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/197\"}",
   "id": "ANT-REF-MS2509-007",
   "dct_identifier_sm": [
     "ANT-REF-MS2509-007"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:55Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

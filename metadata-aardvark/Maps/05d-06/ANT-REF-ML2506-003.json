@@ -30,7 +30,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(180,152,-76,-80)",
+  "locn_geometry": "POLYGON((180 -76, 152 -76, 152 -80, 180 -80, 180 -76))",
   "dcat_bbox": "ENVELOPE(180,152,-76,-80)",
   "dcat_centroid": "-78.0,166.0",
   "pcdm_memberOf_sm": [
@@ -41,11 +41,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/06/geo/McMurdo Sound.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/190\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/06/geo/McMurdo Sound.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/190\"}",
   "id": "ANT-REF-ML2506-003",
   "dct_identifier_sm": [
     "ANT-REF-ML2506-003"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:34Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

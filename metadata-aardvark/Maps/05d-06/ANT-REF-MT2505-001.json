@@ -32,7 +32,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(60,52.5,-66,-68)",
+  "locn_geometry": "POLYGON((60 -66, 52.5 -66, 52.5 -68, 60 -68, 60 -66))",
   "dcat_bbox": "ENVELOPE(60,52.5,-66,-68)",
   "dcat_centroid": "-67.0,56.25",
   "pcdm_memberOf_sm": [
@@ -43,11 +43,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/05/geo/E1 66 8.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/238\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/05/geo/E1 66 8.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/238\"}",
   "id": "ANT-REF-MT2505-001",
   "dct_identifier_sm": [
     "ANT-REF-MT2505-001"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:17Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

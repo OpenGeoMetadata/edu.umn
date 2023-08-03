@@ -18,7 +18,9 @@
     "Topographic maps"
   ],
   "dcat_keyword_sm": [
-    "Polar Geospatial Center"
+    "Polar Geospatial Center",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1940"
@@ -33,9 +35,9 @@
   "dct_spatial_sm": [
     "Greenland"
   ],
-  "locn_geometry": "ENVELOPE(0,-26,72,0)",
-  "dcat_bbox": "ENVELOPE(0,-26,72,0)",
-  "dcat_centroid": "36.0,-13.0",
+  "locn_geometry": "POLYGON((-27.93 74.05, -20.15 74.05, -20.15 71.72, -27.93 71.72, -27.93 74.05))",
+  "dcat_bbox": "ENVELOPE(-27.93,-20.15,74.05,71.72)",
+  "dcat_centroid": "72.88499999999999,-24.04",
   "pcdm_memberOf_sm": [
     "b0153110-e455-4ced-9114-9b13250a7093"
   ],
@@ -44,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/arctic/nga/04/geo/Kong Oscars Fjord.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/454\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/arctic/nga/04/geo/Kong Oscars Fjord.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/454\"}",
   "id": "GRL-REF-MT0504-007",
   "dct_identifier_sm": [
     "GRL-REF-MT0504-007"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:35Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

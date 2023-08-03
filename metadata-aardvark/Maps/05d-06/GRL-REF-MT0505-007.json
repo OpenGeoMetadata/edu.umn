@@ -33,7 +33,7 @@
   "dct_spatial_sm": [
     "Greenland"
   ],
-  "locn_geometry": "ENVELOPE(-24,-28,70,68)",
+  "locn_geometry": "POLYGON((-24 70, -28 70, -28 68, -24 68, -24 70))",
   "dcat_bbox": "ENVELOPE(-24,-28,70,68)",
   "dcat_centroid": "69.0,-26.0",
   "pcdm_memberOf_sm": [
@@ -44,11 +44,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/arctic/nga/05/geo/Blossevile Kyst v2.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/501\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/arctic/nga/05/geo/Blossevile Kyst v2.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/501\"}",
   "id": "GRL-REF-MT0505-007",
   "dct_identifier_sm": [
     "GRL-REF-MT0505-007"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:19Z",
+  "gbl_mdModified_dt": "2023-02-03T22:43:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

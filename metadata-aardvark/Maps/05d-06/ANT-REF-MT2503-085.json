@@ -32,7 +32,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(162,158,-69,-70)",
+  "locn_geometry": "POLYGON((162 -69, 158 -69, 158 -70, 162 -70, 162 -69))",
   "dcat_bbox": "ENVELOPE(162,158,-69,-70)",
   "dcat_centroid": "-69.5,160.0",
   "pcdm_memberOf_sm": [
@@ -43,11 +43,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/03/geo/Suvorov Glacier.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/94\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/03/geo/Suvorov Glacier.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/94\"}",
   "id": "ANT-REF-MT2503-085",
   "dct_identifier_sm": [
     "ANT-REF-MT2503-085"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:05Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

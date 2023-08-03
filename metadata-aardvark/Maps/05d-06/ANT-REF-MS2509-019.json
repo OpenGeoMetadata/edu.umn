@@ -32,7 +32,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(162,156,-78,-79)",
+  "locn_geometry": "POLYGON((162 -78, 156 -78, 156 -79, 162 -79, 162 -78))",
   "dcat_bbox": "ENVELOPE(162,156,-78,-79)",
   "dcat_centroid": "-78.5,159.0",
   "pcdm_memberOf_sm": [
@@ -43,11 +43,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/09/geo/Mount Harmsworth.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/209\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/09/geo/Mount Harmsworth.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/209\"}",
   "id": "ANT-REF-MS2509-019",
   "dct_identifier_sm": [
     "ANT-REF-MS2509-019"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:20Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

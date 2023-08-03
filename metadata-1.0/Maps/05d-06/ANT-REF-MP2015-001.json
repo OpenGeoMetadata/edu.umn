@@ -5,18 +5,18 @@
   "dc_title_s": "Antarctica",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "ANT-REF-MP2015-001",
-  "solr_geom": "ENVELOPE(42,-128,-54.9,-55)",
+  "solr_geom": "ENVELOPE(-143.4,-139.9,-59.4,-84.9)",
   "solr_year_i": "2015",
   "dc_creator_sm": [
     "Herried"
   ],
   "dc_description_s": "This map was produced by the Polar Geospatial Center at the University of Minnesota with a generous donation from Lockheed Martin Antarctic Support Contract (ASC). Contact PGC if you would like printed copies of this map.; Series: PGC Antarctic Reference Series",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/pgc/15/geo/Antarctica.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/666\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/pgc/15/geo/Antarctica.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/666\"}",
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "layer_modified_dt": "2022-07-26T17:32:17Z",
+  "layer_modified_dt": "2023-06-23T18:47:27Z",
   "dc_language_sm": [
     "eng"
   ],

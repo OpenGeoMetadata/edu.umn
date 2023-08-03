@@ -33,7 +33,7 @@
   "dct_spatial_sm": [
     "Greenland"
   ],
-  "locn_geometry": "ENVELOPE(-24,-36,84,83)",
+  "locn_geometry": "POLYGON((-24 84, -36 84, -36 83, -24 83, -24 84))",
   "dcat_bbox": "ENVELOPE(-24,-36,84,83)",
   "dcat_centroid": "83.5,-30.0",
   "pcdm_memberOf_sm": [
@@ -44,11 +44,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/arctic/nga/03/geo/Frederick E Hyde Fjord.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/430\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/arctic/nga/03/geo/Frederick E Hyde Fjord.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/430\"}",
   "id": "GRL-REF-MT0503-017",
   "dct_identifier_sm": [
     "GRL-REF-MT0503-017"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:55Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

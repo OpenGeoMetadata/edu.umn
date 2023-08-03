@@ -33,7 +33,7 @@
   "dct_spatial_sm": [
     "Greenland"
   ],
-  "locn_geometry": "ENVELOPE(-49,-52,66,65)",
+  "locn_geometry": "POLYGON((-49 66, -52 66, -52 65, -49 65, -49 66))",
   "dcat_bbox": "ENVELOPE(-49,-52,66,65)",
   "dcat_centroid": "65.5,-50.5",
   "pcdm_memberOf_sm": [
@@ -44,11 +44,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/arctic/nga/03/geo/Isuitsoq.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/415\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/arctic/nga/03/geo/Isuitsoq.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/415\"}",
   "id": "GRL-REF-MT0503-032",
   "dct_identifier_sm": [
     "GRL-REF-MT0503-032"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:27Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

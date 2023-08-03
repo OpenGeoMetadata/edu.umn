@@ -33,7 +33,7 @@
   "dct_spatial_sm": [
     "Greenland"
   ],
-  "locn_geometry": "ENVELOPE(-60,-66,77,76)",
+  "locn_geometry": "POLYGON((-60 77, -66 77, -66 76, -60 76, -60 77))",
   "dcat_bbox": "ENVELOPE(-60,-66,77,76)",
   "dcat_centroid": "76.5,-63.0",
   "pcdm_memberOf_sm": [
@@ -44,11 +44,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/arctic/nga/03/geo/Kap Melville.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/400\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/arctic/nga/03/geo/Kap Melville.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/400\"}",
   "id": "GRL-REF-MT0503-047",
   "dct_identifier_sm": [
     "GRL-REF-MT0503-047"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:10Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

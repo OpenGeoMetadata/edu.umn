@@ -33,7 +33,7 @@
   "dct_spatial_sm": [
     "Greenland"
   ],
-  "locn_geometry": "ENVELOPE(-25,-29,70,69)",
+  "locn_geometry": "POLYGON((-25 70, -29 70, -29 69, -25 69, -25 70))",
   "dcat_bbox": "ENVELOPE(-25,-29,70,69)",
   "dcat_centroid": "69.5,-27.0",
   "pcdm_memberOf_sm": [
@@ -44,11 +44,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/arctic/nga/03/geo/Daunay Bugt.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/436\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/arctic/nga/03/geo/Daunay Bugt.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/436\"}",
   "id": "GRL-REF-MT0503-011",
   "dct_identifier_sm": [
     "GRL-REF-MT0503-011"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:13Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

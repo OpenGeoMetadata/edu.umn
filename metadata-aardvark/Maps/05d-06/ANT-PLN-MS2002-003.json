@@ -21,7 +21,8 @@
   ],
   "dcat_keyword_sm": [
     "Planning and Cadastral",
-    "Polar Geospatial Center"
+    "Polar Geospatial Center",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "2012"
@@ -34,10 +35,10 @@
     "[2012 TO 2012]"
   ],
   "dct_spatial_sm": [
-    "McMurdo Dry Valleys, Antarctica",
+    "Antarctica--McMurdo Dry Valleys",
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(165.5,162.5,-77.5,-78.5)",
+  "locn_geometry": "POLYGON((165.5 -77.5, 162.5 -77.5, 162.5 -78.5, 165.5 -78.5, 165.5 -77.5))",
   "dcat_bbox": "ENVELOPE(165.5,162.5,-77.5,-78.5)",
   "dcat_centroid": "-78.0,164.0",
   "pcdm_memberOf_sm": [
@@ -48,11 +49,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/pgc/02/geo/T902 Field Planning Blue Glacier.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/135\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/pgc/02/geo/T902 Field Planning Blue Glacier.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/135\"}",
   "id": "ANT-PLN-MS2002-003",
   "dct_identifier_sm": [
     "ANT-PLN-MS2002-003"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:19Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

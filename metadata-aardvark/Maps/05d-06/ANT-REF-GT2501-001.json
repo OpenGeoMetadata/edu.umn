@@ -21,7 +21,10 @@
   ],
   "dcat_keyword_sm": [
     "Geoscientific Information",
-    "Polar Geospatial Center"
+    "Polar Geospatial Center",
+    "2022-creator-sprint",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1997"
@@ -36,9 +39,9 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(0,-130,0,-78)",
-  "dcat_bbox": "ENVELOPE(0,-130,0,-78)",
-  "dcat_centroid": "-39.0,-65.0",
+  "locn_geometry": "POLYGON((179.99 -70.01, -100.01 -70.01, -100.01 -80.01, 179.99 -80.01, 179.99 -70.01))",
+  "dcat_bbox": "ENVELOPE(179.99,-100.01,-70.01,-80.01)",
+  "dcat_centroid": "-75.01,39.99",
   "pcdm_memberOf_sm": [
     "b0153110-e455-4ced-9114-9b13250a7093"
   ],
@@ -47,11 +50,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/01/geo/Bakutis Coast.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/609\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/01/geo/Bakutis Coast.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/609\"}",
   "id": "ANT-REF-GT2501-001",
   "dct_identifier_sm": [
     "ANT-REF-GT2501-001"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:13Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

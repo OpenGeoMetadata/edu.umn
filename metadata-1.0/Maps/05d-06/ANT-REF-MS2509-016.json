@@ -8,15 +8,16 @@
   "solr_geom": "ENVELOPE(167.366,166.333,-77.15,-77.333)",
   "solr_year_i": "1995",
   "dc_creator_sm": [
-    "Jean-Claude M. Thomas; Jerry L. Mullins"
+    "Jean-Claude M. Thomas",
+    "Jerry L. Mullins"
   ],
   "dc_description_s": "Projection: Lambert Conformal Conic Projection - Standard Parallels -76º40' and -79º20'; Series: USGS Satellite Image Maps",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/09/geo/Mount Bird.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/206\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/09/geo/Mount Bird.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/206\"}",
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:15Z",
+  "layer_modified_dt": "2023-02-03T22:44:34Z",
   "dc_language_sm": [
     "eng"
   ],

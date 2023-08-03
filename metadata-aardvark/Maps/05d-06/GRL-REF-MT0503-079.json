@@ -32,7 +32,7 @@
   "dct_spatial_sm": [
     "Greenland"
   ],
-  "locn_geometry": "ENVELOPE(-20,-24,71,70)",
+  "locn_geometry": "POLYGON((-20 71, -24 71, -24 70, -20 70, -20 71))",
   "dcat_bbox": "ENVELOPE(-20,-24,71,70)",
   "dcat_centroid": "70.5,-22.0",
   "pcdm_memberOf_sm": [
@@ -43,11 +43,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/arctic/nga/03/geo/Scoresbysund.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/368\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/arctic/nga/03/geo/Scoresbysund.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/368\"}",
   "id": "GRL-REF-MT0503-079",
   "dct_identifier_sm": [
     "GRL-REF-MT0503-079"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:32Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

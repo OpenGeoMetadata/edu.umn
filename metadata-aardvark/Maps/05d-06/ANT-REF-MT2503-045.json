@@ -32,7 +32,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(172.5,165,-83,-84)",
+  "locn_geometry": "POLYGON((172.5 -83, 165 -83, 165 -84, 172.5 -84, 172.5 -83))",
   "dcat_bbox": "ENVELOPE(172.5,165,-83,-84)",
   "dcat_centroid": "-83.5,168.75",
   "pcdm_memberOf_sm": [
@@ -43,11 +43,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/03/geo/Mount Elizabeth.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/50\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/03/geo/Mount Elizabeth.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/50\"}",
   "id": "ANT-REF-MT2503-045",
   "dct_identifier_sm": [
     "ANT-REF-MT2503-045"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:59Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

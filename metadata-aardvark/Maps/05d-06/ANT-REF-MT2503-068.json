@@ -17,7 +17,9 @@
     "Topographic maps"
   ],
   "dcat_keyword_sm": [
-    "Polar Geospatial Center"
+    "Polar Geospatial Center",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1963"
@@ -32,9 +34,9 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(110,125,-84,-85)",
-  "dcat_bbox": "ENVELOPE(110,125,-84,-85)",
-  "dcat_centroid": "-84.5,117.5",
+  "locn_geometry": "POLYGON((-114  -84, -110  -84, -110 -85, -114 -85, -114  -84))",
+  "dcat_bbox": "ENVELOPE(-114,-110, -84,-85)",
+  "dcat_centroid": "-84.5,-112.0",
   "pcdm_memberOf_sm": [
     "b0153110-e455-4ced-9114-9b13250a7093"
   ],
@@ -43,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/03/geo/Ohio Range.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/75\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/03/geo/Ohio Range.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/75\"}",
   "id": "ANT-REF-MT2503-068",
   "dct_identifier_sm": [
     "ANT-REF-MT2503-068"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:24Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

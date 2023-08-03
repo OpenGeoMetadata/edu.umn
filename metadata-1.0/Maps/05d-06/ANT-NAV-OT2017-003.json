@@ -8,21 +8,21 @@
   "solr_geom": "ENVELOPE(-120.9638,-138.8141,-73.7871,-85.5268)",
   "solr_year_i": "2016",
   "dc_creator_sm": [
-    "Clementz"
+    "Clementz, Michael"
   ],
-  "dc_description_s": "See Edition 2 (http://maps.apps.pgc.umn.edu/antarctica/20/17) for the most recent version of this map.; Series: PGC 1:1,000,000 Air Operations Planning Map Series",
+  "dc_description_s": "See Edition 2 (https://maps.apps.pgc.umn.edu/antarctica/20/17) for the most recent version of this map.; Series: PGC 1:1,000,000 Air Operations Planning Map Series",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/pgc/17/geo/Map 13 Marie Byrd Land.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/962\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/pgc/17/geo/Map 13 Marie Byrd Land.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/962\"}",
   "dct_spatial_sm": [
-    "Marie Byrd Land, Antarctica",
-    "West Antarctica, Antarctica",
-    "Ford Ranges, Antarctica",
-    "Siple Dome, Antarctica",
-    "Byrd Surface Camp, Antarctica",
-    "WAIS Divide, Antarctica",
+    "Antarctica--Marie Byrd Land",
+    "Antarctica--West Antarctica",
+    "Antarctica--Ford Ranges",
+    "Antarctica--Siple Dome",
+    "Antarctica--Byrd Surface Camp",
+    "Antarctica--WAIS Divide",
     "Antarctica"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:05Z",
+  "layer_modified_dt": "2023-02-03T22:44:25Z",
   "dc_language_sm": [
     "eng"
   ],

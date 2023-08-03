@@ -33,7 +33,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(162,159,-70,-71)",
+  "locn_geometry": "POLYGON((162 -70, 159 -70, 159 -71, 162 -71, 162 -70))",
   "dcat_bbox": "ENVELOPE(162,159,-70,-71)",
   "dcat_centroid": "-70.5,160.5",
   "pcdm_memberOf_sm": [
@@ -44,11 +44,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/03/geo/Pomerantz Tableland.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/79\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/03/geo/Pomerantz Tableland.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/79\"}",
   "id": "ANT-REF-MT2503-072",
   "dct_identifier_sm": [
     "ANT-REF-MT2503-072"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:18Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -33,7 +33,7 @@
   "dct_spatial_sm": [
     "Greenland"
   ],
-  "locn_geometry": "ENVELOPE(-49,-52.5167,65,64)",
+  "locn_geometry": "POLYGON((-49 65, -52.5167 65, -52.5167 64, -49 64, -49 65))",
   "dcat_bbox": "ENVELOPE(-49,-52.5167,65,64)",
   "dcat_centroid": "64.5,-50.75835",
   "pcdm_memberOf_sm": [
@@ -44,11 +44,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/arctic/nga/03/geo/Godthaab.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/428\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/arctic/nga/03/geo/Godthaab.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/428\"}",
   "id": "GRL-REF-MT0503-019",
   "dct_identifier_sm": [
     "GRL-REF-MT0503-019"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:34Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

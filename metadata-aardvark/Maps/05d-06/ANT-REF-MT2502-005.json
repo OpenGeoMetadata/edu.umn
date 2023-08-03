@@ -30,10 +30,10 @@
     "[1997 TO 1997]"
   ],
   "dct_spatial_sm": [
-    "McMurdo Dry Valleys, Antarctica",
+    "Antarctica--McMurdo Dry Valleys",
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(164,163,-78,-78.25)",
+  "locn_geometry": "POLYGON((164 -78, 163 -78, 163 -78.25, 164 -78.25, 164 -78))",
   "dcat_bbox": "ENVELOPE(164,163,-78,-78.25)",
   "dcat_centroid": "-78.125,163.5",
   "pcdm_memberOf_sm": [
@@ -44,11 +44,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/02/geo/Joyce Glacier.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/592\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/02/geo/Joyce Glacier.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/592\"}",
   "id": "ANT-REF-MT2502-005",
   "dct_identifier_sm": [
     "ANT-REF-MT2502-005"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:16Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

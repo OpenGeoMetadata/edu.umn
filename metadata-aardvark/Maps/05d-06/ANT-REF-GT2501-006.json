@@ -21,7 +21,8 @@
   ],
   "dcat_keyword_sm": [
     "Geoscientific Information",
-    "Polar Geospatial Center"
+    "Polar Geospatial Center",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "2006"
@@ -36,7 +37,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(-52,-67,-60,-65)",
+  "locn_geometry": "POLYGON((-52 -60, -67 -60, -67 -65, -52 -65, -52 -60))",
   "dcat_bbox": "ENVELOPE(-52,-67,-60,-65)",
   "dcat_centroid": "-62.5,-59.5",
   "pcdm_memberOf_sm": [
@@ -47,11 +48,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/01/geo/Trinity Peninsula Area and South Shetland Islands.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/604\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/01/geo/Trinity Peninsula Area and South Shetland Islands.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/604\"}",
   "id": "ANT-REF-GT2501-006",
   "dct_identifier_sm": [
     "ANT-REF-GT2501-006"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:39Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -33,7 +33,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(57,72,-85,-86)",
+  "locn_geometry": "POLYGON((57 -85, 72 -85, 72 -86, 57 -86, 57 -85))",
   "dcat_bbox": "ENVELOPE(57,72,-85,-86)",
   "dcat_centroid": "-85.5,64.5",
   "pcdm_memberOf_sm": [
@@ -44,11 +44,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/03/geo/Pecora Escarpment.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/77\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/03/geo/Pecora Escarpment.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/77\"}",
   "id": "ANT-REF-MT2503-070",
   "dct_identifier_sm": [
     "ANT-REF-MT2503-070"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:10Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

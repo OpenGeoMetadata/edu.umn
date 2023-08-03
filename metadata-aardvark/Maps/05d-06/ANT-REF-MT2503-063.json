@@ -32,7 +32,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(-165,-180,-86,-87)",
+  "locn_geometry": "POLYGON((-165 -86, -180 -86, -180 -87, -165 -87, -165 -86))",
   "dcat_bbox": "ENVELOPE(-165,-180,-86,-87)",
   "dcat_centroid": "-86.5,-172.5",
   "pcdm_memberOf_sm": [
@@ -43,11 +43,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/03/geo/Mount Wisting.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/68\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/03/geo/Mount Wisting.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/68\"}",
   "id": "ANT-REF-MT2503-063",
   "dct_identifier_sm": [
     "ANT-REF-MT2503-063"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:51Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

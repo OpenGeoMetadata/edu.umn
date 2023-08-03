@@ -32,7 +32,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(-110,-125,-85,-86)",
+  "locn_geometry": "POLYGON((-110 -85, -125 -85, -125 -86, -110 -86, -110 -85))",
   "dcat_bbox": "ENVELOPE(-110,-125,-85,-86)",
   "dcat_centroid": "-85.5,-117.5",
   "pcdm_memberOf_sm": [
@@ -43,11 +43,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/03/geo/Long Hills.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/39\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/03/geo/Long Hills.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/39\"}",
   "id": "ANT-REF-MT2503-036",
   "dct_identifier_sm": [
     "ANT-REF-MT2503-036"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:11Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

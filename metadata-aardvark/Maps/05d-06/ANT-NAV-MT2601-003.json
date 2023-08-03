@@ -32,11 +32,11 @@
     "[1976 TO 1976]"
   ],
   "dct_spatial_sm": [
-    "Ross Sea, Antarctica",
-    "McMurdo Sound, Antarctica",
+    "Antarctica--Ross Sea",
+    "Antarctica--McMurdo Sound",
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(167.33,165,-76.83,-77.583)",
+  "locn_geometry": "POLYGON((167.33 -76.83, 165 -76.83, 165 -77.583, 167.33 -77.583, 167.33 -76.83))",
   "dcat_bbox": "ENVELOPE(167.33,165,-76.83,-77.583)",
   "dcat_centroid": "-77.2065,166.16500000000002",
   "pcdm_memberOf_sm": [
@@ -47,11 +47,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/navoceano/01/geo/Cape Royds to Lewis Bay.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/299\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/navoceano/01/geo/Cape Royds to Lewis Bay.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/299\"}",
   "id": "ANT-NAV-MT2601-003",
   "dct_identifier_sm": [
     "ANT-NAV-MT2601-003"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:26Z",
+  "gbl_mdModified_dt": "2023-02-03T22:43:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

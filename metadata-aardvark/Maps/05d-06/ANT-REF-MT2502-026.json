@@ -20,7 +20,10 @@
     "Topographic maps"
   ],
   "dcat_keyword_sm": [
-    "Polar Geospatial Center"
+    "Polar Geospatial Center",
+    "2022-creator-sprint",
+    "BBoxVerified",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "2009"
@@ -33,10 +36,10 @@
     "[2009 TO 2009]"
   ],
   "dct_spatial_sm": [
-    "McMurdo Dry Valleys, Antarctica",
+    "Antarctica--McMurdo Dry Valleys",
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(163,162,-76.44,-76.45)",
+  "locn_geometry": "POLYGON((163 -76.44, 162 -76.44, 162 -76.45, 163 -76.45, 163 -76.44))",
   "dcat_bbox": "ENVELOPE(163,162,-76.44,-76.45)",
   "dcat_centroid": "-76.445,162.5",
   "pcdm_memberOf_sm": [
@@ -47,11 +50,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/02/geo/Mount Endeavour.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/619\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/02/geo/Mount Endeavour.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/619\"}",
   "id": "ANT-REF-MT2502-026",
   "dct_identifier_sm": [
     "ANT-REF-MT2502-026"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:25Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

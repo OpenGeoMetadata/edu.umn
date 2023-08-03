@@ -32,7 +32,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(-60,-67.5,-83,-84)",
+  "locn_geometry": "POLYGON((-60 -83, -67.5 -83, -67.5 -84, -60 -84, -60 -83))",
   "dcat_bbox": "ENVELOPE(-60,-67.5,-83,-84)",
   "dcat_centroid": "-83.5,-63.75",
   "pcdm_memberOf_sm": [
@@ -43,11 +43,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/03/geo/Blackburn Nunatak.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/5\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/03/geo/Blackburn Nunatak.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/5\"}",
   "id": "ANT-REF-MT2503-005",
   "dct_identifier_sm": [
     "ANT-REF-MT2503-005"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:34Z",
+  "gbl_mdModified_dt": "2023-02-03T22:43:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

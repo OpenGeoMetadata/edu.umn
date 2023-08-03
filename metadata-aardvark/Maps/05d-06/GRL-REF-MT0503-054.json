@@ -33,7 +33,7 @@
   "dct_spatial_sm": [
     "Greenland"
   ],
-  "locn_geometry": "ENVELOPE(-21.5,-26,73,72)",
+  "locn_geometry": "POLYGON((-21.5 73, -26 73, -26 72, -21.5 72, -21.5 73))",
   "dcat_bbox": "ENVELOPE(-21.5,-26,73,72)",
   "dcat_centroid": "72.5,-23.75",
   "pcdm_memberOf_sm": [
@@ -44,11 +44,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/arctic/nga/03/geo/Kong Oscars Fjord.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/393\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/arctic/nga/03/geo/Kong Oscars Fjord.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/393\"}",
   "id": "GRL-REF-MT0503-054",
   "dct_identifier_sm": [
     "GRL-REF-MT0503-054"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:55Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -34,7 +34,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(65.166,70.5,-66.5,-67.83)",
+  "locn_geometry": "POLYGON((65.166 -66.5, 70.5 -66.5, 70.5 -67.83, 65.166 -67.83, 65.166 -66.5))",
   "dcat_bbox": "ENVELOPE(65.166,70.5,-66.5,-67.83)",
   "dcat_centroid": "-67.16499999999999,67.833",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/nga/01/geo/Square Bay to Matha Strait.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/335\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/nga/01/geo/Square Bay to Matha Strait.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/335\"}",
   "id": "ANT-NAV-MT0501-020",
   "dct_identifier_sm": [
     "ANT-NAV-MT0501-020"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:57Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

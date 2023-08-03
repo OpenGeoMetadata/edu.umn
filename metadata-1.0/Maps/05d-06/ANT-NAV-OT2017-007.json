@@ -12,15 +12,15 @@
   ],
   "dc_description_s": "1:1,000,000 Air Operations Map in collaboration with SCAGI. See the SCAR Map Catalogue (https://data.aad.gov.au/aadc/mapcat/) for the rest of the map series.; Series: PGC 1:1,000,000 Air Operations Planning Map Series",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/pgc/17/geo/Map 11 Amundsen Sea Ed 2.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/2351\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/pgc/17/geo/Map 11 Amundsen Sea Ed 2.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/2351\"}",
   "dct_spatial_sm": [
-    "Amundsen Sea, Antarctica",
-    "Marie Byrd Land, Antarctica",
-    "Pine Island Bay, Antarctica",
-    "Thwaites Glaicer, Antarctica",
+    "Antarctica--Amundsen Sea",
+    "Antarctica--Marie Byrd Land",
+    "Antarctica--Pine Island Bay",
+    "Antarctica--Thwaites Glaicer",
     "Antarctica"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:20Z",
+  "layer_modified_dt": "2023-02-03T22:44:25Z",
   "dc_language_sm": [
     "eng"
   ],

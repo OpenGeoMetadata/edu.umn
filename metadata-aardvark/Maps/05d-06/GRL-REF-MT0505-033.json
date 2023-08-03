@@ -32,7 +32,7 @@
   "dct_spatial_sm": [
     "Greenland"
   ],
-  "locn_geometry": "ENVELOPE(-36,-40,68,66)",
+  "locn_geometry": "POLYGON((-36 68, -40 68, -40 66, -36 66, -36 68))",
   "dcat_bbox": "ENVELOPE(-36,-40,68,66)",
   "dcat_centroid": "67.0,-38.0",
   "pcdm_memberOf_sm": [
@@ -43,11 +43,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/arctic/nga/05/geo/Schweizerland v2.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/475\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/arctic/nga/05/geo/Schweizerland v2.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/475\"}",
   "id": "GRL-REF-MT0505-033",
   "dct_identifier_sm": [
     "GRL-REF-MT0505-033"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:50Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -8,19 +8,19 @@
   "solr_geom": "ENVELOPE(-98.1301,-123.1113,-69.1486,-79.1767)",
   "solr_year_i": "2016",
   "dc_creator_sm": [
-    "Clementz"
+    "Clementz, Michael"
   ],
-  "dc_description_s": "See Edition 2 (http://maps.apps.pgc.umn.edu/antarctica/20/17) for the most recent version of this map.; Series: PGC 1:1,000,000 Air Operations Planning Map Series",
+  "dc_description_s": "See Edition 2 (https://maps.apps.pgc.umn.edu/antarctica/20/17) for the most recent version of this map.; Series: PGC 1:1,000,000 Air Operations Planning Map Series",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/pgc/17/geo/Map 11 Amundsen Sea.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/960\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/pgc/17/geo/Map 11 Amundsen Sea.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/960\"}",
   "dct_spatial_sm": [
-    "Amundsen Sea, Antarctica",
-    "Marie Byrd Land, Antarctica",
-    "Pine Island Bay, Antarctica",
-    "Thwaites Glaicer, Antarctica",
+    "Antarctica--Amundsen Sea",
+    "Antarctica--Marie Byrd Land",
+    "Antarctica--Pine Island Bay",
+    "Antarctica--Thwaites Glaicer",
     "Antarctica"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:24Z",
+  "layer_modified_dt": "2023-02-03T22:44:25Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -7,7 +7,8 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Barrett; Elliot"
+    "Barrett, P. J. (Peter J.)",
+    "Elliot, David H."
   ],
   "dct_publisher_sm": [
     "United States Geological Survey"
@@ -21,7 +22,8 @@
   ],
   "dcat_keyword_sm": [
     "Geoscientific Information",
-    "Polar Geospatial Center"
+    "Polar Geospatial Center",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1973"
@@ -36,7 +38,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(165,154,-84,-85)",
+  "locn_geometry": "POLYGON((165 -84, 154 -84, 154 -85, 165 -85, 165 -84))",
   "dcat_bbox": "ENVELOPE(165,154,-84,-85)",
   "dcat_centroid": "-84.5,159.5",
   "pcdm_memberOf_sm": [
@@ -47,11 +49,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/07/geo/Buckley Island.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/119\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/07/geo/Buckley Island.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/119\"}",
   "id": "ANT-REF-GT2507-003",
   "dct_identifier_sm": [
     "ANT-REF-GT2507-003"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:08Z",
+  "gbl_mdModified_dt": "2023-02-03T22:43:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }
