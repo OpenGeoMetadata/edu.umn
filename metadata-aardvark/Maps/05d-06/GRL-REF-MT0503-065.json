@@ -33,7 +33,7 @@
   "dct_spatial_sm": [
     "Greenland"
   ],
-  "locn_geometry": "ENVELOPE(-17,-22,76,75)",
+  "locn_geometry": "POLYGON((-17 76, -22 76, -22 75, -17 75, -17 76))",
   "dcat_bbox": "ENVELOPE(-17,-22,76,75)",
   "dcat_centroid": "75.5,-19.5",
   "pcdm_memberOf_sm": [
@@ -44,11 +44,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/arctic/nga/03/geo/Nanok.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/382\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/arctic/nga/03/geo/Nanok.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/382\"}",
   "id": "GRL-REF-MT0503-065",
   "dct_identifier_sm": [
     "GRL-REF-MT0503-065"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:58Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

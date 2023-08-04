@@ -32,7 +32,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(-150,-156,-77,-78.25)",
+  "locn_geometry": "POLYGON((-150 -77, -156 -77, -156 -78.25, -150 -78.25, -150 -77))",
   "dcat_bbox": "ENVELOPE(-150,-156,-77,-78.25)",
   "dcat_centroid": "-77.625,-153.0",
   "pcdm_memberOf_sm": [
@@ -43,11 +43,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/03/geo/Alexandra Mountains.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/42\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/03/geo/Alexandra Mountains.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/42\"}",
   "id": "ANT-REF-MT2503-001",
   "dct_identifier_sm": [
     "ANT-REF-MT2503-001"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:01Z",
+  "gbl_mdModified_dt": "2023-02-03T22:43:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -32,7 +32,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(169.3708,163.66,-77.15,-77.9583)",
+  "locn_geometry": "POLYGON((169.3708 -77.15, 163.66 -77.15, 163.66 -77.9583, 169.3708 -77.9583, 169.3708 -77.15))",
   "dcat_bbox": "ENVELOPE(169.3708,163.66,-77.15,-77.9583)",
   "dcat_centroid": "-77.55414999999999,166.5154",
   "pcdm_memberOf_sm": [
@@ -43,11 +43,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/09/geo/Ross Island and McMurdo Sound.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/213\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/09/geo/Ross Island and McMurdo Sound.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/213\"}",
   "id": "ANT-REF-MS2509-023",
   "dct_identifier_sm": [
     "ANT-REF-MS2509-023"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:18Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -7,7 +7,9 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "McCartan; Bradshaw; Kellogg"
+    "Henry Bradshaw Society",
+    "Kellogg, Karl S.",
+    "McCartan, Lucy"
   ],
   "dct_publisher_sm": [
     "United States Geological Survey"
@@ -21,7 +23,8 @@
   ],
   "dcat_keyword_sm": [
     "Geoscientific Information",
-    "Polar Geospatial Center"
+    "Polar Geospatial Center",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1986"
@@ -36,9 +39,9 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(-113,-116,-84.75,-84.833)",
-  "dcat_bbox": "ENVELOPE(-113,-116,-84.75,-84.833)",
-  "dcat_centroid": "-84.7915,-114.5",
+  "locn_geometry": "POLYGON((-167.4876468327 -60.5389984283, -160.9350583876 -60.5389984283, -160.9350583876 -84.9891848846, -167.4876468327 -84.9891848846, -167.4876468327 -60.5389984283))",
+  "dcat_bbox": "ENVELOPE(-167.4876468327,-160.9350583876,-60.5389984283,-84.9891848846)",
+  "dcat_centroid": "-72.76409165644999,-164.21135261015002",
   "pcdm_memberOf_sm": [
     "b0153110-e455-4ced-9114-9b13250a7093"
   ],
@@ -47,11 +50,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/07/geo/Ohio Range.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/126\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/07/geo/Ohio Range.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/126\"}",
   "id": "ANT-REF-GT2507-010",
   "dct_identifier_sm": [
     "ANT-REF-GT2507-010"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:56Z",
+  "gbl_mdModified_dt": "2023-07-07T18:41:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

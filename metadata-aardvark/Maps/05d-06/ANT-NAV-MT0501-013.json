@@ -19,7 +19,9 @@
   "dcat_keyword_sm": [
     "Transportation",
     "Navigation",
-    "Polar Geospatial Center"
+    "Polar Geospatial Center",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1982"
@@ -34,9 +36,9 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(25.533,57.866,-60.7375,-62.3583)",
-  "dcat_bbox": "ENVELOPE(25.533,57.866,-60.7375,-62.3583)",
-  "dcat_centroid": "-61.5479,41.6995",
+  "locn_geometry": "POLYGON((-57.866667 -60.7375, -52.533333 -60.7375, -52.533333 -62.358333, -57.866667 -62.358333, -57.866667 -60.7375))",
+  "dcat_bbox": "ENVELOPE(-57.866667,-52.533333,-60.7375,-62.358333)",
+  "dcat_centroid": "-61.5479165,-55.2",
   "pcdm_memberOf_sm": [
     "b0153110-e455-4ced-9114-9b13250a7093"
   ],
@@ -45,11 +47,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/nga/01/geo/King George Island to Clarence Island.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/328\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/nga/01/geo/King George Island to Clarence Island.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/328\"}",
   "id": "ANT-NAV-MT0501-013",
   "dct_identifier_sm": [
     "ANT-NAV-MT0501-013"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:14Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

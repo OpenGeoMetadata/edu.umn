@@ -32,7 +32,7 @@
   "dct_spatial_sm": [
     "Greenland"
   ],
-  "locn_geometry": "ENVELOPE(-54,-63,83,82)",
+  "locn_geometry": "POLYGON((-54 83, -63 83, -63 82, -54 82, -54 83))",
   "dcat_bbox": "ENVELOPE(-54,-63,83,82)",
   "dcat_centroid": "82.5,-58.5",
   "pcdm_memberOf_sm": [
@@ -43,11 +43,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/arctic/nga/03/geo/Repulse Havn.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/375\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/arctic/nga/03/geo/Repulse Havn.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/375\"}",
   "id": "GRL-REF-MT0503-072",
   "dct_identifier_sm": [
     "GRL-REF-MT0503-072"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:32Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

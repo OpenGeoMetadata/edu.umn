@@ -20,7 +20,8 @@
     "Satellite maps"
   ],
   "dcat_keyword_sm": [
-    "Polar Geospatial Center"
+    "Polar Geospatial Center",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1987"
@@ -35,7 +36,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(161,159.9,-77.416,-77.5832)",
+  "locn_geometry": "POLYGON((161 -77.416, 159.9 -77.416, 159.9 -77.5832, 161 -77.5832, 161 -77.416))",
   "dcat_bbox": "ENVELOPE(161,159.9,-77.416,-77.5832)",
   "dcat_centroid": "-77.4996,160.45",
   "pcdm_memberOf_sm": [
@@ -46,11 +47,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/09/geo/Airdevronsix Icefalls.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/191\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/09/geo/Airdevronsix Icefalls.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/191\"}",
   "id": "ANT-REF-MS2509-001",
   "dct_identifier_sm": [
     "ANT-REF-MS2509-001"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:58Z",
+  "gbl_mdModified_dt": "2023-02-03T22:43:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

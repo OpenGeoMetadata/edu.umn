@@ -32,11 +32,11 @@
     "[1971 TO 1971]"
   ],
   "dct_spatial_sm": [
-    "Ross Sea, Antarctica",
-    "Victoria Land, Antarctica",
+    "Antarctica--Ross Sea",
+    "Antarctica--Victoria Land",
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(172.283,169.66,-71.5,-72.75)",
+  "locn_geometry": "POLYGON((172.283 -71.5, 169.66 -71.5, 169.66 -72.75, 172.283 -72.75, 172.283 -71.5))",
   "dcat_bbox": "ENVELOPE(172.283,169.66,-71.5,-72.75)",
   "dcat_centroid": "-72.125,170.9715",
   "pcdm_memberOf_sm": [
@@ -47,11 +47,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/navoceano/01/geo/Downshire Cliffs to Tucker Inlet.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/300\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/navoceano/01/geo/Downshire Cliffs to Tucker Inlet.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/300\"}",
   "id": "ANT-NAV-MT2601-004",
   "dct_identifier_sm": [
     "ANT-NAV-MT2601-004"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:07Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -7,7 +7,9 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Ford; Schmidt; Boyd Jr."
+    "Boyd, Walter W., Jr.",
+    "Ford, Arthur B. (Arthur Barnes), 1932-",
+    "Schmidt, D. L. (Dwight L.)"
   ],
   "dct_publisher_sm": [
     "United States Geological Survey"
@@ -21,7 +23,8 @@
   ],
   "dcat_keyword_sm": [
     "Geoscientific Information",
-    "Polar Geospatial Center"
+    "Polar Geospatial Center",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1978"
@@ -36,7 +39,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(-45,-57,-82,-83)",
+  "locn_geometry": "POLYGON((-45 -82, -57 -82, -57 -83, -45 -83, -45 -82))",
   "dcat_bbox": "ENVELOPE(-45,-57,-82,-83)",
   "dcat_centroid": "-82.5,-51.0",
   "pcdm_memberOf_sm": [
@@ -47,11 +50,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/07/geo/Davis Valley Cordiner Peaks.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/120\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/07/geo/Davis Valley Cordiner Peaks.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/120\"}",
   "id": "ANT-REF-GT2507-004",
   "dct_identifier_sm": [
     "ANT-REF-GT2507-004"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:06Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

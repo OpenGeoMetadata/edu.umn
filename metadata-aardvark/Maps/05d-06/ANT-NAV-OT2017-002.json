@@ -1,13 +1,13 @@
 {
   "dct_title_s": "Map 12: Ellsworth Mountains (Edition 1): Antarctica",
   "dct_description_sm": [
-    "See Edition 2 (http://maps.apps.pgc.umn.edu/antarctica/20/17) for the most recent version of this map.; Series: PGC 1:1,000,000 Air Operations Planning Map Series"
+    "See Edition 2 (https://maps.apps.pgc.umn.edu/antarctica/20/17) for the most recent version of this map.; Series: PGC 1:1,000,000 Air Operations Planning Map Series"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Clementz"
+    "Clementz, Michael"
   ],
   "dct_publisher_sm": [
     "Polar Geospatial Center"
@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Transportation",
     "Navigation",
-    "Polar Geospatial Center"
+    "Polar Geospatial Center",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "2016"
@@ -35,14 +36,14 @@
     "[2016 TO 2016]"
   ],
   "dct_spatial_sm": [
-    "Ellsworth Mountains, Antarctica",
-    "West Antarctica, Antarctica",
-    "Whitmore Mountains, Antarctica",
-    "Ohio Range, Antarctica",
-    "Thiel Mountains, Antarctica",
+    "Antarctica--Ellsworth Mountains",
+    "Antarctica--West Antarctica",
+    "Antarctica--Whitmore Mountains",
+    "Antarctica--Ohio Range",
+    "Antarctica--Thiel Mountains",
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(-68.1986,-111.2505,-75.2554,-85.8685)",
+  "locn_geometry": "POLYGON((-68.1986 -75.2554, -111.2505 -75.2554, -111.2505 -85.8685, -68.1986 -85.8685, -68.1986 -75.2554))",
   "dcat_bbox": "ENVELOPE(-68.1986,-111.2505,-75.2554,-85.8685)",
   "dcat_centroid": "-80.56195,-89.72455",
   "pcdm_memberOf_sm": [
@@ -53,11 +54,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/pgc/17/geo/Map 12 Ellsworth Mountains.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/961\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/pgc/17/geo/Map 12 Ellsworth Mountains.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/961\"}",
   "id": "ANT-NAV-OT2017-002",
   "dct_identifier_sm": [
     "ANT-NAV-OT2017-002"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:56Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

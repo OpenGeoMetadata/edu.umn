@@ -32,12 +32,12 @@
     "[1956 TO 1956]"
   ],
   "dct_spatial_sm": [
-    "Ross Sea, Antarctica",
-    "McMurdo Sound, Antarctica",
-    "Ross Island, Antarctica",
+    "Antarctica--Ross Sea",
+    "Antarctica--McMurdo Sound",
+    "Antarctica--Ross Island",
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(167.3,166.66,-77.66,-77.916)",
+  "locn_geometry": "POLYGON((167.3 -77.66, 166.66 -77.66, 166.66 -77.916, 167.3 -77.916, 167.3 -77.66))",
   "dcat_bbox": "ENVELOPE(167.3,166.66,-77.66,-77.916)",
   "dcat_centroid": "-77.788,166.98000000000002",
   "pcdm_memberOf_sm": [
@@ -48,11 +48,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/navoceano/01/geo/Cape Royds to Hut Point v1.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/298\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/navoceano/01/geo/Cape Royds to Hut Point v1.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/298\"}",
   "id": "ANT-NAV-MT2601-002",
   "dct_identifier_sm": [
     "ANT-NAV-MT2601-002"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:22Z",
+  "gbl_mdModified_dt": "2023-02-03T22:43:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

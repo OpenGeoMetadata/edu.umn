@@ -33,7 +33,7 @@
   "dct_spatial_sm": [
     "Greenland"
   ],
-  "locn_geometry": "ENVELOPE(-20,-24,72,71)",
+  "locn_geometry": "POLYGON((-20 72, -24 72, -24 71, -20 71, -20 72))",
   "dcat_bbox": "ENVELOPE(-20,-24,72,71)",
   "dcat_centroid": "71.5,-22.0",
   "pcdm_memberOf_sm": [
@@ -44,11 +44,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/arctic/nga/03/geo/Fossil Bjerg.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/432\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/arctic/nga/03/geo/Fossil Bjerg.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/432\"}",
   "id": "GRL-REF-MT0503-015",
   "dct_identifier_sm": [
     "GRL-REF-MT0503-015"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:55Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

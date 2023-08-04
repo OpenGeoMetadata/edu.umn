@@ -30,7 +30,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(172,152,-72,-76)",
+  "locn_geometry": "POLYGON((172 -72, 152 -72, 152 -76, 172 -76, 172 -72))",
   "dcat_bbox": "ENVELOPE(172,152,-72,-76)",
   "dcat_centroid": "-74.0,162.0",
   "pcdm_memberOf_sm": [
@@ -41,11 +41,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/06/geo/Deep Freeze Range.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/188\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/06/geo/Deep Freeze Range.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/188\"}",
   "id": "ANT-REF-ML2506-001",
   "dct_identifier_sm": [
     "ANT-REF-ML2506-001"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:39Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

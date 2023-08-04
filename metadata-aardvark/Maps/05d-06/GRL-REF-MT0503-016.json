@@ -33,7 +33,7 @@
   "dct_spatial_sm": [
     "Greenland"
   ],
-  "locn_geometry": "ENVELOPE(-62,-70,81,80)",
+  "locn_geometry": "POLYGON((-62 81, -70 81, -70 80, -62 80, -62 81))",
   "dcat_bbox": "ENVELOPE(-62,-70,81,80)",
   "dcat_centroid": "80.5,-66.0",
   "pcdm_memberOf_sm": [
@@ -44,11 +44,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/arctic/nga/03/geo/Franklin O.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/431\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/arctic/nga/03/geo/Franklin O.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/431\"}",
   "id": "GRL-REF-MT0503-016",
   "dct_identifier_sm": [
     "GRL-REF-MT0503-016"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:17Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

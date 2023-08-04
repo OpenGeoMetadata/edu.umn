@@ -32,7 +32,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(166.5,162,-73,-74)",
+  "locn_geometry": "POLYGON((166.5 -73, 162 -73, 162 -74, 166.5 -74, 166.5 -73))",
   "dcat_bbox": "ENVELOPE(166.5,162,-73,-74)",
   "dcat_centroid": "-73.5,164.25",
   "pcdm_memberOf_sm": [
@@ -43,11 +43,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/03/geo/Mount Murchison.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/60\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/03/geo/Mount Murchison.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/60\"}",
   "id": "ANT-REF-MT2503-055",
   "dct_identifier_sm": [
     "ANT-REF-MT2503-055"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:25Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

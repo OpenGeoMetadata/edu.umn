@@ -5,15 +5,15 @@
   "dc_title_s": "Wisconsin Range: Antarctica",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "ANT-REF-MT2503-096",
-  "solr_geom": "ENVELOPE(120,135,-85,-86)",
+  "solr_geom": "ENVELOPE(-126,-125,-85,-86)",
   "solr_year_i": "1968",
   "dc_description_s": "Projection: Polar Stereographic Projection: Standard Parallel -80º14'; Series: USGS 1:250,000 Topographic Reconnaissance Series",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/03/geo/Wisconsin Range.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/104\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/03/geo/Wisconsin Range.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/104\"}",
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "layer_modified_dt": "2022-07-26T17:32:17Z",
+  "layer_modified_dt": "2023-06-23T18:47:37Z",
   "dc_language_sm": [
     "eng"
   ],

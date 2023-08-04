@@ -33,7 +33,7 @@
   "dct_spatial_sm": [
     "Greenland"
   ],
-  "locn_geometry": "ENVELOPE(-24,-30,74,72)",
+  "locn_geometry": "POLYGON((-24 74, -30 74, -30 72, -24 72, -24 74))",
   "dcat_bbox": "ENVELOPE(-24,-30,74,72)",
   "dcat_centroid": "73.0,-27.0",
   "pcdm_memberOf_sm": [
@@ -44,11 +44,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/arctic/nga/05/geo/Suess Land v2.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/471\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/arctic/nga/05/geo/Suess Land v2.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/471\"}",
   "id": "GRL-REF-MT0505-037",
   "dct_identifier_sm": [
     "GRL-REF-MT0505-037"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:18Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

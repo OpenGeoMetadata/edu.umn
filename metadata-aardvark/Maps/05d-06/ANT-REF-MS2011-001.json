@@ -20,7 +20,8 @@
     "Satellite maps"
   ],
   "dcat_keyword_sm": [
-    "Polar Geospatial Center"
+    "Polar Geospatial Center",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "2012"
@@ -33,10 +34,10 @@
     "[2012 TO 2012]"
   ],
   "dct_spatial_sm": [
-    "Ross Island, Antarctica",
+    "Antarctica--Ross Island",
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(170,165.5,-77.125,-77.875)",
+  "locn_geometry": "POLYGON((170 -77.125, 165.5 -77.125, 165.5 -77.875, 170 -77.875, 170 -77.125))",
   "dcat_bbox": "ENVELOPE(170,165.5,-77.125,-77.875)",
   "dcat_centroid": "-77.5,167.75",
   "pcdm_memberOf_sm": [
@@ -47,11 +48,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/pgc/11/geo/Ross Island.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/352\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/pgc/11/geo/Ross Island.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/352\"}",
   "id": "ANT-REF-MS2011-001",
   "dct_identifier_sm": [
     "ANT-REF-MS2011-001"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:59Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

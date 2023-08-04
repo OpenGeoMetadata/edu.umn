@@ -20,7 +20,8 @@
     "Satellite maps"
   ],
   "dcat_keyword_sm": [
-    "Polar Geospatial Center"
+    "Polar Geospatial Center",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1995"
@@ -35,7 +36,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(167.231,166.133,-77.4736,-77.675)",
+  "locn_geometry": "POLYGON((167.231 -77.4736, 166.133 -77.4736, 166.133 -77.675, 167.231 -77.675, 167.231 -77.4736))",
   "dcat_bbox": "ENVELOPE(167.231,166.133,-77.4736,-77.675)",
   "dcat_centroid": "-77.5743,166.68200000000002",
   "pcdm_memberOf_sm": [
@@ -46,11 +47,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/09/geo/Mount Erebus.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/208\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/09/geo/Mount Erebus.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/208\"}",
   "id": "ANT-REF-MS2509-018",
   "dct_identifier_sm": [
     "ANT-REF-MS2509-018"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:37Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

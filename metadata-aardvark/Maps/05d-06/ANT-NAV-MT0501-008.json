@@ -34,7 +34,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(54.5,59.83,-63.683,-65.183)",
+  "locn_geometry": "POLYGON((54.5 -63.683, 59.83 -63.683, 59.83 -65.183, 54.5 -65.183, 54.5 -63.683))",
   "dcat_bbox": "ENVELOPE(54.5,59.83,-63.683,-65.183)",
   "dcat_centroid": "-64.433,57.165",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/nga/01/geo/Corry Island to Robertson Island.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/323\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/nga/01/geo/Corry Island to Robertson Island.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/323\"}",
   "id": "ANT-NAV-MT0501-008",
   "dct_identifier_sm": [
     "ANT-NAV-MT0501-008"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:13Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

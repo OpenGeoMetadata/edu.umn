@@ -32,7 +32,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(162,161,-77.25,-77.4167)",
+  "locn_geometry": "POLYGON((162 -77.25, 161 -77.25, 161 -77.4167, 162 -77.4167, 162 -77.25))",
   "dcat_bbox": "ENVELOPE(162,161,-77.25,-77.4167)",
   "dcat_centroid": "-77.33335,161.5",
   "pcdm_memberOf_sm": [
@@ -43,11 +43,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/09/geo/Victoria Valley.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/583\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/09/geo/Victoria Valley.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/583\"}",
   "id": "ANT-REF-MS2509-050",
   "dct_identifier_sm": [
     "ANT-REF-MS2509-050"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:51Z",
+  "gbl_mdModified_dt": "2023-02-03T22:45:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

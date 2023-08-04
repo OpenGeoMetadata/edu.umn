@@ -32,7 +32,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(-95,-110,-85,-86)",
+  "locn_geometry": "POLYGON((-95 -85, -110 -85, -110 -86, -95 -86, -95 -85))",
   "dcat_bbox": "ENVELOPE(-95,-110,-85,-86)",
   "dcat_centroid": "-85.5,-102.5",
   "pcdm_memberOf_sm": [
@@ -43,11 +43,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/03/geo/Moulton Escarpment.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/44\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/03/geo/Moulton Escarpment.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/44\"}",
   "id": "ANT-REF-MT2503-040",
   "dct_identifier_sm": [
     "ANT-REF-MT2503-040"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:28Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

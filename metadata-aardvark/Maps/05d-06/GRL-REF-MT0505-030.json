@@ -33,7 +33,7 @@
   "dct_spatial_sm": [
     "Greenland"
   ],
-  "locn_geometry": "ENVELOPE(-48,-54,74,72)",
+  "locn_geometry": "POLYGON((-48 74, -54 74, -54 72, -48 72, -48 74))",
   "dcat_bbox": "ENVELOPE(-48,-54,74,72)",
   "dcat_centroid": "73.0,-51.0",
   "pcdm_memberOf_sm": [
@@ -44,11 +44,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/arctic/nga/05/geo/Panertok v2.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/478\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/arctic/nga/05/geo/Panertok v2.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/478\"}",
   "id": "GRL-REF-MT0505-030",
   "dct_identifier_sm": [
     "GRL-REF-MT0505-030"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:15Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

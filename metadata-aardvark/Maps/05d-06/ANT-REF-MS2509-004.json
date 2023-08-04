@@ -32,7 +32,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(163.35,159.06,-76.383,-77.16)",
+  "locn_geometry": "POLYGON((163.35 -76.383, 159.06 -76.383, 159.06 -77.16, 163.35 -77.16, 163.35 -76.383))",
   "dcat_bbox": "ENVELOPE(163.35,159.06,-76.383,-77.16)",
   "dcat_centroid": "-76.7715,161.20499999999998",
   "pcdm_memberOf_sm": [
@@ -43,11 +43,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/09/geo/Convoy Range.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/194\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/09/geo/Convoy Range.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/194\"}",
   "id": "ANT-REF-MS2509-004",
   "dct_identifier_sm": [
     "ANT-REF-MS2509-004"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:25Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

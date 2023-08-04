@@ -7,7 +7,9 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Wade; Cathey; Oldham"
+    "Cathey, Carl A.",
+    "Oldham, Jerry B.",
+    "Wade, F. Alton (Franklin Alton), 1903-1978"
   ],
   "dct_publisher_sm": [
     "United States Geological Survey"
@@ -21,7 +23,8 @@
   ],
   "dcat_keyword_sm": [
     "Geoscientific Information",
-    "Polar Geospatial Center"
+    "Polar Geospatial Center",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1977"
@@ -36,7 +39,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(-141,-150,-77,-78)",
+  "locn_geometry": "POLYGON((-141 -77, -150 -77, -150 -78, -141 -78, -141 -77))",
   "dcat_bbox": "ENVELOPE(-141,-150,-77,-78)",
   "dcat_centroid": "-77.5,-145.5",
   "pcdm_memberOf_sm": [
@@ -47,11 +50,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/07/geo/Boyd Glacier.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/118\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/07/geo/Boyd Glacier.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/118\"}",
   "id": "ANT-REF-GT2507-002",
   "dct_identifier_sm": [
     "ANT-REF-GT2507-002"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:51Z",
+  "gbl_mdModified_dt": "2023-02-03T22:43:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

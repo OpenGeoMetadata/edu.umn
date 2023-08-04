@@ -7,7 +7,8 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Jean-Claude M. Thomas; Jerry L. Mullins"
+    "Jean-Claude M. Thomas",
+    "Jerry L. Mullins"
   ],
   "dct_publisher_sm": [
     "United States Geological Survey"
@@ -20,7 +21,8 @@
     "Satellite maps"
   ],
   "dcat_keyword_sm": [
-    "Polar Geospatial Center"
+    "Polar Geospatial Center",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1987"
@@ -35,7 +37,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(163,162,-77.583,-77.777)",
+  "locn_geometry": "POLYGON((163 -77.583, 162 -77.583, 162 -77.777, 163 -77.777, 163 -77.583))",
   "dcat_bbox": "ENVELOPE(163,162,-77.583,-77.777)",
   "dcat_centroid": "-77.68,162.5",
   "pcdm_memberOf_sm": [
@@ -46,11 +48,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/09/geo/Matterhorn.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/203\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/09/geo/Matterhorn.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/203\"}",
   "id": "ANT-REF-MS2509-013",
   "dct_identifier_sm": [
     "ANT-REF-MS2509-013"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:35Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

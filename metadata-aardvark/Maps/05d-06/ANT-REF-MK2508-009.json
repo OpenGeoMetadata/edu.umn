@@ -32,7 +32,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(-90,-106,-71.5,-76)",
+  "locn_geometry": "POLYGON((-90 -71.5, -106 -71.5, -106 -76, -90 -76, -90 -71.5))",
   "dcat_bbox": "ENVELOPE(-90,-106,-71.5,-76)",
   "dcat_centroid": "-73.75,-98.0",
   "pcdm_memberOf_sm": [
@@ -43,11 +43,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/08/geo/Thurston Island to Jones Mountains.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/116\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/08/geo/Thurston Island to Jones Mountains.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/116\"}",
   "id": "ANT-REF-MK2508-009",
   "dct_identifier_sm": [
     "ANT-REF-MK2508-009"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:48Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

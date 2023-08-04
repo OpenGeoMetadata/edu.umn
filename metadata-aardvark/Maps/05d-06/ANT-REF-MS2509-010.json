@@ -20,7 +20,8 @@
     "Satellite maps"
   ],
   "dcat_keyword_sm": [
-    "Polar Geospatial Center"
+    "Polar Geospatial Center",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1995"
@@ -35,7 +36,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(167.216,166.33,-77.675,-77.972)",
+  "locn_geometry": "POLYGON((167.216 -77.675, 166.33 -77.675, 166.33 -77.972, 167.216 -77.972, 167.216 -77.675))",
   "dcat_bbox": "ENVELOPE(167.216,166.33,-77.675,-77.972)",
   "dcat_centroid": "-77.8235,166.77300000000002",
   "pcdm_memberOf_sm": [
@@ -46,11 +47,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/09/geo/Hut Point Peninsula.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/200\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/09/geo/Hut Point Peninsula.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/200\"}",
   "id": "ANT-REF-MS2509-010",
   "dct_identifier_sm": [
     "ANT-REF-MS2509-010"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:09Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

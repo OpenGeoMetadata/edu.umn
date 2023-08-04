@@ -21,7 +21,8 @@
   ],
   "dcat_keyword_sm": [
     "Environment",
-    "Polar Geospatial Center"
+    "Polar Geospatial Center",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "2012"
@@ -34,10 +35,10 @@
     "[2012 TO 2012]"
   ],
   "dct_spatial_sm": [
-    "McMurdo Dry Valleys, Antarctica",
+    "Antarctica--McMurdo Dry Valleys",
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(164.7317,158.3976,-76.4413,-78.4445)",
+  "locn_geometry": "POLYGON((164.7317 -76.4413, 158.3976 -76.4413, 158.3976 -78.4445, 164.7317 -78.4445, 164.7317 -76.4413))",
   "dcat_bbox": "ENVELOPE(164.7317,158.3976,-76.4413,-78.4445)",
   "dcat_centroid": "-77.44290000000001,161.56465",
   "pcdm_memberOf_sm": [
@@ -48,11 +49,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/pgc/04/geo/McMurdo Dry Valleys ASMA No 2.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/132\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/pgc/04/geo/McMurdo Dry Valleys ASMA No 2.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/132\"}",
   "id": "ANT-REF-ES2004-001",
   "dct_identifier_sm": [
     "ANT-REF-ES2004-001"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:15Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

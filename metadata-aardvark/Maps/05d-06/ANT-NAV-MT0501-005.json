@@ -34,7 +34,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(111.13,161,-69.25,-78)",
+  "locn_geometry": "POLYGON((111.13 -69.25, 161 -69.25, 161 -78, 111.13 -78, 111.13 -69.25))",
   "dcat_bbox": "ENVELOPE(111.13,161,-69.25,-78)",
   "dcat_centroid": "-73.625,136.065",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/nga/01/geo/Cape Colbeck to Cape Herlacher.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/320\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/nga/01/geo/Cape Colbeck to Cape Herlacher.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/320\"}",
   "id": "ANT-NAV-MT0501-005",
   "dct_identifier_sm": [
     "ANT-NAV-MT0501-005"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:58Z",
+  "gbl_mdModified_dt": "2023-02-03T22:43:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -33,7 +33,7 @@
   "dct_spatial_sm": [
     "Greenland"
   ],
-  "locn_geometry": "ENVELOPE(-29.5,-34,70,68)",
+  "locn_geometry": "POLYGON((-29.5 70, -34 70, -34 68, -29.5 68, -29.5 70))",
   "dcat_bbox": "ENVELOPE(-29.5,-34,70,68)",
   "dcat_centroid": "69.0,-31.75",
   "pcdm_memberOf_sm": [
@@ -44,11 +44,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/arctic/nga/05/geo/Kangerdlugsuak.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/485\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/arctic/nga/05/geo/Kangerdlugsuak.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/485\"}",
   "id": "GRL-REF-MT0505-023",
   "dct_identifier_sm": [
     "GRL-REF-MT0505-023"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:13Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

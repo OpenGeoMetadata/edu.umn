@@ -32,7 +32,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(-126,-130.5,-74,-75)",
+  "locn_geometry": "POLYGON((-126 -74, -130.5 -74, -130.5 -75, -126 -75, -126 -74))",
   "dcat_bbox": "ENVELOPE(-126,-130.5,-74,-75)",
   "dcat_centroid": "-74.5,-128.25",
   "pcdm_memberOf_sm": [
@@ -43,11 +43,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/03/geo/Dean Island.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/21\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/03/geo/Dean Island.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/21\"}",
   "id": "ANT-REF-MT2503-021",
   "dct_identifier_sm": [
     "ANT-REF-MT2503-021"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:59Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -29,7 +29,7 @@
   "dct_spatial_sm": [
     "Greenland"
   ],
-  "locn_geometry": "ENVELOPE(-22,-28,78,77)",
+  "locn_geometry": "POLYGON((-22 78, -28 78, -28 77, -22 77, -22 78))",
   "dcat_bbox": "ENVELOPE(-22,-28,78,77)",
   "dcat_centroid": "77.5,-25.0",
   "pcdm_memberOf_sm": [
@@ -40,11 +40,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/arctic/nga/03/geo/Ymers Nunatakker.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/134\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/arctic/nga/03/geo/Ymers Nunatakker.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/134\"}",
   "id": "GRL-REF-MT0503-090",
   "dct_identifier_sm": [
     "GRL-REF-MT0503-090"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:09Z",
+  "gbl_mdModified_dt": "2023-02-03T22:45:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

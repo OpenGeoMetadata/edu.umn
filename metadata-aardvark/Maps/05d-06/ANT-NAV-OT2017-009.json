@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Transportation",
     "Navigation",
-    "Polar Geospatial Center"
+    "Polar Geospatial Center",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "2017"
@@ -35,15 +36,15 @@
     "[2017 TO 2017]"
   ],
   "dct_spatial_sm": [
-    "Marie Byrd Land, Antarctica",
-    "West Antarctica, Antarctica",
-    "Ford Ranges, Antarctica",
-    "Siple Dome, Antarctica",
-    "Byrd Surface Camp, Antarctica",
-    "WAIS Divide, Antarctica",
+    "Antarctica--Marie Byrd Land",
+    "Antarctica--West Antarctica",
+    "Antarctica--Ford Ranges",
+    "Antarctica--Siple Dome",
+    "Antarctica--Byrd Surface Camp",
+    "Antarctica--WAIS Divide",
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(-120.9638,-138.8141,-73.7871,-85.5268)",
+  "locn_geometry": "POLYGON((-120.9638 -73.7871, -138.8141 -73.7871, -138.8141 -85.5268, -120.9638 -85.5268, -120.9638 -73.7871))",
   "dcat_bbox": "ENVELOPE(-120.9638,-138.8141,-73.7871,-85.5268)",
   "dcat_centroid": "-79.65695,-129.88895",
   "pcdm_memberOf_sm": [
@@ -54,11 +55,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/pgc/17/geo/Map 13 Marie Byrd Land Ed 2.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/2353\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/pgc/17/geo/Map 13 Marie Byrd Land Ed 2.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/2353\"}",
   "id": "ANT-NAV-OT2017-009",
   "dct_identifier_sm": [
     "ANT-NAV-OT2017-009"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:17Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

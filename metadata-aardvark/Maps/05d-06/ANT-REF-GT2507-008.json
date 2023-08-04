@@ -7,7 +7,9 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Stump; Smit; Self"
+    "Self, S. (Stephen)",
+    "Smit, J. H. (Jacobus Hendrik), 1932-",
+    "Stump, Edmund"
   ],
   "dct_publisher_sm": [
     "United States Geological Survey"
@@ -21,7 +23,8 @@
   ],
   "dcat_keyword_sm": [
     "Geoscientific Information",
-    "Polar Geospatial Center"
+    "Polar Geospatial Center",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1985"
@@ -36,7 +39,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(-135,-150,-86,-87)",
+  "locn_geometry": "POLYGON((-135 -86, -150 -86, -150 -87, -135 -87, -135 -86))",
   "dcat_bbox": "ENVELOPE(-135,-150,-86,-87)",
   "dcat_centroid": "-86.5,-142.5",
   "pcdm_memberOf_sm": [
@@ -47,11 +50,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/07/geo/Mount Blackburn.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/124\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/07/geo/Mount Blackburn.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/124\"}",
   "id": "ANT-REF-GT2507-008",
   "dct_identifier_sm": [
     "ANT-REF-GT2507-008"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:26Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

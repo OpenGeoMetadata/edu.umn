@@ -32,10 +32,10 @@
     "[1970 TO 1970]"
   ],
   "dct_spatial_sm": [
-    "Victoria Land, Antarctica",
+    "Antarctica--Victoria Land",
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(171.25,167.916,-71,-71.716)",
+  "locn_geometry": "POLYGON((171.25 -71, 167.916 -71, 167.916 -71.716, 171.25 -71.716, 171.25 -71))",
   "dcat_bbox": "ENVELOPE(171.25,167.916,-71,-71.716)",
   "dcat_centroid": "-71.358,169.583",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/navoceano/01/geo/Robertson Bay.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/308\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/navoceano/01/geo/Robertson Bay.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/308\"}",
   "id": "ANT-NAV-MT2601-011",
   "dct_identifier_sm": [
     "ANT-NAV-MT2601-011"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:54Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

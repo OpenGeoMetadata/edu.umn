@@ -30,10 +30,10 @@
     "[1992 TO 1992]"
   ],
   "dct_spatial_sm": [
-    "McMurdo Dry Valleys, Antarctica",
+    "Antarctica--McMurdo Dry Valleys",
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(161,160,-77.75,-78)",
+  "locn_geometry": "POLYGON((161 -77.75, 160 -77.75, 160 -78, 161 -78, 161 -77.75))",
   "dcat_bbox": "ENVELOPE(161,160,-77.75,-78)",
   "dcat_centroid": "-77.875,160.5",
   "pcdm_memberOf_sm": [
@@ -44,11 +44,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/02/geo/Beacon Valley.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/610\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/02/geo/Beacon Valley.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/610\"}",
   "id": "ANT-REF-MT2502-001",
   "dct_identifier_sm": [
     "ANT-REF-MT2502-001"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:24Z",
+  "gbl_mdModified_dt": "2023-02-03T22:43:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

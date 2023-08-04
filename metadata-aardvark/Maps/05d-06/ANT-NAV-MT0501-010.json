@@ -34,7 +34,7 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(57.5,62.83,-61.583,-63.16)",
+  "locn_geometry": "POLYGON((57.5 -61.583, 62.83 -61.583, 62.83 -63.16, 57.5 -63.16, 57.5 -61.583))",
   "dcat_bbox": "ENVELOPE(57.5,62.83,-61.583,-63.16)",
   "dcat_centroid": "-62.3715,60.165",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/nga/01/geo/Deception Island to King George Island.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/325\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/nga/01/geo/Deception Island to King George Island.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/325\"}",
   "id": "ANT-NAV-MT0501-010",
   "dct_identifier_sm": [
     "ANT-NAV-MT0501-010"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:44Z",
+  "gbl_mdModified_dt": "2023-02-03T22:44:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

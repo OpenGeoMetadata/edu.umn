@@ -21,7 +21,10 @@
   ],
   "dcat_keyword_sm": [
     "Geoscientific Information",
-    "Polar Geospatial Center"
+    "Polar Geospatial Center",
+    "2022-creator-sprint",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "2005"
@@ -36,9 +39,9 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(0,-90,0,-84)",
-  "dcat_bbox": "ENVELOPE(0,-90,0,-84)",
-  "dcat_centroid": "-42.0,-45.0",
+  "locn_geometry": "POLYGON((-89 -74, -45 -74, -45 -84.5, -89 -84.5, -89 -74))",
+  "dcat_bbox": "ENVELOPE(-89,-45,-74,-84.5)",
+  "dcat_centroid": "-79.25,-67.0",
   "pcdm_memberOf_sm": [
     "b0153110-e455-4ced-9114-9b13250a7093"
   ],
@@ -47,11 +50,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/01/geo/Ronne Ice Shelf.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/606\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/01/geo/Ronne Ice Shelf.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/606\"}",
   "id": "ANT-REF-GT2501-004",
   "dct_identifier_sm": [
     "ANT-REF-GT2501-004"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:43Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

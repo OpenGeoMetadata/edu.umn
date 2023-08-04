@@ -8,15 +8,16 @@
   "solr_geom": "ENVELOPE(163,162,-77.583,-77.777)",
   "solr_year_i": "1987",
   "dc_creator_sm": [
-    "Jean-Claude M. Thomas; Jerry L. Mullins"
+    "Jean-Claude M. Thomas",
+    "Jerry L. Mullins"
   ],
   "dc_description_s": "Projection: Lambert Conformal Conic Projection - Standard Parallels -76º40' and -79º20'; Series: USGS Satellite Image Maps",
   "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/09/geo/Matterhorn.zip\",\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/203\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.pgc.umn.edu/maps/antarctica/usgs/09/geo/Matterhorn.zip\",\"http://schema.org/url\":\"https://maps.apps.pgc.umn.edu/id/203\"}",
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:35Z",
+  "layer_modified_dt": "2023-02-03T22:44:33Z",
   "dc_language_sm": [
     "eng"
   ],
