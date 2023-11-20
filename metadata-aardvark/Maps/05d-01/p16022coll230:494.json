@@ -39,8 +39,8 @@
   "dct_spatial_sm": [
     "World"
   ],
-  "locn_geometry": "POLYGON((60 80, 60 80, 60 -68, 60 -68, 60 80))",
-  "dcat_bbox": "ENVELOPE(60,60,80,-68)",
+  "locn_geometry": "POLYGON((-180.000 90.000, 180.000 90.000, 180.000 -90.000, -180.000 -90.000, -180.000 90.000))",
+  "dcat_bbox": "ENVELOPE(-180.000,180.000,90.000,-90.000)",
   "dcat_centroid": "6.0,60.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
