@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "Bolivia"
   ],
-  "locn_geometry": "POLYGON((-69.6333 -9.6667, -57.45 -9.6667, -57.45 -22.8833, -69.6333 -22.8833, -69.6333 -9.6667))",
-  "dcat_bbox": "ENVELOPE(-69.6333,-57.45,-9.6667,-22.8833)",
-  "dcat_centroid": "-16.275,-63.541650000000004",
+  "locn_geometry": "POLYGON((-69.633 -9.667, -57.450 -9.667, -57.450 -22.883, -69.633 -22.883, -69.633 -9.667))",
+  "dcat_bbox": "ENVELOPE(-69.633,-57.450,-9.667,-22.883)",
+  "dcat_centroid": "-16.275,-63.5415",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2869\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2869/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2869/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2869\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2869/manifest.json\"}",
   "id": "p16022coll230:2869",
   "dct_identifier_sm": [
     "UMN_ALMA:9973950071601701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

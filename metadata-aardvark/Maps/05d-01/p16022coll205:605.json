@@ -33,9 +33,9 @@
   "dct_spatial_sm": [
     "Louisiana--New Orleans"
   ],
-  "locn_geometry": "POLYGON((-90.15 30.0292, -90.0194 30.0292, -90.0194 29.9, -90.15 29.9, -90.15 30.0292))",
-  "dcat_bbox": "ENVELOPE(-90.15,-90.0194,30.0292,29.9)",
-  "dcat_centroid": "29.964599999999997,-90.0847",
+  "locn_geometry": "POLYGON((-90.150 30.029, -90.019 30.029, -90.019 29.900, -90.150 29.900, -90.150 30.029))",
+  "dcat_bbox": "ENVELOPE(-90.150,-90.019,30.029,29.900)",
+  "dcat_centroid": "29.9645,-90.0845",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -48,11 +48,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:605\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/605/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/605/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:605\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/605/manifest.json\"}",
   "id": "p16022coll205:605",
   "dct_identifier_sm": [
     "UMN_ALMA:9975844451701701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

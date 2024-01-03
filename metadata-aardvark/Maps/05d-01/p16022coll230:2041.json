@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "Kansas"
   ],
-  "locn_geometry": "POLYGON((-98.3667 37.1667, -94.1167 37.1667, -94.1167 33.5167, -98.3667 33.5167, -98.3667 37.1667))",
-  "dcat_bbox": "ENVELOPE(-98.3667,-94.1167,37.1667,33.5167)",
-  "dcat_centroid": "35.3417,-96.2417",
+  "locn_geometry": "POLYGON((-98.367 37.167, -94.117 37.167, -94.117 33.517, -98.367 33.517, -98.367 37.167))",
+  "dcat_bbox": "ENVELOPE(-98.367,-94.117,37.167,33.517)",
+  "dcat_centroid": "35.342,-96.242",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2041\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2041/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2041/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2041\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2041/manifest.json\"}",
   "id": "p16022coll230:2041",
   "dct_identifier_sm": [
     "UMN_ALMA:9974054609601701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

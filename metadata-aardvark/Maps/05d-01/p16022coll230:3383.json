@@ -37,9 +37,9 @@
     "Greece",
     "Europe"
   ],
-  "locn_geometry": "POLYGON((19.3 41.7333, 29.65 41.7333, 29.65 34.5333, 19.3 34.5333, 19.3 41.7333))",
-  "dcat_bbox": "ENVELOPE(19.3,29.65,41.7333,34.5333)",
-  "dcat_centroid": "38.1333,24.475",
+  "locn_geometry": "POLYGON((19.300 41.733, 29.650 41.733, 29.650 34.533, 19.300 34.533, 19.300 41.733))",
+  "dcat_bbox": "ENVELOPE(19.300,29.650,41.733,34.533)",
+  "dcat_centroid": "38.132999999999996,24.475",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3383\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3383/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3383/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3383\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3383/manifest.json\"}",
   "id": "p16022coll230:3383",
   "dct_identifier_sm": [
     "UMN_ALMA:9975654204701701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

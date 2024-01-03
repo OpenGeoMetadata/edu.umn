@@ -34,9 +34,9 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "POLYGON((53.33 -62.2, 58.66 -62.2, 58.66 -63.7833, 53.33 -63.7833, 53.33 -62.2))",
-  "dcat_bbox": "ENVELOPE(53.33,58.66,-62.2,-63.7833)",
-  "dcat_centroid": "-62.99165,55.995",
+  "locn_geometry": "POLYGON((53.330 -62.200, 58.660 -62.200, 58.660 -63.783, 53.330 -63.783, 53.330 -62.200))",
+  "dcat_bbox": "ENVELOPE(53.330,58.660,-62.200,-63.783)",
+  "dcat_centroid": "-62.9915,55.995",
   "pcdm_memberOf_sm": [
     "b0153110-e455-4ced-9114-9b13250a7093"
   ],
@@ -50,6 +50,5 @@
   "dct_identifier_sm": [
     "ANT-NAV-MT0501-014"
   ],
-  "gbl_mdModified_dt": "2023-02-03T22:44:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

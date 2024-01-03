@@ -9,7 +9,7 @@
     "Scale 1:100,000"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_creator_sm": [
     "United States. Soil Conservation Service"
@@ -42,9 +42,9 @@
     "Colorado--Delta County",
     "Colorado"
   ],
-  "locn_geometry": "POLYGON((-108.378999 39.217926, -107.500553 39.217926, -107.500553 38.66798, -108.378999 38.66798, -108.378999 39.217926))",
-  "dcat_bbox": "ENVELOPE(-108.378999,-107.500553,39.217926,38.66798)",
-  "dcat_centroid": "38.942953,-107.939776",
+  "locn_geometry": "POLYGON((-108.379 39.218, -107.501 39.218, -107.501 38.668, -108.379 38.668, -108.379 39.218))",
+  "dcat_bbox": "ENVELOPE(-108.379,-107.501,39.218,38.668)",
+  "dcat_centroid": "38.943,-107.94",
   "pcdm_memberOf_sm": [
     "2787a9e8-0bef-452e-9e5f-e83042c193b4",
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -57,11 +57,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/54/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:54\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/54/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/54/filename/print/page/download/fparams/forcedownload\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll624/54/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:54\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/54/manifest.json\"}",
   "id": "p16022coll624:54",
   "dct_identifier_sm": [
     "UMN_ALMA:9915438570001701"
   ],
-  "gbl_mdModified_dt": "2023-06-16T21:54:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

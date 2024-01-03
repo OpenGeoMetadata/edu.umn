@@ -28,9 +28,9 @@
     "Ecuador",
     "Venezuela (Bolivarian Republic)"
   ],
-  "locn_geometry": "POLYGON((-81.81666667 13.51666667, -66.85 13.51666667, -66.85 -5.15, -81.81666667 -5.15, -81.81666667 13.51666667))",
-  "dcat_bbox": "ENVELOPE(-81.81666667,-66.85,13.51666667,-5.15)",
-  "dcat_centroid": "4.1833333349999995,-74.33333333499999",
+  "locn_geometry": "POLYGON((-81.817 13.517, -66.850 13.517, -66.850 -5.150, -81.817 -5.150, -81.817 13.517))",
+  "dcat_bbox": "ENVELOPE(-81.817,-66.850,13.517,-5.150)",
+  "dcat_centroid": "4.1834999999999996,-74.33349999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -43,11 +43,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4193\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4193/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4193/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4193\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4193/manifest.json\"}",
   "id": "p16022coll230:4193",
   "dct_identifier_sm": [
     "UMN_ALMA:9975281906301701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

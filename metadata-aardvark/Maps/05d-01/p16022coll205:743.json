@@ -35,9 +35,9 @@
     "Russia",
     "Europe"
   ],
-  "locn_geometry": "POLYGON((36.8167 56.3333, 38.5 56.3333, 38.5 55.5167, 36.8167 55.5167, 36.8167 56.3333))",
-  "dcat_bbox": "ENVELOPE(36.8167,38.5,56.3333,55.5167)",
-  "dcat_centroid": "55.925,37.65835",
+  "locn_geometry": "POLYGON((36.817 56.333, 38.500 56.333, 38.500 55.517, 36.817 55.517, 36.817 56.333))",
+  "dcat_bbox": "ENVELOPE(36.817,38.500,56.333,55.517)",
+  "dcat_centroid": "55.925,37.658500000000004",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,11 +50,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:743\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/743/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/743/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:743\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/743/manifest.json\"}",
   "id": "p16022coll205:743",
   "dct_identifier_sm": [
     "UMN_ALMA:9960714610001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

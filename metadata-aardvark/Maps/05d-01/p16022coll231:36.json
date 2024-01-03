@@ -41,9 +41,9 @@
     "Minnesota--Crow Wing County",
     "Minnesota"
   ],
-  "locn_geometry": "POLYGON((-94.6802 47.4807, -93.7739 47.4807, -93.7739 46.1552, -94.6802 46.1552, -94.6802 47.4807))",
-  "dcat_bbox": "ENVELOPE(-94.6802,-93.7739,47.4807,46.1552)",
-  "dcat_centroid": "46.817949999999996,-94.22704999999999",
+  "locn_geometry": "POLYGON((-94.680 47.481, -93.774 47.481, -93.774 46.155, -94.680 46.155, -94.680 47.481))",
+  "dcat_bbox": "ENVELOPE(-94.680,-93.774,47.481,46.155)",
+  "dcat_centroid": "46.818,-94.227",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,11 +56,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:36\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/36/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/36/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:36\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/36/manifest.json\"}",
   "id": "p16022coll231:36",
   "dct_identifier_sm": [
     "UMN_ALMA:9945432500001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

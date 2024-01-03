@@ -1,29 +1,57 @@
 {
-  "geoblacklight_version": "1.0",
-  "dc_identifier_s": "cb328431-05c6-4673-9120-27634ef765f9",
-  "dc_rights_s": "Public",
-  "dc_title_s": "Geology of the metamorphosed Biwabik iron-formation, Eastern Mesabi district, Minnesota, Bulletin 43, Plate 1",
-  "dct_provenance_s": "University of Minnesota",
-  "layer_slug_s": "cb328431-05c6-4673-9120-27634ef765f9",
-  "solr_geom": "ENVELOPE(-97.24,-89.48,49.5,43.5)",
-  "solr_year_i": "1962",
-  "dc_creator_sm": [
+  "dct_title_s": "Geology of the metamorphosed Biwabik iron-formation, Eastern Mesabi district, Minnesota, Bulletin 43, Plate 1",
+  "dct_description_sm": [
+    "Generalized geologic map and longitudinal diagram of the Eastern Mesabi District, Minnesota, scale 1 inch = about 1 1/4 mile."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
     "Gundersen, J.N.",
     "Schwartz, George M. (George Melvin), 1892-1980"
   ],
-  "dc_description_s": "Generalized geologic map and longitudinal diagram of the Eastern Mesabi District, Minnesota, scale 1 inch = about 1 1/4 mile.",
-  "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23359.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1059/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1059\"}",
+  "dct_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1962"
+  ],
+  "dct_issued_s": "1962",
+  "gbl_indexYear_im": [
+    "1962"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1962 TO 1962]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:19:07Z",
-  "dc_language_sm": [
-    "eng"
+  "locn_geometry": "POLYGON((-97.24 49.5, -89.48 49.5, -89.48 43.5, -97.24 43.5, -97.24 49.5))",
+  "dcat_bbox": "ENVELOPE(-97.24,-89.48,49.5,43.5)",
+  "dcat_centroid": "46.5,-93.36",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
-  "dc_publisher_s": "Minnesota Geological Survey",
-  "dct_issued_s": "1962",
-  "dct_temporal_sm": [
-    "1962"
-  ]
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23359.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1059/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1059\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1059/manifest.json\"}",
+  "id": "cb328431-05c6-4673-9120-27634ef765f9",
+  "dct_identifier_sm": [
+    "cb328431-05c6-4673-9120-27634ef765f9"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
 }

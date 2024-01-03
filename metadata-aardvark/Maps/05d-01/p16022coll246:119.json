@@ -39,9 +39,9 @@
     "India--Uttar Pradesh",
     "India"
   ],
-  "locn_geometry": "POLYGON((82.6638 25.583, 88.6637 25.583, 88.6637 22.3239, 82.6638 22.3239, 82.6638 25.583))",
-  "dcat_bbox": "ENVELOPE(82.6638,88.6637,25.583,22.3239)",
-  "dcat_centroid": "23.953449999999997,85.66375",
+  "locn_geometry": "POLYGON((82.664 25.583, 88.664 25.583, 88.664 22.324, 82.664 22.324, 82.664 25.583))",
+  "dcat_bbox": "ENVELOPE(82.664,88.664,25.583,22.324)",
+  "dcat_centroid": "23.9535,85.664",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -54,11 +54,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:119\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/119/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/119/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:119\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/119/manifest.json\"}",
   "id": "p16022coll246:119",
   "dct_identifier_sm": [
     "UMN_ALMA:9974088393901700"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:44Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -37,9 +37,9 @@
     "China",
     "Asia"
   ],
-  "locn_geometry": "POLYGON((73.4833 53.55, 134.7667 53.55, 134.7667 8.8333, 73.4833 8.8333, 73.4833 53.55))",
-  "dcat_bbox": "ENVELOPE(73.4833,134.7667,53.55,8.8333)",
-  "dcat_centroid": "31.19165,104.125",
+  "locn_geometry": "POLYGON((73.483 53.550, 134.767 53.550, 134.767 8.833, 73.483 8.833, 73.483 53.550))",
+  "dcat_bbox": "ENVELOPE(73.483,134.767,53.550,8.833)",
+  "dcat_centroid": "31.191499999999998,104.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3737\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3737/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3737/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3737\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3737/manifest.json\"}",
   "id": "p16022coll230:3737",
   "dct_identifier_sm": [
     "UMN_ALMA:9912645910001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

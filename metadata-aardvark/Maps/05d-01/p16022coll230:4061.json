@@ -33,9 +33,9 @@
     "Massachusetts--Boston",
     "Massachusetts"
   ],
-  "locn_geometry": "POLYGON((-71.06194444 42.36027778, -70.95 42.36027778, -70.95 42.31944444, -71.06194444 42.31944444, -71.06194444 42.36027778))",
-  "dcat_bbox": "ENVELOPE(-71.06194444,-70.95,42.36027778,42.31944444)",
-  "dcat_centroid": "42.33986111,-71.00597222",
+  "locn_geometry": "POLYGON((-71.062 42.360, -70.950 42.360, -70.950 42.319, -71.062 42.319, -71.062 42.360))",
+  "dcat_bbox": "ENVELOPE(-71.062,-70.950,42.360,42.319)",
+  "dcat_centroid": "42.3395,-71.006",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -48,11 +48,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4061\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4061/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4061/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4061\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4061/manifest.json\"}",
   "id": "p16022coll230:4061",
   "dct_identifier_sm": [
     "UMN_ALMA:9921004130001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

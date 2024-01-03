@@ -38,9 +38,9 @@
     "Wales",
     "Scotland"
   ],
-  "locn_geometry": "POLYGON((-6.4167 55.8, 1.75 55.8, 1.75 49.85, -6.4167 49.85, -6.4167 55.8))",
-  "dcat_bbox": "ENVELOPE(-6.4167,1.75,55.8,49.85)",
-  "dcat_centroid": "52.825,-2.33335",
+  "locn_geometry": "POLYGON((-6.417 55.800, 1.750 55.800, 1.750 49.850, -6.417 49.850, -6.417 55.800))",
+  "dcat_bbox": "ENVELOPE(-6.417,1.750,55.800,49.850)",
+  "dcat_centroid": "52.825,-2.3335",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2920\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2920/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2920/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2920\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2920/manifest.json\"}",
   "id": "p16022coll230:2920",
   "dct_identifier_sm": [
     "UMN_ALMA:9917337230001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }

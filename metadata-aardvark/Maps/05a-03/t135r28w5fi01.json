@@ -1,0 +1,65 @@
+{
+  "dct_title_s": "General Land Office Township Plat - Original Survey: Minnesota (T135N R28W), 1902",
+  "dct_alternative_sm": [
+    "Original Public Land Survey"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "St. Paul Land Office"
+  ],
+  "dct_publisher_sm": [
+    "Minnesota Geospatial Information Office (MnGeo)"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Cadastral maps"
+  ],
+  "dct_subject_sm": [
+    "Surveying--Public lands"
+  ],
+  "dcat_keyword_sm": [
+    "PLSS, Public Land Survey System, PLS",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "dct_issued_s": "1902",
+  "gbl_indexYear_im": [
+    "1902"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1902 TO 1902]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota",
+    "T135N-R28W",
+    "T135N-R028W"
+  ],
+  "locn_geometry": "POLYGON((-94.266 46.545, -94.134 46.545, -94.134 46.456, -94.266 46.456, -94.266 46.545))",
+  "dcat_bbox": "ENVELOPE(-94.266,-94.134,46.545,46.456)",
+  "dcat_centroid": "46.5005,-94.2",
+  "dct_relation_sm": [
+    "8888-003"
+  ],
+  "pcdm_memberOf_sm": [
+    "77f-0001"
+  ],
+  "dct_isPartOf_sm": [
+    "05a-03"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoJPEG",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://glorecords.blm.gov/results/default.aspx?searchCriteria=type=survey|st=MN|cty=|twp_nr=135|rng_nr=28|rng_dir=W\",\"http://schema.org/downloadUrl\":\"https://resources.gisdata.mn.gov/pub/data/basemaps/glo/Crow%20Wing/Georeferenced/t135r28w5fi01.zip\",\"http://schema.org/url\":\"http://www.mngeo.state.mn.us/glo/glo.php?township=135\\u0026range=28\"}",
+  "id": "t135r28w5fi01",
+  "dct_identifier_sm": [
+    "t135r28w5fi01",
+    "MN-T135N-R028W"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

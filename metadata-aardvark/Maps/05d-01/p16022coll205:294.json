@@ -34,9 +34,9 @@
   "dct_spatial_sm": [
     "Iowa--Dubuque"
   ],
-  "locn_geometry": "POLYGON((-90.81 42.55, -90.63 42.55, -90.63 42.4001, -90.81 42.4001, -90.81 42.55))",
-  "dcat_bbox": "ENVELOPE(-90.81,-90.63,42.55,42.4001)",
-  "dcat_centroid": "42.475049999999996,-90.72",
+  "locn_geometry": "POLYGON((-90.810 42.550, -90.630 42.550, -90.630 42.400, -90.810 42.400, -90.810 42.550))",
+  "dcat_bbox": "ENVELOPE(-90.810,-90.630,42.550,42.400)",
+  "dcat_centroid": "42.474999999999994,-90.72",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,11 +49,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:294\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/294/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/294/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:294\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/294/manifest.json\"}",
   "id": "p16022coll205:294",
   "dct_identifier_sm": [
     "UMN_ALMA:9921045210001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

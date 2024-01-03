@@ -34,8 +34,8 @@
     "Antarctica--Wilkes Land",
     "Antarctica"
   ],
-  "locn_geometry": "POLYGON((0 0, 110.56 0, 110.56 -66.36, 0 -66.36, 0 0))",
-  "dcat_bbox": "ENVELOPE(0,110.56,0,-66.36)",
+  "locn_geometry": "POLYGON((0.000 0.000, 110.560 0.000, 110.560 -66.360, 0.000 -66.360, 0.000 0.000))",
+  "dcat_bbox": "ENVELOPE(0.000,110.560,0.000,-66.360)",
   "dcat_centroid": "-33.18,55.28",
   "pcdm_memberOf_sm": [
     "b0153110-e455-4ced-9114-9b13250a7093"
@@ -50,6 +50,5 @@
   "dct_identifier_sm": [
     "ANT-NAV-MT2601-017"
   ],
-  "gbl_mdModified_dt": "2023-02-03T22:45:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

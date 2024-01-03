@@ -33,9 +33,9 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-90.4167 47.75, -83.9833 47.75, -83.9833 45.1167, -90.4167 45.1167, -90.4167 47.75))",
-  "dcat_bbox": "ENVELOPE(-90.4167,-83.9833,47.75,45.1167)",
-  "dcat_centroid": "46.433350000000004,-87.2",
+  "locn_geometry": "POLYGON((-90.417 47.750, -83.983 47.750, -83.983 45.117, -90.417 45.117, -90.417 47.750))",
+  "dcat_bbox": "ENVELOPE(-90.417,-83.983,47.750,45.117)",
+  "dcat_centroid": "46.433499999999995,-87.2",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -48,11 +48,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2019\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2019/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2019/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2019\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2019/manifest.json\"}",
   "id": "p16022coll230:2019",
   "dct_identifier_sm": [
     "UMN_ALMA:9941245520001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

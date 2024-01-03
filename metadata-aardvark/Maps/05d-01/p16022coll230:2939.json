@@ -37,9 +37,9 @@
     "England--Southahmpton",
     "England"
   ],
-  "locn_geometry": "POLYGON((-1.9833 51.0667, -1.2833 51.0667, -1.2833 50.7, -1.9833 50.7, -1.9833 51.0667))",
-  "dcat_bbox": "ENVELOPE(-1.9833,-1.2833,51.0667,50.7)",
-  "dcat_centroid": "50.88335,-1.6333000000000002",
+  "locn_geometry": "POLYGON((-1.983 51.067, -1.283 51.067, -1.283 50.700, -1.983 50.700, -1.983 51.067))",
+  "dcat_bbox": "ENVELOPE(-1.983,-1.283,51.067,50.700)",
+  "dcat_centroid": "50.8835,-1.633",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2939\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2939/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2939/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2939\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2939/manifest.json\"}",
   "id": "p16022coll230:2939",
   "dct_identifier_sm": [
     "UMN_ALMA:9935131350001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

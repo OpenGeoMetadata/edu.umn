@@ -1,0 +1,65 @@
+{
+  "dct_title_s": "General Land Office Township Plat - Original Survey: Minnesota (T061N R08W), 1911",
+  "dct_alternative_sm": [
+    "Original Public Land Survey"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "Minnesota Geospatial Information Office (MnGeo)"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Cadastral maps"
+  ],
+  "dct_subject_sm": [
+    "Surveying--Public lands"
+  ],
+  "dcat_keyword_sm": [
+    "land survey",
+    "surveyor",
+    "public land survey system",
+    "PLSS",
+    "pls"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "dct_issued_s": "1911",
+  "gbl_indexYear_im": [
+    "1911"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1911 TO 1911]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota",
+    "T061N-R08W",
+    "T061N-R008W"
+  ],
+  "locn_geometry": "POLYGON((-91.406 47.802, -91.277 47.802, -91.277 47.714, -91.406 47.714, -91.406 47.802))",
+  "dcat_bbox": "ENVELOPE(-91.406,-91.277,47.802,47.714)",
+  "dcat_centroid": "47.757999999999996,-91.3415",
+  "dct_relation_sm": [
+    "8888-003"
+  ],
+  "pcdm_memberOf_sm": [
+    "77f-0001"
+  ],
+  "dct_isPartOf_sm": [
+    "05a-03"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoJPEG",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://glorecords.blm.gov/results/default.aspx?searchCriteria=type=survey|st=MN|cty=|twp_nr=61|rng_nr=8|rng_dir=W\",\"http://schema.org/downloadUrl\":\"https://resources.gisdata.mn.gov/pub/data/basemaps/glo/Lake/Georeferenced/t061r08w4fi01.zip\",\"http://www.w3.org/1999/xhtml\":\"https://resources.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mngeo/plan_glo_plat_maps_georef/metadata/metadata.html\",\"http://schema.org/url\":\"http://www.mngeo.state.mn.us/glo/glo.php?township=61\\u0026range=8\"}",
+  "id": "t061r08w4fi01",
+  "dct_identifier_sm": [
+    "t061r08w4fi01",
+    "MN-T061N-R008W"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

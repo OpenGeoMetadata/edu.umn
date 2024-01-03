@@ -33,8 +33,8 @@
     "Antarctica--McMurdo Dry Valleys",
     "Antarctica"
   ],
-  "locn_geometry": "POLYGON((165 -77.75, 164 -77.75, 164 -78, 165 -78, 165 -77.75))",
-  "dcat_bbox": "ENVELOPE(165,164,-77.75,-78)",
+  "locn_geometry": "POLYGON((165.000 -77.750, 164.000 -77.750, 164.000 -78.000, 165.000 -78.000, 165.000 -77.750))",
+  "dcat_bbox": "ENVELOPE(165.000,164.000,-77.750,-78.000)",
   "dcat_centroid": "-77.875,164.5",
   "pcdm_memberOf_sm": [
     "b0153110-e455-4ced-9114-9b13250a7093"
@@ -49,6 +49,5 @@
   "dct_identifier_sm": [
     "ANT-REF-MT2502-002"
   ],
-  "gbl_mdModified_dt": "2023-02-03T22:43:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

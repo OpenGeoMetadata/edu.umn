@@ -1,29 +1,57 @@
 {
-  "geoblacklight_version": "1.0",
-  "dc_identifier_s": "3a0b094c-0d3d-402f-b688-6d01f4e59f43",
-  "dc_rights_s": "Public",
-  "dc_title_s": "Groundwater map of Minnesota",
-  "dct_provenance_s": "University of Minnesota",
-  "layer_slug_s": "3a0b094c-0d3d-402f-b688-6d01f4e59f43",
-  "solr_geom": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
-  "solr_year_i": "1954",
-  "dc_creator_sm": [
+  "dct_title_s": "Groundwater map of Minnesota",
+  "dct_description_sm": [
+    "Ground water map of Minnesota, scale 1:2,000,000."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
     "Prokopovich, N. P. (Nikola P.)",
     "Thiel, George A. (George Alfred), 1892-1979"
   ],
-  "dc_description_s": "Ground water map of Minnesota, scale 1:2,000,000.",
-  "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22597.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/930/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:930\"}",
+  "dct_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "dct_issued_s": "1954",
+  "gbl_indexYear_im": [
+    "1954"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1954 TO 1954]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:19:19Z",
-  "dc_language_sm": [
-    "eng"
+  "locn_geometry": "POLYGON((-97.239 49.384, -89.483 49.384, -89.483 43.499, -97.239 43.499, -97.239 49.384))",
+  "dcat_bbox": "ENVELOPE(-97.239,-89.483,49.384,43.499)",
+  "dcat_centroid": "46.441500000000005,-93.361",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
-  "dc_publisher_s": "Minnesota Geological Survey",
-  "dct_issued_s": "1954",
-  "dct_temporal_sm": [
-    "1954"
-  ]
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22597.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/930/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:930\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/930/manifest.json\"}",
+  "id": "3a0b094c-0d3d-402f-b688-6d01f4e59f43",
+  "dct_identifier_sm": [
+    "3a0b094c-0d3d-402f-b688-6d01f4e59f43"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
 }

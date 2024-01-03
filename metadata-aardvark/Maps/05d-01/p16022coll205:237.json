@@ -38,9 +38,9 @@
   "dct_spatial_sm": [
     "Wisconsin--Janesville"
   ],
-  "locn_geometry": "POLYGON((-89.0601 42.75, -88.93 42.75, -88.93 42.61, -89.0601 42.61, -89.0601 42.75))",
-  "dcat_bbox": "ENVELOPE(-89.0601,-88.93,42.75,42.61)",
-  "dcat_centroid": "42.68,-88.99505",
+  "locn_geometry": "POLYGON((-89.060 42.750, -88.930 42.750, -88.930 42.610, -89.060 42.610, -89.060 42.750))",
+  "dcat_bbox": "ENVELOPE(-89.060,-88.930,42.750,42.610)",
+  "dcat_centroid": "42.68,-88.995",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:237\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/237/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/237/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:237\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/237/manifest.json\"}",
   "id": "p16022coll205:237",
   "dct_identifier_sm": [
     "UMN_ALMA:9936419220001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

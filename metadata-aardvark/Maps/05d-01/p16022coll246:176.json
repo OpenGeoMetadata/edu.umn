@@ -35,9 +35,9 @@
     "Bangladesh",
     "India"
   ],
-  "locn_geometry": "POLYGON((88.2282 22.4971, 89.8954 22.4971, 89.8954 21.5167, 88.2282 21.5167, 88.2282 22.4971))",
-  "dcat_bbox": "ENVELOPE(88.2282,89.8954,22.4971,21.5167)",
-  "dcat_centroid": "22.0069,89.0618",
+  "locn_geometry": "POLYGON((88.228 22.497, 89.895 22.497, 89.895 21.517, 88.228 21.517, 88.228 22.497))",
+  "dcat_bbox": "ENVELOPE(88.228,89.895,22.497,21.517)",
+  "dcat_centroid": "22.006999999999998,89.0615",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,11 +50,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:176\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/176/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/176/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:176\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/176/manifest.json\"}",
   "id": "p16022coll246:176",
   "dct_identifier_sm": [
     "UMN_ALMA:9974129793701700"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

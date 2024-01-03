@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "St. Mihiel"
   ],
-  "locn_geometry": "POLYGON((5.5117 48.9208, 5.6367 48.9208, 5.6367 48.8675, 5.5117 48.8675, 5.5117 48.9208))",
-  "dcat_bbox": "ENVELOPE(5.5117,5.6367,48.9208,48.8675)",
-  "dcat_centroid": "48.894149999999996,5.5742",
+  "locn_geometry": "POLYGON((5.512 48.921, 5.637 48.921, 5.637 48.867, 5.512 48.867, 5.512 48.921))",
+  "dcat_bbox": "ENVELOPE(5.512,5.637,48.921,48.867)",
+  "dcat_centroid": "48.894,5.5745",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:737\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/737/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/737/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:737\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/737/manifest.json\"}",
   "id": "p16022coll205:737",
   "dct_identifier_sm": [
     "UMN_ALMA:9941246890001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

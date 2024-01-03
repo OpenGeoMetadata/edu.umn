@@ -37,9 +37,9 @@
   "dct_spatial_sm": [
     "Leipzig"
   ],
-  "locn_geometry": "POLYGON((12.2364 51.4481, 12.5422 51.4481, 12.5422 51.2381, 12.2364 51.2381, 12.2364 51.4481))",
-  "dcat_bbox": "ENVELOPE(12.2364,12.5422,51.4481,51.2381)",
-  "dcat_centroid": "51.3431,12.389299999999999",
+  "locn_geometry": "POLYGON((12.236 51.448, 12.542 51.448, 12.542 51.238, 12.236 51.238, 12.236 51.448))",
+  "dcat_bbox": "ENVELOPE(12.236,12.542,51.448,51.238)",
+  "dcat_centroid": "51.343,12.389",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3326\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3326/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3326/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3326\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3326/manifest.json\"}",
   "id": "p16022coll230:3326",
   "dct_identifier_sm": [
     "UMN_ALMA:9958085380001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

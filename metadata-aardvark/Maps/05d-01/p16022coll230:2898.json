@@ -37,9 +37,9 @@
     "England--Leicestershire",
     "England"
   ],
-  "locn_geometry": "POLYGON((-1.5975 52.9777, -0.6641 52.9777, -0.6641 52.3922, -1.5975 52.3922, -1.5975 52.9777))",
-  "dcat_bbox": "ENVELOPE(-1.5975,-0.6641,52.9777,52.3922)",
-  "dcat_centroid": "52.68495,-1.1308",
+  "locn_geometry": "POLYGON((-1.597 52.978, -0.664 52.978, -0.664 52.392, -1.597 52.392, -1.597 52.978))",
+  "dcat_bbox": "ENVELOPE(-1.597,-0.664,52.978,52.392)",
+  "dcat_centroid": "52.685,-1.1305",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2898\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2898/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2898/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2898\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2898/manifest.json\"}",
   "id": "p16022coll230:2898",
   "dct_identifier_sm": [
     "UMN_ALMA:9935116520001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:32:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

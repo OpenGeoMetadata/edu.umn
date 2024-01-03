@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "Alabama"
   ],
-  "locn_geometry": "POLYGON((-88.4667 35.0, -84.8833 35.0, -84.8833 30.1833, -88.4667 30.1833, -88.4667 35.0))",
-  "dcat_bbox": "ENVELOPE(-88.4667,-84.8833,35.0,30.1833)",
-  "dcat_centroid": "32.59165,-86.67500000000001",
+  "locn_geometry": "POLYGON((-88.467 35.000, -84.883 35.000, -84.883 30.183, -88.467 30.183, -88.467 35.000))",
+  "dcat_bbox": "ENVELOPE(-88.467,-84.883,35.000,30.183)",
+  "dcat_centroid": "32.591499999999996,-86.675",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1553\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1553/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/1553/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1553\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1553/manifest.json\"}",
   "id": "p16022coll230:1553",
   "dct_identifier_sm": [
     "UMN_ALMA:9974055507401701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

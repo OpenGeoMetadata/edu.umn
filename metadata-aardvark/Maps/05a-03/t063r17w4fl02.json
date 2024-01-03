@@ -1,0 +1,68 @@
+{
+  "dct_title_s": "General Land Office Township Plat - Islands Survey: Minnesota (T063N R17W), 1918",
+  "dct_alternative_sm": [
+    "PLSS Islands Survey"
+  ],
+  "dct_description_sm": [
+    "Two Islands in Vermillion Lake, in fractional sections 30 and 31; duplicate"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Washington D.C. Land Office"
+  ],
+  "dct_publisher_sm": [
+    "Minnesota Geospatial Information Office (MnGeo)"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Cadastral maps"
+  ],
+  "dct_subject_sm": [
+    "Surveying--Public lands"
+  ],
+  "dcat_keyword_sm": [
+    "PLSS, Public Land Survey System, PLS",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1918"
+  ],
+  "dct_issued_s": "1918",
+  "gbl_indexYear_im": [
+    "1918"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1918 TO 1918]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota",
+    "T063N-R17W",
+    "T063N-R017W"
+  ],
+  "locn_geometry": "POLYGON((-92.568 47.976, -92.439 47.976, -92.439 47.889, -92.568 47.889, -92.568 47.976))",
+  "dcat_bbox": "ENVELOPE(-92.568,-92.439,47.976,47.889)",
+  "dcat_centroid": "47.932500000000005,-92.5035",
+  "dct_relation_sm": [
+    "8888-003"
+  ],
+  "pcdm_memberOf_sm": [
+    "77f-0001"
+  ],
+  "dct_isPartOf_sm": [
+    "05a-03"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoJPEG",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://glorecords.blm.gov/results/default.aspx?searchCriteria=type=survey|st=MN|cty=|twp_nr=63|rng_nr=17|rng_dir=W\",\"http://schema.org/downloadUrl\":\"https://resources.gisdata.mn.gov/pub/data/basemaps/glo/St%20Louis/Georeferenced/t063r17w4fl02.zip\",\"http://schema.org/url\":\"http://www.mngeo.state.mn.us/glo/glo.php?township=63\\u0026range=17\"}",
+  "id": "t063r17w4fl02",
+  "dct_identifier_sm": [
+    "t063r17w4fl02",
+    "MN-T063N-R017W"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

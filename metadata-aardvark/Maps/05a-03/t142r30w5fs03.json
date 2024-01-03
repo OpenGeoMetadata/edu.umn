@@ -1,0 +1,68 @@
+{
+  "dct_title_s": "General Land Office Township Plat - Supplemental Survey: Minnesota (T142N R30W), 1912",
+  "dct_alternative_sm": [
+    "PLSS Supplemental Plats"
+  ],
+  "dct_description_sm": [
+    "Sections 22, 27, 34, 35 and 36 in Leech Lake Indian Reservation; sheet 2 of 2"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Washington D.C. Land Office"
+  ],
+  "dct_publisher_sm": [
+    "Minnesota Geospatial Information Office (MnGeo)"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Cadastral maps"
+  ],
+  "dct_subject_sm": [
+    "Surveying--Public lands"
+  ],
+  "dcat_keyword_sm": [
+    "PLSS, Public Land Survey System, PLS",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "dct_issued_s": "1912",
+  "gbl_indexYear_im": [
+    "1912"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1912 TO 1912]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota",
+    "T142N-R30W",
+    "T142N-R030W"
+  ],
+  "locn_geometry": "POLYGON((-94.535 47.153, -94.405 47.153, -94.405 47.066, -94.535 47.066, -94.535 47.153))",
+  "dcat_bbox": "ENVELOPE(-94.535,-94.405,47.153,47.066)",
+  "dcat_centroid": "47.1095,-94.47",
+  "dct_relation_sm": [
+    "8888-003"
+  ],
+  "pcdm_memberOf_sm": [
+    "77f-0001"
+  ],
+  "dct_isPartOf_sm": [
+    "05a-03"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoJPEG",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://glorecords.blm.gov/results/default.aspx?searchCriteria=type=survey|st=MN|cty=|twp_nr=142|rng_nr=30|rng_dir=W\",\"http://schema.org/downloadUrl\":\"https://resources.gisdata.mn.gov/pub/data/basemaps/glo/Cass/Georeferenced/t142r30w5fs03.zip\",\"http://schema.org/url\":\"http://www.mngeo.state.mn.us/glo/glo.php?township=142\\u0026range=30\"}",
+  "id": "t142r30w5fs03",
+  "dct_identifier_sm": [
+    "t142r30w5fs03",
+    "MN-T142N-R030W"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

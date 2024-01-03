@@ -40,9 +40,9 @@
   "dct_spatial_sm": [
     "Sweden"
   ],
-  "locn_geometry": "POLYGON((10.95 69.05, 48.16666667 69.05, 48.16666667 55.33333333, 10.95 55.33333333, 10.95 69.05))",
-  "dcat_bbox": "ENVELOPE(10.95,48.16666667,69.05,55.33333333)",
-  "dcat_centroid": "62.191666665,29.558333335",
+  "locn_geometry": "POLYGON((10.950 69.050, 48.167 69.050, 48.167 55.333, 10.950 55.333, 10.950 69.050))",
+  "dcat_bbox": "ENVELOPE(10.950,48.167,69.050,55.333)",
+  "dcat_centroid": "62.1915,29.558500000000002",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -55,11 +55,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:386\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/386/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/386/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:386\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/386/manifest.json\"}",
   "id": "p16022coll230:386",
   "dct_identifier_sm": [
     "UMN_ALMA:9973826408601701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:17Z",
   "gbl_mdVersion_s": "Aardvark"
 }

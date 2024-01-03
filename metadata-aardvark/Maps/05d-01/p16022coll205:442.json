@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "Alberta--Camrose"
   ],
-  "locn_geometry": "POLYGON((-112.8325 53.0233, -112.7944 53.0233, -112.7944 53.0083, -112.8325 53.0083, -112.8325 53.0233))",
-  "dcat_bbox": "ENVELOPE(-112.8325,-112.7944,53.0233,53.0083)",
-  "dcat_centroid": "53.0158,-112.81344999999999",
+  "locn_geometry": "POLYGON((-112.832 53.023, -112.794 53.023, -112.794 53.008, -112.832 53.008, -112.832 53.023))",
+  "dcat_bbox": "ENVELOPE(-112.832,-112.794,53.023,53.008)",
+  "dcat_centroid": "53.0155,-112.81299999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:442\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/442/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/442/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:442\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/442/manifest.json\"}",
   "id": "p16022coll205:442",
   "dct_identifier_sm": [
     "UMN_ALMA:9974775304101701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

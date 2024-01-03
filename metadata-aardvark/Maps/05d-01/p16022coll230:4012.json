@@ -30,9 +30,9 @@
     "Northwest Territories",
     "Canada"
   ],
-  "locn_geometry": "POLYGON((-130.1 79.11666667, -61.63333333 79.11666667, -61.63333333 60.23333333, -130.1 60.23333333, -130.1 79.11666667))",
-  "dcat_bbox": "ENVELOPE(-130.1,-61.63333333,79.11666667,60.23333333)",
-  "dcat_centroid": "69.675,-95.866666665",
+  "locn_geometry": "POLYGON((-130.100 79.117, -61.633 79.117, -61.633 60.233, -130.100 60.233, -130.100 79.117))",
+  "dcat_bbox": "ENVELOPE(-130.100,-61.633,79.117,60.233)",
+  "dcat_centroid": "69.675,-95.8665",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,11 +45,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4012\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4012/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4012/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4012\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4012/manifest.json\"}",
   "id": "p16022coll230:4012",
   "dct_identifier_sm": [
     "UMN_ALMA:9978463428601701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

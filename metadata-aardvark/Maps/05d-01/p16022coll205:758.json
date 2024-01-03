@@ -32,9 +32,9 @@
   "dct_spatial_sm": [
     "Yoshioka"
   ],
-  "locn_geometry": "POLYGON((138.929104 36.474281, 139.041492 36.474281, 139.041492 36.417183, 138.929104 36.417183, 138.929104 36.474281))",
-  "dcat_bbox": "ENVELOPE(138.929104,139.041492,36.474281,36.417183)",
-  "dcat_centroid": "36.445732,138.985298",
+  "locn_geometry": "POLYGON((138.929 36.474, 139.041 36.474, 139.041 36.417, 138.929 36.417, 138.929 36.474))",
+  "dcat_bbox": "ENVELOPE(138.929,139.041,36.474,36.417)",
+  "dcat_centroid": "36.445499999999996,138.985",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -47,11 +47,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:758\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/758/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/758/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:758\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/758/manifest.json\"}",
   "id": "p16022coll205:758",
   "dct_identifier_sm": [
     "UMN_ALMA:9923657180001701"
   ],
-  "gbl_mdModified_dt": "2023-06-27T16:54:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

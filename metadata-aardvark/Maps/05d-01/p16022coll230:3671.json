@@ -37,9 +37,9 @@
     "Ukraine",
     "Europe"
   ],
-  "locn_geometry": "POLYGON((22.1333 52.3667, 40.2167 52.3667, 40.2167 44.1833, 22.1333 44.1833, 22.1333 52.3667))",
-  "dcat_bbox": "ENVELOPE(22.1333,40.2167,52.3667,44.1833)",
-  "dcat_centroid": "48.275000000000006,31.175",
+  "locn_geometry": "POLYGON((22.133 52.367, 40.217 52.367, 40.217 44.183, 22.133 44.183, 22.133 52.367))",
+  "dcat_bbox": "ENVELOPE(22.133,40.217,52.367,44.183)",
+  "dcat_centroid": "48.275,31.174999999999997",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3671\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3671/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3671/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3671\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3671/manifest.json\"}",
   "id": "p16022coll230:3671",
   "dct_identifier_sm": [
     "UMN_ALMA:9963102120001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:32:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

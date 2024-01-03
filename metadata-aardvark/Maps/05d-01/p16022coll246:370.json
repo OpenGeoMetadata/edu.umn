@@ -37,9 +37,9 @@
   "dct_spatial_sm": [
     "Iran"
   ],
-  "locn_geometry": "POLYGON((36.7822 47.1972, 69.2578 47.1972, 69.2578 23.8959, 36.7822 23.8959, 36.7822 47.1972))",
-  "dcat_bbox": "ENVELOPE(36.7822,69.2578,47.1972,23.8959)",
-  "dcat_centroid": "35.54655,53.02",
+  "locn_geometry": "POLYGON((36.782 47.197, 69.258 47.197, 69.258 23.896, 36.782 23.896, 36.782 47.197))",
+  "dcat_bbox": "ENVELOPE(36.782,69.258,47.197,23.896)",
+  "dcat_centroid": "35.5465,53.019999999999996",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:370\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/370/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/370/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:370\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/370/manifest.json\"}",
   "id": "p16022coll246:370",
   "dct_identifier_sm": [
     "UMN_ALMA:9931683790001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:32:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

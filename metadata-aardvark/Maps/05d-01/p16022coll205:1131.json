@@ -30,9 +30,9 @@
     "Texas--Houston",
     "Texas"
   ],
-  "locn_geometry": "POLYGON((-95.90972222 30.11027778, -95.01194444 30.11027778, -95.01194444 29.53694444, -95.90972222 29.53694444, -95.90972222 30.11027778))",
-  "dcat_bbox": "ENVELOPE(-95.90972222,-95.01194444,30.11027778,29.53694444)",
-  "dcat_centroid": "29.82361111,-95.46083333",
+  "locn_geometry": "POLYGON((-95.910 30.110, -95.012 30.110, -95.012 29.537, -95.910 29.537, -95.910 30.110))",
+  "dcat_bbox": "ENVELOPE(-95.910,-95.012,30.110,29.537)",
+  "dcat_centroid": "29.8235,-95.461",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,11 +45,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:1131\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/1131/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/1131/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:1131\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/1131/manifest.json\"}",
   "id": "p16022coll205:1131",
   "dct_identifier_sm": [
     "UMN_ALMA:9936932520001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

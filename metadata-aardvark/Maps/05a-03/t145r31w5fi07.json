@@ -1,0 +1,51 @@
+{
+  "dct_title_s": "General Land Office Township Plat - Original Survey: Minnesota (T145N R31W)",
+  "dct_alternative_sm": [
+    "Original Public Land Survey"
+  ],
+  "dct_description_sm": [
+    "Unsigned; Ranges 31 and 32. (Sections 13,16,17,18)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Cadastral maps"
+  ],
+  "dct_subject_sm": [
+    "Surveying--Public lands"
+  ],
+  "dcat_keyword_sm": [
+    "PLSS, Public Land Survey System, PLS"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota",
+    "T145N-R31W",
+    "T145N-R031W"
+  ],
+  "locn_geometry": "POLYGON((-94.6716381 47.41106423, -94.54330985 47.41106423, -94.54330985 47.32269448, -94.6716381 47.32269448, -94.6716381 47.41106423))",
+  "dcat_bbox": "ENVELOPE(-94.6716381,-94.54330985,47.41106423,47.32269448)",
+  "dcat_centroid": "47.366879355,-94.607473975",
+  "dct_relation_sm": [
+    "8888-003"
+  ],
+  "pcdm_memberOf_sm": [
+    "77f-0001"
+  ],
+  "dct_isPartOf_sm": [
+    "05a-03"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoJPEG",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://glorecords.blm.gov/results/default.aspx?searchCriteria=type=survey|st=MN|cty=|twp_nr=145|rng_nr=31|rng_dir=W\",\"http://schema.org/downloadUrl\":\"https://resources.gisdata.mn.gov/pub/data/basemaps/glo/Cass/Georeferenced/t145r31w5fi07.zip\",\"http://schema.org/url\":\"http://www.mngeo.state.mn.us/glo/glo.php?township=145\\u0026range=31\"}",
+  "id": "t145r31w5fi07",
+  "dct_identifier_sm": [
+    "t145r31w5fi07",
+    "MN-T145N-R031W"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,65 @@
+{
+  "dct_title_s": "General Land Office Township Plat - Original Survey: Minnesota (T060N R03W), 1860",
+  "dct_alternative_sm": [
+    "Original Public Land Survey"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "St. Paul Land Office"
+  ],
+  "dct_publisher_sm": [
+    "Minnesota Geospatial Information Office (MnGeo)"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Cadastral maps"
+  ],
+  "dct_subject_sm": [
+    "Surveying--Public lands"
+  ],
+  "dcat_keyword_sm": [
+    "PLSS, Public Land Survey System, PLS",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1860"
+  ],
+  "dct_issued_s": "1860",
+  "gbl_indexYear_im": [
+    "1860"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1860 TO 1860]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota",
+    "T060N-R03W",
+    "T060N-R003W"
+  ],
+  "locn_geometry": "POLYGON((-90.767 47.717, -90.638 47.717, -90.638 47.630, -90.767 47.630, -90.767 47.717))",
+  "dcat_bbox": "ENVELOPE(-90.767,-90.638,47.717,47.630)",
+  "dcat_centroid": "47.673500000000004,-90.7025",
+  "dct_relation_sm": [
+    "8888-003"
+  ],
+  "pcdm_memberOf_sm": [
+    "77f-0001"
+  ],
+  "dct_isPartOf_sm": [
+    "05a-03"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoJPEG",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://glorecords.blm.gov/results/default.aspx?searchCriteria=type=survey|st=MN|cty=|twp_nr=60|rng_nr=3|rng_dir=W\",\"http://schema.org/downloadUrl\":\"https://resources.gisdata.mn.gov/pub/data/basemaps/glo/Cook/Georeferenced/t060r03w4fi01.zip\",\"http://schema.org/url\":\"http://www.mngeo.state.mn.us/glo/glo.php?township=60\\u0026range=3\"}",
+  "id": "t060r03w4fi01",
+  "dct_identifier_sm": [
+    "t060r03w4fi01",
+    "MN-T060N-R003W"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

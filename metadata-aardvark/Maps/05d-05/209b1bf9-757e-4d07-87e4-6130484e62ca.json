@@ -1,29 +1,57 @@
 {
-  "geoblacklight_version": "1.0",
-  "dc_identifier_s": "209b1bf9-757e-4d07-87e4-6130484e62ca",
-  "dc_rights_s": "Public",
-  "dc_title_s": "Geologic atlas of Pope County, Minnesota, C-15, Part A, Plate 1, Data Base",
-  "dct_provenance_s": "University of Minnesota",
-  "layer_slug_s": "209b1bf9-757e-4d07-87e4-6130484e62ca",
-  "solr_geom": "ENVELOPE(-95.7594,-95.1319,45.7602,45.4122)",
-  "solr_year_i": "2003",
-  "dc_creator_sm": [
+  "dct_title_s": "Geologic atlas of Pope County, Minnesota, C-15, Part A, Plate 1, Data Base",
+  "dct_description_sm": [
+    "Map showing locations of water wells, soil borings, outcrops and cuttings samples collected during water well drilling.  Distribution and sources of primary information tthat guide the geologic interpretations used to make the geologic maps in the series,  scale 1:100,000, Pope County."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
     "Bauer, Emily J.",
     "Harris, Kenneth L."
   ],
-  "dc_description_s": "Map showing locations of water wells, soil borings, outcrops and cuttings samples collected during water well drilling.  Distribution and sources of primary information tthat guide the geologic interpretations used to make the geologic maps in the series,  scale 1:100,000, Pope County.",
-  "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22345.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/745/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:745\"}",
+  "dct_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "dct_issued_s": "2003",
+  "gbl_indexYear_im": [
+    "2003"
+  ],
+  "gbl_dateRange_drsim": [
+    "[2003 TO 2003]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:52Z",
-  "dc_language_sm": [
-    "eng"
+  "locn_geometry": "POLYGON((-95.759 45.760, -95.132 45.760, -95.132 45.412, -95.759 45.412, -95.759 45.760))",
+  "dcat_bbox": "ENVELOPE(-95.759,-95.132,45.760,45.412)",
+  "dcat_centroid": "45.586,-95.44550000000001",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
-  "dc_publisher_s": "Minnesota Geological Survey",
-  "dct_issued_s": "2003",
-  "dct_temporal_sm": [
-    "2003"
-  ]
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22345.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/745/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:745\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/745/manifest.json\"}",
+  "id": "209b1bf9-757e-4d07-87e4-6130484e62ca",
+  "dct_identifier_sm": [
+    "209b1bf9-757e-4d07-87e4-6130484e62ca"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
 }

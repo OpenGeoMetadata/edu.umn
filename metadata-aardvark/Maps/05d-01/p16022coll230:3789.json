@@ -37,9 +37,9 @@
     "Australia",
     "Australia"
   ],
-  "locn_geometry": "POLYGON((134.8167 -25.95, 154.2667 -25.95, 154.2667 -39.3167, 134.8167 -39.3167, 134.8167 -25.95))",
-  "dcat_bbox": "ENVELOPE(134.8167,154.2667,-25.95,-39.3167)",
-  "dcat_centroid": "-32.63335,144.5417",
+  "locn_geometry": "POLYGON((134.817 -25.950, 154.267 -25.950, 154.267 -39.317, 134.817 -39.317, 134.817 -25.950))",
+  "dcat_bbox": "ENVELOPE(134.817,154.267,-25.950,-39.317)",
+  "dcat_centroid": "-32.6335,144.542",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3789\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3789/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3789/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3789\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3789/manifest.json\"}",
   "id": "p16022coll230:3789",
   "dct_identifier_sm": [
     "UMN_ALMA:9973295141501701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "Ohio"
   ],
-  "locn_geometry": "POLYGON((-84.8167 41.9667, -80.5167 41.9667, -80.5167 38.4, -84.8167 38.4, -84.8167 41.9667))",
-  "dcat_bbox": "ENVELOPE(-84.8167,-80.5167,41.9667,38.4)",
-  "dcat_centroid": "40.183350000000004,-82.66669999999999",
+  "locn_geometry": "POLYGON((-84.817 41.967, -80.517 41.967, -80.517 38.400, -84.817 38.400, -84.817 41.967))",
+  "dcat_bbox": "ENVELOPE(-84.817,-80.517,41.967,38.400)",
+  "dcat_centroid": "40.183499999999995,-82.667",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1737\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1737/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/1737/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1737\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1737/manifest.json\"}",
   "id": "p16022coll230:1737",
   "dct_identifier_sm": [
     "UMN_ALMA:9944524130001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

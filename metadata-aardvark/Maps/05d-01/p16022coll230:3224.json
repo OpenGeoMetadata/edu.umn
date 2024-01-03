@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "Königsberg"
   ],
-  "locn_geometry": "POLYGON((19.3167 55.0, 22.4667 55.0, 22.4667 54.0, 19.3167 54.0, 19.3167 55.0))",
-  "dcat_bbox": "ENVELOPE(19.3167,22.4667,55.0,54.0)",
-  "dcat_centroid": "54.5,20.8917",
+  "locn_geometry": "POLYGON((19.317 55.000, 22.467 55.000, 22.467 54.000, 19.317 54.000, 19.317 55.000))",
+  "dcat_bbox": "ENVELOPE(19.317,22.467,55.000,54.000)",
+  "dcat_centroid": "54.5,20.892",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3224\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3224/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3224/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3224\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3224/manifest.json\"}",
   "id": "p16022coll230:3224",
   "dct_identifier_sm": [
     "UMN_ALMA:9975641903901701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

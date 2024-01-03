@@ -1,29 +1,62 @@
 {
-  "geoblacklight_version": "1.0",
-  "dc_identifier_s": "7785232c-783c-47dd-8666-015e2b16ccdc",
-  "dc_rights_s": "Public",
-  "dc_title_s": "Village of Brooklyn Center: Township 118 & 119 N, Range 21 W of the 5th PM.",
-  "dct_provenance_s": "University of Minnesota",
-  "layer_slug_s": "7785232c-783c-47dd-8666-015e2b16ccdc",
-  "solr_geom": "ENVELOPE(-93.7702,-93.1769,45.2466,44.7874)",
-  "solr_year_i": "1913",
-  "dc_creator_sm": [
+  "dct_title_s": "Village of Brooklyn Center: Township 118 & 119 N, Range 21 W of the 5th PM.",
+  "dct_description_sm": [
+    "Page 13: Atlas of Hennepin County, Minnesota, 1913"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
     "Westby, P. O."
   ],
-  "dc_description_s": "Page 13: Atlas of Hennepin County, Minnesota, 1913",
-  "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1283/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/193105\"}",
+  "dct_publisher_sm": [
+    "Hennepin Atlas and Publishing"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Atlases"
+  ],
+  "dcat_keyword_sm": [
+    "Real property -- Minnesota -- Hennepin County -- Maps",
+    "Hennepin County (Minn.) -- Maps",
+    "John R. Borchert Map Library",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1913"
+  ],
+  "dct_issued_s": "1913",
+  "gbl_indexYear_im": [
+    "1913"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1913 TO 1913]"
+  ],
   "dct_spatial_sm": [
     "Minnesota--Hennepin County",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:27:15Z",
-  "dc_language_sm": [
-    "eng"
+  "locn_geometry": "POLYGON((-93.770 45.247, -93.177 45.247, -93.177 44.787, -93.770 44.787, -93.770 45.247))",
+  "dcat_bbox": "ENVELOPE(-93.770,-93.177,45.247,44.787)",
+  "dcat_centroid": "45.016999999999996,-93.4735",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
-  "dc_publisher_s": "Hennepin Atlas and Publishing",
-  "dct_issued_s": "1913",
-  "dct_temporal_sm": [
-    "1913"
-  ]
+  "dct_isPartOf_sm": [
+    "p16022coll231:1374"
+  ],
+  "dct_rights_sm": [
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1283/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/193105\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/1283/manifest.json\"}",
+  "id": "7785232c-783c-47dd-8666-015e2b16ccdc",
+  "dct_identifier_sm": [
+    "7785232c-783c-47dd-8666-015e2b16ccdc"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
 }

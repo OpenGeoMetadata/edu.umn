@@ -1,0 +1,68 @@
+{
+  "dct_title_s": "General Land Office Township Plat - Original Survey: Minnesota (T067N R15W), 1940",
+  "dct_alternative_sm": [
+    "Original Public Land Survey"
+  ],
+  "dct_description_sm": [
+    "Connections to International Boundary and Fragmentary Surveys, sections 20, 28, 29, 31, 32, 33; duplicate"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Washington D.C. Land Office"
+  ],
+  "dct_publisher_sm": [
+    "Minnesota Geospatial Information Office (MnGeo)"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Cadastral maps"
+  ],
+  "dct_subject_sm": [
+    "Surveying--Public lands"
+  ],
+  "dcat_keyword_sm": [
+    "PLSS, Public Land Survey System, PLS",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1940"
+  ],
+  "dct_issued_s": "1940",
+  "gbl_indexYear_im": [
+    "1940"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1940 TO 1940]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota",
+    "T067N-R15W",
+    "T067N-R015W"
+  ],
+  "locn_geometry": "POLYGON((-92.320 48.326, -92.190 48.326, -92.190 48.237, -92.320 48.237, -92.320 48.326))",
+  "dcat_bbox": "ENVELOPE(-92.320,-92.190,48.326,48.237)",
+  "dcat_centroid": "48.2815,-92.255",
+  "dct_relation_sm": [
+    "8888-003"
+  ],
+  "pcdm_memberOf_sm": [
+    "77f-0001"
+  ],
+  "dct_isPartOf_sm": [
+    "05a-03"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoJPEG",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://glorecords.blm.gov/results/default.aspx?searchCriteria=type=survey|st=MN|cty=|twp_nr=67|rng_nr=15|rng_dir=W\",\"http://schema.org/downloadUrl\":\"https://resources.gisdata.mn.gov/pub/data/basemaps/glo/St%20Louis/Georeferenced/t067r15w4fi03.zip\",\"http://schema.org/url\":\"http://www.mngeo.state.mn.us/glo/glo.php?township=67\\u0026range=15\"}",
+  "id": "t067r15w4fi03",
+  "dct_identifier_sm": [
+    "t067r15w4fi03",
+    "MN-T067N-R015W"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

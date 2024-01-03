@@ -44,9 +44,9 @@
   "dct_spatial_sm": [
     "Oman"
   ],
-  "locn_geometry": "POLYGON((58.55 23.65, 58.6301 23.65, 58.6301 23.6, 58.55 23.6, 58.55 23.65))",
-  "dcat_bbox": "ENVELOPE(58.55,58.6301,23.65,23.6)",
-  "dcat_centroid": "23.625,58.59005",
+  "locn_geometry": "POLYGON((58.550 23.650, 58.630 23.650, 58.630 23.600, 58.550 23.600, 58.550 23.650))",
+  "dcat_bbox": "ENVELOPE(58.550,58.630,23.650,23.600)",
+  "dcat_centroid": "23.625,58.59",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -59,11 +59,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:283\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/283/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/283/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:283\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/283/manifest.json\"}",
   "id": "p16022coll246:283",
   "dct_identifier_sm": [
     "UMN_ALMA:9973351677501701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

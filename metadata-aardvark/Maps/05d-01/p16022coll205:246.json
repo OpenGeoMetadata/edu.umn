@@ -40,9 +40,9 @@
     "England--Salford",
     "England"
   ],
-  "locn_geometry": "POLYGON((-2.31 53.5301, -2.1301 53.5301, -2.1301 53.33, -2.31 53.33, -2.31 53.5301))",
-  "dcat_bbox": "ENVELOPE(-2.31,-2.1301,53.5301,53.33)",
-  "dcat_centroid": "53.430049999999994,-2.22005",
+  "locn_geometry": "POLYGON((-2.310 53.530, -2.130 53.530, -2.130 53.330, -2.310 53.330, -2.310 53.530))",
+  "dcat_bbox": "ENVELOPE(-2.310,-2.130,53.530,53.330)",
+  "dcat_centroid": "53.43,-2.2199999999999998",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -55,11 +55,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:246\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/246/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/246/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:246\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/246/manifest.json\"}",
   "id": "p16022coll205:246",
   "dct_identifier_sm": [
     "UMN_ALMA:9957675310001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

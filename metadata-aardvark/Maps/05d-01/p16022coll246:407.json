@@ -39,9 +39,9 @@
     "India--Mahārāshtra",
     "India"
   ],
-  "locn_geometry": "POLYGON((68.4381 23.5671, 73.9261 23.5671, 73.9261 15.6597, 68.4381 15.6597, 68.4381 23.5671))",
-  "dcat_bbox": "ENVELOPE(68.4381,73.9261,23.5671,15.6597)",
-  "dcat_centroid": "19.6134,71.1821",
+  "locn_geometry": "POLYGON((68.438 23.567, 73.926 23.567, 73.926 15.660, 68.438 15.660, 68.438 23.567))",
+  "dcat_bbox": "ENVELOPE(68.438,73.926,23.567,15.660)",
+  "dcat_centroid": "19.613500000000002,71.182",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -54,11 +54,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:407\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/407/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/407/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:407\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/407/manifest.json\"}",
   "id": "p16022coll246:407",
   "dct_identifier_sm": [
     "UMN_ALMA:9974089900501700"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

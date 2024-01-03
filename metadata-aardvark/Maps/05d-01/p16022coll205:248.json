@@ -39,9 +39,9 @@
   "dct_spatial_sm": [
     "Nebraska--Grand Island"
   ],
-  "locn_geometry": "POLYGON((-98.4101 40.98, -98.28 40.98, -98.28 40.85, -98.4101 40.85, -98.4101 40.98))",
-  "dcat_bbox": "ENVELOPE(-98.4101,-98.28,40.98,40.85)",
-  "dcat_centroid": "40.915,-98.34505",
+  "locn_geometry": "POLYGON((-98.410 40.980, -98.280 40.980, -98.280 40.850, -98.410 40.850, -98.410 40.980))",
+  "dcat_bbox": "ENVELOPE(-98.410,-98.280,40.980,40.850)",
+  "dcat_centroid": "40.915,-98.345",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -54,11 +54,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:248\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/248/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/248/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:248\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/248/manifest.json\"}",
   "id": "p16022coll205:248",
   "dct_identifier_sm": [
     "UMN_ALMA:9916349410001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:44Z",
   "gbl_mdVersion_s": "Aardvark"
 }

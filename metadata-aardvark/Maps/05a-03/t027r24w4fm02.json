@@ -1,0 +1,66 @@
+{
+  "dct_title_s": "General Land Office Township Plat - Meander Survey: Minnesota (T027N R24W), 1854",
+  "dct_alternative_sm": [
+    "PLSS Meander Survey"
+  ],
+  "dct_description_sm": [
+    "Meanders continue on back"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "Minnesota Geospatial Information Office (MnGeo)"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Cadastral maps"
+  ],
+  "dct_subject_sm": [
+    "Surveying--Public lands"
+  ],
+  "dcat_keyword_sm": [
+    "land survey",
+    "surveyor",
+    "public land survey system",
+    "PLSS",
+    "pls"
+  ],
+  "dct_temporal_sm": [
+    "1854"
+  ],
+  "dct_issued_s": "1854",
+  "gbl_indexYear_im": [
+    "1854"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1854 TO 1854]"
+  ],
+  "dct_spatial_sm": [
+    " Minnesota--Hennepin County",
+    " Minnesota--Scott County",
+    "Minnesota",
+    "T027N-R024W"
+  ],
+  "locn_geometry": "POLYGON((-93.35066 44.86196229, -93.22738754 44.86196229, -93.22738754 44.77561242, -93.35066 44.77561242, -93.35066 44.86196229))",
+  "dcat_bbox": "ENVELOPE(-93.35066,-93.22738754,44.86196229,44.77561242)",
+  "dcat_centroid": "44.818787355,-93.28902377",
+  "dct_relation_sm": [
+    "8888-003"
+  ],
+  "pcdm_memberOf_sm": [
+    "77f-0001"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoJPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://resources.gisdata.mn.gov/pub/data/basemaps/glo/Hennepin/Georeferenced/t027r24w4fm02.zip\",\"http://www.w3.org/1999/xhtml\":\"https://resources.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mngeo/plan_glo_plat_maps_georef/metadata/metadata.html\",\"http://schema.org/url\":\"http://www.mngeo.state.mn.us/glo/glo.php?township=27\\u0026range=24\"}",
+  "id": "t027r24w4fm02",
+  "dct_identifier_sm": [
+    "t027r24w4fm02",
+    "MN-T027N-R024W"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

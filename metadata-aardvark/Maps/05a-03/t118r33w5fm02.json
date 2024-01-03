@@ -1,0 +1,65 @@
+{
+  "dct_title_s": "General Land Office Township Plat - Meander Survey: Minnesota (T118N R33W), 1884",
+  "dct_alternative_sm": [
+    "PLSS Meander Survey"
+  ],
+  "dct_description_sm": [
+    "Meanders continue on back"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "Minnesota Geospatial Information Office (MnGeo)"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Cadastral maps"
+  ],
+  "dct_subject_sm": [
+    "Surveying--Public lands"
+  ],
+  "dcat_keyword_sm": [
+    "land survey",
+    "surveyor",
+    "public land survey system",
+    "PLSS",
+    "pls"
+  ],
+  "dct_temporal_sm": [
+    "1884"
+  ],
+  "dct_issued_s": "1884",
+  "gbl_indexYear_im": [
+    "1884"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1884 TO 1884]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota",
+    "T118N-R33W",
+    "T118N-R033W"
+  ],
+  "locn_geometry": "POLYGON((-94.87986952 45.06642079, -94.75697727 45.06642079, -94.75697727 44.97942716, -94.87986952 44.97942716, -94.87986952 45.06642079))",
+  "dcat_bbox": "ENVELOPE(-94.87986952,-94.75697727,45.06642079,44.97942716)",
+  "dcat_centroid": "45.022923975,-94.818423395",
+  "dct_relation_sm": [
+    "8888-003"
+  ],
+  "pcdm_memberOf_sm": [
+    "77f-0001"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoJPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://resources.gisdata.mn.gov/pub/data/basemaps/glo/Kandiyohi/Georeferenced/t118r33w5fm02.zip\",\"http://www.w3.org/1999/xhtml\":\"https://resources.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mngeo/plan_glo_plat_maps_georef/metadata/metadata.html\",\"http://schema.org/url\":\"http://www.mngeo.state.mn.us/glo/glo.php?township=118\\u0026range=33\"}",
+  "id": "t118r33w5fm02",
+  "dct_identifier_sm": [
+    "t118r33w5fm02",
+    "MN-T118N-R033W"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

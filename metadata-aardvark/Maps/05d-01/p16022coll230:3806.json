@@ -38,9 +38,9 @@
     "Timor-Leste",
     "Asia"
   ],
-  "locn_geometry": "POLYGON((140.0 -0.3333, 156.3333 -0.3333, 156.3333 -11.0, 140.0 -11.0, 140.0 -0.3333))",
-  "dcat_bbox": "ENVELOPE(140.0,156.3333,-0.3333,-11.0)",
-  "dcat_centroid": "-5.66665,148.16665",
+  "locn_geometry": "POLYGON((140.000 -0.333, 156.333 -0.333, 156.333 -11.000, 140.000 -11.000, 140.000 -0.333))",
+  "dcat_bbox": "ENVELOPE(140.000,156.333,-0.333,-11.000)",
+  "dcat_centroid": "-5.6665,148.16649999999998",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3806\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3806/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3806/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3806\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3806/manifest.json\"}",
   "id": "p16022coll230:3806",
   "dct_identifier_sm": [
     "UMN_ALMA:9975626084101701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

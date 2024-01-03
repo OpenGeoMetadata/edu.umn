@@ -39,9 +39,9 @@
     "Czech Republic",
     "Europe"
   ],
-  "locn_geometry": "POLYGON((14.2242 50.1772, 14.7067 50.1772, 14.7067 49.9417, 14.2242 49.9417, 14.2242 50.1772))",
-  "dcat_bbox": "ENVELOPE(14.2242,14.7067,50.1772,49.9417)",
-  "dcat_centroid": "50.05945,14.46545",
+  "locn_geometry": "POLYGON((14.224 50.177, 14.707 50.177, 14.707 49.942, 14.224 49.942, 14.224 50.177))",
+  "dcat_bbox": "ENVELOPE(14.224,14.707,50.177,49.942)",
+  "dcat_centroid": "50.0595,14.4655",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -54,11 +54,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:739\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/739/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/739/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:739\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/739/manifest.json\"}",
   "id": "p16022coll205:739",
   "dct_identifier_sm": [
     "UMN_ALMA:9924332650001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

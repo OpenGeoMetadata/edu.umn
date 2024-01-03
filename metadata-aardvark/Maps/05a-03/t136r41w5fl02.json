@@ -1,0 +1,68 @@
+{
+  "dct_title_s": "General Land Office Township Plat - Islands Survey: Minnesota (T136N R41W), 1965",
+  "dct_alternative_sm": [
+    "PLSS Islands Survey"
+  ],
+  "dct_description_sm": [
+    "Section 5; duplicate; sheet 2 of 2; note says 'additional copies in lower drawer'; 12 copies in drawer 27"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Washington D.C. Land Office"
+  ],
+  "dct_publisher_sm": [
+    "Minnesota Geospatial Information Office (MnGeo)"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Cadastral maps"
+  ],
+  "dct_subject_sm": [
+    "Surveying--Public lands"
+  ],
+  "dcat_keyword_sm": [
+    "PLSS, Public Land Survey System, PLS",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1965"
+  ],
+  "dct_issued_s": "1965",
+  "gbl_indexYear_im": [
+    "1965"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1965 TO 1965]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota",
+    "T136N-R41W",
+    "T136N-R041W"
+  ],
+  "locn_geometry": "POLYGON((-95.906 46.630, -95.781 46.630, -95.781 46.542, -95.906 46.542, -95.906 46.630))",
+  "dcat_bbox": "ENVELOPE(-95.906,-95.781,46.630,46.542)",
+  "dcat_centroid": "46.586,-95.8435",
+  "dct_relation_sm": [
+    "8888-003"
+  ],
+  "pcdm_memberOf_sm": [
+    "77f-0001"
+  ],
+  "dct_isPartOf_sm": [
+    "05a-03"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoJPEG",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://glorecords.blm.gov/results/default.aspx?searchCriteria=type=survey|st=MN|cty=|twp_nr=136|rng_nr=41|rng_dir=W\",\"http://schema.org/downloadUrl\":\"https://resources.gisdata.mn.gov/pub/data/basemaps/glo/Otter%20Tail/Georeferenced/t136r41w5fl02.zip\",\"http://schema.org/url\":\"http://www.mngeo.state.mn.us/glo/glo.php?township=136\\u0026range=41\"}",
+  "id": "t136r41w5fl02",
+  "dct_identifier_sm": [
+    "t136r41w5fl02",
+    "MN-T136N-R041W"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

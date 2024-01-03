@@ -1,0 +1,57 @@
+{
+  "dct_title_s": "Minneapolis Black Population 1940",
+  "dct_description_sm": [
+    "This map was made using data from the Mapping Prejudice Project, Hennepin County, and IPUMS USA"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Mapping Prejudice Project",
+    "Mills, Marguerite"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Minneapolis",
+    "demographics",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1940"
+  ],
+  "dct_issued_s": "2020",
+  "gbl_indexYear_im": [
+    "1940"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1940 TO 1940]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota--Minneapolis",
+    "Minnesota"
+  ],
+  "locn_geometry": "POLYGON((-93.329 45.051, -93.194 45.051, -93.194 44.890, -93.329 44.890, -93.329 45.051))",
+  "dcat_bbox": "ENVELOPE(-93.329,-93.194,45.051,44.890)",
+  "dcat_centroid": "44.9705,-93.2615",
+  "pcdm_memberOf_sm": [
+    "dc8c18df-7d64-4ff4-a754-d18d0891187d"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-12",
+    "05d-3"
+  ],
+  "dct_rights_sm": [
+    "Content distributed via the University of Minnesota's Digital Conservancy may be subject to additional license and use restrictions applied by the depositor."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PNG or PDF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://conservancy.umn.edu/handle/11299/217476\",\"http://schema.org/downloadUrl\":[{\"label\":\"PNG\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/217476/MinneapolisBlackPopulation1940.png\"},{\"label\":\"PDF\",\"url\":\"https://conservancy.umn.edu/bitstream/handle/11299/217476/MinneapolisBlackPopulation1940.pdf\"}]}",
+  "id": "e31e43e1-b385-4782-8c8b-04e49ea48911",
+  "dct_identifier_sm": [
+    "https://hdl.handle.net/11299/217476"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

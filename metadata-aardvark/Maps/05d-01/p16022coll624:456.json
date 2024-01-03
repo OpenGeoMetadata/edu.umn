@@ -8,7 +8,7 @@
     "45 x 57 centimeters"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_creator_sm": [
     "United States. Soil Conservation Service"
@@ -38,9 +38,9 @@
     "Georgia--Putnam County",
     "Georgia"
   ],
-  "locn_geometry": "POLYGON((-83.5 33.416667, -83.166667 33.416667, -83.166667 33.166667, -83.5 33.166667, -83.5 33.416667))",
-  "dcat_bbox": "ENVELOPE(-83.5,-83.166667,33.416667,33.166667)",
-  "dcat_centroid": "33.291667,-83.33333350000001",
+  "locn_geometry": "POLYGON((-83.500 33.417, -83.167 33.417, -83.167 33.167, -83.500 33.167, -83.500 33.417))",
+  "dcat_bbox": "ENVELOPE(-83.500,-83.167,33.417,33.167)",
+  "dcat_centroid": "33.292,-83.3335",
   "pcdm_memberOf_sm": [
     "2787a9e8-0bef-452e-9e5f-e83042c193b4",
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/456/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:456\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/456/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/456/filename/print/page/download/fparams/forcedownload\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll624/456/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:456\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/456/manifest.json\"}",
   "id": "p16022coll624:456",
   "dct_identifier_sm": [
     "UMN_ALMA:9962220530001701"
   ],
-  "gbl_mdModified_dt": "2023-06-16T21:58:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

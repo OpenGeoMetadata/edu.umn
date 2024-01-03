@@ -34,9 +34,9 @@
     "India-- Pondicherry--Pondicherri",
     "India"
   ],
-  "locn_geometry": "POLYGON((79.7839 11.9796, 79.8499 11.9796, 79.8499 11.9031, 79.7839 11.9031, 79.7839 11.9796))",
-  "dcat_bbox": "ENVELOPE(79.7839,79.8499,11.9796,11.9031)",
-  "dcat_centroid": "11.94135,79.8169",
+  "locn_geometry": "POLYGON((79.784 11.980, 79.850 11.980, 79.850 11.903, 79.784 11.903, 79.784 11.980))",
+  "dcat_bbox": "ENVELOPE(79.784,79.850,11.980,11.903)",
+  "dcat_centroid": "11.941500000000001,79.81700000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,11 +49,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:116\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/116/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/116/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:116\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/116/manifest.json\"}",
   "id": "p16022coll246:116",
   "dct_identifier_sm": [
     "UMN_ALMA:9926855250001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

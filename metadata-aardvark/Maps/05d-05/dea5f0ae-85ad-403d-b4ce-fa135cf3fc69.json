@@ -1,29 +1,57 @@
 {
-  "geoblacklight_version": "1.0",
-  "dc_identifier_s": "dea5f0ae-85ad-403d-b4ce-fa135cf3fc69",
-  "dc_rights_s": "Public",
-  "dc_title_s": "Geologic atlas of Todd County, Minnesota, C-18, Part A, Plate 1, Data Base",
-  "dct_provenance_s": "University of Minnesota",
-  "layer_slug_s": "dea5f0ae-85ad-403d-b4ce-fa135cf3fc69",
-  "solr_geom": "ENVELOPE(-95.1563,-94.6419,46.3708,45.7744)",
-  "solr_year_i": "2007",
-  "dc_creator_sm": [
+  "dct_title_s": "Geologic atlas of Todd County, Minnesota, C-18, Part A, Plate 1, Data Base",
+  "dct_description_sm": [
+    "Map showing locations of water wells, soil borings, outcrops and cuttings samples collected during water well drilling.  Distribution and sources of primary information tthat guide the geologic interpretations used to make the geologic maps in the series,  scale 1:100,000, Todd County."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
     "Bauer, Emily J.",
     "Setterholm, Dale R."
   ],
-  "dc_description_s": "Map showing locations of water wells, soil borings, outcrops and cuttings samples collected during water well drilling.  Distribution and sources of primary information tthat guide the geologic interpretations used to make the geologic maps in the series,  scale 1:100,000, Todd County.",
-  "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22366.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/766/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:766\"}",
+  "dct_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "dct_issued_s": "2007",
+  "gbl_indexYear_im": [
+    "2007"
+  ],
+  "gbl_dateRange_drsim": [
+    "[2007 TO 2007]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:56Z",
-  "dc_language_sm": [
-    "eng"
+  "locn_geometry": "POLYGON((-95.156 46.371, -94.642 46.371, -94.642 45.774, -95.156 45.774, -95.156 46.371))",
+  "dcat_bbox": "ENVELOPE(-95.156,-94.642,46.371,45.774)",
+  "dcat_centroid": "46.072500000000005,-94.899",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
-  "dc_publisher_s": "Minnesota Geological Survey",
-  "dct_issued_s": "2007",
-  "dct_temporal_sm": [
-    "2007"
-  ]
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22366.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/766/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:766\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/766/manifest.json\"}",
+  "id": "dea5f0ae-85ad-403d-b4ce-fa135cf3fc69",
+  "dct_identifier_sm": [
+    "dea5f0ae-85ad-403d-b4ce-fa135cf3fc69"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
 }

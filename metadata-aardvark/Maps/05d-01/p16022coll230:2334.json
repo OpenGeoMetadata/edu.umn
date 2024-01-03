@@ -36,9 +36,9 @@
     "Idaho",
     "Boise National Forest"
   ],
-  "locn_geometry": "POLYGON((-116.282 44.4383, -114.9672 44.4383, -114.9672 43.4894, -116.282 43.4894, -116.282 44.4383))",
-  "dcat_bbox": "ENVELOPE(-116.282,-114.9672,44.4383,43.4894)",
-  "dcat_centroid": "43.96385,-115.6246",
+  "locn_geometry": "POLYGON((-116.282 44.438, -114.967 44.438, -114.967 43.489, -116.282 43.489, -116.282 44.438))",
+  "dcat_bbox": "ENVELOPE(-116.282,-114.967,44.438,43.489)",
+  "dcat_centroid": "43.963499999999996,-115.6245",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2334\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2334/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2334/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2334\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2334/manifest.json\"}",
   "id": "p16022coll230:2334",
   "dct_identifier_sm": [
     "UMN_ALMA:9974836504501701"
   ],
-  "gbl_mdModified_dt": "2023-06-23T18:47:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -33,9 +33,9 @@
   "dct_spatial_sm": [
     "Montana"
   ],
-  "locn_geometry": "POLYGON((-107.4544444 45.58694444, -107.3952778 45.58694444, -107.3952778 45.5475, -107.4544444 45.5475, -107.4544444 45.58694444))",
-  "dcat_bbox": "ENVELOPE(-107.4544444,-107.3952778,45.58694444,45.5475)",
-  "dcat_centroid": "45.567222220000005,-107.4248611",
+  "locn_geometry": "POLYGON((-107.454 45.587, -107.395 45.587, -107.395 45.547, -107.454 45.547, -107.454 45.587))",
+  "dcat_bbox": "ENVELOPE(-107.454,-107.395,45.587,45.547)",
+  "dcat_centroid": "45.567,-107.4245",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -48,11 +48,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4192\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4192/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4192/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4192\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4192/manifest.json\"}",
   "id": "p16022coll230:4192",
   "dct_identifier_sm": [
     "UMN_ALMA:9976470496001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

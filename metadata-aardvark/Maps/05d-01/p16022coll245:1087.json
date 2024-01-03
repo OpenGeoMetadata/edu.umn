@@ -37,9 +37,9 @@
     "Hennepin County",
     "Ramsey County"
   ],
-  "locn_geometry": "POLYGON((-93.32888889 45.01305556, -93.22638889 45.01305556, -93.22638889 44.91222222, -93.32888889 44.91222222, -93.32888889 45.01305556))",
-  "dcat_bbox": "ENVELOPE(-93.32888889,-93.22638889,45.01305556,44.91222222)",
-  "dcat_centroid": "44.962638889999994,-93.27763888999999",
+  "locn_geometry": "POLYGON((-93.329 45.013, -93.226 45.013, -93.226 44.912, -93.329 44.912, -93.329 45.013))",
+  "dcat_bbox": "ENVELOPE(-93.329,-93.226,45.013,44.912)",
+  "dcat_centroid": "44.9625,-93.2775",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:1087\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/1087/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll245/1087/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:1087\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/1087/manifest.json\"}",
   "id": "p16022coll245:1087",
   "dct_identifier_sm": [
     "UMN_ALMA:9978301839901701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

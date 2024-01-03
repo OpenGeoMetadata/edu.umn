@@ -9,7 +9,7 @@
     "Scale 1:100,000"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_creator_sm": [
     "United States. Soil Conservation Service"
@@ -39,9 +39,9 @@
     "Illinois--Kane County",
     "Illinois"
   ],
-  "locn_geometry": "POLYGON((-88.602566 42.154249, -88.238186 42.154249, -88.238186 41.719563, -88.602566 41.719563, -88.602566 42.154249))",
-  "dcat_bbox": "ENVELOPE(-88.602566,-88.238186,42.154249,41.719563)",
-  "dcat_centroid": "41.936906,-88.420376",
+  "locn_geometry": "POLYGON((-88.603 42.154, -88.238 42.154, -88.238 41.720, -88.603 41.720, -88.603 42.154))",
+  "dcat_bbox": "ENVELOPE(-88.603,-88.238,42.154,41.720)",
+  "dcat_centroid": "41.937,-88.4205",
   "pcdm_memberOf_sm": [
     "2787a9e8-0bef-452e-9e5f-e83042c193b4",
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -54,11 +54,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/268/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:268\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/268/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/268/filename/print/page/download/fparams/forcedownload\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll624/268/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:268\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/268/manifest.json\"}",
   "id": "p16022coll624:268",
   "dct_identifier_sm": [
     "UMN_ALMA:9912731700001701"
   ],
-  "gbl_mdModified_dt": "2023-06-16T21:58:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

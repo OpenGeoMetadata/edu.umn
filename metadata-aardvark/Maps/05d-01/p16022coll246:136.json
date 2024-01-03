@@ -39,9 +39,9 @@
     "Bangladesh--Mymensingh",
     "Bangladesh"
   ],
-  "locn_geometry": "POLYGON((89.6533 25.4067, 91.2229 25.4067, 91.2229 23.7737, 89.6533 23.7737, 89.6533 25.4067))",
-  "dcat_bbox": "ENVELOPE(89.6533,91.2229,25.4067,23.7737)",
-  "dcat_centroid": "24.590200000000003,90.43809999999999",
+  "locn_geometry": "POLYGON((89.653 25.407, 91.223 25.407, 91.223 23.774, 89.653 23.774, 89.653 25.407))",
+  "dcat_bbox": "ENVELOPE(89.653,91.223,25.407,23.774)",
+  "dcat_centroid": "24.5905,90.438",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -54,11 +54,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:136\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/136/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/136/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:136\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/136/manifest.json\"}",
   "id": "p16022coll246:136",
   "dct_identifier_sm": [
     "UMN_ALMA:9974125566601700"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

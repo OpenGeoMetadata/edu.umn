@@ -39,9 +39,9 @@
     "Minnesota--Hennepin County",
     "Minnesota"
   ],
-  "locn_geometry": "POLYGON((-93.7678 45.2466, -93.1757 45.2466, -93.1757 44.7853, -93.7678 44.7853, -93.7678 45.2466))",
-  "dcat_bbox": "ENVELOPE(-93.7678,-93.1757,45.2466,44.7853)",
-  "dcat_centroid": "45.015950000000004,-93.47175",
+  "locn_geometry": "POLYGON((-93.768 45.247, -93.176 45.247, -93.176 44.785, -93.768 44.785, -93.768 45.247))",
+  "dcat_bbox": "ENVELOPE(-93.768,-93.176,45.247,44.785)",
+  "dcat_centroid": "45.016,-93.47200000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -54,11 +54,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:57\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/57/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/57/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:57\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/57/manifest.json\"}",
   "id": "p16022coll231:57",
   "dct_identifier_sm": [
     "UMN_ALMA:9949134800001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

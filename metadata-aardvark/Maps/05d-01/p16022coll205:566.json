@@ -34,9 +34,9 @@
   "dct_spatial_sm": [
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-80.001522 41.953979, -79.970458 41.953979, -79.970458 41.927348, -80.001522 41.927348, -80.001522 41.953979))",
-  "dcat_bbox": "ENVELOPE(-80.001522,-79.970458,41.953979,41.927348)",
-  "dcat_centroid": "41.9406635,-79.98598999999999",
+  "locn_geometry": "POLYGON((-80.002 41.954, -79.970 41.954, -79.970 41.927, -80.002 41.927, -80.002 41.954))",
+  "dcat_bbox": "ENVELOPE(-80.002,-79.970,41.954,41.927)",
+  "dcat_centroid": "41.9405,-79.98599999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,11 +49,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:566\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/566/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/566/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:566\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/566/manifest.json\"}",
   "id": "p16022coll205:566",
   "dct_identifier_sm": [
     "UMN_ALMA:9951370520001701"
   ],
-  "gbl_mdModified_dt": "2023-06-23T18:47:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

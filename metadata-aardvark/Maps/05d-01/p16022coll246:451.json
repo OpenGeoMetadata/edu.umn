@@ -36,8 +36,8 @@
     "India",
     "Pakistan"
   ],
-  "locn_geometry": "POLYGON((77.75 28, 83.5 28, 83.5 24.25, 77.75 24.25, 77.75 28))",
-  "dcat_bbox": "ENVELOPE(77.75,83.5,28,24.25)",
+  "locn_geometry": "POLYGON((77.750 28.000, 83.500 28.000, 83.500 24.250, 77.750 24.250, 77.750 28.000))",
+  "dcat_bbox": "ENVELOPE(77.750,83.500,28.000,24.250)",
   "dcat_centroid": "26.125,80.625",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:451\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/451/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/451/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:451\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/451/manifest.json\"}",
   "id": "p16022coll246:451",
   "dct_identifier_sm": [
     "UMN_ALMA:9974347671901701"
   ],
-  "gbl_mdModified_dt": "2023-06-23T18:47:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

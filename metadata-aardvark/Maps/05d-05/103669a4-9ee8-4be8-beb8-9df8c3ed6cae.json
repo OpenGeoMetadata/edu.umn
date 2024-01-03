@@ -1,29 +1,57 @@
 {
-  "geoblacklight_version": "1.0",
-  "dc_identifier_s": "103669a4-9ee8-4be8-beb8-9df8c3ed6cae",
-  "dc_rights_s": "Public",
-  "dc_title_s": "Geology of Isaac Lake quadrangle, St Louis County, Minnesota, SP-8, Plate 1",
-  "dct_provenance_s": "University of Minnesota",
-  "layer_slug_s": "103669a4-9ee8-4be8-beb8-9df8c3ed6cae",
-  "solr_geom": "ENVELOPE(-93.0966,-91.7893,48.63,46.6507)",
-  "solr_year_i": "1969",
-  "dc_creator_sm": [
+  "dct_title_s": "Geology of Isaac Lake quadrangle, St Louis County, Minnesota, SP-8, Plate 1",
+  "dct_description_sm": [
+    "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Isaac Lake Quadrangle, St. Louis County, Minnesota, scale 1:24,000."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
     "Griffin, William L.",
     "Morey, G.B."
   ],
-  "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Isaac Lake Quadrangle, St. Louis County, Minnesota, scale 1:24,000.",
-  "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23396.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/915/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:915\"}",
+  "dct_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1969"
+  ],
+  "dct_issued_s": "1969",
+  "gbl_indexYear_im": [
+    "1969"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1969 TO 1969]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:19:06Z",
-  "dc_language_sm": [
-    "eng"
+  "locn_geometry": "POLYGON((-93.097 48.630, -91.789 48.630, -91.789 46.651, -93.097 46.651, -93.097 48.630))",
+  "dcat_bbox": "ENVELOPE(-93.097,-91.789,48.630,46.651)",
+  "dcat_centroid": "47.6405,-92.443",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
-  "dc_publisher_s": "Minnesota Geological Survey",
-  "dct_issued_s": "1969",
-  "dct_temporal_sm": [
-    "1969"
-  ]
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23396.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/915/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:915\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/915/manifest.json\"}",
+  "id": "103669a4-9ee8-4be8-beb8-9df8c3ed6cae",
+  "dct_identifier_sm": [
+    "103669a4-9ee8-4be8-beb8-9df8c3ed6cae"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
 }

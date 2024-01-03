@@ -34,9 +34,9 @@
   "dct_spatial_sm": [
     "Oaxaca"
   ],
-  "locn_geometry": "POLYGON((-98.55 18.6667, -93.8667 18.6667, -93.8667 15.65, -98.55 15.65, -98.55 18.6667))",
-  "dcat_bbox": "ENVELOPE(-98.55,-93.8667,18.6667,15.65)",
-  "dcat_centroid": "17.15835,-96.20835",
+  "locn_geometry": "POLYGON((-98.550 18.667, -93.867 18.667, -93.867 15.650, -98.550 15.650, -98.550 18.667))",
+  "dcat_bbox": "ENVELOPE(-98.550,-93.867,18.667,15.650)",
+  "dcat_centroid": "17.1585,-96.2085",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,11 +49,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2774\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2774/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2774/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2774\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2774/manifest.json\"}",
   "id": "p16022coll230:2774",
   "dct_identifier_sm": [
     "UMN_ALMA:9943456210001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

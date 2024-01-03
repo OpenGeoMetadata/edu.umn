@@ -1,28 +1,56 @@
 {
-  "geoblacklight_version": "1.0",
-  "dc_identifier_s": "a5f5f9ee-eeda-47a7-a3a0-4a0a26f8a576",
-  "dc_rights_s": "Public",
-  "dc_title_s": "Geologic map of the Sherry Lake quadrangle, Itasca County, Minnesota, M-64",
-  "dct_provenance_s": "University of Minnesota",
-  "layer_slug_s": "a5f5f9ee-eeda-47a7-a3a0-4a0a26f8a576",
-  "solr_geom": "ENVELOPE(-94.4202,-93.056,47.9022,47.0263)",
-  "solr_year_i": "1988",
-  "dc_creator_sm": [
+  "dct_title_s": "Geologic map of the Sherry Lake quadrangle, Itasca County, Minnesota, M-64",
+  "dct_description_sm": [
+    "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Sherry Lake quadrangle, scale 1:24,000."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
     "Jirsa, Mark A."
   ],
-  "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Sherry Lake quadrangle, scale 1:24,000.",
-  "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22458.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/947/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:947\"}",
+  "dct_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1988"
+  ],
+  "dct_issued_s": "1988",
+  "gbl_indexYear_im": [
+    "1988"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1988 TO 1988]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:19:01Z",
-  "dc_language_sm": [
-    "eng"
+  "locn_geometry": "POLYGON((-94.420 47.902, -93.056 47.902, -93.056 47.026, -94.420 47.026, -94.420 47.902))",
+  "dcat_bbox": "ENVELOPE(-94.420,-93.056,47.902,47.026)",
+  "dcat_centroid": "47.464,-93.738",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
-  "dc_publisher_s": "Minnesota Geological Survey",
-  "dct_issued_s": "1988",
-  "dct_temporal_sm": [
-    "1988"
-  ]
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22458.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/947/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:947\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/947/manifest.json\"}",
+  "id": "a5f5f9ee-eeda-47a7-a3a0-4a0a26f8a576",
+  "dct_identifier_sm": [
+    "a5f5f9ee-eeda-47a7-a3a0-4a0a26f8a576"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
 }

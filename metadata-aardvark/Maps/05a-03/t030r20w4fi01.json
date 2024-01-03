@@ -1,0 +1,65 @@
+{
+  "dct_title_s": "General Land Office Township Plat - Original Survey: Minnesota (T030N R20W), 1848",
+  "dct_alternative_sm": [
+    "Original Public Land Survey"
+  ],
+  "dct_description_sm": [
+    "Same as ID636, unsigned, may be a copy"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "Minnesota Geospatial Information Office (MnGeo)"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Cadastral maps"
+  ],
+  "dct_subject_sm": [
+    "Surveying--Public lands"
+  ],
+  "dcat_keyword_sm": [
+    "land survey",
+    "surveyor",
+    "public land survey system",
+    "PLSS",
+    "pls"
+  ],
+  "dct_temporal_sm": [
+    "1848"
+  ],
+  "dct_issued_s": "1848",
+  "gbl_indexYear_im": [
+    "1848"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1848 TO 1848]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota",
+    "T030N-R20W",
+    "T030N-R020W"
+  ],
+  "locn_geometry": "POLYGON((-92.86379282 45.1235987, -92.74031091 45.1235987, -92.74031091 45.03556739, -92.86379282 45.03556739, -92.86379282 45.1235987))",
+  "dcat_bbox": "ENVELOPE(-92.86379282,-92.74031091,45.1235987,45.03556739)",
+  "dcat_centroid": "45.079583045,-92.80205186500001",
+  "dct_relation_sm": [
+    "8888-003"
+  ],
+  "pcdm_memberOf_sm": [
+    "77f-0001"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoJPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://resources.gisdata.mn.gov/pub/data/basemaps/glo/Washington/Georeferenced/t030r20w4fi01.zip\",\"http://www.w3.org/1999/xhtml\":\"https://resources.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mngeo/plan_glo_plat_maps_georef/metadata/metadata.html\",\"http://schema.org/url\":\"http://www.mngeo.state.mn.us/glo/glo.php?township=30\\u0026range=20\"}",
+  "id": "t030r20w4fi01",
+  "dct_identifier_sm": [
+    "t030r20w4fi01",
+    "MN-T030N-R020W"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

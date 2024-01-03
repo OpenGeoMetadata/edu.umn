@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "Colorado--Colorado Springs"
   ],
-  "locn_geometry": "POLYGON((-104.875 38.8944, -104.7917 38.8944, -104.7917 38.8167, -104.875 38.8167, -104.875 38.8944))",
-  "dcat_bbox": "ENVELOPE(-104.875,-104.7917,38.8944,38.8167)",
-  "dcat_centroid": "38.855549999999994,-104.83335",
+  "locn_geometry": "POLYGON((-104.875 38.894, -104.792 38.894, -104.792 38.817, -104.875 38.817, -104.875 38.894))",
+  "dcat_bbox": "ENVELOPE(-104.875,-104.792,38.894,38.817)",
+  "dcat_centroid": "38.8555,-104.8335",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:654\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/654/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/654/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:654\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/654/manifest.json\"}",
   "id": "p16022coll205:654",
   "dct_identifier_sm": [
     "UMN_ALMA:9974047005301701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

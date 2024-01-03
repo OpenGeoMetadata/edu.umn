@@ -39,9 +39,9 @@
   "dct_spatial_sm": [
     "North Carolina--Fort Fisher"
   ],
-  "locn_geometry": "POLYGON((-77.9301 33.98, -77.9 33.98, -77.9 33.95, -77.9301 33.95, -77.9301 33.98))",
-  "dcat_bbox": "ENVELOPE(-77.9301,-77.9,33.98,33.95)",
-  "dcat_centroid": "33.965,-77.91505000000001",
+  "locn_geometry": "POLYGON((-77.930 33.980, -77.900 33.980, -77.900 33.950, -77.930 33.950, -77.930 33.980))",
+  "dcat_bbox": "ENVELOPE(-77.930,-77.900,33.980,33.950)",
+  "dcat_centroid": "33.965,-77.915",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -54,11 +54,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:505\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/505/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/505/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:505\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/505/manifest.json\"}",
   "id": "p16022coll230:505",
   "dct_identifier_sm": [
     "UMN_ALMA:9963825820001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

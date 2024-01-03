@@ -1,0 +1,68 @@
+{
+  "dct_title_s": "General Land Office Township Plat - Original Survey: Minnesota (T116N R21W), 1855",
+  "dct_alternative_sm": [
+    "Original Public Land Survey"
+  ],
+  "dct_description_sm": [
+    "Same area as ID1433."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Dubuque Land Office"
+  ],
+  "dct_publisher_sm": [
+    "Minnesota Geospatial Information Office (MnGeo)"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Cadastral maps"
+  ],
+  "dct_subject_sm": [
+    "Surveying--Public lands"
+  ],
+  "dcat_keyword_sm": [
+    "PLSS, Public Land Survey System, PLS",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1855"
+  ],
+  "dct_issued_s": "1855",
+  "gbl_indexYear_im": [
+    "1855"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1855 TO 1855]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota",
+    "T116N-R21W",
+    "T116N-R021W"
+  ],
+  "locn_geometry": "POLYGON((-93.39960263 44.89163852, -93.35006198 44.89163852, -93.35006198 44.80417519, -93.39960263 44.80417519, -93.39960263 44.89163852))",
+  "dcat_bbox": "ENVELOPE(-93.39960263,-93.35006198,44.89163852,44.80417519)",
+  "dcat_centroid": "44.847906855000005,-93.37483230500001",
+  "dct_relation_sm": [
+    "8888-003"
+  ],
+  "pcdm_memberOf_sm": [
+    "77f-0001"
+  ],
+  "dct_isPartOf_sm": [
+    "05a-03"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoJPEG",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://glorecords.blm.gov/results/default.aspx?searchCriteria=type=survey|st=MN|cty=|twp_nr=116|rng_nr=21|rng_dir=W\",\"http://schema.org/downloadUrl\":\"https://resources.gisdata.mn.gov/pub/data/basemaps/glo/Hennepin/Georeferenced/t116r21w5fi02.zip\",\"http://schema.org/url\":\"http://www.mngeo.state.mn.us/glo/glo.php?township=116\\u0026range=21\"}",
+  "id": "t116r21w5fi02",
+  "dct_identifier_sm": [
+    "t116r21w5fi02",
+    "MN-T116N-R021W"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

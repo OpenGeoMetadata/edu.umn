@@ -1,28 +1,56 @@
 {
-  "geoblacklight_version": "1.0",
-  "dc_identifier_s": "b7f13787-e936-4ca8-a6a2-6a0ab7a2f061",
-  "dc_rights_s": "Public",
-  "dc_title_s": "Reconnaissance geologic map of Beth Lake quadrangle, Cook County, Minnesota, M-26",
-  "dct_provenance_s": "University of Minnesota",
-  "layer_slug_s": "b7f13787-e936-4ca8-a6a2-6a0ab7a2f061",
-  "solr_geom": "ENVELOPE(-91.0311,-89.5,48.2462,47.4597)",
-  "solr_year_i": "1977",
-  "dc_creator_sm": [
+  "dct_title_s": "Reconnaissance geologic map of Beth Lake quadrangle, Cook County, Minnesota, M-26",
+  "dct_description_sm": [
+    "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Beth Lake quadrangle, scale 1:24,000."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
     "Davidson, D.M., Jr."
   ],
-  "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Beth Lake quadrangle, scale 1:24,000.",
-  "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22405.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/797/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:797\"}",
+  "dct_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1977"
+  ],
+  "dct_issued_s": "1977",
+  "gbl_indexYear_im": [
+    "1977"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1977 TO 1977]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:24:17Z",
-  "dc_language_sm": [
-    "eng"
+  "locn_geometry": "POLYGON((-91.031 48.246, -89.500 48.246, -89.500 47.460, -91.031 47.460, -91.031 48.246))",
+  "dcat_bbox": "ENVELOPE(-91.031,-89.500,48.246,47.460)",
+  "dcat_centroid": "47.853,-90.2655",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
-  "dc_publisher_s": "Minnesota Geological Survey",
-  "dct_issued_s": "1977",
-  "dct_temporal_sm": [
-    "1977"
-  ]
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22405.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/797/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:797\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/797/manifest.json\"}",
+  "id": "b7f13787-e936-4ca8-a6a2-6a0ab7a2f061",
+  "dct_identifier_sm": [
+    "b7f13787-e936-4ca8-a6a2-6a0ab7a2f061"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
 }

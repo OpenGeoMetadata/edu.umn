@@ -31,9 +31,9 @@
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "locn_geometry": "POLYGON((-97.24 49.0379, -90.5164 49.0379, -90.5164 43.3472, -97.24 43.3472, -97.24 49.0379))",
-  "dcat_bbox": "ENVELOPE(-97.24,-90.5164,49.0379,43.3472)",
-  "dcat_centroid": "46.19255,-93.87819999999999",
+  "locn_geometry": "POLYGON((-97.240 49.038, -90.516 49.038, -90.516 43.347, -97.240 43.347, -97.240 49.038))",
+  "dcat_bbox": "ENVELOPE(-97.240,-90.516,49.038,43.347)",
+  "dcat_centroid": "46.192499999999995,-93.878",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -43,8 +43,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:280\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/280/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/280/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:280\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/280/manifest.json\"}",
   "id": "p16022coll247:280",
-  "gbl_mdModified_dt": "2023-02-07T18:33:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

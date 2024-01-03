@@ -1,0 +1,68 @@
+{
+  "dct_title_s": "General Land Office Township Plat - Islands Survey: Minnesota (T118N R30W), 1929",
+  "dct_alternative_sm": [
+    "PLSS Islands Survey"
+  ],
+  "dct_description_sm": [
+    "Erie Lake, Sections 23 and 26; duplicate"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Washington D.C. Land Office"
+  ],
+  "dct_publisher_sm": [
+    "Minnesota Geospatial Information Office (MnGeo)"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Cadastral maps"
+  ],
+  "dct_subject_sm": [
+    "Surveying--Public lands"
+  ],
+  "dcat_keyword_sm": [
+    "PLSS, Public Land Survey System, PLS",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1929"
+  ],
+  "dct_issued_s": "1929",
+  "gbl_indexYear_im": [
+    "1929"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1929 TO 1929]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota",
+    "T118N-R30W",
+    "T118N-R030W"
+  ],
+  "locn_geometry": "POLYGON((-94.502 45.066, -94.378 45.066, -94.378 44.979, -94.502 44.979, -94.502 45.066))",
+  "dcat_bbox": "ENVELOPE(-94.502,-94.378,45.066,44.979)",
+  "dcat_centroid": "45.0225,-94.44",
+  "dct_relation_sm": [
+    "8888-003"
+  ],
+  "pcdm_memberOf_sm": [
+    "77f-0001"
+  ],
+  "dct_isPartOf_sm": [
+    "05a-03"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoJPEG",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://glorecords.blm.gov/results/default.aspx?searchCriteria=type=survey|st=MN|cty=|twp_nr=118|rng_nr=30|rng_dir=W\",\"http://schema.org/downloadUrl\":\"https://resources.gisdata.mn.gov/pub/data/basemaps/glo/Meeker/Georeferenced/t118r30w5fl04.zip\",\"http://schema.org/url\":\"http://www.mngeo.state.mn.us/glo/glo.php?township=118\\u0026range=30\"}",
+  "id": "t118r30w5fl04",
+  "dct_identifier_sm": [
+    "t118r30w5fl04",
+    "MN-T118N-R030W"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

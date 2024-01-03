@@ -34,9 +34,9 @@
     "Azores",
     "Europe"
   ],
-  "locn_geometry": "POLYGON((-31.3233 39.7519, -31.0444 39.7519, -31.0444 39.3336, -31.3233 39.3336, -31.3233 39.7519))",
-  "dcat_bbox": "ENVELOPE(-31.3233,-31.0444,39.7519,39.3336)",
-  "dcat_centroid": "39.54275,-31.18385",
+  "locn_geometry": "POLYGON((-31.323 39.752, -31.044 39.752, -31.044 39.334, -31.323 39.334, -31.323 39.752))",
+  "dcat_bbox": "ENVELOPE(-31.323,-31.044,39.752,39.334)",
+  "dcat_centroid": "39.543000000000006,-31.183500000000002",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,11 +49,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3754\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3754/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3754/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3754\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3754/manifest.json\"}",
   "id": "p16022coll230:3754",
   "dct_identifier_sm": [
     "UMN_ALMA:9975608899101701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:51Z",
   "gbl_mdVersion_s": "Aardvark"
 }

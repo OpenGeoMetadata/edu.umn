@@ -35,9 +35,9 @@
   "dct_spatial_sm": [
     "New Mexico"
   ],
-  "locn_geometry": "POLYGON((-109.05 37, -103 37, -103 31.31666667, -109.05 31.31666667, -109.05 37))",
-  "dcat_bbox": "ENVELOPE(-109.05,-103,37,31.31666667)",
-  "dcat_centroid": "34.158333335,-106.025",
+  "locn_geometry": "POLYGON((-109.050 37.000, -103.000 37.000, -103.000 31.317, -109.050 31.317, -109.050 37.000))",
+  "dcat_bbox": "ENVELOPE(-109.050,-103.000,37.000,31.317)",
+  "dcat_centroid": "34.158500000000004,-106.025",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,11 +50,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4200\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4200/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4200/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4200\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4200/manifest.json\"}",
   "id": "p16022coll230:4200",
   "dct_identifier_sm": [
     "UMN_ALMA:9978369082101701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

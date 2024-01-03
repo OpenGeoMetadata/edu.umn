@@ -41,9 +41,9 @@
     "United Kingdom",
     "Europe"
   ],
-  "locn_geometry": "POLYGON((-2.978 53.4931, -2.2192 53.4931, -2.2192 53.2859, -2.978 53.2859, -2.978 53.4931))",
-  "dcat_bbox": "ENVELOPE(-2.978,-2.2192,53.4931,53.2859)",
-  "dcat_centroid": "53.3895,-2.5986000000000002",
+  "locn_geometry": "POLYGON((-2.978 53.493, -2.219 53.493, -2.219 53.286, -2.978 53.286, -2.978 53.493))",
+  "dcat_bbox": "ENVELOPE(-2.978,-2.219,53.493,53.286)",
+  "dcat_centroid": "53.3895,-2.5985",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,11 +56,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:310\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/310/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/310/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:310\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/310/manifest.json\"}",
   "id": "p16022coll230:310",
   "dct_identifier_sm": [
     "UMN_ALMA:9954902450001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

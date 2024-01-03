@@ -38,9 +38,9 @@
   "dct_spatial_sm": [
     "South Dakota"
   ],
-  "locn_geometry": "POLYGON((-98.7167 45.2333, -97.9667 45.2333, -97.9667 44.6167, -98.7167 44.6167, -98.7167 45.2333))",
-  "dcat_bbox": "ENVELOPE(-98.7167,-97.9667,45.2333,44.6167)",
-  "dcat_centroid": "44.925,-98.3417",
+  "locn_geometry": "POLYGON((-98.717 45.233, -97.967 45.233, -97.967 44.617, -98.717 44.617, -98.717 45.233))",
+  "dcat_bbox": "ENVELOPE(-98.717,-97.967,45.233,44.617)",
+  "dcat_centroid": "44.925,-98.342",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2075\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2075/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2075/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2075\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2075/manifest.json\"}",
   "id": "p16022coll230:2075",
   "dct_identifier_sm": [
     "UMN_ALMA:9938585160001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

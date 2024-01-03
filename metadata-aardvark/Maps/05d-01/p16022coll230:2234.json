@@ -29,8 +29,8 @@
   "dct_spatial_sm": [
     "Colorado"
   ],
-  "locn_geometry": "POLYGON((-116 36, -108 36, -108 32.25, -116 32.25, -116 36))",
-  "dcat_bbox": "ENVELOPE(-116,-108,36,32.25)",
+  "locn_geometry": "POLYGON((-116.000 36.000, -108.000 36.000, -108.000 32.250, -116.000 32.250, -116.000 36.000))",
+  "dcat_bbox": "ENVELOPE(-116.000,-108.000,36.000,32.250)",
   "dcat_centroid": "34.125,-112.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -44,11 +44,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2234\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2234/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2234/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2234\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2234/manifest.json\"}",
   "id": "p16022coll230:2234",
   "dct_identifier_sm": [
     "UMN_ALMA:9974092596801701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

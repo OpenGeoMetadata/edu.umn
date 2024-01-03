@@ -41,9 +41,9 @@
     "Minnesota--Polk County",
     "Minnesota"
   ],
-  "locn_geometry": "POLYGON((-97.1475 48.1741, -95.5533 48.1741, -95.5533 47.4986, -97.1475 47.4986, -97.1475 48.1741))",
-  "dcat_bbox": "ENVELOPE(-97.1475,-95.5533,48.1741,47.4986)",
-  "dcat_centroid": "47.83635,-96.3504",
+  "locn_geometry": "POLYGON((-97.147 48.174, -95.553 48.174, -95.553 47.499, -97.147 47.499, -97.147 48.174))",
+  "dcat_bbox": "ENVELOPE(-97.147,-95.553,48.174,47.499)",
+  "dcat_centroid": "47.8365,-96.35",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,11 +56,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:48\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/48/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/48/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:48\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/48/manifest.json\"}",
   "id": "p16022coll231:48",
   "dct_identifier_sm": [
     "UMN_ALMA:9930461100001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

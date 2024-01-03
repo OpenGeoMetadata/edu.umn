@@ -29,9 +29,9 @@
   "dct_spatial_sm": [
     "Mexico"
   ],
-  "locn_geometry": "POLYGON((-118.35 34.9667, -78.3167 34.9667, -78.3167 9.9333, -118.35 9.9333, -118.35 34.9667))",
-  "dcat_bbox": "ENVELOPE(-118.35,-78.3167,34.9667,9.9333)",
-  "dcat_centroid": "22.450000000000003,-98.33335",
+  "locn_geometry": "POLYGON((-118.350 34.967, -78.317 34.967, -78.317 9.933, -118.350 9.933, -118.350 34.967))",
+  "dcat_bbox": "ENVELOPE(-118.350,-78.317,34.967,9.933)",
+  "dcat_centroid": "22.45,-98.33349999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -44,11 +44,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2777\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2777/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2777/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2777\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2777/manifest.json\"}",
   "id": "p16022coll230:2777",
   "dct_identifier_sm": [
     "UMN_ALMA:9973955582201701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

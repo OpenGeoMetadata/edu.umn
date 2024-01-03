@@ -9,7 +9,7 @@
     "Scale approximately 1:133,000"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_creator_sm": [
     "United States. Soil Conservation Service"
@@ -39,9 +39,9 @@
     "Arizona--Maricopa County",
     "Arizona"
   ],
-  "locn_geometry": "POLYGON((-113.333333 34.0, -111.666667 34.0, -111.666667 33.333333, -113.333333 33.333333, -113.333333 34.0))",
-  "dcat_bbox": "ENVELOPE(-113.333333,-111.666667,34.0,33.333333)",
-  "dcat_centroid": "33.666666500000005,-112.5",
+  "locn_geometry": "POLYGON((-113.333 34.000, -111.667 34.000, -111.667 33.333, -113.333 33.333, -113.333 34.000))",
+  "dcat_bbox": "ENVELOPE(-113.333,-111.667,34.000,33.333)",
+  "dcat_centroid": "33.6665,-112.5",
   "pcdm_memberOf_sm": [
     "2787a9e8-0bef-452e-9e5f-e83042c193b4",
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -54,11 +54,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/305/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:305\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/305/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/305/filename/print/page/download/fparams/forcedownload\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll624/305/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:305\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/305/manifest.json\"}",
   "id": "p16022coll624:305",
   "dct_identifier_sm": [
     "UMN_ALMA:9923248680001701"
   ],
-  "gbl_mdModified_dt": "2023-06-16T21:58:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

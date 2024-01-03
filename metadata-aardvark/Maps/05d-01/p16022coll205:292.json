@@ -39,9 +39,9 @@
   "dct_spatial_sm": [
     "Maine--Bar Harbor"
   ],
-  "locn_geometry": "POLYGON((-68.2101 44.3801, -68.18 44.3801, -68.18 44.36, -68.2101 44.36, -68.2101 44.3801))",
-  "dcat_bbox": "ENVELOPE(-68.2101,-68.18,44.3801,44.36)",
-  "dcat_centroid": "44.37005,-68.19505000000001",
+  "locn_geometry": "POLYGON((-68.210 44.380, -68.180 44.380, -68.180 44.360, -68.210 44.360, -68.210 44.380))",
+  "dcat_bbox": "ENVELOPE(-68.210,-68.180,44.380,44.360)",
+  "dcat_centroid": "44.370000000000005,-68.195",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -54,11 +54,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:292\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/292/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/292/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:292\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/292/manifest.json\"}",
   "id": "p16022coll205:292",
   "dct_identifier_sm": [
     "UMN_ALMA:9962960230001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

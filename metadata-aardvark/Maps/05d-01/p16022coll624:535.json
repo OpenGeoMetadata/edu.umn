@@ -8,7 +8,7 @@
     "46 x 61 centimeters"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_creator_sm": [
     "United States. Soil Conservation Service"
@@ -38,9 +38,9 @@
     "Wisconsin--Saint Croix County",
     "Wisconsin"
   ],
-  "locn_geometry": "POLYGON((-92.75 45.2, -92.183333 45.2, -92.183333 44.883333, -92.75 44.883333, -92.75 45.2))",
-  "dcat_bbox": "ENVELOPE(-92.75,-92.183333,45.2,44.883333)",
-  "dcat_centroid": "45.041666500000005,-92.4666665",
+  "locn_geometry": "POLYGON((-92.750 45.200, -92.183 45.200, -92.183 44.883, -92.750 44.883, -92.750 45.200))",
+  "dcat_bbox": "ENVELOPE(-92.750,-92.183,45.200,44.883)",
+  "dcat_centroid": "45.0415,-92.4665",
   "pcdm_memberOf_sm": [
     "2787a9e8-0bef-452e-9e5f-e83042c193b4",
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/535/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:535\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/535/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/535/filename/print/page/download/fparams/forcedownload\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll624/535/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:535\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/535/manifest.json\"}",
   "id": "p16022coll624:535",
   "dct_identifier_sm": [
     "UMN_ALMA:9950400710001701"
   ],
-  "gbl_mdModified_dt": "2023-06-16T21:58:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

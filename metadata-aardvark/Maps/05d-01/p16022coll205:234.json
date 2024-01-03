@@ -40,9 +40,9 @@
   "dct_spatial_sm": [
     "Oregon--Portland"
   ],
-  "locn_geometry": "POLYGON((-122.83 45.65, -122.46 45.65, -122.46 45.4101, -122.83 45.4101, -122.83 45.65))",
-  "dcat_bbox": "ENVELOPE(-122.83,-122.46,45.65,45.4101)",
-  "dcat_centroid": "45.53005,-122.645",
+  "locn_geometry": "POLYGON((-122.830 45.650, -122.460 45.650, -122.460 45.410, -122.830 45.410, -122.830 45.650))",
+  "dcat_bbox": "ENVELOPE(-122.830,-122.460,45.650,45.410)",
+  "dcat_centroid": "45.53,-122.645",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -55,11 +55,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:234\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/234/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/234/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:234\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/234/manifest.json\"}",
   "id": "p16022coll205:234",
   "dct_identifier_sm": [
     "UMN_ALMA:9912622310001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

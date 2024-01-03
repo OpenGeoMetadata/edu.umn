@@ -43,8 +43,8 @@
   "dct_spatial_sm": [
     "Missouri; Illinois--Saint Louis"
   ],
-  "locn_geometry": "POLYGON((-90.5 38.75, -90 38.75, -90 38.5, -90.5 38.5, -90.5 38.75))",
-  "dcat_bbox": "ENVELOPE(-90.5,-90,38.75,38.5)",
+  "locn_geometry": "POLYGON((-90.500 38.750, -90.000 38.750, -90.000 38.500, -90.500 38.500, -90.500 38.750))",
+  "dcat_bbox": "ENVELOPE(-90.500,-90.000,38.750,38.500)",
   "dcat_centroid": "38.625,-90.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -58,11 +58,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:319\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/319/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/319/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:319\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/319/manifest.json\"}",
   "id": "p16022coll205:319",
   "dct_identifier_sm": [
     "UMN_ALMA:9912660010001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "Distrito Federal--Mexico City"
   ],
-  "locn_geometry": "POLYGON((-99.3647 19.5925, -98.9403 19.5925, -98.9403 19.0481, -99.3647 19.0481, -99.3647 19.5925))",
-  "dcat_bbox": "ENVELOPE(-99.3647,-98.9403,19.5925,19.0481)",
-  "dcat_centroid": "19.320300000000003,-99.1525",
+  "locn_geometry": "POLYGON((-99.365 19.593, -98.940 19.593, -98.940 19.048, -99.365 19.048, -99.365 19.593))",
+  "dcat_bbox": "ENVELOPE(-99.365,-98.940,19.593,19.048)",
+  "dcat_centroid": "19.3205,-99.1525",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:691\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/691/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/691/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:691\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/691/manifest.json\"}",
   "id": "p16022coll205:691",
   "dct_identifier_sm": [
     "UMN_ALMA:9945035930001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

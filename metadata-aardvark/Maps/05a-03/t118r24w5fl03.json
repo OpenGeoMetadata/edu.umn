@@ -1,0 +1,54 @@
+{
+  "dct_title_s": "General Land Office Township Plat - Islands Survey: Minnesota (T118N R24W)",
+  "dct_alternative_sm": [
+    "PLSS Islands Survey"
+  ],
+  "dct_description_sm": [
+    "Not dated; not signed"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "Minnesota Geospatial Information Office (MnGeo)"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Cadastral maps"
+  ],
+  "dct_subject_sm": [
+    "Surveying--Public lands"
+  ],
+  "dcat_keyword_sm": [
+    "land survey",
+    "surveyor",
+    "public land survey system",
+    "PLSS",
+    "pls"
+  ],
+  "dct_spatial_sm": [
+    " Minnesota--Wright County",
+    "T118N-R024W"
+  ],
+  "locn_geometry": "POLYGON((-93.76736913 45.06556631, -93.64546476 45.06556631, -93.64546476 44.97767807, -93.76736913 44.97767807, -93.76736913 45.06556631))",
+  "dcat_bbox": "ENVELOPE(-93.76736913,-93.64546476,45.06556631,44.97767807)",
+  "dcat_centroid": "45.02162219,-93.706416945",
+  "dct_relation_sm": [
+    "8888-003"
+  ],
+  "pcdm_memberOf_sm": [
+    "77f-0001"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoJPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://resources.gisdata.mn.gov/pub/data/basemaps/glo/Wright/Georeferenced/t118r24w5fl03.zip\",\"http://www.w3.org/1999/xhtml\":\"https://resources.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mngeo/plan_glo_plat_maps_georef/metadata/metadata.html\",\"http://schema.org/url\":\"http://www.mngeo.state.mn.us/glo/glo.php?township=118\\u0026range=24\"}",
+  "id": "t118r24w5fl03",
+  "dct_identifier_sm": [
+    "t118r24w5fl03",
+    "MN-T118N-R024W"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

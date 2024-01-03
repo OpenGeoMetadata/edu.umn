@@ -33,9 +33,9 @@
   "dct_spatial_sm": [
     "Vermont"
   ],
-  "locn_geometry": "POLYGON((-73.5 45.25, -71.5 45.25, -71.5 42.66666667, -73.5 42.66666667, -73.5 45.25))",
-  "dcat_bbox": "ENVELOPE(-73.5,-71.5,45.25,42.66666667)",
-  "dcat_centroid": "43.958333335,-72.5",
+  "locn_geometry": "POLYGON((-73.500 45.250, -71.500 45.250, -71.500 42.667, -73.500 42.667, -73.500 45.250))",
+  "dcat_bbox": "ENVELOPE(-73.500,-71.500,45.250,42.667)",
+  "dcat_centroid": "43.9585,-72.5",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -48,11 +48,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4101\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4101/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4101/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4101\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4101/manifest.json\"}",
   "id": "p16022coll230:4101",
   "dct_identifier_sm": [
     "UMN_ALMA:9974065408101701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

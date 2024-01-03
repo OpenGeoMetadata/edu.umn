@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "Arizona"
   ],
-  "locn_geometry": "POLYGON((-112.75 36.4167, -111.75 36.4167, -111.75 35.95, -112.75 35.95, -112.75 36.4167))",
-  "dcat_bbox": "ENVELOPE(-112.75,-111.75,36.4167,35.95)",
-  "dcat_centroid": "36.183350000000004,-112.25",
+  "locn_geometry": "POLYGON((-112.750 36.417, -111.750 36.417, -111.750 35.950, -112.750 35.950, -112.750 36.417))",
+  "dcat_bbox": "ENVELOPE(-112.750,-111.750,36.417,35.950)",
+  "dcat_centroid": "36.1835,-112.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2622\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2622/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2622/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2622\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2622/manifest.json\"}",
   "id": "p16022coll230:2622",
   "dct_identifier_sm": [
     "UMN_ALMA:9936214700001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

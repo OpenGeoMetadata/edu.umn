@@ -38,9 +38,9 @@
     "Hungary",
     "Europe"
   ],
-  "locn_geometry": "POLYGON((9.5167 49.0167, 22.9667 49.0167, 22.9667 45.7, 9.5167 45.7, 9.5167 49.0167))",
-  "dcat_bbox": "ENVELOPE(9.5167,22.9667,49.0167,45.7)",
-  "dcat_centroid": "47.35835,16.2417",
+  "locn_geometry": "POLYGON((9.517 49.017, 22.967 49.017, 22.967 45.700, 9.517 45.700, 9.517 49.017))",
+  "dcat_bbox": "ENVELOPE(9.517,22.967,49.017,45.700)",
+  "dcat_centroid": "47.35850000000001,16.241999999999997",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3409\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3409/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3409/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3409\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3409/manifest.json\"}",
   "id": "p16022coll230:3409",
   "dct_identifier_sm": [
     "UMN_ALMA:9957000440001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

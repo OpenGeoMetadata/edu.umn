@@ -9,7 +9,7 @@
     "Scale 1:100,000"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_creator_sm": [
     "United States. Soil Conservation Service"
@@ -41,9 +41,9 @@
     "Colorado--Montrose CountyOuray County",
     "Colorado"
   ],
-  "locn_geometry": "POLYGON((-109.060204 38.668568, -107.50002 38.668568, -107.50002 38.152228, -109.060204 38.152228, -109.060204 38.668568))",
-  "dcat_bbox": "ENVELOPE(-109.060204,-107.50002,38.668568,38.152228)",
-  "dcat_centroid": "38.410398,-108.280112",
+  "locn_geometry": "POLYGON((-109.060 38.669, -107.500 38.669, -107.500 38.152, -109.060 38.152, -109.060 38.669))",
+  "dcat_bbox": "ENVELOPE(-109.060,-107.500,38.669,38.152)",
+  "dcat_centroid": "38.4105,-108.28",
   "pcdm_memberOf_sm": [
     "2787a9e8-0bef-452e-9e5f-e83042c193b4",
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,11 +56,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/244/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:244\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/244/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/244/filename/print/page/download/fparams/forcedownload\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll624/244/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:244\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/244/manifest.json\"}",
   "id": "p16022coll624:244",
   "dct_identifier_sm": [
     "UMN_ALMA:9938045110001701"
   ],
-  "gbl_mdModified_dt": "2023-06-16T21:58:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

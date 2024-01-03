@@ -8,7 +8,7 @@
     "55 x 43 centimeters"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_creator_sm": [
     "United States. Soil Conservation Service"
@@ -41,9 +41,9 @@
     "Wisconsin--Green County",
     "Wisconsin"
   ],
-  "locn_geometry": "POLYGON((-89.866667 42.875, -89.35 42.875, -89.35 42.5, -89.866667 42.5, -89.866667 42.875))",
-  "dcat_bbox": "ENVELOPE(-89.866667,-89.35,42.875,42.5)",
-  "dcat_centroid": "42.6875,-89.6083335",
+  "locn_geometry": "POLYGON((-89.867 42.875, -89.350 42.875, -89.350 42.500, -89.867 42.500, -89.867 42.875))",
+  "dcat_bbox": "ENVELOPE(-89.867,-89.350,42.875,42.500)",
+  "dcat_centroid": "42.6875,-89.60849999999999",
   "pcdm_memberOf_sm": [
     "2787a9e8-0bef-452e-9e5f-e83042c193b4",
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,11 +56,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/94/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:94\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/94/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/94/filename/print/page/download/fparams/forcedownload\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll624/94/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:94\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/94/manifest.json\"}",
   "id": "p16022coll624:94",
   "dct_identifier_sm": [
     "UMN_ALMA:9950385060001701"
   ],
-  "gbl_mdModified_dt": "2023-06-16T21:54:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

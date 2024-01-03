@@ -17,9 +17,9 @@
     "India",
     "Asia"
   ],
-  "locn_geometry": "POLYGON((68.15 35.5, 91.9333 35.5, 91.9333 6.75, 68.15 6.75, 68.15 35.5))",
-  "dcat_bbox": "ENVELOPE(68.15,91.9333,35.5,6.75)",
-  "dcat_centroid": "21.125,80.04165",
+  "locn_geometry": "POLYGON((68.150 35.500, 91.933 35.500, 91.933 6.750, 68.150 6.750, 68.150 35.500))",
+  "dcat_bbox": "ENVELOPE(68.150,91.933,35.500,6.750)",
+  "dcat_centroid": "21.125,80.04150000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -32,11 +32,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3701\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3701/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3701/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3701\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3701/manifest.json\"}",
   "id": "p16022coll230:3701",
   "dct_identifier_sm": [
     "UMN_ALMA:9974756207801701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

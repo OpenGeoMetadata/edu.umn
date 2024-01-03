@@ -1,30 +1,58 @@
 {
-  "geoblacklight_version": "1.0",
-  "dc_identifier_s": "1e84ee5d-9afb-4328-9f1b-6fe55364de32",
-  "dc_rights_s": "Public",
-  "dc_title_s": "Simple Bouguer gravity map of Minnesota, International Falls sheet, M-62",
-  "dct_provenance_s": "University of Minnesota",
-  "layer_slug_s": "1e84ee5d-9afb-4328-9f1b-6fe55364de32",
-  "solr_geom": "ENVELOPE(-94.4317,-93.0804,48.7118,47.846)",
-  "solr_year_i": "1987",
-  "dc_creator_sm": [
+  "dct_title_s": "Simple Bouguer gravity map of Minnesota, International Falls sheet, M-62",
+  "dct_description_sm": [
+    "Bouguer gravity anomaly map (anomaly related to different densities of rocks in the upper crust, Bouguer anomaly is a corrected difference between an observed gravity measurement and value predicted from a generalized earth model), shown as contour lines (isolines) of equal value, International Falls quadrangle, scale 1:250,000."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
     "Chandler, Val W.",
     "Ferderer, Robert J.",
     "Mills, Sarah J."
   ],
-  "dc_description_s": "Bouguer gravity anomaly map (anomaly related to different densities of rocks in the upper crust, Bouguer anomaly is a corrected difference between an observed gravity measurement and value predicted from a generalized earth model), shown as contour lines (isolines) of equal value, International Falls quadrangle, scale 1:250,000.",
-  "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22456.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/946/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:946\"}",
+  "dct_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1987"
+  ],
+  "dct_issued_s": "1987",
+  "gbl_indexYear_im": [
+    "1987"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1987 TO 1987]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:25:04Z",
-  "dc_language_sm": [
-    "eng"
+  "locn_geometry": "POLYGON((-94.432 48.712, -93.080 48.712, -93.080 47.846, -94.432 47.846, -94.432 48.712))",
+  "dcat_bbox": "ENVELOPE(-94.432,-93.080,48.712,47.846)",
+  "dcat_centroid": "48.278999999999996,-93.756",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
-  "dc_publisher_s": "Minnesota Geological Survey",
-  "dct_issued_s": "1987",
-  "dct_temporal_sm": [
-    "1987"
-  ]
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22456.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/946/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:946\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/946/manifest.json\"}",
+  "id": "1e84ee5d-9afb-4328-9f1b-6fe55364de32",
+  "dct_identifier_sm": [
+    "1e84ee5d-9afb-4328-9f1b-6fe55364de32"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
 }

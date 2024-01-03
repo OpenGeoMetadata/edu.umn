@@ -1,32 +1,64 @@
 {
-  "geoblacklight_version": "1.0",
-  "dc_identifier_s": "354357d1-dfe9-49c7-b0cd-8f6ebe6bda20",
-  "dc_rights_s": "Public",
-  "dc_title_s": "Index Map: Atlas and Farm Directory with Complete Survey in Township Plats, Renville County, Minnesota, 1913",
-  "dct_provenance_s": "University of Minnesota",
-  "layer_slug_s": "354357d1-dfe9-49c7-b0cd-8f6ebe6bda20",
-  "solr_geom": "ENVELOPE(-95.4831,-94.4948,44.8942,44.4566)",
-  "solr_year_i": "1913",
-  "dc_creator_sm": [
+  "dct_title_s": "Index Map: Atlas and Farm Directory with Complete Survey in Township Plats, Renville County, Minnesota, 1913",
+  "dct_description_sm": [
+    "This index map is a finding aid for the Atlas and Farm Directory with Complete Survey in Township Plats, Renville County, Minnesota, 1913. Click on a feature to locate a page from the atlas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
     "Webb Publishing Co."
   ],
-  "dc_description_s": "This index map is a finding aid for the Atlas and Farm Directory with Complete Survey in Township Plats, Renville County, Minnesota, 1913. Click on a feature to locate a page from the atlas",
-  "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/147063\",\"https://openindexmaps.org\":\"https://raw.githubusercontent.com/geobtaa/openindexmaps/main/05d-02/renville.geojson\"}",
+  "dct_publisher_sm": [
+    "Webb Publishing Company"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Atlases",
+    "Index maps",
+    "OpenIndexMaps"
+  ],
+  "dcat_keyword_sm": [
+    "mnhs-p",
+    "John R. Borchert Map Library",
+    "OpenIndexMaps",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1913"
+  ],
+  "dct_issued_s": "1913",
+  "gbl_indexYear_im": [
+    "1913"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1913 TO 1913]"
+  ],
   "dct_spatial_sm": [
     "Minnesota--Renville County",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:19:51Z",
-  "dc_language_sm": [
-    "eng"
+  "locn_geometry": "POLYGON((-95.483 44.894, -94.495 44.894, -94.495 44.457, -95.483 44.457, -95.483 44.894))",
+  "dcat_bbox": "ENVELOPE(-95.483,-94.495,44.894,44.457)",
+  "dcat_centroid": "44.6755,-94.989",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
-  "dc_publisher_s": "Webb Publishing Company",
-  "dc_source_sm": [
+  "dct_source_sm": [
     "p16022coll231:971"
   ],
-  "dct_issued_s": "1913",
-  "dct_temporal_sm": [
-    "1913"
-  ]
+  "dct_rights_sm": [
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/147063\",\"https://openindexmaps.org\":\"https://raw.githubusercontent.com/geobtaa/openindexmaps/main/05d-02/renville.geojson\"}",
+  "id": "354357d1-dfe9-49c7-b0cd-8f6ebe6bda20",
+  "dct_identifier_sm": [
+    "354357d1-dfe9-49c7-b0cd-8f6ebe6bda20"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
 }

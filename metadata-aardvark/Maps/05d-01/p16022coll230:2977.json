@@ -37,9 +37,9 @@
     "England--Dorsetshire",
     "England"
   ],
-  "locn_geometry": "POLYGON((-3.0067 51.0886, -1.7611 51.0886, -1.7611 50.5131, -3.0067 50.5131, -3.0067 51.0886))",
-  "dcat_bbox": "ENVELOPE(-3.0067,-1.7611,51.0886,50.5131)",
-  "dcat_centroid": "50.80085,-2.3839",
+  "locn_geometry": "POLYGON((-3.007 51.089, -1.761 51.089, -1.761 50.513, -3.007 50.513, -3.007 51.089))",
+  "dcat_bbox": "ENVELOPE(-3.007,-1.761,51.089,50.513)",
+  "dcat_centroid": "50.801,-2.384",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2977\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2977/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2977/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2977\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2977/manifest.json\"}",
   "id": "p16022coll230:2977",
   "dct_identifier_sm": [
     "UMN_ALMA:9923329560001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

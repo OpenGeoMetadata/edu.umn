@@ -31,9 +31,9 @@
     "Tennessee",
     "Great Smoky Mountains National Park"
   ],
-  "locn_geometry": "POLYGON((-84 36, -83 36, -83 35.33333333, -84 35.33333333, -84 36))",
-  "dcat_bbox": "ENVELOPE(-84,-83,36,35.33333333)",
-  "dcat_centroid": "35.666666665,-83.5",
+  "locn_geometry": "POLYGON((-84.000 36.000, -83.000 36.000, -83.000 35.333, -84.000 35.333, -84.000 36.000))",
+  "dcat_bbox": "ENVELOPE(-84.000,-83.000,36.000,35.333)",
+  "dcat_centroid": "35.6665,-83.5",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -46,11 +46,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4089\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4089/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4089/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4089\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4089/manifest.json\"}",
   "id": "p16022coll230:4089",
   "dct_identifier_sm": [
     "UMN_ALMA:9960618710001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

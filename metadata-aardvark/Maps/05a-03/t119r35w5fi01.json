@@ -1,0 +1,65 @@
+{
+  "dct_title_s": "General Land Office Township Plat - Original Survey: Minnesota (T119N R35W), 1857",
+  "dct_alternative_sm": [
+    "Original Public Land Survey"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Dubuque Land Office"
+  ],
+  "dct_publisher_sm": [
+    "Minnesota Geospatial Information Office (MnGeo)"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Cadastral maps"
+  ],
+  "dct_subject_sm": [
+    "Surveying--Public lands"
+  ],
+  "dcat_keyword_sm": [
+    "PLSS, Public Land Survey System, PLS",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1857"
+  ],
+  "dct_issued_s": "1857",
+  "gbl_indexYear_im": [
+    "1857"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1857 TO 1857]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota",
+    "T119N-R35W",
+    "T119N-R035W"
+  ],
+  "locn_geometry": "POLYGON((-95.125 45.154, -95.002 45.154, -95.002 45.066, -95.125 45.066, -95.125 45.154))",
+  "dcat_bbox": "ENVELOPE(-95.125,-95.002,45.154,45.066)",
+  "dcat_centroid": "45.11,-95.0635",
+  "dct_relation_sm": [
+    "8888-003"
+  ],
+  "pcdm_memberOf_sm": [
+    "77f-0001"
+  ],
+  "dct_isPartOf_sm": [
+    "05a-03"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoJPEG",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://glorecords.blm.gov/results/default.aspx?searchCriteria=type=survey|st=MN|cty=|twp_nr=119|rng_nr=35|rng_dir=W\",\"http://schema.org/downloadUrl\":\"https://resources.gisdata.mn.gov/pub/data/basemaps/glo/Kandiyohi/Georeferenced/t119r35w5fi01.zip\",\"http://schema.org/url\":\"http://www.mngeo.state.mn.us/glo/glo.php?township=119\\u0026range=35\"}",
+  "id": "t119r35w5fi01",
+  "dct_identifier_sm": [
+    "t119r35w5fi01",
+    "MN-T119N-R035W"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

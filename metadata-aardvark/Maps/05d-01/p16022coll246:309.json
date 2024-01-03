@@ -46,9 +46,9 @@
     "Vietnam",
     "Myanmar [Burma]--Burma"
   ],
-  "locn_geometry": "POLYGON((90.0989 23.8256, 113.0713 23.8256, 113.0713 4.2971, 90.0989 4.2971, 90.0989 23.8256))",
-  "dcat_bbox": "ENVELOPE(90.0989,113.0713,23.8256,4.2971)",
-  "dcat_centroid": "14.061350000000001,101.5851",
+  "locn_geometry": "POLYGON((90.099 23.826, 113.071 23.826, 113.071 4.297, 90.099 4.297, 90.099 23.826))",
+  "dcat_bbox": "ENVELOPE(90.099,113.071,23.826,4.297)",
+  "dcat_centroid": "14.0615,101.58500000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -61,11 +61,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:309\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/309/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/309/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:309\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/309/manifest.json\"}",
   "id": "p16022coll246:309",
   "dct_identifier_sm": [
     "UMN_ALMA:9955254470001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

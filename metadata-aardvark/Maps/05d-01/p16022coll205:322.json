@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "Belgium"
   ],
-  "locn_geometry": "POLYGON((3.85 50.5001, 4.08 50.5001, 4.08 50.3601, 3.85 50.3601, 3.85 50.5001))",
-  "dcat_bbox": "ENVELOPE(3.85,4.08,50.5001,50.3601)",
-  "dcat_centroid": "50.4301,3.965",
+  "locn_geometry": "POLYGON((3.850 50.500, 4.080 50.500, 4.080 50.360, 3.850 50.360, 3.850 50.500))",
+  "dcat_bbox": "ENVELOPE(3.850,4.080,50.500,50.360)",
+  "dcat_centroid": "50.43,3.965",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:322\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/322/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/322/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:322\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/322/manifest.json\"}",
   "id": "p16022coll205:322",
   "dct_identifier_sm": [
     "UMN_ALMA:9947500320001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:32:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

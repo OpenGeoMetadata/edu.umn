@@ -38,9 +38,9 @@
   "dct_spatial_sm": [
     "Iran"
   ],
-  "locn_geometry": "POLYGON((38.4521 44.7311, 74.751 44.7311, 74.751 19.4977, 38.4521 19.4977, 38.4521 44.7311))",
-  "dcat_bbox": "ENVELOPE(38.4521,74.751,44.7311,19.4977)",
-  "dcat_centroid": "32.114399999999996,56.60155",
+  "locn_geometry": "POLYGON((38.452 44.731, 74.751 44.731, 74.751 19.498, 38.452 19.498, 38.452 44.731))",
+  "dcat_bbox": "ENVELOPE(38.452,74.751,44.731,19.498)",
+  "dcat_centroid": "32.1145,56.6015",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:199\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/199/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/199/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:199\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/199/manifest.json\"}",
   "id": "p16022coll246:199",
   "dct_identifier_sm": [
     "UMN_ALMA:9939531420001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:32:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

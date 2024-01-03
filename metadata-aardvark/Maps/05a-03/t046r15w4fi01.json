@@ -1,0 +1,65 @@
+{
+  "dct_title_s": "General Land Office Township Plat - Original Survey: Minnesota (T046N R15W), 1858",
+  "dct_alternative_sm": [
+    "Original Public Land Survey"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "Minnesota Geospatial Information Office (MnGeo)"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Cadastral maps"
+  ],
+  "dct_subject_sm": [
+    "Surveying--Public lands"
+  ],
+  "dcat_keyword_sm": [
+    "land survey",
+    "surveyor",
+    "public land survey system",
+    "PLSS",
+    "pls"
+  ],
+  "dct_temporal_sm": [
+    "1858"
+  ],
+  "dct_issued_s": "1858",
+  "gbl_indexYear_im": [
+    "1858"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1858 TO 1858]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota",
+    "T046N-R15W",
+    "T046N-R015W"
+  ],
+  "locn_geometry": "POLYGON((-92.301 46.504, -92.292 46.504, -92.292 46.417, -92.301 46.417, -92.301 46.504))",
+  "dcat_bbox": "ENVELOPE(-92.301,-92.292,46.504,46.417)",
+  "dcat_centroid": "46.460499999999996,-92.29650000000001",
+  "dct_relation_sm": [
+    "8888-003"
+  ],
+  "pcdm_memberOf_sm": [
+    "77f-0001"
+  ],
+  "dct_isPartOf_sm": [
+    "05a-03"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoJPEG",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://glorecords.blm.gov/results/default.aspx?searchCriteria=type=survey|st=MN|cty=|twp_nr=46|rng_nr=15|rng_dir=W\",\"http://schema.org/downloadUrl\":\"https://resources.gisdata.mn.gov/pub/data/basemaps/glo/Carlton/Georeferenced/t046r15w4fi01.zip\",\"http://www.w3.org/1999/xhtml\":\"https://resources.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mngeo/plan_glo_plat_maps_georef/metadata/metadata.html\",\"http://schema.org/url\":\"http://www.mngeo.state.mn.us/glo/glo.php?township=46\\u0026range=15\"}",
+  "id": "t046r15w4fi01",
+  "dct_identifier_sm": [
+    "t046r15w4fi01",
+    "MN-T046N-R015W"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

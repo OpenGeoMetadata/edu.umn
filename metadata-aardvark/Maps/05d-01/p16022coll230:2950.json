@@ -31,9 +31,9 @@
     "England--Lincolnshire",
     "England"
   ],
-  "locn_geometry": "POLYGON((-0.7667 52.75, -0.4667 52.75, -0.4667 52.55, -0.7667 52.55, -0.7667 52.75))",
-  "dcat_bbox": "ENVELOPE(-0.7667,-0.4667,52.75,52.55)",
-  "dcat_centroid": "52.65,-0.6167",
+  "locn_geometry": "POLYGON((-0.767 52.750, -0.467 52.750, -0.467 52.550, -0.767 52.550, -0.767 52.750))",
+  "dcat_bbox": "ENVELOPE(-0.767,-0.467,52.750,52.550)",
+  "dcat_centroid": "52.65,-0.617",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -46,11 +46,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2950\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2950/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2950/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2950\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2950/manifest.json\"}",
   "id": "p16022coll230:2950",
   "dct_identifier_sm": [
     "UMN_ALMA:9944903080001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:32:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "Georgia"
   ],
-  "locn_geometry": "POLYGON((-85.6 35.0, -80.8333 35.0, -80.8333 30.35, -85.6 30.35, -85.6 35.0))",
-  "dcat_bbox": "ENVELOPE(-85.6,-80.8333,35.0,30.35)",
-  "dcat_centroid": "32.675,-83.21664999999999",
+  "locn_geometry": "POLYGON((-85.600 35.000, -80.833 35.000, -80.833 30.350, -85.600 30.350, -85.600 35.000))",
+  "dcat_bbox": "ENVELOPE(-85.600,-80.833,35.000,30.350)",
+  "dcat_centroid": "32.675,-83.2165",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1452\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1452/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/1452/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1452\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1452/manifest.json\"}",
   "id": "p16022coll230:1452",
   "dct_identifier_sm": [
     "UMN_ALMA:9973974703601701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

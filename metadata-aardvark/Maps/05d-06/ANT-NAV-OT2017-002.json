@@ -43,9 +43,9 @@
     "Antarctica--Thiel Mountains",
     "Antarctica"
   ],
-  "locn_geometry": "POLYGON((-68.1986 -75.2554, -111.2505 -75.2554, -111.2505 -85.8685, -68.1986 -85.8685, -68.1986 -75.2554))",
-  "dcat_bbox": "ENVELOPE(-68.1986,-111.2505,-75.2554,-85.8685)",
-  "dcat_centroid": "-80.56195,-89.72455",
+  "locn_geometry": "POLYGON((-68.199 -75.255, -111.251 -75.255, -111.251 -85.868, -68.199 -85.868, -68.199 -75.255))",
+  "dcat_bbox": "ENVELOPE(-68.199,-111.251,-75.255,-85.868)",
+  "dcat_centroid": "-80.5615,-89.725",
   "pcdm_memberOf_sm": [
     "b0153110-e455-4ced-9114-9b13250a7093"
   ],
@@ -59,6 +59,5 @@
   "dct_identifier_sm": [
     "ANT-NAV-OT2017-002"
   ],
-  "gbl_mdModified_dt": "2023-02-03T22:44:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

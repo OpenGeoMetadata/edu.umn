@@ -38,9 +38,9 @@
     "Sweden",
     "Norway"
   ],
-  "locn_geometry": "POLYGON((-4.0 61.1167, 14.0333 61.1167, 14.0333 50.0167, -4.0 50.0167, -4.0 61.1167))",
-  "dcat_bbox": "ENVELOPE(-4.0,14.0333,61.1167,50.0167)",
-  "dcat_centroid": "55.5667,5.01665",
+  "locn_geometry": "POLYGON((-4.000 61.117, 14.033 61.117, 14.033 50.017, -4.000 50.017, -4.000 61.117))",
+  "dcat_bbox": "ENVELOPE(-4.000,14.033,61.117,50.017)",
+  "dcat_centroid": "55.567,5.0165",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2940\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2940/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2940/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2940\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2940/manifest.json\"}",
   "id": "p16022coll230:2940",
   "dct_identifier_sm": [
     "UMN_ALMA:9975626575001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

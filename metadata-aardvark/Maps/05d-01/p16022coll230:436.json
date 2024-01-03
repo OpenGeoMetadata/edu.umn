@@ -37,8 +37,8 @@
   "dct_spatial_sm": [
     "Ireland"
   ],
-  "locn_geometry": "POLYGON((-10.66 55.41, -5 55.41, -5 51.33, -10.66 51.33, -10.66 55.41))",
-  "dcat_bbox": "ENVELOPE(-10.66,-5,55.41,51.33)",
+  "locn_geometry": "POLYGON((-10.660 55.410, -5.000 55.410, -5.000 51.330, -10.660 51.330, -10.660 55.410))",
+  "dcat_bbox": "ENVELOPE(-10.660,-5.000,55.410,51.330)",
   "dcat_centroid": "53.37,-7.83",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -52,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:436\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/436/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/436/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:436\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/436/manifest.json\"}",
   "id": "p16022coll230:436",
   "dct_identifier_sm": [
     "UMN_ALMA:9957224200001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:32:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

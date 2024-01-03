@@ -1,0 +1,65 @@
+{
+  "dct_title_s": "General Land Office Township Plat - Original Survey: Minnesota (T044N R32W), 1858",
+  "dct_alternative_sm": [
+    "Original Public Land Survey"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "St. Paul Land Office"
+  ],
+  "dct_publisher_sm": [
+    "Minnesota Geospatial Information Office (MnGeo)"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Cadastral maps"
+  ],
+  "dct_subject_sm": [
+    "Surveying--Public lands"
+  ],
+  "dcat_keyword_sm": [
+    "PLSS, Public Land Survey System, PLS",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1858"
+  ],
+  "dct_issued_s": "1858",
+  "gbl_indexYear_im": [
+    "1858"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1858 TO 1858]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota",
+    "T044N-R32W",
+    "T044N-R032W"
+  ],
+  "locn_geometry": "POLYGON((-94.370 46.298, -94.314 46.298, -94.314 46.244, -94.370 46.244, -94.370 46.298))",
+  "dcat_bbox": "ENVELOPE(-94.370,-94.314,46.298,46.244)",
+  "dcat_centroid": "46.271,-94.342",
+  "dct_relation_sm": [
+    "8888-003"
+  ],
+  "pcdm_memberOf_sm": [
+    "77f-0001"
+  ],
+  "dct_isPartOf_sm": [
+    "05a-03"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoJPEG",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://glorecords.blm.gov/results/default.aspx?searchCriteria=type=survey|st=MN|cty=|twp_nr=44|rng_nr=32|rng_dir=W\",\"http://schema.org/downloadUrl\":\"https://resources.gisdata.mn.gov/pub/data/basemaps/glo/Crow%20Wing/Georeferenced/t044r32w4fi04.zip\",\"http://schema.org/url\":\"http://www.mngeo.state.mn.us/glo/glo.php?township=44\\u0026range=32\"}",
+  "id": "t044r32w4fi04",
+  "dct_identifier_sm": [
+    "t044r32w4fi04",
+    "MN-T044N-R032W"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

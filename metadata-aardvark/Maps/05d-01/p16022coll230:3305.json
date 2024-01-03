@@ -30,9 +30,9 @@
     "Jersey",
     "Channel Islands"
   ],
-  "locn_geometry": "POLYGON((-2.55 49.45, -1.8167 49.45, -1.8167 48.8667, -2.55 48.8667, -2.55 49.45))",
-  "dcat_bbox": "ENVELOPE(-2.55,-1.8167,49.45,48.8667)",
-  "dcat_centroid": "49.15835,-2.18335",
+  "locn_geometry": "POLYGON((-2.550 49.450, -1.817 49.450, -1.817 48.867, -2.550 48.867, -2.550 49.450))",
+  "dcat_bbox": "ENVELOPE(-2.550,-1.817,49.450,48.867)",
+  "dcat_centroid": "49.158500000000004,-2.1835",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,11 +45,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3305\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3305/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3305/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3305\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3305/manifest.json\"}",
   "id": "p16022coll230:3305",
   "dct_identifier_sm": [
     "UMN_ALMA:9916325720001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

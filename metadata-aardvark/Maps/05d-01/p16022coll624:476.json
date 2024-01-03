@@ -9,7 +9,7 @@
     "Scale 1:100,000"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_creator_sm": [
     "United States. Soil Conservation Service"
@@ -39,9 +39,9 @@
     "North Dakota--Slope County",
     "North Dakota"
   ],
-  "locn_geometry": "POLYGON((-104.033333 46.616667, -103.0 46.616667, -103.0 46.3, -104.033333 46.3, -104.033333 46.616667))",
-  "dcat_bbox": "ENVELOPE(-104.033333,-103.0,46.616667,46.3)",
-  "dcat_centroid": "46.458333499999995,-103.5166665",
+  "locn_geometry": "POLYGON((-104.033 46.617, -103.000 46.617, -103.000 46.300, -104.033 46.300, -104.033 46.617))",
+  "dcat_bbox": "ENVELOPE(-104.033,-103.000,46.617,46.300)",
+  "dcat_centroid": "46.4585,-103.51650000000001",
   "pcdm_memberOf_sm": [
     "2787a9e8-0bef-452e-9e5f-e83042c193b4",
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -54,11 +54,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/476/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:476\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/476/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/476/filename/print/page/download/fparams/forcedownload\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll624/476/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:476\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/476/manifest.json\"}",
   "id": "p16022coll624:476",
   "dct_identifier_sm": [
     "UMN_ALMA:9950889850001701"
   ],
-  "gbl_mdModified_dt": "2023-06-16T21:58:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

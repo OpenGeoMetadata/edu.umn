@@ -36,8 +36,8 @@
   "dct_spatial_sm": [
     "Luxembourg City"
   ],
-  "locn_geometry": "POLYGON((5.7333 50.1667, 6.5167 50.1667, 6.5167 49.4333, 5.7333 49.4333, 5.7333 50.1667))",
-  "dcat_bbox": "ENVELOPE(5.7333,6.5167,50.1667,49.4333)",
+  "locn_geometry": "POLYGON((5.733 50.167, 6.517 50.167, 6.517 49.433, 5.733 49.433, 5.733 50.167))",
+  "dcat_bbox": "ENVELOPE(5.733,6.517,50.167,49.433)",
   "dcat_centroid": "49.8,6.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:724\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/724/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/724/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:724\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/724/manifest.json\"}",
   "id": "p16022coll205:724",
   "dct_identifier_sm": [
     "UMN_ALMA:9916210860001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

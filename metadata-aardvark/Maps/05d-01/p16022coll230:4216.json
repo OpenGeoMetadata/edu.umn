@@ -34,9 +34,9 @@
     "Nevada",
     "Nevada"
   ],
-  "locn_geometry": "POLYGON((-119.8958333 40.09722222, -118.6 40.09722222, -118.6 39.2, -119.8958333 39.2, -119.8958333 40.09722222))",
-  "dcat_bbox": "ENVELOPE(-119.8958333,-118.6,40.09722222,39.2)",
-  "dcat_centroid": "39.648611110000004,-119.24791665000001",
+  "locn_geometry": "POLYGON((-119.896 40.097, -118.600 40.097, -118.600 39.200, -119.896 39.200, -119.896 40.097))",
+  "dcat_bbox": "ENVELOPE(-119.896,-118.600,40.097,39.200)",
+  "dcat_centroid": "39.6485,-119.24799999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,11 +49,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4216\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4216/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4216/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4216\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4216/manifest.json\"}",
   "id": "p16022coll230:4216",
   "dct_identifier_sm": [
     "UMN_ALMA:9976556107001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

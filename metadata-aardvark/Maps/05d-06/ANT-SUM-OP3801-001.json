@@ -37,8 +37,8 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "ENVELOPE(-180,180,-40,-85)",
-  "dcat_bbox": "ENVELOPE(-180,180,-40,-85)",
+  "locn_geometry": "POLYGON((-179.99 -40.00, 179.99 -40.00, 179.99 -85.00, -179.99 -85.00, -179.99 -40.00))",
+  "dcat_bbox": "ENVELOPE(-179.99,179.99,-40.00,-85.00)",
   "dcat_centroid": "-62.5,0.0",
   "pcdm_memberOf_sm": [
     "b0153110-e455-4ced-9114-9b13250a7093"
@@ -53,6 +53,5 @@
   "dct_identifier_sm": [
     "ANT-SUM-OP3801-001"
   ],
-  "gbl_mdModified_dt": "2023-06-23T22:01:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

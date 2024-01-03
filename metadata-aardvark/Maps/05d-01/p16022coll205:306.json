@@ -37,9 +37,9 @@
   "dct_spatial_sm": [
     "Peru"
   ],
-  "locn_geometry": "POLYGON((-72 -13.4601, -71.8601 -13.4601, -71.8601 -13.5501, -72 -13.5501, -72 -13.4601))",
-  "dcat_bbox": "ENVELOPE(-72,-71.8601,-13.4601,-13.5501)",
-  "dcat_centroid": "-13.5051,-71.93005",
+  "locn_geometry": "POLYGON((-72.000 -13.460, -71.860 -13.460, -71.860 -13.550, -72.000 -13.550, -72.000 -13.460))",
+  "dcat_bbox": "ENVELOPE(-72.000,-71.860,-13.460,-13.550)",
+  "dcat_centroid": "-13.505,-71.93",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:306\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/306/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/306/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:306\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/306/manifest.json\"}",
   "id": "p16022coll205:306",
   "dct_identifier_sm": [
     "UMN_ALMA:9939536860001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

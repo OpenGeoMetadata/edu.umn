@@ -33,9 +33,9 @@
   "dct_spatial_sm": [
     "Wisconsin--Racine"
   ],
-  "locn_geometry": "POLYGON((-87.7922 42.7492, -87.7597 42.7492, -87.7597 42.7192, -87.7922 42.7192, -87.7922 42.7492))",
-  "dcat_bbox": "ENVELOPE(-87.7922,-87.7597,42.7492,42.7192)",
-  "dcat_centroid": "42.7342,-87.77595",
+  "locn_geometry": "POLYGON((-87.792 42.749, -87.760 42.749, -87.760 42.719, -87.792 42.719, -87.792 42.749))",
+  "dcat_bbox": "ENVELOPE(-87.792,-87.760,42.749,42.719)",
+  "dcat_centroid": "42.734,-87.77600000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -48,11 +48,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:623\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/623/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/623/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:623\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/623/manifest.json\"}",
   "id": "p16022coll205:623",
   "dct_identifier_sm": [
     "UMN_ALMA:9920991530001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

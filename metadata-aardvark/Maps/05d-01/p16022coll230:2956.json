@@ -37,9 +37,9 @@
     "England--Northumberland",
     "England"
   ],
-  "locn_geometry": "POLYGON((-2.55 55.8, -1.4167 55.8, -1.4167 54.8333, -2.55 54.8333, -2.55 55.8))",
-  "dcat_bbox": "ENVELOPE(-2.55,-1.4167,55.8,54.8333)",
-  "dcat_centroid": "55.316649999999996,-1.98335",
+  "locn_geometry": "POLYGON((-2.550 55.800, -1.417 55.800, -1.417 54.833, -2.550 54.833, -2.550 55.800))",
+  "dcat_bbox": "ENVELOPE(-2.550,-1.417,55.800,54.833)",
+  "dcat_centroid": "55.3165,-1.9834999999999998",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2956\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2956/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2956/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2956\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2956/manifest.json\"}",
   "id": "p16022coll230:2956",
   "dct_identifier_sm": [
     "UMN_ALMA:9944901660001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:32:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

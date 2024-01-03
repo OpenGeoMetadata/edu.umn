@@ -35,8 +35,8 @@
     "Antarctica--Victoria Land",
     "Antarctica"
   ],
-  "locn_geometry": "POLYGON((171.25 -71, 167.916 -71, 167.916 -71.716, 171.25 -71.716, 171.25 -71))",
-  "dcat_bbox": "ENVELOPE(171.25,167.916,-71,-71.716)",
+  "locn_geometry": "POLYGON((171.250 -71.000, 167.916 -71.000, 167.916 -71.716, 171.250 -71.716, 171.250 -71.000))",
+  "dcat_bbox": "ENVELOPE(171.250,167.916,-71.000,-71.716)",
   "dcat_centroid": "-71.358,169.583",
   "pcdm_memberOf_sm": [
     "b0153110-e455-4ced-9114-9b13250a7093"
@@ -51,6 +51,5 @@
   "dct_identifier_sm": [
     "ANT-NAV-MT2601-011"
   ],
-  "gbl_mdModified_dt": "2023-02-03T22:44:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

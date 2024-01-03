@@ -39,9 +39,9 @@
   "dct_spatial_sm": [
     "Alabama--Fort Blakely"
   ],
-  "locn_geometry": "POLYGON((-87.9101 30.75, -87.9 30.75, -87.9 30.7101, -87.9101 30.7101, -87.9101 30.75))",
-  "dcat_bbox": "ENVELOPE(-87.9101,-87.9,30.75,30.7101)",
-  "dcat_centroid": "30.73005,-87.90505",
+  "locn_geometry": "POLYGON((-87.910 30.750, -87.900 30.750, -87.900 30.710, -87.910 30.710, -87.910 30.750))",
+  "dcat_bbox": "ENVELOPE(-87.910,-87.900,30.750,30.710)",
+  "dcat_centroid": "30.73,-87.905",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -54,11 +54,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:582\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/582/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/582/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:582\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/582/manifest.json\"}",
   "id": "p16022coll230:582",
   "dct_identifier_sm": [
     "UMN_ALMA:9947200070001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

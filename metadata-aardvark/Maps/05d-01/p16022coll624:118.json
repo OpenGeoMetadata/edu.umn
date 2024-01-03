@@ -9,7 +9,7 @@
     "1:100,000"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_creator_sm": [
     "United States. Soil Conservation Service"
@@ -42,9 +42,9 @@
     "Illinois--De Kalb County",
     "Illinois"
   ],
-  "locn_geometry": "POLYGON((-88.942146 42.15359, -88.588308 42.15359, -88.588308 41.628316, -88.942146 41.628316, -88.942146 42.15359))",
-  "dcat_bbox": "ENVELOPE(-88.942146,-88.588308,42.15359,41.628316)",
-  "dcat_centroid": "41.890952999999996,-88.765227",
+  "locn_geometry": "POLYGON((-88.942 42.154, -88.588 42.154, -88.588 41.628, -88.942 41.628, -88.942 42.154))",
+  "dcat_bbox": "ENVELOPE(-88.942,-88.588,42.154,41.628)",
+  "dcat_centroid": "41.891000000000005,-88.76499999999999",
   "pcdm_memberOf_sm": [
     "2787a9e8-0bef-452e-9e5f-e83042c193b4",
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -57,11 +57,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/118/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:118\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/118/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/118/filename/print/page/download/fparams/forcedownload\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll624/118/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:118\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/118/manifest.json\"}",
   "id": "p16022coll624:118",
   "dct_identifier_sm": [
     "UMN_ALMA:9915416810001701"
   ],
-  "gbl_mdModified_dt": "2023-06-16T21:54:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -8,7 +8,7 @@
     "45 x 58 centimeters"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_creator_sm": [
     "United States. Soil Conservation Service"
@@ -41,8 +41,8 @@
     "Georgia--Henry County",
     "Georgia"
   ],
-  "locn_geometry": "POLYGON((-84.333333 33.666667, -83.916667 33.666667, -83.916667 33.333333, -84.333333 33.333333, -84.333333 33.666667))",
-  "dcat_bbox": "ENVELOPE(-84.333333,-83.916667,33.666667,33.333333)",
+  "locn_geometry": "POLYGON((-84.333 33.667, -83.917 33.667, -83.917 33.333, -84.333 33.333, -84.333 33.667))",
+  "dcat_bbox": "ENVELOPE(-84.333,-83.917,33.667,33.333)",
   "dcat_centroid": "33.5,-84.125",
   "pcdm_memberOf_sm": [
     "2787a9e8-0bef-452e-9e5f-e83042c193b4",
@@ -56,11 +56,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/80/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:80\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/80/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/80/filename/print/page/download/fparams/forcedownload\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll624/80/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:80\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/80/manifest.json\"}",
   "id": "p16022coll624:80",
   "dct_identifier_sm": [
     "UMN_ALMA:9936121780001701"
   ],
-  "gbl_mdModified_dt": "2023-06-16T21:54:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

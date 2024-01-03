@@ -30,9 +30,9 @@
     "Iran",
     "Afghanistan"
   ],
-  "locn_geometry": "POLYGON((44.01666667 39.76666667, 148.8333333 39.76666667, 148.8333333 24.83333333, 44.01666667 24.83333333, 44.01666667 39.76666667))",
-  "dcat_bbox": "ENVELOPE(44.01666667,148.8333333,39.76666667,24.83333333)",
-  "dcat_centroid": "32.3,96.424999985",
+  "locn_geometry": "POLYGON((44.017 39.767, 148.833 39.767, 148.833 24.833, 44.017 24.833, 44.017 39.767))",
+  "dcat_bbox": "ENVELOPE(44.017,148.833,39.767,24.833)",
+  "dcat_centroid": "32.3,96.425",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,11 +45,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4270\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4270/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4270/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4270\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4270/manifest.json\"}",
   "id": "p16022coll230:4270",
   "dct_identifier_sm": [
     "UMN_ALMA:9960676260001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -43,9 +43,9 @@
     "Minnesota",
     "Canada--Ontario"
   ],
-  "locn_geometry": "POLYGON((-92.6003 48.8112, -90.162 48.8112, -90.162 47.709, -92.6003 47.709, -92.6003 48.8112))",
-  "dcat_bbox": "ENVELOPE(-92.6003,-90.162,48.8112,47.709)",
-  "dcat_centroid": "48.2601,-91.38115",
+  "locn_geometry": "POLYGON((-92.600 48.811, -90.162 48.811, -90.162 47.709, -92.600 47.709, -92.600 48.811))",
+  "dcat_bbox": "ENVELOPE(-92.600,-90.162,48.811,47.709)",
+  "dcat_centroid": "48.260000000000005,-91.381",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -55,11 +55,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:212\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/212/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/212/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:212\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/212/manifest.json\"}",
   "id": "p16022coll247:212",
   "dct_identifier_sm": [
     "UMN_ALMA:9936993460001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

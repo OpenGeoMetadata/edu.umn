@@ -39,9 +39,9 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-87.4722 38.55, -86.6806 38.55, -86.6806 38.1972, -87.4722 38.1972, -87.4722 38.55))",
-  "dcat_bbox": "ENVELOPE(-87.4722,-86.6806,38.55,38.1972)",
-  "dcat_centroid": "38.373599999999996,-87.0764",
+  "locn_geometry": "POLYGON((-87.472 38.550, -86.681 38.550, -86.681 38.197, -87.472 38.197, -87.472 38.550))",
+  "dcat_bbox": "ENVELOPE(-87.472,-86.681,38.550,38.197)",
+  "dcat_centroid": "38.3735,-87.0765",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -54,11 +54,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1688\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1688/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/1688/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1688\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1688/manifest.json\"}",
   "id": "p16022coll230:1688",
   "dct_identifier_sm": [
     "UMN_ALMA:9974055504101701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

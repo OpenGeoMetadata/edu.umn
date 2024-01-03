@@ -1,28 +1,56 @@
 {
-  "geoblacklight_version": "1.0",
-  "dc_identifier_s": "3efdc8ba-a3cd-4b8a-a439-5d94e0fad5da",
-  "dc_rights_s": "Public",
-  "dc_title_s": "Geology of the Duluth metropolitan area, Bulletin 33, Plate 9",
-  "dct_provenance_s": "University of Minnesota",
-  "layer_slug_s": "3efdc8ba-a3cd-4b8a-a439-5d94e0fad5da",
-  "solr_geom": "ENVELOPE(-93.0966,-91.7893,48.63,46.6507)",
-  "solr_year_i": "1949",
-  "dc_creator_sm": [
+  "dct_title_s": "Geology of the Duluth metropolitan area, Bulletin 33, Plate 9",
+  "dct_description_sm": [
+    "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of Township 49 North, Range 16 West, scale 1 inch = about 1/2 mile."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
     "Schwartz, George M. (George Melvin), 1892-1980"
   ],
-  "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of Township 49 North, Range 16 West, scale 1 inch = about 1/2 mile.",
-  "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23302.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1092/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1092\"}",
+  "dct_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1949"
+  ],
+  "dct_issued_s": "1949",
+  "gbl_indexYear_im": [
+    "1949"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1949 TO 1949]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:19:07Z",
-  "dc_language_sm": [
-    "eng"
+  "locn_geometry": "POLYGON((-93.097 48.630, -91.789 48.630, -91.789 46.651, -93.097 46.651, -93.097 48.630))",
+  "dcat_bbox": "ENVELOPE(-93.097,-91.789,48.630,46.651)",
+  "dcat_centroid": "47.6405,-92.443",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
-  "dc_publisher_s": "Minnesota Geological Survey",
-  "dct_issued_s": "1949",
-  "dct_temporal_sm": [
-    "1949"
-  ]
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23302.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1092/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1092\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1092/manifest.json\"}",
+  "id": "3efdc8ba-a3cd-4b8a-a439-5d94e0fad5da",
+  "dct_identifier_sm": [
+    "3efdc8ba-a3cd-4b8a-a439-5d94e0fad5da"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
 }

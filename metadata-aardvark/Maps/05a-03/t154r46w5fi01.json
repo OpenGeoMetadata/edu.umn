@@ -1,0 +1,64 @@
+{
+  "dct_title_s": "General Land Office Township Plat - Original Survey: Minnesota (T154N R46W), 1872",
+  "dct_alternative_sm": [
+    "Original Public Land Survey"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "Minnesota Geospatial Information Office (MnGeo)"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Cadastral maps"
+  ],
+  "dct_subject_sm": [
+    "Surveying--Public lands"
+  ],
+  "dcat_keyword_sm": [
+    "land survey",
+    "surveyor",
+    "public land survey system",
+    "PLSS",
+    "pls"
+  ],
+  "dct_temporal_sm": [
+    "1872"
+  ],
+  "dct_issued_s": "1872",
+  "gbl_indexYear_im": [
+    "1872"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1872 TO 1872]"
+  ],
+  "dct_spatial_sm": [
+    " Minnesota--Polk County",
+    "T154N-R046W"
+  ],
+  "locn_geometry": "POLYGON((-96.631 48.196, -96.501 48.196, -96.501 48.108, -96.631 48.108, -96.631 48.196))",
+  "dcat_bbox": "ENVELOPE(-96.631,-96.501,48.196,48.108)",
+  "dcat_centroid": "48.152,-96.566",
+  "dct_relation_sm": [
+    "8888-003"
+  ],
+  "pcdm_memberOf_sm": [
+    "77f-0001"
+  ],
+  "dct_isPartOf_sm": [
+    "05a-03"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoJPEG",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://glorecords.blm.gov/results/default.aspx?searchCriteria=type=survey|st=MN|cty=|twp_nr=154|rng_nr=46|rng_dir=W\",\"http://schema.org/downloadUrl\":\"https://resources.gisdata.mn.gov/pub/data/basemaps/glo/Polk/Georeferenced/t154r46w5fi01.zip\",\"http://www.w3.org/1999/xhtml\":\"https://resources.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mngeo/plan_glo_plat_maps_georef/metadata/metadata.html\",\"http://schema.org/url\":\"http://www.mngeo.state.mn.us/glo/glo.php?township=154\\u0026range=46\"}",
+  "id": "t154r46w5fi01",
+  "dct_identifier_sm": [
+    "t154r46w5fi01",
+    "MN-T154N-R046W"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

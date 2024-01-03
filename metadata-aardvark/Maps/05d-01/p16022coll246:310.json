@@ -44,9 +44,9 @@
     "India",
     "China--People's Republic of China"
   ],
-  "locn_geometry": "POLYGON((66.709 45.4909, 148.3154 45.4909, 148.3154 -10.7038, 66.709 -10.7038, 66.709 45.4909))",
-  "dcat_bbox": "ENVELOPE(66.709,148.3154,45.4909,-10.7038)",
-  "dcat_centroid": "17.39355,107.5122",
+  "locn_geometry": "POLYGON((66.709 45.491, 148.315 45.491, 148.315 -10.704, 66.709 -10.704, 66.709 45.491))",
+  "dcat_bbox": "ENVELOPE(66.709,148.315,45.491,-10.704)",
+  "dcat_centroid": "17.3935,107.512",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -59,11 +59,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:310\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/310/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/310/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:310\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/310/manifest.json\"}",
   "id": "p16022coll246:310",
   "dct_identifier_sm": [
     "UMN_ALMA:9924307850001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

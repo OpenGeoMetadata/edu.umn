@@ -37,8 +37,8 @@
     "Antarctica--Ross Island",
     "Antarctica"
   ],
-  "locn_geometry": "POLYGON((170 -77.125, 165.5 -77.125, 165.5 -77.875, 170 -77.875, 170 -77.125))",
-  "dcat_bbox": "ENVELOPE(170,165.5,-77.125,-77.875)",
+  "locn_geometry": "POLYGON((170.000 -77.125, 165.500 -77.125, 165.500 -77.875, 170.000 -77.875, 170.000 -77.125))",
+  "dcat_bbox": "ENVELOPE(170.000,165.500,-77.125,-77.875)",
   "dcat_centroid": "-77.5,167.75",
   "pcdm_memberOf_sm": [
     "b0153110-e455-4ced-9114-9b13250a7093"
@@ -53,6 +53,5 @@
   "dct_identifier_sm": [
     "ANT-REF-MS2011-001"
   ],
-  "gbl_mdModified_dt": "2023-02-03T22:44:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }
