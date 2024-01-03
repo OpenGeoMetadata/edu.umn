@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Rice County, Minnesota, C-9, Part A, Plate 6, Geologic Resources",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "2a54d1d8-6309-4e20-bbc1-b1b6d63c0ee2",
-  "solr_geom": "ENVELOPE(-93.5259,-93.0406,44.5466,44.1978)",
+  "solr_geom": "ENVELOPE(-93.526,-93.041,44.547,44.198)",
   "solr_year_i": "1995",
   "dc_creator_sm": [
     "Balaban, Nancy",
@@ -15,11 +15,10 @@
   ],
   "dc_description_s": "Maps showing locations and types of bedrock aggregate and sand and gravel resources, scale 1:100,000, Rice County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22290.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/690/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:690\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22290.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/690/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:690\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/690/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:53Z",
   "dc_language_sm": [
     "eng"
   ],

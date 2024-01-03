@@ -5,19 +5,18 @@
   "dc_title_s": "Colorado, Denver quadrangle",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll205:672",
-  "solr_geom": "ENVELOPE(-105.5,-104.5,40,39.5)",
+  "solr_geom": "ENVELOPE(-105.500,-104.500,40.000,39.500)",
   "solr_year_i": "1901",
   "dc_creator_sm": [
     "Geological Survey (U.S.)"
   ],
   "dc_description_s": "Relief shown by contours.; \"Reconnaissance map.\"; \"Survey in 1888.\"; \"Engraved Oct 1891 by U.S.G.S.\"; Shows roads, and railroads.; Text on verso.|45 x 69 centimeters|Scale 1:125,000|City Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:672\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/672/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/672/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:672\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/672/manifest.json\"}",
   "dct_spatial_sm": [
     "Colorado--Denver",
     "Colorado"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:30Z",
   "dc_language_sm": [
     "eng"
   ],

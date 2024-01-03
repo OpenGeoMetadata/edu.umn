@@ -5,18 +5,17 @@
   "dc_title_s": "Carte régionale de la Province de Québec : comprenant les comtés de Rimouski, Bonaventure et Gaspé",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:672",
-  "solr_geom": "ENVELOPE(-68,-64.0333,49.2833,47.4833)",
+  "solr_geom": "ENVELOPE(-68.000,-64.033,49.283,47.483)",
   "solr_year_i": "1884",
   "dc_creator_sm": [
     "Tache, Eugéne"
   ],
   "dc_description_s": "Shows railways.|53 x 81 centimeters|Scale [ca. 1:360,000]|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:672\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/672/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/672/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:672\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/672/manifest.json\"}",
   "dct_spatial_sm": [
     "Canada"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:03Z",
   "dc_language_sm": [
     "fre"
   ],

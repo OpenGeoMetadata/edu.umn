@@ -5,20 +5,19 @@
   "dc_title_s": "Carte particuliere de la côte du nord-ouest de l'Amérique : reconnue par les frégates Françaises la Boussole et l'Astrolabe en 1786",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:4247",
-  "solr_geom": "ENVELOPE(-147.95,-130.0333333,61.26666667,53.93333333)",
+  "solr_geom": "ENVELOPE(-147.950,-130.033,61.267,53.933)",
   "solr_year_i": "1797",
   "dc_creator_sm": [
     "La Pérouse, Jean-François de Galaup, comte de, 1741-1788"
   ],
   "dc_description_s": "Relief shown by hachures; depths shown by soundings.; Shows the Pacific Coast of British Columbia and Alaska.; In: La Pérouse. Voyage de La Pérouse autour du monde ... . Paris, 1797. Atlas, no. 17.|49.2 x 68 Centimeters|Scale approximately 1:1,790,000.|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4247\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4247/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4247/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4247\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4247/manifest.json\"}",
   "dct_spatial_sm": [
     "Alaska",
     "Canada--British Columbia",
     "Canada"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:12Z",
   "dc_language_sm": [
     "fre"
   ],

@@ -5,18 +5,17 @@
   "dc_title_s": "Map of Sawyer County, Wisconsin, 1926",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:1938",
-  "solr_geom": "ENVELOPE(-91.5517,-90.6769,46.1575,45.6372)",
+  "solr_geom": "ENVELOPE(-91.552,-90.677,46.157,45.637)",
   "solr_year_i": "1926",
   "dc_creator_sm": [
     "Standard Map Company"
   ],
   "dc_description_s": "Shows roads, railroads, and townships.|32 x 37 centimeters, on sheet 36 x 44 centimeters|Scale approximately 1:190,080|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1938\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1938/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/1938/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1938\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1938/manifest.json\"}",
   "dct_spatial_sm": [
     "Wisconsin"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:22Z",
   "dc_language_sm": [
     "eng"
   ],

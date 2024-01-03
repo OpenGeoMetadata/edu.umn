@@ -5,7 +5,7 @@
   "dc_title_s": "Tourist's pocket map and business guide of Colorado Springs, Colorado",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll205:324",
-  "solr_geom": "ENVELOPE(-104.91,-104.5801,39.03,38.7001)",
+  "solr_geom": "ENVELOPE(-104.910,-104.580,39.030,38.700)",
   "solr_year_i": "1900",
   "dc_creator_sm": [
     "Kohler, Fritz",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "\"Copyright, 1900, by Fritz Kohler.\"   Includes index to local businesses, churches, and services.|33 x 26 centimeters|Scale not given.|City Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:324\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/324/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/324/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:324\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/324/manifest.json\"}",
   "dct_spatial_sm": [
     "Colorado--Colorado Springs"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:26Z",
   "dc_language_sm": [
     "eng"
   ],

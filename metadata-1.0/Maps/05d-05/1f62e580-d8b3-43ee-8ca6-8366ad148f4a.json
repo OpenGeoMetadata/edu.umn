@@ -5,18 +5,17 @@
   "dc_title_s": "Quaternary geology-upper Minnesota River basin, Minnesota, RHA-4, Part B, Plate 1",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "1f62e580-d8b3-43ee-8ca6-8366ad148f4a",
-  "solr_geom": "ENVELOPE(-96.8363,-96.1033,45.5864,45.18)",
+  "solr_geom": "ENVELOPE(-96.836,-96.103,45.586,45.180)",
   "solr_year_i": "2000",
   "dc_creator_sm": [
     "Falteisek, Jan"
   ],
   "dc_description_s": "Quaternary (glacial and stream sediment) hydrogeology (ground water information) map of the upper Minnesota River basin, Minnesota, scale 1:200,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22610.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1116/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1116\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22610.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1116/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1116\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1116/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:24:12Z",
   "dc_language_sm": [
     "eng"
   ],

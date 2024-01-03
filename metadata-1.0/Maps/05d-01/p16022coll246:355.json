@@ -5,14 +5,14 @@
   "dc_title_s": "India : and the adjacent parts of Beluchistan, Afghanistan, Turkestan, the Chinese Empire, and Siam",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:355",
-  "solr_geom": "ENVELOPE(65,100,38,1)",
+  "solr_geom": "ENVELOPE(65.000,100.000,38.000,1.000)",
   "solr_year_i": "1890",
   "dc_creator_sm": [
     "Edward Stanford Ltd."
   ],
   "dc_description_s": "Cartographic Details: Scale 1:5,448,960 ; 86 English miles to 1 in. (E 65°--E 100°/N 38°--N 1°). Relief shown by hachures and spot heights. Possibly from Stanford's London Atlas of Universal Geography.\"London Atlas Series.\" Date from previous call number. Shows international and administrative boundaries, railways, roads, submarine cables.|69 x 79 centimeters|Scale 1:5,448,960: 86 English miles to 1 inch|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:355\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/355/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/355/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:355\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/355/manifest.json\"}",
   "dct_spatial_sm": [
     "India",
     "Pakistan",
@@ -23,7 +23,6 @@
     "Sri Lanka",
     "China--People's Republic of China"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:15Z",
   "dc_language_sm": [
     "eng"
   ],

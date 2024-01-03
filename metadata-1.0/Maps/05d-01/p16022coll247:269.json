@@ -5,21 +5,20 @@
   "dc_title_s": "Post route map of the state of Minnesota",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll247:269",
-  "solr_geom": "ENVELOPE(-97.5,-89.5,49.38,41)",
+  "solr_geom": "ENVELOPE(-97.500,-89.500,49.380,41.000)",
   "solr_year_i": "1876",
   "dc_creator_sm": [
     "Nicholson, W. L. (Topographer)"
   ],
   "dc_description_s": "Longitude west from Washington, D.C. Stated on map: \"Designed and constructed under the orders of Postmaster General Marshall Jewell and Second Assistant Postmaster General James N. Tyner‚Ä¶.\"|56 x 40 inches|General Minnesota Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:269\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/269/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/269/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:269\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/269/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota",
     "Iowa",
     "Nebraska",
     "South Dakota"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:55Z",
   "dc_language_sm": [
     "eng"
   ],

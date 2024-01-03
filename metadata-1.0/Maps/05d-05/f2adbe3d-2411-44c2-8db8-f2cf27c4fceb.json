@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Scott County, Minnesota, C-17, Plate 6, Subsurface Recharge and Surface Infiltration",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "f2adbe3d-2411-44c2-8db8-f2cf27c4fceb",
-  "solr_geom": "ENVELOPE(-93.9117,-93.2782,44.8139,44.5446)",
+  "solr_geom": "ENVELOPE(-93.912,-93.278,44.814,44.545)",
   "solr_year_i": "2006",
   "dc_creator_sm": [
     "Setterholm, Dale R.",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Maps showing recharge rates (how quickly new water replaces water removed by pumping) and hydrologic models (how and when water enters and moves throught an aquifer) for water entering aquifers at the surface and aquifers in the subsurface, scale 1:200,000; mixed, Scott County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22365.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/765/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:765\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22365.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/765/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:765\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/765/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:56Z",
   "dc_language_sm": [
     "eng"
   ],

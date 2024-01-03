@@ -5,7 +5,7 @@
   "dc_title_s": "Bedrock geology of the Cranberry Bay quadrangle, Koochiching and St Louis Counties, north-central Minnesota, M-110, Plate 2",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "b9f2d8c3-decc-4916-99bf-a55badcc7cd0",
-  "solr_geom": "ENVELOPE(-94.4317,-93.0804,48.7118,47.846)",
+  "solr_geom": "ENVELOPE(-94.432,-93.080,48.712,47.846)",
   "solr_year_i": "2001",
   "dc_creator_sm": [
     "Hemstad, Chris B.",
@@ -15,11 +15,10 @@
   ],
   "dc_description_s": "Bedrock outcrop map  (location of rocks exposed at the land surface) of the Cranberry Bay quadrangle, scale 1:24,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22514.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/841/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:841\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22514.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/841/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:841\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/841/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:16:48Z",
   "dc_language_sm": [
     "eng"
   ],

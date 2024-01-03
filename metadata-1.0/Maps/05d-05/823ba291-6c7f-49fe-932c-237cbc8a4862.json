@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Washington County, Minnesota, C-5, Plate 7, Well Construction",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "823ba291-6c7f-49fe-932c-237cbc8a4862",
-  "solr_geom": "ENVELOPE(-93.0294,-92.7415,45.2984,44.7381)",
+  "solr_geom": "ENVELOPE(-93.029,-92.742,45.298,44.738)",
   "solr_year_i": "1990",
   "dc_creator_sm": [
     "Balaban, Nancy",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Map showing requirements of well construction practices and regulations as they relate to geology and location of a well on the land surface and surroundings, scale 1:100,000, Washington County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22256.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/657/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:657\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22256.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/657/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:657\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/657/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:57Z",
   "dc_language_sm": [
     "eng"
   ],

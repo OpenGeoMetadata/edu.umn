@@ -5,7 +5,7 @@
   "dc_title_s": "Map of Minneapolis, 1910. Plate no. 6, Pavements",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll245:874",
-  "solr_geom": "ENVELOPE(-93.3289,-93.1994,45.0514,44.9049)",
+  "solr_geom": "ENVELOPE(-93.329,-93.199,45.051,44.905)",
   "solr_year_i": "1910",
   "dc_creator_sm": [
     "Kirk, Fred W.",
@@ -14,12 +14,11 @@
   ],
   "dc_description_s": "Cartographic Details: Scale approximately 1:28,234. Shows pavement material of streets, street car lines and railroads, and parks. On verso: \"Plate No. 6, Pavements.\" \"Andrew Rinker, City Engineer.\" \"Copyright, 1906, by Fred W. Kirk.\"|60 x 39 centimeters|Minneapolis and St. Paul Maps and Atlases",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:874\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/874/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll245/874/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:874\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/874/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota--Minneapolis",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:41Z",
   "dc_language_sm": [
     "eng"
   ],

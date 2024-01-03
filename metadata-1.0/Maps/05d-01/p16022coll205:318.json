@@ -5,18 +5,17 @@
   "dc_title_s": "Map of the city of Detroit, Michigan, 1899 : showing paved streets, public schools, police stations, fire engine and ladder houses",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll205:318",
-  "solr_geom": "ENVELOPE(-83.1601,-82.9001,42.45,42.2801)",
+  "solr_geom": "ENVELOPE(-83.160,-82.900,42.450,42.280)",
   "solr_year_i": "1899",
   "dc_creator_sm": [
     "Calvert Lithographing Co. (Detroit, Mich.)"
   ],
   "dc_description_s": "Includes indices to schools, fire stations, and police department.   Color indicates type of street: asphalt, brick, cedar on concrete, etc.   Also shows railways and street car lines.|62 x 80 centimeters|Scale not given.|City Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:318\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/318/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/318/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:318\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/318/manifest.json\"}",
   "dct_spatial_sm": [
     "Michigan--Detroit"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:25Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Scott County, Minnesota, C-1, Plate 1, Physiography and Data Base",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "f331996d-93d0-4d17-be40-0b1d64bde711",
-  "solr_geom": "ENVELOPE(-93.9117,-93.2782,44.8139,44.5446)",
+  "solr_geom": "ENVELOPE(-93.912,-93.278,44.814,44.545)",
   "solr_year_i": "1982",
   "dc_creator_sm": [
     "Balaban, Nancy",
@@ -16,11 +16,10 @@
   ],
   "dc_description_s": "Interpretation of land surface topography. Map showing locations of water wells, soil borings, outcrops and cuttings samples collected during water well drilling.  Distribution and sources of primary information tthat guide the geologic interpretations used to make the geologic maps in the series, scale 1:100,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn21119.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/613/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:613\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn21119.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/613/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:613\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/613/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:55Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,7 +5,7 @@
   "dc_title_s": "Maps of bedrock geology and superimposed magnetic on gravity (SMOG) anomaly for east-central Minnesota, M-132",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "861ac928-6a92-4944-9bc8-e8c8a001444f",
-  "solr_geom": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
+  "solr_geom": "ENVELOPE(-97.239,-89.483,49.384,43.499)",
   "solr_year_i": "2003",
   "dc_creator_sm": [
     "Boerboom, Terrence J.",
@@ -15,11 +15,10 @@
   ],
   "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments); gravity (interpretation of gravity data collected with ground based meters indicating differences in rock density of rocks in the upper crust) and magnetic anomaly (interpretation of magnetic data collected from airborne surveys, the map contours (lines of equal magnetic intensity) indicate the distribution and concentration of magnetic minerals (primarily iron-bearing) within the upper crust of the earth) map of east-central Minnesota, scale 1:200,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22546.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1157/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1157\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22546.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1157/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1157\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1157/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:22:08Z",
   "dc_language_sm": [
     "eng"
   ],

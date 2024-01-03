@@ -5,18 +5,17 @@
   "dc_title_s": "Map of Mount Desert Island, Maine",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:1254",
-  "solr_geom": "ENVELOPE(-68.315,-68.19,44.39305556,44.28833333)",
+  "solr_geom": "ENVELOPE(-68.315,-68.190,44.393,44.288)",
   "solr_year_i": "1896",
   "dc_creator_sm": [
     "Bates, Waldron"
   ],
   "dc_description_s": "Relief shown by contours.; \"Topography and hydrography adapted from the map of Mount Desert Island issued by hte United States Coast and Geodetic Survey, June 1882.\"; \"Nomenclature, revised and corrected, adapted from the map dated June, 1892, compiled for the flora of Mount Desert Island.\"; \"The curves of equal elevation are given for every 40 feet difference of level. Datum is high water mark.\"|76 x 61 centimeters|Scale 1:40,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1254\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1254/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/1254/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1254\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1254/manifest.json\"}",
   "dct_spatial_sm": [
     "Maine"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:22Z",
   "dc_language_sm": [
     "eng"
   ],

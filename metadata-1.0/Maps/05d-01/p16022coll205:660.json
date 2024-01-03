@@ -5,19 +5,18 @@
   "dc_title_s": "Guide map of Seattle",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll205:660",
-  "solr_geom": "ENVELOPE(-122.4594444,-122.2241667,47.73388889,47.48083333)",
+  "solr_geom": "ENVELOPE(-122.459,-122.224,47.734,47.481)",
   "solr_year_i": "1924",
   "dc_creator_sm": [
     "Kroll Map Company, inc"
   ],
   "dc_description_s": "Shows parks, streetcar and bus lines, main thoroughfares, railroads, and house numbers.; Includes inset of \"System of street designations.\"; Indexed on verso.|84 x 53 centimeters|Scale approximately 1:31,680|City Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:660\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/660/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/660/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:660\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/660/manifest.json\"}",
   "dct_spatial_sm": [
     "Seattle--Washington",
     "Washington"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:18Z",
   "dc_language_sm": [
     "eng"
   ],

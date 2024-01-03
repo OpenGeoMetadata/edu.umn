@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Mower County, Minnesota, C-11, Part A, Plate 4, Subsurface Stratigraphy",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "2accc4b5-fc4a-4cff-9baa-2421a70bcd16",
-  "solr_geom": "ENVELOPE(-93.0505,-92.4507,43.8518,43.5026)",
+  "solr_geom": "ENVELOPE(-93.050,-92.451,43.852,43.503)",
   "solr_year_i": "1998",
   "dc_creator_sm": [
     "Meyer, Gary N.",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Maps showing cross sections of Quaternary geologic units and thickness of the Quaternary glacial materials, scale 1:100,000, Mower County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22308.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/708/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:708\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22308.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/708/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:708\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/708/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:51Z",
   "dc_language_sm": [
     "eng"
   ],

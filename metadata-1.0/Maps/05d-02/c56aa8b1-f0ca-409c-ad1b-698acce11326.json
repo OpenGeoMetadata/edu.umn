@@ -5,19 +5,18 @@
   "dc_title_s": "Map of Grand Prairie Township: Township 101 N, Range 43 W of the 5th PM.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "c56aa8b1-f0ca-409c-ad1b-698acce11326",
-  "solr_geom": "ENVELOPE(-96.0532,-95.4527,43.8508,43.4999)",
+  "solr_geom": "ENVELOPE(-96.053,-95.453,43.851,43.500)",
   "solr_year_i": "1914",
   "dc_creator_sm": [
     "Geo. A. Ogle & Company"
   ],
   "dc_description_s": "Page 59: Standard atlas of Nobles County, Minnesota, 1914",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2262/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/193086\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2262/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/193086\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/2262/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota--Nobles County",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:27:04Z",
   "dc_language_sm": [
     "eng"
   ],

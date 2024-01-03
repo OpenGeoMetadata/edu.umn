@@ -5,7 +5,7 @@
   "dc_title_s": "Railroad commissioners' map of Minnesota",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll206:135",
-  "solr_geom": "ENVELOPE(-97.23,-89.6,49,43.5)",
+  "solr_geom": "ENVELOPE(-97.230,-89.600,49.000,43.500)",
   "solr_year_i": "1886",
   "dc_creator_sm": [
     "Minnesota. Office of Railroad and Warehouse Commissioners",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Cartographic Details: Scale [1:760,320]. 1 in. = 12 miles (W 97‚Å∞14 π--W 89‚Å∞36 π/N 49‚Å∞00 π--N 43‚Å∞30 π).Includes inset of \"North east corner of Minnesota.\"|99 x 66 centimeters|Scale [1:760,320]. 1 inch = 12 miles|Minnesota Transportation Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll206:135\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll206/135/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll206/135/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll206:135\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll206/135/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:12Z",
   "dc_language_sm": [
     "eng"
   ],

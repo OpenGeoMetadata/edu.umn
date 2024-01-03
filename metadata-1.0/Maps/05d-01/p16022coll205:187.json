@@ -5,19 +5,18 @@
   "dc_title_s": "Board of Realtors atlas of the city of Duluth.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll205:187",
-  "solr_geom": "ENVELOPE(-92.40277778,-91.90416667,46.92083333,46.65277778)",
+  "solr_geom": "ENVELOPE(-92.403,-91.904,46.921,46.653)",
   "solr_year_i": "1924",
   "dc_creator_sm": [
     "Duluth (Minn.). Board of Realtors."
   ],
   "dc_description_s": "Cartographic Details: Scale approximately 1:2,400. 1 in. = 200 ft. Binder's title. Includes index map.|1 atlas (XX pages) : 64 maps (part color) ; 50 x 78 centimeters|Scale approximately 1:2,400. 1 inch = 200 feet|City Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:187\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/187/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/187/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:187\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/187/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota--Duluth",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:16Z",
   "dc_language_sm": [
     "eng"
   ],

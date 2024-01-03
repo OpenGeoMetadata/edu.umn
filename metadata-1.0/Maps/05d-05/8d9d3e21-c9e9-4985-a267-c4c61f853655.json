@@ -5,18 +5,17 @@
   "dc_title_s": "Cretaceous System in Minnesota, RI-5, Plate 1",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "8d9d3e21-c9e9-4985-a267-c4c61f853655",
-  "solr_geom": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
+  "solr_geom": "ENVELOPE(-97.239,-89.483,49.384,43.499)",
   "solr_year_i": "1964",
   "dc_creator_sm": [
     "Sloan, Robert E. (Robert Evan), 1929-"
   ],
   "dc_description_s": "Map of Minnesota showing localities of Cretaceous rocks described in the RI-5 report, scale 1 inch = about 35 miles.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23378.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/909/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:909\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23378.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/909/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:909\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/909/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:17:55Z",
   "dc_language_sm": [
     "eng"
   ],

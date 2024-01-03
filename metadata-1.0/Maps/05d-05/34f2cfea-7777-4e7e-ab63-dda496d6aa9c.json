@@ -5,18 +5,17 @@
   "dc_title_s": "Geologic atlas of Pine County, Minnesota, C-13, Part B, Plate 9, Hydrogeologic Cross Sections",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "34f2cfea-7777-4e7e-ab63-dda496d6aa9c",
-  "solr_geom": "ENVELOPE(-93.1409,-92.2889,46.419,45.7312)",
+  "solr_geom": "ENVELOPE(-93.141,-92.289,46.419,45.731)",
   "solr_year_i": "2004",
   "dc_creator_sm": [
     "Berg, James A."
   ],
   "dc_description_s": "Cross sections detailing how and when ground water moves through the bedrock and Quaternary (unconsolidated glacial and stream sediment overlying the bedrock) aquifers, scale mixed, Pine County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22333.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/781/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:781\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22333.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/781/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:781\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/781/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:52Z",
   "dc_language_sm": [
     "eng"
   ],

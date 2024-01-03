@@ -5,19 +5,18 @@
   "dc_title_s": "Davison's atlas map of Minneapolis Hennepin Co., Minn., 1887.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll245:919",
-  "solr_geom": "ENVELOPE(-93.3227,-93.2174,45.0493,44.9125)",
+  "solr_geom": "ENVELOPE(-93.323,-93.217,45.049,44.913)",
   "solr_year_i": "1887",
   "dc_creator_sm": [
     "Davison, C., 1849-1925"
   ],
   "dc_description_s": "Street index on verso. Shows ward boundaries, city limits and patrol limits.|53 x 72 centimeters|Minneapolis and St. Paul Maps and Atlases",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:919\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/919/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll245/919/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:919\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/919/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota--Minneapolis",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:12Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Todd County, Minnesota, C-18, Part A, Plate 5, Depth to Bedrock, Bedrock Topography, and Sand Distribution Model",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "9f9439a0-b43b-4574-8142-250ba1e2ecab",
-  "solr_geom": "ENVELOPE(-95.1563,-94.6419,46.3708,45.7744)",
+  "solr_geom": "ENVELOPE(-95.156,-94.642,46.371,45.774)",
   "solr_year_i": "2007",
   "dc_creator_sm": [
     "Lively, R. S.",
@@ -14,11 +14,10 @@
   ],
   "dc_description_s": "Maps showing the elevation of the bedrock surface (bedrock topography) and thickness of unconsolidated material over the bedrock surface and digitally created 3-dimensional surfaces and thickness of glacial and stream derived sand bodies, scale 1:200,000; 1:350,000, Todd County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22370.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/770/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:770\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22370.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/770/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:770\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/770/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:56Z",
   "dc_language_sm": [
     "eng"
   ],

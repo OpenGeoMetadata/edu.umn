@@ -5,18 +5,17 @@
   "dc_title_s": "Simple Bouguer gravity map of Minnesota, Two Harbors sheet, M-9",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "1beee2f0-5adf-4dc3-bfa1-48afa56c563b",
-  "solr_geom": "ENVELOPE(-91.0311,-89.5,48.2462,47.4597)",
+  "solr_geom": "ENVELOPE(-91.031,-89.500,48.246,47.460)",
   "solr_year_i": "1970",
   "dc_creator_sm": [
     "Ikola, R.J."
   ],
   "dc_description_s": "Bouguer gravity anomaly map (anomaly related to different densities of rocks in the upper crust, Bouguer anomaly is a corrected difference between an observed gravity measurement and value predicted from a generalized earth model), shown as contour lines (isolines) of equal value, Two Harbors quadrangle, scale 1:250,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22388.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/784/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:784\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22388.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/784/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:784\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/784/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:25:04Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,18 +5,17 @@
   "dc_title_s": "State of Colorado : compiled from the official records of the General Land Office and other sources",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:2484",
-  "solr_geom": "ENVELOPE(-109,-102,41.5,37)",
+  "solr_geom": "ENVELOPE(-109.000,-102.000,41.500,37.000)",
   "solr_year_i": "1879",
   "dc_creator_sm": [
     "Roeser, C. (Charles)"
   ],
   "dc_description_s": "Relief shown by hachures.; \"Department of the Interior, General Land Office, J.S. Williamson, Commissioner.\"; \"Photo lith and print by Julius Bien, 16 and 18 Park Place, N.Y.\"|68 x 86 centimeters|Scale [1:950,400] 1 inch to 15 miles.|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2484\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2484/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2484/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2484\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2484/manifest.json\"}",
   "dct_spatial_sm": [
     "Colorado"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:59Z",
   "dc_language_sm": [
     "eng"
   ],

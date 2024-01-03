@@ -5,18 +5,17 @@
   "dc_title_s": "Base map of Illinois",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:1983",
-  "solr_geom": "ENVELOPE(-91.5,-87.5,42.5,37)",
+  "solr_geom": "ENVELOPE(-91.500,-87.500,42.500,37.000)",
   "solr_year_i": "1912",
   "dc_creator_sm": [
     "Illinois State Geological Survey"
   ],
   "dc_description_s": "Relief shown by spot heights.|125 x 72 centimeters|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1983\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1983/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/1983/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1983\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1983/manifest.json\"}",
   "dct_spatial_sm": [
     "Illinois"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:44Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,19 +5,18 @@
   "dc_title_s": "Map of Greenvale Township: Township 112 N, Range 20 W of the 5th PM.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "62e5d232-e4d6-496e-9307-d4bc8c62e07a",
-  "solr_geom": "ENVELOPE(-93.3287,-92.7339,44.9233,44.4729)",
+  "solr_geom": "ENVELOPE(-93.329,-92.734,44.923,44.473)",
   "solr_year_i": "1916",
   "dc_creator_sm": [
     "Farmer (Saint Paul, Minn.)"
   ],
   "dc_description_s": "Page 35: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1761/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/193103\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1761/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/193103\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/1761/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota--Dakota County",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:27:04Z",
   "dc_language_sm": [
     "eng"
   ],

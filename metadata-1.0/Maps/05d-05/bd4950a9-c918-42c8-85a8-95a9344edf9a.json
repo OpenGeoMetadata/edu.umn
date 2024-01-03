@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Crow Wing County, Minnesota, C-16, Part A, Plate 6, Mineral Endowment",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "bd4950a9-c918-42c8-85a8-95a9344edf9a",
-  "solr_geom": "ENVELOPE(-94.3944,-93.776,46.806,46.1551)",
+  "solr_geom": "ENVELOPE(-94.394,-93.776,46.806,46.155)",
   "solr_year_i": "2004",
   "dc_creator_sm": [
     "Boerboom, Terrence J.",
@@ -14,11 +14,10 @@
   ],
   "dc_description_s": "Maps showing locations and types of mineral resources, bedrock aggregate and sand and gravel resources, scale 1:100,000; 1:200,000, Crow Wing.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22359.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/759/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:759\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22359.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/759/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:759\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/759/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:49Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,19 +5,18 @@
   "dc_title_s": "Carte régionale no. 2 de la province de Québec : comprenant des comtés de St. Maurice, Maskinonge, Berthier, Joliette ... Argenteuil et Ottawa",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:4003",
-  "solr_geom": "ENVELOPE(-77,-72,47,45)",
+  "solr_geom": "ENVELOPE(-77.000,-72.000,47.000,45.000)",
   "solr_year_i": "1911",
   "dc_creator_sm": [
     "Taché, A. M"
   ],
   "dc_description_s": "Shows lots and concession nos.; townships; railways.|sheet 88 x 122 Centimeters|Scale 1:253,440|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4003\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4003/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4003/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4003\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4003/manifest.json\"}",
   "dct_spatial_sm": [
     "Canada--Quebec",
     "Canada"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:44Z",
   "dc_language_sm": [
     "fre"
   ],

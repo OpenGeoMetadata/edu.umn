@@ -5,7 +5,7 @@
   "dc_title_s": "SU 6-10/7-11: Antarctica",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "ANT-REF-MS2509-044",
-  "solr_geom": "ENVELOPE(-127.5,-135,-81,-82.5)",
+  "solr_geom": "ENVELOPE(-127.500,-135.000,-81.000,-82.500)",
   "solr_year_i": "1992",
   "dc_description_s": "Projection: Lambert Conformal Conic Projection - Standard Parallels 78º40' and 81º20'; Series: USGS Satellite Image Maps",
   "dc_format_s": "GeoTIFF",
@@ -13,7 +13,6 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "layer_modified_dt": "2023-02-03T22:44:56Z",
   "dc_language_sm": [
     "eng"
   ],

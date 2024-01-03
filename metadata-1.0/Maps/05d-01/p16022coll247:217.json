@@ -4,20 +4,19 @@
   "dc_title_s": "Johnson's Minnesota and Dakota",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll247:217",
-  "solr_geom": "ENVELOPE(-102.7798,-89.5633,48.9991,42.4903)",
+  "solr_geom": "ENVELOPE(-102.780,-89.563,48.999,42.490)",
   "solr_year_i": "1860",
   "dc_creator_sm": [
     "Johnson & Browning"
   ],
   "dc_description_s": "Atlas plate 52. Longitude west from Greenwich and Washington, D.C.|12.5 x 15.5 inches|General Minnesota Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:217\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/217/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/217/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:217\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/217/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota",
     "North Dakota",
     "South Dakota"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:42Z",
   "dc_language_sm": [
     "eng"
   ],

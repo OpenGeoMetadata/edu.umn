@@ -5,18 +5,17 @@
   "dc_title_s": "Map of the City of New York",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll205:283",
-  "solr_geom": "ENVELOPE(-74.25,-73.7,40.9001,40.4601)",
+  "solr_geom": "ENVELOPE(-74.250,-73.700,40.900,40.460)",
   "solr_year_i": "1871",
   "dc_creator_sm": [
     "City Directory Office (New York)"
   ],
   "dc_description_s": "Covers all of Manhattan, New York (N.Y.) south of 119th Street; also the westernmost parts of Queens and Brooklyn, New York (N.Y.) and part of Jersey City and Hoboken (N.J.) Shows existing and proposed streets, railroads, piers.  Date from previously assigned call number.  Relief shown by hachures.|47 x 84 centimeters|Scale not given.|City Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:283\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/283/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/283/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:283\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/283/manifest.json\"}",
   "dct_spatial_sm": [
     "New York--New York"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:49Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,7 +5,7 @@
   "dc_title_s": "Asia",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:215",
-  "solr_geom": "ENVELOPE(25,175.5,81.83,3.16)",
+  "solr_geom": "ENVELOPE(25.000,175.500,81.830,3.160)",
   "solr_year_i": "1801",
   "dc_creator_sm": [
     "Allen, George (Engraver)",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Cartographic Details: Scale [1:4,660,000]. Dedicated to Major James Rennell, by A. Arrowsmith, January 1st 1801.\"Engraved by George Allen.\" Ornate title cartouche, with military regalia. Greenwich meridian. Relief shown pictorially with shading.|125 x 145 centimeters|Scale [1:4,660,000]|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:215\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/215/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/215/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:215\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/215/manifest.json\"}",
   "dct_spatial_sm": [
     "Asia"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:14Z",
   "dc_language_sm": [
     "eng"
   ],

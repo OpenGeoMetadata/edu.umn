@@ -5,7 +5,7 @@
   "dc_title_s": "Alexandra Mountains: Antarctica",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "ANT-REF-MT2503-001",
-  "solr_geom": "ENVELOPE(-150,-156,-77,-78.25)",
+  "solr_geom": "ENVELOPE(-150.000,-156.000,-77.000,-78.250)",
   "solr_year_i": "1969",
   "dc_description_s": "Projection: Lambert Conformal Conic Projection: Standard Parallels -76º40' and -79º20'; Series: USGS 1:250,000 Topographic Reconnaissance Series",
   "dc_format_s": "GeoTIFF",
@@ -13,7 +13,6 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "layer_modified_dt": "2023-02-03T22:43:55Z",
   "dc_language_sm": [
     "eng"
   ],

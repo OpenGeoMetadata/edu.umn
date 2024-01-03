@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Olmsted County, Minnesota, C-3, Plate 9, Geologic Resources",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "0132db2d-f1e0-4c1b-b334-94d08f919d92",
-  "solr_geom": "ENVELOPE(-92.6891,-92.0803,44.1972,43.8361)",
+  "solr_geom": "ENVELOPE(-92.689,-92.080,44.197,43.836)",
   "solr_year_i": "1988",
   "dc_creator_sm": [
     "Balaban, Nancy",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Maps showing locations and types of bedrock aggregate and sand and gravel resources, scale 1:100,000, Olmsted County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22233.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/641/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:641\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22233.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/641/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:641\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/641/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:52Z",
   "dc_language_sm": [
     "eng"
   ],

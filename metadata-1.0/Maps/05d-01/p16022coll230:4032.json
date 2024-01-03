@@ -5,18 +5,17 @@
   "dc_title_s": "Map of Florida",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:4032",
-  "solr_geom": "ENVELOPE(-87.63333333,-79.96666667,31.06666667,24.38333333)",
+  "solr_geom": "ENVELOPE(-87.633,-79.967,31.067,24.383)",
   "solr_year_i": "1905",
   "dc_creator_sm": [
     "George F. Cram Company"
   ],
   "dc_description_s": "Includes part of southern Georgia. Shows county boundaries and railroads.; Prime meridians: Greenwich and Washington, D.C.; Inset: Northwestern portion of Florida.; On verso: Index to counties and towns with 1900 population.; In bottom right corner: \"Geo. F. Cram, Engraver, Chicago\".|50 x 32 Centimeters, on sheet 54 x 52 Centimeters|Scale approximately 1:1,584,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4032\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4032/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4032/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4032\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4032/manifest.json\"}",
   "dct_spatial_sm": [
     "Florida"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:33Z",
   "dc_language_sm": [
     "eng"
   ],

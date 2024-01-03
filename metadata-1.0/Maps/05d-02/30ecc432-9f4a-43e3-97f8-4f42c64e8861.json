@@ -5,19 +5,18 @@
   "dc_title_s": "Northern Portion of Clearwater County",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "30ecc432-9f4a-43e3-97f8-4f42c64e8861",
-  "solr_geom": "ENVELOPE(-95.5825,-95.1694,48.0219,47.1496)",
+  "solr_geom": "ENVELOPE(-95.582,-95.169,48.022,47.150)",
   "solr_year_i": "1912",
   "dc_creator_sm": [
     "Ringborg, Axel"
   ],
   "dc_description_s": "Atlas of Clearwater County, Minnesota, 1912",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/607/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/193096\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/607/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/193096\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/607/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota--Clearwater County",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:27:13Z",
   "dc_language_sm": [
     "eng"
   ],

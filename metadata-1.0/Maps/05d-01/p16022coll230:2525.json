@@ -5,18 +5,17 @@
   "dc_title_s": "Topographic map of Yosemite National Park, California",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:2525",
-  "solr_geom": "ENVELOPE(-120.0,-119.0,38.1667,37.5)",
+  "solr_geom": "ENVELOPE(-120.000,-119.000,38.167,37.500)",
   "solr_year_i": "1929",
   "dc_creator_sm": [
     "Geological Survey (U.S.)"
   ],
   "dc_description_s": "Surveyed between 1893 and 1909, roads and trails added 1928 by National Park Service.; Relief shown by contour lines and spot heights.; Contour interval 100 feet.; \"Hetch Hetchy and Lake Eleanor reservoirs shown in hatched blue lines; from approximate information only.\"|68 x 71 centimeters|Scale 1:125,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2525\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2525/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2525/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2525\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2525/manifest.json\"}",
   "dct_spatial_sm": [
     "California"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:32Z",
   "dc_language_sm": [
     "eng"
   ],

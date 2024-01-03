@@ -5,21 +5,20 @@
   "dc_title_s": "Plan of the city of Minneapolis and vicinity",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll245:1087",
-  "solr_geom": "ENVELOPE(-93.32888889,-93.22638889,45.01305556,44.91222222)",
+  "solr_geom": "ENVELOPE(-93.329,-93.226,45.013,44.912)",
   "solr_year_i": "1874",
   "dc_creator_sm": [
     "Andreas, A. T. (Alfred Theodore), 1839-1900"
   ],
   "dc_description_s": "Plates from the publisher's An illustrated historical atlas of the state of Minnesota.; Shows wards, sections, block numbers, owners of large parcels, cemeteries, railroad lines.; \"40\" and \"41\" at the upper margins of the sheet.; Includes inset map and illustration: Part of the S.E. vicinity of Minneapolis showing Minnehaha Ave. to Minnehaha Falls.; Ancillary maps on verso:  Map of Hennepin County -- Map of Ramsey County. \"42\" and \"39\" at upper margins.|41 x 70 Centimeters on sheet 45 x 71 Centimeters|Scale not given|Minneapolis and St. Paul Maps and Atlases",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:1087\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/1087/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll245/1087/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:1087\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/1087/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota--Minneapolis",
     "Minnesota",
     "Hennepin County",
     "Ramsey County"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:52Z",
   "dc_language_sm": [
     "eng"
   ],

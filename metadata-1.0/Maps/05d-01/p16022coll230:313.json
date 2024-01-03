@@ -5,7 +5,7 @@
   "dc_title_s": "Mackinlay's map of the province of Nova Scotia, including the island of Cape Breton",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:313",
-  "solr_geom": "ENVELOPE(-66,-60,47,43.5)",
+  "solr_geom": "ENVELOPE(-66.000,-60.000,47.000,43.500)",
   "solr_year_i": "1861",
   "dc_creator_sm": [
     "Hendry, W. A.",
@@ -13,12 +13,11 @@
   ],
   "dc_description_s": "Cartographic Details: Scale [1:570,000] Relief shown by hachures.|1 map : color ; 78 x 97 cm.|Scale [1:570,000]|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:313\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/313/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/313/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:313\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/313/manifest.json\"}",
   "dct_spatial_sm": [
     "Canada--Nova Scotia",
     "Canada"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:43Z",
   "dc_language_sm": [
     "eng"
   ],

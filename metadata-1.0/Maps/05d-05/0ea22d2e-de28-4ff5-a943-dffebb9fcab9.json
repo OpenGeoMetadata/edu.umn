@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Todd County, Minnesota, C-18, Part A, Plate 2, Bedrock Geology",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "0ea22d2e-de28-4ff5-a943-dffebb9fcab9",
-  "solr_geom": "ENVELOPE(-95.1563,-94.6419,46.3708,45.7744)",
+  "solr_geom": "ENVELOPE(-95.156,-94.642,46.371,45.774)",
   "solr_year_i": "2007",
   "dc_creator_sm": [
     "Boerboom, Terrence J.",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Map showing interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) with cross section diagrams, scale 1:200,000, Todd County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22367.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/767/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:767\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22367.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/767/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:767\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/767/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:56Z",
   "dc_language_sm": [
     "eng"
   ],

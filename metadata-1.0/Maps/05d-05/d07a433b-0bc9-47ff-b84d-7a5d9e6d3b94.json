@@ -5,7 +5,7 @@
   "dc_title_s": "Ground-water geochemical atlas for parts of east-central Minnesota, M-58, Plate 2",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "d07a433b-0bc9-47ff-b84d-7a5d9e6d3b94",
-  "solr_geom": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
+  "solr_geom": "ENVELOPE(-97.239,-89.483,49.384,43.499)",
   "solr_year_i": "1985",
   "dc_creator_sm": [
     "Lively, R. S.",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Distribution and concentrations of Boron, and Barium, and Beryllium, and Calcium, and Cobalt, and Chromium in bedrock water wells, scale 1:600,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22448.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/939/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:939\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22448.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/939/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:939\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/939/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:19:19Z",
   "dc_language_sm": [
     "eng"
   ],

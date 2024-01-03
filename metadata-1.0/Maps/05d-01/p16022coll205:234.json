@@ -5,7 +5,7 @@
   "dc_title_s": "Whitney's map of Portland and environs",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll205:234",
-  "solr_geom": "ENVELOPE(-122.83,-122.46,45.65,45.4101)",
+  "solr_geom": "ENVELOPE(-122.830,-122.460,45.650,45.410)",
   "solr_year_i": "1889",
   "dc_creator_sm": [
     "Everts & Howell.",
@@ -14,11 +14,10 @@
   ],
   "dc_description_s": "Shows additions, lot numbers, street names, and railroads.   Inset: Map showing relation of Oregon City & Vancouver to Portland.   \"Prepared for Borthwick, Batty & Co., dealers in real estate and loans.\"   City boundary highlighted with red overprint.   Map has public land (township, range, and section) grid.   Map carries the logo of the Union Pacific Railroad.   Includes financial statistics for Portland in the lower right corner.|89 x 61 centimeters|Scale approximately 1:22,500.|City Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:234\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/234/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/234/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:234\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/234/manifest.json\"}",
   "dct_spatial_sm": [
     "Oregon--Portland"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:14Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,7 +5,7 @@
   "dc_title_s": "Soil map, Minnesota, Anoka County sheet",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll231:52",
-  "solr_geom": "ENVELOPE(-93.5,-93,45.41,45)",
+  "solr_geom": "ENVELOPE(-93.500,-93.000,45.410,45.000)",
   "solr_year_i": "1916",
   "dc_creator_sm": [
     "United States. Bureau of Chemistry and Soils",
@@ -13,12 +13,11 @@
   ],
   "dc_description_s": "Cartographic Details: Scale approximately 1:49,000. Not \"1 in. = 1 mi.\" (W 93°30 ª--W 93°00 ª/N 45°25 ª--N 45°00 ª). Enlarged reproduction. \"Soils surveyed by William G. Smith, of the U.S. Department of Agricluture, in charge, and George H. Nesom, and E.G. Roth, of the University of Minnesota.\"|90 x 82 centimeters|Scale approximately 1:49,000. Not \"1 inch = 1 mile\"|Minnesota County Maps, Plat Books, and Atlases",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:52\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/52/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/52/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:52\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/52/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota--Anoka County",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:55Z",
   "dc_language_sm": [
     "eng"
   ],

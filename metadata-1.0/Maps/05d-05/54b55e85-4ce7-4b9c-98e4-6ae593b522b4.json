@@ -5,7 +5,7 @@
   "dc_title_s": "Glacial and vegetational history of northeastern Minnesota, SP-11, Plate 5",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "54b55e85-4ce7-4b9c-98e4-6ae593b522b4",
-  "solr_geom": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
+  "solr_geom": "ENVELOPE(-97.239,-89.483,49.384,43.499)",
   "solr_year_i": "1969",
   "dc_creator_sm": [
     "Watts, William (William A.), 1930-2010",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Pollen diagram (types of pollen in lake sediment) for Rossburg Bog, Aitkin, Minnesota.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23403.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/922/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:922\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23403.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/922/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:922\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/922/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:19:10Z",
   "dc_language_sm": [
     "eng"
   ],

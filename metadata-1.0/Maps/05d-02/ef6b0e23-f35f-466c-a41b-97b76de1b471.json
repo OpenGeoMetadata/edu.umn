@@ -5,19 +5,18 @@
   "dc_title_s": "Map of Oscar Township: Township 134, Range 44 W of the 5th PM.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "ef6b0e23-f35f-466c-a41b-97b76de1b471",
-  "solr_geom": "ENVELOPE(-96.2827,-95.1454,46.7199,46.1072)",
+  "solr_geom": "ENVELOPE(-96.283,-95.145,46.720,46.107)",
   "solr_year_i": "1912",
   "dc_creator_sm": [
     "Geo. A. Ogle & Company"
   ],
   "dc_description_s": "Page 69: Standard atlas of Otter Tail County, Minnesota, 1912",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1425/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/193084\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1425/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/193084\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/1425/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota--Otter Tail County",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:27:09Z",
   "dc_language_sm": [
     "eng"
   ],

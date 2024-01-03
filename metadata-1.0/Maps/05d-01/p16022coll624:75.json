@@ -5,7 +5,7 @@
   "dc_title_s": "Soil interpretative map of important farmlands, Hood County, Texas",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll624:75",
-  "solr_geom": "ENVELOPE(-98.0,-97.666667,32.5,32.25)",
+  "solr_geom": "ENVELOPE(-98.000,-97.667,32.500,32.250)",
   "solr_year_i": "1981",
   "dc_creator_sm": [
     "United States. Soil Conservation Service"
@@ -15,14 +15,13 @@
   "dc_subject_sm": [
     "Agriculture"
   ],
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/75/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:75\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/75/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/75/filename/print/page/download/fparams/forcedownload\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll624/75/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:75\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/75/manifest.json\"}",
   "dct_spatial_sm": [
     "Texas--Hood County",
     "Texas"
   ],
-  "layer_modified_dt": "2023-06-16T21:54:34Z",
   "dc_language_sm": [
-    "English"
+    "eng"
   ],
   "dc_publisher_s": "USDA-SCS (Fort Worth, Tex.)",
   "dct_issued_s": "1981",

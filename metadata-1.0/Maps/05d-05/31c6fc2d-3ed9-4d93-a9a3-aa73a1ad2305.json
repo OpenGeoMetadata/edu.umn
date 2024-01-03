@@ -5,7 +5,7 @@
   "dc_title_s": "Bedrock geologic map the Mille Lacs 30 x 60 minute quadrangle, east-central Minnesota, M-100, Plate 1",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "31c6fc2d-3ed9-4d93-a9a3-aa73a1ad2305",
-  "solr_geom": "ENVELOPE(-93.8107,-93.428,46.2443,45.5598)",
+  "solr_geom": "ENVELOPE(-93.811,-93.428,46.244,45.560)",
   "solr_year_i": "1999",
   "dc_creator_sm": [
     "Boerboom, Terrence J.",
@@ -14,11 +14,10 @@
   ],
   "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) Mille Lacs quadrangle, scale 1:100,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22498.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1137/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1137\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22498.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1137/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1137\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1137/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:16:47Z",
   "dc_language_sm": [
     "eng"
   ],

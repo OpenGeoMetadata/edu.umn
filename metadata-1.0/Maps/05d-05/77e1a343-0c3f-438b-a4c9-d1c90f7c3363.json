@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic map of the Duluth Complex and related rocks, northeastern Minnesota, M-119, Plate 1",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "77e1a343-0c3f-438b-a4c9-d1c90f7c3363",
-  "solr_geom": "ENVELOPE(-93.0966,-91.7893,48.63,46.6507)",
+  "solr_geom": "ENVELOPE(-93.097,-91.789,48.630,46.651)",
   "solr_year_i": "2001",
   "dc_creator_sm": [
     "Chandler, Val W.",
@@ -16,11 +16,10 @@
   ],
   "dc_description_s": "Compilation of interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Duluth Complex, scale, 1:200,000; 1:500,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22527.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1182/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1182\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22527.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1182/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1182\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1182/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:19:00Z",
   "dc_language_sm": [
     "eng"
   ],

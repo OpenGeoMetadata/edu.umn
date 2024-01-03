@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Fillmore County, Minnesota, C-8, Part A, Plate 5, Geologic Resources",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "d90de8ba-83cc-41e1-a2fd-a2689390c057",
-  "solr_geom": "ENVELOPE(-92.4507,-91.7305,43.8508,43.5021)",
+  "solr_geom": "ENVELOPE(-92.451,-91.731,43.851,43.502)",
   "solr_year_i": "1995",
   "dc_creator_sm": [
     "Mossler, John H.",
@@ -15,11 +15,10 @@
   ],
   "dc_description_s": "Maps showing locations and types of bedrock aggregate and sand and gravel resources, scale 1:100,000, Fillmore County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22280.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/735/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:735\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22280.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/735/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:735\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/735/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:50Z",
   "dc_language_sm": [
     "eng"
   ],

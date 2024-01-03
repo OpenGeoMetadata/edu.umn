@@ -5,7 +5,7 @@
   "dc_title_s": "Superior National Forest, Minnesota 4th principal meridian, 1924",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll247:140",
-  "solr_geom": "ENVELOPE(-92.58,-90,48.41,47.58)",
+  "solr_geom": "ENVELOPE(-92.580,-90.000,48.410,47.580)",
   "solr_year_i": "1924",
   "dc_creator_sm": [
     "Dennee, Phyllis",
@@ -16,11 +16,10 @@
   ],
   "dc_description_s": "Cartographic Details: Scale ca. 1:253,000 (W 92°35'--W 90°/N 48°25'--N 47°35'). Relief shown by hachures.|42 x 81 centimeters|1:253,000|General Minnesota Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:140\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/140/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/140/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:140\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/140/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:17Z",
   "dc_language_sm": [
     "eng"
   ],

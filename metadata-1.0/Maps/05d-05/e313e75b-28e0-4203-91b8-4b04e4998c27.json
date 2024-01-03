@@ -5,18 +5,17 @@
   "dc_title_s": "Surficial geology of the Gull Lake quadrangle, Cass and Crow Wing Counties, Minnesota, M-113",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "e313e75b-28e0-4203-91b8-4b04e4998c27",
-  "solr_geom": "ENVELOPE(-94.7856,-93.7694,47.4797,46.277)",
+  "solr_geom": "ENVELOPE(-94.786,-93.769,47.480,46.277)",
   "solr_year_i": "2001",
   "dc_creator_sm": [
     "Hobbs, Howard C."
   ],
   "dc_description_s": "Quaternary geology map showing interpretations of Quaternary (Pleistocene [glacial] and Holocene [post-glacial]) surficial geology (distribution and type of materials at the land surface), of the Gull Lake quadrangle, scale 1:24,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22517.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/843/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:843\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22517.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/843/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:843\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/843/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:25:58Z",
   "dc_language_sm": [
     "eng"
   ],

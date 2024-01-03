@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Scott County, Minnesota, C-1, Plate 5, Bedrock Geology",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "e2372bf3-073b-4564-8679-dfc65323f304",
-  "solr_geom": "ENVELOPE(-93.9117,-93.2782,44.8139,44.5446)",
+  "solr_geom": "ENVELOPE(-93.912,-93.278,44.814,44.545)",
   "solr_year_i": "1982",
   "dc_creator_sm": [
     "Balaban, Nancy",
@@ -14,11 +14,10 @@
   ],
   "dc_description_s": "Map showing interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) with cross section diagrams, scale 1:100,000, Scott County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn21123.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/617/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:617\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn21123.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/617/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:617\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/617/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:55Z",
   "dc_language_sm": [
     "eng"
   ],

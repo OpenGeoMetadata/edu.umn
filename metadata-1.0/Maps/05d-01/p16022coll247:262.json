@@ -5,7 +5,7 @@
   "dc_title_s": "Chart of Lake Minnetonka, Minnesota",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll247:262",
-  "solr_geom": "ENVELOPE(-93.7082,-93.4792,44.9777,44.88)",
+  "solr_geom": "ENVELOPE(-93.708,-93.479,44.978,44.880)",
   "solr_year_i": "1906",
   "dc_creator_sm": [
     "Derby, George M.",
@@ -15,11 +15,10 @@
   ],
   "dc_description_s": "Cartographic Details: Scale 1:20,000. \"Reproduced in colors in 1906 by ...\" Relief shown by contours and soundings. \"Soundings, in feet, are reduced to the plane of the crest of the outlet dam, 929.4 ft.\" \"Topography taken from a 1:48,000 scale map of the U.S. Geological Survey, made in 1905.\"|56 x 90 centimeters|1:20,000|General Minnesota Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:262\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/262/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/262/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:262\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/262/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:34Z",
   "dc_language_sm": [
     "eng"
   ],

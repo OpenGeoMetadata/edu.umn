@@ -5,18 +5,17 @@
   "dc_title_s": "Geologic map of Minnesota, bedrock geology, S-20, (digital version 2)",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "80e80ae5-547d-48d4-8ad5-8d30dc54bea7",
-  "solr_geom": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
+  "solr_geom": "ENVELOPE(-97.239,-89.483,49.384,43.499)",
   "solr_year_i": "1996",
   "dc_creator_sm": [
     "Morey, G.B."
   ],
   "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of Minnesota, scale 1:1,000,000, digital compilation 2nd edition.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23261.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1067/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1067\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23261.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1067/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1067\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1067/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:59Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -4,20 +4,19 @@
   "dc_title_s": "Johnson's Minnesota and Dakota",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll247:161",
-  "solr_geom": "ENVELOPE(-102.7277,-89.6375,49,42.462)",
+  "solr_geom": "ENVELOPE(-102.728,-89.638,49.000,42.462)",
   "solr_year_i": "1861",
   "dc_creator_sm": [
     "Johnson and Ward"
   ],
   "dc_description_s": "Atlas plate 64. Longitude west from Greenwich and Washington, D.C. \"Aggregate Statistics of the United States\" tables for 1860 on verso.|14 x 18 inches|General Minnesota Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:161\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/161/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/161/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:161\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/161/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota",
     "North Dakota",
     "South Dakota"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:43Z",
   "dc_language_sm": [
     "eng"
   ],

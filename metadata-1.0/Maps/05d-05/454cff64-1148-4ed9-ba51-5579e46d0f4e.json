@@ -5,7 +5,7 @@
   "dc_title_s": "Aeromagnetic map of Minnesota, north-central region--Grygla quadrangle",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "454cff64-1148-4ed9-ba51-5579e46d0f4e",
-  "solr_geom": "ENVELOPE(-97.1664,-95.5921,48.5452,48.1729)",
+  "solr_geom": "ENVELOPE(-97.166,-95.592,48.545,48.173)",
   "solr_year_i": "1998",
   "dc_creator_sm": [
     "Chandler, Val W.",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Total magnetic intensity anomaly, contour, scale 1:100,000.Interpretation of magnetic data collected from airborne surveys, the map contours (lines of equal magnetic intensity) indicate the distribution and concentration of magnetic minerals (primarily iron-bearing) within the upper crust of the earth.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn21112.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/607/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:607\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn21112.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/607/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:607\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/607/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:16:12Z",
   "dc_language_sm": [
     "eng"
   ],

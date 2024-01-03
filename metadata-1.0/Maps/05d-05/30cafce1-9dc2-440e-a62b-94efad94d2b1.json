@@ -5,7 +5,7 @@
   "dc_title_s": "Karst hydrogeology of LeRoy Township, Mower County, Minnesota, OFR97-02",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "30cafce1-9dc2-440e-a62b-94efad94d2b1",
-  "solr_geom": "ENVELOPE(-93.0505,-92.4507,43.8518,43.5026)",
+  "solr_geom": "ENVELOPE(-93.050,-92.451,43.852,43.503)",
   "solr_year_i": "1997",
   "dc_creator_sm": [
     "Alexander, E. C., Jr.",
@@ -15,11 +15,10 @@
   ],
   "dc_description_s": "Description of the bedrock geology, karst features and depth to bedrock as it relates to hydrogeology in LeRoy Township of Mower County, Minnesota, Plate 1 Bedrock geology map (39x49 in.), Plate 2 Database and bedrock topography map (25.5x28.5 in.).",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://reflections.mndigital.org/catalog/mgs:4720\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/4718/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:4720\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://reflections.mndigital.org/catalog/mgs:4720\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/4718/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:4720\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/4718/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:20:09Z",
   "dc_language_sm": [
     "eng"
   ],

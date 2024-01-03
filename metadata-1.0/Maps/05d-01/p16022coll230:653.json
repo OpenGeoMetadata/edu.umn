@@ -5,18 +5,17 @@
   "dc_title_s": "Map indicating main automobile roads between Canada and United States",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:653",
-  "solr_geom": "ENVELOPE(-135,-55,50,35)",
+  "solr_geom": "ENVELOPE(-135.000,-55.000,50.000,35.000)",
   "solr_year_i": "1928",
   "dc_creator_sm": [
     "Canada. Natural Resources Intelligence Service"
   ],
   "dc_description_s": "Above title: Department of the Interior, Canada ...|50 x 86 centimeters|Scale approximately 1:6,336,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:653\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/653/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/653/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:653\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/653/manifest.json\"}",
   "dct_spatial_sm": [
     "Canada; United States"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:27Z",
   "dc_language_sm": [
     "eng"
   ],

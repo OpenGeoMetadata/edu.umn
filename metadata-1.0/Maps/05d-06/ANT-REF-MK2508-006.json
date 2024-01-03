@@ -5,7 +5,7 @@
   "dc_title_s": "Palmer Land North: Antarctica",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "ANT-REF-MK2508-006",
-  "solr_geom": "ENVELOPE(-60,-70,-68,-70)",
+  "solr_geom": "ENVELOPE(-60.000,-70.000,-68.000,-70.000)",
   "solr_year_i": "1979",
   "dc_description_s": "Projection: Polar Stereographic Projection: Standard Parallel -71º; Series: USGS Sketch Maps",
   "dc_format_s": "GeoTIFF",
@@ -13,7 +13,6 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "layer_modified_dt": "2023-02-03T22:44:38Z",
   "dc_language_sm": [
     "eng"
   ],

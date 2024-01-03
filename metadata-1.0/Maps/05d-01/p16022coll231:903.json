@@ -5,14 +5,14 @@
   "dc_title_s": "Plat Book of Redwood County, Minnesota",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll231:903",
-  "solr_geom": "ENVELOPE(-95.5801,-94.86,44.6801,44.1801)",
+  "solr_geom": "ENVELOPE(-95.580,-94.860,44.680,44.180)",
   "solr_year_i": "1921",
   "dc_creator_sm": [
     "W.W. Hixson & Co."
   ],
   "dc_description_s": "Plat book of Redwood County, Minnesota, containing an outline map of the county and plats of all townships showing location of roads, schools, churches, railroads, streams, etc.|21 x 28 centimeters|Scale approximately 1:50,688|Minnesota County Maps, Plat Books, and Atlases",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:903\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/903/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/903/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:903\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/903/manifest.json\"}",
   "dct_spatial_sm": [
     "Brookville Township",
     "Charlestown Township",
@@ -54,7 +54,6 @@
     "Sanborn",
     "Minnesota--Redwood Falls"
   ],
-  "layer_modified_dt": "2023-04-14T01:06:11Z",
   "dc_language_sm": [
     "eng"
   ],

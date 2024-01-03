@@ -12,7 +12,7 @@
   ],
   "dc_description_s": "Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, containing plats of all townships with owners' names, also maps of the state and United States with an outline map of the county showing location of townships, roads, villages, schools, churches, railroads and streams, etc.|30 x 41 centimeters|Scales differ.|Minnesota County Maps, Plat Books, and Atlases",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:971\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/971/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/971/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:971\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/971/manifest.json\"}",
   "dct_spatial_sm": [
     "Bandon Township",
     "Beaver Falls Township",
@@ -51,7 +51,6 @@
     "Franklin",
     "Minnesota--Fairfax"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:47Z",
   "dc_language_sm": [
     "eng"
   ],

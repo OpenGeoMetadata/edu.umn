@@ -5,18 +5,17 @@
   "dc_title_s": "Geologic map of the Lake Superior region, with sections",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:429",
-  "solr_geom": "ENVELOPE(-95,-84,49,44)",
+  "solr_geom": "ENVELOPE(-95.000,-84.000,49.000,44.000)",
   "solr_year_i": "1910",
   "dc_creator_sm": [
     "Geological Survey (U.S.)"
   ],
   "dc_description_s": "Marginal legend and cross sections.   \"Base map compiled by the U. S. Geological Survey from U. S. Geological Survey atlas sheets, Land Office records, compilations by State Geological Surveys, official maps of Canada and other data.\"|58 x 89 centimeters|Scale 1:1,000,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:429\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/429/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/429/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:429\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/429/manifest.json\"}",
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:40Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic map of Minnesota, Roseau sheet, bedrock geology",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "37699075-2bf6-4c85-8a3e-3df63eda993c",
-  "solr_geom": "ENVELOPE(-96.4066,-95.0929,49.0006,48.5405)",
+  "solr_geom": "ENVELOPE(-96.407,-95.093,49.001,48.541)",
   "solr_year_i": "1979",
   "dc_creator_sm": [
     "Morey, G.B.",
@@ -14,11 +14,10 @@
   ],
   "dc_description_s": "Map showing interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Roseau quadrangle, scale 1:250,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22373.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/773/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:773\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22373.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/773/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:773\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/773/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:59Z",
   "dc_language_sm": [
     "eng"
   ],

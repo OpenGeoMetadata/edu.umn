@@ -5,18 +5,17 @@
   "dc_title_s": "Cretaceous System in Minnesota, RI-5, Plate 2",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "7095ecfc-e855-4dd7-bbe6-5aafd3b2c82e",
-  "solr_geom": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
+  "solr_geom": "ENVELOPE(-97.239,-89.483,49.384,43.499)",
   "solr_year_i": "1964",
   "dc_creator_sm": [
     "Sloan, Robert E. (Robert Evan), 1929-"
   ],
   "dc_description_s": "Contour map (lines of equal elevation) of the present altitude of the Pre-Cretaceous unconformity (erosional surface cut into older rocks) in Minnesota, scale 1 inch = about 32 miles.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23379.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/910/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:910\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23379.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/910/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:910\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/910/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:17:55Z",
   "dc_language_sm": [
     "eng"
   ],

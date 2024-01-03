@@ -5,18 +5,17 @@
   "dc_title_s": "Map of New Hampshire",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:1257",
-  "solr_geom": "ENVELOPE(-72.55,-70.55,45.3,42.68333333)",
+  "solr_geom": "ENVELOPE(-72.550,-70.550,45.300,42.683)",
   "solr_year_i": "1816",
   "dc_creator_sm": [
     "Carrigain, Philip, 1772-1842"
   ],
   "dc_description_s": "Relief shown pictorially.; Includes ill.|69 x 42 centimeters, on sheet 81 x 55 centimeters|Scale approximately 1:350,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1257\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1257/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/1257/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1257\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1257/manifest.json\"}",
   "dct_spatial_sm": [
     "New Hampshire"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:18Z",
   "dc_language_sm": [
     "eng"
   ],

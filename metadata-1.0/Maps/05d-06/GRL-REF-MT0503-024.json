@@ -5,7 +5,7 @@
   "dc_title_s": "Herschellhus: Greenland",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "GRL-REF-MT0503-024",
-  "solr_geom": "ENVELOPE(-16,-20,75,74)",
+  "solr_geom": "ENVELOPE(-16.000,-20.000,75.000,74.000)",
   "solr_year_i": "1952",
   "dc_description_s": "Projection: Transverse Mercator Projection; Series: AMS C501 Greenland 1:250,000 Topographic Series",
   "dc_format_s": "GeoTIFF",
@@ -13,7 +13,6 @@
   "dct_spatial_sm": [
     "Greenland"
   ],
-  "layer_modified_dt": "2023-02-03T22:44:14Z",
   "dc_language_sm": [
     "eng",
     "dan"

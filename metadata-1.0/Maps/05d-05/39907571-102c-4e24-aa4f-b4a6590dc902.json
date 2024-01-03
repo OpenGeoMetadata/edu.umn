@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Scott County, Minnesota, C-1, Plate 2, Surficial Geologic map",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "39907571-102c-4e24-aa4f-b4a6590dc902",
-  "solr_geom": "ENVELOPE(-93.9117,-93.2782,44.8139,44.5446)",
+  "solr_geom": "ENVELOPE(-93.912,-93.278,44.814,44.545)",
   "solr_year_i": "1982",
   "dc_creator_sm": [
     "Aronow, Saul, 1923-",
@@ -15,11 +15,10 @@
   ],
   "dc_description_s": "Map showing interpretations of Quaternary (Pleistocene [glacial] and Holocene [post-glacial]) surficial geology (distribution and type of materials at the land surface), scale 1:100,000, Scott County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn21120.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/614/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:614\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn21120.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/614/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:614\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/614/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:55Z",
   "dc_language_sm": [
     "eng"
   ],

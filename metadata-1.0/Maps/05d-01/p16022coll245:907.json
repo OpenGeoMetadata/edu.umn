@@ -5,19 +5,18 @@
   "dc_title_s": "Map of Minneapolis, Hennepin Co., Minn., 1899. Plate no. 46, Water mains",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll245:907",
-  "solr_geom": "ENVELOPE(-93.3289,-93.1998,45.0537,44.9051)",
+  "solr_geom": "ENVELOPE(-93.329,-93.200,45.054,44.905)",
   "solr_year_i": "1899",
   "dc_creator_sm": [
     "Minneapolis (Minn.). City Engineers Office"
   ],
   "dc_description_s": "Relief shown by contours and spot heights. Shows water mains, street car lines and railroads, and parks. On verso: Plate No. 46. Water Mains.|72 x 47 centimeters|Minneapolis and St. Paul Maps and Atlases",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:907\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/907/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll245/907/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:907\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/907/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota--Minneapolis",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:25Z",
   "dc_language_sm": [
     "eng"
   ],

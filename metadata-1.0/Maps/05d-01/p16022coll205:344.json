@@ -5,18 +5,17 @@
   "dc_title_s": "Map of the city of Detroit, Michigan",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll205:344",
-  "solr_geom": "ENVELOPE(-83.2,-82.91666667,42.45,42.26666667)",
+  "solr_geom": "ENVELOPE(-83.200,-82.917,42.450,42.267)",
   "solr_year_i": "1916",
   "dc_creator_sm": [
     "Sauer Bros."
   ],
   "dc_description_s": "Oriented with north toward the upper right.   Shows street car lines.   Street index on verso.|35 x 53 centimeters|Scale approximately 1:43,000|City Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:344\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/344/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/344/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:344\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/344/manifest.json\"}",
   "dct_spatial_sm": [
     "Michigan--Detroit"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:54Z",
   "dc_language_sm": [
     "eng"
   ],

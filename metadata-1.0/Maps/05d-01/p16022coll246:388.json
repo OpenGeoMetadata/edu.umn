@@ -5,14 +5,14 @@
   "dc_title_s": "Regni d'Aracan del Pegu di Siam di Camboge e di Laos",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:388",
-  "solr_geom": "ENVELOPE(90,115,30,1)",
+  "solr_geom": "ENVELOPE(90.000,115.000,30.000,1.000)",
   "solr_year_i": "1785",
   "dc_creator_sm": [
     "Zatta, Antonio, active 1757-1797"
   ],
   "dc_description_s": "Cartographic Details: Scale [1:9,000,000] (E 90°--E 115°/N 30°--N 1°). Relief shown pictorially.|31 x 40 centimeters|Scale [1:9,000,000]|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:388\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/388/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/388/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:388\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/388/manifest.json\"}",
   "dct_spatial_sm": [
     "Myanmar [Burma]--Burma",
     "Thailand",
@@ -21,7 +21,6 @@
     "Vietnam",
     "Malaysia"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:09Z",
   "dc_language_sm": [
     "ita"
   ],

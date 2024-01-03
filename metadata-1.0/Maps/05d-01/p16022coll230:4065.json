@@ -5,19 +5,18 @@
   "dc_title_s": "Carte des lacs du Canada",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:4065",
-  "solr_geom": "ENVELOPE(-92.68333333,-75.5,49.33333333,41.21666667)",
+  "solr_geom": "ENVELOPE(-92.683,-75.500,49.333,41.217)",
   "solr_year_i": "1976",
   "dc_creator_sm": [
     "Bellin, Jacques Nicholas, 1703-1772"
   ],
   "dc_description_s": "Reproduced from the William L. Clements Library, University of Michigan.; Originally published in Paris, in 1774.; In French.; This map is Plate II of a Bicentennial Series on historical maps of the Great Lakes and Michigan.; Includes notes by historian, Wystan Stevens.|51 x 37 Centimeters|Scale approximately 1:4,000,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4065\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4065/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4065/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4065\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4065/manifest.json\"}",
   "dct_spatial_sm": [
     "Michigan",
     "Great Lakes"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:38Z",
   "dc_language_sm": [
     "fre"
   ],

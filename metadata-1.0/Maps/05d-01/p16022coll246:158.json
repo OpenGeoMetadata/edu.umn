@@ -5,7 +5,7 @@
   "dc_title_s": "Hindostan",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:158",
-  "solr_geom": "ENVELOPE(66,96,38,5.5)",
+  "solr_geom": "ENVELOPE(66.000,96.000,38.000,5.500)",
   "solr_year_i": "1811",
   "dc_creator_sm": [
     "Hebert, L.",
@@ -14,14 +14,13 @@
   ],
   "dc_description_s": "Cartographic Details: Scale approximately 1:6,000,000 ; (E 66°00'00\"--E 96°00'00\"/N 38°00'00\"--N 5°30'00\"). Relief shown by hachures.\"Pinkerton's modern atlas.\"|59 x 49 centimeters|Scale approximately 1:6,000,000|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:158\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/158/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/158/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:158\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/158/manifest.json\"}",
   "dct_spatial_sm": [
     "Bangladesh",
     "Bhutan",
     "India",
     "Nepal"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:15Z",
   "dc_language_sm": [
     "eng"
   ],

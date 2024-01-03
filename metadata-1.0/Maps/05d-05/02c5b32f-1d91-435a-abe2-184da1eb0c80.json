@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Stearns County, Minnesota, C-10, Part A, Plate 5, Depth to Bedrock",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "02c5b32f-1d91-435a-abe2-184da1eb0c80",
-  "solr_geom": "ENVELOPE(-95.1398,-94.0463,45.777,45.2836)",
+  "solr_geom": "ENVELOPE(-95.140,-94.046,45.777,45.284)",
   "solr_year_i": "1995",
   "dc_creator_sm": [
     "Meyer, Gary N.",
@@ -15,11 +15,10 @@
   ],
   "dc_description_s": "Map showing the thickness of unconsolidated materials over the bedrock surface and and the thickness of Cretaceous strata, scale 1:200,000; eastern half of county at 1:100,000, Stearns County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22299.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/699/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:699\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22299.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/699/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:699\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/699/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:56Z",
   "dc_language_sm": [
     "eng"
   ],

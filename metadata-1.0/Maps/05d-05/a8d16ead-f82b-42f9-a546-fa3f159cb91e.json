@@ -5,7 +5,7 @@
   "dc_title_s": "Bedrock geologic map of the Aitkin 30 x 60 minute quadrangle, east-central Minnesota, M-99, Plate 1",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "a8d16ead-f82b-42f9-a546-fa3f159cb91e",
-  "solr_geom": "ENVELOPE(-93.8114,-93.0495,47.0316,46.1541)",
+  "solr_geom": "ENVELOPE(-93.811,-93.049,47.032,46.154)",
   "solr_year_i": "1999",
   "dc_creator_sm": [
     "Boerboom, Terrence J.",
@@ -14,11 +14,10 @@
   ],
   "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) Aitkin quadrangle, scale 1:100,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22496.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1136/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1136\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22496.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1136/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1136\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1136/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:16:46Z",
   "dc_language_sm": [
     "eng"
   ],

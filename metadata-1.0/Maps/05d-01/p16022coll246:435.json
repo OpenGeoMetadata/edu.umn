@@ -5,7 +5,7 @@
   "dc_title_s": "Map of the island of Ceylon : (corrected to the beginning of 1868), exhibiting the principal roads, rivers & mountains with the Colombo and Kandy Railway and the proposed extensions",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:435",
-  "solr_geom": "ENVELOPE(78.75,82.4634,10.0121,5.5558)",
+  "solr_geom": "ENVELOPE(78.750,82.463,10.012,5.556)",
   "solr_year_i": "1868",
   "dc_creator_sm": [
     "Ferguson, A. M. (Alastair Mackenzie)",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Cartographic Details: Scale approximately 1:515,000 Relief shown by hachures and spot heights. Ancillary map: Ceylon Railway. Includes text, and dedication with ill. to Thomas B. Skinner. Affixed to verso are cover pieces advertising Stanford's series of new library maps.|95 x 65 centimeters|Scale approximately 1:515,000|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:435\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/435/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/435/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:435\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/435/manifest.json\"}",
   "dct_spatial_sm": [
     "Sri Lanka"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:47Z",
   "dc_language_sm": [
     "eng"
   ],

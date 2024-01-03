@@ -5,7 +5,7 @@
   "dc_title_s": "Hydrogeology of the Paleozoic bedrock in southeastern Minnesota, RI-61, Plate 2",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "8d93e787-5657-43ed-9a8e-ec1524190b59",
-  "solr_geom": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
+  "solr_geom": "ENVELOPE(-97.239,-89.483,49.384,43.499)",
   "solr_year_i": "2003",
   "dc_creator_sm": [
     "Alexander, E. C., Jr.",
@@ -17,11 +17,10 @@
   ],
   "dc_description_s": "Cross section of Paleozoic bedrock from central Mower County east showing hydrostratigraphic (water bearing rock units) attributes and classification of aquifers and confining units (rock units that prevent water movement in the vertical direction), scale 1 inch = about 7 miles.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23391.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1086/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1086\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23391.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1086/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1086\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1086/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:19:39Z",
   "dc_language_sm": [
     "eng"
   ],

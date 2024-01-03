@@ -5,21 +5,20 @@
   "dc_title_s": "Iowa and Wisconsin : chiefly from the map of J.N. Nicollet",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:4009",
-  "solr_geom": "ENVELOPE(-96.63333333,-87.41666667,49,40.36666667)",
+  "solr_geom": "ENVELOPE(-96.633,-87.417,49.000,40.367)",
   "solr_year_i": "1844",
   "dc_creator_sm": [
     "Nicollet, J. N. (Joseph Nicolas), 1786-1843"
   ],
   "dc_description_s": "Differs from edition also copyrighted in 1844 in that it includes map of Michigan on verso.; Relief shown by hachures.; Shows counties, Indian trails, Indian villages, cities, towns, and notable geographic features for Wisconsin, Iowa, Minnesota, Nebraska and the Dakotas.; Map of Michigan on verso.; \"Entered according to Act of Congress in the year 1844 by Sidney E. Morse and Samuel Breese in the Clerks Office of the Southern District of New York.\"|31 x 38 Centimeters|Scale approximately 1:3,270,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4009\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4009/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4009/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4009\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4009/manifest.json\"}",
   "dct_spatial_sm": [
     "Iowa",
     "Wisconsin",
     "Michigan",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:27Z",
   "dc_language_sm": [
     "eng"
   ],

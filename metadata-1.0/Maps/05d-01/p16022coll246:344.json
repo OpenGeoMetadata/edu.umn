@@ -5,7 +5,7 @@
   "dc_title_s": "A chart of the coast of Pegu : with the adjacent coast of Arakan and Tanasserim",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:344",
-  "solr_geom": "ENVELOPE(93.16,98.58,21,13.5)",
+  "solr_geom": "ENVELOPE(93.160,98.580,21.000,13.500)",
   "solr_year_i": "1783",
   "dc_creator_sm": [
     "Ritchie, John, active 1771-1814",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Cartographic Details: Scale approximately 1:1,100,000 (E 93°10'00\"--E 98°35'00\"/N 21°00'00\"--N 13°30'00\"). Relief shown pictorially. Depths shown by soundings. Insets: Plan of Martaban River -- Plan of Arakan River -- Plan of Sirian River -- Plan of the Entrance of Perseen River. In upper right: 38.|54 x 76 centimeters|Scale approximately 1:1,100,000|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:344\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/344/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/344/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:344\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/344/manifest.json\"}",
   "dct_spatial_sm": [
     "Myanmar [Burma]--Burma"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:08Z",
   "dc_language_sm": [
     "eng"
   ],

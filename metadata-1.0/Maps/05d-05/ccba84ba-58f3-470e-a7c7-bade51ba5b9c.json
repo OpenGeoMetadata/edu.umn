@@ -5,18 +5,17 @@
   "dc_title_s": "Surficial geologic map of the Belle Plaine North quadrangle, Carver, Scott, and Sibley Counties, Minnesota, M-109",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "ccba84ba-58f3-470e-a7c7-bade51ba5b9c",
-  "solr_geom": "ENVELOPE(-94.0136,-93.5227,44.9796,44.6353)",
+  "solr_geom": "ENVELOPE(-94.014,-93.523,44.980,44.635)",
   "solr_year_i": "2001",
   "dc_creator_sm": [
     "Lusardi, Barbara A."
   ],
   "dc_description_s": "Quaternary geology map showing interpretations of Quaternary (Pleistocene [glacial] and Holocene [post-glacial]) surficial geology (distribution and type of materials at the land surface), of the Belle Plaine North quadrangle, scale 1:24,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22512.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/839/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:839\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22512.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/839/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:839\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/839/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:25:57Z",
   "dc_language_sm": [
     "eng"
   ],

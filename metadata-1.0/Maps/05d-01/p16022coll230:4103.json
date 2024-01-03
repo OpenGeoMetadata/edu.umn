@@ -5,18 +5,17 @@
   "dc_title_s": "Hydrographic map of Big Cedar Lake, Wisconsin, Washington Co.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:4103",
-  "solr_geom": "ENVELOPE(-88.28333333,-88.24444444,43.42222222,43.35)",
+  "solr_geom": "ENVELOPE(-88.283,-88.244,43.422,43.350)",
   "solr_year_i": "1899",
   "dc_creator_sm": [
     "Wisconsin Geological and Natural History Survey"
   ],
   "dc_description_s": "\"Nov. 1899.\"; Relief shown by hypsometric tints, bathymetric isolines and soundings.; \"Contour interval = 10 ft.\"; Includes 3 cross sections.; Accompanied by description on cover.|on sheet 51 x 39 Centimeters|Scale approximately 1:15,840|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4103\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4103/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4103/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4103\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4103/manifest.json\"}",
   "dct_spatial_sm": [
     "Wisconsin"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:25Z",
   "dc_language_sm": [
     "eng"
   ],

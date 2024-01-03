@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Dakota County, Minnesota, C-6, Plate 5, Quaternary Hydrogeology",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "bc6001e4-8121-4561-aab9-831f47a683cb",
-  "solr_geom": "ENVELOPE(-93.3285,-92.7339,44.9252,44.4729)",
+  "solr_geom": "ENVELOPE(-93.329,-92.734,44.925,44.473)",
   "solr_year_i": "1990",
   "dc_creator_sm": [
     "Balaban, Nancy",
@@ -14,11 +14,10 @@
   ],
   "dc_description_s": "Maps showing where and how much ground water may be present and aquifer characteristics of the  unconsolidated (not rock) Quaternary sediments (glacial and stream sediments), scale 1:125,000, Dakota County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22261.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/661/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:661\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22261.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/661/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:661\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/661/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:49Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,15 +5,14 @@
   "dc_title_s": "Soil map, South Carolina, Dorchester County sheet",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:1548",
-  "solr_geom": "ENVELOPE(-80.7919,-80.0786,33.3344,32.8164)",
+  "solr_geom": "ENVELOPE(-80.792,-80.079,33.334,32.816)",
   "solr_year_i": "1915",
   "dc_description_s": "Soils surveyed by W.J. Latimer, in charge ...; Soil types designated by colors.|86 x 100 centimeters|Scale not given.|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1548\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1548/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/1548/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1548\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1548/manifest.json\"}",
   "dct_spatial_sm": [
     "South Carolina"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:52Z",
   "dc_language_sm": [
     "eng"
   ],

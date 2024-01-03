@@ -5,14 +5,14 @@
   "dc_title_s": "A new map of Denmark, Norway, Sweden & Moscovy, shewing their present general divisions, chief cities or towns, rivers, mountains &c",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3484",
-  "solr_geom": "ENVELOPE(1.7,59.7,71.2833,50.1167)",
+  "solr_geom": "ENVELOPE(1.700,59.700,71.283,50.117)",
   "solr_year_i": "1700",
   "dc_creator_sm": [
     "Wells, Edward, 1667-1727"
   ],
   "dc_description_s": "Relief shown pictorially.; Map of Scandinavia and adjoining areas.; Plate [26] from: A new sett of maps both of antient and present geography / by Edward Wells. Oxford : Printed at the Theater, 1700.|37 x 51 centimeters|Scale approximately 1:1,600,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3484\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3484/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3484/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3484\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3484/manifest.json\"}",
   "dct_spatial_sm": [
     "Denmark",
     "Norway",
@@ -20,7 +20,6 @@
     "Russia",
     "Europe"
   ],
-  "layer_modified_dt": "2023-02-07T18:32:58Z",
   "dc_language_sm": [
     "eng"
   ],

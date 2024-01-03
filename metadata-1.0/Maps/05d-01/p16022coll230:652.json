@@ -5,18 +5,17 @@
   "dc_title_s": "Map of the Dominion of Canada indicating main natural resources",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:652",
-  "solr_geom": "ENVELOPE(-141,-52.3167,83.3333,41.6667)",
+  "solr_geom": "ENVELOPE(-141.000,-52.317,83.333,41.667)",
   "solr_year_i": "1930",
   "dc_creator_sm": [
     "Lynch, F. C. C. (Francis Christopher Chisholm), 1884-"
   ],
   "dc_description_s": "Inset: Chart of Lakes Erie and Ontario on an enlarged scale.|21 x 37 centimeters|Scale [ca. 1:15,000,000]|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:652\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/652/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/652/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:652\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/652/manifest.json\"}",
   "dct_spatial_sm": [
     "Canada"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:33Z",
   "dc_language_sm": [
     "eng"
   ],

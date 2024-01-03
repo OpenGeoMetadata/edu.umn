@@ -5,19 +5,18 @@
   "dc_title_s": "Map of the Malay Peninsula",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3837",
-  "solr_geom": "ENVELOPE(99.0,104.5,8.0,0.6667)",
+  "solr_geom": "ENVELOPE(99.000,104.500,8.000,0.667)",
   "solr_year_i": "1911",
   "dc_creator_sm": [
     "Straits Branch of the Royal Asiatic Society"
   ],
   "dc_description_s": "Relief shown by hachures.; Insets: Singapore Town -- Juncture with the main map on half the scale.; \"London; Edward Stanford, 12, 13 & 14. Long Acre, W.C., March 1, 1911.\"|each sheet 63 x 71 centimeters|Scale approximately 1:506,880; 8 English statute miles to one inch|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3837\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3837/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3837/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3837\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3837/manifest.json\"}",
   "dct_spatial_sm": [
     "Malay Peninsula",
     "Asia"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:43Z",
   "dc_language_sm": [
     "eng"
   ],

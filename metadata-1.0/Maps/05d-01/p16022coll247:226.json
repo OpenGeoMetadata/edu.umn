@@ -5,7 +5,7 @@
   "dc_title_s": "Soil map of Minnesota : showing mean annual rainfall, temperature, and dates of killing frosts",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll247:226",
-  "solr_geom": "ENVELOPE(-97.251,-89.6155,49.0054,43.4808)",
+  "solr_geom": "ENVELOPE(-97.251,-89.615,49.005,43.481)",
   "solr_year_i": "1913",
   "dc_creator_sm": [
     "Akerson, E. A",
@@ -15,11 +15,10 @@
   ],
   "dc_description_s": "Cartographic Details: Scale not given. Copyright: Hudson Publishing Co. \"Soil and rainfall data from Prof. N.H. Winchell's 'Atlas of the physical features of Minnesota' (by permission). Temperature from U.S. Govt. reports.\" Includes inset of northeast corner of Minnesota showing Cook County.|61 x 43 centimeters|General Minnesota Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:226\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/226/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/226/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:226\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/226/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:48Z",
   "dc_language_sm": [
     "eng"
   ],

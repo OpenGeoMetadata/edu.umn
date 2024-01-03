@@ -12,7 +12,7 @@
   ],
   "dc_description_s": "Relief shown by hachures and shading.; Includes indexes and text.; 1904 war map of Russia and the continent of Asia, indexes, and text on verso.|47 x 65 centimeters|Scale approximately 1:9,000,000; 1 inch = 142 miles|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3803\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3803/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3803/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3803\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3803/manifest.json\"}",
   "dct_spatial_sm": [
     "Japan",
     "Korea (South)",
@@ -20,7 +20,6 @@
     "China",
     "Asia"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:32Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Todd County, Minnesota, C-18, Part A, Plate 6, Mineral Endowment",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "10cfc343-38d5-48ea-a540-861c8f9974a2",
-  "solr_geom": "ENVELOPE(-95.1563,-94.6419,46.3708,45.7744)",
+  "solr_geom": "ENVELOPE(-95.156,-94.642,46.371,45.774)",
   "solr_year_i": "2007",
   "dc_creator_sm": [
     "Boerboom, Terrence J.",
@@ -14,11 +14,10 @@
   ],
   "dc_description_s": "Maps showing locations and types of mineral resources, bedrock aggregate and sand and gravel resources, scale 1:100,000; 1:200,000, Todd County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22371.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/771/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:771\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22371.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/771/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:771\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/771/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:57Z",
   "dc_language_sm": [
     "eng"
   ],

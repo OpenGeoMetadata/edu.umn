@@ -5,7 +5,7 @@
   "dc_title_s": "Mount Berlin: Antarctica",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "ANT-REF-MT2503-041",
-  "solr_geom": "ENVELOPE(-132,-138,-76,-77)",
+  "solr_geom": "ENVELOPE(-132.000,-138.000,-76.000,-77.000)",
   "solr_year_i": "1974",
   "dc_description_s": "Projection: Lambert Conformal Conic Projection: Standard Parallels -76º40' and -79º20'; Series: USGS 1:250,000 Topographic Reconnaissance Series",
   "dc_format_s": "GeoTIFF",
@@ -13,7 +13,6 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "layer_modified_dt": "2023-02-03T22:44:34Z",
   "dc_language_sm": [
     "eng"
   ],

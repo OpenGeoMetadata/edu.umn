@@ -5,18 +5,17 @@
   "dc_title_s": "Bedrock geologic maps, eastern half of Houston County, Minnesota, OFR95-02",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "3981a481-81ae-4dcb-a780-925cda1acc74",
-  "solr_geom": "ENVELOPE(-91.7306,-91.2176,43.851,43.5023)",
+  "solr_geom": "ENVELOPE(-91.731,-91.218,43.851,43.502)",
   "solr_year_i": "1995",
   "dc_creator_sm": [
     "Runkel, Anthony C."
   ],
   "dc_description_s": "Description of bedrock geology of the eastern half of Houston County, Minnesota, Plate 1 Bedrock geology map, Plate 2 Bedrock topography map. Superseded by Minnesota Geological Survey Open-File publication OFR96-04.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://reflections.mndigital.org/catalog/mgs:4273\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/4272/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:4273\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://reflections.mndigital.org/catalog/mgs:4273\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/4272/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:4273\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/4272/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:16:47Z",
   "dc_language_sm": [
     "eng"
   ],

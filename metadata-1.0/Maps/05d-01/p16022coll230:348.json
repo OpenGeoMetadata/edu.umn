@@ -12,7 +12,7 @@
   ],
   "dc_description_s": "Cartographic Details: Scale [1:15,840,000] Relief shown by hachures; depth shown by isolines. Shows provinces, rivers, railroads, cities and towns. Inset maps show Denmark, Holland, and Belguim. From: Mitchell's new general atlas. Philadelphia : S. Augustus Mitchell, 1860.|1 map : color ; 34 x 27 centimeters, on sheet 39 x 32 centimeters|Scale [1:15,840,000]|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:348\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/348/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/348/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:348\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/348/manifest.json\"}",
   "dct_spatial_sm": [
     "Russia",
     "Sweden",
@@ -21,7 +21,6 @@
     "Netherlands",
     "Belgium"
   ],
-  "layer_modified_dt": "2023-06-23T18:47:35Z",
   "dc_language_sm": [
     "eng"
   ],

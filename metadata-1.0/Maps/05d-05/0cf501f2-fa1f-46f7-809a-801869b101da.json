@@ -5,18 +5,17 @@
   "dc_title_s": "Geologic map of Minnesota, bedrock geology, M-14",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "0cf501f2-fa1f-46f7-809a-801869b101da",
-  "solr_geom": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
+  "solr_geom": "ENVELOPE(-97.239,-89.483,49.384,43.499)",
   "solr_year_i": "1970",
   "dc_creator_sm": [
     "Sims, Paul K."
   ],
   "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of Minnesota, scale 1:1,000,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22393.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/625/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:625\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22393.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/625/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:625\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/625/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:58Z",
   "dc_language_sm": [
     "eng"
   ],

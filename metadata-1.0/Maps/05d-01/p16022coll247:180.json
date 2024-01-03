@@ -4,18 +4,17 @@
   "dc_title_s": "Map of Minnesota",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll247:180",
-  "solr_geom": "ENVELOPE(-102.7414,-89.6484,49,42.4402)",
+  "solr_geom": "ENVELOPE(-102.741,-89.648,49.000,42.440)",
   "solr_year_i": "1856",
   "dc_creator_sm": [
     "Young, J. H. (James Hamilton)"
   ],
   "dc_description_s": "Atlas plate 36. Longitude west from Greenwich and Washington, D.C. Explanatory text includes \"Lands of the Dakota or Sioux Indians\" and \"Minni Wakan Lake.\" Map may have been published in 1856 or later.|13 x 16 inches|General Minnesota Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:180\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/180/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/180/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:180\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/180/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:36Z",
   "dc_language_sm": [
     "eng"
   ],

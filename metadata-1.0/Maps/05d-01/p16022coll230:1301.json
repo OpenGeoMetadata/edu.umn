@@ -5,14 +5,14 @@
   "dc_title_s": "Map of Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, and Connecticut : exhibiting the post offices, post roads, canals, rail roads, &c.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:1301",
-  "solr_geom": "ENVELOPE(-73.78333333,-66.9,47.45,40.91666667)",
+  "solr_geom": "ENVELOPE(-73.783,-66.900,47.450,40.917)",
   "solr_year_i": "1839",
   "dc_creator_sm": [
     "Burr, David H., 1803-1875"
   ],
   "dc_description_s": "Detailed map showing relief by hachures, drainage, township and county boundaries, cities and towns, canals, road, and railroads.|From his The American Atlas (London, J. Arrowsmith, 1839).; Description derived from published bibliography.|124 x 91 centimeters|Scale approximately 1:320,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1301\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1301/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/1301/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1301\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1301/manifest.json\"}",
   "dct_spatial_sm": [
     "Maine",
     "New Hampshire",
@@ -21,7 +21,6 @@
     "Rhode Island",
     "Connecticut"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:25Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,7 +5,7 @@
   "dc_title_s": "Aeromagnetic map of Minnesota, north-central region--Roseau quadrangle",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "72f20ab7-d9db-4bf8-b5cc-9e4d3302e045",
-  "solr_geom": "ENVELOPE(-96.4066,-95.0929,49.0006,48.5405)",
+  "solr_geom": "ENVELOPE(-96.407,-95.093,49.001,48.541)",
   "solr_year_i": "1998",
   "dc_creator_sm": [
     "Chandler, Val W.",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Total magnetic intensity anomaly, contour, scale 1:100,000.Interpretation of magnetic data collected from airborne surveys, the map contours (lines of equal magnetic intensity) indicate the distribution and concentration of magnetic minerals (primarily iron-bearing) within the upper crust of the earth.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn21111.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/606/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:606\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn21111.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/606/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:606\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/606/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:16:12Z",
   "dc_language_sm": [
     "eng"
   ],

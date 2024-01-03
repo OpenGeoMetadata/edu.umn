@@ -5,16 +5,15 @@
   "dc_title_s": "Central Asia and Afghanistan",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3549",
-  "solr_geom": "ENVELOPE(46.4833,87.3,55.4333,29.1667)",
+  "solr_geom": "ENVELOPE(46.483,87.300,55.433,29.167)",
   "solr_year_i": "1885",
   "dc_description_s": "Includes legend, 4 structure sections and \"map showing the sources of information from which the geologic map was compiled.\"|1:4,752,000; Scale, circa 75 statute miles = 1 inch.|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3549\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3549/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3549/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3549\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3549/manifest.json\"}",
   "dct_spatial_sm": [
     "Afghanistan",
     "Asia"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:11Z",
   "dc_language_sm": [
     "eng"
   ],

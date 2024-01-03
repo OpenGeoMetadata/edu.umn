@@ -5,18 +5,17 @@
   "dc_title_s": "Map of the state of Arkansas",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:1654",
-  "solr_geom": "ENVELOPE(-94.6167,-89.6333,36.4833,33.0)",
+  "solr_geom": "ENVELOPE(-94.617,-89.633,36.483,33.000)",
   "solr_year_i": "1901",
   "dc_creator_sm": [
     "United States. General Land Office"
   ],
   "dc_description_s": "Shows railroads, railaord land grant limits, counties, drainage, and land offices.; Relief shown by shading.|57 x 70 centimeters|Scale: 1:760,320; 1 inch to 12 miles.|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1654\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1654/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/1654/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1654\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1654/manifest.json\"}",
   "dct_spatial_sm": [
     "Arkansas"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:29Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,19 +5,18 @@
   "dc_title_s": "Yellowstone National Park",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:2469",
-  "solr_geom": "ENVELOPE(-111,-109.9666667,45.06666667,44.1)",
+  "solr_geom": "ENVELOPE(-111.000,-109.967,45.067,44.100)",
   "solr_year_i": "1898",
   "dc_creator_sm": [
     "Poole Brothers"
   ],
   "dc_description_s": "Relief shown by shading and spot heights.; \"Copyrighted, 1898, by Poole Bros., Chicago.\"|66 x 50 centimeters|Scale approximately 1:166,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2469\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2469/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2469/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2469\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2469/manifest.json\"}",
   "dct_spatial_sm": [
     "Wyoming",
     "Yellowstone National Park"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:24Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic interpretation of magnetic map of McLeod County, Minnesota, RI-1, Plate 1",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "e1f8f56d-dcea-416e-9f6f-99c210cf868d",
-  "solr_geom": "ENVELOPE(-94.4999,-94.0085,44.9811,44.63)",
+  "solr_geom": "ENVELOPE(-94.500,-94.008,44.981,44.630)",
   "solr_year_i": "1963",
   "dc_creator_sm": [
     "Austin, George S.",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Magnetic (interpretation of magnetic data collected from airborne or ground surveys, indicating the distribution and concentration of magnetic minerals (primarily iron-bearing) within the upper crust of the earth) map of McLeod County, Minnesota, scale 1 inch = about 1 1/4 mile.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23373.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1010/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1010\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23373.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1010/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1010\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1010/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:58Z",
   "dc_language_sm": [
     "eng"
   ],

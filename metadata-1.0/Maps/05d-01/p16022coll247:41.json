@@ -5,18 +5,17 @@
   "dc_title_s": "Kenyon's highway map of Minnesota : showing all counties, townships, cities, villages, post offices, railroads and stations",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll247:41",
-  "solr_geom": "ENVELOPE(-97,-91,49.33,43.5)",
+  "solr_geom": "ENVELOPE(-97.000,-91.000,49.330,43.500)",
   "solr_year_i": "1916",
   "dc_creator_sm": [
     "Kenyon Company (Des Moines, Iowa)"
   ],
   "dc_description_s": "107 x 76 centimeters on sheets each 67 x 102 centimeters|Scale [1:601,920]. 1 in. = 9.5 mi.|General Minnesota Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:41\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/41/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/41/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:41\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/41/manifest.json\"}",
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:54Z",
   "dc_language_sm": [
     "eng"
   ],

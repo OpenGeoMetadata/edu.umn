@@ -5,19 +5,18 @@
   "dc_title_s": "Map of the Eastern Townships of the province of Quebec, and adjacent territory.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:305",
-  "solr_geom": "ENVELOPE(-74.1996,-70.0681,47.129,44.887)",
+  "solr_geom": "ENVELOPE(-74.200,-70.068,47.129,44.887)",
   "solr_year_i": "1884",
   "dc_creator_sm": [
     "Smith, E. R. (Edgar Russel) (Publisher)"
   ],
   "dc_description_s": "Cartographic Details: Scale [1:31,463]. Place names in French. Cover title: Map of the Eastern Township of Canada, 1884-85. Includes table of railway explanations and inset of Huntingdon County.|1 map : color ; 56 x 98 cm.|Scale [1:31,463]|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:305\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/305/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/305/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:305\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/305/manifest.json\"}",
   "dct_spatial_sm": [
     "Canada--Quebec",
     "Canada"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:03Z",
   "dc_language_sm": [
     "eng"
   ],

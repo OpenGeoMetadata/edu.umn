@@ -5,18 +5,17 @@
   "dc_title_s": "State of Nebraska : compiled chiefly from the official records of the General Land Office with supplemental data from other map making agencies",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:2033",
-  "solr_geom": "ENVELOPE(-104.05,-95.3,43.0,39.9833)",
+  "solr_geom": "ENVELOPE(-104.050,-95.300,43.000,39.983)",
   "solr_year_i": "1922",
   "dc_creator_sm": [
     "United States. General Land Office"
   ],
   "dc_description_s": "Relief shown by hachures.|67 x 99 centimeters|Scale [1:760,320] 1 inch = 12 statute miles|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2033\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2033/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2033/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2033\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2033/manifest.json\"}",
   "dct_spatial_sm": [
     "Nebraska"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:13Z",
   "dc_language_sm": [
     "eng"
   ],

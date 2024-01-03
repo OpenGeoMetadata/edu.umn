@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Mower County, Minnesota, C-11, Part B, Plate 8, Ground-Water Flow in Bedrock Aquifers",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "62c4e781-4768-4413-82fb-1dcd8488843a",
-  "solr_geom": "ENVELOPE(-93.0505,-92.4507,43.8518,43.5026)",
+  "solr_geom": "ENVELOPE(-93.050,-92.451,43.852,43.503)",
   "solr_year_i": "2002",
   "dc_creator_sm": [
     "Campion, Moira",
@@ -14,11 +14,10 @@
   ],
   "dc_description_s": "Maps and cross sections detailing how and when ground water moves through the bedrock aquifers, scale 1:67,000, Mower County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22312.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/712/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:712\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22312.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/712/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:712\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/712/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:51Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,7 +5,7 @@
   "dc_title_s": "Isle of Wight",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:542",
-  "solr_geom": "ENVELOPE(-1.58,-1.0501,50.76,50.56)",
+  "solr_geom": "ENVELOPE(-1.580,-1.050,50.760,50.560)",
   "solr_year_i": "1823",
   "dc_creator_sm": [
     "Albin, John, active 1791-1800",
@@ -13,12 +13,11 @@
   ],
   "dc_description_s": "Relief shown by hachures.   Includes index to parishes.   Inset: Plan of the town of Newport.|38 x 58 centimeters|Scale approximately 1:160,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:542\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/542/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/542/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:542\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/542/manifest.json\"}",
   "dct_spatial_sm": [
     "Isle of Wight",
     "England"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:19Z",
   "dc_language_sm": [
     "eng"
   ],

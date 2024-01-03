@@ -5,18 +5,17 @@
   "dc_title_s": "Map of Minnesota Territory",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll247:287",
-  "solr_geom": "ENVELOPE(-103,-89,49,42)",
+  "solr_geom": "ENVELOPE(-103.000,-89.000,49.000,42.000)",
   "solr_year_i": "1856",
   "dc_creator_sm": [
     "Young, J. H. (James Hamilton)"
   ],
   "dc_description_s": "Relief shown by hachures.; Shows counties as of 1855.; Includes text: Lands of the Dakota or Sioux Indians.|30 x 38 centimeters|Scale 1:2,400,000|General Minnesota Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:287\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/287/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/287/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:287\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/287/manifest.json\"}",
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:37Z",
   "dc_language_sm": [
     "eng"
   ],

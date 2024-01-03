@@ -5,7 +5,7 @@
   "dc_title_s": "Calcutta",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:139",
-  "solr_geom": "ENVELOPE(88.3224,88.3843,22.6117,22.5399)",
+  "solr_geom": "ENVELOPE(88.322,88.384,22.612,22.540)",
   "solr_year_i": "1842",
   "dc_creator_sm": [
     "Chapman and Hall",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Cartographic Details: Scale approximately 1:21,000. Includes index to public buildings and 3 ill. (Writers Buildings ; Government House ; Esplande Row). Oriented with north to lower left.|24 x 41 centimeters|Scale approximately 1:21,000|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:139\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/139/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/139/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:139\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/139/manifest.json\"}",
   "dct_spatial_sm": [
     "India"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:26Z",
   "dc_language_sm": [
     "eng"
   ],

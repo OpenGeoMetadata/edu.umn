@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Winona County, Minnesota, C-2, Plate 7, Well Construction",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "474db346-6347-4a2e-b21b-61f9f27dee54",
-  "solr_geom": "ENVELOPE(-92.0806,-91.2882,44.1948,43.8503)",
+  "solr_geom": "ENVELOPE(-92.081,-91.288,44.195,43.850)",
   "solr_year_i": "1984",
   "dc_creator_sm": [
     "Balaban, Nancy",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Map showing requirements of well construction practices and regulations as they relate to geology and location of a well on the land surface and surroundings, scale 1:100,000, Winona County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22223.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/685/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:685\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22223.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/685/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:685\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/685/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:58Z",
   "dc_language_sm": [
     "eng"
   ],

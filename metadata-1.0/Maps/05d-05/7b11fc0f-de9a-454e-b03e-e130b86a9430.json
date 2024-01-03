@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Fillmore County, Minnesota, C-8, Part B, Plate 7, Pollution Sensitivity",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "7b11fc0f-de9a-454e-b03e-e130b86a9430",
-  "solr_geom": "ENVELOPE(-92.4507,-91.7305,43.8508,43.5021)",
+  "solr_geom": "ENVELOPE(-92.451,-91.731,43.851,43.502)",
   "solr_year_i": "1996",
   "dc_creator_sm": [
     "Falteisek, Jan",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Map showing the susceptibility of the ground water system (bedrock and unconsolidated sediment aquifers) to contamination, scale 1:100,000, Fillmore County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22282.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/733/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:733\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22282.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/733/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:733\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/733/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:50Z",
   "dc_language_sm": [
     "eng"
   ],

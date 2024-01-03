@@ -5,18 +5,17 @@
   "dc_title_s": "General map of the native vegetation of Wisconsin, 1882.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:463",
-  "solr_geom": "ENVELOPE(-93,-87,47,42.5)",
+  "solr_geom": "ENVELOPE(-93.000,-87.000,47.000,42.500)",
   "solr_year_i": "1882",
   "dc_creator_sm": [
     "Chamberlin, Thomas C. (Thomas Chrowder), 1843-1928"
   ],
   "dc_description_s": "Scale is approximate  (W 93⁰--W 87⁰/N 47⁰--N 42⁰30ʹ)|69 x 59 centimeters|Scale approximately 1:960,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:463\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/463/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/463/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:463\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/463/manifest.json\"}",
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:01Z",
   "dc_language_sm": [
     "eng"
   ],

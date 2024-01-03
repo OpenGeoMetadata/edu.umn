@@ -5,7 +5,7 @@
   "dc_title_s": "Carte des coôtes de Malabar et de Coromandel",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:135",
-  "solr_geom": "ENVELOPE(69,88,23,8)",
+  "solr_geom": "ENVELOPE(69.000,88.000,23.000,8.000)",
   "solr_year_i": "1723",
   "dc_creator_sm": [
     "L'Isle, Guillaume de, 1675-1726",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Cartographic Details: Scale approximately 1:4,000,000 (E 69°--E 88°/N 23°--N 8°).Relief shown pictorially.|42 x 55 centimeters|Scale approximately 1:4,000,000|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:135\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/135/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/135/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:135\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/135/manifest.json\"}",
   "dct_spatial_sm": [
     "India"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:00Z",
   "dc_language_sm": [
     "fre"
   ],

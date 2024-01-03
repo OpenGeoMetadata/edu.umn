@@ -5,18 +5,17 @@
   "dc_title_s": "Geologic map of the state of New Mexico",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:2509",
-  "solr_geom": "ENVELOPE(-109.05,-103.0,37.0,31.3167)",
+  "solr_geom": "ENVELOPE(-109.050,-103.000,37.000,31.317)",
   "solr_year_i": "1925",
   "dc_creator_sm": [
     "University of New Mexico"
   ],
   "dc_description_s": "Black line copy.|85 x 77 centimeters|Scale approximately 1:750,000; 1 inch = 12 miles.|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2509\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2509/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2509/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2509\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2509/manifest.json\"}",
   "dct_spatial_sm": [
     "New Mexico"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:19Z",
   "dc_language_sm": [
     "eng"
   ],

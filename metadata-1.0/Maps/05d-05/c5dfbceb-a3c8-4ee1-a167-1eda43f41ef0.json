@@ -5,7 +5,7 @@
   "dc_title_s": "Geology of Cook County, Minnesota, Bulletin 39, Plate 7",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "c5dfbceb-a3c8-4ee1-a167-1eda43f41ef0",
-  "solr_geom": "ENVELOPE(-91.0311,-89.5,48.2462,47.4597)",
+  "solr_geom": "ENVELOPE(-91.031,-89.500,48.246,47.460)",
   "solr_year_i": "1959",
   "dc_creator_sm": [
     "Grout, Frank F. (Frank Fitch), 1880-1958",
@@ -14,11 +14,10 @@
   ],
   "dc_description_s": "Plate 6, Geology map of Township 64 North, Range 5 East, Cook County, Minnesota, scale 1 inch = about 1/2 mile.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23342.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1043/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1043\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23342.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1043/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1043\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1043/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:19:06Z",
   "dc_language_sm": [
     "eng"
   ],

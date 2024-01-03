@@ -5,18 +5,17 @@
   "dc_title_s": "Bedrock geology of the Hastings quadrangle, Dakota, Goodhue and Washington Counties, Minnesota, M-168",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "bcfe0636-1b86-47f9-b0c3-eb0a78e2eb4a",
-  "solr_geom": "ENVELOPE(-93.3285,-92.7339,44.9252,44.4729)",
+  "solr_geom": "ENVELOPE(-93.329,-92.734,44.925,44.473)",
   "solr_year_i": "2006",
   "dc_creator_sm": [
     "Mossler, John H."
   ],
   "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Hastings quadrangle, scale 1:24,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22587.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/888/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:888\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22587.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/888/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:888\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/888/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:16:48Z",
   "dc_language_sm": [
     "eng"
   ],

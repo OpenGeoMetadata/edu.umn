@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Hennepin County, Minnesota, C-4, Plate 4, Depth to Bedrock",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "d7e81859-5288-4f7a-b3d6-845c43bbf01e",
-  "solr_geom": "ENVELOPE(-93.7702,-93.1704,45.2458,44.7874)",
+  "solr_geom": "ENVELOPE(-93.770,-93.170,45.246,44.787)",
   "solr_year_i": "1989",
   "dc_creator_sm": [
     "Balaban, Nancy",
@@ -15,11 +15,10 @@
   ],
   "dc_description_s": "Map showing the thickness of unconsolidated materials over the bedrock surface (depth to bedrock) and the elevation of the bedrock surface (bedrock topography), scale 1:100,000, Hennepin County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22237.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/645/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:645\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22237.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/645/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:645\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/645/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:50Z",
   "dc_language_sm": [
     "eng"
   ],

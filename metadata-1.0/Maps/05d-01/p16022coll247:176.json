@@ -5,7 +5,7 @@
   "dc_title_s": "Map showing iron ranges and ore carrying railroads of Minnesota",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll247:176",
-  "solr_geom": "ENVELOPE(-93.6433,-91.6486,48.6964,46.6398)",
+  "solr_geom": "ENVELOPE(-93.643,-91.649,48.696,46.640)",
   "solr_year_i": "1907",
   "dc_creator_sm": [
     "Hobs, Edwin",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Cartographic Details: Scale approximately 1:350,000 Inset shows generalized sections of Vermilion, Mesabi, Gogebic, Menominee, and Marquette Ranges. Includes distance tables for Duluth & Iron Range R.R., Duluth, Missabe & Northern Ry., and Great Northern Ry. \"Mines shipping ore during season of 1906 are located on this map, also mines about to become shippers at date of this map. June 1907.\"|49 x 47 centimeters|1:350,000|General Minnesota Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:176\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/176/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/176/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:176\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/176/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:35Z",
   "dc_language_sm": [
     "eng"
   ],

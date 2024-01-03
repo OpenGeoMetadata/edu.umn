@@ -5,19 +5,18 @@
   "dc_title_s": "Carte Taride environs de Paris ä 80 kil. au 100.000e : section nord-est",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3285",
-  "solr_geom": "ENVELOPE(1.4333,3.55,49.2333,48.1167)",
+  "solr_geom": "ENVELOPE(1.433,3.550,49.233,48.117)",
   "solr_year_i": "1925",
   "dc_creator_sm": [
     "Taride, A"
   ],
   "dc_description_s": "Date from code: \"1-25\"--lower right.; \"Nouvelle carte de France ä l'usage des cyclistes et automobiles\"--panel verso.; Sheet index on panel.|74 x 91 centimeters, folded to 19 x 12 centimeters|Scale 1:100,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3285\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3285/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3285/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3285\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3285/manifest.json\"}",
   "dct_spatial_sm": [
     "France",
     "Europe"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:18Z",
   "dc_language_sm": [
     "fre"
   ],

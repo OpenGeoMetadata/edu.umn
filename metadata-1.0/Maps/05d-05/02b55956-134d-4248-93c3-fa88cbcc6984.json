@@ -5,18 +5,17 @@
   "dc_title_s": "Paleozoic lithostratigraphy of southeastern Minnesota, M-51, Plate 1",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "02b55956-134d-4248-93c3-fa88cbcc6984",
-  "solr_geom": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
+  "solr_geom": "ENVELOPE(-97.239,-89.483,49.384,43.499)",
   "solr_year_i": "1983",
   "dc_creator_sm": [
     "Mossler, John H."
   ],
   "dc_description_s": "Lithostratigraphy (rock type and stratigraphic position on the landscape) of the Maquoketa-Dubuque-Galena Formations, and the Decorah-Platteville-Glenwood formations, scale 1:500,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22430.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/822/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:822\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22430.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/822/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:822\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/822/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:23:08Z",
   "dc_language_sm": [
     "eng"
   ],

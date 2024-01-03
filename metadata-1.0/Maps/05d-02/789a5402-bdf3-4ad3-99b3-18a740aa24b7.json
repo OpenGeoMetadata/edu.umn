@@ -5,20 +5,19 @@
   "dc_title_s": "Map of Hennepin County",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "789a5402-bdf3-4ad3-99b3-18a740aa24b7",
-  "solr_geom": "ENVELOPE(-93.5127,-93.0195,45.4147,44.805)",
+  "solr_geom": "ENVELOPE(-93.513,-93.019,45.415,44.805)",
   "solr_year_i": "1914",
   "dc_creator_sm": [
     "Farmer (Saint Paul, Minn.)"
   ],
   "dc_description_s": "Page 5: Atlas and farmers' directory of Anoka County and eleven northern townships of Hennepin County, Minnesota, 1914",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/160/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/193104\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/160/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/193104\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/160/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota--Anoka County",
     "Minnesota--Hennepin County",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:27:05Z",
   "dc_language_sm": [
     "eng"
   ],

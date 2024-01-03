@@ -5,19 +5,18 @@
   "dc_title_s": "Saskatchewan, map showing disposition of lands",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:307",
-  "solr_geom": "ENVELOPE(-110,-102,55.5,49)",
+  "solr_geom": "ENVELOPE(-110.000,-102.000,55.500,49.000)",
   "solr_year_i": "1918",
   "dc_creator_sm": [
     "Canada. Natural Resources Intelligence Branch"
   ],
   "dc_description_s": "Cartographic Details: Scale 1:792,000. 1 in. to 12 1/2 mi. (W 110⁰00ʹ--W 102⁰00ʹ/N 55⁰30ʹ--N 49⁰00ʹ). Relief shown by spot heights. Corrected to July 1, 1918. Base map from plates of Geographer's Branch, Dept. of the Interior.|16th ed.|1 map : color, mounted on cloth backing ; 93 x 80 cm|Scale 1:792,000. 1 inch to 12 1/2 miles|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:307\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/307/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/307/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:307\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/307/manifest.json\"}",
   "dct_spatial_sm": [
     "Canada--Saskatchewan",
     "Canada"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:59Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,7 +5,7 @@
   "dc_title_s": "Map showing the Fergus Falls \"Park Region\" : embracing also the whole of Otter Tail County, Minn. and Wilkin and portions of Dou",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll231:50",
-  "solr_geom": "ENVELOPE(-96.8047,-95.1457,46.7209,45.8082)",
+  "solr_geom": "ENVELOPE(-96.805,-95.146,46.721,45.808)",
   "solr_year_i": "1880",
   "dc_creator_sm": [
     "Johnson, Smith & Harrison.",
@@ -14,13 +14,12 @@
   ],
   "dc_description_s": "Cartographic Details: Scale approximately 1:255,000. Relief shown by hachures. Scale provided from another source. Map does not indicate scale. \"Geo. B. Wright, Lots and Lands, Minneapolis ... Chas. J. Wright, land agent, Fergus Falls, Minn.\"\"Fergus Falls Park region, northern Minnesota rr as marked in red by Maj Henning, ... 9/81\"-Verso.|41 x 52 centimeters|Scale approximately 1:255,000|Minnesota County Maps, Plat Books, and Atlases",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:50\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/50/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/50/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:50\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/50/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota--Otter Tail County",
     "Minnesota--Wilkin County",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:59Z",
   "dc_language_sm": [
     "eng"
   ],

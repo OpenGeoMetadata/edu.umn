@@ -5,18 +5,17 @@
   "dc_title_s": "Map of the surface formations of the Southern Peninsula of Michigan",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:1951",
-  "solr_geom": "ENVELOPE(-87.0,-82.3333,46.0833,41.6667)",
+  "solr_geom": "ENVELOPE(-87.000,-82.333,46.083,41.667)",
   "solr_year_i": "1911",
   "dc_creator_sm": [
     "Leverett, Frank, 1859-1943"
   ],
   "dc_description_s": "Includes text.|49 x 39 centimeters|Scale 1:1,000,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1951\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1951/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/1951/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1951\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1951/manifest.json\"}",
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:43Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,7 +5,7 @@
   "dc_title_s": "Yule Bay: Antarctica",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "ANT-REF-MT2503-097",
-  "solr_geom": "ENVELOPE(168,165,-70,-71)",
+  "solr_geom": "ENVELOPE(168.000,165.000,-70.000,-71.000)",
   "solr_year_i": "1970",
   "dc_description_s": "Projection: Lambert Conformal Conic Projection: Standard Parallels -68º40' and -71º20'; Series: USGS 1:250,000 Topographic Reconnaissance Series",
   "dc_format_s": "GeoTIFF",
@@ -13,7 +13,6 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "layer_modified_dt": "2023-02-03T22:45:03Z",
   "dc_language_sm": [
     "eng",
     "dan"

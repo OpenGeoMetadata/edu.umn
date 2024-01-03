@@ -5,7 +5,7 @@
   "dc_title_s": "An accurate map of Hindostan or India, from the best authorities",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:378",
-  "solr_geom": "ENVELOPE(64,102,36,4)",
+  "solr_geom": "ENVELOPE(64.000,102.000,36.000,4.000)",
   "solr_year_i": "1817",
   "dc_creator_sm": [
     "Carey, Mathew, 1760-1839",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Cartographic Details: Scale approximately 1:9,180,000 (E 64°--E 102°/N 36°--N 4°).Relief shown pictorially. Appears in the author's Carey's general atlas, improved and enlarged. 1817. Name burnished out below title, probably J.T. Scott, sculp. In top right margin: 53.|38 x 40 centimeters|Scale approximately 1:9,180,000|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:378\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/378/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/378/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:378\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/378/manifest.json\"}",
   "dct_spatial_sm": [
     "India"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:18Z",
   "dc_language_sm": [
     "eng"
   ],

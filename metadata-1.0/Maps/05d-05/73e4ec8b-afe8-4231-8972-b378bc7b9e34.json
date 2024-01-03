@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Stearns County, Minnesota, C-10, Part B, Plate 9, Hydrogeology of the Quaternary Confined Aquifers and Bedrock Aquifers",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "73e4ec8b-afe8-4231-8972-b378bc7b9e34",
-  "solr_geom": "ENVELOPE(-95.1398,-94.0463,45.777,45.2836)",
+  "solr_geom": "ENVELOPE(-95.140,-94.046,45.777,45.284)",
   "solr_year_i": "1998",
   "dc_creator_sm": [
     "Falteisek, Jan",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Maps showing ground water resources and aquifer characteristics of confined Quaternary aquifers (aquifer surrounded by water impermeable material, usually clayey glacial till) and bedrock aquifers, scale 1:100,000, Stearns County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22303.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/703/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:703\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22303.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/703/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:703\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/703/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:56Z",
   "dc_language_sm": [
     "eng"
   ],

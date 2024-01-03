@@ -5,19 +5,18 @@
   "dc_title_s": "Plan and profile of Colorado River from Black Canyon, Arizona-Nevada to Arizona-Sonora boundary",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:2364",
-  "solr_geom": "ENVELOPE(-114.8833333,-114.1166667,35.93333333,32.66666667)",
+  "solr_geom": "ENVELOPE(-114.883,-114.117,35.933,32.667)",
   "solr_year_i": "1927",
   "dc_creator_sm": [
     "Geological Survey (U.S.)"
   ],
   "dc_description_s": "Relief shown by contours and spot heights.; Each sheet includes \"Key map of plan sheets.\"; \"Printed in 1927.\"; \"19 plans, 1 profile sheet.\"|on sheets 56 x 72 centimeters or smaller|Scale 1:31,680; Scale of profile sheet [1:126,720] 1 inch = 2 miles|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2364\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2364/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2364/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2364\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2364/manifest.json\"}",
   "dct_spatial_sm": [
     "Arizona",
     "Nevada"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:26Z",
   "dc_language_sm": [
     "eng"
   ],

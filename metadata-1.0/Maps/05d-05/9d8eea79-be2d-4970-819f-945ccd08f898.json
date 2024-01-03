@@ -5,7 +5,7 @@
   "dc_title_s": "Aeromagnetic map of Minnesota, north-central region--Baudette quadrangle",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "9d8eea79-be2d-4970-819f-945ccd08f898",
-  "solr_geom": "ENVELOPE(-95.3426,-94.4311,49.3856,48.3691)",
+  "solr_geom": "ENVELOPE(-95.343,-94.431,49.386,48.369)",
   "solr_year_i": "1998",
   "dc_creator_sm": [
     "Chandler, Val W.",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Total magnetic intensity anomaly, contour, scale 1:100,000.Interpretation of magnetic data collected from airborne surveys, the map contours (lines of equal magnetic intensity) indicate the distribution and concentration of magnetic minerals (primarily iron-bearing) within the upper crust of the earth.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn21114.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/609/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:609\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn21114.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/609/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:609\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/609/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:16:12Z",
   "dc_language_sm": [
     "eng"
   ],

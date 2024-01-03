@@ -5,7 +5,7 @@
   "dc_title_s": "Mount Goodale: Antarctica",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "ANT-REF-MT2503-047",
-  "solr_geom": "ENVELOPE(-150,-165,-85,-86)",
+  "solr_geom": "ENVELOPE(-150.000,-165.000,-85.000,-86.000)",
   "solr_year_i": "1989",
   "dc_description_s": "Projection: Polar Stereographic Projection: Standard Parallel -80º14'; Series: USGS 1:250,000 Topographic Reconnaissance Series",
   "dc_format_s": "GeoTIFF",
@@ -13,7 +13,6 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "layer_modified_dt": "2023-02-03T22:44:35Z",
   "dc_language_sm": [
     "eng"
   ],

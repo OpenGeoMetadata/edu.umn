@@ -5,19 +5,18 @@
   "dc_title_s": "Standard map of Itasca county, Minnesota",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll231:42",
-  "solr_geom": "ENVELOPE(-94.417,-93.0558,47.899,47.0252)",
+  "solr_geom": "ENVELOPE(-94.417,-93.056,47.899,47.025)",
   "solr_year_i": "1914",
   "dc_creator_sm": [
     "Minnesota Map Publishing Co."
   ],
   "dc_description_s": "Cartographic Details: Scale not given. \"Selected roads shown in dotted red.\"|68 x 73 centimeters|Scale not given.|Minnesota County Maps, Plat Books, and Atlases",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:42\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/42/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/42/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:42\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/42/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota--Itasca County",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:50Z",
   "dc_language_sm": [
     "eng"
   ],
