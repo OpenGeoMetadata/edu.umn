@@ -39,9 +39,9 @@
   "dct_spatial_sm": [
     "South Carolina"
   ],
-  "locn_geometry": "POLYGON((-83.3667 35.2167, -78.5167 35.2167, -78.5167 32.0, -83.3667 32.0, -83.3667 35.2167))",
-  "dcat_bbox": "ENVELOPE(-83.3667,-78.5167,35.2167,32.0)",
-  "dcat_centroid": "33.60835,-80.9417",
+  "locn_geometry": "POLYGON((-83.367 35.217, -78.517 35.217, -78.517 32.000, -83.367 32.000, -83.367 35.217))",
+  "dcat_bbox": "ENVELOPE(-83.367,-78.517,35.217,32.000)",
+  "dcat_centroid": "33.6085,-80.94200000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -54,11 +54,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1646\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1646/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/1646/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1646\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1646/manifest.json\"}",
   "id": "p16022coll230:1646",
   "dct_identifier_sm": [
     "UMN_ALMA:9949983600001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

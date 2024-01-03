@@ -5,19 +5,18 @@
   "dc_title_s": "Map of the city of Minneapolis, Minn",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll245:974",
-  "solr_geom": "ENVELOPE(-93.3374,-93.1982,45.0513,44.9052)",
+  "solr_geom": "ENVELOPE(-93.337,-93.198,45.051,44.905)",
   "solr_year_i": "1920",
   "dc_creator_sm": [
     "Minneapolis Directory Company"
   ],
   "dc_description_s": "60 x 45 centimeters|Minneapolis and St. Paul Maps and Atlases",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:974\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/974/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll245/974/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:974\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/974/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota--Minneapolis",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:05Z",
   "dc_language_sm": [
     "eng"
   ],

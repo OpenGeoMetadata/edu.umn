@@ -5,14 +5,14 @@
   "dc_title_s": "Asia, scale 1:4,000,000",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:4259",
-  "solr_geom": "ENVELOPE(60,180,40,20)",
+  "solr_geom": "ENVELOPE(60.00,179.99,40.00,20.00)",
   "solr_year_i": "1927",
   "dc_creator_sm": [
     "Great Britain. War Office. General Staff. Geographical Section"
   ],
   "dc_description_s": "Relief shown by gradient tints,  shading, and contours.; Includes index to adjoining sheets and index to boundaries.; Includes authorities.; Crown Copyright Reserved.|76 x 94 Centimeters|Scale 1:4,000,000 ;|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4259\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4259/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4259/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4259\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4259/manifest.json\"}",
   "dct_spatial_sm": [
     "India",
     "China",
@@ -20,7 +20,6 @@
     "Nepal",
     "Tibet Autonomous Region"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:26Z",
   "dc_language_sm": [
     "eng"
   ],

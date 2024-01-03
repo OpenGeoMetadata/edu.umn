@@ -36,8 +36,8 @@
     "Antarctica--Princess Astrid Coast",
     "Antarctica"
   ],
-  "locn_geometry": "POLYGON((10.5 -68, 6 -68, 6 -71.666, 10.5 -71.666, 10.5 -68))",
-  "dcat_bbox": "ENVELOPE(10.5,6,-68,-71.666)",
+  "locn_geometry": "POLYGON((10.500 -68.000, 6.000 -68.000, 6.000 -71.666, 10.500 -71.666, 10.500 -68.000))",
+  "dcat_bbox": "ENVELOPE(10.500,6.000,-68.000,-71.666)",
   "dcat_centroid": "-69.833,8.25",
   "pcdm_memberOf_sm": [
     "b0153110-e455-4ced-9114-9b13250a7093"
@@ -52,6 +52,5 @@
   "dct_identifier_sm": [
     "ANT-NAV-MT2601-012"
   ],
-  "gbl_mdModified_dt": "2023-02-03T22:44:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

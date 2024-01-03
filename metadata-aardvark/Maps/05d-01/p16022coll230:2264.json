@@ -35,9 +35,9 @@
     "Idaho",
     "Weiser National Forest"
   ],
-  "locn_geometry": "POLYGON((-117.1666667 45.5, -116 45.5, -116 44.16666667, -117.1666667 44.16666667, -117.1666667 45.5))",
-  "dcat_bbox": "ENVELOPE(-117.1666667,-116,45.5,44.16666667)",
-  "dcat_centroid": "44.833333335,-116.58333335",
+  "locn_geometry": "POLYGON((-117.167 45.500, -116.000 45.500, -116.000 44.167, -117.167 44.167, -117.167 45.500))",
+  "dcat_bbox": "ENVELOPE(-117.167,-116.000,45.500,44.167)",
+  "dcat_centroid": "44.8335,-116.5835",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,11 +50,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2264\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2264/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2264/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2264\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2264/manifest.json\"}",
   "id": "p16022coll230:2264",
   "dct_identifier_sm": [
     "UMN_ALMA:9974837752501701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

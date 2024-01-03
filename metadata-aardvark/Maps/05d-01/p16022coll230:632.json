@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "Canada"
   ],
-  "locn_geometry": "POLYGON((-68.4833 45.9833, -63.9833 45.9833, -63.9833 43.5, -68.4833 43.5, -68.4833 45.9833))",
-  "dcat_bbox": "ENVELOPE(-68.4833,-63.9833,45.9833,43.5)",
-  "dcat_centroid": "44.74165,-66.2333",
+  "locn_geometry": "POLYGON((-68.483 45.983, -63.983 45.983, -63.983 43.500, -68.483 43.500, -68.483 45.983))",
+  "dcat_bbox": "ENVELOPE(-68.483,-63.983,45.983,43.500)",
+  "dcat_centroid": "44.7415,-66.233",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:632\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/632/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/632/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:632\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/632/manifest.json\"}",
   "id": "p16022coll230:632",
   "dct_identifier_sm": [
     "UMN_ALMA:9974797100201701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

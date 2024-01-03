@@ -5,11 +5,11 @@
   "dc_title_s": "Country south of the Ganges, from Calcutta to Benares:",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:119",
-  "solr_geom": "ENVELOPE(82.6638,88.6637,25.583,22.3239)",
+  "solr_geom": "ENVELOPE(82.664,88.664,25.583,22.324)",
   "solr_year_i": "1864",
   "dc_description_s": "Scale 8 miles to 1 in.|79 x 145 centimeters|Scale 1:506,880; 8 miles = 1 inch|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:119\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/119/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/119/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:119\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/119/manifest.json\"}",
   "dct_spatial_sm": [
     "India--Kolkata",
     "India--Vārānasi",
@@ -17,7 +17,6 @@
     "India--Uttar Pradesh",
     "India"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:44Z",
   "dc_language_sm": [
     "eng"
   ],

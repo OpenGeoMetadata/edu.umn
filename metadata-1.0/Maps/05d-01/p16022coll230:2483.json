@@ -5,19 +5,18 @@
   "dc_title_s": "Parts of eastern and southeastern Arizona, western and southwestern New Mexico",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:2483",
-  "solr_geom": "ENVELOPE(-111,-108.25,34,32.33333333)",
+  "solr_geom": "ENVELOPE(-111.000,-108.250,34.000,32.333)",
   "solr_year_i": "1876",
   "dc_creator_sm": [
     "Geographical Surveys West of the 100th Meridian (U.S.)"
   ],
   "dc_description_s": "Relief shown by hachures and spot heights.; \"Atlas sheet no. 83.\"; \"Issued Mar. 18th 1876.\"; \"Expeditions of 1871 & 1873 under the command of 1st. Lieut. Geo. M. Wheeler, Corps of Engineers, U.S. Army.\"; \"Weyss, Herman & Lang, del.\"|37 x 52 centimeters|Scale 1:506,880; 1 inch to 8 miles.|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2483\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2483/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2483/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2483\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2483/manifest.json\"}",
   "dct_spatial_sm": [
     "New Mexico",
     "Arizona"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:56Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,7 +5,7 @@
   "dc_title_s": "Royaume de Bengale, et les pays voisins du Gange : situez entre le Mogolistan et le Pegu, tireá des Meámoires de Nuno de Cunha,",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:423",
-  "solr_geom": "ENVELOPE(73.2,98.35,32.5,17)",
+  "solr_geom": "ENVELOPE(73.200,98.350,32.500,17.000)",
   "solr_year_i": "1715",
   "dc_creator_sm": [
     "Aa, Pieter van der, 1659-1733",
@@ -13,12 +13,11 @@
   ],
   "dc_description_s": "Cartographic Details: Scale approximately 1:12,000,000 ; (E 73°12'00\"--E 98°21'00\"/N 32°30'00\"--N 17°00'00\"). Relief shown pictorially. Date from previous call number. In lower right:\"52.\" In Dutch and French.|15 x 22 centimeters, on sheet 37 x 46 centimeters|Scale approximately 1:12,000,000|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:423\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/423/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/423/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:423\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/423/manifest.json\"}",
   "dct_spatial_sm": [
     "Bangladesh",
     "India"
   ],
-  "layer_modified_dt": "2023-02-07T18:32:58Z",
   "dc_language_sm": [
     "dut"
   ],

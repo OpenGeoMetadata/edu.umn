@@ -9,7 +9,7 @@
     "Scale 1:100,000"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_creator_sm": [
     "United States. Soil Conservation Service"
@@ -39,9 +39,9 @@
     "Illinois--Wabash County",
     "Illinois"
   ],
-  "locn_geometry": "POLYGON((-88.0 38.583333, -87.633333 38.583333, -87.633333 38.233333, -88.0 38.233333, -88.0 38.583333))",
-  "dcat_bbox": "ENVELOPE(-88.0,-87.633333,38.583333,38.233333)",
-  "dcat_centroid": "38.408333,-87.8166665",
+  "locn_geometry": "POLYGON((-88.000 38.583, -87.633 38.583, -87.633 38.233, -88.000 38.233, -88.000 38.583))",
+  "dcat_bbox": "ENVELOPE(-88.000,-87.633,38.583,38.233)",
+  "dcat_centroid": "38.408,-87.81649999999999",
   "pcdm_memberOf_sm": [
     "2787a9e8-0bef-452e-9e5f-e83042c193b4",
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -54,11 +54,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/504/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:504\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/504/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/504/filename/print/page/download/fparams/forcedownload\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll624/504/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:504\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/504/manifest.json\"}",
   "id": "p16022coll624:504",
   "dct_identifier_sm": [
     "UMN_ALMA:9948392580001701"
   ],
-  "gbl_mdModified_dt": "2023-06-16T21:58:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

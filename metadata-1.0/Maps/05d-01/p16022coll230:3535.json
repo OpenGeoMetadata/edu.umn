@@ -5,19 +5,18 @@
   "dc_title_s": "Mapa rozsiedlenia ludnosci polskiej na terenie Republiki Litewskiej... La carte de l'établissement de la population polonaise sur le territoire de la République Lithuanienne et dans les régions Nord de la République Polonaise",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3535",
-  "solr_geom": "ENVELOPE(20.65,26.8333,56.45,53.8833)",
+  "solr_geom": "ENVELOPE(20.650,26.833,56.450,53.883)",
   "solr_year_i": "1929",
   "dc_description_s": "1:750 000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3535\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3535/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3535/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3535\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3535/manifest.json\"}",
   "dct_spatial_sm": [
     "Poland",
     "Lithuania",
     "Europe"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:31Z",
   "dc_language_sm": [
-    "fra"
+    "fre"
   ],
   "dc_publisher_s": "Institut pour l'Etude des Questions minoritaires (Varsovie)",
   "dct_issued_s": "1929",

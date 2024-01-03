@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Ramsey County, Minnesota, C-7, Plate 5, Depth to Bedrock",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "0bf54a71-4e1b-4f00-97f3-feef4322c155",
-  "solr_geom": "ENVELOPE(-93.2272,-92.9838,45.1258,44.8924)",
+  "solr_geom": "ENVELOPE(-93.227,-92.984,45.126,44.892)",
   "solr_year_i": "1992",
   "dc_creator_sm": [
     "Cleland, Jane M.",
@@ -15,11 +15,10 @@
   ],
   "dc_description_s": "Map showing the thickness of unconsolidated materials (glacial and stream sediments) over the bedrock surface and the stratigraphy of the Quaternary materials, scale 1:48,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22270.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/670/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:670\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22270.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/670/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:670\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/670/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:53Z",
   "dc_language_sm": [
     "eng"
   ],

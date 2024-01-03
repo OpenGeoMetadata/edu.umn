@@ -5,7 +5,7 @@
   "dc_title_s": "A map of the provinces of Delhi, Agrah, Oude, and Ellahabad : comprehending the countries lying between Delhi and the Bengal-pro",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:328",
-  "solr_geom": "ENVELOPE(77.1432,80.8697,30.2804,26.6459)",
+  "solr_geom": "ENVELOPE(77.143,80.870,30.280,26.646)",
   "solr_year_i": "1794",
   "dc_creator_sm": [
     "Dury, Andrew",
@@ -16,11 +16,10 @@
   ],
   "dc_description_s": "Cartographic Details: Scale approximately 1:730,000. Map of the northern provinces of India showing roads, district and provincial boundaries. Relief shown pictorially.\"Published 12th May, 1794.\"|107 x 106 centimeters, sheet 56 x 55 centimeters|Scale approximately 1:730,000|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:328\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/328/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/328/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:328\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/328/manifest.json\"}",
   "dct_spatial_sm": [
     "India"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:11Z",
   "dc_language_sm": [
     "eng"
   ],

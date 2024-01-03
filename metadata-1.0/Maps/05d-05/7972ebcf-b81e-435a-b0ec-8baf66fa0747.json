@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic map of Minnesota, Quaternary geology, S-4",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "7972ebcf-b81e-435a-b0ec-8baf66fa0747",
-  "solr_geom": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
+  "solr_geom": "ENVELOPE(-97.239,-89.483,49.384,43.499)",
   "solr_year_i": "1979",
   "dc_creator_sm": [
     "Goebel, Joseph E.",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Quaternary geology map showing interpretations of Quaternary (Pleistocene [glacial] and Holocene [post-glacial]) surficial geology (distribution and type of materials at the land surface), of Minnesota, scale 1:3,168,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22622.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/896/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:896\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22622.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/896/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:896\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/896/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:59Z",
   "dc_language_sm": [
     "eng"
   ],

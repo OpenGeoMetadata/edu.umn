@@ -30,9 +30,9 @@
     "Oregon",
     "McKenzie River"
   ],
-  "locn_geometry": "POLYGON((-123.1 44.4, -121.9833333 44.4, -121.9833333 43.96666667, -123.1 43.96666667, -123.1 44.4))",
-  "dcat_bbox": "ENVELOPE(-123.1,-121.9833333,44.4,43.96666667)",
-  "dcat_centroid": "44.183333335,-122.54166665",
+  "locn_geometry": "POLYGON((-123.100 44.400, -121.983 44.400, -121.983 43.967, -123.100 43.967, -123.100 44.400))",
+  "dcat_bbox": "ENVELOPE(-123.100,-121.983,44.400,43.967)",
+  "dcat_centroid": "44.183499999999995,-122.5415",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,11 +45,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2296\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2296/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2296/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2296\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2296/manifest.json\"}",
   "id": "p16022coll230:2296",
   "dct_identifier_sm": [
     "UMN_ALMA:9927578250001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -5,18 +5,17 @@
   "dc_title_s": "Map of the department of Dakota : including Minnesota, North Dakota, Montana, Yellowstone National Park, and that portion of South Dakota lying north of the forty-fourth parallel of north latitude.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:627",
-  "solr_geom": "ENVELOPE(-118.00,-88.00,51.00,42.00)",
+  "solr_geom": "ENVELOPE(-118.000,-88.000,51.000,42.000)",
   "solr_year_i": "1891",
   "dc_creator_sm": [
     "United States. Army. Corps of Engineers"
   ],
   "dc_description_s": "92 x 207 centimeters|Scale approximately 1:1,010,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:627\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/627/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/627/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:627\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/627/manifest.json\"}",
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:16Z",
   "dc_language_sm": [
     "eng"
   ],

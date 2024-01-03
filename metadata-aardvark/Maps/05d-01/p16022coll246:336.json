@@ -38,8 +38,8 @@
   "dct_spatial_sm": [
     "India"
   ],
-  "locn_geometry": "POLYGON((65 33, 100 33, 100 6, 65 6, 65 33))",
-  "dcat_bbox": "ENVELOPE(65,100,33,6)",
+  "locn_geometry": "POLYGON((65.000 33.000, 100.000 33.000, 100.000 6.000, 65.000 6.000, 65.000 33.000))",
+  "dcat_bbox": "ENVELOPE(65.000,100.000,33.000,6.000)",
   "dcat_centroid": "19.5,82.5",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:336\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/336/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/336/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:336\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/336/manifest.json\"}",
   "id": "p16022coll246:336",
   "dct_identifier_sm": [
     "UMN_ALMA:9956961800001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

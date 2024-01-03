@@ -5,7 +5,7 @@
   "dc_title_s": "Glacial and vegetational history of northeastern Minnesota, SP-11, Plate 3",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "f9200079-2c64-47e1-a87c-33b4dcd94f3d",
-  "solr_geom": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
+  "solr_geom": "ENVELOPE(-97.239,-89.483,49.384,43.499)",
   "solr_year_i": "1969",
   "dc_creator_sm": [
     "Watts, William (William A.), 1930-2010",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Seed type diagram for Jacobson Lake and basal layers of Anderson Lake, Pine County, Minnesota.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23401.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/920/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:920\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23401.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/920/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:920\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/920/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:19:10Z",
   "dc_language_sm": [
     "eng"
   ],

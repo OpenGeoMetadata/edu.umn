@@ -77,9 +77,9 @@
     "Sanborn",
     "Minnesota--Redwood Falls"
   ],
-  "locn_geometry": "POLYGON((-95.5801 44.6801, -94.86 44.6801, -94.86 44.1801, -95.5801 44.1801, -95.5801 44.6801))",
-  "dcat_bbox": "ENVELOPE(-95.5801,-94.86,44.6801,44.1801)",
-  "dcat_centroid": "44.4301,-95.22005",
+  "locn_geometry": "POLYGON((-95.580 44.680, -94.860 44.680, -94.860 44.180, -95.580 44.180, -95.580 44.680))",
+  "dcat_bbox": "ENVELOPE(-95.580,-94.860,44.680,44.180)",
+  "dcat_centroid": "44.43,-95.22",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -95,11 +95,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:903\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/903/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/903/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:903\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/903/manifest.json\"}",
   "id": "p16022coll231:903",
   "dct_identifier_sm": [
     "UMN_ALMA:9943596600001701"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:06:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

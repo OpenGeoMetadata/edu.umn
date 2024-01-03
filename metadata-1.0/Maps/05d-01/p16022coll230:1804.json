@@ -5,18 +5,17 @@
   "dc_title_s": "Map of the state of Oklahoma",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:1804",
-  "solr_geom": "ENVELOPE(-103.0,-94.4167,37.0,33.6)",
+  "solr_geom": "ENVELOPE(-103.000,-94.417,37.000,33.600)",
   "solr_year_i": "1914",
   "dc_creator_sm": [
     "Oklahoma Geological Survey"
   ],
   "dc_description_s": "Shows rivers, county boundaries, county seats, roads and railway lines.|67 x 128 centimeters|Scale approximately 1:633,600|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1804\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1804/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/1804/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1804\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1804/manifest.json\"}",
   "dct_spatial_sm": [
     "Oklahoma"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:49Z",
   "dc_language_sm": [
     "eng"
   ],

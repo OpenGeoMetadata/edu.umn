@@ -5,7 +5,7 @@
   "dc_title_s": "E1-66-8: Antarctica",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "ANT-REF-MT2505-001",
-  "solr_geom": "ENVELOPE(60,52.5,-66,-68)",
+  "solr_geom": "ENVELOPE(60.000,52.500,-66.000,-68.000)",
   "solr_year_i": "1956",
   "dc_description_s": "Projection: Polar Stereographic Projection: Standard Parallel 71º; Series: USGS 1:500,000 Topographic Reconnaissance Series",
   "dc_format_s": "GeoTIFF",
@@ -13,7 +13,6 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "layer_modified_dt": "2023-02-03T22:44:03Z",
   "dc_language_sm": [
     "eng"
   ],

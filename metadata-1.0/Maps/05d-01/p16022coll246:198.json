@@ -5,21 +5,20 @@
   "dc_title_s": "Gangetic Hindoostan : or the countries occupied by the Ganges and its branches",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:198",
-  "solr_geom": "ENVELOPE(75,93,31.5,19.5)",
+  "solr_geom": "ENVELOPE(75.000,93.000,31.500,19.500)",
   "solr_year_i": "1813",
   "dc_creator_sm": [
     "Cary, John, approximately 1754-1835"
   ],
   "dc_description_s": "Cartographic Details: Scale approximately 1:6,000,000 ; (E 75°00'00\"--E 93°00'00\"/N 31°30'00\"--N 19°30'00\"). Covers Northeastern India, Nepal, Bhutan, and Bangladesh. Relief shown by hachures.|22 x 27 centimeters|Scale approximately 1:6,000,000|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:198\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/198/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/198/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:198\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/198/manifest.json\"}",
   "dct_spatial_sm": [
     "Bangladesh",
     "Bhutan",
     "India",
     "Nepal"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:16Z",
   "dc_language_sm": [
     "eng"
   ],

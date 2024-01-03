@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "Paraguay"
   ],
-  "locn_geometry": "POLYGON((-62.75 -17.0, -54.0 -17.0, -54.0 -27.5833, -62.75 -27.5833, -62.75 -17.0))",
-  "dcat_bbox": "ENVELOPE(-62.75,-54.0,-17.0,-27.5833)",
-  "dcat_centroid": "-22.29165,-58.375",
+  "locn_geometry": "POLYGON((-62.750 -17.000, -54.000 -17.000, -54.000 -27.583, -62.750 -27.583, -62.750 -17.000))",
+  "dcat_bbox": "ENVELOPE(-62.750,-54.000,-17.000,-27.583)",
+  "dcat_centroid": "-22.2915,-58.375",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2766\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2766/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2766/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2766\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2766/manifest.json\"}",
   "id": "p16022coll230:2766",
   "dct_identifier_sm": [
     "UMN_ALMA:9973951768001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

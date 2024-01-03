@@ -5,18 +5,17 @@
   "dc_title_s": "Map city New Ulm, Brown County Minnesota",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll205:433",
-  "solr_geom": "ENVELOPE(-94.51677,-94.41397,44.352475,44.275803)",
+  "solr_geom": "ENVELOPE(-94.517,-94.414,44.352,44.276)",
   "solr_year_i": "1929",
   "dc_creator_sm": [
     "Minnesota--New Ulm"
   ],
   "dc_description_s": "Plot plan of the city of New Ulm.|26 x 55 centimeters|Scale (approximately 1:18,375) not \"1 inch = 300'\"|City Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:433\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/433/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/433/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:433\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/433/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota--New Ulm"
   ],
-  "layer_modified_dt": "2023-06-23T18:47:31Z",
   "dc_language_sm": [
     "eng"
   ],

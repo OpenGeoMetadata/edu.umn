@@ -42,9 +42,9 @@
     "Antarctica--Thwaites Glaicer",
     "Antarctica"
   ],
-  "locn_geometry": "POLYGON((-98.1301 -69.1486, -123.1113 -69.1486, -123.1113 -79.1767, -98.1301 -79.1767, -98.1301 -69.1486))",
-  "dcat_bbox": "ENVELOPE(-98.1301,-123.1113,-69.1486,-79.1767)",
-  "dcat_centroid": "-74.16265,-110.6207",
+  "locn_geometry": "POLYGON((-98.130 -69.149, -123.111 -69.149, -123.111 -79.177, -98.130 -79.177, -98.130 -69.149))",
+  "dcat_bbox": "ENVELOPE(-98.130,-123.111,-69.149,-79.177)",
+  "dcat_centroid": "-74.16300000000001,-110.62049999999999",
   "pcdm_memberOf_sm": [
     "b0153110-e455-4ced-9114-9b13250a7093"
   ],
@@ -58,6 +58,5 @@
   "dct_identifier_sm": [
     "ANT-NAV-OT2017-001"
   ],
-  "gbl_mdModified_dt": "2023-02-03T22:44:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

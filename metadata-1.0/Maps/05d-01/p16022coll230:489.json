@@ -5,7 +5,7 @@
   "dc_title_s": "United States. General Land Office.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:489",
-  "solr_geom": "ENVELOPE(-104.05,-96.55,49,45.93)",
+  "solr_geom": "ENVELOPE(-104.050,-96.550,49.000,45.930)",
   "solr_year_i": "1910",
   "dc_creator_sm": [
     "Bauman, Wm. (William)",
@@ -15,11 +15,10 @@
   ],
   "dc_description_s": "(W 104°03ʹ--W 96°33ʹ/N 49°00ʹ--N 45°56ʹ).   At head of title: Department of the Interior, General Land Office, Fred Dennett, Commissioner.   Relief shown by shading and hachures.   Prinicpal meridian: Greenwich and Washington.|74 x 93 centimeters|Scale approximately 1:760,320|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:489\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/489/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/489/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:489\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/489/manifest.json\"}",
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:41Z",
   "dc_language_sm": [
     "eng"
   ],

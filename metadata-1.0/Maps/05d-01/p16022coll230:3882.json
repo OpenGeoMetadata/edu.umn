@@ -5,20 +5,19 @@
   "dc_title_s": "Map of boundary between Southern Nigeria and Kameruns",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3882",
-  "solr_geom": "ENVELOPE(8.75,9.25,6.0833,4.6667)",
+  "solr_geom": "ENVELOPE(8.750,9.250,6.083,4.667)",
   "solr_year_i": "1906",
   "dc_creator_sm": [
     "Woodroffe, A. J"
   ],
   "dc_description_s": "Includes inset continuation of main map.; Shows roads, railroads, settlements, hydrography, ranges, seigneuries.|Scale 1:100,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3882\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3882/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3882/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3882\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3882/manifest.json\"}",
   "dct_spatial_sm": [
     "Nigeria",
     "Cameroon",
     "Africa"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:34Z",
   "dc_language_sm": [
     "eng"
   ],

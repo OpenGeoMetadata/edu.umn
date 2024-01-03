@@ -37,9 +37,9 @@
     "England--Norfolk",
     "England"
   ],
-  "locn_geometry": "POLYGON((0.1667 52.9667, 1.7333 52.9667, 1.7333 52.35, 0.1667 52.35, 0.1667 52.9667))",
-  "dcat_bbox": "ENVELOPE(0.1667,1.7333,52.9667,52.35)",
-  "dcat_centroid": "52.65835,0.9500000000000001",
+  "locn_geometry": "POLYGON((0.167 52.967, 1.733 52.967, 1.733 52.350, 0.167 52.350, 0.167 52.967))",
+  "dcat_bbox": "ENVELOPE(0.167,1.733,52.967,52.350)",
+  "dcat_centroid": "52.658500000000004,0.9500000000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2970\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2970/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2970/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2970\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2970/manifest.json\"}",
   "id": "p16022coll230:2970",
   "dct_identifier_sm": [
     "UMN_ALMA:9944911740001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:32:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

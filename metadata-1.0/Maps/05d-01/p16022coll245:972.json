@@ -5,18 +5,17 @@
   "dc_title_s": "Map of the campus, University of Minnesota.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll245:972",
-  "solr_geom": "ENVELOPE(-93.2419,-93.2259,44.9834,44.9647)",
+  "solr_geom": "ENVELOPE(-93.242,-93.226,44.983,44.965)",
   "solr_year_i": "1913",
   "dc_creator_sm": [
     "Zelner, O. S."
   ],
   "dc_description_s": "on sheet 28 x 36 centimeters|Scale approximately 1:5,000.|Minneapolis and St. Paul Maps and Atlases",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:972\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/972/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll245/972/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:972\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/972/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:49Z",
   "dc_language_sm": [
     "eng"
   ],

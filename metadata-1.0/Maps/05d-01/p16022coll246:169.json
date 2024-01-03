@@ -5,20 +5,19 @@
   "dc_title_s": "Inde",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:169",
-  "solr_geom": "ENVELOPE(64,110,36.5,0.01)",
+  "solr_geom": "ENVELOPE(64.000,110.000,36.500,0.010)",
   "solr_year_i": "1809",
   "dc_creator_sm": [
     "Poirson, J. B."
   ],
   "dc_description_s": "Cartographic Details: Scale not given. Relief shown hachures ad pictorially.|22 x 25 centimeters|Scale not given.|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:169\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/169/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/169/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:169\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/169/manifest.json\"}",
   "dct_spatial_sm": [
     "India",
     "Malaysia",
     "Thailand"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:15Z",
   "dc_language_sm": [
     "fre"
   ],

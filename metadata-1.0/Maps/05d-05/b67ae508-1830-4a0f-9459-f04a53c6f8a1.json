@@ -5,7 +5,7 @@
   "dc_title_s": "Iron ores of Minnesota, their geology, discovery, development, qualities and origin, and comparison with those of other iron districts, Bulletin 6, Plate 1",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "b67ae508-1830-4a0f-9459-f04a53c6f8a1",
-  "solr_geom": "ENVELOPE(-93.8114,-93.0495,47.0316,46.1541)",
+  "solr_geom": "ENVELOPE(-93.811,-93.049,47.032,46.154)",
   "solr_year_i": "1891",
   "dc_creator_sm": [
     "Winchell, Horace V. (Horace Vaughn), 1865-1923",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Map of northeastern Minnesota showing iron regions, scale 1 inch = about 4.5 miles.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23263.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1065/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1065\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23263.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1065/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1065\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1065/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:20:00Z",
   "dc_language_sm": [
     "eng"
   ],

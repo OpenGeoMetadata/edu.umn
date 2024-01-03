@@ -1,28 +1,56 @@
 {
-  "geoblacklight_version": "1.0",
-  "dc_identifier_s": "cb3c34f1-4dec-4109-a168-082ce2244834",
-  "dc_rights_s": "Public",
-  "dc_title_s": "Bedrock topography and isopachs of Cretaceous and Quaternary strata, east-central and southeastern Minnesota, M-52, Plate 1",
-  "dct_provenance_s": "University of Minnesota",
-  "layer_slug_s": "cb3c34f1-4dec-4109-a168-082ce2244834",
-  "solr_geom": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
-  "solr_year_i": "1983",
-  "dc_creator_sm": [
+  "dct_title_s": "Bedrock topography and isopachs of Cretaceous and Quaternary strata, east-central and southeastern Minnesota, M-52, Plate 1",
+  "dct_description_sm": [
+    "Bedrock topography (elevation of the bedrock surface) map, east-central and southeastern Minnesota, scale 1:500,000."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
     "Mossler, John H."
   ],
-  "dc_description_s": "Bedrock topography (elevation of the bedrock surface) map, east-central and southeastern Minnesota, scale 1:500,000.",
-  "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22438.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/934/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:934\"}",
+  "dct_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1983"
+  ],
+  "dct_issued_s": "1983",
+  "gbl_indexYear_im": [
+    "1983"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1983 TO 1983]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:16:49Z",
-  "dc_language_sm": [
-    "eng"
+  "locn_geometry": "POLYGON((-97.239 49.384, -89.483 49.384, -89.483 43.499, -97.239 43.499, -97.239 49.384))",
+  "dcat_bbox": "ENVELOPE(-97.239,-89.483,49.384,43.499)",
+  "dcat_centroid": "46.441500000000005,-93.361",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
-  "dc_publisher_s": "Minnesota Geological Survey",
-  "dct_issued_s": "1983",
-  "dct_temporal_sm": [
-    "1983"
-  ]
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22438.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/934/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:934\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/934/manifest.json\"}",
+  "id": "cb3c34f1-4dec-4109-a168-082ce2244834",
+  "dct_identifier_sm": [
+    "cb3c34f1-4dec-4109-a168-082ce2244834"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
 }

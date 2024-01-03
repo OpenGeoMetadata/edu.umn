@@ -5,20 +5,19 @@
   "dc_title_s": "Map of Lake Bonneville : (a water body of the Quaternary Period)",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:4199",
-  "solr_geom": "ENVELOPE(-114.8333333,-110.8666667,42.43333333,37.5)",
+  "solr_geom": "ENVELOPE(-114.833,-110.867,42.433,37.500)",
   "solr_year_i": "1890",
   "dc_creator_sm": [
     "Gilbert, Grove Karl, 1843-1918"
   ],
   "dc_description_s": "Relief shown by contours and shading.; Shows ancient and modern water surfaces.; Report on Lake Bonneville--Top right margin.; Includes note.; To accompany: Lake Bonneville / by G.K. Gilbert. (Monographs of the United States Geological Survey ; v. 1).|69 x 44 Centimeters|Scale 1:800,000. 1 inch = 12.626 miles|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4199\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4199/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4199/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4199\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4199/manifest.json\"}",
   "dct_spatial_sm": [
     "Idaho",
     "Utah",
     "Lake Bonneville"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:15Z",
   "dc_language_sm": [
     "eng"
   ],

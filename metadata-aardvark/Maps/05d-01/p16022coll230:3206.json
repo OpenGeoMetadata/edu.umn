@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "Commercy"
   ],
-  "locn_geometry": "POLYGON((4.8833 49.6167, 5.85 49.6167, 5.85 48.4, 4.8833 48.4, 4.8833 49.6167))",
-  "dcat_bbox": "ENVELOPE(4.8833,5.85,49.6167,48.4)",
-  "dcat_centroid": "49.00835,5.36665",
+  "locn_geometry": "POLYGON((4.883 49.617, 5.850 49.617, 5.850 48.400, 4.883 48.400, 4.883 49.617))",
+  "dcat_bbox": "ENVELOPE(4.883,5.850,49.617,48.400)",
+  "dcat_centroid": "49.0085,5.3665",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3206\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3206/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3206/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3206\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3206/manifest.json\"}",
   "id": "p16022coll230:3206",
   "dct_identifier_sm": [
     "UMN_ALMA:9953435110001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

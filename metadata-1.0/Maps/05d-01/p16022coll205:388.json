@@ -5,7 +5,7 @@
   "dc_title_s": "Plan de la ville de Marseille : 1919",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll205:388",
-  "solr_geom": "ENVELOPE(5.2101,5.5101,43.38,43.16)",
+  "solr_geom": "ENVELOPE(5.210,5.510,43.380,43.160)",
   "solr_year_i": "1919",
   "dc_creator_sm": [
     "Curet, Louis",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Originally 1 sheet.|75 x 116 centimeters|Scale 1:5,000|City Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:388\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/388/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/388/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:388\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/388/manifest.json\"}",
   "dct_spatial_sm": [
     "France"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:03Z",
   "dc_language_sm": [
     "fre"
   ],

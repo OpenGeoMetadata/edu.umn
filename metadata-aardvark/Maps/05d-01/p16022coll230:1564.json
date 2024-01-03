@@ -34,9 +34,9 @@
     "Maryland",
     "Virginia"
   ],
-  "locn_geometry": "POLYGON((-79.45 39.7333, -75.6333 39.7333, -75.6333 36.3833, -79.45 36.3833, -79.45 39.7333))",
-  "dcat_bbox": "ENVELOPE(-79.45,-75.6333,39.7333,36.3833)",
-  "dcat_centroid": "38.0583,-77.54165",
+  "locn_geometry": "POLYGON((-79.450 39.733, -75.633 39.733, -75.633 36.383, -79.450 36.383, -79.450 39.733))",
+  "dcat_bbox": "ENVELOPE(-79.450,-75.633,39.733,36.383)",
+  "dcat_centroid": "38.058,-77.5415",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,11 +49,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1564\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1564/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/1564/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1564\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1564/manifest.json\"}",
   "id": "p16022coll230:1564",
   "dct_identifier_sm": [
     "UMN_ALMA:9974061809501701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

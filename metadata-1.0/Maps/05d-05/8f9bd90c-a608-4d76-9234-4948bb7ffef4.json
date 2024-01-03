@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Goodhue County, Minnesota, C-12, Part A, Plate 4, Quaternary Stratigraphy",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "8f9bd90c-a608-4d76-9234-4948bb7ffef4",
-  "solr_geom": "ENVELOPE(-93.0406,-92.2434,44.7157,44.1972)",
+  "solr_geom": "ENVELOPE(-93.041,-92.243,44.716,44.197)",
   "solr_year_i": "1998",
   "dc_creator_sm": [
     "Hobbs, Howard C.",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Cross sections showing the subsurface stratigraphy and unit characteristics of unconsolidated (glacial and stream sediments) overlying the bedrock, scale 1:100,000, Goodhue County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22318.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/718/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:718\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22318.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/718/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:718\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/718/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:50Z",
   "dc_language_sm": [
     "eng"
   ],

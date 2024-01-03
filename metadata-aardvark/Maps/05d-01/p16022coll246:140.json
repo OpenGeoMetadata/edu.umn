@@ -37,8 +37,8 @@
   "dct_spatial_sm": [
     "Myanmar [Burma]--Burma"
   ],
-  "locn_geometry": "POLYGON((90.68 28, 97.91 28, 97.91 15, 90.68 15, 90.68 28))",
-  "dcat_bbox": "ENVELOPE(90.68,97.91,28,15)",
+  "locn_geometry": "POLYGON((90.680 28.000, 97.910 28.000, 97.910 15.000, 90.680 15.000, 90.680 28.000))",
+  "dcat_bbox": "ENVELOPE(90.680,97.910,28.000,15.000)",
   "dcat_centroid": "21.5,94.295",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -52,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:140\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/140/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/140/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:140\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/140/manifest.json\"}",
   "id": "p16022coll246:140",
   "dct_identifier_sm": [
     "UMN_ALMA:9973944493701701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:32:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

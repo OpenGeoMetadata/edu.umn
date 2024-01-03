@@ -5,18 +5,17 @@
   "dc_title_s": "Surficial geology of the Elk River quadrangle, Sherburne, Wright, and Anoka Counties, Minnesota, M-124",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "739418b7-3750-44f6-b599-63443710723c",
-  "solr_geom": "ENVELOPE(-94.1475,-93.5093,45.5604,45.2454)",
+  "solr_geom": "ENVELOPE(-94.147,-93.509,45.560,45.245)",
   "solr_year_i": "2002",
   "dc_creator_sm": [
     "Lusardi, Barbara A."
   ],
   "dc_description_s": "Quaternary geology map showing interpretations of Quaternary (Pleistocene [glacial] and Holocene [post-glacial]) surficial geology (distribution and type of materials at the land surface), of the Elk River quadrangle, scale 1:24,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22533.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/847/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:847\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22533.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/847/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:847\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/847/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:25:58Z",
   "dc_language_sm": [
     "eng"
   ],

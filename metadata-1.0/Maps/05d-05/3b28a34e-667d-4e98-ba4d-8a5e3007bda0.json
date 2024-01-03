@@ -5,18 +5,17 @@
   "dc_title_s": "Bedrock geologic map of northeastern Itasca County, Minnesota, M-68",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "3b28a34e-667d-4e98-ba4d-8a5e3007bda0",
-  "solr_geom": "ENVELOPE(-94.4202,-93.056,47.9022,47.0263)",
+  "solr_geom": "ENVELOPE(-94.420,-93.056,47.902,47.026)",
   "solr_year_i": "1990",
   "dc_creator_sm": [
     "Jirsa, Mark A."
   ],
   "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments), northeastern Itasca County, scale 1:48,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22462.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1164/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1164\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22462.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1164/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1164\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1164/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:16:46Z",
   "dc_language_sm": [
     "eng"
   ],

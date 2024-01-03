@@ -5,19 +5,18 @@
   "dc_title_s": "The Rand-McNally new library atlas map of Ireland",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:3250",
-  "solr_geom": "ENVELOPE(-11.0,-5.65,55.6333,51.2167)",
+  "solr_geom": "ENVELOPE(-11.000,-5.650,55.633,51.217)",
   "solr_year_i": "1912",
   "dc_creator_sm": [
     "Rand McNally and Company"
   ],
   "dc_description_s": "Relief shown by hachures.|47 x 65 centimeters|Scale 1:728,640 Statute miles 11.5 = 1 inch|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3250\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3250/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3250/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3250\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3250/manifest.json\"}",
   "dct_spatial_sm": [
     "Ireland",
     "Europe"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:46Z",
   "dc_language_sm": [
     "eng"
   ],

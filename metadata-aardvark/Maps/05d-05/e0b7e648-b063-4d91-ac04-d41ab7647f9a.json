@@ -1,29 +1,57 @@
 {
-  "geoblacklight_version": "1.0",
-  "dc_identifier_s": "e0b7e648-b063-4d91-ac04-d41ab7647f9a",
-  "dc_rights_s": "Public",
-  "dc_title_s": "Geologic atlas of Stearns County, Minnesota, C-10, Part B, Plate 8, Hydrogeology of the Quaternary Water-Table System",
-  "dct_provenance_s": "University of Minnesota",
-  "layer_slug_s": "e0b7e648-b063-4d91-ac04-d41ab7647f9a",
-  "solr_geom": "ENVELOPE(-95.1398,-94.0463,45.777,45.2836)",
-  "solr_year_i": "1998",
-  "dc_creator_sm": [
+  "dct_title_s": "Geologic atlas of Stearns County, Minnesota, C-10, Part B, Plate 8, Hydrogeology of the Quaternary Water-Table System",
+  "dct_description_sm": [
+    "Maps showing ground water resources and aquifer characteristics in the bedrock and unconsolidated sediments (glacial and stream sediments) overlying the bedrock and interactions between surface and bedrock aquifers, scale 1:100,000, Stearns County."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
     "Falteisek, Jan",
     "Zhang, Hua (Geologist)"
   ],
-  "dc_description_s": "Maps showing ground water resources and aquifer characteristics in the bedrock and unconsolidated sediments (glacial and stream sediments) overlying the bedrock and interactions between surface and bedrock aquifers, scale 1:100,000, Stearns County.",
-  "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22302.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/702/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:702\"}",
+  "dct_publisher_sm": [
+    "Minnesota Department of Natural Resources, Division of Waters"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "dct_issued_s": "1998",
+  "gbl_indexYear_im": [
+    "1998"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1998 TO 1998]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:56Z",
-  "dc_language_sm": [
-    "eng"
+  "locn_geometry": "POLYGON((-95.140 45.777, -94.046 45.777, -94.046 45.284, -95.140 45.284, -95.140 45.777))",
+  "dcat_bbox": "ENVELOPE(-95.140,-94.046,45.777,45.284)",
+  "dcat_centroid": "45.5305,-94.593",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
-  "dc_publisher_s": "Minnesota Department of Natural Resources, Division of Waters",
-  "dct_issued_s": "1998",
-  "dct_temporal_sm": [
-    "1998"
-  ]
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22302.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/702/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:702\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/702/manifest.json\"}",
+  "id": "e0b7e648-b063-4d91-ac04-d41ab7647f9a",
+  "dct_identifier_sm": [
+    "e0b7e648-b063-4d91-ac04-d41ab7647f9a"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
 }

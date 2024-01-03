@@ -1,28 +1,60 @@
 {
-  "geoblacklight_version": "1.0",
-  "dc_identifier_s": "6b50d22a-2994-4ea1-be16-8241ebdb810d",
-  "dc_rights_s": "Public",
-  "dc_title_s": "Map of Blowers Township: Township 136, Range 36 W of the 5th PM.",
-  "dct_provenance_s": "University of Minnesota",
-  "layer_slug_s": "6b50d22a-2994-4ea1-be16-8241ebdb810d",
-  "solr_geom": "ENVELOPE(-96.2827,-95.1454,46.72,46.1072)",
-  "solr_year_i": "1912",
-  "dc_creator_sm": [
+  "dct_title_s": "Map of Blowers Township: Township 136, Range 36 W of the 5th PM.",
+  "dct_description_sm": [
+    "Page 79: Standard atlas of Otter Tail County, Minnesota, 1912"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
     "Geo. A. Ogle & Company"
   ],
-  "dc_description_s": "Page 79: Standard atlas of Otter Tail County, Minnesota, 1912",
-  "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1436/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/193084\"}",
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Atlases"
+  ],
+  "dcat_keyword_sm": [
+    "Atlases",
+    "Otter Tail County (Minn.) -- Maps",
+    "Otter Tail County (Minn.) -- History",
+    "John R. Borchert Map Library",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "dct_issued_s": "1912",
+  "gbl_indexYear_im": [
+    "1912"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1912 TO 1912]"
+  ],
   "dct_spatial_sm": [
     "Minnesota--Otter Tail County",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:27:00Z",
-  "dc_language_sm": [
-    "eng"
+  "locn_geometry": "POLYGON((-96.283 46.720, -95.145 46.720, -95.145 46.107, -96.283 46.107, -96.283 46.720))",
+  "dcat_bbox": "ENVELOPE(-96.283,-95.145,46.720,46.107)",
+  "dcat_centroid": "46.4135,-95.714",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
-  "dct_issued_s": "1912",
-  "dct_temporal_sm": [
-    "1912"
-  ]
+  "dct_isPartOf_sm": [
+    "p16022coll231:1495"
+  ],
+  "dct_rights_sm": [
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1436/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/193084\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/1436/manifest.json\"}",
+  "id": "6b50d22a-2994-4ea1-be16-8241ebdb810d",
+  "dct_identifier_sm": [
+    "6b50d22a-2994-4ea1-be16-8241ebdb810d"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
 }

@@ -37,9 +37,9 @@
     "North Dakota",
     "South Dakota"
   ],
-  "locn_geometry": "POLYGON((-104.0 49.0, -96.6333 49.0, -96.6333 42.5, -104.0 42.5, -104.0 49.0))",
-  "dcat_bbox": "ENVELOPE(-104.0,-96.6333,49.0,42.5)",
-  "dcat_centroid": "45.75,-100.31665000000001",
+  "locn_geometry": "POLYGON((-104.000 49.000, -96.633 49.000, -96.633 42.500, -104.000 42.500, -104.000 49.000))",
+  "dcat_bbox": "ENVELOPE(-104.000,-96.633,49.000,42.500)",
+  "dcat_centroid": "45.75,-100.31649999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2060\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2060/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2060/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2060\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2060/manifest.json\"}",
   "id": "p16022coll230:2060",
   "dct_identifier_sm": [
     "UMN_ALMA:9975822805701701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,31 +1,59 @@
 {
-  "geoblacklight_version": "1.0",
-  "dc_identifier_s": "b1231fd2-989e-4fb5-83ac-4128d900733b",
-  "dc_rights_s": "Public",
-  "dc_title_s": "Geologic atlas of Scott County, Minnesota, C-1, Plate 6, Hydrogeology",
-  "dct_provenance_s": "University of Minnesota",
-  "layer_slug_s": "b1231fd2-989e-4fb5-83ac-4128d900733b",
-  "solr_geom": "ENVELOPE(-93.9117,-93.2782,44.8139,44.5446)",
-  "solr_year_i": "1982",
-  "dc_creator_sm": [
+  "dct_title_s": "Geologic atlas of Scott County, Minnesota, C-1, Plate 6, Hydrogeology",
+  "dct_description_sm": [
+    "Maps showing water table configuration, transmissivity (ability of an aquifer to allow movement of water) and potentiometric conditions (potential direction of ground water movement) of surficial and bedrock aquifers, scale 1:200,000, Scott County."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
     "Balaban, Nancy",
     "Kanivetsky, Roman",
     "McSwiggen, P.L.",
     "Palen, Barbara M."
   ],
-  "dc_description_s": "Maps showing water table configuration, transmissivity (ability of an aquifer to allow movement of water) and potentiometric conditions (potential direction of ground water movement) of surficial and bedrock aquifers, scale 1:200,000, Scott County.",
-  "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn21124.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/618/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:618\"}",
+  "dct_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1982"
+  ],
+  "dct_issued_s": "1982",
+  "gbl_indexYear_im": [
+    "1982"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1982 TO 1982]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:55Z",
-  "dc_language_sm": [
-    "eng"
+  "locn_geometry": "POLYGON((-93.912 44.814, -93.278 44.814, -93.278 44.545, -93.912 44.545, -93.912 44.814))",
+  "dcat_bbox": "ENVELOPE(-93.912,-93.278,44.814,44.545)",
+  "dcat_centroid": "44.679500000000004,-93.595",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
-  "dc_publisher_s": "Minnesota Geological Survey",
-  "dct_issued_s": "1982",
-  "dct_temporal_sm": [
-    "1982"
-  ]
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn21124.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/618/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:618\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/618/manifest.json\"}",
+  "id": "b1231fd2-989e-4fb5-83ac-4128d900733b",
+  "dct_identifier_sm": [
+    "b1231fd2-989e-4fb5-83ac-4128d900733b"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
 }

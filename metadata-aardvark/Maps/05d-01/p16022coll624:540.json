@@ -9,7 +9,7 @@
     "Scale 1:100,000"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_creator_sm": [
     "United States. Soil Conservation Service"
@@ -39,9 +39,9 @@
     "Illinois--Winnebago County",
     "Illinois"
   ],
-  "locn_geometry": "POLYGON((-89.401423 42.500563, -88.939732 42.500563, -88.939732 42.150266, -89.401423 42.150266, -89.401423 42.500563))",
-  "dcat_bbox": "ENVELOPE(-89.401423,-88.939732,42.500563,42.150266)",
-  "dcat_centroid": "42.3254145,-89.17057750000001",
+  "locn_geometry": "POLYGON((-89.401 42.501, -88.940 42.501, -88.940 42.150, -89.401 42.150, -89.401 42.501))",
+  "dcat_bbox": "ENVELOPE(-89.401,-88.940,42.501,42.150)",
+  "dcat_centroid": "42.3255,-89.1705",
   "pcdm_memberOf_sm": [
     "2787a9e8-0bef-452e-9e5f-e83042c193b4",
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -54,11 +54,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/540/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:540\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/540/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/540/filename/print/page/download/fparams/forcedownload\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll624/540/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:540\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/540/manifest.json\"}",
   "id": "p16022coll624:540",
   "dct_identifier_sm": [
     "UMN_ALMA:9953187150001701"
   ],
-  "gbl_mdModified_dt": "2023-06-16T21:58:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }

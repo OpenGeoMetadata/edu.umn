@@ -37,9 +37,9 @@
     "England--Wiltshire",
     "England"
   ],
-  "locn_geometry": "POLYGON((-2.3333 51.5833, -1.5 51.5833, -1.5 50.95, -2.3333 50.95, -2.3333 51.5833))",
-  "dcat_bbox": "ENVELOPE(-2.3333,-1.5,51.5833,50.95)",
-  "dcat_centroid": "51.26665,-1.91665",
+  "locn_geometry": "POLYGON((-2.333 51.583, -1.500 51.583, -1.500 50.950, -2.333 50.950, -2.333 51.583))",
+  "dcat_bbox": "ENVELOPE(-2.333,-1.500,51.583,50.950)",
+  "dcat_centroid": "51.2665,-1.9165",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2976\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2976/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2976/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2976\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2976/manifest.json\"}",
   "id": "p16022coll230:2976",
   "dct_identifier_sm": [
     "UMN_ALMA:9944930550001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:32:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

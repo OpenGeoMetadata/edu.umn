@@ -5,18 +5,17 @@
   "dc_title_s": "Bedrock geologic and topographic maps of the Minneapolis-St. Paul urban area, Minnesota, M-57, Plate 1",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "374b0d40-e441-476d-afcf-80e330184f77",
-  "solr_geom": "ENVELOPE(-93.3292,-93.194,45.0513,44.8898)",
+  "solr_geom": "ENVELOPE(-93.329,-93.194,45.051,44.890)",
   "solr_year_i": "1985",
   "dc_creator_sm": [
     "Bloomgren, Bruce A."
   ],
   "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Minneapolis and St. Paul urban area, scale 1:48,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22445.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1160/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1160\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22445.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1160/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1160\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1160/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:16:46Z",
   "dc_language_sm": [
     "eng"
   ],

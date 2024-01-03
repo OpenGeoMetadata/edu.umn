@@ -5,7 +5,7 @@
   "dc_title_s": "Chapman's new sectional map of Minnesota",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll247:264",
-  "solr_geom": "ENVELOPE(-95,-91.51,47.1,43.48)",
+  "solr_geom": "ENVELOPE(-95.000,-91.510,47.100,43.480)",
   "solr_year_i": "1857",
   "dc_creator_sm": [
     "A.S. Barnes & Co.",
@@ -15,11 +15,10 @@
   ],
   "dc_description_s": "Cartographic Details: Scale approximately 1:630,000. Shows county boundaries as of 1856-1857. Entered by Silas Chapman. Hand colored.|73 x 57 centimeters|1:633,600|General Minnesota Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:264\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/264/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/264/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:264\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/264/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:38Z",
   "dc_language_sm": [
     "eng"
   ],

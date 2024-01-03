@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic map of the Gunflint Lake quadrangle, Cook County, Minnesota, M-42",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "095d6ed6-4279-4704-91ff-39d826156388",
-  "solr_geom": "ENVELOPE(-91.0311,-89.5,48.2462,47.4597)",
+  "solr_geom": "ENVELOPE(-91.031,-89.500,48.246,47.460)",
   "solr_year_i": "1978",
   "dc_creator_sm": [
     "Morey, G.B.",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Gunflint Lake quadrangle, scale 1:24,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22421.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/813/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:813\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22421.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/813/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:813\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/813/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:19:00Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,18 +5,17 @@
   "dc_title_s": "Map of St. Paul ; Minneapolis.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll245:1035",
-  "solr_geom": "ENVELOPE(-93.36,-93,45.03,44.88)",
+  "solr_geom": "ENVELOPE(-93.360,-93.000,45.030,44.880)",
   "solr_year_i": "1889",
   "dc_creator_sm": [
     "Cram, George Franklin, 1841-1928"
   ],
   "dc_description_s": "on sheet 28 x 37 centimeters|Minneapolis and St. Paul Maps and Atlases",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:1035\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/1035/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll245/1035/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:1035\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/1035/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota--Minneapolis; Saint Paul"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:14Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,7 +5,7 @@
   "dc_title_s": "Gothia",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:392",
-  "solr_geom": "ENVELOPE(10,38,60,55)",
+  "solr_geom": "ENVELOPE(10.000,38.000,60.000,55.000)",
   "solr_year_i": "1640",
   "dc_creator_sm": [
     "Blaeu, Joan, 1596-1673",
@@ -13,12 +13,11 @@
   ],
   "dc_description_s": "Cartographic Details: Scale approximately 1:1,450,000 (E 10°--E 19°/N 60°--N 55°). Relief shown pictorially. Includes coats of arms and cartouches.Text in Latin on verso.|1 map : hand color ; 40 x 51 centimeters|Scale approximately 1:1,450,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:392\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/392/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/392/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:392\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/392/manifest.json\"}",
   "dct_spatial_sm": [
     "Sweden--Gotland",
     "Sweden"
   ],
-  "layer_modified_dt": "2023-02-07T18:32:53Z",
   "dc_language_sm": [
     "lat"
   ],

@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Goodhue County, Minnesota, C-12, Part B, Plate 10, Sinkholes, Sinkhole Probability, and Springs and Seeps",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "b83e38c6-5986-4e40-b642-b649b00ac365",
-  "solr_geom": "ENVELOPE(-93.0406,-92.2434,44.7157,44.1972)",
+  "solr_geom": "ENVELOPE(-93.041,-92.243,44.716,44.197)",
   "solr_year_i": "2003",
   "dc_creator_sm": [
     "Alexander, E. C., Jr.",
@@ -16,11 +16,10 @@
   ],
   "dc_description_s": "Maps showing distribution of karst (carbonate rock with caves, springs) units and features and karst hydrology in carbonate rocks susceptible to being dissolved by acidic ground water, scale 1:100000, Goodhue County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22324.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/724/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:724\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22324.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/724/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:724\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/724/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:50Z",
   "dc_language_sm": [
     "eng"
   ],

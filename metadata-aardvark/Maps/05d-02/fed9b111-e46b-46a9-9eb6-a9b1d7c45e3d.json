@@ -1,29 +1,63 @@
 {
-  "geoblacklight_version": "1.0",
-  "dc_identifier_s": "fed9b111-e46b-46a9-9eb6-a9b1d7c45e3d",
-  "dc_rights_s": "Public",
-  "dc_title_s": "Map of Sciota & Waterford Township: Township 112 N, Range 19 W of the 5th PM.",
-  "dct_provenance_s": "University of Minnesota",
-  "layer_slug_s": "fed9b111-e46b-46a9-9eb6-a9b1d7c45e3d",
-  "solr_geom": "ENVELOPE(-93.3287,-92.7339,44.9233,44.4729)",
-  "solr_year_i": "1916",
-  "dc_creator_sm": [
+  "dct_title_s": "Map of Sciota & Waterford Township: Township 112 N, Range 19 W of the 5th PM.",
+  "dct_description_sm": [
+    "Page 37: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
     "Farmer (Saint Paul, Minn.)"
   ],
-  "dc_description_s": "Page 37: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
-  "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1763/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/193103\"}",
+  "dct_publisher_sm": [
+    "Webb Publishing Company"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Atlases"
+  ],
+  "dcat_keyword_sm": [
+    "Real property -- Minnesota -- Dakota County -- Maps",
+    "Dakota County (Minn.) -- Maps",
+    "Dakota County (Minn.) -- Directories",
+    "John R. Borchert Map Library",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1916"
+  ],
+  "dct_issued_s": "1916",
+  "gbl_indexYear_im": [
+    "1916"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1916 TO 1916]"
+  ],
   "dct_spatial_sm": [
     "Minnesota--Dakota County",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:27:10Z",
-  "dc_language_sm": [
-    "eng"
+  "locn_geometry": "POLYGON((-93.329 44.923, -92.734 44.923, -92.734 44.473, -93.329 44.473, -93.329 44.923))",
+  "dcat_bbox": "ENVELOPE(-93.329,-92.734,44.923,44.473)",
+  "dcat_centroid": "44.698,-93.0315",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
-  "dc_publisher_s": "Webb Publishing Company",
-  "dct_issued_s": "1916",
-  "dct_temporal_sm": [
-    "1916"
-  ]
+  "dct_isPartOf_sm": [
+    "p16022coll231:1779"
+  ],
+  "dct_rights_sm": [
+    "Use of this item may be governed by US and international copyright laws. You may be able to use this item, but copyright and other considerations may apply. For possible additional information or guidance on your use, please contact the contributing organization."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1763/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/193103\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/1763/manifest.json\"}",
+  "id": "fed9b111-e46b-46a9-9eb6-a9b1d7c45e3d",
+  "dct_identifier_sm": [
+    "fed9b111-e46b-46a9-9eb6-a9b1d7c45e3d"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
 }

@@ -5,7 +5,7 @@
   "dc_title_s": "Magni Mogolis Imperium",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:279",
-  "solr_geom": "ENVELOPE(60,100,43,16)",
+  "solr_geom": "ENVELOPE(60.000,100.000,43.000,16.000)",
   "solr_year_i": "1694",
   "dc_creator_sm": [
     "Schenk, Peter, 1661-1711",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Cartographic Details: Scale approximately 1:8,000,000 ; (E 60°00'00\"--E 100°00'00\"/N 43°00'00\"--N 16°00'00\"). Relief shown pictorially. In upper margin:\"19.\" Shows parts of Pakistan, Afghanistan, Nepal, Bangladesh, China, and northern India. In Latin.|36 x 48 centimeters|Scale approximately 1:8,000,000|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:279\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/279/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/279/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:279\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/279/manifest.json\"}",
   "dct_spatial_sm": [
     "Asia"
   ],
-  "layer_modified_dt": "2023-02-07T18:32:56Z",
   "dc_language_sm": [
     "lat"
   ],

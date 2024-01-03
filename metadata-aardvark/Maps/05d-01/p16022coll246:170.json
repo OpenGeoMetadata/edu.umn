@@ -37,9 +37,9 @@
     "India--Assam",
     "India"
   ],
-  "locn_geometry": "POLYGON((89.6974 27.9772, 96.0117 27.9772, 96.0117 24.1348, 89.6974 24.1348, 89.6974 27.9772))",
-  "dcat_bbox": "ENVELOPE(89.6974,96.0117,27.9772,24.1348)",
-  "dcat_centroid": "26.055999999999997,92.85455",
+  "locn_geometry": "POLYGON((89.697 27.977, 96.012 27.977, 96.012 24.135, 89.697 24.135, 89.697 27.977))",
+  "dcat_bbox": "ENVELOPE(89.697,96.012,27.977,24.135)",
+  "dcat_centroid": "26.056,92.8545",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:170\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/170/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/170/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:170\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/170/manifest.json\"}",
   "id": "p16022coll246:170",
   "dct_identifier_sm": [
     "UMN_ALMA:9974094604901700"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

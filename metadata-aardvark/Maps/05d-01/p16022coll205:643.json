@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "Iowa--Davenport"
   ],
-  "locn_geometry": "POLYGON((-90.6878 41.6203, -90.4906 41.6203, -90.4906 41.4603, -90.6878 41.4603, -90.6878 41.6203))",
-  "dcat_bbox": "ENVELOPE(-90.6878,-90.4906,41.6203,41.4603)",
-  "dcat_centroid": "41.5403,-90.5892",
+  "locn_geometry": "POLYGON((-90.688 41.620, -90.491 41.620, -90.491 41.460, -90.688 41.460, -90.688 41.620))",
+  "dcat_bbox": "ENVELOPE(-90.688,-90.491,41.620,41.460)",
+  "dcat_centroid": "41.54,-90.5895",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:643\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/643/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/643/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:643\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/643/manifest.json\"}",
   "id": "p16022coll205:643",
   "dct_identifier_sm": [
     "UMN_ALMA:9924399950001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:13Z",
   "gbl_mdVersion_s": "Aardvark"
 }

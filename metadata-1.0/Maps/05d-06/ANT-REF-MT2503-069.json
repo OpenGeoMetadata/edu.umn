@@ -5,7 +5,7 @@
   "dc_title_s": "Pagano Nunatak: Antarctica",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "ANT-REF-MT2503-069",
-  "solr_geom": "ENVELOPE(85.6666,96.3333,-83,-84)",
+  "solr_geom": "ENVELOPE(85.667,96.333,-83.000,-84.000)",
   "solr_year_i": "1963",
   "dc_description_s": "Projection: Polar Stereographic Projection: Standard Parallel -80º14'; Series: USGS 1:250,000 Topographic Reconnaissance Series",
   "dc_format_s": "GeoTIFF",
@@ -13,7 +13,6 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "layer_modified_dt": "2023-02-03T22:44:38Z",
   "dc_language_sm": [
     "eng"
   ],

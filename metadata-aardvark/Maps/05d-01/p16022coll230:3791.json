@@ -37,9 +37,9 @@
   "dct_spatial_sm": [
     "Arctic Ocean"
   ],
-  "locn_geometry": "POLYGON((-75.0333 70.4167, -45.3167 70.4167, -45.3167 62.3, -75.0333 62.3, -75.0333 70.4167))",
-  "dcat_bbox": "ENVELOPE(-75.0333,-45.3167,70.4167,62.3)",
-  "dcat_centroid": "66.35835,-60.175",
+  "locn_geometry": "POLYGON((-75.033 70.417, -45.317 70.417, -45.317 62.300, -75.033 62.300, -75.033 70.417))",
+  "dcat_bbox": "ENVELOPE(-75.033,-45.317,70.417,62.300)",
+  "dcat_centroid": "66.35849999999999,-60.175",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3791\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3791/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3791/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3791\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3791/manifest.json\"}",
   "id": "p16022coll230:3791",
   "dct_identifier_sm": [
     "UMN_ALMA:9962931430001701"
   ],
-  "gbl_mdModified_dt": "2023-02-28T20:06:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

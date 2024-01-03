@@ -5,7 +5,7 @@
   "dc_title_s": "Ross Island: Antarctica",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "ANT-REF-MS2509-024",
-  "solr_geom": "ENVELOPE(170,162,-77,-78)",
+  "solr_geom": "ENVELOPE(170.000,162.000,-77.000,-78.000)",
   "solr_year_i": "1975",
   "dc_description_s": "Projection: Lambert Conformal Conic Projection - Standard Parallels -76º40' and -79º20'; Series: USGS Satellite Image Maps",
   "dc_format_s": "GeoTIFF",
@@ -13,7 +13,6 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "layer_modified_dt": "2023-02-03T22:44:49Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -44,9 +44,9 @@
     "Antarctica--WAIS Divide",
     "Antarctica"
   ],
-  "locn_geometry": "POLYGON((-120.9638 -73.7871, -138.8141 -73.7871, -138.8141 -85.5268, -120.9638 -85.5268, -120.9638 -73.7871))",
-  "dcat_bbox": "ENVELOPE(-120.9638,-138.8141,-73.7871,-85.5268)",
-  "dcat_centroid": "-79.65695,-129.88895",
+  "locn_geometry": "POLYGON((-120.964 -73.787, -138.814 -73.787, -138.814 -85.527, -120.964 -85.527, -120.964 -73.787))",
+  "dcat_bbox": "ENVELOPE(-120.964,-138.814,-73.787,-85.527)",
+  "dcat_centroid": "-79.65700000000001,-129.889",
   "pcdm_memberOf_sm": [
     "b0153110-e455-4ced-9114-9b13250a7093"
   ],
@@ -60,6 +60,5 @@
   "dct_identifier_sm": [
     "ANT-NAV-OT2017-003"
   ],
-  "gbl_mdModified_dt": "2023-02-03T22:44:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

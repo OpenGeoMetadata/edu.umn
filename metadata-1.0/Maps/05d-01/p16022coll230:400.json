@@ -5,7 +5,7 @@
   "dc_title_s": "Key-plan and index to the Royal Botanic Gardens, Kew.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:400",
-  "solr_geom": "ENVELOPE(-0.3001,-0.28,51.48,51.46)",
+  "solr_geom": "ENVELOPE(-0.300,-0.280,51.480,51.460)",
   "solr_year_i": "1903",
   "dc_creator_sm": [
     "Great Britain. Ordnance Survey",
@@ -13,14 +13,13 @@
   ],
   "dc_description_s": "Some buildings and vegetation shown pictorially.   Panel title.   Indexes to buildings and collections of trees and shrubs on verso.   \"Heliozincographed at the Ordnance Survey Office, Southampton, 1904.\"   On panel: O.W. 400.|33 x 28 centimeters|Scale approximately 1:6,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:400\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/400/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/400/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:400\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/400/manifest.json\"}",
   "dct_spatial_sm": [
     "Kew Gardens",
     "England-- London--Kew",
     "England--London",
     "England"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:31Z",
   "dc_language_sm": [
     "eng"
   ],

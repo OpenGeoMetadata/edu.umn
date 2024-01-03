@@ -40,9 +40,9 @@
   "dct_spatial_sm": [
     "North Carolina--Fort Fisher"
   ],
-  "locn_geometry": "POLYGON((-77.93147 33.978141, -77.912588 33.978141, -77.912588 33.961556, -77.93147 33.961556, -77.93147 33.978141))",
-  "dcat_bbox": "ENVELOPE(-77.93147,-77.912588,33.978141,33.961556)",
-  "dcat_centroid": "33.9698485,-77.92202900000001",
+  "locn_geometry": "POLYGON((-77.931 33.978, -77.913 33.978, -77.913 33.962, -77.931 33.962, -77.931 33.978))",
+  "dcat_bbox": "ENVELOPE(-77.931,-77.913,33.978,33.962)",
+  "dcat_centroid": "33.97,-77.922",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -55,11 +55,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:597\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/597/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/597/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:597\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/597/manifest.json\"}",
   "id": "p16022coll230:597",
   "dct_identifier_sm": [
     "UMN_ALMA:9963839060001701"
   ],
-  "gbl_mdModified_dt": "2023-06-23T18:47:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

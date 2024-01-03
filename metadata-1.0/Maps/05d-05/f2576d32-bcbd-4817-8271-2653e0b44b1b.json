@@ -5,7 +5,7 @@
   "dc_title_s": "Shorter contributions to the geology of the Sioux Quartzite (early Proterozoic), southwestern Minnesota, RI-32, Plate 1",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "f2576d32-bcbd-4817-8271-2653e0b44b1b",
-  "solr_geom": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
+  "solr_geom": "ENVELOPE(-97.239,-89.483,49.384,43.499)",
   "solr_year_i": "1984",
   "dc_creator_sm": [
     "Lively, R. S.",
@@ -17,11 +17,10 @@
   ],
   "dc_description_s": "Generalized interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the North Limb, Cottonwood County Basin, Jeffers-Comfrey area, Minnesota, scale 1:48,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23385.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1081/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1081\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23385.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1081/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1081\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1081/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:25:02Z",
   "dc_language_sm": [
     "eng"
   ],

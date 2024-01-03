@@ -1,29 +1,57 @@
 {
-  "geoblacklight_version": "1.0",
-  "dc_identifier_s": "23634a61-0a1c-4e21-a40c-e7fa3207c7df",
-  "dc_rights_s": "Public",
-  "dc_title_s": "Bedrock geology of the Babbitt Southwest quadrangle, St Louis and Lake Counties, Minnesota, M-161",
-  "dct_provenance_s": "University of Minnesota",
-  "layer_slug_s": "23634a61-0a1c-4e21-a40c-e7fa3207c7df",
-  "solr_geom": "ENVELOPE(-93.0966,-91.7893,48.63,46.6507)",
-  "solr_year_i": "2005",
-  "dc_creator_sm": [
+  "dct_title_s": "Bedrock geology of the Babbitt Southwest quadrangle, St Louis and Lake Counties, Minnesota, M-161",
+  "dct_description_sm": [
+    "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Babbitt SW quadrangle, scale 1:24,000."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
     "Miller, James D., Jr.",
     "Severson, Mark J."
   ],
-  "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Babbitt SW quadrangle, scale 1:24,000.",
-  "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22579.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/880/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:880\"}",
+  "dct_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "2005"
+  ],
+  "dct_issued_s": "2005",
+  "gbl_indexYear_im": [
+    "2005"
+  ],
+  "gbl_dateRange_drsim": [
+    "[2005 TO 2005]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:16:47Z",
-  "dc_language_sm": [
-    "eng"
+  "locn_geometry": "POLYGON((-93.097 48.630, -91.789 48.630, -91.789 46.651, -93.097 46.651, -93.097 48.630))",
+  "dcat_bbox": "ENVELOPE(-93.097,-91.789,48.630,46.651)",
+  "dcat_centroid": "47.6405,-92.443",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
-  "dc_publisher_s": "Minnesota Geological Survey",
-  "dct_issued_s": "2005",
-  "dct_temporal_sm": [
-    "2005"
-  ]
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22579.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/880/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:880\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/880/manifest.json\"}",
+  "id": "23634a61-0a1c-4e21-a40c-e7fa3207c7df",
+  "dct_identifier_sm": [
+    "23634a61-0a1c-4e21-a40c-e7fa3207c7df"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
 }

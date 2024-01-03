@@ -5,19 +5,18 @@
   "dc_title_s": "City of Minneapolis election map, 1925",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll245:1097",
-  "solr_geom": "ENVELOPE(-93.32888889,-93.19361111,45.05111111,44.89)",
+  "solr_geom": "ENVELOPE(-93.329,-93.194,45.051,44.890)",
   "solr_year_i": "1924",
   "dc_creator_sm": [
     "Minneapolis (Minn.). City Clerk"
   ],
   "dc_description_s": "Shows ward and district boundaries.|Relief shown by hachures.|83 x 56 Centimeters|Scale 1:20,000|Minneapolis and St. Paul Maps and Atlases",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:1097\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/1097/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll245/1097/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:1097\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/1097/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota--Minneapolis",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:17Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Pine County, Minnesota, C-13, Part A, Plate 4, Surficial Geology",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "38527113-9b3d-4f0a-8d89-ae0df3f87730",
-  "solr_geom": "ENVELOPE(-93.1409,-92.2889,46.419,45.7312)",
+  "solr_geom": "ENVELOPE(-93.141,-92.289,46.419,45.731)",
   "solr_year_i": "2001",
   "dc_creator_sm": [
     "Boerboom, Terrence J.",
@@ -14,11 +14,10 @@
   ],
   "dc_description_s": "Map showing interpretations of Quaternary (Pleistocene [glacial] and Holocene [post-glacial]) surficial geology (distribution and type of materials at the land surface) and thickness of the Quaternary glacial materials, scale 1:100,000, Pine County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22328.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/728/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:728\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22328.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/728/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:728\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/728/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:52Z",
   "dc_language_sm": [
     "eng"
   ],

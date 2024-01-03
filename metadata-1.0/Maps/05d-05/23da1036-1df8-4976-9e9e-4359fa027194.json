@@ -5,7 +5,7 @@
   "dc_title_s": "Bedrock geologic and topographic maps of the seven-county Twin Cities Metropolitan Area, Minnesota, M-55, Plate 2",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "23da1036-1df8-4976-9e9e-4359fa027194",
-  "solr_geom": "ENVELOPE(-93.5138,-93.0186,45.4163,45.0373)",
+  "solr_geom": "ENVELOPE(-93.514,-93.019,45.416,45.037)",
   "solr_year_i": "1986",
   "dc_creator_sm": [
     "Bloomgren, Bruce A.",
@@ -14,11 +14,10 @@
   ],
   "dc_description_s": "Bedrock topopgrapy (elevation of the bedrock surface) of the Twin Cities, seven-county metropolitan area, scale 1:125,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22443.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1110/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1110\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22443.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1110/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1110\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1110/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:16:46Z",
   "dc_language_sm": [
     "eng"
   ],

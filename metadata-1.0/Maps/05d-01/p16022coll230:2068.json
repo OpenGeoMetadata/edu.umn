@@ -5,19 +5,18 @@
   "dc_title_s": "Washington and Oregon",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:2068",
-  "solr_geom": "ENVELOPE(-125,-109,49,41)",
+  "solr_geom": "ENVELOPE(-125.000,-109.000,49.000,41.000)",
   "solr_year_i": "1855",
   "dc_creator_sm": [
     "J.H. Colton & Co"
   ],
   "dc_description_s": "Relief shown by hachures.; \"Number 53.\"; Includes some tribal names and longitudes from both Greenwich and Washington (D.C.).; Includes Tillamook and Multnomah Counties.|28 x 36 centimeters|Scale approximately 1:3,576,300|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2068\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2068/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2068/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2068\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2068/manifest.json\"}",
   "dct_spatial_sm": [
     "Oregon",
     "Washington"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:35Z",
   "dc_language_sm": [
     "eng"
   ],

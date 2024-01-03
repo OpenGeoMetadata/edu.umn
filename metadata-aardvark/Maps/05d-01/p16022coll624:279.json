@@ -9,7 +9,7 @@
     "Scale 1:100,000"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_creator_sm": [
     "United States. Soil Conservation Service"
@@ -39,9 +39,9 @@
     "North Dakota--Mercer County",
     "North Dakota"
   ],
-  "locn_geometry": "POLYGON((-102.205811 47.574605, -101.257031 47.574605, -101.257031 46.981238, -102.205811 46.981238, -102.205811 47.574605))",
-  "dcat_bbox": "ENVELOPE(-102.205811,-101.257031,47.574605,46.981238)",
-  "dcat_centroid": "47.2779215,-101.731421",
+  "locn_geometry": "POLYGON((-102.206 47.575, -101.257 47.575, -101.257 46.981, -102.206 46.981, -102.206 47.575))",
+  "dcat_bbox": "ENVELOPE(-102.206,-101.257,47.575,46.981)",
+  "dcat_centroid": "47.278000000000006,-101.73150000000001",
   "pcdm_memberOf_sm": [
     "2787a9e8-0bef-452e-9e5f-e83042c193b4",
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -54,11 +54,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/279/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:279\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/279/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/279/filename/print/page/download/fparams/forcedownload\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll624/279/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:279\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/279/manifest.json\"}",
   "id": "p16022coll624:279",
   "dct_identifier_sm": [
     "UMN_ALMA:9915424470001701"
   ],
-  "gbl_mdModified_dt": "2023-06-16T21:58:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

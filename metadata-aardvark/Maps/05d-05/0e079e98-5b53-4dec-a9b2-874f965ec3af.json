@@ -1,28 +1,56 @@
 {
-  "geoblacklight_version": "1.0",
-  "dc_identifier_s": "0e079e98-5b53-4dec-a9b2-874f965ec3af",
-  "dc_rights_s": "Public",
-  "dc_title_s": "Quaternary geologic map of Chisago County, Minnesota, M-78",
-  "dct_provenance_s": "University of Minnesota",
-  "layer_slug_s": "0e079e98-5b53-4dec-a9b2-874f965ec3af",
-  "solr_geom": "ENVELOPE(-93.1409,-92.644,45.7318,45.2963)",
-  "solr_year_i": "1993",
-  "dc_creator_sm": [
+  "dct_title_s": "Quaternary geologic map of Chisago County, Minnesota, M-78",
+  "dct_description_sm": [
+    "Quaternary geology map showing interpretations of Quaternary (Pleistocene [glacial] and Holocene [post-glacial]) surficial geology (distribution and type of materials at the land surface), scale 1:100,000, northern Minnesota."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
     "Meyer, Gary N."
   ],
-  "dc_description_s": "Quaternary geology map showing interpretations of Quaternary (Pleistocene [glacial] and Holocene [post-glacial]) surficial geology (distribution and type of materials at the land surface), scale 1:100,000, northern Minnesota.",
-  "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22475.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/960/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:960\"}",
+  "dct_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1993"
+  ],
+  "dct_issued_s": "1993",
+  "gbl_indexYear_im": [
+    "1993"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1993 TO 1993]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:24:11Z",
-  "dc_language_sm": [
-    "eng"
+  "locn_geometry": "POLYGON((-93.141 45.732, -92.644 45.732, -92.644 45.296, -93.141 45.296, -93.141 45.732))",
+  "dcat_bbox": "ENVELOPE(-93.141,-92.644,45.732,45.296)",
+  "dcat_centroid": "45.513999999999996,-92.89250000000001",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
-  "dc_publisher_s": "Minnesota Geological Survey",
-  "dct_issued_s": "1993",
-  "dct_temporal_sm": [
-    "1993"
-  ]
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22475.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/960/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:960\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/960/manifest.json\"}",
+  "id": "0e079e98-5b53-4dec-a9b2-874f965ec3af",
+  "dct_identifier_sm": [
+    "0e079e98-5b53-4dec-a9b2-874f965ec3af"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
 }

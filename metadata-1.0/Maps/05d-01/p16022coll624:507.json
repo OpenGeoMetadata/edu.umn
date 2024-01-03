@@ -5,7 +5,7 @@
   "dc_title_s": "Important farmlands map, Webster County, Mississippi",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll624:507",
-  "solr_geom": "ENVELOPE(-89.5,-89.083333,33.666667,33.5)",
+  "solr_geom": "ENVELOPE(-89.500,-89.083,33.667,33.500)",
   "solr_year_i": "1982",
   "dc_creator_sm": [
     "United States. Soil Conservation Service"
@@ -15,14 +15,13 @@
   "dc_subject_sm": [
     "Agriculture"
   ],
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/507/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:507\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/507/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/507/filename/print/page/download/fparams/forcedownload\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll624/507/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:507\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/507/manifest.json\"}",
   "dct_spatial_sm": [
     "Mississippi--Webster County",
     "Mississippi"
   ],
-  "layer_modified_dt": "2023-06-16T21:58:05Z",
   "dc_language_sm": [
-    "English"
+    "eng"
   ],
   "dc_publisher_s": "USDA-SCS (Fort Worth, Tex.)",
   "dct_issued_s": "1982"

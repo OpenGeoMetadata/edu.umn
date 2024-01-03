@@ -38,9 +38,9 @@
     "Czech Republic--Prague",
     "Czech Republic"
   ],
-  "locn_geometry": "POLYGON((14.21 50.1601, 14.7 50.1601, 14.7 49.93, 14.21 49.93, 14.21 50.1601))",
-  "dcat_bbox": "ENVELOPE(14.21,14.7,50.1601,49.93)",
-  "dcat_centroid": "50.04505,14.455",
+  "locn_geometry": "POLYGON((14.210 50.160, 14.700 50.160, 14.700 49.930, 14.210 49.930, 14.210 50.160))",
+  "dcat_bbox": "ENVELOPE(14.210,14.700,50.160,49.930)",
+  "dcat_centroid": "50.045,14.455",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:276\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/276/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/276/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:276\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/276/manifest.json\"}",
   "id": "p16022coll205:276",
   "dct_identifier_sm": [
     "UMN_ALMA:9948350260001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

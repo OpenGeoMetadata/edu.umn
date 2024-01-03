@@ -5,14 +5,14 @@
   "dc_title_s": "The British Isles : comprehending Great Britain and Ireland with The Adjacent Islands",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:434",
-  "solr_geom": "ENVELOPE(-11,2,61,50)",
+  "solr_geom": "ENVELOPE(-11.000,2.000,61.000,50.000)",
   "solr_year_i": "1774",
   "dc_creator_sm": [
     "Dunn, Samuel, -1794"
   ],
   "dc_description_s": "Relief shown pictorially.   \"London : printed for Rob't Sayer, No.53 in Fleet Street as the Act directed 10 Jan. 1774.\"   Appears to be a two page spread removed from a book. \"4\" in corners on bottom outside neat line, as a page number.|56 x 45 centimeters|Scale approximately 1:2,926.000. 100 Statute miles 69 1/2 au Degree = 5,5 cm|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:434\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/434/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/434/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:434\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/434/manifest.json\"}",
   "dct_spatial_sm": [
     "England",
     "Wales",
@@ -20,7 +20,6 @@
     "Ireland",
     "Northern Ireland"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:06Z",
   "dc_language_sm": [
     "eng"
   ],

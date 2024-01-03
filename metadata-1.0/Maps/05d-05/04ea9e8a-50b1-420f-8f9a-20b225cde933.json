@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Dakota County, Minnesota, C-6, Plate 2, Bedrock Geology",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "04ea9e8a-50b1-420f-8f9a-20b225cde933",
-  "solr_geom": "ENVELOPE(-93.3285,-92.7339,44.9252,44.4729)",
+  "solr_geom": "ENVELOPE(-93.329,-92.734,44.925,44.473)",
   "solr_year_i": "1990",
   "dc_creator_sm": [
     "Balaban, Nancy",
@@ -14,11 +14,10 @@
   ],
   "dc_description_s": "Map showing interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) with cross section diagrams, scale 1:100,000, Dakota County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22258.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/659/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:659\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22258.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/659/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:659\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/659/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:49Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,7 +5,7 @@
   "dc_title_s": "Geology of the anorthosites of the Minnesota coast of Lake Superior, Bulletin 28, Plate 5",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "340f8078-c391-4051-80c7-eede8f1a2526",
-  "solr_geom": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
+  "solr_geom": "ENVELOPE(-97.239,-89.483,49.384,43.499)",
   "solr_year_i": "1939",
   "dc_creator_sm": [
     "Grout, Frank F. (Frank Fitch), 1880-1958",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of a portion of Township 59 North, Range 6 West, scale 1 inch = about 1/2 mile.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23292.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1025/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1025\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23292.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1025/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1025\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1025/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:19:06Z",
   "dc_language_sm": [
     "eng"
   ],

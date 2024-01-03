@@ -5,7 +5,7 @@
   "dc_title_s": "San Miguel, Azores, 1844",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:407",
-  "solr_geom": "ENVELOPE(-26,-25,38,37.58)",
+  "solr_geom": "ENVELOPE(-26.000,-25.000,38.000,37.580)",
   "solr_year_i": "1906",
   "dc_creator_sm": [
     "Great Britain. Hydrographic Office",
@@ -15,11 +15,10 @@
   ],
   "dc_description_s": "(W 26°00ʻ--W 25°00ʻ/N 38°00ʻ--N37°35ʻ).   \"Large corrections June 1873\"--center below neat line & \"Small corrections XII-82 ... X-06\"--lower left.   \"London published ... \"   \"Sold by J.D. Potter, Agent for the Admiralty Charts, 145 Minories.\"   Relief shown by hachures, soundings, and spot heights.   Includes 3 cross sections and 3 insets: Caldeira das sete cidades, [scale approximately 1:32,000] -- Ponta Delgada, [scale approximately 1:10,000]-- Villa Franca road, [scale approximately 1:20,000].|46 x 60 centimeters|Scale not given.|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:407\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/407/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/407/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:407\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/407/manifest.json\"}",
   "dct_spatial_sm": [
     "Portugal"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:35Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -36,8 +36,8 @@
   "dct_spatial_sm": [
     "Illinois--Chicago"
   ],
-  "locn_geometry": "POLYGON((-87.9333 42.0167, -87.5167 42.0167, -87.5167 41.6333, -87.9333 41.6333, -87.9333 42.0167))",
-  "dcat_bbox": "ENVELOPE(-87.9333,-87.5167,42.0167,41.6333)",
+  "locn_geometry": "POLYGON((-87.933 42.017, -87.517 42.017, -87.517 41.633, -87.933 41.633, -87.933 42.017))",
+  "dcat_bbox": "ENVELOPE(-87.933,-87.517,42.017,41.633)",
   "dcat_centroid": "41.825,-87.725",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:634\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/634/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/634/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:634\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/634/manifest.json\"}",
   "id": "p16022coll205:634",
   "dct_identifier_sm": [
     "UMN_ALMA:9928885220001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

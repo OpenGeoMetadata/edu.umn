@@ -5,15 +5,14 @@
   "dc_title_s": "Map of the city of Newark, Ohio",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll205:604",
-  "solr_geom": "ENVELOPE(-82.45,-82.35,40.0833,40.0167)",
+  "solr_geom": "ENVELOPE(-82.450,-82.350,40.083,40.017)",
   "solr_year_i": "1921",
   "dc_description_s": "June 22nd, 1921.|41 x 64 centimeters|Scale approximately 1:12,000|City Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:604\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/604/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/604/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:604\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/604/manifest.json\"}",
   "dct_spatial_sm": [
     "Ohio--Newark"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:10Z",
   "dc_language_sm": [
     "eng"
   ],

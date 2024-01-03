@@ -1,29 +1,57 @@
 {
-  "geoblacklight_version": "1.0",
-  "dc_identifier_s": "961e2b18-2417-49ca-acb9-d422c6f32653",
-  "dc_rights_s": "Public",
-  "dc_title_s": "Primary sources of construction aggregate in the Twin Cities Seven-County Metropolitan Area, Minnesota, M-102, Plate 1, south sheet",
-  "dct_provenance_s": "University of Minnesota",
-  "layer_slug_s": "961e2b18-2417-49ca-acb9-d422c6f32653",
-  "solr_geom": "ENVELOPE(-93.5138,-93.0186,45.4163,45.0373)",
-  "solr_year_i": "1999",
-  "dc_creator_sm": [
+  "dct_title_s": "Primary sources of construction aggregate in the Twin Cities Seven-County Metropolitan Area, Minnesota, M-102, Plate 1, south sheet",
+  "dct_description_sm": [
+    "Map showing primary aggregate (crushed rock, sand and gravel) sources and potential for aggregate development in the Twin cities, seven county Metropolitan area, Minnesota, southern half of study area, scale 1:100,000."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
     "Meyer, Gary N.",
     "Mossler, John H."
   ],
-  "dc_description_s": "Map showing primary aggregate (crushed rock, sand and gravel) sources and potential for aggregate development in the Twin cities, seven county Metropolitan area, Minnesota, southern half of study area, scale 1:100,000.",
-  "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22502.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1140/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1140\"}",
+  "dct_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "dct_issued_s": "1999",
+  "gbl_indexYear_im": [
+    "1999"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1999 TO 1999]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:24:03Z",
-  "dc_language_sm": [
-    "eng"
+  "locn_geometry": "POLYGON((-93.514 45.416, -93.019 45.416, -93.019 45.037, -93.514 45.037, -93.514 45.416))",
+  "dcat_bbox": "ENVELOPE(-93.514,-93.019,45.416,45.037)",
+  "dcat_centroid": "45.2265,-93.26650000000001",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
-  "dc_publisher_s": "Minnesota Geological Survey",
-  "dct_issued_s": "1999",
-  "dct_temporal_sm": [
-    "1999"
-  ]
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22502.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1140/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1140\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1140/manifest.json\"}",
+  "id": "961e2b18-2417-49ca-acb9-d422c6f32653",
+  "dct_identifier_sm": [
+    "961e2b18-2417-49ca-acb9-d422c6f32653"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
 }

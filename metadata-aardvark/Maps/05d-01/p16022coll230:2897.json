@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "South America"
   ],
-  "locn_geometry": "POLYGON((-90.1667 12.85, -29.8667 12.85, -29.8667 -56.2333, -90.1667 -56.2333, -90.1667 12.85))",
-  "dcat_bbox": "ENVELOPE(-90.1667,-29.8667,12.85,-56.2333)",
-  "dcat_centroid": "-21.69165,-60.0167",
+  "locn_geometry": "POLYGON((-90.167 12.850, -29.867 12.850, -29.867 -56.233, -90.167 -56.233, -90.167 12.850))",
+  "dcat_bbox": "ENVELOPE(-90.167,-29.867,12.850,-56.233)",
+  "dcat_centroid": "-21.691499999999998,-60.017",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2897\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2897/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2897/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2897\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2897/manifest.json\"}",
   "id": "p16022coll230:2897",
   "dct_identifier_sm": [
     "UMN_ALMA:9975273107601701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

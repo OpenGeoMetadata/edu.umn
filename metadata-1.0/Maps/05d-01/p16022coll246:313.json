@@ -5,7 +5,7 @@
   "dc_title_s": "Royaume de Bengale, et les Rivieres qui se jettent dans le Gange : suivant la deácouverte des portugais",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:313",
-  "solr_geom": "ENVELOPE(85.96,94.13,27,21)",
+  "solr_geom": "ENVELOPE(85.960,94.130,27.000,21.000)",
   "solr_year_i": "1717",
   "dc_creator_sm": [
     "Aa, Pieter van der, 1659-1733",
@@ -14,11 +14,10 @@
   ],
   "dc_description_s": "Cartographic Details: Scale approximately 1:4,500,000 ; (E 85°58'00\"--E 94°08'00\"/N 27°00'00\"--N 21°00'00\"). Relief shown pictorially. Date from previous call number. In lower right:\"53.\" In Dutch and French.|16 x 22 centimeters, on sheet 37 x 46 centimeters|Scale approximately 1:4,500,000|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:313\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/313/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/313/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:313\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/313/manifest.json\"}",
   "dct_spatial_sm": [
     "India"
   ],
-  "layer_modified_dt": "2023-02-07T18:32:59Z",
   "dc_language_sm": [
     "dut"
   ],

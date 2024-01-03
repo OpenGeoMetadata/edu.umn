@@ -5,7 +5,7 @@
   "dc_title_s": "Reconnaissance geologic map of the Northwest quadrangle, Lake of the Woods County, Minnesota, M-74",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "0c77a19f-fdda-4c8e-b155-b942b4f093f0",
-  "solr_geom": "ENVELOPE(-95.3426,-94.4311,49.3856,48.3691)",
+  "solr_geom": "ENVELOPE(-95.343,-94.431,49.386,48.369)",
   "solr_year_i": "1991",
   "dc_creator_sm": [
     "Morey, G.B.",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments), Northwest Angle, scale 1:48,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22471.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1166/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1166\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22471.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1166/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1166\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1166/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:24:18Z",
   "dc_language_sm": [
     "eng"
   ],

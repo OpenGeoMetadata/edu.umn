@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "Washington--Tacoma"
   ],
-  "locn_geometry": "POLYGON((-122.5056 47.2944, -122.4139 47.2944, -122.4139 47.2389, -122.5056 47.2389, -122.5056 47.2944))",
-  "dcat_bbox": "ENVELOPE(-122.5056,-122.4139,47.2944,47.2389)",
-  "dcat_centroid": "47.26665,-122.45975",
+  "locn_geometry": "POLYGON((-122.506 47.294, -122.414 47.294, -122.414 47.239, -122.506 47.239, -122.506 47.294))",
+  "dcat_bbox": "ENVELOPE(-122.506,-122.414,47.294,47.239)",
+  "dcat_centroid": "47.26649999999999,-122.46000000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:656\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/656/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/656/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:656\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/656/manifest.json\"}",
   "id": "p16022coll205:656",
   "dct_identifier_sm": [
     "UMN_ALMA:9974048508801701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }

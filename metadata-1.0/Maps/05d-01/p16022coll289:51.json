@@ -4,18 +4,17 @@
   "dc_title_s": "Average Annual Precipitation: Ecological Study for the Twin-Cities Metropolitan Area",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll289:51",
-  "solr_geom": "ENVELOPE(-93.9791,-92.8021,45.361,44.4981)",
+  "solr_geom": "ENVELOPE(-93.979,-92.802,45.361,44.498)",
   "solr_year_i": "1968",
   "dc_description_s": "Map of Average Annual Precipitation prepared for the Metropolitan Council as a part of An Ecological Study for the Twin-Cities Metropolitan Area. Scale 1:250,000|Bounding Box (W,S,E,N): -93.9791,44.4981,-92.8021,45.361|1:250,000|Ecological Study for the Twin Cities Metropolitan Area",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll289:51\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll289/51/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll289/51/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll289:51\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll289/51/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota--Hennepin County",
     "Minnesota--Ramsey County",
     "Minnesota--Minneapolis-St.Paul-Bloomington",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:36Z",
   "dc_language_sm": [
     "eng"
   ],

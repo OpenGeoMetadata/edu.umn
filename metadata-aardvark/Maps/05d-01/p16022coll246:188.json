@@ -44,9 +44,9 @@
     "India-- West Bengal--Calcutta",
     "India-- West Bengal--Kolkata"
   ],
-  "locn_geometry": "POLYGON((88.3187 22.6089, 88.3848 22.6089, 88.3848 22.5351, 88.3187 22.5351, 88.3187 22.6089))",
-  "dcat_bbox": "ENVELOPE(88.3187,88.3848,22.6089,22.5351)",
-  "dcat_centroid": "22.572,88.35175000000001",
+  "locn_geometry": "POLYGON((88.319 22.609, 88.385 22.609, 88.385 22.535, 88.319 22.535, 88.319 22.609))",
+  "dcat_bbox": "ENVELOPE(88.319,88.385,22.609,22.535)",
+  "dcat_centroid": "22.572000000000003,88.352",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -59,11 +59,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:188\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/188/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/188/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:188\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/188/manifest.json\"}",
   "id": "p16022coll246:188",
   "dct_identifier_sm": [
     "UMN_ALMA:9924324700001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

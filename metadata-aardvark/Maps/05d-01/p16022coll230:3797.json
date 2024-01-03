@@ -37,9 +37,9 @@
     "Japan",
     "Asia"
   ],
-  "locn_geometry": "POLYGON((129.1667 46.7, 153.9833 46.7, 153.9833 24.0333, 129.1667 24.0333, 129.1667 46.7))",
-  "dcat_bbox": "ENVELOPE(129.1667,153.9833,46.7,24.0333)",
-  "dcat_centroid": "35.36665,141.575",
+  "locn_geometry": "POLYGON((129.167 46.700, 153.983 46.700, 153.983 24.033, 129.167 24.033, 129.167 46.700))",
+  "dcat_bbox": "ENVELOPE(129.167,153.983,46.700,24.033)",
+  "dcat_centroid": "35.3665,141.575",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3797\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3797/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3797/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3797\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3797/manifest.json\"}",
   "id": "p16022coll230:3797",
   "dct_identifier_sm": [
     "UMN_ALMA:9973878103501701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

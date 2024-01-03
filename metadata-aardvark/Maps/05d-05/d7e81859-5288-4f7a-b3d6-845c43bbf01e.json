@@ -1,31 +1,59 @@
 {
-  "geoblacklight_version": "1.0",
-  "dc_identifier_s": "d7e81859-5288-4f7a-b3d6-845c43bbf01e",
-  "dc_rights_s": "Public",
-  "dc_title_s": "Geologic atlas of Hennepin County, Minnesota, C-4, Plate 4, Depth to Bedrock",
-  "dct_provenance_s": "University of Minnesota",
-  "layer_slug_s": "d7e81859-5288-4f7a-b3d6-845c43bbf01e",
-  "solr_geom": "ENVELOPE(-93.7702,-93.1704,45.2458,44.7874)",
-  "solr_year_i": "1989",
-  "dc_creator_sm": [
+  "dct_title_s": "Geologic atlas of Hennepin County, Minnesota, C-4, Plate 4, Depth to Bedrock",
+  "dct_description_sm": [
+    "Map showing the thickness of unconsolidated materials over the bedrock surface (depth to bedrock) and the elevation of the bedrock surface (bedrock topography), scale 1:100,000, Hennepin County."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
     "Balaban, Nancy",
     "Bloomgren, Bruce A.",
     "Cleland, Jane M.",
     "Olsen, Bruce M."
   ],
-  "dc_description_s": "Map showing the thickness of unconsolidated materials over the bedrock surface (depth to bedrock) and the elevation of the bedrock surface (bedrock topography), scale 1:100,000, Hennepin County.",
-  "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22237.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/645/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:645\"}",
+  "dct_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1989"
+  ],
+  "dct_issued_s": "1989",
+  "gbl_indexYear_im": [
+    "1989"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1989 TO 1989]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:50Z",
-  "dc_language_sm": [
-    "eng"
+  "locn_geometry": "POLYGON((-93.770 45.246, -93.170 45.246, -93.170 44.787, -93.770 44.787, -93.770 45.246))",
+  "dcat_bbox": "ENVELOPE(-93.770,-93.170,45.246,44.787)",
+  "dcat_centroid": "45.0165,-93.47",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
-  "dc_publisher_s": "Minnesota Geological Survey",
-  "dct_issued_s": "1989",
-  "dct_temporal_sm": [
-    "1989"
-  ]
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22237.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/645/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:645\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/645/manifest.json\"}",
+  "id": "d7e81859-5288-4f7a-b3d6-845c43bbf01e",
+  "dct_identifier_sm": [
+    "d7e81859-5288-4f7a-b3d6-845c43bbf01e"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
 }

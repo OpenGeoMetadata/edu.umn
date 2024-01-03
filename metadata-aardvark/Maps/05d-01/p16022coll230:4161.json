@@ -30,9 +30,9 @@
     "Indonesia",
     "Papua New Guinea"
   ],
-  "locn_geometry": "POLYGON((141.45 -3.4, 145 -3.4, 145 -5.083333333, 141.45 -5.083333333, 141.45 -3.4))",
-  "dcat_bbox": "ENVELOPE(141.45,145,-3.4,-5.083333333)",
-  "dcat_centroid": "-4.2416666665,143.225",
+  "locn_geometry": "POLYGON((141.450 -3.400, 145.000 -3.400, 145.000 -5.083, 141.450 -5.083, 141.450 -3.400))",
+  "dcat_bbox": "ENVELOPE(141.450,145.000,-3.400,-5.083)",
+  "dcat_centroid": "-4.2415,143.225",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,11 +45,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4161\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4161/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4161/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4161\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4161/manifest.json\"}",
   "id": "p16022coll230:4161",
   "dct_identifier_sm": [
     "UMN_ALMA:9978344242201701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:51Z",
   "gbl_mdVersion_s": "Aardvark"
 }

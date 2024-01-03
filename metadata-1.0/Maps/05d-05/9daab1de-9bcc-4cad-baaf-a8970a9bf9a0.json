@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Scott County, Minnesota, C-1, Plate 4, Bedrock Topography",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "9daab1de-9bcc-4cad-baaf-a8970a9bf9a0",
-  "solr_geom": "ENVELOPE(-93.9117,-93.2782,44.8139,44.5446)",
+  "solr_geom": "ENVELOPE(-93.912,-93.278,44.814,44.545)",
   "solr_year_i": "1982",
   "dc_creator_sm": [
     "Balaban, Nancy",
@@ -17,11 +17,10 @@
   ],
   "dc_description_s": "Maps showing the topography of the bedrock surface, well construction characteristics, physiography (geographic forms) of the bedrock surface and susceptibility of bedrock aquifers to contamination, scale 1:100,000;, scale 1:200,000, Scott County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn21122.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/616/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:616\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn21122.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/616/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:616\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/616/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:55Z",
   "dc_language_sm": [
     "eng"
   ],

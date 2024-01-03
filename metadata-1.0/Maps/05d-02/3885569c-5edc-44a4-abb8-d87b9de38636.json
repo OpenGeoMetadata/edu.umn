@@ -5,19 +5,18 @@
   "dc_title_s": "Map of Mount Vernon Township: Township 108 N, Range 9 W of the 5th PM.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "3885569c-5edc-44a4-abb8-d87b9de38636",
-  "solr_geom": "ENVELOPE(-92.0805,-91.2882,44.1948,43.8471)",
+  "solr_geom": "ENVELOPE(-92.081,-91.288,44.195,43.847)",
   "solr_year_i": "1914",
   "dc_creator_sm": [
     "Webb Publishing Co."
   ],
   "dc_description_s": "Page 7: Atlas and farmers' directory of Winona County, Minnesota, 1914",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/389/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/147066\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/389/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/147066\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/389/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota--Winona County",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:27:08Z",
   "dc_language_sm": [
     "eng"
   ],

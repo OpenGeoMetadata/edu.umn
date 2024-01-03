@@ -5,7 +5,7 @@
   "dc_title_s": "Bedrock geologic map of the Aitkin 30 x 60 minute quadrangle, east-central Minnesota, M-99, Plate 2",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "4c204f7c-2239-49f5-b372-133d21c5608c",
-  "solr_geom": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
+  "solr_geom": "ENVELOPE(-97.239,-89.483,49.384,43.499)",
   "solr_year_i": "1999",
   "dc_creator_sm": [
     "Boerboom, Terrence J.",
@@ -14,11 +14,10 @@
   ],
   "dc_description_s": "Data base, Aitkin quadrangle showing drill holes, outcrops and other data used to make interpretations of bedrock geology for map M-99, scale 1:100,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22497.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/835/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:835\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22497.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/835/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:835\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/835/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:16:46Z",
   "dc_language_sm": [
     "eng"
   ],

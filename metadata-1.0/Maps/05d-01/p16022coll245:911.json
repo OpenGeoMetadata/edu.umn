@@ -5,7 +5,7 @@
   "dc_title_s": "Map of Minneapolis, Hennepin Co., Minn., 1896. Plate 19, Paving",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll245:911",
-  "solr_geom": "ENVELOPE(-93.3286,-93.2006,45.0551,44.9049)",
+  "solr_geom": "ENVELOPE(-93.329,-93.201,45.055,44.905)",
   "solr_year_i": "1896",
   "dc_creator_sm": [
     "Cappelen, Frederick Wilhelm (1857-1921)",
@@ -13,12 +13,11 @@
   ],
   "dc_description_s": "Cartographic Details: Scale 1:24,000. 2000 ft. to one in. ; (W 93¬∞15 π49 ∫--W 93¬∞15 π49 ∫/N 44¬∞58 π48 ∫--N 44¬∞58 π48 ∫). Shows pavement material of streets. Relief shown by contours.|71 x 46 centimeters|1:24,000|Minneapolis and St. Paul Maps and Atlases",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:911\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/911/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll245/911/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:911\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/911/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota--Minneapolis",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:21Z",
   "dc_language_sm": [
     "eng"
   ],

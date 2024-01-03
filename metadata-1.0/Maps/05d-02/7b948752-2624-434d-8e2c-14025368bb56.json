@@ -5,19 +5,18 @@
   "dc_title_s": "Map of Moltke Township: Township 113 N, Range 31 W of the 5th PM.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "7b948752-2624-434d-8e2c-14025368bb56",
-  "solr_geom": "ENVELOPE(-94.6278,-93.7665,44.7194,44.4566)",
+  "solr_geom": "ENVELOPE(-94.628,-93.766,44.719,44.457)",
   "solr_year_i": "1914",
   "dc_creator_sm": [
     "Webb Publishing Co."
   ],
   "dc_description_s": "Page 15: Atlas and farmers' directory of Sibley County, Minnesota, 1914",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2150/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/147064\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2150/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/147064\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/2150/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota--Sibley County",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:27:07Z",
   "dc_language_sm": [
     "eng"
   ],

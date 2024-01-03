@@ -37,9 +37,9 @@
   "dct_spatial_sm": [
     "Spain"
   ],
-  "locn_geometry": "POLYGON((-3.7301 40.4501, -3.63 40.4501, -3.63 40.38, -3.7301 40.38, -3.7301 40.4501))",
-  "dcat_bbox": "ENVELOPE(-3.7301,-3.63,40.4501,40.38)",
-  "dcat_centroid": "40.41505,-3.68005",
+  "locn_geometry": "POLYGON((-3.730 40.450, -3.630 40.450, -3.630 40.380, -3.730 40.380, -3.730 40.450))",
+  "dcat_bbox": "ENVELOPE(-3.730,-3.630,40.450,40.380)",
+  "dcat_centroid": "40.415000000000006,-3.6799999999999997",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:339\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/339/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/339/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:339\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/339/manifest.json\"}",
   "id": "p16022coll205:339",
   "dct_identifier_sm": [
     "UMN_ALMA:9937224600001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

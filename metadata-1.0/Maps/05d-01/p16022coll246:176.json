@@ -5,19 +5,18 @@
   "dc_title_s": "Map of the Sundarbans",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:176",
-  "solr_geom": "ENVELOPE(88.2282,89.8954,22.4971,21.5167)",
+  "solr_geom": "ENVELOPE(88.228,89.895,22.497,21.517)",
   "solr_year_i": "1917",
   "dc_creator_sm": [
     "Ellison, James"
   ],
   "dc_description_s": "Scale 4 miles = 1 in.|90 x 125 centimeters|Scale 1:253,440; 4 miles = 1 inch|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:176\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/176/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/176/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:176\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/176/manifest.json\"}",
   "dct_spatial_sm": [
     "Bangladesh",
     "India"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:56Z",
   "dc_language_sm": [
     "eng"
   ],

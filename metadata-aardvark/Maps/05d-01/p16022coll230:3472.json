@@ -39,9 +39,9 @@
     "Portugal",
     "Europe"
   ],
-  "locn_geometry": "POLYGON((-9.5 45.5667, 4.0833 45.5667, 4.0833 36.0, -9.5 36.0, -9.5 45.5667))",
-  "dcat_bbox": "ENVELOPE(-9.5,4.0833,45.5667,36.0)",
-  "dcat_centroid": "40.78335,-2.70835",
+  "locn_geometry": "POLYGON((-9.500 45.567, 4.083 45.567, 4.083 36.000, -9.500 36.000, -9.500 45.567))",
+  "dcat_bbox": "ENVELOPE(-9.500,4.083,45.567,36.000)",
+  "dcat_centroid": "40.783500000000004,-2.7085",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -54,11 +54,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3472\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3472/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3472/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3472\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3472/manifest.json\"}",
   "id": "p16022coll230:3472",
   "dct_identifier_sm": [
     "UMN_ALMA:9975440809201701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

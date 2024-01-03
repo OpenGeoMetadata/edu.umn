@@ -5,7 +5,7 @@
   "dc_title_s": "State of Minnesota : showing proposed state roads designated by county resolutions",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll206:134",
-  "solr_geom": "ENVELOPE(-97,-89.5,49.5,43.25)",
+  "solr_geom": "ENVELOPE(-97.000,-89.500,49.500,43.250)",
   "solr_year_i": "1907",
   "dc_creator_sm": [
     "Cooley, George Washington (1845-1920)",
@@ -14,11 +14,10 @@
   ],
   "dc_description_s": "Cartographic Details: Scale [1:1,520,640] (W 97‚Å∞00 π--W 89‚Å∞30 π/N 49‚Å∞30 π--N 43‚Å∞15 π).\"January, 1907.\"Prime meridians: Greenwich and Washington.|47 x 40 centimeters|Scale [1:1,520,640]|Minnesota Transportation Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll206:134\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll206/134/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll206/134/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll206:134\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll206/134/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:36Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -38,9 +38,9 @@
   "dct_spatial_sm": [
     "Iceland"
   ],
-  "locn_geometry": "POLYGON((-25 67.35, -12.8 67.35, -12.8 63.08333333, -25 63.08333333, -25 67.35))",
-  "dcat_bbox": "ENVELOPE(-25,-12.8,67.35,63.08333333)",
-  "dcat_centroid": "65.21666666499999,-18.9",
+  "locn_geometry": "POLYGON((-25.000 67.350, -12.800 67.350, -12.800 63.083, -25.000 63.083, -25.000 67.350))",
+  "dcat_bbox": "ENVELOPE(-25.000,-12.800,67.350,63.083)",
+  "dcat_centroid": "65.2165,-18.9",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:389\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/389/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/389/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:389\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/389/manifest.json\"}",
   "id": "p16022coll230:389",
   "dct_identifier_sm": [
     "UMN_ALMA:9949579030001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:32:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

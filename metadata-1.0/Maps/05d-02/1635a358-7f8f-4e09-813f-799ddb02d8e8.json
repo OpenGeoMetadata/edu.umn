@@ -5,19 +5,18 @@
   "dc_title_s": "Map of Drammen Township: Township 110 N, Range 46 W of the 5th PM.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "1635a358-7f8f-4e09-813f-799ddb02d8e8",
-  "solr_geom": "ENVELOPE(-96.4528,-96.0747,44.6317,44.1984)",
+  "solr_geom": "ENVELOPE(-96.453,-96.075,44.632,44.198)",
   "solr_year_i": "1915",
   "dc_creator_sm": [
     "Webb Publishing Co."
   ],
   "dc_description_s": "Page 23: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2390/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/147061\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2390/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/147061\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/2390/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota--Lincoln County",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:27:02Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,18 +5,17 @@
   "dc_title_s": "Geologic map of Archean bedrock, Soudan-Bigfork area, northern Minnesota, M-79",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "b4723d24-6ace-4101-a253-7f23150b5d04",
-  "solr_geom": "ENVELOPE(-92.2502,-92.2204,47.8184,47.8086)",
+  "solr_geom": "ENVELOPE(-92.250,-92.220,47.818,47.809)",
   "solr_year_i": "1993",
   "dc_creator_sm": [
     "Southwick, Dave L."
   ],
   "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments), Archean rocks, bedrock outcrop (rock exposed at the land surface) locations shown separately, scale 1:100,000, northern Minnesota.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22476.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1168/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1168\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22476.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1168/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1168\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1168/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:58Z",
   "dc_language_sm": [
     "eng"
   ],

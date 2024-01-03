@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Stearns County, Minnesota, C-10, Part B, Plate 10, Sensitivity of Ground-Water Systems to Pollution",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "86b6292c-6e01-4d3b-9a29-80b472735d83",
-  "solr_geom": "ENVELOPE(-95.1398,-94.0463,45.777,45.2836)",
+  "solr_geom": "ENVELOPE(-95.140,-94.046,45.777,45.284)",
   "solr_year_i": "1998",
   "dc_creator_sm": [
     "Falteisek, Jan",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Map showing the susceptibility of the ground water system (bedrock and unconsolidated sediments) to contamination, including the age of the water as determined from radioactive isotopes in the water, scale 1:100,000, Stearns County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22304.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/704/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:704\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22304.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/704/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:704\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/704/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:56Z",
   "dc_language_sm": [
     "eng"
   ],

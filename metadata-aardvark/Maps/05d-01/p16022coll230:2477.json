@@ -30,9 +30,9 @@
     "Wyoming",
     "Yellowstone National Park"
   ],
-  "locn_geometry": "POLYGON((-111.05 45.01666667, -110 45.01666667, -110 44.15, -111.05 44.15, -111.05 45.01666667))",
-  "dcat_bbox": "ENVELOPE(-111.05,-110,45.01666667,44.15)",
-  "dcat_centroid": "44.583333335,-110.525",
+  "locn_geometry": "POLYGON((-111.050 45.017, -110.000 45.017, -110.000 44.150, -111.050 44.150, -111.050 45.017))",
+  "dcat_bbox": "ENVELOPE(-111.050,-110.000,45.017,44.150)",
+  "dcat_centroid": "44.5835,-110.525",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,11 +45,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2477\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2477/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2477/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2477\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2477/manifest.json\"}",
   "id": "p16022coll230:2477",
   "dct_identifier_sm": [
     "UMN_ALMA:9924028540001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

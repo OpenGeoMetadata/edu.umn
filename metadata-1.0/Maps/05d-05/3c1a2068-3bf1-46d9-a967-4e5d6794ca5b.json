@@ -5,7 +5,7 @@
   "dc_title_s": "Quaternary geology-Otter Tail area, west-central Minnesota, RHA-5, Part A, Plate 2",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "3c1a2068-3bf1-46d9-a967-4e5d6794ca5b",
-  "solr_geom": "ENVELOPE(-96.2827,-95.1454,46.7199,46.1072)",
+  "solr_geom": "ENVELOPE(-96.283,-95.145,46.720,46.107)",
   "solr_year_i": "1999",
   "dc_creator_sm": [
     "Berg, James A.",
@@ -14,11 +14,10 @@
   ],
   "dc_description_s": "Quaternary (glacial and stream sediment) stratigraphy of the upper Minnesota River basin, Minnesota, scale 1:200,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22613.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1129/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1129\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22613.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1129/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1129\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1129/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:24:12Z",
   "dc_language_sm": [
     "eng"
   ],

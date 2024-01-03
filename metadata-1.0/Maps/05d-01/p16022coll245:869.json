@@ -5,20 +5,19 @@
   "dc_title_s": "Davisons [sic] map 25 miles around Minneapolis : 1881 corrected to 1884",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll245:869",
-  "solr_geom": "ENVELOPE(-93.7673,-92.7411,45.3021,44.6258)",
+  "solr_geom": "ENVELOPE(-93.767,-92.741,45.302,44.626)",
   "solr_year_i": "1884",
   "dc_creator_sm": [
     "Cooley, George Washington (1845-1920)"
   ],
   "dc_description_s": "Shows metropolitan area of both Minneapolis and Saint Paul. Also shows railroad lines, roads, Public Land Survey townships and sections, cemeteries, churches, and schools. Entered according to act of Congress in the year 1881, by C. Wright Davison in the office of the Librarian of Congress at Washington D.C. Irregularly-shaped circular map.|61 x 65 centimeters|Minneapolis and St. Paul Maps and Atlases",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:869\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/869/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll245/869/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:869\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/869/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota--Minneapolis",
     "Minnesota--Saint Paul",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:03Z",
   "dc_language_sm": [
     "eng"
   ],

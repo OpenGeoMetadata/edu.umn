@@ -61,9 +61,9 @@
     "Winthrop",
     "Minnesota--Gibbon"
   ],
-  "locn_geometry": "POLYGON((-94.6101 44.71, -93.7501 44.71, -93.7501 44.45, -94.6101 44.45, -94.6101 44.71))",
-  "dcat_bbox": "ENVELOPE(-94.6101,-93.7501,44.71,44.45)",
-  "dcat_centroid": "44.58,-94.18010000000001",
+  "locn_geometry": "POLYGON((-94.610 44.710, -93.750 44.710, -93.750 44.450, -94.610 44.450, -94.610 44.710))",
+  "dcat_bbox": "ENVELOPE(-94.610,-93.750,44.710,44.450)",
+  "dcat_centroid": "44.58,-94.18",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -76,11 +76,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:2182\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/2182/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2182/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:2182\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/2182/manifest.json\"}",
   "id": "p16022coll231:2182",
   "dct_identifier_sm": [
     "UMN_ALMA:9938947210001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

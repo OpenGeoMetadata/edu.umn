@@ -41,9 +41,9 @@
     "Isle of Wight",
     "England"
   ],
-  "locn_geometry": "POLYGON((-1.58 50.76, -1.0501 50.76, -1.0501 50.56, -1.58 50.56, -1.58 50.76))",
-  "dcat_bbox": "ENVELOPE(-1.58,-1.0501,50.76,50.56)",
-  "dcat_centroid": "50.66,-1.31505",
+  "locn_geometry": "POLYGON((-1.580 50.760, -1.050 50.760, -1.050 50.560, -1.580 50.560, -1.580 50.760))",
+  "dcat_bbox": "ENVELOPE(-1.580,-1.050,50.760,50.560)",
+  "dcat_centroid": "50.66,-1.315",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,11 +56,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:542\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/542/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/542/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:542\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/542/manifest.json\"}",
   "id": "p16022coll230:542",
   "dct_identifier_sm": [
     "UMN_ALMA:9921040100001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

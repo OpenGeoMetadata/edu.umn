@@ -1,29 +1,57 @@
 {
-  "geoblacklight_version": "1.0",
-  "dc_identifier_s": "40c09841-af6a-43de-9b25-9d4e4ddb4716",
-  "dc_rights_s": "Public",
-  "dc_title_s": "Aeromagnetic map of Minnesota, north-central region--Little Fork and International Falls quadrangles",
-  "dct_provenance_s": "University of Minnesota",
-  "layer_slug_s": "40c09841-af6a-43de-9b25-9d4e4ddb4716",
-  "solr_geom": "ENVELOPE(-94.4317,-93.0804,48.7118,47.846)",
-  "solr_year_i": "1998",
-  "dc_creator_sm": [
+  "dct_title_s": "Aeromagnetic map of Minnesota, north-central region--Little Fork and International Falls quadrangles",
+  "dct_description_sm": [
+    "Total magnetic intensity anomaly, contour, scale 1:100,000.Interpretation of magnetic data collected from airborne surveys, the map contours (lines of equal magnetic intensity) indicate the distribution and concentration of magnetic minerals (primarily iron-bearing) within the upper crust of the earth."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
     "Chandler, Val W.",
     "Lively, R. S."
   ],
-  "dc_description_s": "Total magnetic intensity anomaly, contour, scale 1:100,000.Interpretation of magnetic data collected from airborne surveys, the map contours (lines of equal magnetic intensity) indicate the distribution and concentration of magnetic minerals (primarily iron-bearing) within the upper crust of the earth.",
-  "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn21117.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1178/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1178\"}",
+  "dct_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "dct_issued_s": "1998",
+  "gbl_indexYear_im": [
+    "1998"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1998 TO 1998]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:16:12Z",
-  "dc_language_sm": [
-    "eng"
+  "locn_geometry": "POLYGON((-94.432 48.712, -93.080 48.712, -93.080 47.846, -94.432 47.846, -94.432 48.712))",
+  "dcat_bbox": "ENVELOPE(-94.432,-93.080,48.712,47.846)",
+  "dcat_centroid": "48.278999999999996,-93.756",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
-  "dc_publisher_s": "Minnesota Geological Survey",
-  "dct_issued_s": "1998",
-  "dct_temporal_sm": [
-    "1998"
-  ]
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn21117.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1178/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1178\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1178/manifest.json\"}",
+  "id": "40c09841-af6a-43de-9b25-9d4e4ddb4716",
+  "dct_identifier_sm": [
+    "40c09841-af6a-43de-9b25-9d4e4ddb4716"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
 }

@@ -5,7 +5,7 @@
   "dc_title_s": "Carte de l'Asie",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:248",
-  "solr_geom": "ENVELOPE(25.3125,175.957,80.9699,-11.2)",
+  "solr_geom": "ENVELOPE(25.312,175.957,80.970,-11.200)",
   "solr_year_i": "1640",
   "dc_creator_sm": [
     "Bertius, Petrus, 1565-1629",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Cartographic Details: Scale approximately 1:27,000,000. Relief shown pictorially. From Tassin's Cartes geáneárales de toutes les prouinces de France, 1640-1643. In lower right corner:\"Cornelis Danckertz schulpsit.\"|37 x 49 centimeters|Scale approximately 1:27,000,000|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:248\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/248/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/248/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:248\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/248/manifest.json\"}",
   "dct_spatial_sm": [
     "Asia"
   ],
-  "layer_modified_dt": "2023-02-07T18:32:53Z",
   "dc_language_sm": [
     "fre"
   ],

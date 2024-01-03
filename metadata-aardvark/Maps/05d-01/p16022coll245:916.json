@@ -39,9 +39,9 @@
     "Minnesota--Saint Louis Park",
     "Minnesota"
   ],
-  "locn_geometry": "POLYGON((-93.6451 45.0669, -93.1955 45.0669, -93.1955 44.892, -93.6451 44.892, -93.6451 45.0669))",
-  "dcat_bbox": "ENVELOPE(-93.6451,-93.1955,45.0669,44.892)",
-  "dcat_centroid": "44.97945,-93.4203",
+  "locn_geometry": "POLYGON((-93.645 45.067, -93.195 45.067, -93.195 44.892, -93.645 44.892, -93.645 45.067))",
+  "dcat_bbox": "ENVELOPE(-93.645,-93.195,45.067,44.892)",
+  "dcat_centroid": "44.9795,-93.41999999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -54,11 +54,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:916\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/916/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll245/916/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:916\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/916/manifest.json\"}",
   "id": "p16022coll245:916",
   "dct_identifier_sm": [
     "UMN_ALMA:9923471820001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

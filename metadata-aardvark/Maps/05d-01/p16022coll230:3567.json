@@ -38,9 +38,9 @@
     "Europe",
     "Asia"
   ],
-  "locn_geometry": "POLYGON((80.0 73.0, 176.8333 73.0, 176.8333 40.0, 80.0 40.0, 80.0 73.0))",
-  "dcat_bbox": "ENVELOPE(80.0,176.8333,73.0,40.0)",
-  "dcat_centroid": "56.5,128.41665",
+  "locn_geometry": "POLYGON((80.000 73.000, 176.833 73.000, 176.833 40.000, 80.000 40.000, 80.000 73.000))",
+  "dcat_bbox": "ENVELOPE(80.000,176.833,73.000,40.000)",
+  "dcat_centroid": "56.5,128.41649999999998",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3567\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3567/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3567/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3567\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3567/manifest.json\"}",
   "id": "p16022coll230:3567",
   "dct_identifier_sm": [
     "UMN_ALMA:9936458280001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

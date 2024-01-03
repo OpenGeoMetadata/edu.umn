@@ -5,14 +5,14 @@
   "dc_title_s": "Hindoostan",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:295",
-  "solr_geom": "ENVELOPE(67,100,36,5)",
+  "solr_geom": "ENVELOPE(67.000,100.000,36.000,5.000)",
   "solr_year_i": "1845",
   "dc_creator_sm": [
     "Arrowsmith, Aaron, 1750-1823"
   ],
   "dc_description_s": "Cartographic Details: Scale approximately 1:4,5000,000 ; (E 67°--E 100°/N 36°--N 5°). Relief shown by hachures. Inset: The Burman Territories, Assam &c. Shows military stations, post office stations, political boundaries, and railways proposed.|63 x 82 centimeters|Scale approximately 1:4,5000,000|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:295\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/295/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/295/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:295\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/295/manifest.json\"}",
   "dct_spatial_sm": [
     "India",
     "Sri Lanka",
@@ -21,7 +21,6 @@
     "Nepal",
     "Myanmar [Burma]--Burma"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:27Z",
   "dc_language_sm": [
     "eng"
   ],

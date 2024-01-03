@@ -29,9 +29,9 @@
   "dct_spatial_sm": [
     "Rhode Island"
   ],
-  "locn_geometry": "POLYGON((-71.5 42.16666667, -70.66666667 42.16666667, -70.66666667 41.41666667, -71.5 41.41666667, -71.5 42.16666667))",
-  "dcat_bbox": "ENVELOPE(-71.5,-70.66666667,42.16666667,41.41666667)",
-  "dcat_centroid": "41.79166667,-71.08333333499999",
+  "locn_geometry": "POLYGON((-71.500 42.167, -70.667 42.167, -70.667 41.417, -71.500 41.417, -71.500 42.167))",
+  "dcat_bbox": "ENVELOPE(-71.500,-70.667,42.167,41.417)",
+  "dcat_centroid": "41.792,-71.0835",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -44,11 +44,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4068\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4068/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4068/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4068\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4068/manifest.json\"}",
   "id": "p16022coll230:4068",
   "dct_identifier_sm": [
     "UMN_ALMA:9976470502901701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

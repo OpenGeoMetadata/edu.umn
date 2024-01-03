@@ -5,7 +5,7 @@
   "dc_title_s": "Cape Herlacher to Matha Strait: Antarctica",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "ANT-NAV-MT0501-006",
-  "solr_geom": "ENVELOPE(66,115,-66,-76)",
+  "solr_geom": "ENVELOPE(66.000,115.000,-66.000,-76.000)",
   "solr_year_i": "1975",
   "dc_description_s": "Projection: WGS72 Mercator Projection; Series: Defense Mapping Agency Nautical Charts",
   "dc_format_s": "GeoTIFF",
@@ -13,7 +13,6 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "layer_modified_dt": "2023-02-03T22:43:59Z",
   "dc_language_sm": [
     "eng"
   ],

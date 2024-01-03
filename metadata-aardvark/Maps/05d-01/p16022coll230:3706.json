@@ -37,9 +37,9 @@
     "Palestine",
     "Asia"
   ],
-  "locn_geometry": "POLYGON((34.2167 34.2, 36.5 34.2, 36.5 30.7833, 34.2167 30.7833, 34.2167 34.2))",
-  "dcat_bbox": "ENVELOPE(34.2167,36.5,34.2,30.7833)",
-  "dcat_centroid": "32.49165,35.35835",
+  "locn_geometry": "POLYGON((34.217 34.200, 36.500 34.200, 36.500 30.783, 34.217 30.783, 34.217 34.200))",
+  "dcat_bbox": "ENVELOPE(34.217,36.500,34.200,30.783)",
+  "dcat_centroid": "32.4915,35.3585",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3706\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3706/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3706/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3706\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3706/manifest.json\"}",
   "id": "p16022coll230:3706",
   "dct_identifier_sm": [
     "UMN_ALMA:9973955593401701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

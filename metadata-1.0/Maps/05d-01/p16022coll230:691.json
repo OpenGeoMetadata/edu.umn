@@ -5,18 +5,17 @@
   "dc_title_s": "Map of the province of Ontario, Dominion of Canada",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:691",
-  "solr_geom": "ENVELOPE(-96,-74,57,41)",
+  "solr_geom": "ENVELOPE(-96.000,-74.000,57.000,41.000)",
   "solr_year_i": "1920",
   "dc_creator_sm": [
     "Ontario. Bureau of Colonization"
   ],
   "dc_description_s": "Sources of geographic information: Base map from plates of Railway Map of Canada issued by the Department of the Interior, Ottawa. Corrections by W.R. Rogers, Topographer for Department of Lands, Forests and Mines.; Includes text.|80 x 86 centimeters|Scale 1:2,217,600; 35 miles = 1 inch|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:691\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/691/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/691/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:691\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/691/manifest.json\"}",
   "dct_spatial_sm": [
     "Canada"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:06Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,20 +5,19 @@
   "dc_title_s": "Ontario & Quebec: Ottawa sheet : portions of Carleton, Renfrew, Lanark, Dundas, Grenville and Frontenac Counties, Ontario, and of Pontiac, Hull, Labelle and Papineau Counties, Quebec",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:4088",
-  "solr_geom": "ENVELOPE(-77,-75.5,46.5,45)",
+  "solr_geom": "ENVELOPE(-77.000,-75.500,46.500,45.000)",
   "solr_year_i": "1929",
   "dc_creator_sm": [
     "Canada. Natural Resources Intelligence Service"
   ],
   "dc_description_s": "Shows county and district boundaries, township boundaries, city and town boundaries, railways, canals, numbers of lots and concessions, roads, lot and concession lines, portages, falls, rapids, Indian reserves, lighthouses, elevation of water above sea level, elevation of land above sea level, depth of water in fathoms.; \"Compiled & engraved at the Chief Geographer's Office.\"; Relief shown by spot heights.|69 x 50 Centimeters|Scale 1:250,000. 1 inch = 3.95 miles|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4088\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4088/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4088/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4088\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4088/manifest.json\"}",
   "dct_spatial_sm": [
     "Canada--Ontario",
     "Canada--Quebec",
     "Canada"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:32Z",
   "dc_language_sm": [
     "eng"
   ],

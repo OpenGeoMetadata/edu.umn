@@ -5,7 +5,7 @@
   "dc_title_s": "India : south sheet",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:194",
-  "solr_geom": "ENVELOPE(68,92,20,4)",
+  "solr_geom": "ENVELOPE(68.000,92.000,20.000,4.000)",
   "solr_year_i": "1890",
   "dc_creator_sm": [
     "Adam and Charles Black (Firm)",
@@ -13,12 +13,11 @@
   ],
   "dc_description_s": "Cartographic Details: Scale [1:4,750,000] (E 68°--E 92°/N 20°--N 4°). Relief shown by hachures and spot heights. Inset location map:\"Sketch shewing the position of India.\" In margin: 33. Date from previous call number.|41 x 59 centimeters|Scale [1:4,750,000]|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:194\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/194/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/194/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:194\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/194/manifest.json\"}",
   "dct_spatial_sm": [
     "India",
     "Sri Lanka"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:15Z",
   "dc_language_sm": [
     "eng"
   ],

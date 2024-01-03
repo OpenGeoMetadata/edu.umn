@@ -5,18 +5,17 @@
   "dc_title_s": "Administrative map of Yosemite National Park, California",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:2530",
-  "solr_geom": "ENVELOPE(-120.0,-119.0,38.2333,37.5)",
+  "solr_geom": "ENVELOPE(-120.000,-119.000,38.233,37.500)",
   "solr_year_i": "1910",
   "dc_creator_sm": [
     "Marshall, R. B. (Robert Bradford), 1867-1949"
   ],
   "dc_description_s": "Relief shown by contours and spot heights.; At head of title: Department of the Interior.; \"Surveyed in 1893-94, 1896, 1898-99, and 1905.\"; Contour interval 100 feet. Datum is mean sea level.; U.S. township and section lines and section corners are shown.; Shows park limits established by various Acts of Congress.|70 x 73 centimeters|Scale 1:125,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2530\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2530/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2530/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2530\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2530/manifest.json\"}",
   "dct_spatial_sm": [
     "California"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:40Z",
   "dc_language_sm": [
     "eng"
   ],

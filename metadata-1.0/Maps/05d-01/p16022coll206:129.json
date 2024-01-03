@@ -5,7 +5,7 @@
   "dc_title_s": "Railroad Commissioners' map of Minnesota.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll206:129",
-  "solr_geom": "ENVELOPE(-97.2839,-90.791,49.4003,43.3052)",
+  "solr_geom": "ENVELOPE(-97.284,-90.791,49.400,43.305)",
   "solr_year_i": "1899",
   "dc_creator_sm": [
     "Minnesota. Office of Railroad and Warehouse Commissioners",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Cartographic Details: Scale [1:760,320].Inset: North east corner of Minnesota.|101 x 68 centimeters|Scale [1:760,320]|Minnesota Transportation Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll206:129\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll206/129/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll206/129/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll206:129\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll206/129/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:25Z",
   "dc_language_sm": [
     "eng"
   ],

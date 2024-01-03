@@ -43,9 +43,9 @@
     "Minnesota--Stearns County",
     "Minnesota"
   ],
-  "locn_geometry": "POLYGON((-95.1399 45.7764, -94.0485 45.7764, -94.0485 45.2852, -95.1399 45.2852, -95.1399 45.7764))",
-  "dcat_bbox": "ENVELOPE(-95.1399,-94.0485,45.7764,45.2852)",
-  "dcat_centroid": "45.5308,-94.5942",
+  "locn_geometry": "POLYGON((-95.140 45.776, -94.049 45.776, -94.049 45.285, -95.140 45.285, -95.140 45.776))",
+  "dcat_bbox": "ENVELOPE(-95.140,-94.049,45.776,45.285)",
+  "dcat_centroid": "45.5305,-94.59450000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -58,11 +58,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:59\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/59/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/59/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:59\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/59/manifest.json\"}",
   "id": "p16022coll231:59",
   "dct_identifier_sm": [
     "UMN_ALMA:9916175110001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:13Z",
   "gbl_mdVersion_s": "Aardvark"
 }

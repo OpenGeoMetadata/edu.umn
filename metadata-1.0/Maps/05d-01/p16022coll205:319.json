@@ -5,7 +5,7 @@
   "dc_title_s": "Missouri-Illinois, Saint Louis quadrangle",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll205:319",
-  "solr_geom": "ENVELOPE(-90.5,-90,38.75,38.5)",
+  "solr_geom": "ENVELOPE(-90.500,-90.000,38.750,38.500)",
   "solr_year_i": "1912",
   "dc_creator_sm": [
     "Cooke, Chas. E.",
@@ -18,11 +18,10 @@
   ],
   "dc_description_s": "(W 90⁰30ʹ--W 90⁰00ʹ/N 38⁰45ʹ--N 38⁰30ʹ).   Relief shown by contours and spot heights.   Contour interval 20 feet. Datum is mean sea level.   \"Surveyed in 1903.\"|51 x 84 centimeters|Scale 1:62,500|City Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:319\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/319/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/319/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:319\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/319/manifest.json\"}",
   "dct_spatial_sm": [
     "Missouri; Illinois--Saint Louis"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:45Z",
   "dc_language_sm": [
     "eng"
   ],

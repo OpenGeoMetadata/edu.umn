@@ -5,18 +5,17 @@
   "dc_title_s": "Relief map of the Dominion of Canada",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:764",
-  "solr_geom": "ENVELOPE(-141,-52.5,71,42)",
+  "solr_geom": "ENVELOPE(-141.000,-52.500,71.000,42.000)",
   "solr_year_i": "1904",
   "dc_creator_sm": [
     "White, James, 1863-1928"
   ],
   "dc_description_s": "Shows existing railroads and connecting lines in the United States.|44 x 93 centimeters|Scale 1:6,336,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:764\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/764/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/764/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:764\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/764/manifest.json\"}",
   "dct_spatial_sm": [
     "Canada"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:33Z",
   "dc_language_sm": [
     "eng"
   ],

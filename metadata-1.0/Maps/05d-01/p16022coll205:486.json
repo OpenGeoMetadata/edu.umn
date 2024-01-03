@@ -5,19 +5,18 @@
   "dc_title_s": "A plan of the north half of the township of Woodstock [Conn.]",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll205:486",
-  "solr_geom": "ENVELOPE(-72.018203,-71.938256,42.004175,41.93762)",
+  "solr_geom": "ENVELOPE(-72.018,-71.938,42.004,41.938)",
   "solr_year_i": "1926",
   "dc_creator_sm": [
     "Child, Nathaniel (Cartographer)"
   ],
   "dc_description_s": "Cadastral map showing lot numbers, areas, boundaries, and names of property owners.; Facsim. of ms. map.; In lower margin: Those lots contained within [wavy] lines are First Division lands surveyed by Mr. Jno. Butcher, about 1695. The lots contained within [crossed] lines are Second Division lands, surveyed by Mr. Ebenezer Woodward, in the year 1715. And all lines within the [broken rule] lines are Third Division lands surveyed Anno 1738 by Capt. William Chandler. The [diagonal] lines are cross roads from range to range. Delineated by a scale of 80 parts to an inch. May 1st Anno Domini 1772 by Messrs. Nathaniel Child [and others].; In right margin: Note: this is a fac-simile of the original duplicate plot on parchment placed on file with the archives of Woodstock, Conn. ... G.C. Williams.; From: Clarence Winthrop Bowen's The history of Woodstock, Connecticut, 1926-1943.|50 x 81 centimeters|Scale approximately 1:18,100|City Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:486\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/486/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/486/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:486\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/486/manifest.json\"}",
   "dct_spatial_sm": [
     "Connecticut--Woodstock",
     "Connecticut"
   ],
-  "layer_modified_dt": "2023-06-23T18:47:26Z",
   "dc_language_sm": [
     "eng"
   ],

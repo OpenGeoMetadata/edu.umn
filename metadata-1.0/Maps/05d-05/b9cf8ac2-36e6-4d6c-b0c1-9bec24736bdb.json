@@ -5,7 +5,7 @@
   "dc_title_s": "Geology of Cook County, Minnesota, Bulletin 39, Plate 6",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "b9cf8ac2-36e6-4d6c-b0c1-9bec24736bdb",
-  "solr_geom": "ENVELOPE(-91.0311,-89.5,48.2462,47.4597)",
+  "solr_geom": "ENVELOPE(-91.031,-89.500,48.246,47.460)",
   "solr_year_i": "1959",
   "dc_creator_sm": [
     "Grout, Frank F. (Frank Fitch), 1880-1958",
@@ -14,11 +14,10 @@
   ],
   "dc_description_s": "Plate 5, Sequence of volcanic lava flows along shore from the Lake County line to Good Harbor Bay, Minnesota, scale 1 inch = about 3/4 miles.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23341.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1042/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1042\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23341.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1042/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1042\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1042/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:19:05Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "Cuba"
   ],
-  "locn_geometry": "POLYGON((-85.1667 23.4667, -73.9167 23.4667, -73.9167 19.6167, -85.1667 19.6167, -85.1667 23.4667))",
-  "dcat_bbox": "ENVELOPE(-85.1667,-73.9167,23.4667,19.6167)",
-  "dcat_centroid": "21.5417,-79.5417",
+  "locn_geometry": "POLYGON((-85.167 23.467, -73.917 23.467, -73.917 19.617, -85.167 19.617, -85.167 23.467))",
+  "dcat_bbox": "ENVELOPE(-85.167,-73.917,23.467,19.617)",
+  "dcat_centroid": "21.542,-79.542",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2791\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2791/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2791/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2791\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2791/manifest.json\"}",
   "id": "p16022coll230:2791",
   "dct_identifier_sm": [
     "UMN_ALMA:9931331480001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

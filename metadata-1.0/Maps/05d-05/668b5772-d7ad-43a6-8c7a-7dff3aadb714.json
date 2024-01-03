@@ -5,18 +5,17 @@
   "dc_title_s": "Surficial geology of the Brainerd quadrangle, Cass and Crow Wing Counties, Minnesota, M-112",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "668b5772-d7ad-43a6-8c7a-7dff3aadb714",
-  "solr_geom": "ENVELOPE(-94.3944,-93.776,46.806,46.1551)",
+  "solr_geom": "ENVELOPE(-94.394,-93.776,46.806,46.155)",
   "solr_year_i": "2001",
   "dc_creator_sm": [
     "Hobbs, Howard C."
   ],
   "dc_description_s": "Quaternary geology map showing interpretations of Quaternary (Pleistocene [glacial] and Holocene [post-glacial]) surficial geology (distribution and type of materials at the land surface), of the Brainerd quadrangle, scale 1:24,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22516.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/629/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:629\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22516.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/629/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:629\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/629/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:25:57Z",
   "dc_language_sm": [
     "eng"
   ],

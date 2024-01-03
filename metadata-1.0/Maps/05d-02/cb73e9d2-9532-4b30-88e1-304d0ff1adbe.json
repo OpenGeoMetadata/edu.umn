@@ -5,19 +5,18 @@
   "dc_title_s": "Map of Osceola Township: Township 116 N, Range 33 W of the 5th PM.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "cb73e9d2-9532-4b30-88e1-304d0ff1adbe",
-  "solr_geom": "ENVELOPE(-95.4831,-94.4948,44.8942,44.4566)",
+  "solr_geom": "ENVELOPE(-95.483,-94.495,44.894,44.457)",
   "solr_year_i": "1913",
   "dc_creator_sm": [
     "Webb Publishing Co."
   ],
   "dc_description_s": "Page 11: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/913/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/147063\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/913/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/147063\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/913/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota--Renville County",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:27:09Z",
   "dc_language_sm": [
     "eng"
   ],

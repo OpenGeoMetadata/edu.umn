@@ -5,18 +5,17 @@
   "dc_title_s": "City of Jackson, major street plan",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll205:632",
-  "solr_geom": "ENVELOPE(-84.4333,-84.3667,42.2667,42.2)",
+  "solr_geom": "ENVELOPE(-84.433,-84.367,42.267,42.200)",
   "solr_year_i": "1929",
   "dc_creator_sm": [
     "Jackson (Mich.). Office of City Engineer"
   ],
   "dc_description_s": "January 1929.|51 x 54 centimeters|Scale approximately 1:14,600|City Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:632\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/632/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/632/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:632\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/632/manifest.json\"}",
   "dct_spatial_sm": [
     "Michigan--Jackson"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:30Z",
   "dc_language_sm": [
     "eng"
   ],

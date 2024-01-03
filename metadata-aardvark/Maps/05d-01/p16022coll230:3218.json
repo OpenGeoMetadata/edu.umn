@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "Scotland"
   ],
-  "locn_geometry": "POLYGON((-6.2 57.45, -5.7833 57.45, -5.7833 57.3, -6.2 57.3, -6.2 57.45))",
-  "dcat_bbox": "ENVELOPE(-6.2,-5.7833,57.45,57.3)",
-  "dcat_centroid": "57.375,-5.99165",
+  "locn_geometry": "POLYGON((-6.200 57.450, -5.783 57.450, -5.783 57.300, -6.200 57.300, -6.200 57.450))",
+  "dcat_bbox": "ENVELOPE(-6.200,-5.783,57.450,57.300)",
+  "dcat_centroid": "57.375,-5.9915",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3218\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3218/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3218/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3218\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3218/manifest.json\"}",
   "id": "p16022coll230:3218",
   "dct_identifier_sm": [
     "UMN_ALMA:9963104280001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -5,7 +5,7 @@
   "dc_title_s": "Chippewa National Forest, Minnesota : 1941",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll247:157",
-  "solr_geom": "ENVELOPE(-94.83,-93.3,48,46.83)",
+  "solr_geom": "ENVELOPE(-94.830,-93.300,48.000,46.830)",
   "solr_year_i": "1941",
   "dc_creator_sm": [
     "Simerl, R. A.",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Cartographic Details: Scale [1:130,000] ;  Polyconic projection (W 94°0'--W 93°18'/N 48°00'--N 46°0'). \"Fourth and fifth principal meridians.\"|99 x 95 centimeters|1:130,000|General Minnesota Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:157\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/157/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/157/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:157\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/157/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:35Z",
   "dc_language_sm": [
     "eng"
   ],

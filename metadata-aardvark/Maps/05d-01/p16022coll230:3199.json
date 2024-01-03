@@ -30,9 +30,9 @@
     "Brandenburg",
     "Europe"
   ],
-  "locn_geometry": "POLYGON((10.75 54.0, 14.5833 54.0, 14.5833 13.8333, 10.75 13.8333, 10.75 54.0))",
-  "dcat_bbox": "ENVELOPE(10.75,14.5833,54.0,13.8333)",
-  "dcat_centroid": "33.91665,12.66665",
+  "locn_geometry": "POLYGON((10.750 54.000, 14.583 54.000, 14.583 13.833, 10.750 13.833, 10.750 54.000))",
+  "dcat_bbox": "ENVELOPE(10.750,14.583,54.000,13.833)",
+  "dcat_centroid": "33.9165,12.6665",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,11 +45,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3199\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3199/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3199/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3199\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3199/manifest.json\"}",
   "id": "p16022coll230:3199",
   "dct_identifier_sm": [
     "UMN_ALMA:9940970530001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

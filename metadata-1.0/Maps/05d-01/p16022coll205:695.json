@@ -5,18 +5,17 @@
   "dc_title_s": "Topographical map of Gettysburg - Antietam",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll205:695",
-  "solr_geom": "ENVELOPE(-77.2464,-77.2175,39.8436,39.8158)",
+  "solr_geom": "ENVELOPE(-77.246,-77.218,39.844,39.816)",
   "solr_year_i": "1909",
   "dc_creator_sm": [
     "Army Service Schools (U.S.)"
   ],
   "dc_description_s": "Relief shown pictorially.; Early 18th Century Dutch map of Russia with parts of Scandinavia, Poland, Germany and the Balkan States.|116 x 91 centimeters|W0771447 W0771303 N0395037 N0394857; (W 77°14'47\"--W 77°13'03\"/N 39°50'37\"--N 39°48'57\"); Scale 1:21,120|City Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:695\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/695/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/695/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:695\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/695/manifest.json\"}",
   "dct_spatial_sm": [
     "Pennsylvania; Maryland"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:39Z",
   "dc_language_sm": [
     "eng"
   ],

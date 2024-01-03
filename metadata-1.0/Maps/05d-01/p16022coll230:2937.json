@@ -12,7 +12,7 @@
   ],
   "dc_description_s": "Dated from the atlas in which this state of the map was issued.; Differs from previous states by change in placenames.; Shows boundaries, rivers, wood and settlements.; Relief shown pictorially.|26 x 31 centimeters or smaller, plate 36 x 43 centimeters|Scales differ.|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2937\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2937/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2937/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2937\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2937/manifest.json\"}",
   "dct_spatial_sm": [
     "Isle of Wight",
     "Lindisfarne",
@@ -25,7 +25,6 @@
     "France",
     "Channel Islands"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:00Z",
   "dc_language_sm": [
     "eng"
   ],

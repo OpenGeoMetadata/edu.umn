@@ -5,7 +5,7 @@
   "dc_title_s": "Les Indes Orientales : ouè sont distingueás les empires et royaumes qu'elles contiennent tireáes du Neptune Oriental",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:345",
-  "solr_geom": "ENVELOPE(68.1,110,35.66,0.03)",
+  "solr_geom": "ENVELOPE(68.100,110.000,35.660,0.030)",
   "solr_year_i": "1751",
   "dc_creator_sm": [
     "Guillaume Nicholas Delahaye 1725-1802",
@@ -14,11 +14,10 @@
   ],
   "dc_description_s": "Cartographic Details: Scale approximately 1:8,500,000. Relief shown pictorially.\"Guill. Delahaye sculp.\" From Atlas universel, by Gilles & Didier Robert de Vaugondy, 1749-1792.|47 x 55 centimeters|Scale approximately 1:8,500,000|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:345\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/345/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/345/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:345\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/345/manifest.json\"}",
   "dct_spatial_sm": [
     "Asia"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:03Z",
   "dc_language_sm": [
     "fre"
   ],

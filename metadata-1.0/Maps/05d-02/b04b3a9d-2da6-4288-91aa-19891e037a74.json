@@ -5,19 +5,18 @@
   "dc_title_s": "Map of Hagen Township: Township 142 N, Range 45 W of the 5th PM.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "b04b3a9d-2da6-4288-91aa-19891e037a74",
-  "solr_geom": "ENVELOPE(-96.8412,-96.1729,47.1522,46.6287)",
+  "solr_geom": "ENVELOPE(-96.841,-96.173,47.152,46.629)",
   "solr_year_i": "1909",
   "dc_creator_sm": [
     "Alden Publishing Co."
   ],
   "dc_description_s": "Page 87: Standard Atlas of Clay County, 1909",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1011/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/193095\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1011/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/193095\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/1011/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota--Clay County",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:27:04Z",
   "dc_language_sm": [
     "eng"
   ],

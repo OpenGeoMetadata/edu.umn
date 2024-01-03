@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Washington County, Minnesota, C-5, Plate 5, Hydrogeology",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "d71fd6ed-7ac1-4fe1-bedc-29042b896c21",
-  "solr_geom": "ENVELOPE(-93.0294,-92.7415,45.2984,44.7381)",
+  "solr_geom": "ENVELOPE(-93.029,-92.742,45.298,44.738)",
   "solr_year_i": "1990",
   "dc_creator_sm": [
     "Balaban, Nancy",
@@ -14,11 +14,10 @@
   ],
   "dc_description_s": "Maps showing ground water resources and aquifer characteristics in the bedrock aquifers and the unconsolidated surficial sediments, scale 1:100,000, Washington County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22254.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/655/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:655\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22254.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/655/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:655\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/655/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:57Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -43,9 +43,9 @@
   "dct_spatial_sm": [
     "India"
   ],
-  "locn_geometry": "POLYGON((80.7042 21.064, 94.845 21.064, 94.845 5.9084, 80.7042 5.9084, 80.7042 21.064))",
-  "dcat_bbox": "ENVELOPE(80.7042,94.845,21.064,5.9084)",
-  "dcat_centroid": "13.4862,87.77459999999999",
+  "locn_geometry": "POLYGON((80.704 21.064, 94.845 21.064, 94.845 5.908, 80.704 5.908, 80.704 21.064))",
+  "dcat_bbox": "ENVELOPE(80.704,94.845,21.064,5.908)",
+  "dcat_centroid": "13.486,87.77449999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -58,11 +58,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:256\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/256/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/256/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:256\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/256/manifest.json\"}",
   "id": "p16022coll246:256",
   "dct_identifier_sm": [
     "UMN_ALMA:9973958301201701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -5,7 +5,7 @@
   "dc_title_s": "SANAE Station: Antarctica",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "ANT-NAV-MT2601-012",
-  "solr_geom": "ENVELOPE(10.5,6,-68,-71.666)",
+  "solr_geom": "ENVELOPE(10.500,6.000,-68.000,-71.666)",
   "solr_year_i": "1968",
   "dc_description_s": "Projection: WGS72 Mercator Projection; Series: United States Navy Antarctic Nautical Charts",
   "dc_format_s": "GeoTIFF",
@@ -15,7 +15,6 @@
     "Antarctica--Princess Astrid Coast",
     "Antarctica"
   ],
-  "layer_modified_dt": "2023-02-03T22:44:50Z",
   "dc_language_sm": [
     "eng"
   ],

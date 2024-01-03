@@ -5,7 +5,7 @@
   "dc_title_s": "Shaded relief aeromagnetic anomaly map of northeastern and east-central Minnesota, M-53",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "d0a28db7-1311-4809-9fdf-52dba8b98566",
-  "solr_geom": "ENVELOPE(-93.0966,-91.7893,48.63,46.6507)",
+  "solr_geom": "ENVELOPE(-93.097,-91.789,48.630,46.651)",
   "solr_year_i": "1984",
   "dc_creator_sm": [
     "Anderson, S. (Geologist)",
@@ -14,11 +14,10 @@
   ],
   "dc_description_s": "Aeromagnetic anomaly map, (relative to the earth's magnetic field,  interpretation of magnetic data collected from airborne surveys, the map colors indicate the distribution and concentration of magnetic minerals (primarily iron-bearing) within the upper crust of the earth, shaded-relief (psuedo 3d), northeastern and east-central Minnesota, scale 1:1,000,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22440.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/936/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:936\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22440.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/936/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:936\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/936/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:24:58Z",
   "dc_language_sm": [
     "eng"
   ],

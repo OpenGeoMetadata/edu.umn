@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "Hawaii"
   ],
-  "locn_geometry": "POLYGON((-178.4333 28.5167, -154.75 28.5167, -154.75 18.85, -178.4333 18.85, -178.4333 28.5167))",
-  "dcat_bbox": "ENVELOPE(-178.4333,-154.75,28.5167,18.85)",
-  "dcat_centroid": "23.68335,-166.59165000000002",
+  "locn_geometry": "POLYGON((-178.433 28.517, -154.750 28.517, -154.750 18.850, -178.433 18.850, -178.433 28.517))",
+  "dcat_bbox": "ENVELOPE(-178.433,-154.750,28.517,18.850)",
+  "dcat_centroid": "23.683500000000002,-166.5915",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2782\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2782/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2782/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2782\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2782/manifest.json\"}",
   "id": "p16022coll230:2782",
   "dct_identifier_sm": [
     "UMN_ALMA:9974770009901701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

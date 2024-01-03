@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Rice County, Minnesota, C-9, Part B, Plate 9, Supplement to Sensitivity of Ground-Water Systems to Pollution",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "96822b29-fbd6-42e6-938b-3b0af13cce39",
-  "solr_geom": "ENVELOPE(-93.5259,-93.0406,44.5466,44.1978)",
+  "solr_geom": "ENVELOPE(-93.526,-93.041,44.547,44.198)",
   "solr_year_i": "1997",
   "dc_creator_sm": [
     "Campion, Moira",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Map showing sensitivity interpretations and how the age of the water as determined from radioactive isotopes (tritium) is related to the ease of pollution, scale 1:200,000, Rice County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22294.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/694/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:694\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22294.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/694/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:694\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/694/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:55Z",
   "dc_language_sm": [
     "eng"
   ],

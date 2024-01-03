@@ -5,15 +5,14 @@
   "dc_title_s": "A Map of Emin Pasha's province",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:4278",
-  "solr_geom": "ENVELOPE(29,68,6,1.983333333)",
+  "solr_geom": "ENVELOPE(29.000,68.000,6.000,1.983)",
   "solr_year_i": "1890",
   "dc_description_s": "Showns watercourses and mountains.; Relief shown by shading.|23 x 23 Centimeters|Scale approximately 1:2,600,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4278\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4278/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4278/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4278\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4278/manifest.json\"}",
   "dct_spatial_sm": [
     "Uganda"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:15Z",
   "dc_language_sm": [
     "eng"
   ],

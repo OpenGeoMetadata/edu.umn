@@ -5,7 +5,7 @@
   "dc_title_s": "Bedrock geology of the Tofte quadrangle, Cook County, Minnesota, M-171",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "08da2ff3-4ccf-4668-b5d8-993e3954138c",
-  "solr_geom": "ENVELOPE(-91.0311,-89.5,48.2462,47.4597)",
+  "solr_geom": "ENVELOPE(-91.031,-89.500,48.246,47.460)",
   "solr_year_i": "2006",
   "dc_creator_sm": [
     "Albers, Paul",
@@ -15,11 +15,10 @@
   ],
   "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Tofte quadrangle, scale 1:24,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22589.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/890/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:890\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22589.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/890/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:890\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/890/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:16:48Z",
   "dc_language_sm": [
     "eng"
   ],

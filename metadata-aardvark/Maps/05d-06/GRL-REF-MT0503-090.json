@@ -29,8 +29,8 @@
   "dct_spatial_sm": [
     "Greenland"
   ],
-  "locn_geometry": "POLYGON((-22 78, -28 78, -28 77, -22 77, -22 78))",
-  "dcat_bbox": "ENVELOPE(-22,-28,78,77)",
+  "locn_geometry": "POLYGON((-22.000 78.000, -28.000 78.000, -28.000 77.000, -22.000 77.000, -22.000 78.000))",
+  "dcat_bbox": "ENVELOPE(-22.000,-28.000,78.000,77.000)",
   "dcat_centroid": "77.5,-25.0",
   "pcdm_memberOf_sm": [
     "b0153110-e455-4ced-9114-9b13250a7093"
@@ -45,6 +45,5 @@
   "dct_identifier_sm": [
     "GRL-REF-MT0503-090"
   ],
-  "gbl_mdModified_dt": "2023-02-03T22:45:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

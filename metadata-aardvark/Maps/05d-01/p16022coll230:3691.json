@@ -31,9 +31,9 @@
     "Arabia",
     "Asia"
   ],
-  "locn_geometry": "POLYGON((23.1333 35.1167, 65.75 35.1167, 65.75 5.0167, 23.1333 5.0167, 23.1333 35.1167))",
-  "dcat_bbox": "ENVELOPE(23.1333,65.75,35.1167,5.0167)",
-  "dcat_centroid": "20.0667,44.441649999999996",
+  "locn_geometry": "POLYGON((23.133 35.117, 65.750 35.117, 65.750 5.017, 23.133 5.017, 23.133 35.117))",
+  "dcat_bbox": "ENVELOPE(23.133,65.750,35.117,5.017)",
+  "dcat_centroid": "20.067,44.4415",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -46,11 +46,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3691\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3691/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3691/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3691\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3691/manifest.json\"}",
   "id": "p16022coll230:3691",
   "dct_identifier_sm": [
     "UMN_ALMA:9973943492001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

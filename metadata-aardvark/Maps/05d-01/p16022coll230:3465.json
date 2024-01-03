@@ -37,9 +37,9 @@
     "France",
     "Europe"
   ],
-  "locn_geometry": "POLYGON((8.1333 50.0333, 8.3333 50.0333, 8.3333 49.8833, 8.1333 49.8833, 8.1333 50.0333))",
-  "dcat_bbox": "ENVELOPE(8.1333,8.3333,50.0333,49.8833)",
-  "dcat_centroid": "49.958299999999994,8.2333",
+  "locn_geometry": "POLYGON((8.133 50.033, 8.333 50.033, 8.333 49.883, 8.133 49.883, 8.133 50.033))",
+  "dcat_bbox": "ENVELOPE(8.133,8.333,50.033,49.883)",
+  "dcat_centroid": "49.958,8.233",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3465\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3465/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3465/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3465\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3465/manifest.json\"}",
   "id": "p16022coll230:3465",
   "dct_identifier_sm": [
     "UMN_ALMA:9953435600001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

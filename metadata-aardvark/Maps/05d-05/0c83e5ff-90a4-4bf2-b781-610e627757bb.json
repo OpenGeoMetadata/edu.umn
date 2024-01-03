@@ -1,31 +1,59 @@
 {
-  "geoblacklight_version": "1.0",
-  "dc_identifier_s": "0c83e5ff-90a4-4bf2-b781-610e627757bb",
-  "dc_rights_s": "Public",
-  "dc_title_s": "Geologic atlas of Pine County, Minnesota, C-13, Part A, Plate 6, Sinkhole distribution, Depth to Bedrock, and Bedrock Topography",
-  "dct_provenance_s": "University of Minnesota",
-  "layer_slug_s": "0c83e5ff-90a4-4bf2-b781-610e627757bb",
-  "solr_geom": "ENVELOPE(-93.1409,-92.2889,46.419,45.7312)",
-  "solr_year_i": "2001",
-  "dc_creator_sm": [
+  "dct_title_s": "Geologic atlas of Pine County, Minnesota, C-13, Part A, Plate 6, Sinkhole distribution, Depth to Bedrock, and Bedrock Topography",
+  "dct_description_sm": [
+    "Map showing the thickness (depth to bedrock) of unconsolidated sediments (Quaternary glacial and stream materials) over the bedrock surface and elevation of the bedrock surface (bedrock topography), scale 1:200,000; map showing locations of sinkholes and sinkhole cross sections, scale 1:100,000, Pine County."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
     "Alexander, E. C., Jr.",
     "Alexander, Scott C. (Geologist)",
     "Boerboom, Terrence J.",
     "Shade, Beverley L."
   ],
-  "dc_description_s": "Map showing the thickness (depth to bedrock) of unconsolidated sediments (Quaternary glacial and stream materials) over the bedrock surface and elevation of the bedrock surface (bedrock topography), scale 1:200,000; map showing locations of sinkholes and sinkhole cross sections, scale 1:100,000, Pine County.",
-  "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22330.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/782/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:782\"}",
+  "dct_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "dct_issued_s": "2001",
+  "gbl_indexYear_im": [
+    "2001"
+  ],
+  "gbl_dateRange_drsim": [
+    "[2001 TO 2001]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:52Z",
-  "dc_language_sm": [
-    "eng"
+  "locn_geometry": "POLYGON((-93.141 46.419, -92.289 46.419, -92.289 45.731, -93.141 45.731, -93.141 46.419))",
+  "dcat_bbox": "ENVELOPE(-93.141,-92.289,46.419,45.731)",
+  "dcat_centroid": "46.075,-92.715",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
-  "dc_publisher_s": "Minnesota Geological Survey",
-  "dct_issued_s": "2001",
-  "dct_temporal_sm": [
-    "2001"
-  ]
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22330.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/782/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:782\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/782/manifest.json\"}",
+  "id": "0c83e5ff-90a4-4bf2-b781-610e627757bb",
+  "dct_identifier_sm": [
+    "0c83e5ff-90a4-4bf2-b781-610e627757bb"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
 }

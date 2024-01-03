@@ -1,28 +1,56 @@
 {
-  "geoblacklight_version": "1.0",
-  "dc_identifier_s": "7b5e944f-5fd1-4931-9264-2eda6e6964c3",
-  "dc_rights_s": "Public",
-  "dc_title_s": "The proposed Voyageurs National Park: Its geology and mineral potential, 1969, Plate 1",
-  "dct_provenance_s": "University of Minnesota",
-  "layer_slug_s": "7b5e944f-5fd1-4931-9264-2eda6e6964c3",
-  "solr_geom": "ENVELOPE(-97.24,-89.48,49.45,43.5)",
-  "solr_year_i": "1969",
-  "dc_creator_sm": [
+  "dct_title_s": "The proposed Voyageurs National Park: Its geology and mineral potential, 1969, Plate 1",
+  "dct_description_sm": [
+    "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of proposed Voyageurs National Park, Northern Minnesota, scale 1 inch = about 1 1/4 miles."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
     "Minnesota Geological Survey"
   ],
-  "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of proposed Voyageurs National Park, Northern Minnesota, scale 1 inch = about 1 1/4 miles.",
-  "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23409.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1091/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1091\"}",
+  "dct_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1969"
+  ],
+  "dct_issued_s": "1969",
+  "gbl_indexYear_im": [
+    "1969"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1969 TO 1969]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:26:12Z",
-  "dc_language_sm": [
-    "eng"
+  "locn_geometry": "POLYGON((-97.24 49.45, -89.48 49.45, -89.48 43.5, -97.24 43.5, -97.24 49.45))",
+  "dcat_bbox": "ENVELOPE(-97.24,-89.48,49.45,43.5)",
+  "dcat_centroid": "46.475,-93.36",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
-  "dc_publisher_s": "Minnesota Geological Survey",
-  "dct_issued_s": "1969",
-  "dct_temporal_sm": [
-    "1969"
-  ]
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23409.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1091/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1091\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1091/manifest.json\"}",
+  "id": "7b5e944f-5fd1-4931-9264-2eda6e6964c3",
+  "dct_identifier_sm": [
+    "7b5e944f-5fd1-4931-9264-2eda6e6964c3"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
 }

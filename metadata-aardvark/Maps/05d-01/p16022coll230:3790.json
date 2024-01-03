@@ -30,9 +30,9 @@
     "Egypt",
     "Africa"
   ],
-  "locn_geometry": "POLYGON((29.3667 31.6667, 33.7833 31.6667, 33.7833 24.9667, 29.3667 24.9667, 29.3667 31.6667))",
-  "dcat_bbox": "ENVELOPE(29.3667,33.7833,31.6667,24.9667)",
-  "dcat_centroid": "28.316699999999997,31.575",
+  "locn_geometry": "POLYGON((29.367 31.667, 33.783 31.667, 33.783 24.967, 29.367 24.967, 29.367 31.667))",
+  "dcat_bbox": "ENVELOPE(29.367,33.783,31.667,24.967)",
+  "dcat_centroid": "28.317,31.575000000000003",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,11 +45,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3790\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3790/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3790/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3790\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3790/manifest.json\"}",
   "id": "p16022coll230:3790",
   "dct_identifier_sm": [
     "UMN_ALMA:9921377320001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

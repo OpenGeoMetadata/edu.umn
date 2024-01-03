@@ -1,31 +1,59 @@
 {
-  "geoblacklight_version": "1.0",
-  "dc_identifier_s": "2e86999d-562d-40d5-bcfc-2118c6a4426b",
-  "dc_rights_s": "Public",
-  "dc_title_s": "Geologic atlas of Wabasha County, Minnesota, C-14, Part A, Plate 5, Karst Features",
-  "dct_provenance_s": "University of Minnesota",
-  "layer_slug_s": "2e86999d-562d-40d5-bcfc-2118c6a4426b",
-  "solr_geom": "ENVELOPE(-92.5517,-91.8579,44.4561,44.1087)",
-  "solr_year_i": "2001",
-  "dc_creator_sm": [
+  "dct_title_s": "Geologic atlas of Wabasha County, Minnesota, C-14, Part A, Plate 5, Karst Features",
+  "dct_description_sm": [
+    "Maps showing distribution of karst (carbonate rock with caves, springs) rock units and features and karst hydrology, including springs (water emerging from the ground) and stream sinks (water sinking into the ground), in carbonate rocks susceptible to being dissolved by acidic ground water, scale 1:100000, Wabasha County."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
     "Alexander, E. C., Jr.",
     "Green, Jeffrey A.",
     "Runkel, Anthony C.",
     "Tipping, Robert G."
   ],
-  "dc_description_s": "Maps showing distribution of karst (carbonate rock with caves, springs) rock units and features and karst hydrology, including springs (water emerging from the ground) and stream sinks (water sinking into the ground), in carbonate rocks susceptible to being dissolved by acidic ground water, scale 1:100000, Wabasha County.",
-  "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22339.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/739/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:739\"}",
+  "dct_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "dct_issued_s": "2001",
+  "gbl_indexYear_im": [
+    "2001"
+  ],
+  "gbl_dateRange_drsim": [
+    "[2001 TO 2001]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:57Z",
-  "dc_language_sm": [
-    "eng"
+  "locn_geometry": "POLYGON((-92.552 44.456, -91.858 44.456, -91.858 44.109, -92.552 44.109, -92.552 44.456))",
+  "dcat_bbox": "ENVELOPE(-92.552,-91.858,44.456,44.109)",
+  "dcat_centroid": "44.2825,-92.20500000000001",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
-  "dc_publisher_s": "Minnesota Geological Survey",
-  "dct_issued_s": "2001",
-  "dct_temporal_sm": [
-    "2001"
-  ]
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22339.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/739/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:739\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/739/manifest.json\"}",
+  "id": "2e86999d-562d-40d5-bcfc-2118c6a4426b",
+  "dct_identifier_sm": [
+    "2e86999d-562d-40d5-bcfc-2118c6a4426b"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
 }

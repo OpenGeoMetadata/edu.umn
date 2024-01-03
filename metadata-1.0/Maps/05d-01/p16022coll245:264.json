@@ -5,7 +5,7 @@
   "dc_title_s": "Plat book of the city of Saint Paul, Minn. and suburbs : from official records, private plans and actual surveys",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll245:264",
-  "solr_geom": "ENVELOPE(-93.203815,-92.955593,45.034026,44.866706)",
+  "solr_geom": "ENVELOPE(-93.204,-92.956,45.034,44.867)",
   "solr_year_i": "1928",
   "dc_creator_sm": [
     "G.M. Hopkins & Co.",
@@ -13,12 +13,11 @@
   ],
   "dc_description_s": "Cartographic Details: Scale [1:200] and [1:100]. 200 ft. to the in. and 100 ft. to the in. Some maps presented at a scale of [1:300], 300 ft. to 1 in. Includes indexes.|1 atlas (124 unnumbered pages) : 58 colored maps ; 64 centimeters|1:200 and 1:100|Minneapolis and St. Paul Maps and Atlases",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:264\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/264/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll245/264/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:264\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/264/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota--Saint Paul",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:28Z",
   "dc_language_sm": [
     "eng"
   ],

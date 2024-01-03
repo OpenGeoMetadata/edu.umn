@@ -5,19 +5,18 @@
   "dc_title_s": "Triangle District",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll205:1111",
-  "solr_geom": "ENVELOPE(-80.01083333,-79.98944444,40.44888889,40.43277778)",
+  "solr_geom": "ENVELOPE(-80.011,-79.989,40.449,40.433)",
   "solr_year_i": "1927",
   "dc_creator_sm": [
     "Pittsburgh (Pa.). Department of City Planning"
   ],
   "dc_description_s": "Blueline print.; \"Mapped June 1927.\"; Relief shown by contour lines.; \"Geodetic & Topographic Survey.\"; Also indicates some building and lot ownership.|59 x 75 centimeters|Scale approximately 1:2,400|City Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:1111\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/1111/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/1111/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:1111\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/1111/manifest.json\"}",
   "dct_spatial_sm": [
     "Pennsylvania--Pittsburgh",
     "Pennsylvania"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:26Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -30,9 +30,9 @@
     "Oregon",
     "Whitman National Forest"
   ],
-  "locn_geometry": "POLYGON((-119 45.25, -117.8333333 45.25, -117.8333333 44.25, -119 44.25, -119 45.25))",
-  "dcat_bbox": "ENVELOPE(-119,-117.8333333,45.25,44.25)",
-  "dcat_centroid": "44.75,-118.41666665",
+  "locn_geometry": "POLYGON((-119.000 45.250, -117.833 45.250, -117.833 44.250, -119.000 44.250, -119.000 45.250))",
+  "dcat_bbox": "ENVELOPE(-119.000,-117.833,45.250,44.250)",
+  "dcat_centroid": "44.75,-118.4165",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,11 +45,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2240\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2240/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2240/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2240\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2240/manifest.json\"}",
   "id": "p16022coll230:2240",
   "dct_identifier_sm": [
     "UMN_ALMA:9973999683501701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

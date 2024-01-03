@@ -5,18 +5,17 @@
   "dc_title_s": "Welt-Eisenerz Karte : (The iron resources of the World)",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:4049",
-  "solr_geom": "ENVELOPE(-180,180,90,-90)",
+  "solr_geom": "ENVELOPE(-179.99,179.99,89.99,-89.99)",
   "solr_year_i": "1927",
   "dc_creator_sm": [
     "Eckert, Max, 1868-1938"
   ],
   "dc_description_s": "Shows areas of known, partially known or unknown iron deposits, resources in metallic tons, importing and exporting countries, and pig iron production.|90 x 168 Centimeters|Scale not given ;|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4049\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4049/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4049/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4049\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4049/manifest.json\"}",
   "dct_spatial_sm": [
     "World"
   ],
-  "layer_modified_dt": "2023-06-23T22:01:04Z",
   "dc_language_sm": [
     "ger"
   ],

@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Mower County, Minnesota, C-11, Part A, Plate 3, Surficial Geology",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "7b9e33c2-b08b-467d-ad26-80c57ac3a301",
-  "solr_geom": "ENVELOPE(-93.0505,-92.4507,43.8518,43.5026)",
+  "solr_geom": "ENVELOPE(-93.050,-92.451,43.852,43.503)",
   "solr_year_i": "1998",
   "dc_creator_sm": [
     "Knaeble, Alan R.",
@@ -14,11 +14,10 @@
   ],
   "dc_description_s": "Map showing interpretations of Quaternary (Pleistocene [glacial] and Holocene [post-glacial]) surficial geology (distribution and type of materials at the land surface), scale 1:100,000, Mower County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22307.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/707/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:707\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22307.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/707/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:707\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/707/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:51Z",
   "dc_language_sm": [
     "eng"
   ],

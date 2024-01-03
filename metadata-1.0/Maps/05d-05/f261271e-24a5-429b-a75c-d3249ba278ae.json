@@ -5,18 +5,17 @@
   "dc_title_s": "Surficial geology of the Buffalo West quadrangle, Wright County, Minnesota, M-152",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "f261271e-24a5-429b-a75c-d3249ba278ae",
-  "solr_geom": "ENVELOPE(-94.2615,-93.5158,45.4275,44.9789)",
+  "solr_geom": "ENVELOPE(-94.261,-93.516,45.428,44.979)",
   "solr_year_i": "2005",
   "dc_creator_sm": [
     "Lusardi, Barbara A."
   ],
   "dc_description_s": "Quaternary geology map showing interpretations of Quaternary (Pleistocene [glacial] and Holocene [post-glacial]) surficial geology (distribution and type of materials at the land surface), of the Buffalo West quadrangle, scale 1:24,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22566.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/868/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:868\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22566.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/868/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:868\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/868/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:25:58Z",
   "dc_language_sm": [
     "eng"
   ],

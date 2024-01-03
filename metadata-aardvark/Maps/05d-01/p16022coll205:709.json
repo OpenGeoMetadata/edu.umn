@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "Paris"
   ],
-  "locn_geometry": "POLYGON((2.2389 48.9192, 2.4342 48.9192, 2.4342 48.8133, 2.2389 48.8133, 2.2389 48.9192))",
-  "dcat_bbox": "ENVELOPE(2.2389,2.4342,48.9192,48.8133)",
-  "dcat_centroid": "48.866249999999994,2.33655",
+  "locn_geometry": "POLYGON((2.239 48.919, 2.434 48.919, 2.434 48.813, 2.239 48.813, 2.239 48.919))",
+  "dcat_bbox": "ENVELOPE(2.239,2.434,48.919,48.813)",
+  "dcat_centroid": "48.866,2.3365",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:709\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/709/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/709/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:709\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/709/manifest.json\"}",
   "id": "p16022coll205:709",
   "dct_identifier_sm": [
     "UMN_ALMA:9943457960001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

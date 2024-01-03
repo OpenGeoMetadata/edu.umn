@@ -38,9 +38,9 @@
     "England--Liverpool",
     "England"
   ],
-  "locn_geometry": "POLYGON((-3.01 53.46, -2.81 53.46, -2.81 53.3001, -3.01 53.3001, -3.01 53.46))",
-  "dcat_bbox": "ENVELOPE(-3.01,-2.81,53.46,53.3001)",
-  "dcat_centroid": "53.38005,-2.91",
+  "locn_geometry": "POLYGON((-3.010 53.460, -2.810 53.460, -2.810 53.300, -3.010 53.300, -3.010 53.460))",
+  "dcat_bbox": "ENVELOPE(-3.010,-2.810,53.460,53.300)",
+  "dcat_centroid": "53.379999999999995,-2.91",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:331\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/331/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/331/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:331\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/331/manifest.json\"}",
   "id": "p16022coll205:331",
   "dct_identifier_sm": [
     "UMN_ALMA:9928021780001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

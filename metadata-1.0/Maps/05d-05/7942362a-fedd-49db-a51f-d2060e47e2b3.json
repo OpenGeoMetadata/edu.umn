@@ -5,7 +5,7 @@
   "dc_title_s": "Precambrian geology and geochronology of Minnesota, Bulletin 41, Plate 2",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "7942362a-fedd-49db-a51f-d2060e47e2b3",
-  "solr_geom": "ENVELOPE(-97.2392,-89.4834,49.3844,43.4994)",
+  "solr_geom": "ENVELOPE(-97.239,-89.483,49.384,43.499)",
   "solr_year_i": "1961",
   "dc_creator_sm": [
     "Baadsgaard, Halfdan",
@@ -16,11 +16,10 @@
   ],
   "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of east-central Minnesota, scale 1 inch = about 10 miles.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23355.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1055/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1055\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23355.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1055/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1055\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1055/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:23:59Z",
   "dc_language_sm": [
     "eng"
   ],

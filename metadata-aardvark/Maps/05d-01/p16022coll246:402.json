@@ -40,9 +40,9 @@
     "Afghanistan",
     "Pakistan"
   ],
-  "locn_geometry": "POLYGON((61.6992 38.5095, 75.8469 38.5095, 75.8469 22.7002, 61.6992 22.7002, 61.6992 38.5095))",
-  "dcat_bbox": "ENVELOPE(61.6992,75.8469,38.5095,22.7002)",
-  "dcat_centroid": "30.60485,68.77305",
+  "locn_geometry": "POLYGON((61.699 38.510, 75.847 38.510, 75.847 22.700, 61.699 22.700, 61.699 38.510))",
+  "dcat_bbox": "ENVELOPE(61.699,75.847,38.510,22.700)",
+  "dcat_centroid": "30.604999999999997,68.773",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -55,11 +55,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:402\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/402/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/402/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:402\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/402/manifest.json\"}",
   "id": "p16022coll246:402",
   "dct_identifier_sm": [
     "UMN_ALMA:9931671530001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

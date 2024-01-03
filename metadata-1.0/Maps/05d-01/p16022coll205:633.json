@@ -5,15 +5,14 @@
   "dc_title_s": "City of Stevens Point : county seat of Portage Co. Wis",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll205:633",
-  "solr_geom": "ENVELOPE(-89.6072,-89.4939,44.5675,44.4928)",
+  "solr_geom": "ENVELOPE(-89.607,-89.494,44.568,44.493)",
   "solr_year_i": "1910",
   "dc_description_s": "Shows plat additions, lot numbers, and some landownership.|58 x 58 centimeters|Scale 1:4,800; 400 feet = 1 inch|City Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:633\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/633/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/633/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:633\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/633/manifest.json\"}",
   "dct_spatial_sm": [
     "Wisconsin--Stevens Point"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:42Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,7 +5,7 @@
   "dc_title_s": "A map of England & Wales : divided into counties, parlimentary divisions, & dioceses; shewing the principal roads, railways, rivers, & canals and the seats of the nobility and gentry; with the distance of each town from the general post office of London",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:4",
-  "solr_geom": "ENVELOPE(-5,4,56,50)",
+  "solr_geom": "ENVELOPE(-5.000,4.000,56.000,50.000)",
   "solr_year_i": "1841",
   "dc_creator_sm": [
     "Creighton, Roger (Draftsman)",
@@ -14,12 +14,11 @@
   ],
   "dc_description_s": "Cartographic Details: Scale [1:316,800]. 1 in. = 5 mi. (W 5°--E 2°N 56°--N 50°). Relief shown by hachures. Projected from the triangulation for the survey made under the direction of the honorable the Board of Ordnance, on a scale of five miles to an inch, and corrected to the present time. Illustration: View of the general post office London / drawn by T. Allom, engraved by H. Griffiths. Continuation inset: Scilly Islands. Includes table of distances by sea, and chart of dioceses with coats of arms. Originally published in 1 sheet (?).|color, dissected, mounted on cloth, and bound in 4 volumes ; 202 x 167 cm.; sheet|Scale [1:316,800]. 1 inch = 5 miles|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4/manifest.json\"}",
   "dct_spatial_sm": [
     "England",
     "Wales"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:26Z",
   "dc_language_sm": [
     "eng"
   ],

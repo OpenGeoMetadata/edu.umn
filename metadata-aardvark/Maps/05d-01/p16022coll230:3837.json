@@ -37,9 +37,9 @@
     "Malay Peninsula",
     "Asia"
   ],
-  "locn_geometry": "POLYGON((99.0 8.0, 104.5 8.0, 104.5 0.6667, 99.0 0.6667, 99.0 8.0))",
-  "dcat_bbox": "ENVELOPE(99.0,104.5,8.0,0.6667)",
-  "dcat_centroid": "4.33335,101.75",
+  "locn_geometry": "POLYGON((99.000 8.000, 104.500 8.000, 104.500 0.667, 99.000 0.667, 99.000 8.000))",
+  "dcat_bbox": "ENVELOPE(99.000,104.500,8.000,0.667)",
+  "dcat_centroid": "4.3335,101.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3837\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3837/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3837/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3837\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3837/manifest.json\"}",
   "id": "p16022coll230:3837",
   "dct_identifier_sm": [
     "UMN_ALMA:9975609190701701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

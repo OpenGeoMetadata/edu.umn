@@ -42,9 +42,9 @@
     "Minnesota--Redwood County",
     "Minnesota"
   ],
-  "locn_geometry": "POLYGON((-95.6174 44.6985, -94.8655 44.6985, -94.8655 44.195, -95.6174 44.195, -95.6174 44.6985))",
-  "dcat_bbox": "ENVELOPE(-95.6174,-94.8655,44.6985,44.195)",
-  "dcat_centroid": "44.44675,-95.24145",
+  "locn_geometry": "POLYGON((-95.617 44.699, -94.865 44.699, -94.865 44.195, -95.617 44.195, -95.617 44.699))",
+  "dcat_bbox": "ENVELOPE(-95.617,-94.865,44.699,44.195)",
+  "dcat_centroid": "44.447,-95.241",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -57,11 +57,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:18\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/18/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/18/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:18\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/18/manifest.json\"}",
   "id": "p16022coll231:18",
   "dct_identifier_sm": [
     "UMN_ALMA:9930461120001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

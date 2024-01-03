@@ -5,18 +5,17 @@
   "dc_title_s": "Rand, McNally & Co.'s new 11 x 14 map of Minnesota.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll247:86",
-  "solr_geom": "ENVELOPE(-97,-91,49,43.5)",
+  "solr_geom": "ENVELOPE(-97.000,-91.000,49.000,43.500)",
   "solr_year_i": "1895",
   "dc_creator_sm": [
     "Rand McNally and Company"
   ],
   "dc_description_s": "both 22 x 31 centimeters|Scale [1:2,000,000];Scale [1:2,200,000]|General Minnesota Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:86\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/86/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/86/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:86\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/86/manifest.json\"}",
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:21Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,7 +5,7 @@
   "dc_title_s": "Primary sources of construction aggregate in the Twin Cities Seven-County Metropolitan Area, Minnesota, M-102, Plate 1, north sheet",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "832bd963-154f-420d-ac75-c009faf5bb92",
-  "solr_geom": "ENVELOPE(-93.5138,-93.0186,45.4163,45.0373)",
+  "solr_geom": "ENVELOPE(-93.514,-93.019,45.416,45.037)",
   "solr_year_i": "1999",
   "dc_creator_sm": [
     "Meyer, Gary N.",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Map showing primary aggregate (crushed rock, sand and gravel) sources and potential for aggregate development in the Twin cities, seven county Metropolitan area, Minnesota, northern half of study area, scale 1:100,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22501.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1139/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1139\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22501.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1139/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1139\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1139/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:24:03Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -38,9 +38,9 @@
     "India-- Tamil Nadu--Chennai",
     "India"
   ],
-  "locn_geometry": "POLYGON((80.2653 13.0912, 80.296 13.0912, 80.296 13.0664, 80.2653 13.0664, 80.2653 13.0912))",
-  "dcat_bbox": "ENVELOPE(80.2653,80.296,13.0912,13.0664)",
-  "dcat_centroid": "13.078800000000001,80.28065000000001",
+  "locn_geometry": "POLYGON((80.265 13.091, 80.296 13.091, 80.296 13.066, 80.265 13.066, 80.265 13.091))",
+  "dcat_bbox": "ENVELOPE(80.265,80.296,13.091,13.066)",
+  "dcat_centroid": "13.0785,80.2805",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:152\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/152/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/152/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:152\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/152/manifest.json\"}",
   "id": "p16022coll246:152",
   "dct_identifier_sm": [
     "UMN_ALMA:9960097610001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

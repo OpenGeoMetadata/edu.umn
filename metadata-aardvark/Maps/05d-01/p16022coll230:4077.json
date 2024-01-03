@@ -33,9 +33,9 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "locn_geometry": "POLYGON((-88.11666667 41.75, -84.75 41.75, -84.75 37.86666667, -88.11666667 37.86666667, -88.11666667 41.75))",
-  "dcat_bbox": "ENVELOPE(-88.11666667,-84.75,41.75,37.86666667)",
-  "dcat_centroid": "39.808333335,-86.433333335",
+  "locn_geometry": "POLYGON((-88.117 41.750, -84.750 41.750, -84.750 37.867, -88.117 37.867, -88.117 41.750))",
+  "dcat_bbox": "ENVELOPE(-88.117,-84.750,41.750,37.867)",
+  "dcat_centroid": "39.808499999999995,-86.43350000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -48,11 +48,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4077\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4077/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4077/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4077\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4077/manifest.json\"}",
   "id": "p16022coll230:4077",
   "dct_identifier_sm": [
     "UMN_ALMA:9943446980001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

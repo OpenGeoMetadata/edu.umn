@@ -29,9 +29,9 @@
   "dct_spatial_sm": [
     "Venezuela (Bolivarian Republic); French Guiana; Peru; Ecuador; Argentina"
   ],
-  "locn_geometry": "POLYGON((-93.9667 13.0667, -32.5833 13.0667, -32.5833 -56.5333, -93.9667 -56.5333, -93.9667 13.0667))",
-  "dcat_bbox": "ENVELOPE(-93.9667,-32.5833,13.0667,-56.5333)",
-  "dcat_centroid": "-21.7333,-63.275000000000006",
+  "locn_geometry": "POLYGON((-93.967 13.067, -32.583 13.067, -32.583 -56.533, -93.967 -56.533, -93.967 13.067))",
+  "dcat_bbox": "ENVELOPE(-93.967,-32.583,13.067,-56.533)",
+  "dcat_centroid": "-21.733,-63.275",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -44,11 +44,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2802\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2802/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2802/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2802\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2802/manifest.json\"}",
   "id": "p16022coll230:2802",
   "dct_identifier_sm": [
     "UMN_ALMA:9914245390001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

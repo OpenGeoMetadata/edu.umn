@@ -1,28 +1,56 @@
 {
-  "geoblacklight_version": "1.0",
-  "dc_identifier_s": "bd1d7d9a-a4ef-47f0-b2ca-e17ce3403f61",
-  "dc_rights_s": "Public",
-  "dc_title_s": "Bedrock geology of Waseca County, Minnesota, M-73, Plate 3",
-  "dct_provenance_s": "University of Minnesota",
-  "layer_slug_s": "bd1d7d9a-a4ef-47f0-b2ca-e17ce3403f61",
-  "solr_geom": "ENVELOPE(-93.769,-93.4046,44.1983,43.8498)",
-  "solr_year_i": "1993",
-  "dc_creator_sm": [
+  "dct_title_s": "Bedrock geology of Waseca County, Minnesota, M-73, Plate 3",
+  "dct_description_sm": [
+    "Cross sections and structure (recognizable features produced by deformation of rocks) map of the Mt. Simon Sandstone, extending into Le Sueur and Rice Counties, scale 1:100,000; water quality-chemistry from bedrock wells, scale 1:125,000."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
     "Bloomgren, Bruce A."
   ],
-  "dc_description_s": "Cross sections and structure (recognizable features produced by deformation of rocks) map of the Mt. Simon Sandstone, extending into Le Sueur and Rice Counties, scale 1:100,000; water quality-chemistry from bedrock wells, scale 1:125,000.",
-  "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22470.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/957/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:957\"}",
+  "dct_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1993"
+  ],
+  "dct_issued_s": "1993",
+  "gbl_indexYear_im": [
+    "1993"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1993 TO 1993]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:16:49Z",
-  "dc_language_sm": [
-    "eng"
+  "locn_geometry": "POLYGON((-93.769 44.198, -93.405 44.198, -93.405 43.850, -93.769 43.850, -93.769 44.198))",
+  "dcat_bbox": "ENVELOPE(-93.769,-93.405,44.198,43.850)",
+  "dcat_centroid": "44.024,-93.587",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
-  "dc_publisher_s": "Minnesota Geological Survey",
-  "dct_issued_s": "1993",
-  "dct_temporal_sm": [
-    "1993"
-  ]
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22470.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/957/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:957\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/957/manifest.json\"}",
+  "id": "bd1d7d9a-a4ef-47f0-b2ca-e17ce3403f61",
+  "dct_identifier_sm": [
+    "bd1d7d9a-a4ef-47f0-b2ca-e17ce3403f61"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
 }

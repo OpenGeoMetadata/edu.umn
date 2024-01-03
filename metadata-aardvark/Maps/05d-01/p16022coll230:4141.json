@@ -33,9 +33,9 @@
     "South Dakota",
     "Wyoming"
   ],
-  "locn_geometry": "POLYGON((-106.0333333 44.91666667, -101.3166667 44.91666667, -101.3166667 43.06666667, -106.0333333 43.06666667, -106.0333333 44.91666667))",
-  "dcat_bbox": "ENVELOPE(-106.0333333,-101.3166667,44.91666667,43.06666667)",
-  "dcat_centroid": "43.99166667,-103.675",
+  "locn_geometry": "POLYGON((-106.033 44.917, -101.317 44.917, -101.317 43.067, -106.033 43.067, -106.033 44.917))",
+  "dcat_bbox": "ENVELOPE(-106.033,-101.317,44.917,43.067)",
+  "dcat_centroid": "43.992000000000004,-103.675",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -48,11 +48,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4141\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4141/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4141/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4141\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4141/manifest.json\"}",
   "id": "p16022coll230:4141",
   "dct_identifier_sm": [
     "UMN_ALMA:9920628340001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

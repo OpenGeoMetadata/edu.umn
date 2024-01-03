@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "Alaska"
   ],
-  "locn_geometry": "POLYGON((-137.7 58.7, -137.4472 58.7, -137.4472 58.6, -137.7 58.6, -137.7 58.7))",
-  "dcat_bbox": "ENVELOPE(-137.7,-137.4472,58.7,58.6)",
-  "dcat_centroid": "58.650000000000006,-137.5736",
+  "locn_geometry": "POLYGON((-137.700 58.700, -137.447 58.700, -137.447 58.600, -137.700 58.600, -137.700 58.700))",
+  "dcat_bbox": "ENVELOPE(-137.700,-137.447,58.700,58.600)",
+  "dcat_centroid": "58.650000000000006,-137.5735",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2507\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2507/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2507/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2507\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2507/manifest.json\"}",
   "id": "p16022coll230:2507",
   "dct_identifier_sm": [
     "UMN_ALMA:9975252909201701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -5,18 +5,17 @@
   "dc_title_s": "Geologic atlas of Pope County, Minnesota, C-15, Part B, Plate 6, Hydrogeology of the Surficial Aquifers",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "50827558-98e6-44f7-9b8d-5ad8b6edb9df",
-  "solr_geom": "ENVELOPE(-95.7594,-95.1319,45.7602,45.4122)",
+  "solr_geom": "ENVELOPE(-95.759,-95.132,45.760,45.412)",
   "solr_year_i": "2006",
   "dc_creator_sm": [
     "Berg, James A."
   ],
   "dc_description_s": "Maps showing the ground water resources and hydrolgic characteristics of unconsolidated sediments found at the surface of the landscape and water table elevation and depth to water table, scale 1:100,000, Pope County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22350.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/750/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:750\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22350.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/750/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:750\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/750/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:52Z",
   "dc_language_sm": [
     "eng"
   ],

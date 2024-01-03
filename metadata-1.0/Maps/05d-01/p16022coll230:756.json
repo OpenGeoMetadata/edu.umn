@@ -5,18 +5,17 @@
   "dc_title_s": "Sketch map of the province of British Columbia",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:756",
-  "solr_geom": "ENVELOPE(-141,-111,61,48)",
+  "solr_geom": "ENVELOPE(-141.000,-111.000,61.000,48.000)",
   "solr_year_i": "1899",
   "dc_creator_sm": [
     "British Columbia. Department of Lands and Works"
   ],
   "dc_description_s": "Originally folded to 18 x 25 cm.|47 x 52 centimeters|Scale approximately 1:3,500,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:756\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/756/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/756/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:756\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/756/manifest.json\"}",
   "dct_spatial_sm": [
     "Canada"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:25Z",
   "dc_language_sm": [
     "eng"
   ],

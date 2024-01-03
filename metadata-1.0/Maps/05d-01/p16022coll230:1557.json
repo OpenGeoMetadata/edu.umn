@@ -5,18 +5,17 @@
   "dc_title_s": "A provisional geologic and topographic map of Mississippi",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:1557",
-  "solr_geom": "ENVELOPE(-91.65,-88.0833,34.9833,30.1333)",
+  "solr_geom": "ENVELOPE(-91.650,-88.083,34.983,30.133)",
   "solr_year_i": "1907",
   "dc_creator_sm": [
     "Mississippi Geological, Economic, and Topographical Survey"
   ],
   "dc_description_s": "Relief shown by contours and hachures.|67 x 46 centimeters|Scale approximately 1:850,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1557\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1557/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/1557/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1557\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1557/manifest.json\"}",
   "dct_spatial_sm": [
     "Mississippi"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:37Z",
   "dc_language_sm": [
     "eng"
   ],

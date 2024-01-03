@@ -29,9 +29,9 @@
   "dct_spatial_sm": [
     "Jamaica"
   ],
-  "locn_geometry": "POLYGON((-78.46666667 18.9, -76.08333333 18.9, -76.08333333 17.16666667, -78.46666667 17.16666667, -78.46666667 18.9))",
-  "dcat_bbox": "ENVELOPE(-78.46666667,-76.08333333,18.9,17.16666667)",
-  "dcat_centroid": "18.033333335000002,-77.275",
+  "locn_geometry": "POLYGON((-78.467 18.900, -76.083 18.900, -76.083 17.167, -78.467 17.167, -78.467 18.900))",
+  "dcat_bbox": "ENVELOPE(-78.467,-76.083,18.900,17.167)",
+  "dcat_centroid": "18.0335,-77.275",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -44,11 +44,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4248\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4248/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4248/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4248\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4248/manifest.json\"}",
   "id": "p16022coll230:4248",
   "dct_identifier_sm": [
     "UMN_ALMA:9951795440001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

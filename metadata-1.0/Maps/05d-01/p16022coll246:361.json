@@ -5,15 +5,14 @@
   "dc_title_s": "A Map of the Peninsula of India from the 19th Degree North Latitude to Cape Comorin MDCCXCII (North Sheet)",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:361",
-  "solr_geom": "ENVELOPE(72,82.06,13.83,7.83)",
+  "solr_geom": "ENVELOPE(72.000,82.060,13.830,7.830)",
   "solr_year_i": "1800",
   "dc_description_s": "Cartographic Details: Scale approximately 1:1,341,000. 90 British Miles 69 1/2 to a Degree = 10.8 cm.|Third edition.|102 x 83 centimeters|Scale approximately 1:1,341,000; 90 British Miles 69 1/2 to a Degree = 108 centimeters|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:361\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/361/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/361/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:361\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/361/manifest.json\"}",
   "dct_spatial_sm": [
     "India"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:13Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,19 +5,18 @@
   "dc_title_s": "Stockholms hamn : Stockholm harbour, skala 1:15000",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:383",
-  "solr_geom": "ENVELOPE(18.027375,18.224855,59.3939,59.301902)",
+  "solr_geom": "ENVELOPE(18.027,18.225,59.394,59.302)",
   "solr_year_i": "1928",
   "dc_creator_sm": [
     "Sjofartsverket."
   ],
   "dc_description_s": "Cartographic Details: Scale varies (E 17°56'36\"--E 18°12'52\"/N 59°21'50\"--N 59°17'43\") In Swedish. \"\"NR 88\"\" \"\"Pris kr. 3\"\" \"\"Correct to 1928 VIII, 30IV, 31 VII\"\" Includes plan of Riddarfjärden-Strömmen, Värtahamnen, Frihamnen, Gasverkshamnen, and Hammarbyhamnen. Relief shown by soundings.|1 map on 2 sheets : color ; 75 x 123 centimeters, on sheets 75 x 61 centimeters|Scale varies|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:383\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/383/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/383/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:383\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/383/manifest.json\"}",
   "dct_spatial_sm": [
     "Sweden--Stockholm",
     "Sweden"
   ],
-  "layer_modified_dt": "2023-06-23T18:47:36Z",
   "dc_language_sm": [
     "swe"
   ],

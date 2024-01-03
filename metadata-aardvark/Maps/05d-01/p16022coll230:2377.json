@@ -30,9 +30,9 @@
     "Oregon",
     "Umpqua River"
   ],
-  "locn_geometry": "POLYGON((-123.8333333 43.7, -122.15 43.7, -122.15 43.16666667, -123.8333333 43.16666667, -123.8333333 43.7))",
-  "dcat_bbox": "ENVELOPE(-123.8333333,-122.15,43.7,43.16666667)",
-  "dcat_centroid": "43.433333335,-122.99166665000001",
+  "locn_geometry": "POLYGON((-123.833 43.700, -122.150 43.700, -122.150 43.167, -123.833 43.167, -123.833 43.700))",
+  "dcat_bbox": "ENVELOPE(-123.833,-122.150,43.700,43.167)",
+  "dcat_centroid": "43.4335,-122.9915",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,11 +45,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2377\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2377/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2377/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2377\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2377/manifest.json\"}",
   "id": "p16022coll230:2377",
   "dct_identifier_sm": [
     "UMN_ALMA:9927557950001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

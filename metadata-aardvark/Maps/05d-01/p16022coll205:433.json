@@ -38,9 +38,9 @@
   "dct_spatial_sm": [
     "Minnesota--New Ulm"
   ],
-  "locn_geometry": "POLYGON((-94.51677 44.352475, -94.41397 44.352475, -94.41397 44.275803, -94.51677 44.275803, -94.51677 44.352475))",
-  "dcat_bbox": "ENVELOPE(-94.51677,-94.41397,44.352475,44.275803)",
-  "dcat_centroid": "44.314139,-94.46537000000001",
+  "locn_geometry": "POLYGON((-94.517 44.352, -94.414 44.352, -94.414 44.276, -94.517 44.276, -94.517 44.352))",
+  "dcat_bbox": "ENVELOPE(-94.517,-94.414,44.352,44.276)",
+  "dcat_centroid": "44.314,-94.46549999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:433\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/433/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/433/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:433\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/433/manifest.json\"}",
   "id": "p16022coll205:433",
   "dct_identifier_sm": [
     "UMN_ALMA:9952734120001701"
   ],
-  "gbl_mdModified_dt": "2023-06-23T18:47:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

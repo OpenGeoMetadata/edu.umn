@@ -5,18 +5,17 @@
   "dc_title_s": "Map of the state of Alabama : compiled from the official records of the General Land Office and other sources",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:1553",
-  "solr_geom": "ENVELOPE(-88.4667,-84.8833,35.0,30.1833)",
+  "solr_geom": "ENVELOPE(-88.467,-84.883,35.000,30.183)",
   "solr_year_i": "1895",
   "dc_creator_sm": [
     "King, Harry, (Harold G. R.)"
   ],
   "dc_description_s": "Covers also part of Tennessee, Georgia, Florida, and Mississippi.; Relief shown by shading.; Prime meridians: Greenwich and Washington, D.C.|80 x 52 centimeters|Scale [1:760,000]|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1553\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1553/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/1553/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1553\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1553/manifest.json\"}",
   "dct_spatial_sm": [
     "Alabama"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:21Z",
   "dc_language_sm": [
     "eng"
   ],

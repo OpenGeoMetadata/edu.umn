@@ -43,9 +43,9 @@
   "dct_spatial_sm": [
     "Ghana"
   ],
-  "locn_geometry": "POLYGON((-4.043 0.5191, 78.5742 0.5191, 78.5742 -38.7369, -4.043 -38.7369, -4.043 0.5191))",
-  "dcat_bbox": "ENVELOPE(-4.043,78.5742,0.5191,-38.7369)",
-  "dcat_centroid": "-19.1089,37.2656",
+  "locn_geometry": "POLYGON((-4.043 0.519, 78.574 0.519, 78.574 -38.737, -4.043 -38.737, -4.043 0.519))",
+  "dcat_bbox": "ENVELOPE(-4.043,78.574,0.519,-38.737)",
+  "dcat_centroid": "-19.109,37.265499999999996",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -58,11 +58,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:366\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/366/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/366/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:366\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/366/manifest.json\"}",
   "id": "p16022coll246:366",
   "dct_identifier_sm": [
     "UMN_ALMA:9973942708101701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -5,18 +5,17 @@
   "dc_title_s": "Peat deposits of Minnesota, Bulletin 16, Plate 3",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "cf6f8768-3b46-4aea-95b3-3b05a1f022f4",
-  "solr_geom": "ENVELOPE(-94.4317,-93.0804,48.7118,47.846)",
+  "solr_geom": "ENVELOPE(-94.432,-93.080,48.712,47.846)",
   "solr_year_i": "1919",
   "dc_creator_sm": [
     "Soper, Edgar Kirke, 1886-"
   ],
   "dc_description_s": "Peat Deposits of Koochiching County Minnesota, showing locations of drainage ditches, scale 1 inch = about 4 miles.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23276.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/982/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:982\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23276.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/982/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:982\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/982/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:23:19Z",
   "dc_language_sm": [
     "eng"
   ],

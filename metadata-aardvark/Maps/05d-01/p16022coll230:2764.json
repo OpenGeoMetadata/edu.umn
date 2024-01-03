@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "Ecuador"
   ],
-  "locn_geometry": "POLYGON((-85.05 2.2, -68.65 2.2, -68.65 -20.1833, -85.05 -20.1833, -85.05 2.2))",
-  "dcat_bbox": "ENVELOPE(-85.05,-68.65,2.2,-20.1833)",
-  "dcat_centroid": "-8.99165,-76.85",
+  "locn_geometry": "POLYGON((-85.050 2.200, -68.650 2.200, -68.650 -20.183, -85.050 -20.183, -85.050 2.200))",
+  "dcat_bbox": "ENVELOPE(-85.050,-68.650,2.200,-20.183)",
+  "dcat_centroid": "-8.9915,-76.85",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2764\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2764/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2764/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2764\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2764/manifest.json\"}",
   "id": "p16022coll230:2764",
   "dct_identifier_sm": [
     "UMN_ALMA:9920711450001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

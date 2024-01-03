@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Winona County, Minnesota, C-2, Plate 5, Sinkhole Probability",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "4d5fbb13-3b78-41c1-967c-c7bb40973bca",
-  "solr_geom": "ENVELOPE(-92.0806,-91.2882,44.1948,43.8503)",
+  "solr_geom": "ENVELOPE(-92.081,-91.288,44.195,43.850)",
   "solr_year_i": "1984",
   "dc_creator_sm": [
     "Alexander, E. C., Jr.",
@@ -15,11 +15,10 @@
   ],
   "dc_description_s": "Map showing location of sinkholes and likelihood of future sinkhole development, scale 1:100,000, Winona County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22221.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/623/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:623\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22221.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/623/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:623\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/623/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:58Z",
   "dc_language_sm": [
     "eng"
   ],

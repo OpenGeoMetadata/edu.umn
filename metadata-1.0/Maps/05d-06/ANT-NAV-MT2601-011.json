@@ -5,7 +5,7 @@
   "dc_title_s": "Robertson Bay: Antarctica",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "ANT-NAV-MT2601-011",
-  "solr_geom": "ENVELOPE(171.25,167.916,-71,-71.716)",
+  "solr_geom": "ENVELOPE(171.250,167.916,-71.000,-71.716)",
   "solr_year_i": "1970",
   "dc_description_s": "Projection: WGS72 Mercator Projection; Series: United States Navy Antarctic Nautical Charts",
   "dc_format_s": "GeoTIFF",
@@ -14,7 +14,6 @@
     "Antarctica--Victoria Land",
     "Antarctica"
   ],
-  "layer_modified_dt": "2023-02-03T22:44:49Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic map of the Doyle Lake and Finland quadrangles, Lake County, Minnesota, M-72",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "93e7994c-02e8-46d5-9b01-860f8241ae73",
-  "solr_geom": "ENVELOPE(-91.8026,-91.0246,48.2049,46.9311)",
+  "solr_geom": "ENVELOPE(-91.803,-91.025,48.205,46.931)",
   "solr_year_i": "1993",
   "dc_creator_sm": [
     "Boerboom, Terrence J.",
@@ -15,11 +15,10 @@
   ],
   "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Doyle Lake and Finland quadrangles, scale 1:24,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22467.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1165/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1165\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22467.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1165/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1165\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1165/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:19:00Z",
   "dc_language_sm": [
     "eng"
   ],

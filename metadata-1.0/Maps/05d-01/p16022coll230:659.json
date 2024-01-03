@@ -5,15 +5,14 @@
   "dc_title_s": "Physical map of the Dominion of Canada",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:659",
-  "solr_geom": "ENVELOPE(-141,-52.3167,83.3333,41.6667)",
+  "solr_geom": "ENVELOPE(-141.000,-52.317,83.333,41.667)",
   "solr_year_i": "1910",
   "dc_description_s": "Relief shown by gradient tints. Depths shown by gradient tints.; In upper margin, left to right: Physical, Atlas of Canada.; Two sheets attached to single sheet of backing material.|41 x 92 centimeters, sheets 45 x 58 centimeters|Scale 1:6,336,000; 1 inch = 100 miles|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:659\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/659/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/659/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:659\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/659/manifest.json\"}",
   "dct_spatial_sm": [
     "Canada"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:42Z",
   "dc_language_sm": [
     "eng"
   ],

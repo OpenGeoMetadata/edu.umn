@@ -38,9 +38,9 @@
   "dct_spatial_sm": [
     "Michigan--Ann Arbor"
   ],
-  "locn_geometry": "POLYGON((-83.751 42.31, -83.75 42.31, -83.75 42.3, -83.751 42.3, -83.751 42.31))",
-  "dcat_bbox": "ENVELOPE(-83.751,-83.75,42.31,42.3)",
-  "dcat_centroid": "42.305,-83.7505",
+  "locn_geometry": "POLYGON((-83.75 42.31, -83.749 42.31, -83.749 42.30, -83.75 42.30, -83.75 42.31))",
+  "dcat_bbox": "ENVELOPE(-83.75,-83.749,42.31,42.30)",
+  "dcat_centroid": "42.305,-83.7495",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:342\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/342/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/342/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:342\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/342/manifest.json\"}",
   "id": "p16022coll205:342",
   "dct_identifier_sm": [
     "UMN_ALMA:9935440990001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

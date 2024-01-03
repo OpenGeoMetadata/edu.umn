@@ -42,9 +42,9 @@
     "Minnesota--Sibley County",
     "Minnesota"
   ],
-  "locn_geometry": "POLYGON((-94.6298 44.7179, -93.7638 44.7179, -93.7638 44.456, -94.6298 44.456, -94.6298 44.7179))",
-  "dcat_bbox": "ENVELOPE(-94.6298,-93.7638,44.7179,44.456)",
-  "dcat_centroid": "44.58695,-94.1968",
+  "locn_geometry": "POLYGON((-94.630 44.718, -93.764 44.718, -93.764 44.456, -94.630 44.456, -94.630 44.718))",
+  "dcat_bbox": "ENVELOPE(-94.630,-93.764,44.718,44.456)",
+  "dcat_centroid": "44.587,-94.197",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -57,11 +57,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:33\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/33/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/33/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:33\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/33/manifest.json\"}",
   "id": "p16022coll231:33",
   "dct_identifier_sm": [
     "UMN_ALMA:9930458940001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -37,9 +37,9 @@
   "dct_spatial_sm": [
     "Afghanistan"
   ],
-  "locn_geometry": "POLYGON((59.0076 38.2188, 75.0037 38.2188, 75.0037 27.8318, 59.0076 27.8318, 59.0076 38.2188))",
-  "dcat_bbox": "ENVELOPE(59.0076,75.0037,38.2188,27.8318)",
-  "dcat_centroid": "33.0253,67.00565",
+  "locn_geometry": "POLYGON((59.008 38.219, 75.004 38.219, 75.004 27.832, 59.008 27.832, 59.008 38.219))",
+  "dcat_bbox": "ENVELOPE(59.008,75.004,38.219,27.832)",
+  "dcat_centroid": "33.0255,67.006",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:282\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/282/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/282/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:282\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/282/manifest.json\"}",
   "id": "p16022coll246:282",
   "dct_identifier_sm": [
     "UMN_ALMA:9939539280001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:17Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -5,19 +5,18 @@
   "dc_title_s": "Map of Minneapolis, Hennepin Co., Minn. Plate 56, Water mains",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll245:901",
-  "solr_geom": "ENVELOPE(-93.3307,-93.2008,45.0537,44.9051)",
+  "solr_geom": "ENVELOPE(-93.331,-93.201,45.054,44.905)",
   "solr_year_i": "1898",
   "dc_creator_sm": [
     "Minneapolis (Minn.). Engineer Department"
   ],
   "dc_description_s": "Shows water mains. On verso: Plate 56. -- Water Mains. Relief shown by contours.|81 x 48 centimeters|1:24,000|Minneapolis and St. Paul Maps and Atlases",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:901\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/901/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll245/901/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:901\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/901/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota--Minneapolis",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:24Z",
   "dc_language_sm": [
     "eng"
   ],

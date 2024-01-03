@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Ramsey County, Minnesota, C-7, Plate 9, Pollution Sensitivity",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "5bb9ed58-91ac-4186-9a29-04cdad0f5b97",
-  "solr_geom": "ENVELOPE(-93.2272,-92.9838,45.1258,44.8924)",
+  "solr_geom": "ENVELOPE(-93.227,-92.984,45.126,44.892)",
   "solr_year_i": "1992",
   "dc_creator_sm": [
     "Meyer, Gary N.",
@@ -14,11 +14,10 @@
   ],
   "dc_description_s": "Map showing the susceptibility of the ground water system (bedrock and unconsolidated sediment aquifers) to contamination, scale 1:48,000, Ramsey County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22274.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/674/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:674\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22274.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/674/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:674\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/674/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:53Z",
   "dc_language_sm": [
     "eng"
   ],

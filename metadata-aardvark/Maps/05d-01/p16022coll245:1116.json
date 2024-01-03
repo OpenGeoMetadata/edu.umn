@@ -33,9 +33,9 @@
     "Minnesota--Saint Paul",
     "Minnesota"
   ],
-  "locn_geometry": "POLYGON((-93.20777778 44.99194444, -93.00416667 44.99194444, -93.00416667 44.88722222, -93.20777778 44.88722222, -93.20777778 44.99194444))",
-  "dcat_bbox": "ENVELOPE(-93.20777778,-93.00416667,44.99194444,44.88722222)",
-  "dcat_centroid": "44.93958333,-93.105972225",
+  "locn_geometry": "POLYGON((-93.208 44.992, -93.004 44.992, -93.004 44.887, -93.208 44.887, -93.208 44.992))",
+  "dcat_bbox": "ENVELOPE(-93.208,-93.004,44.992,44.887)",
+  "dcat_centroid": "44.939499999999995,-93.106",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -48,11 +48,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:1116\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/1116/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll245/1116/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:1116\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/1116/manifest.json\"}",
   "id": "p16022coll245:1116",
   "dct_identifier_sm": [
     "UMN_ALMA:9978417802201701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

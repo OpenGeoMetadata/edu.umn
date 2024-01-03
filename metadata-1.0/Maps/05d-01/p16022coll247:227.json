@@ -5,7 +5,7 @@
   "dc_title_s": "Canoe trips : America's greatest adventure",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll247:227",
-  "solr_geom": "ENVELOPE(-92.2419,-90.8509,48.5635,47.34)",
+  "solr_geom": "ENVELOPE(-92.242,-90.851,48.563,47.340)",
   "solr_year_i": "1944",
   "dc_creator_sm": [
     "Canoe Country Outfitters",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Cartographic Details: Scale approximately 1:255,000.|54 x 42 centimeters|1:255,000|General Minnesota Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:227\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/227/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/227/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:227\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/227/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:35Z",
   "dc_language_sm": [
     "eng"
   ],

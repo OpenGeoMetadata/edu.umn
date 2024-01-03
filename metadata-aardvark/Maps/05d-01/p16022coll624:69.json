@@ -9,7 +9,7 @@
     "1:50,000"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_creator_sm": [
     "United States. Soil Conservation Service"
@@ -42,9 +42,9 @@
     "Kentucky--Fayette County",
     "Kentucky"
   ],
-  "locn_geometry": "POLYGON((-84.66034 38.211449, -84.282629 38.211449, -84.282629 37.845261, -84.66034 37.845261, -84.66034 38.211449))",
-  "dcat_bbox": "ENVELOPE(-84.66034,-84.282629,38.211449,37.845261)",
-  "dcat_centroid": "38.028355000000005,-84.4714845",
+  "locn_geometry": "POLYGON((-84.660 38.211, -84.283 38.211, -84.283 37.845, -84.660 37.845, -84.660 38.211))",
+  "dcat_bbox": "ENVELOPE(-84.660,-84.283,38.211,37.845)",
+  "dcat_centroid": "38.028,-84.47149999999999",
   "pcdm_memberOf_sm": [
     "2787a9e8-0bef-452e-9e5f-e83042c193b4",
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -57,11 +57,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/69/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:69\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/69/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/69/filename/print/page/download/fparams/forcedownload\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll624/69/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:69\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/69/manifest.json\"}",
   "id": "p16022coll624:69",
   "dct_identifier_sm": [
     "UMN_ALMA:9938195240001701"
   ],
-  "gbl_mdModified_dt": "2023-06-16T21:54:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

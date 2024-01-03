@@ -35,9 +35,9 @@
     "Egypt--Nile River",
     "Egypt"
   ],
-  "locn_geometry": "POLYGON((24.6533 31.8216, 44.4727 31.8216, 44.4727 9.0912, 24.6533 9.0912, 24.6533 31.8216))",
-  "dcat_bbox": "ENVELOPE(24.6533,44.4727,31.8216,9.0912)",
-  "dcat_centroid": "20.456400000000002,34.563",
+  "locn_geometry": "POLYGON((24.653 31.822, 44.473 31.822, 44.473 9.091, 24.653 9.091, 24.653 31.822))",
+  "dcat_bbox": "ENVELOPE(24.653,44.473,31.822,9.091)",
+  "dcat_centroid": "20.4565,34.563",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,11 +50,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:319\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/319/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/319/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:319\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/319/manifest.json\"}",
   "id": "p16022coll246:319",
   "dct_identifier_sm": [
     "UMN_ALMA:9935438180001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

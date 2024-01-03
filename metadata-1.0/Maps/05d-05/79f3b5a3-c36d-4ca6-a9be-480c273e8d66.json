@@ -5,7 +5,7 @@
   "dc_title_s": "Field trip guidebook for the glacial geology of the Laurentide divide area, St Louis and Lake Counties, Minnesota, GB-18, Plate 1",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "79f3b5a3-c36d-4ca6-a9be-480c273e8d66",
-  "solr_geom": "ENVELOPE(-93.0966,-91.7893,48.63,46.6507)",
+  "solr_geom": "ENVELOPE(-93.097,-91.789,48.630,46.651)",
   "solr_year_i": "1992",
   "dc_creator_sm": [
     "Hobbs, Howard C.",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Front, Glacial Geomorphology (landforms) of the Laurentian Divide Area, St. Louis and Lake Counties, Minnesota, scale 1:250,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23369a.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1005/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1005\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23369a.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1005/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1005\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1005/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:31Z",
   "dc_language_sm": [
     "eng"
   ],

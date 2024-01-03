@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Todd County, Minnesota, C-18, Part A, Plate 4, Quaternary Stratigraphy",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "e05863ad-1e62-4414-b85c-c2964454537f",
-  "solr_geom": "ENVELOPE(-95.1563,-94.6419,46.3708,45.7744)",
+  "solr_geom": "ENVELOPE(-95.156,-94.642,46.371,45.774)",
   "solr_year_i": "2007",
   "dc_creator_sm": [
     "Knaeble, Alan R.",
@@ -14,11 +14,10 @@
   ],
   "dc_description_s": "Cross sections showing the subsurface stratigraphy and unit characteristics of unconsolidated (glacial and stream sediments) overlying the bedrock, scale 1:100,000, Todd County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22369.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/769/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:769\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22369.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/769/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:769\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/769/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:56Z",
   "dc_language_sm": [
     "eng"
   ],

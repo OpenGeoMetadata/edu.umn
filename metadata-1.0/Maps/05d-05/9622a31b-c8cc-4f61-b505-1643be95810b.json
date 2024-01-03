@@ -5,7 +5,7 @@
   "dc_title_s": "Aeromagnetic map of Minnesota, north-central region--Upper Red Lake quadrangle",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "9622a31b-c8cc-4f61-b505-1643be95810b",
-  "solr_geom": "ENVELOPE(-95.6027,-94.416,48.5423,47.4103)",
+  "solr_geom": "ENVELOPE(-95.603,-94.416,48.542,47.410)",
   "solr_year_i": "1998",
   "dc_creator_sm": [
     "Chandler, Val W.",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Total magnetic intensity anomaly, contour, scale 1:100,000.Interpretation of magnetic data collected from airborne surveys, the map contours (lines of equal magnetic intensity) indicate the distribution and concentration of magnetic minerals (primarily iron-bearing) within the upper crust of the earth.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn21115.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/610/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:610\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn21115.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/610/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:610\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/610/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:16:12Z",
   "dc_language_sm": [
     "eng"
   ],

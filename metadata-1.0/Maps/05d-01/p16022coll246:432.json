@@ -5,14 +5,14 @@
   "dc_title_s": "India quae orientalis dicitur : et insulae adiacentes",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:432",
-  "solr_geom": "ENVELOPE(68,137,38,-10)",
+  "solr_geom": "ENVELOPE(68.000,137.000,38.000,-10.000)",
   "solr_year_i": "1635",
   "dc_creator_sm": [
     "Blaeu, Willem Janszoon, 1571-1638"
   ],
   "dc_description_s": "Cartographic Details: Scale approximately 1:20,000,000 (E 68°--E 137°/N 38°--S 10°). Coat of arms at head of dedication to Lavrentio Real from Guiljelmus Blaeu. From: Toonneel des Aerdrycks. Amsterdam : Apud Guiljelmum et Iohannem Blaeu, 1635. Map of south and southeast Asia. Northern coast line of New Guinea, southern coast line of Japan and tip of northern Australia is shown. Relief is shown pictorially. Scale in Milliaria Germanica.|39.5 x 48.3 centimeters|Scale approximately 1:20,000,000|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:432\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/432/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/432/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:432\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/432/manifest.json\"}",
   "dct_spatial_sm": [
     "Indonesia",
     "Cambodia",
@@ -23,7 +23,6 @@
     "Vietnam",
     "India"
   ],
-  "layer_modified_dt": "2023-02-07T18:32:53Z",
   "dc_language_sm": [
     "lat"
   ],

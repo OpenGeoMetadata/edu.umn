@@ -5,19 +5,18 @@
   "dc_title_s": "Insurance maps of Minneapolis, Minnesota, 1912, Volume 3",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll583:348",
-  "solr_geom": "ENVELOPE(-93.329127,-93.193859,45.05125,44.89015)",
+  "solr_geom": "ENVELOPE(-93.329,-93.194,45.051,44.890)",
   "solr_year_i": "1912",
   "dc_creator_sm": [
     "Sanborn Map Company"
   ],
   "dc_description_s": "Partially hand-colored. Each volume includes a map of ward lines and district lines and a volume boundary map.  Volume 3 includes map of congested area, 200 feet to 1 inch.|v.3: sheets 231-329|70 Centimeters|Scale 1:600. 50 feet to 1 inch|City of Minneapolis Archives",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll583:348\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll583/348/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll583/348/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll583:348\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll583/348/manifest.json\"}",
   "dct_spatial_sm": [
     "Minneapolis--Minnesota",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-04-14T01:03:29Z",
   "dc_language_sm": [
     "eng"
   ],

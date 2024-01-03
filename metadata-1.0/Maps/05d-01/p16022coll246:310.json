@@ -5,7 +5,7 @@
   "dc_title_s": "Carte des Indes et de la Chine",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:310",
-  "solr_geom": "ENVELOPE(66.709,148.3154,45.4909,-10.7038)",
+  "solr_geom": "ENVELOPE(66.709,148.315,45.491,-10.704)",
   "solr_year_i": "1730",
   "dc_creator_sm": [
     "Coávens et Mortier",
@@ -13,13 +13,12 @@
   ],
   "dc_description_s": "Cartographic Details: Scale indeterminable. Map of India, China, Thailand, Indonesia and the Philippines with relief shown pictorially. Map imprint: A Amsterdam : Chez Iean C'ovens et Corneille Mortier. From: Atlas nouveau, contenant toutes les parties du monde, ou sont exactement remarquees les empires, monarchies, royaumes, estats, republiques &c / G. Delisle. Amsterdam : J. Covens & C. Mortier, 1730.|59.2 x 60.5 centimeters|Scale indeterminable.|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:310\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/310/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/310/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:310\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/310/manifest.json\"}",
   "dct_spatial_sm": [
     "Indonesia",
     "India",
     "China--People's Republic of China"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:01Z",
   "dc_language_sm": [
     "fre"
   ],

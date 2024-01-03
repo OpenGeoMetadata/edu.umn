@@ -5,18 +5,17 @@
   "dc_title_s": "Quaternary geologic map of the Minneapolis-St. Paul urban area, Minnesota, M-54",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "ca6ffbdc-5167-4698-a128-4ac1030be9d9",
-  "solr_geom": "ENVELOPE(-93.2272,-92.9838,45.1258,44.8924)",
+  "solr_geom": "ENVELOPE(-93.227,-92.984,45.126,44.892)",
   "solr_year_i": "1985",
   "dc_creator_sm": [
     "Meyer, Gary N."
   ],
   "dc_description_s": "Quaternary geology map showing interpretations of Quaternary (Pleistocene [glacial] and Holocene [post-glacial]) surficial geology (distribution and type of materials at the land surface), of the Minneapolis and St. Paul urban area, scale 1:48,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22441.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1159/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1159\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22441.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1159/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1159\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1159/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:24:11Z",
   "dc_language_sm": [
     "eng"
   ],

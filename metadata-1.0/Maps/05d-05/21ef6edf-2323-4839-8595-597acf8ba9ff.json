@@ -5,7 +5,7 @@
   "dc_title_s": "Iron ores of Minnesota, their geology, discovery, development, qualities and origin, and comparison with those of other iron districts, Bulletin 6, Plate 2",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "21ef6edf-2323-4839-8595-597acf8ba9ff",
-  "solr_geom": "ENVELOPE(-93.0966,-91.7893,48.63,46.6507)",
+  "solr_geom": "ENVELOPE(-93.097,-91.789,48.630,46.651)",
   "solr_year_i": "1891",
   "dc_creator_sm": [
     "Winchell, Horace V. (Horace Vaughn), 1865-1923",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Map showing iron mines in the Vermilion range, scale 1 inch = about 0.12 miles.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23264.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1062/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1062\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23264.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1062/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1062\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1062/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:20:00Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "Missouri"
   ],
-  "locn_geometry": "POLYGON((-95.7667 40.6, -89.0833 40.6, -89.0833 35.9833, -95.7667 35.9833, -95.7667 40.6))",
-  "dcat_bbox": "ENVELOPE(-95.7667,-89.0833,40.6,35.9833)",
-  "dcat_centroid": "38.291650000000004,-92.425",
+  "locn_geometry": "POLYGON((-95.767 40.600, -89.083 40.600, -89.083 35.983, -95.767 35.983, -95.767 40.600))",
+  "dcat_bbox": "ENVELOPE(-95.767,-89.083,40.600,35.983)",
+  "dcat_centroid": "38.2915,-92.425",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2049\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2049/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2049/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2049\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2049/manifest.json\"}",
   "id": "p16022coll230:2049",
   "dct_identifier_sm": [
     "UMN_ALMA:9921017210001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

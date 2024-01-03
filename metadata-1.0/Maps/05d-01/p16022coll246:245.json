@@ -5,14 +5,14 @@
   "dc_title_s": "Betts's new map of India, Birmah, the Punjaub and part of Afghanistan.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:245",
-  "solr_geom": "ENVELOPE(67,96,38,5)",
+  "solr_geom": "ENVELOPE(67.000,96.000,38.000,5.000)",
   "solr_year_i": "1879",
   "dc_creator_sm": [
     "Betts, John, active 1844-1864"
   ],
   "dc_description_s": "Cartographic Details: Scale approximately 1:5,000,000 ; (E 67°--E 96°/N 38°--N 5°). Relief shown by hachures. Indicates British Posessions, States Under British Protection, and Independent States. Shows roads, railroads, and telegraph lines.|66 x 74 centimeters|Scale approximately 1:5,000,000|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:245\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/245/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/245/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:245\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/245/manifest.json\"}",
   "dct_spatial_sm": [
     "India",
     "Sri Lanka",
@@ -20,7 +20,6 @@
     "Bhutan",
     "Nepal"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:58Z",
   "dc_language_sm": [
     "eng"
   ],

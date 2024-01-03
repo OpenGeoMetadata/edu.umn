@@ -5,7 +5,7 @@
   "dc_title_s": "Cape Colbeck to Cape Herlacher: Antarctica",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "ANT-NAV-MT0501-005",
-  "solr_geom": "ENVELOPE(111.13,161,-69.25,-78)",
+  "solr_geom": "ENVELOPE(111.130,161.000,-69.250,-78.000)",
   "solr_year_i": "1962",
   "dc_description_s": "Projection: WGS72 Mercator Projection; Series: Defense Mapping Agency Nautical Charts",
   "dc_format_s": "GeoTIFF",
@@ -13,7 +13,6 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "layer_modified_dt": "2023-02-03T22:43:58Z",
   "dc_language_sm": [
     "eng"
   ],

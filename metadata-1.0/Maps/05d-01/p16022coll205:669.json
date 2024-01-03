@@ -5,19 +5,18 @@
   "dc_title_s": "Route map of Seattle",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll205:669",
-  "solr_geom": "ENVELOPE(-122.4594444,-122.2241667,47.73388889,47.48083333)",
+  "solr_geom": "ENVELOPE(-122.459,-122.224,47.734,47.481)",
   "solr_year_i": "1922",
   "dc_creator_sm": [
     "Automobile Club of Western Washington"
   ],
   "dc_description_s": "Text and map of Seattle's business section on verso.; \"6-15-22.\"|38 x 54 centimeters|Scale not given.|City Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:669\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/669/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/669/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:669\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/669/manifest.json\"}",
   "dct_spatial_sm": [
     "Seattle--Washington",
     "Washington"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:13Z",
   "dc_language_sm": [
     "eng"
   ],

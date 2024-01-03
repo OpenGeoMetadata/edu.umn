@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "locn_geometry": "POLYGON((-173.2667 -60.6833, -165.2667 -60.6833, -165.2667 -84.9667, -173.2667 -84.9667, -173.2667 -60.6833))",
-  "dcat_bbox": "ENVELOPE(-173.2667,-165.2667,-60.6833,-84.9667)",
-  "dcat_centroid": "-72.825,-169.2667",
+  "locn_geometry": "POLYGON((-173.267 -60.683, -165.267 -60.683, -165.267 -84.967, -173.267 -84.967, -173.267 -60.683))",
+  "dcat_bbox": "ENVELOPE(-173.267,-165.267,-60.683,-84.967)",
+  "dcat_centroid": "-72.825,-169.267",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3876\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3876/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3876/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3876\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3876/manifest.json\"}",
   "id": "p16022coll230:3876",
   "dct_identifier_sm": [
     "UMN_ALMA:9924792150001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

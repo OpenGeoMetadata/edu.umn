@@ -5,19 +5,18 @@
   "dc_title_s": "Map of St. Paul : specially prepared for R.L. Polk & Co's city directory, 1915.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll245:981",
-  "solr_geom": "ENVELOPE(-93.2,-93,44.98,44.88)",
+  "solr_geom": "ENVELOPE(-93.200,-93.000,44.980,44.880)",
   "solr_year_i": "1915",
   "dc_creator_sm": [
     "H.M. Smyth Printing Company (Saint Paul, Minn.)"
   ],
   "dc_description_s": "65 x 90 centimeters on sheet 69 x 107 centimeters|Scale approximately 1:19,000.|Minneapolis and St. Paul Maps and Atlases",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:981\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/981/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll245/981/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:981\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/981/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota--Saint Paul",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:52Z",
   "dc_language_sm": [
     "eng"
   ],

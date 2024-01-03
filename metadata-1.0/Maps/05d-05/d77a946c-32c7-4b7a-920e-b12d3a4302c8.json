@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic map of the Long Island Lake quadrangle, Cook County, Minnesota, M-46",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "d77a946c-32c7-4b7a-920e-b12d3a4302c8",
-  "solr_geom": "ENVELOPE(-91.0311,-89.5,48.2462,47.4597)",
+  "solr_geom": "ENVELOPE(-91.031,-89.500,48.246,47.460)",
   "solr_year_i": "1977",
   "dc_creator_sm": [
     "Anderson, D.H. (Geologist)",
@@ -15,11 +15,10 @@
   ],
   "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Long Island Lake quadrangle, scale 1:24,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22425.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/817/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:817\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22425.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/817/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:817\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/817/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:19:01Z",
   "dc_language_sm": [
     "eng"
   ],

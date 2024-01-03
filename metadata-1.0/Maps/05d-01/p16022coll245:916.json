@@ -5,20 +5,19 @@
   "dc_title_s": "Plat of Minneapolis and St. Louis Park",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll245:916",
-  "solr_geom": "ENVELOPE(-93.6451,-93.1955,45.0669,44.892)",
+  "solr_geom": "ENVELOPE(-93.645,-93.195,45.067,44.892)",
   "solr_year_i": "1892",
   "dc_creator_sm": [
     "Minneapolis Land & Investment Co. (Minneapolis, Minn.)"
   ],
   "dc_description_s": "Plat information as of 1890, railroad lines as of 1892. Area shown includes western and central Hennepin Co. and the western edge of St. Paul|shows names of property owners, mainly outside the city limits.|57 x 100 centimeters|1:36,300|Minneapolis and St. Paul Maps and Atlases",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:916\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/916/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll245/916/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:916\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/916/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota--Minneapolis",
     "Minnesota--Saint Louis Park",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:19Z",
   "dc_language_sm": [
     "eng"
   ],

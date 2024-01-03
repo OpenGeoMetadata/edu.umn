@@ -5,18 +5,17 @@
   "dc_title_s": "Reconnaissance geologic map of O'Leary Lake quadrangle, St Louis County, Minnesota, M-21",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "a91c7fff-286c-4588-916d-d055ae30e086",
-  "solr_geom": "ENVELOPE(-93.0966,-91.7893,48.63,46.6507)",
+  "solr_geom": "ENVELOPE(-93.097,-91.789,48.630,46.651)",
   "solr_year_i": "1974",
   "dc_creator_sm": [
     "Viswanathan, S., Dr."
   ],
   "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the O'Leary Lake quadrangle, scale 1:24,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22400.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/793/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:793\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22400.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/793/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:793\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/793/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:24:18Z",
   "dc_language_sm": [
     "eng"
   ],

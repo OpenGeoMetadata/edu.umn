@@ -5,18 +5,17 @@
   "dc_title_s": "Geologic map of the North Shore of Lake Superior, Lake and Cook Counties, Minnesota: Part 1 Little Marais to Tofte, M-71",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "22d1914d-4bf1-4c7f-bed0-8ca4604f9079",
-  "solr_geom": "ENVELOPE(-93.0966,-91.7893,48.63,46.6507)",
+  "solr_geom": "ENVELOPE(-93.097,-91.789,48.630,46.651)",
   "solr_year_i": "1992",
   "dc_creator_sm": [
     "Green, John C., 1932-"
   ],
   "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments), North Shore of Lake Superior, scale 1:24,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22466.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/954/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:954\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22466.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/954/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:954\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/954/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:19:01Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,7 +5,7 @@
   "dc_title_s": "Schweizerland: Greenland",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "GRL-REF-MT0505-033",
-  "solr_geom": "ENVELOPE(-36,-40,68,66)",
+  "solr_geom": "ENVELOPE(-36.000,-40.000,68.000,66.000)",
   "solr_year_i": "1944",
   "dc_description_s": "Projection: Polyconic Projection; Series: AMS C401 Greenland 1:500,000 Topographic Series",
   "dc_format_s": "GeoTIFF",
@@ -13,7 +13,6 @@
   "dct_spatial_sm": [
     "Greenland"
   ],
-  "layer_modified_dt": "2023-02-03T22:44:53Z",
   "dc_language_sm": [
     "eng"
   ],

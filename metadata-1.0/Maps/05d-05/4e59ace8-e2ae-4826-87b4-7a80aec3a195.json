@@ -5,18 +5,17 @@
   "dc_title_s": "Geologic atlas of Wabasha County, Minnesota, C-14, Part B, Plate 9, Hydrogeologic Cross Sections",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "4e59ace8-e2ae-4826-87b4-7a80aec3a195",
-  "solr_geom": "ENVELOPE(-92.5517,-91.8579,44.4561,44.1087)",
+  "solr_geom": "ENVELOPE(-92.552,-91.858,44.456,44.109)",
   "solr_year_i": "2005",
   "dc_creator_sm": [
     "Peterson, Todd A."
   ],
   "dc_description_s": "Cross sections detailing how and when ground water moves through the bedrock and Quaternary (unconsolidated glacial and stream sediment overlying the bedrock) aquifers, scale mixed, Wabasha County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22343.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/743/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:743\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22343.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/743/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:743\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/743/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:57Z",
   "dc_language_sm": [
     "eng"
   ],

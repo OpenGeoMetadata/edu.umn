@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Crow Wing County, Minnesota, C-16, Part A, Plate 3, Surficial Geology",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "f93d325a-fa4e-420e-a904-c89e4beb3832",
-  "solr_geom": "ENVELOPE(-94.3944,-93.776,46.806,46.1551)",
+  "solr_geom": "ENVELOPE(-94.394,-93.776,46.806,46.155)",
   "solr_year_i": "2004",
   "dc_creator_sm": [
     "Hobbs, Howard C.",
@@ -15,11 +15,10 @@
   ],
   "dc_description_s": "Map showing interpretations of Quaternary (Pleistocene [glacial] and Holocene [post-glacial]) surficial geology (distribution and type of materials at the land surface), scale 1:100,000, Crow Wing County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22356.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/756/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:756\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22356.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/756/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:756\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/756/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:49Z",
   "dc_language_sm": [
     "eng"
   ],

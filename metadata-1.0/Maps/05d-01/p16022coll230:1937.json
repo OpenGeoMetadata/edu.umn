@@ -5,18 +5,17 @@
   "dc_title_s": "Wisconsin",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:1937",
-  "solr_geom": "ENVELOPE(-93.0,-87.0,47.0833,41.6667)",
+  "solr_geom": "ENVELOPE(-93.000,-87.000,47.083,41.667)",
   "solr_year_i": "1910",
   "dc_creator_sm": [
     "Rand McNally and Company"
   ],
   "dc_description_s": "Shows railroads, electric lines, county boundaries and cities over 5,000 population.; \"Copyright 1902 by Rand McNally & Co., copyright 1910 by Rand McNally & Co.\"; Includes index to railroads in red. Keyed in black around margin for index but no index present.|66 x 48 centimeters|Scale approximately 1:1,013,760; 1 inch = 16 miles|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1937\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1937/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/1937/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1937\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1937/manifest.json\"}",
   "dct_spatial_sm": [
     "Wisconsin"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:41Z",
   "dc_language_sm": [
     "eng"
   ],

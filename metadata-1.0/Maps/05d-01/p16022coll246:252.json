@@ -5,14 +5,14 @@
   "dc_title_s": "India",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:252",
-  "solr_geom": "ENVELOPE(68,92,38,2)",
+  "solr_geom": "ENVELOPE(68.000,92.000,38.000,2.000)",
   "solr_year_i": "1890",
   "dc_creator_sm": [
     "W. & A.K. Johnston Limited"
   ],
   "dc_description_s": "Cartographic Details: Scale 1:4,457,000 ; 700 miles to an in. (E 68°--E 92°/N 38°--N 2°). Relief shown by hachures and spot heights. Two plates mounted on linen; possibly from Keith Johnston's General Atlas. In upper right corner: 33. Date from previous call number. Contents: Insets: Calcutta and environs -- Bombay island & town -- Madras and environs -- South-easterns provinces of India.|60 x 87 centimeters|Scale 1:4,457,000; 700 miles to an inch|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:252\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/252/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/252/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:252\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/252/manifest.json\"}",
   "dct_spatial_sm": [
     "India",
     "Pakistan",
@@ -23,7 +23,6 @@
     "Sri Lanka",
     "China--People's Republic of China"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:15Z",
   "dc_language_sm": [
     "eng"
   ],

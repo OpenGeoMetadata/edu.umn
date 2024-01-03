@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "Minnesota; Wisconsin--Duluth; Superior"
   ],
-  "locn_geometry": "POLYGON((-92.3011 46.8806, -91.92 46.8806, -91.92 46.6489, -92.3011 46.6489, -92.3011 46.8806))",
-  "dcat_bbox": "ENVELOPE(-92.3011,-91.92,46.8806,46.6489)",
-  "dcat_centroid": "46.76475,-92.11055",
+  "locn_geometry": "POLYGON((-92.301 46.881, -91.920 46.881, -91.920 46.649, -92.301 46.649, -92.301 46.881))",
+  "dcat_bbox": "ENVELOPE(-92.301,-91.920,46.881,46.649)",
+  "dcat_centroid": "46.765,-92.1105",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:431\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/431/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/431/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:431\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/431/manifest.json\"}",
   "id": "p16022coll205:431",
   "dct_identifier_sm": [
     "UMN_ALMA:9939933510001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

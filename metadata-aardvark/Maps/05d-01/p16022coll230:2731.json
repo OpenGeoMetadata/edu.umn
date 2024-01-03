@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "French Guiana"
   ],
-  "locn_geometry": "POLYGON((-61.1667 7.8333, -55.9167 7.8333, -55.9167 2.5833, -61.1667 2.5833, -61.1667 7.8333))",
-  "dcat_bbox": "ENVELOPE(-61.1667,-55.9167,7.8333,2.5833)",
-  "dcat_centroid": "5.2083,-58.5417",
+  "locn_geometry": "POLYGON((-61.167 7.833, -55.917 7.833, -55.917 2.583, -61.167 2.583, -61.167 7.833))",
+  "dcat_bbox": "ENVELOPE(-61.167,-55.917,7.833,2.583)",
+  "dcat_centroid": "5.208,-58.542",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2731\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2731/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2731/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2731\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2731/manifest.json\"}",
   "id": "p16022coll230:2731",
   "dct_identifier_sm": [
     "UMN_ALMA:9938277230001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

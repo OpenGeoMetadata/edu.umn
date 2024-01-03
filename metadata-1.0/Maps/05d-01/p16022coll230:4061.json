@@ -5,19 +5,18 @@
   "dc_title_s": "Balloon view--Boston Harbor",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:4061",
-  "solr_geom": "ENVELOPE(-71.06194444,-70.95,42.36027778,42.31944444)",
+  "solr_geom": "ENVELOPE(-71.062,-70.950,42.360,42.319)",
   "solr_year_i": "1879",
   "dc_creator_sm": [
     "Rogers, F. Kimball"
   ],
   "dc_description_s": "Bird's-eye view.; Oriented with north toward the lower left.; Includes inset views: Lovell's Grove -- Tafts Hotel, Pt. Shirley -- Cohasset -- Boston Light -- Downer's Landing.|29 x 45 Centimeters|Not drawn to scale|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4061\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4061/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4061/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4061\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4061/manifest.json\"}",
   "dct_spatial_sm": [
     "Massachusetts--Boston",
     "Massachusetts"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:59Z",
   "dc_language_sm": [
     "eng"
   ],

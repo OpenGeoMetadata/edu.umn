@@ -31,9 +31,9 @@
     "India",
     "Pakistan"
   ],
-  "locn_geometry": "POLYGON((68.38333333 32.35, 164.8333333 32.35, 164.8333333 24.63333333, 68.38333333 24.63333333, 68.38333333 32.35))",
-  "dcat_bbox": "ENVELOPE(68.38333333,164.8333333,32.35,24.63333333)",
-  "dcat_centroid": "28.491666665,116.608333315",
+  "locn_geometry": "POLYGON((68.383 32.350, 164.833 32.350, 164.833 24.633, 68.383 24.633, 68.383 32.350))",
+  "dcat_bbox": "ENVELOPE(68.383,164.833,32.350,24.633)",
+  "dcat_centroid": "28.491500000000002,116.608",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -46,11 +46,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:447\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/447/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/447/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:447\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/447/manifest.json\"}",
   "id": "p16022coll246:447",
   "dct_identifier_sm": [
     "UMN_ALMA:9974347634201701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

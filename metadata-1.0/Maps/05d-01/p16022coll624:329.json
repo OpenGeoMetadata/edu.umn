@@ -5,7 +5,7 @@
   "dc_title_s": "Important farmlands : Newton County, Indiana",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll624:329",
-  "solr_geom": "ENVELOPE(-87.526696,-87.267241,41.218595,40.73651)",
+  "solr_geom": "ENVELOPE(-87.527,-87.267,41.219,40.737)",
   "solr_year_i": "1993",
   "dc_creator_sm": [
     "United States. Soil Conservation Service"
@@ -15,14 +15,13 @@
   "dc_subject_sm": [
     "Agriculture"
   ],
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/329/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:329\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/329/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/329/filename/print/page/download/fparams/forcedownload\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll624/329/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:329\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/329/manifest.json\"}",
   "dct_spatial_sm": [
     "Indiana--Newton County",
     "Indiana"
   ],
-  "layer_modified_dt": "2023-06-16T21:58:02Z",
   "dc_language_sm": [
-    "English"
+    "eng"
   ],
   "dc_publisher_s": "Dept. of Agriculture, Soil Conservation Service (Washington.)",
   "dct_issued_s": "1993"

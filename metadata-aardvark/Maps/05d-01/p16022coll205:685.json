@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "California--Eureka"
   ],
-  "locn_geometry": "POLYGON((-124.2081 40.8247, -124.0894 40.8247, -124.0894 40.7453, -124.2081 40.7453, -124.2081 40.8247))",
-  "dcat_bbox": "ENVELOPE(-124.2081,-124.0894,40.8247,40.7453)",
-  "dcat_centroid": "40.785,-124.14875",
+  "locn_geometry": "POLYGON((-124.208 40.825, -124.089 40.825, -124.089 40.745, -124.208 40.745, -124.208 40.825))",
+  "dcat_bbox": "ENVELOPE(-124.208,-124.089,40.825,40.745)",
+  "dcat_centroid": "40.785,-124.1485",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:685\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/685/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/685/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:685\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/685/manifest.json\"}",
   "id": "p16022coll205:685",
   "dct_identifier_sm": [
     "UMN_ALMA:9958107260001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

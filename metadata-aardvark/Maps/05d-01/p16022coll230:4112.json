@@ -32,8 +32,8 @@
   "dct_spatial_sm": [
     "New England"
   ],
-  "locn_geometry": "POLYGON((-74.15 47, -59.65 47, -59.65 40.55, -74.15 40.55, -74.15 47))",
-  "dcat_bbox": "ENVELOPE(-74.15,-59.65,47,40.55)",
+  "locn_geometry": "POLYGON((-74.150 47.000, -59.650 47.000, -59.650 40.550, -74.150 40.550, -74.150 47.000))",
+  "dcat_bbox": "ENVELOPE(-74.150,-59.650,47.000,40.550)",
   "dcat_centroid": "43.775,-66.9",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -47,11 +47,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4112\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4112/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4112/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4112\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4112/manifest.json\"}",
   "id": "p16022coll230:4112",
   "dct_identifier_sm": [
     "UMN_ALMA:9974797307201701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

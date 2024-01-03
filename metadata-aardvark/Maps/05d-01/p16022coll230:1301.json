@@ -35,9 +35,9 @@
     "Rhode Island",
     "Connecticut"
   ],
-  "locn_geometry": "POLYGON((-73.78333333 47.45, -66.9 47.45, -66.9 40.91666667, -73.78333333 40.91666667, -73.78333333 47.45))",
-  "dcat_bbox": "ENVELOPE(-73.78333333,-66.9,47.45,40.91666667)",
-  "dcat_centroid": "44.183333335,-70.341666665",
+  "locn_geometry": "POLYGON((-73.783 47.450, -66.900 47.450, -66.900 40.917, -73.783 40.917, -73.783 47.450))",
+  "dcat_bbox": "ENVELOPE(-73.783,-66.900,47.450,40.917)",
+  "dcat_centroid": "44.1835,-70.3415",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,11 +50,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1301\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1301/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/1301/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1301\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1301/manifest.json\"}",
   "id": "p16022coll230:1301",
   "dct_identifier_sm": [
     "UMN_ALMA:9963415450001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

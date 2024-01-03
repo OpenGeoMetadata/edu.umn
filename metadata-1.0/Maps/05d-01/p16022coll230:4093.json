@@ -5,19 +5,18 @@
   "dc_title_s": "Quebec, La Tuque sheet : portions of Champlain, Quebec, Portneuf, St. Maurice, Maskinongé, Berthier, and Joliette counties",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:4093",
-  "solr_geom": "ENVELOPE(-74,-72.5,48,46.5)",
+  "solr_geom": "ENVELOPE(-74.000,-72.500,48.000,46.500)",
   "solr_year_i": "1928",
   "dc_creator_sm": [
     "Canada. Department of the Interior"
   ],
   "dc_description_s": "Shows township concessions and lots, boundaries, railways, canals, roads, portages, and other features.|67 x 46 Centimeters|Scale 1:250,000. 3.95 miles to 1 inch|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4093\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4093/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4093/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4093\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4093/manifest.json\"}",
   "dct_spatial_sm": [
     "Canada--Quebec",
     "Canada"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:29Z",
   "dc_language_sm": [
     "eng"
   ],

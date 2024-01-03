@@ -29,9 +29,9 @@
   "dct_spatial_sm": [
     "Washington"
   ],
-  "locn_geometry": "POLYGON((-123.2833333 47.59722222, -121.2972222 47.59722222, -121.2972222 46.69722222, -123.2833333 46.69722222, -123.2833333 47.59722222))",
-  "dcat_bbox": "ENVELOPE(-123.2833333,-121.2972222,47.59722222,46.69722222)",
-  "dcat_centroid": "47.14722222,-122.29027775",
+  "locn_geometry": "POLYGON((-123.283 47.597, -121.297 47.597, -121.297 46.697, -123.283 46.697, -123.283 47.597))",
+  "dcat_bbox": "ENVELOPE(-123.283,-121.297,47.597,46.697)",
+  "dcat_centroid": "47.147000000000006,-122.28999999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -44,11 +44,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2464\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2464/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2464/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2464\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2464/manifest.json\"}",
   "id": "p16022coll230:2464",
   "dct_identifier_sm": [
     "UMN_ALMA:9973984898301701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

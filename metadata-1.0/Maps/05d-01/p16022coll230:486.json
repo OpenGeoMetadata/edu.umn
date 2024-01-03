@@ -5,19 +5,18 @@
   "dc_title_s": "America",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:486",
-  "solr_geom": "ENVELOPE(-168.43,-2,83.76,-56.8)",
+  "solr_geom": "ENVELOPE(-168.430,-2.000,83.760,-56.800)",
   "solr_year_i": "1840",
   "dc_creator_sm": [
     "Arrowsmith, John, 1790-1873"
   ],
   "dc_description_s": "Covers North and South America, the Carribean, Greenland, Iceland, and Scotland.  Relief shown by hachures.  Likely extracted from: The London atlas of universal geography, exhibiting the physical & political divisions of the various countries of the world, constructed from original materials / John Arrowsmith. London : Pub'd. by J. Arrowsmith, 1840.  Prime meridian: Greenwich.  Bar scale corrected.  \"39\"--Upper right corner.|61 x 49 centimeters|Scale approximately 1:2,644,591|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:486\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/486/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/486/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:486\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/486/manifest.json\"}",
   "dct_spatial_sm": [
     "North America",
     "South America"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:25Z",
   "dc_language_sm": [
     "eng"
   ],

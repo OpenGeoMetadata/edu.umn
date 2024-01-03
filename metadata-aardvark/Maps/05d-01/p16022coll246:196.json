@@ -32,9 +32,9 @@
     "India--Tamil Nādu",
     "India"
   ],
-  "locn_geometry": "POLYGON((76.2256 11.7056, 77.0057 11.7056, 77.0057 11.1877, 76.2256 11.1877, 76.2256 11.7056))",
-  "dcat_bbox": "ENVELOPE(76.2256,77.0057,11.7056,11.1877)",
-  "dcat_centroid": "11.44665,76.61565",
+  "locn_geometry": "POLYGON((76.226 11.706, 77.006 11.706, 77.006 11.188, 76.226 11.188, 76.226 11.706))",
+  "dcat_bbox": "ENVELOPE(76.226,77.006,11.706,11.188)",
+  "dcat_centroid": "11.447,76.616",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -47,11 +47,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:196\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/196/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/196/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:196\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/196/manifest.json\"}",
   "id": "p16022coll246:196",
   "dct_identifier_sm": [
     "UMN_ALMA:9974756301501700"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

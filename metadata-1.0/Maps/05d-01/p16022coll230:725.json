@@ -5,18 +5,17 @@
   "dc_title_s": "Watershed of the Lake of the Woods",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:725",
-  "solr_geom": "ENVELOPE(-96.5,-90,50.75,47)",
+  "solr_geom": "ENVELOPE(-96.500,-90.000,50.750,47.000)",
   "solr_year_i": "1915",
   "dc_creator_sm": [
     "International Joint Commission"
   ],
   "dc_description_s": "To accompany Report of Engineers ...; \"Engraved at the Government Department of Public Printing, Ottawa, Canada.\"|79 x 97 centimeters|Scale 1:500,000; 1 inch = 7.89 miles|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:725\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/725/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/725/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:725\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/725/manifest.json\"}",
   "dct_spatial_sm": [
     "United States; Canada"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:53Z",
   "dc_language_sm": [
     "eng"
   ],

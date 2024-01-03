@@ -5,18 +5,17 @@
   "dc_title_s": "Sveriges kommunikationers karta över Sverige",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:386",
-  "solr_geom": "ENVELOPE(10.95,48.16666667,69.05,55.33333333)",
+  "solr_geom": "ENVELOPE(10.950,48.167,69.050,55.333)",
   "solr_year_i": "1924",
   "dc_creator_sm": [
     "Generalstabens litografiska anstalt"
   ],
   "dc_description_s": "Cartographic Details: Scale 1:2,000,000. Relief shown by hachures. Insets (various scales): Trälleborg -- Skåne -- Göteborgs omgivningar -- Stockholms omgivningar -- Norrköping -- Nyköping -- Stockholm -- Gävle -- Örebro -- Eskilstuna -- Uddevalla -- Jönköping -- Göteborg --Hälsingborg -- Malmö.|1 map : color ; 78 x 38 centimeters|Scale 1:2,000,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:386\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/386/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/386/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:386\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/386/manifest.json\"}",
   "dct_spatial_sm": [
     "Sweden"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:17Z",
   "dc_language_sm": [
     "swe"
   ],

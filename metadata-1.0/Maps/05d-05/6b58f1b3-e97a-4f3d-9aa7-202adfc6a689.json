@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Hennepin County, Minnesota, C-4, Plate 7, Pollution Sensitivity",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "6b58f1b3-e97a-4f3d-9aa7-202adfc6a689",
-  "solr_geom": "ENVELOPE(-93.7702,-93.1704,45.2458,44.7874)",
+  "solr_geom": "ENVELOPE(-93.770,-93.170,45.246,44.787)",
   "solr_year_i": "1989",
   "dc_creator_sm": [
     "Balaban, Nancy",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Map showing the susceptibility of the ground water system (bedrock and unconsolidated sediment aquifers) to contamination, scale 1:100,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22240.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/648/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:648\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22240.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/648/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:648\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/648/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:51Z",
   "dc_language_sm": [
     "eng"
   ],

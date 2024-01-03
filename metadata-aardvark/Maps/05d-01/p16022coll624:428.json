@@ -8,7 +8,7 @@
     "56 x 45 centimeters"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_creator_sm": [
     "United States. Soil Conservation Service"
@@ -38,8 +38,8 @@
     "South Carolina--Pickens County",
     "South Carolina"
   ],
-  "locn_geometry": "POLYGON((-82.958333 35.1, -82.466667 35.1, -82.466667 34.6, -82.958333 34.6, -82.958333 35.1))",
-  "dcat_bbox": "ENVELOPE(-82.958333,-82.466667,35.1,34.6)",
+  "locn_geometry": "POLYGON((-82.958 35.100, -82.467 35.100, -82.467 34.600, -82.958 34.600, -82.958 35.100))",
+  "dcat_bbox": "ENVELOPE(-82.958,-82.467,35.100,34.600)",
   "dcat_centroid": "34.85,-82.7125",
   "pcdm_memberOf_sm": [
     "2787a9e8-0bef-452e-9e5f-e83042c193b4",
@@ -53,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/428/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:428\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/428/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/428/filename/print/page/download/fparams/forcedownload\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll624/428/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:428\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/428/manifest.json\"}",
   "id": "p16022coll624:428",
   "dct_identifier_sm": [
     "UMN_ALMA:9950399180001701"
   ],
-  "gbl_mdModified_dt": "2023-06-16T21:58:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

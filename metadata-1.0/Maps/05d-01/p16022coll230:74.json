@@ -5,7 +5,7 @@
   "dc_title_s": "A map of Scotland : divided into counties, shewing the principal roads, railways, rivers, canals, lochs, mountains, islands, &c",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:74",
-  "solr_geom": "ENVELOPE(-8,-2,60,54)",
+  "solr_geom": "ENVELOPE(-8.000,-2.000,60.000,54.000)",
   "solr_year_i": "1841",
   "dc_creator_sm": [
     "Carrington, F. A. (Frederic Alonzo), 1808?-1901",
@@ -15,11 +15,10 @@
   ],
   "dc_description_s": "Cartographic Details: Scale [1:316,800]. 1 in. = 5 mi. (W 8°--W 2°N 60°--N 54°).Relief shown by hachures. Illustration: View of Melrose Abbey / drawn by T. Allom, engraved by H. Griffiths.Originally published in 1 sheet (?).|color, dissected, mounted on cloth, and bound in 3 volumes ; 179 x 124 cm.; sheet|Scale [1:316,800]. 1 inch = 5 miles|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:74\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/74/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/74/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:74\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/74/manifest.json\"}",
   "dct_spatial_sm": [
     "Scotland"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:26Z",
   "dc_language_sm": [
     "eng"
   ],

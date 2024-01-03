@@ -1,28 +1,56 @@
 {
-  "geoblacklight_version": "1.0",
-  "dc_identifier_s": "430ca955-7e8e-4b6f-940a-0db278bfa10b",
-  "dc_rights_s": "Public",
-  "dc_title_s": "Geologic map of the Minneapolis quadrangle, Minnesota, SP-9, Plate 1",
-  "dct_provenance_s": "University of Minnesota",
-  "layer_slug_s": "430ca955-7e8e-4b6f-940a-0db278bfa10b",
-  "solr_geom": "ENVELOPE(-93.7702,-93.1704,45.2458,44.7874)",
-  "solr_year_i": "1970",
-  "dc_creator_sm": [
+  "dct_title_s": "Geologic map of the Minneapolis quadrangle, Minnesota, SP-9, Plate 1",
+  "dct_description_sm": [
+    "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Minneapolis Quadrangle, Minnesota, Surficial geology, scale: 1:48,000."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
     "Hogberg, Rudolph K."
   ],
-  "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Minneapolis Quadrangle, Minnesota, Surficial geology, scale: 1:48,000.",
-  "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23397.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/916/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:916\"}",
+  "dct_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "schema_provider_s": "University of Minnesota",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_theme_sm": [
+    "Environment"
+  ],
+  "dcat_keyword_sm": [
+    "Minnesota Geological Survey",
+    "2022-creator-sprint"
+  ],
+  "dct_temporal_sm": [
+    "1970"
+  ],
+  "dct_issued_s": "1970",
+  "gbl_indexYear_im": [
+    "1970"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1970 TO 1970]"
+  ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:19:01Z",
-  "dc_language_sm": [
-    "eng"
+  "locn_geometry": "POLYGON((-93.770 45.246, -93.170 45.246, -93.170 44.787, -93.770 44.787, -93.770 45.246))",
+  "dcat_bbox": "ENVELOPE(-93.770,-93.170,45.246,44.787)",
+  "dcat_centroid": "45.0165,-93.47",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
-  "dc_publisher_s": "Minnesota Geological Survey",
-  "dct_issued_s": "1970",
-  "dct_temporal_sm": [
-    "1970"
-  ]
+  "dct_isPartOf_sm": [
+    "05d-05"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23397.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/916/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:916\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/916/manifest.json\"}",
+  "id": "430ca955-7e8e-4b6f-940a-0db278bfa10b",
+  "dct_identifier_sm": [
+    "430ca955-7e8e-4b6f-940a-0db278bfa10b"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
 }

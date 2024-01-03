@@ -36,9 +36,9 @@
     "Antarctica--Antarctic Peninsula",
     "Antarctica"
   ],
-  "locn_geometry": "POLYGON((62.2083 -64.4916, 63.5416 -64.4916, 63.5416 -64.8583, 62.2083 -64.8583, 62.2083 -64.4916))",
-  "dcat_bbox": "ENVELOPE(62.2083,63.5416,-64.4916,-64.8583)",
-  "dcat_centroid": "-64.67495,62.87495",
+  "locn_geometry": "POLYGON((62.208 -64.492, 63.542 -64.492, 63.542 -64.858, 62.208 -64.858, 62.208 -64.492))",
+  "dcat_bbox": "ENVELOPE(62.208,63.542,-64.492,-64.858)",
+  "dcat_centroid": "-64.67500000000001,62.875",
   "pcdm_memberOf_sm": [
     "b0153110-e455-4ced-9114-9b13250a7093"
   ],
@@ -52,6 +52,5 @@
   "dct_identifier_sm": [
     "ANT-NAV-MT2601-007"
   ],
-  "gbl_mdModified_dt": "2023-02-03T22:44:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

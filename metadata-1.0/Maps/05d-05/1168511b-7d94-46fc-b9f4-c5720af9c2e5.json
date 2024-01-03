@@ -5,18 +5,17 @@
   "dc_title_s": "Bedrock geology of Duluth and vicinity, St Louis County, Minnesota, GM-1, Plate 1",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "1168511b-7d94-46fc-b9f4-c5720af9c2e5",
-  "solr_geom": "ENVELOPE(-92.3012,-91.9202,46.8806,46.6492)",
+  "solr_geom": "ENVELOPE(-92.301,-91.920,46.881,46.649)",
   "solr_year_i": "1964",
   "dc_creator_sm": [
     "Taylor, Richard B."
   ],
   "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of Duluth and Vicinity, St. Louis County, Minnesota, scale 1:24,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23362.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1173/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1173\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23362.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1173/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1173\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1173/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:16:47Z",
   "dc_language_sm": [
     "eng"
   ],

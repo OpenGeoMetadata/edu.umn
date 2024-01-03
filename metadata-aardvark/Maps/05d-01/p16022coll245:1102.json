@@ -34,9 +34,9 @@
     "Minnesota--Crookston",
     "Minnesota"
   ],
-  "locn_geometry": "POLYGON((-97.03333333 47.93333333, -96.38333333 47.93333333, -96.38333333 47.5, -97.03333333 47.5, -97.03333333 47.93333333))",
-  "dcat_bbox": "ENVELOPE(-97.03333333,-96.38333333,47.93333333,47.5)",
-  "dcat_centroid": "47.716666665000005,-96.70833333",
+  "locn_geometry": "POLYGON((-97.033 47.933, -96.383 47.933, -96.383 47.500, -97.033 47.500, -97.033 47.933))",
+  "dcat_bbox": "ENVELOPE(-97.033,-96.383,47.933,47.500)",
+  "dcat_centroid": "47.716499999999996,-96.708",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,11 +49,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:1102\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/1102/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll245/1102/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:1102\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/1102/manifest.json\"}",
   "id": "p16022coll245:1102",
   "dct_identifier_sm": [
     "UMN_ALMA:9978376615801701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

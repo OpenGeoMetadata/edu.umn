@@ -35,9 +35,9 @@
     "Minnesota--Duluth",
     "Minnesota"
   ],
-  "locn_geometry": "POLYGON((-92.40277778 46.92083333, -91.90416667 46.92083333, -91.90416667 46.65277778, -92.40277778 46.65277778, -92.40277778 46.92083333))",
-  "dcat_bbox": "ENVELOPE(-92.40277778,-91.90416667,46.92083333,46.65277778)",
-  "dcat_centroid": "46.786805555,-92.153472225",
+  "locn_geometry": "POLYGON((-92.403 46.921, -91.904 46.921, -91.904 46.653, -92.403 46.653, -92.403 46.921))",
+  "dcat_bbox": "ENVELOPE(-92.403,-91.904,46.921,46.653)",
+  "dcat_centroid": "46.787,-92.15350000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,11 +50,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:187\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/187/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/187/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:187\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/187/manifest.json\"}",
   "id": "p16022coll205:187",
   "dct_identifier_sm": [
     "UMN_ALMA:9945195930001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:16Z",
   "gbl_mdVersion_s": "Aardvark"
 }

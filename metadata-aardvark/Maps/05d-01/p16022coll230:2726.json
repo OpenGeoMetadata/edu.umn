@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "California"
   ],
-  "locn_geometry": "POLYGON((-119.0333 35.5, -118.9333 35.5, -118.9333 35.4167, -119.0333 35.4167, -119.0333 35.5))",
-  "dcat_bbox": "ENVELOPE(-119.0333,-118.9333,35.5,35.4167)",
-  "dcat_centroid": "35.458349999999996,-118.9833",
+  "locn_geometry": "POLYGON((-119.033 35.500, -118.933 35.500, -118.933 35.417, -119.033 35.417, -119.033 35.500))",
+  "dcat_bbox": "ENVELOPE(-119.033,-118.933,35.500,35.417)",
+  "dcat_centroid": "35.4585,-118.983",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2726\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2726/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2726/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2726\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2726/manifest.json\"}",
   "id": "p16022coll230:2726",
   "dct_identifier_sm": [
     "UMN_ALMA:9940653790001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:51Z",
   "gbl_mdVersion_s": "Aardvark"
 }

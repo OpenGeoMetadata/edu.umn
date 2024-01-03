@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "Alabama"
   ],
-  "locn_geometry": "POLYGON((-88.5 35.0, -84.8667 35.0, -84.8667 30.25, -88.5 30.25, -88.5 35.0))",
-  "dcat_bbox": "ENVELOPE(-88.5,-84.8667,35.0,30.25)",
-  "dcat_centroid": "32.625,-86.68334999999999",
+  "locn_geometry": "POLYGON((-88.500 35.000, -84.867 35.000, -84.867 30.250, -88.500 30.250, -88.500 35.000))",
+  "dcat_bbox": "ENVELOPE(-88.500,-84.867,35.000,30.250)",
+  "dcat_centroid": "32.625,-86.68350000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1506\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1506/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/1506/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1506\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1506/manifest.json\"}",
   "id": "p16022coll230:1506",
   "dct_identifier_sm": [
     "UMN_ALMA:9962563090001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

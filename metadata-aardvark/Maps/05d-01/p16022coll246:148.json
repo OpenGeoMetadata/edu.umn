@@ -38,8 +38,8 @@
     "Nepal",
     "Sri Lanka"
   ],
-  "locn_geometry": "POLYGON((68 36, 92 36, 92 6, 68 6, 68 36))",
-  "dcat_bbox": "ENVELOPE(68,92,36,6)",
+  "locn_geometry": "POLYGON((68.000 36.000, 92.000 36.000, 92.000 6.000, 68.000 6.000, 68.000 36.000))",
+  "dcat_bbox": "ENVELOPE(68.000,92.000,36.000,6.000)",
   "dcat_centroid": "21.0,80.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:148\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/148/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/148/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:148\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/148/manifest.json\"}",
   "id": "p16022coll246:148",
   "dct_identifier_sm": [
     "UMN_ALMA:9923530530001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

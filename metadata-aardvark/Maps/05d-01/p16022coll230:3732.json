@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "Africa"
   ],
-  "locn_geometry": "POLYGON((-19.75 39.3333, 54.0333 39.3333, 54.0333 0.0833, -19.75 0.0833, -19.75 39.3333))",
-  "dcat_bbox": "ENVELOPE(-19.75,54.0333,39.3333,0.0833)",
-  "dcat_centroid": "19.7083,17.14165",
+  "locn_geometry": "POLYGON((-19.750 39.333, 54.033 39.333, 54.033 0.083, -19.750 0.083, -19.750 39.333))",
+  "dcat_bbox": "ENVELOPE(-19.750,54.033,39.333,0.083)",
+  "dcat_centroid": "19.708,17.1415",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3732\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3732/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3732/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3732\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3732/manifest.json\"}",
   "id": "p16022coll230:3732",
   "dct_identifier_sm": [
     "UMN_ALMA:9947958390001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:32:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

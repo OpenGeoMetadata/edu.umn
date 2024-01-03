@@ -29,9 +29,9 @@
   "dct_spatial_sm": [
     "British Columbia--Vancouver"
   ],
-  "locn_geometry": "POLYGON((-123.45 49.3667, -122.7333 49.3667, -122.7333 48.95, -123.45 48.95, -123.45 49.3667))",
-  "dcat_bbox": "ENVELOPE(-123.45,-122.7333,49.3667,48.95)",
-  "dcat_centroid": "49.15835,-123.09165",
+  "locn_geometry": "POLYGON((-123.450 49.367, -122.733 49.367, -122.733 48.950, -123.450 48.950, -123.450 49.367))",
+  "dcat_bbox": "ENVELOPE(-123.450,-122.733,49.367,48.950)",
+  "dcat_centroid": "49.158500000000004,-123.0915",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -44,11 +44,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:439\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/439/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/439/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:439\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/439/manifest.json\"}",
   "id": "p16022coll205:439",
   "dct_identifier_sm": [
     "UMN_ALMA:9943115250001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

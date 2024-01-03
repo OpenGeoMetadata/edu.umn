@@ -4,15 +4,14 @@
   "dc_title_s": "Gray's atlas map of Minnesota",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll247:185",
-  "solr_geom": "ENVELOPE(-97.24,-90.0027,49.3895,43.3392)",
+  "solr_geom": "ENVELOPE(-97.240,-90.003,49.389,43.339)",
   "solr_year_i": "1871",
   "dc_description_s": "Atlas plates 122 and 123. Longitude west from Greenwich and Washington, D.C.|23.25 x 16.5 inches|General Minnesota Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:185\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/185/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/185/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:185\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/185/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:48Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -8,7 +8,7 @@
     "103 x 123 centimeters"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_creator_sm": [
     "United States. Soil Conservation Service"
@@ -41,9 +41,9 @@
     "West Virginia--Hampshire County",
     "West Virginia"
   ],
-  "locn_geometry": "POLYGON((-79.0 39.508333, -78.375 39.508333, -78.375 39.125, -79.0 39.125, -79.0 39.508333))",
-  "dcat_bbox": "ENVELOPE(-79.0,-78.375,39.508333,39.125)",
-  "dcat_centroid": "39.3166665,-78.6875",
+  "locn_geometry": "POLYGON((-79.000 39.508, -78.375 39.508, -78.375 39.125, -79.000 39.125, -79.000 39.508))",
+  "dcat_bbox": "ENVELOPE(-79.000,-78.375,39.508,39.125)",
+  "dcat_centroid": "39.316500000000005,-78.6875",
   "pcdm_memberOf_sm": [
     "2787a9e8-0bef-452e-9e5f-e83042c193b4",
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,11 +56,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/84/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:84\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/84/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/84/filename/print/page/download/fparams/forcedownload\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll624/84/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:84\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/84/manifest.json\"}",
   "id": "p16022coll624:84",
   "dct_identifier_sm": [
     "UMN_ALMA:9929776490001701"
   ],
-  "gbl_mdModified_dt": "2023-06-16T21:54:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

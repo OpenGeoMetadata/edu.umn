@@ -5,18 +5,17 @@
   "dc_title_s": "Surficial geology of the Two Harbors quadrangle, Lake County, Minnesota, M-138",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "5c88baf7-f3a1-4187-bf7a-e90697d99068",
-  "solr_geom": "ENVELOPE(-91.8026,-91.0246,48.2049,46.9311)",
+  "solr_geom": "ENVELOPE(-91.803,-91.025,48.205,46.931)",
   "solr_year_i": "2003",
   "dc_creator_sm": [
     "Hobbs, Howard C."
   ],
   "dc_description_s": "Quaternary geology map showing interpretations of Quaternary (Pleistocene [glacial] and Holocene [post-glacial]) surficial geology (distribution and type of materials at the land surface), of the Two Harbors quadrangle, scale 1:24,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22552.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/855/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:855\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22552.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/855/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:855\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/855/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:25:58Z",
   "dc_language_sm": [
     "eng"
   ],

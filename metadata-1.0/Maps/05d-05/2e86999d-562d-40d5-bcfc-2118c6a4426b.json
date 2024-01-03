@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Wabasha County, Minnesota, C-14, Part A, Plate 5, Karst Features",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "2e86999d-562d-40d5-bcfc-2118c6a4426b",
-  "solr_geom": "ENVELOPE(-92.5517,-91.8579,44.4561,44.1087)",
+  "solr_geom": "ENVELOPE(-92.552,-91.858,44.456,44.109)",
   "solr_year_i": "2001",
   "dc_creator_sm": [
     "Alexander, E. C., Jr.",
@@ -15,11 +15,10 @@
   ],
   "dc_description_s": "Maps showing distribution of karst (carbonate rock with caves, springs) rock units and features and karst hydrology, including springs (water emerging from the ground) and stream sinks (water sinking into the ground), in carbonate rocks susceptible to being dissolved by acidic ground water, scale 1:100000, Wabasha County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22339.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/739/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:739\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22339.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/739/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:739\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/739/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:57Z",
   "dc_language_sm": [
     "eng"
   ],

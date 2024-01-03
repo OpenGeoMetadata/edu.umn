@@ -36,9 +36,9 @@
   "dct_spatial_sm": [
     "North America"
   ],
-  "locn_geometry": "POLYGON((-100.9698 48.7996, -88.5553 48.7996, -88.5553 38.4708, -100.9698 38.4708, -100.9698 48.7996))",
-  "dcat_bbox": "ENVELOPE(-100.9698,-88.5553,48.7996,38.4708)",
-  "dcat_centroid": "43.6352,-94.76255",
+  "locn_geometry": "POLYGON((-100.970 48.800, -88.555 48.800, -88.555 38.471, -100.970 38.471, -100.970 48.800))",
+  "dcat_bbox": "ENVELOPE(-100.970,-88.555,48.800,38.471)",
+  "dcat_centroid": "43.63549999999999,-94.7625",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:315\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/315/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/315/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:315\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/315/manifest.json\"}",
   "id": "p16022coll230:315",
   "dct_identifier_sm": [
     "UMN_ALMA:9957106480001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

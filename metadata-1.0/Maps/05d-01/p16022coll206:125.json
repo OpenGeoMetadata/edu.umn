@@ -5,7 +5,7 @@
   "dc_title_s": "Map of the general government roads in the territory of Minnesota, September 1854",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll206:125",
-  "solr_geom": "ENVELOPE(-94.5099,-91.832,46.7643,44.2855)",
+  "solr_geom": "ENVELOPE(-94.510,-91.832,46.764,44.285)",
   "solr_year_i": "1854",
   "dc_creator_sm": [
     "Sewall, Joseph S. (1827-1917)",
@@ -15,11 +15,10 @@
   ],
   "dc_description_s": "Cartographic Details: Scale 1:760,320. 12 miles to one in.In: U.S. 33d Cong., 2d sess., 1854-1855. Senate ex. doc. -- no. 1, map 29. -- (Serial set ; 748).Includes table showing progress of government road construction.|46 x 32 centimeters|Scale 1:760,320. 12 miles to one inch|Minnesota Transportation Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll206:125\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll206/125/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll206/125/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll206:125\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll206/125/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:33Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,7 +5,7 @@
   "dc_title_s": "Paleoproterozoic intrusive igneous rocks of southeastern Stearns County, central Minnesota, RI-56, Plate 1",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "1b2d3d22-7228-4bfe-bc40-bf523ca15f69",
-  "solr_geom": "ENVELOPE(-95.1398,-94.0463,45.777,45.2836)",
+  "solr_geom": "ENVELOPE(-95.140,-94.046,45.777,45.284)",
   "solr_year_i": "2000",
   "dc_creator_sm": [
     "Boerboom, Terrence J.",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of Waite Park Area, St. Cloud District, Stearns County, Minnesota, scale 1:24,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23389.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1084/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1084\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23389.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1084/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1084\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1084/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:23:08Z",
   "dc_language_sm": [
     "eng"
   ],

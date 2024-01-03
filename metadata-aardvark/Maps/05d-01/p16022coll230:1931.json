@@ -36,8 +36,8 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-89.3167 48.2333, -88.3333 48.2333, -88.3333 47.8167, -89.3167 47.8167, -89.3167 48.2333))",
-  "dcat_bbox": "ENVELOPE(-89.3167,-88.3333,48.2333,47.8167)",
+  "locn_geometry": "POLYGON((-89.317 48.233, -88.333 48.233, -88.333 47.817, -89.317 47.817, -89.317 48.233))",
+  "dcat_bbox": "ENVELOPE(-89.317,-88.333,48.233,47.817)",
   "dcat_centroid": "48.025,-88.82499999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -51,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1931\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1931/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/1931/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1931\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1931/manifest.json\"}",
   "id": "p16022coll230:1931",
   "dct_identifier_sm": [
     "UMN_ALMA:9923737670001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

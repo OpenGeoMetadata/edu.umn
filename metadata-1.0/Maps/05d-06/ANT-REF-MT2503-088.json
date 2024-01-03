@@ -5,7 +5,7 @@
   "dc_title_s": "Jones Mountains: Antarctica",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "ANT-REF-MT2503-088",
-  "solr_geom": "ENVELOPE(90,95,-73,-74)",
+  "solr_geom": "ENVELOPE(90.000,95.000,-73.000,-74.000)",
   "solr_year_i": "2000",
   "dc_description_s": "Projection: Lambert Conformal Conic Projection: Standard Parallels -73º10' and -73º50'; Series: USGS 1:250,000 Topographic Reconnaissance Series",
   "dc_format_s": "GeoTIFF",
@@ -13,7 +13,6 @@
   "dct_spatial_sm": [
     "Antarctica"
   ],
-  "layer_modified_dt": "2023-02-03T22:44:19Z",
   "dc_language_sm": [
     "eng"
   ],

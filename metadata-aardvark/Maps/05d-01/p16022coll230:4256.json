@@ -29,9 +29,9 @@
   "dct_spatial_sm": [
     "Luxembourg"
   ],
-  "locn_geometry": "POLYGON((5.733333333 50.16666667, 12.51666667 50.16666667, 12.51666667 49.43333333, 5.733333333 49.43333333, 5.733333333 50.16666667))",
-  "dcat_bbox": "ENVELOPE(5.733333333,12.51666667,50.16666667,49.43333333)",
-  "dcat_centroid": "49.8,9.1250000015",
+  "locn_geometry": "POLYGON((5.733 50.167, 12.517 50.167, 12.517 49.433, 5.733 49.433, 5.733 50.167))",
+  "dcat_bbox": "ENVELOPE(5.733,12.517,50.167,49.433)",
+  "dcat_centroid": "49.8,9.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -44,11 +44,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4256\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4256/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4256/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4256\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4256/manifest.json\"}",
   "id": "p16022coll230:4256",
   "dct_identifier_sm": [
     "UMN_ALMA:9978507365501701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:35:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

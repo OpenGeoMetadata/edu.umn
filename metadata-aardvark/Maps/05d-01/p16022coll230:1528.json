@@ -29,9 +29,9 @@
   "dct_spatial_sm": [
     "Kentucky"
   ],
-  "locn_geometry": "POLYGON((-91.8333 39.8333, -74.8333 39.8333, -74.8333 32.8333, -91.8333 32.8333, -91.8333 39.8333))",
-  "dcat_bbox": "ENVELOPE(-91.8333,-74.8333,39.8333,32.8333)",
-  "dcat_centroid": "36.3333,-83.3333",
+  "locn_geometry": "POLYGON((-91.833 39.833, -74.833 39.833, -74.833 32.833, -91.833 32.833, -91.833 39.833))",
+  "dcat_bbox": "ENVELOPE(-91.833,-74.833,39.833,32.833)",
+  "dcat_centroid": "36.333,-83.333",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -44,11 +44,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1528\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1528/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/1528/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1528\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1528/manifest.json\"}",
   "id": "p16022coll230:1528",
   "dct_identifier_sm": [
     "UMN_ALMA:9916474800001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

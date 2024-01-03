@@ -5,18 +5,17 @@
   "dc_title_s": "Bedrock geologic map, Minneapolis, St. Paul vicinity, M-1",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "887bb2ae-021f-48ed-ab82-8942e26a799d",
-  "solr_geom": "ENVELOPE(-93.7702,-93.1704,45.2458,44.7874)",
+  "solr_geom": "ENVELOPE(-93.770,-93.170,45.246,44.787)",
   "solr_year_i": "1965",
   "dc_creator_sm": [
     "Payne, C. M."
   ],
   "dc_description_s": "Map showing interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) in the area of Minneapolis-St. Paul, scale 1:24,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22379.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1099/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1099\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22379.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1099/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1099\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1099/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:16:46Z",
   "dc_language_sm": [
     "eng"
   ],

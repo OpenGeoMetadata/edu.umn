@@ -5,18 +5,17 @@
   "dc_title_s": "Quaternary geology-Southern Red River Valley, Minnesota, RHA-3, Part B, Plate 2",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "bc6e4cfc-c824-45c3-995c-01a4998b1a61",
-  "solr_geom": "ENVELOPE(-96.8689,-96.0679,47.5013,47.1519)",
+  "solr_geom": "ENVELOPE(-96.869,-96.068,47.501,47.152)",
   "solr_year_i": "2000",
   "dc_creator_sm": [
     "Falteisek, Jan"
   ],
   "dc_description_s": "Pollution sensitivity of Quaternary (glacial and stream sediment) aquifers, southern Red River Valley, Minnesota, scale 1:200,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22607.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1115/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1115\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22607.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1115/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1115\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1115/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:24:12Z",
   "dc_language_sm": [
     "eng"
   ],

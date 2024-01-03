@@ -41,8 +41,8 @@
   "dct_spatial_sm": [
     "Sri Lanka"
   ],
-  "locn_geometry": "POLYGON((77.98 11, 82.06 11, 82.06 5.71, 77.98 5.71, 77.98 11))",
-  "dcat_bbox": "ENVELOPE(77.98,82.06,11,5.71)",
+  "locn_geometry": "POLYGON((77.980 11.000, 82.060 11.000, 82.060 5.710, 77.980 5.710, 77.980 11.000))",
+  "dcat_bbox": "ENVELOPE(77.980,82.060,11.000,5.710)",
   "dcat_centroid": "8.355,80.02000000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,11 +56,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:237\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/237/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/237/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:237\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/237/manifest.json\"}",
   "id": "p16022coll246:237",
   "dct_identifier_sm": [
     "UMN_ALMA:9973944605201701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:32:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

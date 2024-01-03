@@ -5,7 +5,7 @@
   "dc_title_s": "India (North Sheet)",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:228",
-  "solr_geom": "ENVELOPE(67,94,37,4)",
+  "solr_geom": "ENVELOPE(67.000,94.000,37.000,4.000)",
   "solr_year_i": "1875",
   "dc_creator_sm": [
     "Adam and Charles Black (Firm)",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Cartographic Details: Scale approximately 1:4,750,000 (E 67°--E 94°/N 37°--N 4°). Relief shown by hachures. In margin of north sheet: 32. Date from previous call number.|44 x 61 centimeters|Scale approximately 1:4,750,000|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:228\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/228/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/228/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:228\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/228/manifest.json\"}",
   "dct_spatial_sm": [
     "India"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:53Z",
   "dc_language_sm": [
     "eng"
   ],

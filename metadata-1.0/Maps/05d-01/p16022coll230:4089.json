@@ -5,20 +5,19 @@
   "dc_title_s": "Proposed Great Smoky Mountains national park, North Carolina-Tennessee",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:4089",
-  "solr_geom": "ENVELOPE(-84,-83,36,35.33333333)",
+  "solr_geom": "ENVELOPE(-84.000,-83.000,36.000,35.333)",
   "solr_year_i": "1926",
   "dc_creator_sm": [
     "Geological Survey (U.S.)"
   ],
   "dc_description_s": "Relief shown by contours.|60 x 73 Centimeters|Scale 1:125,000 ;|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4089\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4089/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4089/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4089\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4089/manifest.json\"}",
   "dct_spatial_sm": [
     "Tennessee--North Carolina",
     "Tennessee",
     "Great Smoky Mountains National Park"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:23Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,18 +5,17 @@
   "dc_title_s": "Simple Bouguer gravity map of Minnesota, Hibbing sheet, M-3",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "36754d42-44c6-44e2-a828-cb7a4edc3c5a",
-  "solr_geom": "ENVELOPE(-93.0696,-92.8063,47.5444,47.2826)",
+  "solr_geom": "ENVELOPE(-93.070,-92.806,47.544,47.283)",
   "solr_year_i": "1968",
   "dc_creator_sm": [
     "Ikola, R.J."
   ],
   "dc_description_s": "Bouguer gravity anomaly map (anomaly related to different densities of rocks in the upper crust, Bouguer anomaly is a corrected difference between an observed gravity measurement and value predicted from a generalized earth model), shown as contour lines (isolines) of equal value, Hibbing quadrangle, scale 1:250,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22381.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/833/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:833\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22381.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/833/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:833\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/833/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:25:04Z",
   "dc_language_sm": [
     "eng"
   ],

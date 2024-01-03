@@ -5,21 +5,20 @@
   "dc_title_s": "Map of the Gadsden Purchase : Sonora and portions of New Mexico, Chihuaua & California",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:2486",
-  "solr_geom": "ENVELOPE(-119,-106,34,23)",
+  "solr_geom": "ENVELOPE(-119.000,-106.000,34.000,23.000)",
   "solr_year_i": "1858",
   "dc_creator_sm": [
     "Ehrenberg, Herman, 1816-1866"
   ],
   "dc_description_s": "Relief shown by hachures.|44 x 43 centimeters|Scale approximately 1:2,534,400|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2486\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2486/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2486/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2486\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2486/manifest.json\"}",
   "dct_spatial_sm": [
     "New Mexico",
     "Chihuahua",
     "California",
     "Mexico"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:40Z",
   "dc_language_sm": [
     "eng"
   ],

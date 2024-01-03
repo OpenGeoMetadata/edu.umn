@@ -5,18 +5,17 @@
   "dc_title_s": "Carte régionale de la Province de Québec : comprenant les comtés de St. Maurice, Maskinongé, Berthier, Joliette, Montcalm, L'Assomption, Jacques-Cartier, Hochelaga, Laval, Terrebonne, Soulanges, Vaudreuil, Deux-Montagnes, Argenteuil et Ottawa",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:678",
-  "solr_geom": "ENVELOPE(-76.5,-72.5,47,45)",
+  "solr_geom": "ENVELOPE(-76.500,-72.500,47.000,45.000)",
   "solr_year_i": "1894",
   "dc_creator_sm": [
     "Gauvin, C.-E"
   ],
   "dc_description_s": "Limites de comté ; Routes ; Chemins de fer ; Cadastre ; Ponts ; Chenal ; Hydrographie.|Names of counties and townships indicated.|78 x 113 centimeters|Scale 1:253,440|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:678\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/678/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/678/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:678\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/678/manifest.json\"}",
   "dct_spatial_sm": [
     "Canada"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:19Z",
   "dc_language_sm": [
     "fre"
   ],

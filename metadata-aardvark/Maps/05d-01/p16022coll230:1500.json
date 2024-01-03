@@ -29,9 +29,9 @@
   "dct_spatial_sm": [
     "Florida"
   ],
-  "locn_geometry": "POLYGON((-87.6667 31.0833, -79.75 31.0833, -79.75 24.3333, -87.6667 24.3333, -87.6667 31.0833))",
-  "dcat_bbox": "ENVELOPE(-87.6667,-79.75,31.0833,24.3333)",
-  "dcat_centroid": "27.7083,-83.70835",
+  "locn_geometry": "POLYGON((-87.667 31.083, -79.750 31.083, -79.750 24.333, -87.667 24.333, -87.667 31.083))",
+  "dcat_bbox": "ENVELOPE(-87.667,-79.750,31.083,24.333)",
+  "dcat_centroid": "27.708,-83.7085",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -44,11 +44,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1500\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1500/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/1500/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1500\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1500/manifest.json\"}",
   "id": "p16022coll230:1500",
   "dct_identifier_sm": [
     "UMN_ALMA:9973986408401701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:34:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

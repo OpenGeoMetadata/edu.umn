@@ -41,8 +41,8 @@
   "dct_spatial_sm": [
     "Poland"
   ],
-  "locn_geometry": "POLYGON((14 58, 34 58, 34 47, 14 47, 14 58))",
-  "dcat_bbox": "ENVELOPE(14,34,58,47)",
+  "locn_geometry": "POLYGON((14.000 58.000, 34.000 58.000, 34.000 47.000, 14.000 47.000, 14.000 58.000))",
+  "dcat_bbox": "ENVELOPE(14.000,34.000,58.000,47.000)",
   "dcat_centroid": "52.5,24.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,11 +56,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:555\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/555/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/555/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:555\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/555/manifest.json\"}",
   "id": "p16022coll230:555",
   "dct_identifier_sm": [
     "UMN_ALMA:9956434860001701"
   ],
-  "gbl_mdModified_dt": "2023-02-07T18:33:17Z",
   "gbl_mdVersion_s": "Aardvark"
 }

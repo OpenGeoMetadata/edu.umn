@@ -5,7 +5,7 @@
   "dc_title_s": "Lineament map, International Falls sheet, Minnesota, M-47",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "060137c8-afc0-4305-bb4c-29d0ba19542d",
-  "solr_geom": "ENVELOPE(-94.4317,-93.0804,48.7118,47.846)",
+  "solr_geom": "ENVELOPE(-94.432,-93.080,48.712,47.846)",
   "solr_year_i": "1977",
   "dc_creator_sm": [
     "Heutmaker, J.F.",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Map showing linear features, (lineaments) on the International Falls quadrangle, scale 1:250,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22426.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/818/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:818\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22426.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/818/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:818\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/818/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:20:32Z",
   "dc_language_sm": [
     "eng"
   ],

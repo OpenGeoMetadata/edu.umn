@@ -5,19 +5,18 @@
   "dc_title_s": "Map of the City of Watertown, N.Y.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll205:483",
-  "solr_geom": "ENVELOPE(-75.948818,-75.854118,43.995932,43.948861)",
+  "solr_geom": "ENVELOPE(-75.949,-75.854,43.996,43.949)",
   "solr_year_i": "1929",
   "dc_creator_sm": [
     "Sutton, Paul B"
   ],
   "dc_description_s": "Shows radial distances.; Oriented with north to the upper left.|35 x 47 centimeters|Scale [1:14,100]|City Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:483\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/483/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/483/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:483\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/483/manifest.json\"}",
   "dct_spatial_sm": [
     "New York--Watertown",
     "New York"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:32Z",
   "dc_language_sm": [
     "eng"
   ],

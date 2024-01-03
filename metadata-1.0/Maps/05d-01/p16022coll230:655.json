@@ -5,18 +5,17 @@
   "dc_title_s": "United States, showing principal meridians, base lines, and areas governed thereby",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:655",
-  "solr_geom": "ENVELOPE(-125,-65,47,23)",
+  "solr_geom": "ENVELOPE(-125.000,-65.000,47.000,23.000)",
   "solr_year_i": "1915",
   "dc_creator_sm": [
     "United States. General Land Office"
   ],
   "dc_description_s": "Includes inset of Alaska.|40 x 61 centimeters, on sheet 49 x 69 centimeters|Scale approximately 1:7,700,000|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:655\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/655/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/655/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:655\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/655/manifest.json\"}",
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:52Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,18 +5,17 @@
   "dc_title_s": "Official highway map of the state of Vermont",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:4092",
-  "solr_geom": "ENVELOPE(-73.5,-71.5,45.25,42.66666667)",
+  "solr_geom": "ENVELOPE(-73.500,-71.500,45.250,42.667)",
   "solr_year_i": "1924",
   "dc_creator_sm": [
     "Vermont. Department of Highways"
   ],
   "dc_description_s": "Relief shown by hachures and spot heights.; \"Manufactured by the National Survey, Chester, Vt.\"; \"Copyright 1924 bt Aaron H. Grout, Secretary of State for the State of Vermont.\"|107 x 65 centimeters|Scale [1:253,440] 1 inch = 4 miles|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4092\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4092/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/4092/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:4092\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/4092/manifest.json\"}",
   "dct_spatial_sm": [
     "Vermont"
   ],
-  "layer_modified_dt": "2023-02-07T18:35:18Z",
   "dc_language_sm": [
     "eng"
   ],

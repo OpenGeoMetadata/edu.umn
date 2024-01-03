@@ -5,18 +5,17 @@
   "dc_title_s": "Aeromagnetic map of Minnesota, Cook and Lake counties, Plate 2",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "edb2463b-423f-40a7-beac-8eacd6709142",
-  "solr_geom": "ENVELOPE(-91.0311,-89.5,48.2462,47.4597)",
+  "solr_geom": "ENVELOPE(-91.031,-89.500,48.246,47.460)",
   "solr_year_i": "1983",
   "dc_creator_sm": [
     "Chandler, Val W."
   ],
   "dc_description_s": "Total magnetic intensity anomaly, contour, scale 1:250,000. Interpretation of magnetic data collected from airborne surveys, the map contours (lines of equal magnetic intensity) indicate the distribution and concentration of magnetic minerals (primarily iron-bearing) within the upper crust of the earth.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn21093.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/635/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:635\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn21093.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/635/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:635\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/635/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:16:12Z",
   "dc_language_sm": [
     "eng"
   ],

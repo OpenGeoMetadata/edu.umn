@@ -5,18 +5,17 @@
   "dc_title_s": "Map of Boston for 1889.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll205:309",
-  "solr_geom": "ENVELOPE(-71.18,-70.8,42.3801,42.2101)",
+  "solr_geom": "ENVELOPE(-71.180,-70.800,42.380,42.210)",
   "solr_year_i": "1889",
   "dc_creator_sm": [
     "Sampson, Murdock & Co."
   ],
   "dc_description_s": "Covers also parts of adjacent towns and cities, including all of Cambridge, Somerville, and Brookline.  \"Published expressly for the Boston directory.\"  \"Forbes Co.\"  Shows radial distances from City Hall.|82 x 68 centimeters|Scale [1:19,800]|City Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:309\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/309/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/309/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:309\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/309/manifest.json\"}",
   "dct_spatial_sm": [
     "Massachusetts--Boston"
   ],
-  "layer_modified_dt": "2023-02-07T18:34:14Z",
   "dc_language_sm": [
     "eng"
   ],

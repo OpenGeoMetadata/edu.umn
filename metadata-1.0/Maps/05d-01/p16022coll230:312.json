@@ -5,7 +5,7 @@
   "dc_title_s": "Johnston's plan of Edinburgh & Leith in 1851",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll230:312",
-  "solr_geom": "ENVELOPE(-3.2343,-3.1335,55.9967,55.919)",
+  "solr_geom": "ENVELOPE(-3.234,-3.134,55.997,55.919)",
   "solr_year_i": "1851",
   "dc_creator_sm": [
     "Lancefield, Alfred",
@@ -13,13 +13,12 @@
   ],
   "dc_description_s": "Cartographic Details: Scale 1:4,873 ; approximately 13 in. to a mile. Manuscript additions showing boundaries, and property belonging to Heriot's Hospital.|1 map : color ; 124 x 160 cm.|Scale 1:4,873 ; approximately 13 inch to a miles|General Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:312\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/312/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/312/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:312\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/312/manifest.json\"}",
   "dct_spatial_sm": [
     "Scotland-- United Kingdom--Edinburgh",
     "Scotland-- United Kingdom--Leith",
     "United Kingdom"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:31Z",
   "dc_language_sm": [
     "eng"
   ],

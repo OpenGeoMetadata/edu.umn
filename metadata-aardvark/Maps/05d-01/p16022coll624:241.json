@@ -8,7 +8,7 @@
     "49 x 64 centimeters"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_creator_sm": [
     "United States. Soil Conservation Service"
@@ -38,9 +38,9 @@
     "Oregon--Josephine County",
     "Oregon"
   ],
-  "locn_geometry": "POLYGON((-124.0 42.333333, -123.333333 42.333333, -123.333333 42.0, -124.0 42.0, -124.0 42.333333))",
-  "dcat_bbox": "ENVELOPE(-124.0,-123.333333,42.333333,42.0)",
-  "dcat_centroid": "42.166666500000005,-123.66666649999999",
+  "locn_geometry": "POLYGON((-124.000 42.333, -123.333 42.333, -123.333 42.000, -124.000 42.000, -124.000 42.333))",
+  "dcat_bbox": "ENVELOPE(-124.000,-123.333,42.333,42.000)",
+  "dcat_centroid": "42.1665,-123.6665",
   "pcdm_memberOf_sm": [
     "2787a9e8-0bef-452e-9e5f-e83042c193b4",
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/241/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:241\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/241/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/241/filename/print/page/download/fparams/forcedownload\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll624/241/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:241\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/241/manifest.json\"}",
   "id": "p16022coll624:241",
   "dct_identifier_sm": [
     "UMN_ALMA:9966084640001701"
   ],
-  "gbl_mdModified_dt": "2023-06-16T21:58:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -5,18 +5,17 @@
   "dc_title_s": "Geology of the Minneapolis-St. Paul metropolitan area, Bulletin 27, Plate 5",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "26e534e2-7406-4595-9b96-c0ba400b3b0b",
-  "solr_geom": "ENVELOPE(-93.7702,-93.1704,45.2458,44.7874)",
+  "solr_geom": "ENVELOPE(-93.770,-93.170,45.246,44.787)",
   "solr_year_i": "1936",
   "dc_creator_sm": [
     "Schwartz, George M. (George Melvin), 1892-1980"
   ],
   "dc_description_s": "Structural Contour (contour lines of equal elevation that map features in the subsurface produced by rock deformation or erosion), map of the Minneapolis-St. Paul Artesian Basin, scale 1 inch = about 4 miles.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23285.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1018/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1018\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23285.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1018/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1018\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1018/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:19:08Z",
   "dc_language_sm": [
     "eng"
   ],

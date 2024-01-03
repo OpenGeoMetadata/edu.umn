@@ -5,7 +5,7 @@
   "dc_title_s": "Precambrian geology and geochronology of Minnesota, Bulletin 41, Plate 5",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "a6578cb1-3368-4c98-8567-3a4708552382",
-  "solr_geom": "ENVELOPE(-96.0372,-95.2456,45.1537,44.7531)",
+  "solr_geom": "ENVELOPE(-96.037,-95.246,45.154,44.753)",
   "solr_year_i": "1961",
   "dc_creator_sm": [
     "Baadsgaard, Halfdan",
@@ -16,11 +16,10 @@
   ],
   "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Granite Falls area, Minnesota, showing locations of dated samples, scale 1 inch = about 1/4 mile.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23358.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1058/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1058\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn23358.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/1058/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:1058\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/1058/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:23:59Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,18 +5,17 @@
   "dc_title_s": "Bedrock geology of the Babbitt Southeast quadrangle, St Louis and Lake Counties, Minnesota, M-162",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "a439cbfc-fffb-47cf-a91b-8bf45c36aa3e",
-  "solr_geom": "ENVELOPE(-93.0966,-91.7893,48.63,46.6507)",
+  "solr_geom": "ENVELOPE(-93.097,-91.789,48.630,46.651)",
   "solr_year_i": "2005",
   "dc_creator_sm": [
     "Miller, James D., Jr."
   ],
   "dc_description_s": "Interpretations of bedrock geology (distribution of rock at the land surface and beneath surface sediments) of the Babbitt SE quadrangle, scale 1:24,000.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22580.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/881/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:881\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22580.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/881/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:881\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/881/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:16:47Z",
   "dc_language_sm": [
     "eng"
   ],

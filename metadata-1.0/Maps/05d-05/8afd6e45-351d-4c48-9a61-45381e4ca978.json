@@ -5,7 +5,7 @@
   "dc_title_s": "Geologic atlas of Crow Wing County, Minnesota, C-16, Part A, Plate 5, Bedrock Topography, Depth to Bedrock and Quaternary Subsurface Geology",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "8afd6e45-351d-4c48-9a61-45381e4ca978",
-  "solr_geom": "ENVELOPE(-94.3944,-93.776,46.806,46.1551)",
+  "solr_geom": "ENVELOPE(-94.394,-93.776,46.806,46.155)",
   "solr_year_i": "2004",
   "dc_creator_sm": [
     "Meyer, Gary N.",
@@ -13,11 +13,10 @@
   ],
   "dc_description_s": "Map showing the thickness (depth to bedrock) of unconsolidated sediments (Quaternary glacial and stream materials) over the bedrock surface and elevation of the bedrock surface (bedrock topography), scale 1:200,000; Crow Wing County.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22358.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/758/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:758\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22358.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/758/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:758\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/758/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:18:49Z",
   "dc_language_sm": [
     "eng"
   ],

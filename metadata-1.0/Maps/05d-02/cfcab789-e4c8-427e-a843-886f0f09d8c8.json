@@ -5,19 +5,18 @@
   "dc_title_s": "Map of Hampden Township: Township 162 N, Range 49 W of the 5th PM.",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "cfcab789-e4c8-427e-a843-886f0f09d8c8",
-  "solr_geom": "ENVELOPE(-97.2393,-96.387,49.0005,48.5438)",
+  "solr_geom": "ENVELOPE(-97.239,-96.387,49.001,48.544)",
   "solr_year_i": "1912",
   "dc_creator_sm": [
     "Geo. A. Ogle & Company"
   ],
   "dc_description_s": "Page 39: Standard atlas of Kittson County, Minnesota, 1912",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2003/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/193089\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2003/info.json\",\"http://schema.org/url\":\"http://purl.umn.edu/193089\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/2003/manifest.json\"}",
   "dct_spatial_sm": [
     "Minnesota--Kittson County",
     "Minnesota"
   ],
-  "layer_modified_dt": "2023-02-03T21:27:04Z",
   "dc_language_sm": [
     "eng"
   ],

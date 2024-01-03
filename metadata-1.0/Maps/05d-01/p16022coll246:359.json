@@ -5,7 +5,7 @@
   "dc_title_s": "Sketch map of the Upper Meranzai and Koorum valleys",
   "dct_provenance_s": "University of Minnesota",
   "layer_slug_s": "p16022coll246:359",
-  "solr_geom": "ENVELOPE(69.8501,70.7801,34.0301,33.33)",
+  "solr_geom": "ENVELOPE(69.850,70.780,34.030,33.330)",
   "solr_year_i": "1857",
   "dc_creator_sm": [
     "Godwin-Austen, Henry Haversham, 1834-1923",
@@ -14,12 +14,11 @@
   ],
   "dc_description_s": "Cartographic Details: Scale 1:126,720. 1/2 inch to one mile ; (E 69°51'38\"--E 70°47'40\"/N 34°02'55\"--N 33°20'05\"). Relief shown by stipling.\"Compiled from a military reconnaissance made in 1855-1856.\"\"Letters, rivers & water courses on transfer paper by Munneeroddeen - hills & stipling on stone and printed in colors by H.M. Smith, Survr. Genls Office, Calcutta, March 1857.\"|65 x 88 centimeters|Scale 1:126,720; 1/2 inch to one mile|Ames Library of South Asia Maps",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:359\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/359/manifest.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/359/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll246:359\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/359/manifest.json\"}",
   "dct_spatial_sm": [
     "India",
     "Pakistan"
   ],
-  "layer_modified_dt": "2023-02-07T18:33:38Z",
   "dc_language_sm": [
     "eng"
   ],

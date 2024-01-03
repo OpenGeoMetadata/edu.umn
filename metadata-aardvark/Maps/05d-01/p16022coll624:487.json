@@ -9,7 +9,7 @@
     "Scale 1:100,000; 1 cm. = 1 kilometer"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_creator_sm": [
     "United States. Soil Conservation Service"
@@ -39,9 +39,9 @@
     "North Dakota--Wells County",
     "North Dakota"
   ],
-  "locn_geometry": "POLYGON((-100.069608 47.847651, -99.26571 47.847651, -99.26571 47.326936, -100.069608 47.326936, -100.069608 47.847651))",
-  "dcat_bbox": "ENVELOPE(-100.069608,-99.26571,47.847651,47.326936)",
-  "dcat_centroid": "47.5872935,-99.667659",
+  "locn_geometry": "POLYGON((-100.070 47.848, -99.266 47.848, -99.266 47.327, -100.070 47.327, -100.070 47.848))",
+  "dcat_bbox": "ENVELOPE(-100.070,-99.266,47.848,47.327)",
+  "dcat_centroid": "47.5875,-99.668",
   "pcdm_memberOf_sm": [
     "2787a9e8-0bef-452e-9e5f-e83042c193b4",
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -54,11 +54,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/487/filename/print/page/download/fparams/forcedownload\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:487\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/487/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://cdm16022.contentdm.oclc.org/utils/getfile/collection/p16022coll624/id/487/filename/print/page/download/fparams/forcedownload\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll624/487/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll624:487\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll624/487/manifest.json\"}",
   "id": "p16022coll624:487",
   "dct_identifier_sm": [
     "UMN_ALMA:9939612680001701"
   ],
-  "gbl_mdModified_dt": "2023-06-16T21:58:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }
