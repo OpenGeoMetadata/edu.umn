@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Campus map, St. Cloud State University, St. Cloud, Minnesota",
+  "dct_description_sm": [
+    "Color map showing St. Cloud State University campus and its buildings."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "St. Cloud State University"
+  ],
+  "dct_publisher_sm": [
+    "St. Cloud State University"
+  ],
+  "schema_provider_s": "Minnesota Digital Library, St. Cloud State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dct_subject_sm": [
+    "Education"
+  ],
+  "dcat_keyword_sm": [
+    "St. Cloud State University",
+    " Campus map",
+    " St. Cloud State College",
+    "Universities and colleges"
+  ],
+  "dct_temporal_sm": [
+    "1968"
+  ],
+  "gbl_indexYear_im": [
+    "1968"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1968 TO 1968]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota--Saint Cloud",
+    "Minnesota"
+  ],
+  "locn_geometry": "POLYGON((-94.1550 45.5573, -94.1466 45.5573, -94.1466 45.5409, -94.1550 45.5409, -94.1550 45.5573))",
+  "dcat_bbox": "ENVELOPE(-94.1550,-94.1466,45.5573,45.5409)",
+  "dcat_centroid": "45.549099999999996,-94.1508",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-13"
+  ],
+  "dct_rights_sm": [
+    "The organization that has made the Item available believes that the Item is in the Public Domain under the laws of the United States, but a determination was not made as to its copyright status under the copyright laws of other countries. The Item may not be in the Public Domain under the laws of other countries. Please refer to the organization that has made the Item available for more information.",
+    "http://rightsstatements.org/vocab/NoC-US/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection.mndigital.org/catalog/stc:6630\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/stc:6630/manifest.json\"}",
+  "id": "stc-id-6630",
+  "gbl_mdVersion_s": "Aardvark"
+}
