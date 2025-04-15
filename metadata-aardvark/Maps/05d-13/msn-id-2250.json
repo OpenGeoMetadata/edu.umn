@@ -1,0 +1,54 @@
+{
+  "dct_title_s": "1940 Aquatennial map, Minneapolis, Minnesota",
+  "dct_description_sm": [
+    "Reprint of a 1940 Aquatennial event map, which also shows all streetcar and bus routes."
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "schema_provider_s": "Minnesota Digital Library, Minnesota Streetcar Museum",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Transportation maps "
+  ],
+  "dct_subject_sm": [
+    "Transportation"
+  ],
+  "dcat_keyword_sm": [
+    "Streetcars"
+  ],
+  "dct_temporal_sm": [
+    "1940"
+  ],
+  "gbl_indexYear_im": [
+    "1940"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1940 TO 1940]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota--Minneapolis",
+    "Minnesota--Hennepin County",
+    "Minnesota"
+  ],
+  "locn_geometry": "POLYGON((-93.330 45.050, -93.190 45.050, -93.190 44.890, -93.330 44.890, -93.330 45.050))",
+  "dcat_bbox": "ENVELOPE(-93.330,-93.190,45.050,44.890)",
+  "dcat_centroid": "44.97,-93.25999999999999",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-13"
+  ],
+  "dct_rights_sm": [
+    "This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).",
+    "http://rightsstatements.org/vocab/InC/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection.mndigital.org/catalog/msn:2250\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/msn:2250/manifest.json\"}",
+  "id": "msn-id-2250",
+  "gbl_mdVersion_s": "Aardvark"
+}

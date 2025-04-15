@@ -1,0 +1,61 @@
+{
+  "dct_title_s": "Map of Duluth: City Planning Commission Plat and Land Use Map",
+  "dct_description_sm": [
+    "Central Duluth; East Hillside; 4th to 18th Avenues East; Lake Street to 3rd Street; neighborhood; street names; buildings; schools; parks; Washington Avenue"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "City Planning Commission"
+  ],
+  "schema_provider_s": "Minnesota Digital Library, University of Minnesota Duluth, Kathryn A. Martin Library, Northeast Minnesota Historical Collections",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dct_subject_sm": [
+    "Business and industry"
+  ],
+  "dcat_keyword_sm": [
+    "Neighborhood",
+    "Plat",
+    "Streets",
+    "Endion",
+    "London Road",
+    "Leif Ericson Park",
+    "Chester Creek",
+    "Plaza Shopping Center"
+  ],
+  "dct_temporal_sm": [
+    "1952"
+  ],
+  "gbl_indexYear_im": [
+    "1952"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1952 TO 1952]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota--Duluth",
+    "Minnesota--Saint Louis County",
+    "Minnesota"
+  ],
+  "locn_geometry": "POLYGON((-92.0978 46.8068, -92.0688 46.8068, -92.0688 46.7857, -92.0978 46.7857, -92.0978 46.8068))",
+  "dcat_bbox": "ENVELOPE(-92.0978,-92.0688,46.8068,46.7857)",
+  "dcat_centroid": "46.79625,-92.08330000000001",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-13"
+  ],
+  "dct_rights_sm": [
+    "The organization that has made the Item available reasonably believes that the Item is not restricted by copyright or related rights, but a conclusive determination could not be made. Please refer to the organization that has made the Item available for more information. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.",
+    "http://rightsstatements.org/vocab/NKC/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection.mndigital.org/catalog/nemhc:2775\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/nemhc:2775/manifest.json\"}",
+  "id": "mdl_nemhc-id-2775",
+  "gbl_mdVersion_s": "Aardvark"
+}

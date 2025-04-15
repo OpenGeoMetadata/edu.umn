@@ -1,0 +1,66 @@
+{
+  "dct_title_s": "Map of Duluth: Glen Avon - Hunter's Park Area",
+  "dct_description_sm": [
+    "diagram with 15 item key to houses and buildings; St. Marie Street to Minneapolis Avenue; Lakeview Drive to Carver Avenue"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "L. J. Z."
+  ],
+  "dct_publisher_sm": [
+    "City of Duluth?"
+  ],
+  "schema_provider_s": "Minnesota Digital Library, University of Minnesota Duluth, Kathryn A. Martin Library, Northeast Minnesota Historical Collections",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dct_subject_sm": [
+    "Transportation"
+  ],
+  "dcat_keyword_sm": [
+    "Diagram",
+    "St. Marie Street",
+    "Minneapolis Avenue",
+    "Lake View Drive",
+    "Oatmeal Hill",
+    "Tischer Creek",
+    "Hunter Pond",
+    "Hunter's Hill",
+    "Victoria Street",
+    "Arrowhead Road"
+  ],
+  "dct_temporal_sm": [
+    "1960-06"
+  ],
+  "gbl_indexYear_im": [
+    "1960"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1960 TO 1960]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota--Duluth",
+    "Minnesota--Saint Louis County",
+    "Minnesota"
+  ],
+  "locn_geometry": "POLYGON((-92.0852 46.8390, -92.0652 46.8390, -92.0652 46.8215, -92.0852 46.8215, -92.0852 46.8390))",
+  "dcat_bbox": "ENVELOPE(-92.0852,-92.0652,46.8390,46.8215)",
+  "dcat_centroid": "46.83025,-92.0752",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-13"
+  ],
+  "dct_rights_sm": [
+    "The organization that has made the Item available reasonably believes that the Item is not restricted by copyright or related rights, but a conclusive determination could not be made. Please refer to the organization that has made the Item available for more information. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.",
+    "http://rightsstatements.org/vocab/NKC/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection.mndigital.org/catalog/nemhc:2759\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/nemhc:2759/manifest.json\"}",
+  "id": "mdl_nemhc-id-2759",
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,55 @@
+{
+  "dct_title_s": "Hopkins line streetcar map, Hennepin County, Minnesota",
+  "dct_description_sm": [
+    "Map of the streetcar line from Lake Harriet to Hopkins."
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_creator_sm": [
+    "Twin City Rapid Transit"
+  ],
+  "schema_provider_s": "Minnesota Digital Library, Minnesota Streetcar Museum",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Transportation maps "
+  ],
+  "dct_subject_sm": [
+    "Transportation"
+  ],
+  "dcat_keyword_sm": [
+    "Streetcars"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "gbl_indexYear_im": [
+    "1906"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1906 TO 1906]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota--Minneapolis",
+    "Minnesota--Edina",
+    "Minnesota--Hopkins",
+    "Minnesota--Hennepin County",
+    "Minnesota"
+  ],
+  "locn_geometry": "POLYGON((-93.4011 44.9274, -93.3107 44.9274, -93.3107 44.9148, -93.4011 44.9148, -93.4011 44.9274))",
+  "dcat_bbox": "ENVELOPE(-93.4011,-93.3107,44.9274,44.9148)",
+  "dcat_centroid": "44.921099999999996,-93.35589999999999",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-13"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection.mndigital.org/catalog/msn:1957\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/msn:1957/manifest.json\"}",
+  "id": "msn-id-1957",
+  "gbl_mdVersion_s": "Aardvark"
+}

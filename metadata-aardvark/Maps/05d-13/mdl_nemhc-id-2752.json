@@ -1,0 +1,62 @@
+{
+  "dct_title_s": "Map of Duluth: Morgan Park, Duluth Minnesota",
+  "dct_description_sm": [
+    "diagram of Morgan Park with key to buildings and grounds"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "U. S. Steel Company"
+  ],
+  "dct_publisher_sm": [
+    "U. S. Steel"
+  ],
+  "schema_provider_s": "Minnesota Digital Library, University of Minnesota Duluth, Kathryn A. Martin Library, Northeast Minnesota Historical Collections",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dct_subject_sm": [
+    "Transportation"
+  ],
+  "dcat_keyword_sm": [
+    "Morgan Park",
+    "U. S. Steel Plant",
+    "Plat",
+    "Churches",
+    "School",
+    "Club House"
+  ],
+  "dct_temporal_sm": [
+    "approximately 1918"
+  ],
+  "gbl_indexYear_im": [
+    "1918"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1918 TO 1918]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota--Duluth",
+    "Minnesota--Saint Louis County",
+    "Minnesota"
+  ],
+  "locn_geometry": "POLYGON((-92.2211 46.6970, -92.1997 46.6970, -92.1997 46.6824, -92.2211 46.6824, -92.2211 46.6970))",
+  "dcat_bbox": "ENVELOPE(-92.2211,-92.1997,46.6970,46.6824)",
+  "dcat_centroid": "46.6897,-92.2104",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-13"
+  ],
+  "dct_rights_sm": [
+    "This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).",
+    "http://rightsstatements.org/vocab/InC/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection.mndigital.org/catalog/nemhc:2752\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/nemhc:2752/manifest.json\"}",
+  "id": "mdl_nemhc-id-2752",
+  "gbl_mdVersion_s": "Aardvark"
+}
