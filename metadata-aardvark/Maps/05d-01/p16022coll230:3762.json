@@ -2,9 +2,7 @@
   "dct_title_s": "Carte des nouvelles découvertes",
   "dct_description_sm": [
     "Shown in polar view.; Includes text.; \"Suppl. 6e carte.\"",
-    "14 x 30 centimeters and 14 x 27 centimeters, on sheet 40 x 51 centimeters",
-    "Scale not given.",
-    "General Map Collection"
+    "14 x 30 centimeters and 14 x 27 centimeters, on sheet 40 x 51 centimeters"
   ],
   "dct_language_sm": [
     "fre"
@@ -18,11 +16,6 @@
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "2022-creator-sprint",
-    "BBoxButFlagged",
-    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1752"
@@ -53,7 +46,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3762/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3762\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3762/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3762\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3762/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3762/manifest.json\"}",
   "id": "p16022coll230:3762",
   "dct_identifier_sm": [
     "UMN_ALMA:9962953080001701"

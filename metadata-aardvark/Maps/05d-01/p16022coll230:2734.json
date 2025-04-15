@@ -2,9 +2,7 @@
   "dct_title_s": "Map of the Territory of Hawaii",
   "dct_description_sm": [
     "Coordinates: W 160?30?--W 154?45?/N 22?15?--N 19?.; Relief shown by shading and spot heights.; Inset: Hawaiian Archipelago approximately 1:9,500,000.; \"Andrew B. Graham, Photo-Litho., Washington, D.C.\"",
-    "57 x 86 centimeters",
-    "Scale approximately 1:800,000",
-    "General Map Collection"
+    "57 x 86 centimeters"
   ],
   "dct_language_sm": [
     "eng"
@@ -18,10 +16,6 @@
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1901"
@@ -51,7 +45,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2734/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2734\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2734/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2734\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2734/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2734/manifest.json\"}",
   "id": "p16022coll230:2734",
   "dct_identifier_sm": [
     "UMN_ALMA:9915364350001701"

@@ -2,8 +2,7 @@
   "dct_title_s": "Gray's atlas map of Minnesota",
   "dct_description_sm": [
     "Atlas plates 122 and 123. Longitude west from Greenwich and Washington, D.C.",
-    "23.25 x 16.5 inches",
-    "General Minnesota Maps"
+    "23.25 x 16.5 inches"
   ],
   "dct_language_sm": [
     "eng"
@@ -14,9 +13,6 @@
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Maps"
   ],
   "dct_temporal_sm": [
     "1871"
@@ -43,7 +39,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/185/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:185\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/185/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:185\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/185/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/185/manifest.json\"}",
   "id": "p16022coll247:185",
   "gbl_mdVersion_s": "Aardvark"
 }

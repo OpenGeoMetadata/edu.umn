@@ -2,9 +2,7 @@
   "dct_title_s": "A Plan of the town of Erie with the out lots",
   "dct_description_sm": [
     "Photostats of original manuscript map done approximately 1795 located in the Pennsylvania State Archives.; Part of \"RG - 17 6/5\"; Includes legend.; Relief shown by shading.",
-    "70 x 102 centimeters, on sheets 46 x 61 centimeters",
-    "Scale approximately 1:6,350",
-    "City Maps"
+    "70 x 102 centimeters, on sheets 46 x 61 centimeters"
   ],
   "dct_language_sm": [
     "eng"
@@ -15,11 +13,6 @@
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "2022-creator-sprint",
-    "FixedBBoxes",
-    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1790"
@@ -50,7 +43,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/588/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:588\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/588/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:588\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/588/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/588/manifest.json\"}",
   "id": "p16022coll205:588",
   "dct_identifier_sm": [
     "UMN_ALMA:9925835150001701"

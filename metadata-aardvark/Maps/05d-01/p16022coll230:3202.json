@@ -2,9 +2,7 @@
   "dct_title_s": "Nancy",
   "dct_description_sm": [
     "Relief shown by hachures and spot heights.; Prime meridian: Paris.; Upper right margin: 69.",
-    "51 x 81 centimeters",
-    "Scale [1:80,000]",
-    "General Map Collection"
+    "51 x 81 centimeters"
   ],
   "dct_language_sm": [
     "fre"
@@ -18,10 +16,6 @@
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1918"
@@ -51,7 +45,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3202/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3202\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3202/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3202\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3202/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3202/manifest.json\"}",
   "id": "p16022coll230:3202",
   "dct_identifier_sm": [
     "UMN_ALMA:9953424490001701"

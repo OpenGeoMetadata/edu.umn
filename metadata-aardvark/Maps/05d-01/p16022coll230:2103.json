@@ -1,9 +1,7 @@
 {
   "dct_title_s": "Kansas",
   "dct_description_sm": [
-    "Shows locations of school houses, churches, farms, and Bad River Indian Reservation; also shows Soo Line railroad and part of Chequamegon Bay.; \"Lands colored red are owned by the Soo Line (Wisconsin Central Ry. Land Grant lands.).\"; \"W.H. Killen, land and industrial commissioner, Soo Line.\"; Soo Line logo at head of title and in upper left margin of map.",
-    "Scale [1:1,013,760] 1 inch to 16 miles. 1 inch to 26 kilometers",
-    "General Map Collection"
+    "Shows locations of school houses, churches, farms, and Bad River Indian Reservation; also shows Soo Line railroad and part of Chequamegon Bay.; \"Lands colored red are owned by the Soo Line (Wisconsin Central Ry. Land Grant lands.).\"; \"W.H. Killen, land and industrial commissioner, Soo Line.\"; Soo Line logo at head of title and in upper left margin of map."
   ],
   "dct_language_sm": [
     "eng"
@@ -17,10 +15,6 @@
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1905"
@@ -50,7 +44,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2103/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2103\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2103/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2103\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2103/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2103/manifest.json\"}",
   "id": "p16022coll230:2103",
   "dct_identifier_sm": [
     "UMN_ALMA:9974050409601701"

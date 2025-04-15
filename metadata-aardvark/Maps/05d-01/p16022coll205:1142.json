@@ -2,9 +2,7 @@
   "dct_title_s": "Karte von der Dessawanaÿ Colombo",
   "dct_description_sm": [
     "Colored copperplate print map of the 24 mile x 12 mile area surrounding Colombo. Shows cities and corlas. (\"Partikular-Karte der auf 24 Meilen in der Længe, und 12 in der Breite, umliegenden Colombischen Gegend, worinnen die Dissavonnaÿ, oder Landrosteÿ Colombo, gebethiet.\"); Relief shown pictorially.; Oriented with north toward the left.; \"No. LXII.\" -- top left of sheet.; \"pag. 184.\" -- top right of sheet.; \"J.W. Heÿdt del. 1736 et sculp.\"",
-    "23 x 27 Centimeters, on sheet 33 x 40 Centimeters",
-    "Scale approximately 1:135,000.",
-    "City Maps"
+    "23 x 27 Centimeters, on sheet 33 x 40 Centimeters"
   ],
   "dct_language_sm": [
     "ger"
@@ -15,10 +13,6 @@
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "FixedBBoxes",
-    "bboxSprintJune2023"
   ],
   "dct_issued_s": "1736",
   "gbl_indexYear_im": [
@@ -46,7 +40,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/1142/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:1142\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/1142/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:1142\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/1142/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/1142/manifest.json\"}",
   "id": "p16022coll205:1142",
   "dct_identifier_sm": [
     "UMN_ALMA:9977801691501701"

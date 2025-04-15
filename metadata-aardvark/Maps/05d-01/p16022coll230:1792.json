@@ -2,9 +2,7 @@
   "dct_title_s": "Map of the Upper Mississippi River : from the mouth of the Ohio River to Lake Itasca, Minn. in fifty sheets",
   "dct_description_sm": [
     "Sheets numbered 101 to 150.; Sheets 101-146 drawn by C.W. Clark; sheet 147 drawn by C.W. Clark and H.A.H. d'Ailly; sheets 148-150 drawn by H.A.H. d'Ailly, title page drawn by Paul Burgoldt.; Sheets 101-103 reprinted in 1928.; Relief shown by hachures.; Indicates land ownership.",
-    "sheets 39 x 67 centimeters or smaller +",
-    "Scale [1:63,360] 1 inch to 1 mile",
-    "General Map Collection"
+    "sheets 39 x 67 centimeters or smaller +"
   ],
   "dct_language_sm": [
     "eng"
@@ -18,10 +16,6 @@
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1893-1915"
@@ -51,7 +45,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/1792/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1792\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1792/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1792\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/1792/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1792/manifest.json\"}",
   "id": "p16022coll230:1792",
   "dct_identifier_sm": [
     "UMN_ALMA:9940012940001701"

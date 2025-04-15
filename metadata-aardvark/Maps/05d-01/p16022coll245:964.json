@@ -1,9 +1,7 @@
 {
   "dct_title_s": "Curtice's standard guide map of the city of St. Paul : prepared specially for R.L. Polk & Cos. city directory, 1896",
   "dct_description_sm": [
-    "62 x 84 centimeters on sheet 72 x 103 centimeters",
-    "Scale [1:19,200].",
-    "Minneapolis and St. Paul Maps and Atlases"
+    "62 x 84 centimeters on sheet 72 x 103 centimeters"
   ],
   "dct_language_sm": [
     "eng"
@@ -17,10 +15,6 @@
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1896"
@@ -51,7 +45,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll245/964/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:964\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/964/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:964\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll245/964/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/964/manifest.json\"}",
   "id": "p16022coll245:964",
   "dct_identifier_sm": [
     "UMN_ALMA:9945029810001700"

@@ -1,9 +1,7 @@
 {
   "dct_title_s": "Hudson's indexed map of Minneapolis.",
   "dct_description_sm": [
-    "82 x 52 centimeters",
-    "Scale approximately 1:22,000.",
-    "Minneapolis and St. Paul Maps and Atlases"
+    "82 x 52 centimeters"
   ],
   "dct_language_sm": [
     "eng"
@@ -20,10 +18,6 @@
   ],
   "gbl_resourceType_sm": [
     "Road maps"
-  ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1920 - 1929"
@@ -55,7 +49,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll245/954/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:954\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/954/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll245:954\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll245/954/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll245/954/manifest.json\"}",
   "id": "p16022coll245:954",
   "dct_identifier_sm": [
     "UMN_ALMA:9939888860001700"

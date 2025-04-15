@@ -2,9 +2,7 @@
   "dct_title_s": "Kort over Grónland syd for 75°  N. Br",
   "dct_description_sm": [
     "Relief shown by form lines and spot heights.; Shows explorers' routes.; Includes inset map of all of Greenland, scale 1:6,900,000.",
-    "95 x 70 centimeters, sheets 61 x 79 centimeters",
-    "Scale 1:2,000,000",
-    "General Map Collection"
+    "95 x 70 centimeters, sheets 61 x 79 centimeters"
   ],
   "dct_language_sm": [
     "dan"
@@ -18,10 +16,6 @@
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1926"
@@ -48,7 +42,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/1040/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1040\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1040/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1040\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/1040/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1040/manifest.json\"}",
   "id": "p16022coll230:1040",
   "dct_identifier_sm": [
     "UMN_ALMA:9973981908401701"

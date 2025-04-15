@@ -2,9 +2,7 @@
   "dct_title_s": "Map of the city of New York and its vicinity from actual surveys",
   "dct_description_sm": [
     "Title on folder: S. D. Tilden's map of New York & its vicinity.",
-    "160 x 159 centimeters, in 36 sections, backed with linen and folded to 30 x 28 centimeters",
-    "Scale 1:30,175. 16 centimeter = 3 miles",
-    "City Maps"
+    "160 x 159 centimeters, in 36 sections, backed with linen and folded to 30 x 28 centimeters"
   ],
   "dct_language_sm": [
     "eng"
@@ -18,10 +16,6 @@
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1863"
@@ -48,7 +42,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/557/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:557\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/557/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:557\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/557/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/557/manifest.json\"}",
   "id": "p16022coll205:557",
   "dct_identifier_sm": [
     "UMN_ALMA:9949076270001701"
