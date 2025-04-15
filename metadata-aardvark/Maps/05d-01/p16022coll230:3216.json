@@ -2,9 +2,7 @@
   "dct_title_s": "Scarborough's map of Scotland, shewing counties, all railroad and steamship lines with distances between stations and landings",
   "dct_description_sm": [
     "Includes lists of Scotland burghs and civil counties with 1901 census data.; Includes table of travel distances.; Inset: Shetland and Orkney Islands.; \"No. 331\" in upper left.; \"Printed by the Scarborough Company, Boston, U.S.A.\" in lower left.",
-    "91 x 101 centimeters",
-    "Scale approximately 1:443,520; 7 miles to 1 inch",
-    "General Map Collection"
+    "91 x 101 centimeters"
   ],
   "dct_language_sm": [
     "eng"
@@ -18,10 +16,6 @@
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1901-1910"
@@ -51,7 +45,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3216/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3216\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3216/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3216\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3216/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3216/manifest.json\"}",
   "id": "p16022coll230:3216",
   "dct_identifier_sm": [
     "UMN_ALMA:9975287408901701"

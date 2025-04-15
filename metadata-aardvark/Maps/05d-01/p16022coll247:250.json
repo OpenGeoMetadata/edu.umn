@@ -2,8 +2,7 @@
   "dct_title_s": "Nebraska and Kansas;  Minnesota",
   "dct_description_sm": [
     "Date of copyright registration 1858. Longitude west from Greenwich and Washington, D.C. Map of Minnesota contains inset map of \"Vicinity of the Falls of St. Anthony.\" Map may have been published in 1860.",
-    "10.5 x 12.5 inches",
-    "General Minnesota Maps"
+    "10.5 x 12.5 inches"
   ],
   "dct_language_sm": [
     "eng"
@@ -14,9 +13,6 @@
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Maps"
   ],
   "dct_temporal_sm": [
     "1860"
@@ -45,7 +41,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/250/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:250\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/250/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:250\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/250/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/250/manifest.json\"}",
   "id": "p16022coll247:250",
   "dct_identifier_sm": [
     "UMN_ALMA:9965367810001701"

@@ -2,9 +2,7 @@
   "dct_title_s": "Map of Boston : Cambridge, Somerville, Everett, Chelsea, Winthrop, Revere, Malden, Melrose, Medford, Belmont, Brookline, Winchester, Arlington, Watertown",
   "dct_description_sm": [
     "Inset: Southern Extension.; On verso: Thru Highway Map of Boston and Vicinity -- Boston Elevated Railway System -- Map of Boston Business and Hotel District -- Places of Historical Interest -- Public Buildings, Theatres, Hotels.",
-    "83 x 61 centimeters",
-    "Scale approximately 1:31,680",
-    "City Maps"
+    "83 x 61 centimeters"
   ],
   "dct_language_sm": [
     "eng"
@@ -18,10 +16,6 @@
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1929"
@@ -48,7 +42,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/520/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:520\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/520/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:520\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/520/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/520/manifest.json\"}",
   "id": "p16022coll205:520",
   "dct_identifier_sm": [
     "UMN_ALMA:9974771277501701"

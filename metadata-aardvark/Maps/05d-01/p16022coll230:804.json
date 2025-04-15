@@ -2,9 +2,7 @@
   "dct_title_s": "Map of a portion of the Yukon district North-West Territory with the adjacent northern part of British Columbia to accompany Report of George M. Dawson ... corrected to January 1898",
   "dct_description_sm": [
     "Relief shown by contours.; Trails; Indian villages; posts; topography; notes; etc.; First edition, 1889; to accompany report number 629.; Contents: Sheet 1 (275) [Cassiar District] W 132∞ 30' - W 128∞ 30' / N 59∞ 30' - N 56∞ 30' ; 74 x 51 cm.; Sheet 2 (276) [Southern Yukon: Lower Post to Pelly Lakes] W 132∞ 30' - W 128∞ / N 63∞ - N 60∞ ; 74 x 50 cm.; Sheet 3 (277) [Klondike region: Chilkoot Inlet to Upper Pelly River] W 137∞ 30' - W 133∞ / N 63∞ - 59∞ ; 93 x 51 cm.",
-    "93 x 51 centimeters to 74 x 50 centimeters",
-    "Scale 1:506,880",
-    "General Map Collection"
+    "93 x 51 centimeters to 74 x 50 centimeters"
   ],
   "dct_language_sm": [
     "eng"
@@ -18,10 +16,6 @@
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1898"
@@ -51,7 +45,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/804/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:804\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/804/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:804\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/804/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/804/manifest.json\"}",
   "id": "p16022coll230:804",
   "dct_identifier_sm": [
     "UMN_ALMA:9974002885001701"

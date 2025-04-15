@@ -2,9 +2,7 @@
   "dct_title_s": "Plan of the town of Waterford",
   "dct_description_sm": [
     "Photostats of original manuscript map done approximately 1795 located in the Pennsylvania State Archives.; Includes legend.; Alternate title: A correct Plan of the Town of Waterford and out-lots.; Relief shown by shading.",
-    "52 x 72 centimeters",
-    "Scale [1:4,810]",
-    "City Maps"
+    "52 x 72 centimeters"
   ],
   "dct_language_sm": [
     "eng"
@@ -15,11 +13,6 @@
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "2022-creator-sprint",
-    "FixedBBoxes",
-    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1795"
@@ -49,7 +42,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/566/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:566\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/566/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:566\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/566/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/566/manifest.json\"}",
   "id": "p16022coll205:566",
   "dct_identifier_sm": [
     "UMN_ALMA:9951370520001701"
