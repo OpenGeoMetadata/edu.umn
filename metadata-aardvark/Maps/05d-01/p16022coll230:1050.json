@@ -2,9 +2,7 @@
   "dct_title_s": "Plan shewing the proposed route from Lake Superior to Red River settlement",
   "dct_description_sm": [
     "Includes inset of \"Plan of the country between Red River settlement and the Lake of the Woods\" and \"Profile of canoe route as handed in by Professor Hind.\"",
-    "87 x 147 centimeters",
-    "Scale approximately 1:530,000",
-    "General Map Collection"
+    "87 x 147 centimeters"
   ],
   "dct_language_sm": [
     "eng"
@@ -18,10 +16,6 @@
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
   ],
   "locn_geometry": "POLYGON((-99.483 52.000, -87.967 52.000, -87.967 47.583, -99.483 47.583, -99.483 52.000))",
   "dcat_bbox": "ENVELOPE(-99.483,-87.967,52.000,47.583)",
@@ -38,7 +32,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/1050/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1050\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1050/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:1050\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/1050/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/1050/manifest.json\"}",
   "id": "p16022coll230:1050",
   "dct_identifier_sm": [
     "UMN_ALMA:9975272408601701"

@@ -2,8 +2,7 @@
   "dct_title_s": "Territory of Minnesota",
   "dct_description_sm": [
     "Plate from: Atlas of United States &c., according to text in upper left corner of map sheet.",
-    "17 x 13 inches",
-    "General Minnesota Maps"
+    "17 x 13 inches"
   ],
   "dct_language_sm": [
     "eng"
@@ -17,10 +16,6 @@
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Maps",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1857"
@@ -47,7 +42,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/231/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:231\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/231/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:231\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/231/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/231/manifest.json\"}",
   "id": "p16022coll247:231",
   "dct_identifier_sm": [
     "UMN_ALMA:9940966410001701"

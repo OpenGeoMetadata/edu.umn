@@ -3,9 +3,7 @@
   "dct_description_sm": [
     "Detailed map showing relief by hachures, drainage, township and county boundaries, cities and towns, canals, roads, and railroads.",
     "From his The American Atlas (London, J. Arrowsmith, 1839).; Description derived from published bibliography.",
-    "91 x 124 centimeters",
-    "Scale approximately 1:650,000",
-    "General Map Collection"
+    "91 x 124 centimeters"
   ],
   "dct_language_sm": [
     "eng"
@@ -19,10 +17,6 @@
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1839"
@@ -53,7 +47,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2960/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2960\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2960/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:2960\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/2960/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/2960/manifest.json\"}",
   "id": "p16022coll230:2960",
   "dct_identifier_sm": [
     "UMN_ALMA:9963434950001701"

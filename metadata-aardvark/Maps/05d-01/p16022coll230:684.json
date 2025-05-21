@@ -2,9 +2,7 @@
   "dct_title_s": "Map showing the route of the \"Fram\" and Nansen's and Johansen's sledge journey",
   "dct_description_sm": [
     "Nansen's 'Farthest north, ' Harper & Brothers, New York.",
-    "22 x 39 centimeters",
-    "Scale approximately 1:10,000,000",
-    "General Map Collection"
+    "22 x 39 centimeters"
   ],
   "dct_language_sm": [
     "eng"
@@ -15,10 +13,6 @@
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "FixedBBoxes",
-    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1897"
@@ -48,7 +42,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/684/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:684\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/684/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:684\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/684/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/684/manifest.json\"}",
   "id": "p16022coll230:684",
   "dct_identifier_sm": [
     "UMN_ALMA:9974029793501701"

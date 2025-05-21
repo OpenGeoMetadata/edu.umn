@@ -2,9 +2,7 @@
   "dct_title_s": "County map of Minnesota",
   "dct_description_sm": [
     "Relief shown by hachures.; Shows county boundaries as of 1883, railroads, cities and towns, and roads.; In lower left corner: \"Copyright 1887 by Wm. M. Bradley & Bro.\"; Probably detached from an atlas in which the map is plate no. 81 (number in upper right corner).; Prime meridians: Greenwich and Washington, D.C.",
-    "32 x 28 centimeters",
-    "Scale approximately 1:2,100,000",
-    "General Minnesota Maps"
+    "32 x 28 centimeters"
   ],
   "dct_language_sm": [
     "eng"
@@ -18,10 +16,6 @@
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1887"
@@ -51,7 +45,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/294/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:294\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/294/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:294\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/294/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/294/manifest.json\"}",
   "id": "p16022coll247:294",
   "dct_identifier_sm": [
     "UMN_ALMA:9935552250001701"

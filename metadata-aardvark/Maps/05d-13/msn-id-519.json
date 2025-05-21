@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "How to See the Twin Cities, St. Paul, Minneapolis, Parks, Falls, Mounds, Minnesota",
+  "dct_description_sm": [
+    "Large fold-out brochure promoting tours of the Twin Cities via the streetcar company's streetcars and boats, with photographs, drawings, maps, and text."
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_creator_sm": [
+    "Twin City Rapid Transit"
+  ],
+  "dct_publisher_sm": [
+    "American Bank Note Comapny"
+  ],
+  "schema_provider_s": "Minnesota Digital Library, Minnesota Streetcar Museum",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Transportation maps"
+  ],
+  "dct_subject_sm": [
+    "Transportation"
+  ],
+  "dcat_keyword_sm": [
+    "Streetcars",
+    " Twin City Rapid Transit Company"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "gbl_indexYear_im": [
+    "1911"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1911 TO 1911]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota--Minneapolis",
+    "Minnesota--Saint Paul",
+    "Minnesota--Hennepin County",
+    "Minnesota--Ramsey County",
+    "Minnesota"
+  ],
+  "locn_geometry": "POLYGON((-93.7454 45.100, -92.7246 45.100, -92.7246 44.8635, -93.7454 44.8635, -93.7454 45.100))",
+  "dcat_bbox": "ENVELOPE(-93.7454,-92.7246,45.100,44.8635)",
+  "dcat_centroid": "44.981750000000005,-93.235",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-13"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection.mndigital.org/catalog/msn:519\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/msn:519/manifest.json\"}",
+  "id": "msn-id-519",
+  "gbl_mdVersion_s": "Aardvark"
+}

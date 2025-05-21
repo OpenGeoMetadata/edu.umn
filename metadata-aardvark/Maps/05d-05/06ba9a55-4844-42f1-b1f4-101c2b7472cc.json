@@ -19,10 +19,6 @@
   "dcat_theme_sm": [
     "Environment"
   ],
-  "dcat_keyword_sm": [
-    "Minnesota Geological Survey",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1993"
   ],
@@ -47,7 +43,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22469.pdf\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/956/info.json\",\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:956\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/956/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://reflections.mndigital.org/catalog/mgs:956\",\"http://schema.org/downloadUrl\":[{\"url\":\"ftp://mgsftp2.mngs.umn.edu/map_catalog/pdf/umn22469.pdf\",\"label\":\"PDF\"}],\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/mgs/956/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/mgs/956/manifest.json\"}",
   "id": "06ba9a55-4844-42f1-b1f4-101c2b7472cc",
   "dct_identifier_sm": [
     "06ba9a55-4844-42f1-b1f4-101c2b7472cc"

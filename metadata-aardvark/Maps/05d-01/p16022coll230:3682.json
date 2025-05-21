@@ -2,9 +2,7 @@
   "dct_title_s": "Plan de Jérusalem",
   "dct_description_sm": [
     "Text on both sides of the map.; From: Atlas Historique Et Geographique : Par Buy De Mornas. Le Canut Sculp. Direxit Desnos. Prémier Volume ; 63.; jnul.huji.ac.il/dl/maps/jer/html/jer266.htm",
-    "240x240 mm",
-    "Scale approximately 1:5,000",
-    "General Map Collection"
+    "240x240 mm"
   ],
   "dct_language_sm": [
     "fre"
@@ -18,10 +16,6 @@
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1761"
@@ -51,7 +45,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3682/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3682\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3682/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3682\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3682/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3682/manifest.json\"}",
   "id": "p16022coll230:3682",
   "dct_identifier_sm": [
     "UMN_ALMA:9924331550001701"

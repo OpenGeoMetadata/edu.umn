@@ -2,9 +2,7 @@
   "dct_title_s": "Sectional map of Lake County, Minnesota : compiled from government surveys and county records",
   "dct_description_sm": [
     "Copyright 1922 by Lake County Abstract Company.",
-    "118 x 50 centimeters",
-    "Scale approximately 1:126,720",
-    "Minnesota County Maps, Plat Books, and Atlases"
+    "118 x 50 centimeters"
   ],
   "dct_language_sm": [
     "eng"
@@ -18,10 +16,6 @@
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1922"
@@ -51,7 +45,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/3135/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:3135\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/3135/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll231:3135\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/3135/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/3135/manifest.json\"}",
   "id": "p16022coll231:3135",
   "dct_identifier_sm": [
     "UMN_ALMA:9964590880001701"

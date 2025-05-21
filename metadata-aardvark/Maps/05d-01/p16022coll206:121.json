@@ -1,9 +1,7 @@
 {
   "dct_title_s": "Map of trunk highway system state of Minnesota",
   "dct_description_sm": [
-    "Cartographic Details: Scale [1:760,320]. 1 in. = 12 mi. (W 97¬∞--W 90¬∞/N 49¬∞--N 43¬∞). \"Showing conditions as of May 1, 1923.\" Inset: Minneapolis-Saint Paul and vicinity",
-    "Scale [1:760,320]. 1 inch = 12 miles",
-    "Minnesota Transportation Maps"
+    "Cartographic Details: Scale [1:760,320]. 1 in. = 12 mi. (W 97¬∞--W 90¬∞/N 49¬∞--N 43¬∞). \"Showing conditions as of May 1, 1923.\" Inset: Minneapolis-Saint Paul and vicinity"
   ],
   "dct_language_sm": [
     "eng"
@@ -22,11 +20,9 @@
     "Road maps"
   ],
   "dcat_keyword_sm": [
-    "Roads Minnesota Maps",
+    "Roads",
     "Trucks Routes Minnesota Maps",
-    "Minnesota Maps",
-    "Maps",
-    "2022-creator-sprint"
+    "Minnesota Maps"
   ],
   "dct_temporal_sm": [
     "1923"
@@ -56,7 +52,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll206/121/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll206:121\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll206/121/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll206:121\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll206/121/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll206/121/manifest.json\"}",
   "id": "p16022coll206:121",
   "dct_identifier_sm": [
     "UMN_ALMA:9931907240001701"

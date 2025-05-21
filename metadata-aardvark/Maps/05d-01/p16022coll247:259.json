@@ -2,9 +2,7 @@
   "dct_title_s": "Burritt's sectional and township map of Minnesota",
   "dct_description_sm": [
     "Shows U.S. land offices and boundaries of land districts.Relief shown by hachures.Hand colored.Includes \"Table of distances by railroad and steamboat lines in Minnesota\" and 2 vignettes.",
-    "88 x 80 centimeters",
-    "1:760,000",
-    "General Minnesota Maps"
+    "88 x 80 centimeters"
   ],
   "dct_language_sm": [
     "eng"
@@ -17,10 +15,6 @@
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "Minnesota Maps",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1870"
@@ -47,7 +41,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/259/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:259\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/259/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:259\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/259/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/259/manifest.json\"}",
   "id": "p16022coll247:259",
   "dct_identifier_sm": [
     "UMN_ALMA:9962147480001701"

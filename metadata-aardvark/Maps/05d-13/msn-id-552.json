@@ -1,0 +1,54 @@
+{
+  "dct_title_s": "1939 Bus Guide and City Map, Duluth, Minnesota",
+  "dct_description_sm": [
+    "Fold-out brochure promoting the Duluth-Superior bus system with photos, maps and text."
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_creator_sm": [
+    "Duluth-Superior Transit Company"
+  ],
+  "schema_provider_s": "Minnesota Digital Library, Minnesota Streetcar Museum",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Transportation maps"
+  ],
+  "dct_subject_sm": [
+    "Transportation"
+  ],
+  "dcat_keyword_sm": [
+    "Buses",
+    " Duluth-Superior Transit Co."
+  ],
+  "dct_temporal_sm": [
+    "1939"
+  ],
+  "gbl_indexYear_im": [
+    "1939"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1939 TO 1939]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota--Duluth",
+    "Minnesota--Saint Louis County",
+    "Minnesota"
+  ],
+  "locn_geometry": "POLYGON((-92.301 46.881, -91.920 46.881, -91.920 46.649, -92.301 46.649, -92.301 46.881))",
+  "dcat_bbox": "ENVELOPE(-92.301,-91.920,46.881,46.649)",
+  "dcat_centroid": "46.765,-92.1105",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-13"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection.mndigital.org/catalog/msn:552\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/msn:552/manifest.json\"}",
+  "id": "msn-id-552",
+  "gbl_mdVersion_s": "Aardvark"
+}

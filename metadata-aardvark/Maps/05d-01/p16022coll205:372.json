@@ -2,9 +2,7 @@
   "dct_title_s": "Gray's Atlas Map of New York.",
   "dct_description_sm": [
     "Prime meridians: Greenwich, Washington.  Includes inset maps of : Albany, Troy, Vicinity of New York, Oswego, Buffalo, Rochester, and Syracuse.  Includes on verso : Gray's atlas map of New York City, and Gray's atlas map of Connecticut with portions of New York & Rhode Island.",
-    "42 x 61 centimeters",
-    "Scale approximately 1:1,260,000",
-    "City Maps"
+    "42 x 61 centimeters"
   ],
   "dct_language_sm": [
     "eng"
@@ -22,8 +20,7 @@
   "dcat_keyword_sm": [
     "Connecticut Maps",
     "New York (State) Maps",
-    "Maps",
-    "2022-creator-sprint"
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1873"
@@ -36,7 +33,8 @@
     "[1873 TO 1873]"
   ],
   "dct_spatial_sm": [
-    "Connecticut; New York--New York"
+    "New York--New York",
+    "Connecticut"
   ],
   "locn_geometry": "POLYGON((-74.010 42.050, -71.780 42.050, -71.780 40.660, -74.010 40.660, -74.010 42.050))",
   "dcat_bbox": "ENVELOPE(-74.010,-71.780,42.050,40.660)",
@@ -53,7 +51,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/372/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:372\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/372/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll205:372\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/372/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll205/372/manifest.json\"}",
   "id": "p16022coll205:372",
   "dct_identifier_sm": [
     "UMN_ALMA:9942239400001701"

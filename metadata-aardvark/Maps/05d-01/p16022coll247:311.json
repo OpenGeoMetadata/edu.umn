@@ -2,9 +2,7 @@
   "dct_title_s": "Johnson's Minnesota and Dakota",
   "dct_description_sm": [
     "Shows county boundaries as of 1858?; From: Johnson's new illustrated family atlas / Johnson & Browning. No. 52.; Relief shown by hachures.; Prime meridians: Greenwich, Washington.; Hand colored.",
-    "32 x 41 centimeters",
-    "Scale approximately 1:2,500,000",
-    "General Minnesota Maps"
+    "32 x 41 centimeters"
   ],
   "dct_language_sm": [
     "eng"
@@ -18,10 +16,6 @@
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1858"
@@ -51,7 +45,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/311/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:311\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/311/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:311\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/311/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/311/manifest.json\"}",
   "id": "p16022coll247:311",
   "dct_identifier_sm": [
     "UMN_ALMA:9957882980001701"

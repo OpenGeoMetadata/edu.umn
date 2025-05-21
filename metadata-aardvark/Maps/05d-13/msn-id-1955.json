@@ -1,0 +1,54 @@
+{
+  "dct_title_s": "Mahtomedi streetcar map, Washington County, Minnesota",
+  "dct_description_sm": [
+    "Map of the Mahtomedi streetcar branch."
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_creator_sm": [
+    "Twin City Rapid Transit"
+  ],
+  "schema_provider_s": "Minnesota Digital Library, Minnesota Streetcar Museum",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Transportation maps "
+  ],
+  "dct_subject_sm": [
+    "Transportation"
+  ],
+  "dcat_keyword_sm": [
+    "Streetcars"
+  ],
+  "dct_temporal_sm": [
+    "1917"
+  ],
+  "gbl_indexYear_im": [
+    "1917"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1917 TO 1917]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota--Willernie",
+    "Minnesota--Mahtomedi",
+    "Minnesota--Washington County",
+    "Minnesota"
+  ],
+  "locn_geometry": "POLYGON((-92.9687 45.0821, -92.9393 45.0821, -92.9393 45.0549, -92.9687 45.0549, -92.9687 45.0821))",
+  "dcat_bbox": "ENVELOPE(-92.9687,-92.9393,45.0821,45.0549)",
+  "dcat_centroid": "45.0685,-92.95400000000001",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-13"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection.mndigital.org/catalog/msn:1955\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/msn:1955/manifest.json\"}",
+  "id": "msn-id-1955",
+  "gbl_mdVersion_s": "Aardvark"
+}

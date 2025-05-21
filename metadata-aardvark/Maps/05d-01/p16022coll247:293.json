@@ -2,9 +2,7 @@
   "dct_title_s": "County map of Minnesota",
   "dct_description_sm": [
     "Relief shown by hachures and spot heights.; Shows Minnesota counties as of 1873, cities and towns, railroads, and natural features.; At base of map: \"Entered according to Act of Congress in the year 1875 by S. Augustus Mitchell in the Office of the Librarian of Congress at Washington.\"; In upper right corner: 77.; Probably detached from an atlas in which the map occupies plate no. 77.; Prime meridians: Greenwich and Washington, D.C.",
-    "32 x 28 centimeters",
-    "Scale approximately 1:2,100,000",
-    "General Minnesota Maps"
+    "32 x 28 centimeters"
   ],
   "dct_language_sm": [
     "eng"
@@ -18,10 +16,6 @@
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1875"
@@ -51,7 +45,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/293/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:293\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/293/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:293\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/293/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/293/manifest.json\"}",
   "id": "p16022coll247:293",
   "dct_identifier_sm": [
     "UMN_ALMA:9915624570001701"

@@ -3,9 +3,7 @@
   "dct_description_sm": [
     "Map shows land district boundaries in Assiniboia District, which is now Saskatchewan.",
     "Relief shown by shading and spot heights.; Inset: Hawaiian Archipelago, scale [approximately 1:9,500,000].; Includes table of distances \"from Honolulu to the principal ports of the Pacific.\"",
-    "50 x 99 centimeters",
-    "Scale 1:792,000; 12 1/2 miles to 1 inch",
-    "General Map Collection"
+    "50 x 99 centimeters"
   ],
   "dct_language_sm": [
     "eng"
@@ -19,10 +17,6 @@
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1903"
@@ -52,7 +46,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/657/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:657\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/657/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:657\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/657/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/657/manifest.json\"}",
   "id": "p16022coll230:657",
   "dct_identifier_sm": [
     "UMN_ALMA:9973999684401701"

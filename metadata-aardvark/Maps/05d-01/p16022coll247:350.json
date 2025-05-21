@@ -2,9 +2,7 @@
   "dct_title_s": "Johnson's Minnesota",
   "dct_description_sm": [
     "Shows county boundaries as of 1870.; From: Johnson's new illustrated family atlas of the world / A.J. Johnson. 1870. nos. 74-75.; Prime meridians: Greenwich, Washington.; Inset: North eastern part of Minnesota.",
-    "59 x 42 centimeters",
-    "Scale approximately 1:1,200,000",
-    "General Minnesota Maps"
+    "59 x 42 centimeters"
   ],
   "dct_language_sm": [
     "eng"
@@ -18,10 +16,6 @@
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1869"
@@ -48,7 +42,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/350/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:350\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/350/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:350\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/350/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/350/manifest.json\"}",
   "id": "p16022coll247:350",
   "dct_identifier_sm": [
     "UMN_ALMA:9957871590001701"

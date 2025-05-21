@@ -1,0 +1,55 @@
+{
+  "dct_title_s": "Map of streetcar system underground electrical conduits, Minneapolis and St. Paul, Minnesota",
+  "dct_description_sm": [
+    "Map of the electrical underground conduits showing individual manholes and substations in Minneapolis and St. Paul, Minnesota."
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_creator_sm": [
+    "Twin City Rapid Transit"
+  ],
+  "schema_provider_s": "Minnesota Digital Library, Minnesota Streetcar Museum",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Transportation maps "
+  ],
+  "dct_subject_sm": [
+    "Transportation"
+  ],
+  "dcat_keyword_sm": [
+    "Streetcars"
+  ],
+  "dct_temporal_sm": [
+    "1925"
+  ],
+  "gbl_indexYear_im": [
+    "1925"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1925 TO 1925]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota--Minneapolis",
+    "Minnesota--Saint Paul",
+    "Minnesota--Hennepin County",
+    "Minnesota--Ramsey County",
+    "Minnesota"
+  ],
+  "locn_geometry": "POLYGON((-93.3339 45.0075, -93.0473 45.0075, -93.0473 44.9129, -93.3339 44.9129, -93.3339 45.0075))",
+  "dcat_bbox": "ENVELOPE(-93.3339,-93.0473,45.0075,44.9129)",
+  "dcat_centroid": "44.9602,-93.1906",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "05d-13"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection.mndigital.org/catalog/msn:1876\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/msn:1876/manifest.json\"}",
+  "id": "msn-id-1876",
+  "gbl_mdVersion_s": "Aardvark"
+}

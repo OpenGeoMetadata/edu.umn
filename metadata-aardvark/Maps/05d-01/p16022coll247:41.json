@@ -1,9 +1,7 @@
 {
   "dct_title_s": "Kenyon's highway map of Minnesota : showing all counties, townships, cities, villages, post offices, railroads and stations",
   "dct_description_sm": [
-    "107 x 76 centimeters on sheets each 67 x 102 centimeters",
-    "Scale [1:601,920]. 1 in. = 9.5 mi.",
-    "General Minnesota Maps"
+    "107 x 76 centimeters on sheets each 67 x 102 centimeters"
   ],
   "dct_language_sm": [
     "eng"
@@ -19,10 +17,9 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Roads Minnesota Maps",
+    "Roads",
     "Railroads Minnesota Maps",
-    "Electric Lines Minnesota Maps",
-    "2022-creator-sprint"
+    "Electric Lines Minnesota Maps"
   ],
   "dct_temporal_sm": [
     "1916"
@@ -49,7 +46,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/41/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:41\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/41/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll247:41\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll247/41/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/41/manifest.json\"}",
   "id": "p16022coll247:41",
   "dct_identifier_sm": [
     "UMN_ALMA:9951755170001700"

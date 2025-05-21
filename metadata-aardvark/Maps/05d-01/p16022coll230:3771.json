@@ -1,9 +1,7 @@
 {
   "dct_title_s": "L'Afrique : divisée suivant l'estendue ses principales parties ou sont distingués les uns des autres les empires, monarchies, royaumes, estats, et peuples qui partagent aujord'huy l'Afrique",
   "dct_description_sm": [
-    "Also shows a portion of eastern Brazil.",
-    "Scale [1:30,000,000]",
-    "General Map Collection"
+    "Also shows a portion of eastern Brazil."
   ],
   "dct_language_sm": [
     "fre"
@@ -17,10 +15,6 @@
   "schema_provider_s": "University of Minnesota",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1685"
@@ -50,7 +44,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3771/info.json\",\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3771\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3771/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://umedia.lib.umn.edu/item/p16022coll230:3771\",\"http://iiif.io/api/image\":\"https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll230/3771/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/3771/manifest.json\"}",
   "id": "p16022coll230:3771",
   "dct_identifier_sm": [
     "UMN_ALMA:9956988060001701"
