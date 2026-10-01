@@ -1,4 +1,6 @@
-# Geospatial metadata for the University of Minnesota
+# Deprecated - [see the geobtaa repo](https://github.com/OpenGeoMetadata/geobtaa)
+
+## Geospatial metadata for the University of Minnesota
 
 `metadata-version-1`: JSON metadata, [GeoBlacklight Metadata Schema 1.0](https://opengeometadata.org/gbl-1.0).
 
